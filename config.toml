@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "श्रीमद् भगवद्गीता | Srimad Bhagavat Gita"
+theme = "book"
+publishDir = "docs"
+
+[params]
+	author = "baba"
+	description = "Web based bhagwat geeta reader."
+	bio = ""
+	googleAnalytics = "UA-16978408-4"
+	enableGoogleAnalytics = true
