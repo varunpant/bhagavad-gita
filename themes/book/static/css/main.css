@@ -4,6 +4,8 @@
 }
 body{
 	font-family: ArialMT,Helvetica Neue,Arial,Liberation Sans,FreeSans,sans-serif;
+    font-size: 1em;
+    line-height: 2em;
 }
 a:link, a:visited {
     text-decoration: none;
@@ -43,6 +45,7 @@ pre {
   padding:10px;
   background: #f7f7f0;
 }
+ 
 .circle-buttons {
     background-color: #fff;
     z-index: 5;

@@ -1,6 +1,6 @@
 baseURL = "https://bhagwadgita.info/"
 languageCode = "en-us"
-title = "श्रीमद् भगवद्गीता | Srimad Bhagavat Gita"
+title = "श्रीमद् भगवद्गीता"
 theme = "book"
 publishDir = "docs"
 
@@ -8,5 +8,4 @@ publishDir = "docs"
 	author = "baba"
 	description = "Web based bhagwat geeta reader."
 	bio = ""
-	googleAnalytics = "UA-16978408-4"
-	enableGoogleAnalytics = true
+	

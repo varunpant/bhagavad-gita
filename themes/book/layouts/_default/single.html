@@ -4,5 +4,5 @@
   {{.Content}}
  
 <script src="{{ .Site.BaseURL }}js/main.js"></script>
-{{ with .Site.Params.AnalyticsID }}{{ partial "analytics.html" . }}{{ end }}
+{{ partial "analytics.html" . }}
 {{ end }}
