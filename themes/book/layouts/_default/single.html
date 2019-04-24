@@ -1,8 +1,11 @@
 {{ define "main" }}
 <h2 class="title">{{.Title}}</h2>
- 
+  
   {{.Content}}
+
+  {{ partial "pagination.html" . }}
  
-<script src="{{ .Site.BaseURL }}js/main.js"></script>
+
 {{ partial "analytics.html" . }}
+<script src="{{ .Site.BaseURL }}js/main.js"></script>
 {{ end }}
