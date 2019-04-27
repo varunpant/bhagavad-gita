@@ -53,7 +53,6 @@ def main():
         for row in reader: 
             counter = row["counter"]
             nts = ts + timedelta(minutes=int(counter))
-            #2019-04-21T21:21:19+01:00
             fnts = nts.replace(tzinfo=timezone.utc).isoformat()
             chapter = row["chapter"]
             sutra = row["sutra"]

@@ -2,6 +2,10 @@
 	margin: 0px;
 	padding: 0px;
 }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 body{
 	font-family: ArialMT,Helvetica Neue,Arial,Liberation Sans,FreeSans,sans-serif;
     font-size: 1em;
@@ -49,6 +53,11 @@ pre {
   padding:10px;
   background: #f7f7f0;
 }
+code{
+    font-family:inherit !important ;
+     font-size: larger !important ;
+    line-height: inherit !important ;
+}
  
 .circle-buttons {
     background-color: #fff;
@@ -81,6 +90,16 @@ pre {
     top:50%;
     margin-top:-25px;
 }
+
+@media screen and (min-width: 200px) and (max-width: 700px) {
+     
+
+.prev-arrow,.next-arrow{  top:85%; }
+ 
+
+
+  }
+
 .idx { 
     
     overflow: auto;
@@ -89,27 +108,16 @@ pre {
     padding: 5px;
     border: 1px dotted;
     width: 100px;
-    height: 50px;
+    height: 30px;
     float: left;
     text-align: center;
 }
 .footer{
-    display: none;
-    padding: 12.5px 16px;
+    
+    display: block; 
+    height: 200px;
      
-    border-top: 1px solid #ddd;
-    background-color: #fff;
-    z-index: 51!important;
-     
-    left: 0;
-    right: 0;
-    bottom: 0px;
-    height:70px;
-    width: 100%;
-    z-index: 99;
-     
-    position: fixed;
-    transition: transform .2s ease-out;
+    
 }
 .directory h3{
     margin-top: 10px;
