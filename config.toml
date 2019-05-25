@@ -6,6 +6,6 @@ publishDir = "docs"
 
 [params]
 	author = "baba"
-	description = "Web based bhagwat geeta reader."
+	description = "Srimad Bhagavad-Gita online."
 	bio = ""
 	
