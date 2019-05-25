@@ -6,12 +6,13 @@
 </head>
 
 <body>
+	
 	<div class="container">
-
+		
 		{{ partial "header.html" . }}
 
 		<div id="content">
-
+			 
 			<div class="info">
 				<p>
 				The Bhagavad Gita manuscript is found in the sixth book of the Mahabharata manuscripts – the Bhisma-parvan. 
@@ -28,7 +29,7 @@
 						<div class="idx">
 						{{ range .Pages.ByParam "sutra"}}
 							<div class="items">
-								<h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+								<h2 class="post-title"><a href="{{ .Permalink }}">Sutra {{ .Params.sutra  }}</a></h2>
 							</div>
 						{{ end }}
 						</div>
@@ -45,5 +46,5 @@
 	{{ partial "analytics.html" . }}
 
 </body>
-
+<script src="/js/main.js" > </script>
 </html>

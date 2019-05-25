@@ -1,0 +1,13 @@
+
+<div id="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">CLOSE</a>
+   {{ $currentPage := .Title}}
+   {{ range .Site.Pages.GroupByParam "chapter" "asc"}}
+						<button class="accordion">CHAPTER {{ .Key }}</button>
+            <div class="panel">
+						{{ range .Pages.ByParam "sutra"}}
+							 <a href="{{ .Permalink }}"  class="{{ if eq .Title $currentPage }}current{{ end }}"  >Sutra {{ .Params.sutra }}</a> 
+						{{ end }}
+            </div>
+		{{ end }}
+</div>
