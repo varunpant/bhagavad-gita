@@ -240,7 +240,7 @@ code {
     ACCORDION
  */
   .accordion {
-    background-color: #eee;
+    background-color: #f7f7f0;
     color: #444;
     cursor: pointer;
     padding: 18px;
@@ -252,7 +252,16 @@ code {
   }
 
   .accordion.active, .accordion:hover {
-    background-color: #ccc;
+    background-color: #d1d189;
+  }
+  .accordion i{
+    transition: 0.5s;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+  .accordion.active i{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
   }
 
   .panel {
@@ -262,3 +271,23 @@ code {
     overflow: hidden;
      
   }
+  #foot-img{
+    display: flex;
+  justify-content: center;
+   
+  }
+  #foot-img img{
+    
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 20px;
+  }
+
+  .accordion i {
+    border: solid black;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+   
