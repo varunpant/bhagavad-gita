@@ -62,7 +62,8 @@ var getParams = function(navlink){
 }
 
 var preopenAccordion = function(chapter){
-  document.getElementById("btn"+chapter).click();
+  var ac = document.getElementById("btn"+chapter);
+  if(ac){ac.click()};
 }
 var initAppState = function(){
   var KEY = "VERSE"
