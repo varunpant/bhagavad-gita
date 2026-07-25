@@ -1,0 +1,68 @@
+{{/*
+  JSON-LD. Gives search engines an explicit model of the site: a WebSite at the
+  root, and every verse as a chapter-of-a-book with a breadcrumb trail back to
+  its chapter. This is what earns sitelinks and rich breadcrumbs in results.
+
+  Called with: (dict "page" . "meta" <chapter data or ""> "title" .. "desc" ..)
+*/}}
+{{ $p := .page }}
+{{ $meta := .meta }}
+
+{{ if $p.IsHome }}
+<script type="application/ld+json">
+{{ dict
+    "@context" "https://schema.org"
+    "@type" "WebSite"
+    "name" site.Title
+    "alternateName" "Bhagavad Gita"
+    "url" site.BaseURL
+    "description" .desc
+    "inLanguage" (slice "sa" "hi" "en")
+  | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+<script type="application/ld+json">
+{{ dict
+    "@context" "https://schema.org"
+    "@type" "Book"
+    "name" "Bhagavad Gita"
+    "alternateName" "श्रीमद् भगवद्गीता"
+    "url" site.BaseURL
+    "author" (dict "@type" "Person" "name" "Vyasa")
+    "numberOfPages" 18
+    "inLanguage" "sa"
+    "genre" "Scripture"
+  | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{ end }}
+
+{{ if and $p.Params.chapter $p.Params.sutra }}
+<script type="application/ld+json">
+{{ dict
+    "@context" "https://schema.org"
+    "@type" "Chapter"
+    "name" .title
+    "description" .desc
+    "url" $p.Permalink
+    "position" $p.Params.position
+    "isPartOf" (dict
+      "@type" "Book"
+      "name" "Bhagavad Gita"
+      "url" site.BaseURL)
+    "inLanguage" (slice "sa" "hi" "en")
+  | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+<script type="application/ld+json">
+{{ $chapterName := printf "Chapter %v" $p.Params.chapter }}
+{{ with $meta }}{{ $chapterName = printf "Chapter %v — %s" $p.Params.chapter .en }}{{ end }}
+{{ dict
+    "@context" "https://schema.org"
+    "@type" "BreadcrumbList"
+    "itemListElement" (slice
+      (dict "@type" "ListItem" "position" 1 "name" "Bhagavad Gita" "item" site.BaseURL)
+      (dict "@type" "ListItem" "position" 2 "name" $chapterName
+            "item" (printf "%schapter-%v/" site.BaseURL $p.Params.chapter))
+      (dict "@type" "ListItem" "position" 3
+            "name" (printf "Verse %v" $p.Params.sutra) "item" $p.Permalink))
+  | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{ end }}

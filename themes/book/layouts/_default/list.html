@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ $n := "" }}
+{{ with .Pages }}{{ $n = (index . 0).Params.chapter }}{{ end }}
+{{ $meta := index hugo.Data.chapters (string $n) }}
+
+<div class="chapter-page">
+  <h1 class="title">Chapter {{ $n | default .Title }}</h1>
+  {{ with $meta }}
+  <p class="chapter-page__names">
+    <span class="chapter-page__sa">{{ .sa }}</span>
+    <span class="chapter-page__en">{{ .en }}</span>
+  </p>
+  {{ end }}
+
+  <div class="verse-grid verse-grid--page">
+    {{ range sort .Pages "Params.sutra" }}
+      <a class="verse" href="{{ .RelPermalink }}">{{ .Params.sutra }}</a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

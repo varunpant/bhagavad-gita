@@ -1,0 +1,797 @@
+/* =================================================================
+   Bhagavad Gita — theme "book"
+   ================================================================= */
+
+:root {
+    --nav-width: 300px;
+    --nav-ease: cubic-bezier(.32, .72, 0, 1);
+    --nav-duration: 320ms;
+
+    --ink: #2b2b2b;
+    --ink-soft: #6b6b6b;
+    --maroon: #800000;
+    --cream: #f7f7f0;
+    --rule: #e6e2d6;
+
+    /* highlight */
+    --accent-1: #ffd24a;
+    --accent-2: #ff8a1f;
+    --accent-grad: linear-gradient(135deg, #ffd24a 0%, #ffab2e 45%, #ff8a1f 100%);
+    --accent-grad-soft: linear-gradient(135deg, #fff3cf 0%, #ffe2ab 100%);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Mukta', sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+    color: var(--ink);
+    background: #fff;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: var(--maroon);
+}
+
+.skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    z-index: 100;
+    background: #fff;
+    padding: 10px 16px;
+    border: 2px solid var(--accent-2);
+}
+
+.skip-link:focus {
+    left: 8px;
+    top: 8px;
+}
+
+/* ---------- header ------------------------------------------------ */
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    border-bottom: 1px solid var(--rule);
+    min-height: 70px;
+    padding: 10px 16px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.site-title {
+    margin: 0 auto;
+    font-size: 1.6rem;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.site-title a {
+    line-height: inherit;
+    text-decoration: none;
+}
+
+/* Keeps the title optically centred against the burger on the left. */
+.header__spacer {
+    width: 35px;
+    flex: none;
+}
+
+/* ---------- burger ------------------------------------------------ */
+
+.burger {
+    flex: none;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    padding: 8px 7px;
+    background: none;
+    border: 0;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+
+.burger:hover {
+    background: var(--accent-grad-soft);
+}
+
+.burger:focus-visible {
+    outline: 2px solid var(--accent-2);
+    outline-offset: 2px;
+}
+
+.burger .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    border-radius: 2px;
+    background-color: #333;
+    transition: transform var(--nav-duration) var(--nav-ease),
+                opacity 160ms linear;
+}
+
+.nav-open .burger .bar1 {
+    transform: translateY(8px) rotate(-45deg);
+}
+
+.nav-open .burger .bar2 {
+    opacity: 0;
+}
+
+.nav-open .burger .bar3 {
+    transform: translateY(-8px) rotate(45deg);
+}
+
+/* ---------- content ----------------------------------------------- */
+
+.content {
+    margin: 0 auto;
+    width: 83.33333%;
+    max-width: 900px;
+    padding-bottom: 40px;
+}
+
+h1,
+h2 {
+    margin: 20px 10px;
+    padding: 10px;
+}
+
+.content h1.title {
+    font-size: 1.9rem;
+    line-height: 1.3;
+}
+
+h3 {
+    margin: 10px 20px;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+    background: var(--cream);
+    border-left: 3px solid var(--accent-1);
+    border-radius: 0 6px 6px 0;
+}
+
+code {
+    font-family: inherit !important;
+    font-size: larger !important;
+    line-height: inherit !important;
+    display: block;
+    text-align: center;
+    white-space: normal;
+}
+
+.verse-page__eyebrow {
+    margin: 18px 10px 0;
+    padding: 0 10px;
+    font-size: .85rem;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+}
+
+.verse-page__chapter-name {
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+.title {
+    margin-top: 4px;
+}
+
+/* ---------- prev / next ------------------------------------------- */
+
+.circle-buttons {
+    background-color: #fff;
+    z-index: 5;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: 1px solid #d4d4d4;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .23);
+    display: flex;
+    align-items: center;
+    transition: background 200ms linear, box-shadow 200ms linear;
+}
+
+.circle-buttons:hover {
+    background: var(--accent-grad);
+    border-color: transparent;
+    box-shadow: 0 2px 10px rgba(255, 138, 31, .45);
+}
+
+.reader-arrow {
+    margin: auto;
+}
+
+.prev-arrow {
+    position: fixed;
+    left: 20px;
+    top: 50%;
+    margin-top: -25px;
+}
+
+.next-arrow {
+    position: fixed;
+    right: 20px;
+    top: 50%;
+    margin-top: -25px;
+}
+
+@media screen and (max-width: 700px) {
+
+    .prev-arrow,
+    .next-arrow {
+        top: auto;
+        bottom: 16px;
+        margin-top: 0;
+    }
+}
+
+/* ---------- verse grids (homepage, chapter pages, nav) ------------- */
+
+.verse-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(44px, 1fr));
+    gap: 6px;
+}
+
+.verse-grid--page {
+    grid-template-columns: repeat(auto-fill, minmax(52px, 1fr));
+    margin: 0 10px 28px;
+}
+
+.verse {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 40px;
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    background: #fff;
+    font-size: .95rem;
+    line-height: 1;
+    color: var(--ink) !important;
+    transition: background 180ms linear, border-color 180ms linear,
+                color 180ms linear, transform 180ms var(--nav-ease);
+}
+
+.verse:hover {
+    background: var(--accent-grad-soft);
+    border-color: var(--accent-1);
+    transform: translateY(-1px);
+}
+
+.verse:focus-visible {
+    outline: 2px solid var(--accent-2);
+    outline-offset: 1px;
+}
+
+.verse.is-current {
+    background: var(--accent-grad);
+    border-color: transparent;
+    color: #4a2600 !important;
+    font-weight: 700;
+    box-shadow: 0 2px 8px rgba(255, 138, 31, .5);
+}
+
+/* ---------- homepage directory ------------------------------------ */
+
+/* ---------- homepage hero ----------------------------------------- */
+
+.hero {
+    position: relative;
+    overflow: hidden;
+    margin: 24px 10px 28px;
+    padding: 44px 44px 38px;
+    border-radius: 18px;
+    color: #4a2600;
+    background: linear-gradient(135deg, #ffe08a 0%, #ffc247 38%, #ff8a1f 100%);
+    box-shadow: 0 10px 30px rgba(255, 138, 31, .28);
+}
+
+/* Soft light bloom in the corner so the flat gradient reads as depth. */
+.hero::after {
+    content: "";
+    position: absolute;
+    top: -140px;
+    right: -110px;
+    width: 420px;
+    height: 420px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(255, 255, 255, .55) 0%, rgba(255, 255, 255, 0) 70%);
+    pointer-events: none;
+}
+
+.hero__inner {
+    position: relative;
+    z-index: 1;
+    max-width: 640px;
+}
+
+.hero__kicker {
+    font-size: 1.35rem;
+    line-height: 1.6;
+    letter-spacing: .02em;
+}
+
+.hero__title {
+    margin: 0;
+    padding: 0;
+    font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1.2;
+    letter-spacing: -.01em;
+}
+
+.hero__lede {
+    margin-top: 12px;
+    max-width: 46ch;
+    line-height: 1.7;
+    color: #5c3000;
+}
+
+.hero__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 22px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 22px;
+    border-radius: 999px;
+    border: 1px solid rgba(74, 38, 0, .35);
+    background: rgba(255, 255, 255, .55);
+    color: #4a2600 !important;
+    font-weight: 600;
+    line-height: 1.6;
+    transition: transform 160ms var(--nav-ease), box-shadow 160ms linear,
+                background 160ms linear;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+    background: #fff;
+    box-shadow: 0 4px 14px rgba(74, 38, 0, .2);
+}
+
+.btn--primary {
+    background: #4a2600;
+    border-color: #4a2600;
+    color: #ffe9c2 !important;
+}
+
+.btn--primary:hover {
+    background: #6b3a00;
+    color: #fff !important;
+}
+
+.hero__stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 28px;
+    margin-top: 28px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(74, 38, 0, .2);
+}
+
+.hero__stats dt {
+    font-size: .72rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: #6b3a00;
+    line-height: 1.4;
+}
+
+.hero__stats dd {
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+@media screen and (max-width: 600px) {
+    .hero {
+        margin: 16px 0 24px;
+        padding: 28px 24px 26px;
+        border-radius: 14px;
+    }
+
+    .hero__stats {
+        gap: 18px;
+    }
+}
+
+.info {
+    margin: 20px 10px;
+    padding: 16px 20px;
+    background: var(--cream);
+    border-left: 3px solid var(--accent-1);
+    border-radius: 0 6px 6px 0;
+}
+
+.resume {
+    margin: 0 10px 20px;
+}
+
+.resume__link {
+    display: inline-block;
+    padding: 8px 18px;
+    border-radius: 999px;
+    background: var(--accent-grad);
+    color: #4a2600 !important;
+    font-weight: 600;
+    line-height: 1.6;
+    box-shadow: 0 2px 8px rgba(255, 138, 31, .4);
+}
+
+.directory__heading {
+    margin: 24px 10px 10px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--rule);
+    font-size: 1rem;
+}
+
+.directory__heading a {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 10px;
+}
+
+.directory__num {
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+}
+
+.directory__sa {
+    color: var(--ink);
+}
+
+.directory__en {
+    color: var(--ink-soft);
+    font-size: .85rem;
+    font-weight: 400;
+}
+
+.chapter-page__names {
+    margin: 0 10px 20px;
+    padding: 0 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: baseline;
+}
+
+.chapter-page__en {
+    color: var(--ink-soft);
+    font-size: .9rem;
+}
+
+/* =================================================================
+   SIDE NAVIGATION
+   ================================================================= */
+
+.sidenav {
+    position: fixed;
+    z-index: 40;
+    top: 0;
+    left: 0;
+    width: var(--nav-width);
+    max-width: 86vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border-right: 1px solid var(--rule);
+    box-shadow: 4px 0 24px rgba(0, 0, 0, .08);
+
+    /* Animate transform, never width: width forces a full relayout of ~700
+       links on every frame, which is what made the old drawer stutter. */
+    transform: translate3d(-100%, 0, 0);
+    transition: transform var(--nav-duration) var(--nav-ease),
+                visibility 0s linear var(--nav-duration);
+    visibility: hidden;
+    will-change: transform;
+}
+
+.nav-open .sidenav {
+    transform: translate3d(0, 0, 0);
+    visibility: visible;
+    transition: transform var(--nav-duration) var(--nav-ease),
+                visibility 0s;
+}
+
+.sidenav__head {
+    flex: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    min-height: 70px;
+    padding: 10px 8px 10px 20px;
+    border-bottom: 1px solid var(--rule);
+    background: var(--accent-grad);
+}
+
+.sidenav__brand {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #4a2600;
+}
+
+.sidenav__close {
+    flex: none;
+    width: 40px;
+    height: 40px;
+    font-size: 1.6rem;
+    line-height: 1;
+    cursor: pointer;
+    border: 0;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, .45);
+    color: #4a2600;
+}
+
+.sidenav__close:hover {
+    background: rgba(255, 255, 255, .8);
+}
+
+/* The scroll container, not the nav itself — the header stays pinned and
+   overscroll-behavior stops the page behind the drawer from scrolling. */
+.sidenav__scroll {
+    flex: 1 1 auto;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* ---------- chapter accordion (native <details>) ------------------- */
+
+.chapter {
+    border-bottom: 1px solid var(--rule);
+}
+
+.chapter__summary {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    cursor: pointer;
+    list-style: none;
+    line-height: 1.35;
+    background: #fff;
+    transition: background 180ms linear;
+
+    /* Sticks while its (possibly 78-verse) grid scrolls past. */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.chapter__summary::-webkit-details-marker {
+    display: none;
+}
+
+.chapter__summary:hover {
+    background: var(--accent-grad-soft);
+}
+
+.chapter__summary:focus-visible {
+    outline: 2px solid var(--accent-2);
+    outline-offset: -2px;
+}
+
+.chapter[open] > .chapter__summary,
+.chapter.is-current-chapter > .chapter__summary {
+    background: var(--accent-grad);
+}
+
+.chapter[open] > .chapter__summary .chapter__en,
+.chapter.is-current-chapter > .chapter__summary .chapter__en {
+    color: #6b3a00;
+}
+
+.chapter__num {
+    flex: none;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 1px solid var(--rule);
+    background: #fff;
+    font-size: .8rem;
+    font-weight: 700;
+}
+
+.chapter__names {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.chapter__sa,
+.chapter__en {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.chapter__sa {
+    font-size: .95rem;
+}
+
+.chapter__en {
+    font-size: .72rem;
+    color: var(--ink-soft);
+}
+
+.chapter__count {
+    flex: none;
+    font-size: .7rem;
+    color: var(--ink-soft);
+}
+
+/* Smooth open/close: animating grid-template-rows 0fr -> 1fr is the one
+   way to transition to an unknown content height without measuring it in JS. */
+.chapter__panel {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows var(--nav-duration) var(--nav-ease);
+}
+
+.chapter[open] .chapter__panel {
+    grid-template-rows: 1fr;
+}
+
+.chapter__panel > .verse-grid {
+    overflow: hidden;
+    min-height: 0;
+    padding: 0 14px;
+}
+
+.chapter[open] .chapter__panel > .verse-grid {
+    padding: 10px 14px 14px;
+}
+
+/* ---------- backdrop ---------------------------------------------- */
+
+.nav-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 35;
+    background: rgba(30, 20, 0, .35);
+    opacity: 0;
+    transition: opacity var(--nav-duration) var(--nav-ease);
+}
+
+.nav-backdrop[hidden] {
+    display: block;
+    pointer-events: none;
+}
+
+.nav-open .nav-backdrop {
+    opacity: 1;
+}
+
+/* Lock the page behind the drawer on touch sizes. */
+.nav-open body {
+    overflow: hidden;
+}
+
+/* ---------- responsive: dock the nav on wide screens --------------- */
+
+@media screen and (min-width: 1100px) {
+
+    .nav-open .content {
+        margin-left: var(--nav-width);
+        width: auto;
+        max-width: none;
+        padding: 0 6%;
+        transition: margin-left var(--nav-duration) var(--nav-ease);
+    }
+
+    /* Docked, not overlaid: no dimming and the page stays scrollable. */
+    .nav-open .nav-backdrop {
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    .nav-open body {
+        overflow: visible;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    :root {
+        --nav-width: 280px;
+    }
+
+    .site-title {
+        font-size: 1.25rem;
+    }
+
+    .content {
+        width: 92%;
+    }
+
+    pre {
+        margin: 16px 0;
+    }
+
+    h2 {
+        margin: 16px 0;
+        padding: 0;
+    }
+
+    .verse-grid--page,
+    .info,
+    .resume,
+    .directory__heading {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+/* Respect the OS "reduce motion" setting. */
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        transition-duration: 1ms !important;
+        animation-duration: 1ms !important;
+    }
+}
+
+/* ---------- footer ------------------------------------------------ */
+
+.footer {
+    display: block;
+    padding: 20px 0 40px;
+}
+
+#foot-img {
+    display: flex;
+    justify-content: center;
+}
+
+#foot-img img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 20px;
+}

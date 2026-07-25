@@ -1,50 +1,54 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-
-<head>
-	{{ partial "head.html" . }}
-</head>
-
-<body>
-	
-	<div class="container">
-		
-		{{ partial "header.html" . }}
-
-		<div id="content">
-			 
-			<div class="info">
-				<p>
-				The Bhagavad Gita manuscript is found in the sixth book of the Mahabharata manuscripts – the Bhisma-parvan. 
-				Therein, in the third section, the Gita forms chapters <b>23–40</b>, that is <b>6.3.23 to 6.3.40.</b> 
-				</p>
-				<p>
-				The Bhagavad Gita is often preserved and studied on its own, as an independent text with its chapters renumbered from <b>1 to 18.</b>
-				</p>
-			</div>
-
-			<div class="directory"> 
-					{{ range .Pages.GroupByParam "chapter" "asc"}}
-						<h3>CHAPTER {{ .Key }}</h3>
-						<div class="idx">
-						{{ range .Pages.ByParam "sutra"}}
-							<div class="items">
-								<h2 class="post-title"><a href="{{ .Permalink }}">Sutra {{ .Params.sutra  }}</a></h2>
-							</div>
-						{{ end }}
-						</div>
-					{{ end }}
-				 
-			</div>
-			 
-		</div>
-		
-		{{ partial "footer.html" . }}
-
+{{ define "main" }}
+<section class="hero">
+	<div class="hero__inner">
+		<p class="hero__kicker">श्रीमद् भगवद्गीता</p>
+		<h2 class="hero__title">The Bhagavad Gita</h2>
+		<p class="hero__lede">
+			All <b>18 chapters</b> and <b>{{ len site.RegularPages }} verses</b> — the original Sanskrit shloka,
+			Hindi translation and commentary, and English translation.
+		</p>
+		<p class="hero__actions">
+			<a class="btn btn--primary" href="{{ "chapter-1/sutra-1/" | relURL }}">Begin at 1.1</a>
+			<a class="btn" data-resume-link data-resume hidden href="#">Continue reading</a>
+		</p>
+		<dl class="hero__stats">
+			<div><dt>Chapters</dt><dd>18</dd></div>
+			<div><dt>Verses</dt><dd>{{ len site.RegularPages }}</dd></div>
+			<div><dt>Languages</dt><dd>संस्कृत · हिन्दी · EN</dd></div>
+		</dl>
 	</div>
-	<script src="{{ .Site.BaseURL }}js/main.js"></script>
-	{{ partial "analytics.html" . }}
+</section>
 
-</body>
-<script src="/js/main.js" > </script>
-</html>
+<div class="info">
+	<p>
+	The Bhagavad Gita manuscript is found in the sixth book of the Mahabharata manuscripts &ndash; the Bhisma-parvan.
+	Therein, in the third section, the Gita forms chapters <b>23&ndash;40</b>, that is <b>6.3.23 to 6.3.40.</b>
+	</p>
+	<p>
+	The Bhagavad Gita is often preserved and studied on its own, as an independent text with its chapters renumbered from <b>1 to 18.</b>
+	</p>
+</div>
+
+<div class="directory">
+	{{ range $n := seq 18 }}
+		{{ $verses := sort (where site.RegularPages "Params.chapter" $n) "Params.sutra" }}
+		{{ $meta := index hugo.Data.chapters (string $n) }}
+		{{ with $verses }}
+		<section class="directory__chapter">
+			<h3 class="directory__heading">
+				<a href="{{ printf "/chapter-%v/" $n | relURL }}">
+					<span class="directory__num">Chapter {{ $n }}</span>
+					{{ with $meta }}<span class="directory__sa">{{ .sa }}</span>
+					<span class="directory__en">{{ .en }}</span>{{ end }}
+				</a>
+			</h3>
+			<div class="verse-grid verse-grid--page">
+				{{ range . }}
+					<a class="verse" href="{{ .RelPermalink }}" title="Verse {{ $n }}.{{ .Params.sutra }}">{{ .Params.sutra }}</a>
+				{{ end }}
+			</div>
+		</section>
+		{{ end }}
+	{{ end }}
+</div>
+{{ end }}

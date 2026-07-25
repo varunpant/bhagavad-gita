@@ -1,13 +1,17 @@
 {{ define "main" }}
-{{ partial "burger.html" . }}
+{{ $meta := index hugo.Data.chapters (string .Params.chapter) }}
 
-<h2 class="title">{{.Title}}</h2>
-  
-  {{.Content}}
+<article class="verse-page">
+  <p class="verse-page__eyebrow">
+    <a href="{{ printf "/chapter-%v/" .Params.chapter | relURL }}">Chapter {{ .Params.chapter }}</a>
+    {{ with $meta }} &middot; <span class="verse-page__chapter-name">{{ .sa }}</span>{{ end }}
+  </p>
+  {{/* Rendered from the params rather than .Title ("Verse: 2,47") so the
+       heading reads the way the verse is actually cited. */}}
+  <h1 class="title">Bhagavad Gita {{ .Params.chapter }}.{{ .Params.sutra }}</h1>
 
-  {{ partial "pagination.html" . }}
- 
+  {{ .Content }}
+</article>
 
-{{ partial "analytics.html" . }}
-<script src="{{ .Site.BaseURL }}js/main.js"></script>
+{{ partial "pagination.html" . }}
 {{ end }}

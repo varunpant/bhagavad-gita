@@ -1,13 +1,48 @@
+{{/*
+  Side navigation.
 
-<div id="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">CLOSE</a>
-   {{ $currentPage := .Title}}
-   {{ range .Site.Pages.GroupByParam "chapter" "asc"}}
-						<button id="btn{{ .Key }}" class="accordion">CHAPTER {{ .Key }} &nbsp;&nbsp; <i class="arrow"></i></button>
-            <div class="panel">
-						{{ range .Pages.ByParam "sutra"}}
-							 <a href="{{ .Permalink }}"  class="{{ if eq .Title $currentPage }}current{{ end }}"  >Sutra {{ .Params.sutra }}</a> 
+  Rendered via partialCached with no variant, so this whole tree is built ONCE
+  per site build and reused across all 700 pages. That means it must not depend
+  on the current page — the "you are here" highlight is applied at runtime by
+  js/main.js from the URL, not baked in here.
+
+  Chapters are assembled with `where` over an explicit 1..18 range from
+  data/chapters.toml. Do NOT switch this back to GroupByParam: that function
+  only groups string params, and the front matter stores `chapter` as an int,
+  so it silently returns zero groups.
+*/}}
+<nav id="sidenav" class="sidenav" aria-label="All chapters and verses">
+	<div class="sidenav__head">
+		<span class="sidenav__brand">भगवद्गीता</span>
+		<button type="button" class="sidenav__close" data-nav-close aria-label="Close navigation">&times;</button>
+	</div>
+
+	<div class="sidenav__scroll">
+		{{ range $n := seq 18 }}
+			{{ $verses := sort (where site.RegularPages "Params.chapter" $n) "Params.sutra" }}
+			{{ $meta := index hugo.Data.chapters (string $n) }}
+			{{ with $verses }}
+			<details class="chapter" data-chapter="{{ $n }}">
+				<summary class="chapter__summary">
+					<span class="chapter__num">{{ $n }}</span>
+					<span class="chapter__names">
+						<span class="chapter__sa">{{ with $meta }}{{ .sa }}{{ end }}</span>
+						<span class="chapter__en">{{ with $meta }}{{ .en }}{{ end }}</span>
+					</span>
+					<span class="chapter__count">{{ len . }}</span>
+				</summary>
+				<div class="chapter__panel">
+					<div class="verse-grid">
+						{{ range . }}
+						<a class="verse" href="{{ .RelPermalink }}"
+						   data-chapter="{{ $n }}" data-sutra="{{ .Params.sutra }}"
+						   title="Verse {{ $n }}.{{ .Params.sutra }}">{{ .Params.sutra }}</a>
 						{{ end }}
-            </div>
+					</div>
+				</div>
+			</details>
+			{{ end }}
 		{{ end }}
-</div>
+	</div>
+</nav>
+<div class="nav-backdrop" data-nav-close hidden></div>

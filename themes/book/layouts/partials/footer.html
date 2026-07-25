@@ -1,5 +1,8 @@
-<div class="footer">
+<footer class="footer">
     <div id="foot-img">
-        <img src="{{ .Site.BaseURL }}krishna.png" />
+        {{/* krishna-300.png is a 300px downscale of krishna.png (468K -> 62K).
+             The full-size original is kept and still used for og:image. */}}
+        <img src="{{ "krishna-300.png" | relURL }}" alt="" width="150" height="150"
+             loading="lazy" decoding="async">
     </div>
-</div>
+</footer>

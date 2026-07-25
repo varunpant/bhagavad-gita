@@ -1,11 +1,24 @@
 baseURL = "https://bhagwadgita.info/"
-languageCode = "en-us"
+locale = "en-us"
 title = "श्रीमद् भगवद्गीता"
 theme = "book"
 publishDir = "docs"
 
+# robots.txt is generated from themes/book/layouts/robots.txt
+enableRobotsTXT = true
+
+# Verse pages are the content; the tag/category taxonomies were never used and
+# only produced empty pages for crawlers to index.
+disableKinds = ["taxonomy", "term"]
+
 [params]
 	author = "baba"
-	description = "Srimad Bhagavad-Gita online."
+	description = "Read the complete Srimad Bhagavad Gita online — Sanskrit shloka with Hindi and English translation and commentary."
 	bio = ""
-	
+
+[sitemap]
+	changefreq = "monthly"
+	priority = 0.7
+
+[markup.goldmark.renderer]
+	unsafe = true

@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.Language.Lang }}">
+<head>
     {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        {{- partial "sideNav.html" . -}}
-        <div id="content">
-        {{- block "main" . }}{{- end }}
-        </div>
-        {{- partial "footer.html" . -}}
-    </body>
+</head>
+<body>
+    <a class="skip-link" href="#content">Skip to content</a>
+    {{- partial "header.html" . -}}
+    {{- partialCached "sideNav.html" . -}}
+    <main id="content" class="content">
+    {{- block "main" . }}{{- end }}
+    </main>
+    {{- partial "footer.html" . -}}
+    {{ with resources.Get "js/main.js" }}
+      {{ $js := . | minify | fingerprint }}
+      <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+    {{ end }}
+    {{- partial "analytics.html" . -}}
+</body>
 </html>

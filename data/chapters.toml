@@ -1,0 +1,74 @@
+# Chapter titles for the side navigation and chapter index pages.
+# Keys are the chapter number as a string so template lookups are stable.
+
+[1]
+sa = "अर्जुनविषादयोग"
+en = "The Despondency of Arjuna"
+
+[2]
+sa = "सांख्ययोग"
+en = "Transcendental Knowledge"
+
+[3]
+sa = "कर्मयोग"
+en = "The Path of Action"
+
+[4]
+sa = "ज्ञानकर्मसंन्यासयोग"
+en = "Knowledge and the Renunciation of Action"
+
+[5]
+sa = "कर्मसंन्यासयोग"
+en = "The Path of Renunciation"
+
+[6]
+sa = "आत्मसंयमयोग"
+en = "The Path of Meditation"
+
+[7]
+sa = "ज्ञानविज्ञानयोग"
+en = "Knowledge and Realisation"
+
+[8]
+sa = "अक्षरब्रह्मयोग"
+en = "The Imperishable Brahman"
+
+[9]
+sa = "राजविद्याराजगुह्ययोग"
+en = "The Royal Knowledge and Royal Secret"
+
+[10]
+sa = "विभूतियोग"
+en = "The Divine Manifestations"
+
+[11]
+sa = "विश्वरूपदर्शनयोग"
+en = "The Vision of the Cosmic Form"
+
+[12]
+sa = "भक्तियोग"
+en = "The Path of Devotion"
+
+[13]
+sa = "क्षेत्रक्षेत्रज्ञविभागयोग"
+en = "The Field and the Knower of the Field"
+
+[14]
+sa = "गुणत्रयविभागयोग"
+en = "The Three Gunas"
+
+[15]
+sa = "पुरुषोत्तमयोग"
+en = "The Supreme Person"
+
+[16]
+sa = "दैवासुरसम्पद्विभागयोग"
+en = "Divine and Demoniac Natures"
+
+[17]
+sa = "श्रद्धात्रयविभागयोग"
+en = "The Three Kinds of Faith"
+
+[18]
+sa = "मोक्षसंन्यासयोग"
+en = "Liberation through Renunciation"

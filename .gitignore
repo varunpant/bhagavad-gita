@@ -11,3 +11,12 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 .DS_Store
+
+# Hugo
+.hugo_build.lock
+
+# Python tooling
+.venv/
+
+# Hugo asset pipeline cache
+/resources/

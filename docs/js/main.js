@@ -1,118 +1,117 @@
-function toggleNav(ele) {
-  var w = document.getElementById("sidenav").style.width;
-  console.log(w)
-  if (w == "0px" || w == "" || !w) {
-    openNav();
-  } else {
-    closeNav();
+/*
+ * Side navigation + reading-position memory.
+ *
+ * Design notes:
+ *  - The drawer is animated purely in CSS by toggling `nav-open` on <html>.
+ *    The old version animated `width` from JS, which relayouts the entire
+ *    700-link nav on every frame; the current CSS animates `transform`, which
+ *    the compositor handles off the main thread.
+ *  - The nav markup is identical on all 700 pages (it is partialCached), so the
+ *    "current verse" highlight has to be applied here from the URL.
+ */
+(function () {
+  "use strict";
+
+  var STORAGE_KEY = "VERSE";
+  var root = document.documentElement;
+
+  /* ---------- current location ------------------------------------- */
+
+  function parseVerse(path) {
+    var m = /\/chapter-(\d+)\/sutra-(\d+)/.exec(path || "");
+    return m ? { chapter: m[1], sutra: m[2] } : null;
   }
-}
 
-function openNav() {
-  document.getElementById("sidenav").style.width = "150px";
-  document.getElementById("content").style.marginLeft = "150px";
-  document.getElementById("burger").style.display = "none";
-}
+  /* ---------- drawer ------------------------------------------------ */
 
-/* Set the width of the side navigation to 0 */
-function closeNav() {
-  document.getElementById("sidenav").style.width = "0";
-  document.getElementById("content").style.marginLeft = "auto";
-  document.getElementById("burger").style.display = "";
-}
+  var toggles = document.querySelectorAll("[data-nav-toggle]");
+  var closers = document.querySelectorAll("[data-nav-close]");
+  var backdrop = document.querySelector(".nav-backdrop");
+  var nav = document.getElementById("sidenav");
 
-var bindAccordion = function(){
-  var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-   
-    this.classList.toggle("active");
-
-    /* Toggle between hiding and showing the active panel */
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
+  function setNav(open) {
+    root.classList.toggle("nav-open", open);
+    if (backdrop) backdrop.hidden = !open;
+    for (var i = 0; i < toggles.length; i++) {
+      toggles[i].setAttribute("aria-expanded", open ? "true" : "false");
+      toggles[i].setAttribute("aria-label", open ? "Close navigation" : "Open navigation");
     }
+    if (open && nav) {
+      var current = nav.querySelector(".verse.is-current");
+      if (current) current.scrollIntoView({ block: "center" });
+    }
+  }
+
+  for (var t = 0; t < toggles.length; t++) {
+    toggles[t].addEventListener("click", function () {
+      setNav(!root.classList.contains("nav-open"));
+    });
+  }
+  for (var c = 0; c < closers.length; c++) {
+    closers[c].addEventListener("click", function () {
+      setNav(false);
+    });
+  }
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && root.classList.contains("nav-open")) setNav(false);
   });
-}
 
-}
+  /* ---------- highlight + open the current chapter ------------------ */
 
-
-var getParams = function(navlink){
-  var l = document.createElement("a");
-  l.href = navlink;
-  try{
-    var chapter = l.pathname.match(/chapter-(\d+)*/,"")[1];
-    var sutra = l.pathname.match(/sutra-(\d+)*/,"")[1];
-    return {
-      "c":chapter,
-      "s":sutra,
-      "h":l.hostname
+  var here = parseVerse(location.pathname);
+  if (nav && here) {
+    var link = nav.querySelector(
+      '.verse[data-chapter="' + here.chapter + '"][data-sutra="' + here.sutra + '"]'
+    );
+    if (link) {
+      link.classList.add("is-current");
+      link.setAttribute("aria-current", "page");
+    }
+    var chapter = nav.querySelector('.chapter[data-chapter="' + here.chapter + '"]');
+    if (chapter) {
+      chapter.open = true;
+      chapter.classList.add("is-current-chapter");
     }
   }
-  catch{
-    return null,null,l.hostname;
+
+  /* Only one chapter expanded at a time — keeps the drawer scannable. */
+  var chapters = nav ? nav.querySelectorAll(".chapter") : [];
+  for (var d = 0; d < chapters.length; d++) {
+    chapters[d].addEventListener("toggle", function () {
+      if (!this.open) return;
+      for (var j = 0; j < chapters.length; j++) {
+        if (chapters[j] !== this) chapters[j].open = false;
+      }
+    });
   }
- 
-}
 
-var preopenAccordion = function(chapter){
-  var ac = document.getElementById("btn"+chapter);
-  if(ac){ac.click()};
-}
-var initAppState = function(){
-  var KEY = "VERSE"
-  if (localStorage){
+  /* ---------- remember where the reader stopped --------------------- */
 
-    window.onbeforeunload = function () {
-      var navlink = document.activeElement.href;
-      if(navlink){
-        var params = getParams(navlink);
-        var chapter = params.c;
-        var sutra = params.s;
-        var hostname = params.h;
-       
-        if(hostname === window.location.hostname){
-           if(!isNaN(chapter) && !isNaN(sutra)){
-            var verse = chapter + "," + sutra;
-            localStorage[KEY] = verse;
-            console.log("state saved"+verse)
-           }
-        }
-      } 
-  };
-
-
-    var state = localStorage[KEY] ;
-    if(state){
-              var verse = state.split(",");
-              var chapter = verse[0];
-              var sutra = verse[1];
-              var params = getParams(window.location.href);
-              var _chapter = params.c;
-              var _sutra = params.s;
-              preopenAccordion(_chapter);
-              if(!_chapter && !_sutra){
-                var url = location.protocol + "//" + window.location.host + "/chapter-" + chapter + "/sutra-" +sutra;
-                location.assign(url);
-              }
-             
-    }else{
-      console.log("previous state not found.")
+  if (here) {
+    try {
+      localStorage.setItem(STORAGE_KEY, here.chapter + "," + here.sutra);
+    } catch (e) {
+      /* private mode / storage disabled */
     }
   }
-  else{
-    console.log("Localstorage not supported.")
-  }
- 
-}
 
-onload = function(){
-  bindAccordion();
-  initAppState();
-}
+  /*
+   * On the homepage, offer the last-read verse as a link.
+   * The previous implementation redirected automatically, which meant the
+   * site's front page was unreachable for returning visitors.
+   */
+  var resume = document.querySelector("[data-resume]");
+  if (resume && !here) {
+    var saved = null;
+    try {
+      saved = localStorage.getItem(STORAGE_KEY);
+    } catch (e) {}
+    if (saved && /^\d+,\d+$/.test(saved)) {
+      var parts = saved.split(",");
+      var a = resume.querySelector("[data-resume-link]");
+      a.href = "/chapter-" + parts[0] + "/sutra-" + parts[1] + "/";
+      a.textContent = "Continue reading — Verse " + parts[0] + "." + parts[1];
+      resume.hidden = false;
+    }
+  }
+})();
