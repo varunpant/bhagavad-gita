@@ -204,8 +204,13 @@ RigVeda's `Font+Extensions` names faces (`kohinoorRegular(_:)`) and uses
 `.system(size:)`, which pins sizes and ignores Dynamic Type. Roles + `relativeTo:`
 keep §14's Dynamic Type promise while the in-app slider layers on top.
 
-Śloka line breaks are semantic (§8): `.lineLimit(nil)`, no whitespace
-normalization that collapses newlines.
+Śloka line breaks are semantic (§8) — but only **11 of the 701** rows in
+`srimad.csv` actually contain newlines. In the other 690 the danda (`।`) is the
+only break available, so `Verse.lines` honours real newlines where they exist and
+falls back to breaking on the danda, keeping the trailing `।।chapter.verse।।`
+marker attached to the final line. `VerseTests` checks that this is lossless
+across the whole corpus. If the CSV is ever repaired to carry real line breaks,
+the fallback simply stops being used.
 
 Copy `Constants.swift` and `Logger+Extensions.swift` wholesale in spirit — a
 namespaced `enum Constants` for app/DB/UI values and per-category `Logger`s
@@ -217,7 +222,10 @@ Written as you go, not as a final pass:
 
 - Each verse leaf: one `.accessibilityElement(children: .contain)` with labeled
   children, so VoiceOver reads "Chapter 2, verse 47, Sanskrit…".
-- `.accessibilityLanguage()` on Devanagari and Hindi text so the right voice reads it.
+- Tag Devanagari and Hindi for VoiceOver by setting `languageIdentifier` on an
+  `AttributedString` and passing that to `.accessibilityLabel`/`.accessibilityValue`.
+  SwiftUI has **no** `.accessibilityLanguage` view modifier — the language rides
+  on the string, not on the view.
 - Honor `\.accessibilityReduceMotion` around every animation and
   `\.accessibilityReduceTransparency` around materials.
 - AA contrast in all four themes — check saffron against each background.
