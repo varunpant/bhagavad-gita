@@ -47,10 +47,17 @@ DEFAULT_MODEL = "gemini-2.5-pro"
 DEFAULT_CONCURRENCY = 5
 MAX_ATTEMPTS = 4
 
-# A 429 usually means "slow down" and is worth retrying. These mean the account
-# is out of money, which no amount of backoff will fix — fail the whole run at
-# once rather than burning four attempts on each of 700 verses.
-FATAL_MARKERS = ("prepayment credits are depleted", "billing", "PERMISSION_DENIED", "API key not valid")
+# A 429 usually means "slow down" and is worth retrying. These do not: the daily
+# per-model request cap, exhausted credits, and bad credentials all persist for
+# hours or forever, so back-off cannot clear them. Stop the whole run at once
+# rather than burning four attempts on each of the remaining verses.
+FATAL_MARKERS = (
+    "PerDay",                      # daily request cap — resets on its own clock
+    "prepayment credits are depleted",
+    "billing",
+    "PERMISSION_DENIED",
+    "API key not valid",
+)
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS enriched_verses (
@@ -316,7 +323,8 @@ async def run(model: str, limit: int | None, force: bool, concurrency: int) -> i
             task.cancel()
         db.close()
         print(f"\nstopped: {exc}")
-        print(f"{done_count} verse(s) saved before stopping; rerun once billing is sorted")
+        print(f"{done_count} verse(s) saved and kept. Rerun when the quota resets "
+              f"(or pass --model with a model that has headroom); finished verses are skipped.")
         return 2
 
     db.close()
