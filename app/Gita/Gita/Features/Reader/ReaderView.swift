@@ -108,7 +108,7 @@ struct ReaderView: View {
         Button {
             showingSettings = true
         } label: {
-            Image(systemName: "textformat.size")
+            Image(systemName: "gearshape")
                 .font(.system(size: 15, weight: .medium))
                 .frame(width: 34, height: 30)
                 .contentShape(.rect)

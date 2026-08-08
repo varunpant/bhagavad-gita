@@ -59,6 +59,19 @@ FATAL_MARKERS = (
     "API key not valid",
 )
 
+# USD per million tokens, (input, output). Thinking is billed at the output
+# rate. Update when Google changes pricing — these are only for the estimate
+# printed at the end of a run, never for a decision the script makes.
+PRICES = {
+    "gemini-3.1-pro-preview": (2.00, 12.00),
+    "gemini-3-pro-preview": (2.00, 12.00),
+    "gemini-2.5-pro": (1.25, 10.00),
+    "gemini-3.5-flash": (0.30, 2.50),
+    "gemini-2.5-flash": (0.30, 2.50),
+    "gemini-flash-latest": (0.30, 2.50),
+    "gemini-2.5-flash-lite": (0.10, 0.40),
+}
+
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS enriched_verses (
     id                   INTEGER PRIMARY KEY,   -- matches verses.id in gita.sqlite
@@ -269,6 +282,10 @@ async def enrich_one(
                         "prompt": getattr(meta, "prompt_token_count", 0) or 0,
                         "cached": getattr(meta, "cached_content_token_count", 0) or 0,
                         "output": getattr(meta, "candidates_token_count", 0) or 0,
+                        # Reasoning tokens are billed at the output rate but are
+                        # NOT included in candidates_token_count. Leaving them out
+                        # of the tally under-reports the real cost several-fold.
+                        "thinking": getattr(meta, "thoughts_token_count", 0) or 0,
                     }
                     return verse, response.parsed, None, usage
                 raise ValueError(f"unparseable response: {(response.text or '')[:200]}")
@@ -305,7 +322,7 @@ async def run(model: str, limit: int | None, force: bool, concurrency: int) -> i
 
     done_count = 0
     failures: list[tuple[dict, str]] = []
-    tokens = {"prompt": 0, "cached": 0, "output": 0}
+    tokens = {"prompt": 0, "cached": 0, "output": 0, "thinking": 0}
     try:
         for future in asyncio.as_completed(tasks):
             verse, result, error, usage = await future
@@ -331,11 +348,22 @@ async def run(model: str, limit: int | None, force: bool, concurrency: int) -> i
 
     if tokens["prompt"]:
         share = 100 * tokens["cached"] / tokens["prompt"]
+        billed_output = tokens["output"] + tokens["thinking"]
         print(
             f"\ntokens: {tokens['prompt']:,} prompt "
-            f"({tokens['cached']:,} served from cache, {share:.0f}%), "
-            f"{tokens['output']:,} output"
+            f"({tokens['cached']:,} cached, {share:.0f}%), "
+            f"{tokens['output']:,} output + {tokens['thinking']:,} thinking "
+            f"= {billed_output:,} billed as output"
         )
+        if done_count:
+            rate = PRICES.get(model)
+            if rate:
+                cost = (tokens["prompt"] * rate[0] + billed_output * rate[1]) / 1_000_000
+                print(f"estimated cost: ${cost:.2f} "
+                      f"(${cost / done_count:.4f} per verse, "
+                      f"${cost / done_count * 701:.2f} for all 701)")
+            else:
+                print(f"no price on file for {model} — cost not estimated")
         if not tokens["cached"]:
             print("note: nothing was cached — the shared prefix is below this "
                   "model's minimum cacheable size")
