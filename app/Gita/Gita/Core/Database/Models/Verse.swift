@@ -101,50 +101,51 @@ extension Verse {
 }
 
 extension Verse {
-    /// The shloka broken into display lines.
+    /// The shloka as stored: one line per line, no punctuation.
     ///
-    /// Only 11 of the 701 rows in srimad.csv actually contain newlines; the rest
-    /// are a single run of text in which the danda (।) is the only line break
-    /// available. So: honour real newlines where they exist, and otherwise break
-    /// on the danda — keeping the trailing `।।chapter.verse।।` marker attached to
-    /// the final line, where it belongs.
+    /// `tools/build_db.py` strips every danda and the trailing verse marker and
+    /// joins the lines with "\n" — the same shape RigVeda stores. Nothing here
+    /// has to parse punctuation any more; the danda is added back when drawing.
     var lines: [String] { Verse.lines(of: sanskrit) }
 
-    /// The same breaking applied to any scripture text, so the IAST
-    /// transliteration lays out on the same lines as the Devanagari.
     static func lines(of scripture: String) -> [String] {
-        let text = scripture.trimmingCharacters(in: .whitespacesAndNewlines)
-
-        if text.contains("\n") {
-            return text
-                .split(separator: "\n")
-                .map { $0.trimmingCharacters(in: .whitespaces) }
-                .filter { !$0.isEmpty }
-        }
-
-        var body = text
-        var marker = ""
-        if let range = body.range(of: "।।[0-9]+\\.[0-9]+।।$", options: .regularExpression) {
-            marker = String(body[range])
-            body = String(body[body.startIndex ..< range.lowerBound])
-        }
-
-        // Devanagari marks the break with a danda; IAST transliteration uses a
-        // full stop for the same thing. Whichever this text uses is the break.
-        let danda = body.contains("।") ? "।" : "."
-        var result = body
-            .components(separatedBy: danda)
+        scripture
+            .split(separator: "\n")
             .map { $0.trimmingCharacters(in: .whitespaces) }
             .filter { !$0.isEmpty }
-            .map { $0 + danda }
+    }
 
-        if !marker.isEmpty {
-            if result.isEmpty {
-                result = [marker]
-            } else {
-                result[result.count - 1] = String(result[result.count - 1].dropLast()) + marker
-            }
+    /// The verse ready to draw: each line closed with a danda, in either script.
+    ///
+    /// A danda is punctuation, so it is applied at render time and applies
+    /// equally to the Devanagari and the IAST. The convention: a single danda
+    /// closes each line, a double danda closes the verse, and a speaker
+    /// attribution ("… उवाच" / "… uvāca") takes none at all.
+    func displayLines(for language: ReadingLanguage) -> [String] {
+        let raw = Verse.lines(of: scripture(for: language))
+        guard let last = raw.indices.last else { return [] }
+
+        return raw.enumerated().map { index, line in
+            if Verse.isSpeaker(line) { return line }
+            return line + (index == last ? "॥" : "।")
         }
-        return result
+    }
+
+    /// True for a speaker attribution line, in either script.
+    static func isSpeaker(_ line: String) -> Bool {
+        let trimmed = line.trimmingCharacters(in: .whitespaces)
+        return trimmed.hasSuffix("उवाच") || trimmed.lowercased().hasSuffix("uvāca")
+    }
+
+    /// Prose translation of the verse in the reading language, if enriched.
+    func translation(for language: ReadingLanguage) -> String? {
+        let text = language == .sanskrit ? hindiTranslation : englishTranslation
+        return (text?.isEmpty == false) ? text : nil
+    }
+
+    /// Explanation of the verse in the reading language, if enriched.
+    func meaning(for language: ReadingLanguage) -> String? {
+        let text = language == .sanskrit ? hindiMeaning : englishMeaning
+        return (text?.isEmpty == false) ? text : nil
     }
 }

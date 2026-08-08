@@ -128,10 +128,19 @@ SYSTEM_INSTRUCTION = """You are a Sanskrit scholar working on the Bhagavad Gita.
 
 For each shloka you are given, provide exactly these fields:
 
-1. transliteration — the Sanskrit in IAST with correct diacritics (a i u r n ~n t d n s s h m with their proper marks: ā ī ū ṛ ṅ ñ ṭ ḍ ṇ ś ṣ ḥ ṃ).
-   Mirror the line structure of the shloka. Never include the trailing ।।chapter.verse।। marker.
+1. transliteration — the Sanskrit in IAST with correct diacritics (ā ī ū ṛ ṅ ñ ṭ ḍ ṇ ś ṣ ḥ ṃ).
+   Use a newline between each line of the verse, matching the line structure of
+   the shloka you are given exactly — same number of lines, same break points.
+   Include NO danda (।), NO full stop at the end of a line, and NO verse-number
+   marker. Punctuation is added when the verse is displayed, not by you.
+   If the verse opens with a speaker attribution ("… uvāca"), that attribution is
+   its own first line.
 2. hindi_translation — a faithful, literal Hindi translation in Devanagari.
+   If the verse opens with a speaker attribution, put "<नाम> ने कहा —" on its own
+   first line and begin the translation itself on the next line.
 3. english_translation — a faithful, literal English translation.
+   If the verse opens with a speaker attribution, put "<Name> said:" on its own
+   first line and begin the translation itself on the next line.
 4. hindi_meaning — 2-4 sentences of explanation in Hindi.
 5. english_meaning — 2-4 sentences of explanation in English.
 6. word_by_word_hindi — the shloka split into its words, in the order they appear,

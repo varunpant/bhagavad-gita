@@ -55,3 +55,14 @@ extension Font {
         .system(.caption, design: .serif).weight(.medium)
     }
 }
+
+extension Font {
+    /// Prose — translations and explanations, in either script.
+    static var proseDevanagari: Font {
+        .custom("KohinoorDevanagari-Light", size: 17, relativeTo: .body)
+    }
+
+    static var proseLatin: Font {
+        .system(.body, design: .serif)
+    }
+}

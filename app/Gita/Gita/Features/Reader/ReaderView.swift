@@ -194,15 +194,26 @@ private struct ShlokaPage: View {
     @Environment(\.theme) private var theme
 
     private var words: [WordMeaning] { verse.words(for: language) }
+    private var isDevanagari: Bool { language == .sanskrit }
 
     var body: some View {
         ScrollView(.vertical) {
-            VStack(spacing: 32) {
+            VStack(spacing: 30) {
                 shloka
+
+                if let translation = verse.translation(for: language) {
+                    section(isDevanagari ? "अनुवाद" : "TRANSLATION", body: translation)
+                }
+
+                if let meaning = verse.meaning(for: language) {
+                    section(isDevanagari ? "भावार्थ" : "MEANING", body: meaning)
+                }
+
                 if !words.isEmpty {
-                    Divider().background(theme.divider)
                     wordList
-                } else if !verse.isEnriched {
+                }
+
+                if !verse.isEnriched {
                     notYetEnriched
                 }
             }
@@ -218,11 +229,13 @@ private struct ShlokaPage: View {
         .accessibilityElement(children: .contain)
     }
 
+    // MARK: - Blocks
+
     private var shloka: some View {
-        VStack(spacing: 16) {
-            ForEach(Array(Verse.lines(of: verse.scripture(for: language)).enumerated()), id: \.offset) { _, line in
+        VStack(spacing: 14) {
+            ForEach(Array(verse.displayLines(for: language).enumerated()), id: \.offset) { _, line in
                 Text(line)
-                    .font(language == .sanskrit ? .shloka : .shlokaLatin)
+                    .font(isDevanagari ? .shloka : .shlokaLatin)
                     .foregroundStyle(theme.textPrimary)
                     .multilineTextAlignment(.center)
                     .lineSpacing(10)
@@ -234,37 +247,69 @@ private struct ShlokaPage: View {
         .accessibilityValue(Text(spokenShloka))
     }
 
-    /// Word and gloss, one pair per row. A `Grid` keeps the glosses aligned in a
-    /// column no matter how long the words are — the thing a plain HStack per
-    /// row cannot do, since each row would size independently.
-    private var wordList: some View {
-        VStack(alignment: .leading, spacing: 14) {
-            Text(language == .sanskrit ? "शब्दार्थ" : "WORD BY WORD")
-                .font(.label)
-                .tracking(1.2)
-                .foregroundStyle(theme.textSecondary)
+    /// A labelled block of prose — the translation and the explanation share
+    /// this shape so they read as siblings rather than as two separate designs.
+    private func section(_ title: String, body: String) -> some View {
+        VStack(spacing: 10) {
+            heading(title)
+            Text(body)
+                .font(isDevanagari ? .proseDevanagari : .proseLatin)
+                .foregroundStyle(theme.textPrimary.opacity(0.85))
+                .multilineTextAlignment(.center)
+                .lineSpacing(5)
+                .fixedSize(horizontal: false, vertical: true)
+        }
+        .frame(maxWidth: .infinity)
+    }
 
-            Grid(alignment: .topLeading, horizontalSpacing: 16, verticalSpacing: 12) {
+    /// Word and gloss, one pair per row, the whole table centred on the page.
+    ///
+    /// A `Grid` keeps the two columns aligned to one shared boundary — rows in a
+    /// stack of HStacks would each size independently and the glosses would
+    /// stagger. The grid then sizes to its content, so centring the grid centres
+    /// the table as a block while the columns stay tidily aligned inside it.
+    private var wordList: some View {
+        VStack(spacing: 14) {
+            heading(isDevanagari ? "शब्दार्थ" : "WORD BY WORD")
+
+            Grid(alignment: .top, horizontalSpacing: 18, verticalSpacing: 12) {
                 ForEach(words) { word in
                     GridRow {
                         Text(word.w)
-                            .font(language == .sanskrit ? .wordDevanagari : .wordLatin)
+                            .font(isDevanagari ? .wordDevanagari : .wordLatin)
                             .foregroundStyle(theme.accent)
-                            .gridColumnAlignment(.leading)
+                            .multilineTextAlignment(.trailing)
+                            .gridColumnAlignment(.trailing)
                         Text(word.m)
-                            .font(language == .sanskrit ? .glossDevanagari : .glossLatin)
+                            .font(isDevanagari ? .glossDevanagari : .glossLatin)
                             .foregroundStyle(theme.textSecondary)
+                            .multilineTextAlignment(.leading)
+                            .gridColumnAlignment(.leading)
                             .fixedSize(horizontal: false, vertical: true)
                     }
                     .accessibilityElement(children: .combine)
                 }
             }
+            .fixedSize(horizontal: true, vertical: false)
         }
-        .frame(maxWidth: .infinity, alignment: .leading)
+        .frame(maxWidth: .infinity)
+    }
+
+    private func heading(_ text: String) -> some View {
+        Text(text)
+            .font(.label)
+            .tracking(1.2)
+            .foregroundStyle(theme.textSecondary)
+            .overlay(alignment: .bottom) {
+                Rectangle()
+                    .fill(theme.divider)
+                    .frame(height: 1)
+                    .offset(y: 6)
+            }
     }
 
     private var notYetEnriched: some View {
-        Text("Word meanings for this verse have not been generated yet.")
+        Text("Translation and word meanings for this verse have not been generated yet.")
             .font(.label)
             .foregroundStyle(theme.textSecondary.opacity(0.7))
             .multilineTextAlignment(.center)

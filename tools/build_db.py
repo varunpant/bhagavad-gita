@@ -18,6 +18,7 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import re
 import sqlite3
 import sys
 from datetime import datetime, timezone
@@ -65,14 +66,42 @@ CREATE TABLE meta (
 """
 
 
-def normalize(text: str) -> str:
-    """Trim the block but keep the shloka's internal line breaks intact.
+SPEAKER = "उवाच"          # "…said" — the attribution that opens a spoken verse
+DANDA = re.compile(r"।+")
+VERSE_MARKER = re.compile(r"।।\s*[\d.]+\s*।।\s*$")
 
-    Line breaks are semantic here (specs.md section 8) — the reader must not
-    reflow them — so only line-trailing whitespace and surrounding blank lines go.
+
+def normalize(text: str) -> str:
+    """Turn the raw shloka into newline-separated lines with no dandas.
+
+    The source mixes three conventions: a few rows use real newlines, most use
+    the danda (।) as the only break, and nearly all end with a ।।chapter.verse।।
+    marker. Storing that variety means every consumer has to re-parse it.
+
+    So the stored form is the same shape RigVeda uses — one line per line, "\n"
+    as the terminator, no danda anywhere. The danda is punctuation and belongs to
+    presentation; the reader adds it back when drawing the verse.
     """
-    lines = text.replace("\r\n", "\n").replace("\r", "\n").split("\n")
-    return "\n".join(line.rstrip() for line in lines).strip()
+    text = text.replace("\r\n", "\n").replace("\r", "\n").strip()
+    text = VERSE_MARKER.sub("", text)
+
+    lines: list[str] = []
+    for chunk in text.split("\n"):
+        for segment in DANDA.split(chunk):
+            segment = segment.strip()
+            if segment:
+                lines.append(segment)
+
+    # "सञ्जय उवाचदृष्ट्वा तु…" — the speaker attribution is often run straight
+    # into the first word of the verse. Give it its own line.
+    if lines:
+        index = lines[0].find(SPEAKER)
+        if 0 <= index <= 30:
+            end = index + len(SPEAKER)
+            speaker, rest = lines[0][:end].strip(), lines[0][end:].strip()
+            lines[:1] = [speaker, rest] if rest else [speaker]
+
+    return "\n".join(lines)
 
 
 def read_verses(csv_path: Path) -> list[tuple[int, int, int, str]]:
