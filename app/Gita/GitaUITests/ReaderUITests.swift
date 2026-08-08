@@ -79,6 +79,7 @@ final class LanguageToggleUITests: XCTestCase {
 
     private func launch(english: Bool = false) -> XCUIApplication {
         let app = XCUIApplication()
+        app.launchArguments += ["-resetSettings"]
         if english { app.launchArguments += ["-startInEnglish"] }
         app.launch()
         return app
@@ -115,5 +116,96 @@ final class LanguageToggleUITests: XCTestCase {
         ).firstMatch
         XCTAssertTrue(iast.exists, "transliteration missing")
         XCTAssertFalse(app.staticTexts["धृतराष्ट्र उवाच"].exists, "Devanagari still showing")
+    }
+}
+
+/// Settings drives what the reader draws, and each block switches independently.
+final class SettingsUITests: XCTestCase {
+
+    private var app: XCUIApplication!
+
+    override func setUp() {
+        continueAfterFailure = false
+        XCUIDevice.shared.orientation = .portrait
+        app = XCUIApplication()
+        app.launchArguments += ["-resetSettings"]
+        app.launch()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
+    }
+
+    private func openSettings() {
+        app.buttons["settingsButton"].tap()
+        XCTAssertTrue(app.navigationBars["Settings"].waitForExistence(timeout: 5))
+    }
+
+    /// A SwiftUI `Form` is lazy: rows below the fold are not in the accessibility
+    /// tree at all until they scroll into view. So scroll until the row appears
+    /// rather than assuming the whole sheet is queryable.
+    private func settingsToggle(_ identifier: String) -> XCUIElement {
+        let element = app.switches[identifier]
+        for _ in 0 ..< 6 where !element.exists {
+            app.swipeUp()
+        }
+        XCTAssertTrue(element.waitForExistence(timeout: 2), "\(identifier) never appeared")
+        return element
+    }
+
+    /// Tapping the element's centre lands on the row's custom label, which does
+    /// nothing. The control itself sits at the trailing edge.
+    private func flip(_ identifier: String) {
+        let toggle = settingsToggle(identifier)
+        let before = toggle.value as? String
+        toggle.coordinate(withNormalizedOffset: CGVector(dx: 0.92, dy: 0.5)).tap()
+        XCTAssertNotEqual(toggle.value as? String, before, "\(identifier) did not change")
+    }
+
+    private func closeSettings() {
+        app.buttons["Done"].tap()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 5))
+    }
+
+    func testAllThreeBlocksShowByDefault() {
+        XCTAssertTrue(app.staticTexts["अनुवाद"].exists)
+        XCTAssertTrue(app.staticTexts["भावार्थ"].exists)
+        XCTAssertTrue(app.staticTexts["शब्दार्थ"].exists)
+    }
+
+    /// The point of the setting: each block is independent, so turning one off
+    /// must leave the other two alone.
+    func testEachBlockCanBeHiddenIndependently() {
+        openSettings()
+        flip("toggleTranslation")
+        closeSettings()
+
+        XCTAssertFalse(app.staticTexts["अनुवाद"].exists, "translation should be hidden")
+        XCTAssertTrue(app.staticTexts["भावार्थ"].exists, "meaning should be untouched")
+        XCTAssertTrue(app.staticTexts["शब्दार्थ"].exists, "word list should be untouched")
+    }
+
+    func testTurningEverythingOffLeavesOnlyTheShloka() {
+        openSettings()
+        for identifier in ["toggleTranslation", "toggleMeaning", "toggleWordByWord"] {
+            flip(identifier)
+        }
+        closeSettings()
+
+        XCTAssertFalse(app.staticTexts["अनुवाद"].exists)
+        XCTAssertFalse(app.staticTexts["भावार्थ"].exists)
+        XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists)
+        XCTAssertTrue(app.staticTexts["verseReference"].exists, "the verse itself should remain")
+    }
+
+    /// Settings live in user.sqlite, so a choice has to survive a relaunch.
+    func testChoiceSurvivesRelaunch() {
+        openSettings()
+        flip("toggleWordByWord")
+        closeSettings()
+        XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists)
+
+        app.terminate()
+        app.launchArguments.removeAll { $0 == "-resetSettings" }
+        app.launch()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists, "setting did not persist")
     }
 }

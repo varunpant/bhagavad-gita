@@ -13,10 +13,14 @@ import SwiftUI
 /// ever rendering more than three.
 struct ReaderView: View {
     @Environment(Library.self) private var library
+    @Environment(Settings.self) private var settings
     @Environment(\.theme) private var theme
 
     @State private var currentVerseID: Int?
-    @State private var language: ReadingLanguage = .launchDefault
+    /// Debug builds can open straight into settings, for screenshots and tests.
+    @State private var showingSettings = ProcessInfo.processInfo.arguments.contains("-openSettings")
+
+    private var language: ReadingLanguage { settings.language }
 
     var body: some View {
         ZStack {
@@ -37,6 +41,7 @@ struct ReaderView: View {
             }
         }
         .task { await library.load() }
+        .sheet(isPresented: $showingSettings) { SettingsView() }
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
             if isReady, currentVerseID == nil { currentVerseID = library.verses.first?.id }
         }
@@ -51,7 +56,7 @@ struct ReaderView: View {
             ScrollView(.horizontal) {
                 LazyHStack(spacing: 0) {
                     ForEach(library.verses) { verse in
-                        ShlokaPage(verse: verse, language: language)
+                        ShlokaPage(verse: verse, language: language, settings: settings)
                             .containerRelativeFrame(.horizontal)
                             .id(verse.id)
                     }
@@ -65,7 +70,11 @@ struct ReaderView: View {
             footer
         }
         #if os(macOS)
+        // Focusable so the arrow keys reach the reader — but without the focus
+        // ring AppKit would otherwise draw around the whole page, which reads as
+        // a selection highlight rather than as chrome.
         .focusable()
+        .focusEffectDisabled()
         .onKeyPress(.leftArrow) { step(-1); return .handled }
         .onKeyPress(.rightArrow) { step(1); return .handled }
         #endif
@@ -79,10 +88,11 @@ struct ReaderView: View {
                 .accessibilityHidden(true)
 
             HStack {
+                settingsButton
                 Spacer()
                 languageToggle
             }
-            .padding(.trailing, 16)
+            .padding(.horizontal, 16)
         }
         .padding(.vertical, 10)
         .frame(maxWidth: .infinity)
@@ -94,11 +104,26 @@ struct ReaderView: View {
         }
     }
 
+    private var settingsButton: some View {
+        Button {
+            showingSettings = true
+        } label: {
+            Image(systemName: "textformat.size")
+                .font(.system(size: 15, weight: .medium))
+                .frame(width: 34, height: 30)
+                .contentShape(.rect)
+        }
+        .buttonStyle(.plain)
+        .foregroundStyle(theme.textSecondary)
+        .accessibilityIdentifier("settingsButton")
+        .accessibilityLabel("Settings")
+    }
+
     /// Flips the scripture and the word meanings together. Sits on the right of
     /// the header, showing the script it will switch *to*.
     private var languageToggle: some View {
         Button {
-            withAnimation(.snappy(duration: 0.2)) { language = language.toggled }
+            withAnimation(.snappy(duration: 0.2)) { settings.language = language.toggled }
         } label: {
             Text(language.toggled.icon)
                 .font(.system(size: 15, weight: .medium))
@@ -191,6 +216,7 @@ struct ReaderView: View {
 private struct ShlokaPage: View {
     let verse: Verse
     let language: ReadingLanguage
+    let settings: Settings
     @Environment(\.theme) private var theme
 
     private var words: [WordMeaning] { verse.words(for: language) }
@@ -201,19 +227,19 @@ private struct ShlokaPage: View {
             VStack(spacing: 30) {
                 shloka
 
-                if let translation = verse.translation(for: language) {
+                if settings.showTranslation, let translation = verse.translation(for: language) {
                     section(isDevanagari ? "अनुवाद" : "TRANSLATION", body: translation)
                 }
 
-                if let meaning = verse.meaning(for: language) {
+                if settings.showMeaning, let meaning = verse.meaning(for: language) {
                     section(isDevanagari ? "भावार्थ" : "MEANING", body: meaning)
                 }
 
-                if !words.isEmpty {
+                if settings.showWordByWord, !words.isEmpty {
                     wordList
                 }
 
-                if !verse.isEnriched {
+                if !verse.isEnriched, showsAnythingBelowTheShloka {
                     notYetEnriched
                 }
             }
@@ -308,6 +334,12 @@ private struct ShlokaPage: View {
             }
     }
 
+    /// With every switch off, an un-enriched verse looks exactly like an
+    /// enriched one — so the "not generated yet" note would be noise.
+    private var showsAnythingBelowTheShloka: Bool {
+        settings.showTranslation || settings.showMeaning || settings.showWordByWord
+    }
+
     private var notYetEnriched: some View {
         Text("Translation and word meanings for this verse have not been generated yet.")
             .font(.label)
@@ -361,11 +393,13 @@ private extension Array {
 #Preview("Reader") {
     ReaderView()
         .environment(Library.preview())
+        .environment(Settings())
         .environment(\.theme, .light)
 }
 
 #Preview("Sepia") {
     ReaderView()
         .environment(Library.preview())
+        .environment(Settings())
         .environment(\.theme, .sepia)
 }

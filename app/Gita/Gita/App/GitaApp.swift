@@ -10,6 +10,7 @@ struct GitaApp: App {
     /// Shared, injected rather than reached for through a singleton — this is
     /// what lets previews and tests run without the bundled database.
     @State private var library = Library()
+    @State private var settings = Settings()
 
     @Environment(\.colorScheme) private var colorScheme
 
@@ -17,7 +18,9 @@ struct GitaApp: App {
         WindowGroup {
             ReaderView()
                 .environment(library)
-                .environment(\.theme, Theme.resolved(for: colorScheme))
+                .environment(settings)
+                .environment(\.theme, settings.theme.resolve(for: colorScheme))
+                .dynamicTypeSize(settings.textSize.dynamicTypeSize)
         }
         #if os(macOS)
         .defaultSize(width: 720, height: 820)

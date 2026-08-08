@@ -5,27 +5,38 @@
 
 import SwiftUI
 
-/// Fonts are named by **role**, never by face or by a fixed point size.
+/// Fonts are named by **role**, never by face or by a bare point size.
 ///
-/// Every role is built with `relativeTo:` so Dynamic Type still scales the
-/// bundled Devanagari and serif faces (specs.md section 14). `.system(size:)`
-/// and bare `.custom(_:size:)` opt text out of Dynamic Type entirely — don't.
+/// Two rules hold throughout:
+///
+/// 1. Every role is built with `relativeTo:` so Dynamic Type — and the in-app
+///    text-size setting, which rides on it — scales the whole page in
+///    proportion. `.system(size:)` and bare `.custom(_:size:)` opt out entirely.
+/// 2. A role is the **same point size in both scripts**. The shloka is 27pt
+///    whether it is Devanagari or IAST, a gloss is 16pt either way. Only the
+///    face changes with the script, never the size.
 extension Font {
-    /// Devanagari face. Kohinoor ships with both iOS and macOS; if it is ever
-    /// absent SwiftUI falls back to the system Devanagari face rather than
-    /// failing, so this is safe before a font is bundled.
+    // Devanagari. Kohinoor ships with both iOS and macOS; if it is ever absent
+    // SwiftUI falls back to the system Devanagari face rather than failing.
     private static let devanagari = "KohinoorDevanagari-Light"
     private static let devanagariMedium = "KohinoorDevanagari-Medium"
+    // Latin serif, present on both platforms, so IAST can be sized to match.
+    private static let latin = "Georgia"
+
+    // One size per role, shared by both scripts.
+    private static let shlokaSize: CGFloat = 27
+    private static let wordSize: CGFloat = 17
+    private static let glossSize: CGFloat = 16
+    private static let proseSize: CGFloat = 17
 
     /// The mula shloka — the largest, quietest thing on screen.
     static var shloka: Font {
-        .custom(devanagari, size: 27, relativeTo: .title2)
+        .custom(devanagari, size: shlokaSize, relativeTo: .title2)
     }
 
-    /// The shloka in IAST — a serif, so the transliteration reads as scripture
-    /// rather than as UI text.
+    /// The same shloka in IAST, at the same size.
     static var shlokaLatin: Font {
-        .system(.title3, design: .serif)
+        .custom(latin, size: shlokaSize, relativeTo: .title2)
     }
 
     /// Chapter and verse reference, e.g. "2.47".
@@ -35,34 +46,32 @@ extension Font {
 
     /// A single word in the word-by-word list, and its gloss beside it.
     static var wordDevanagari: Font {
-        .custom(devanagariMedium, size: 17, relativeTo: .body)
+        .custom(devanagariMedium, size: wordSize, relativeTo: .body)
     }
 
     static var wordLatin: Font {
-        .system(.body, design: .serif).weight(.medium)
+        .custom(latin, size: wordSize, relativeTo: .body).weight(.medium)
     }
 
     static var glossDevanagari: Font {
-        .custom(devanagari, size: 16, relativeTo: .body)
+        .custom(devanagari, size: glossSize, relativeTo: .body)
     }
 
     static var glossLatin: Font {
-        .system(.body, design: .serif)
+        .custom(latin, size: glossSize, relativeTo: .body)
     }
 
-    /// Tracked, small-caps-ish labels and captions.
-    static var label: Font {
-        .system(.caption, design: .serif).weight(.medium)
-    }
-}
-
-extension Font {
-    /// Prose — translations and explanations, in either script.
+    /// Prose — translations and explanations.
     static var proseDevanagari: Font {
-        .custom("KohinoorDevanagari-Light", size: 17, relativeTo: .body)
+        .custom(devanagari, size: proseSize, relativeTo: .body)
     }
 
     static var proseLatin: Font {
-        .system(.body, design: .serif)
+        .custom(latin, size: proseSize, relativeTo: .body)
+    }
+
+    /// Tracked labels and captions.
+    static var label: Font {
+        .system(.caption, design: .serif).weight(.medium)
     }
 }

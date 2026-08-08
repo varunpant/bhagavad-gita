@@ -37,13 +37,4 @@ enum ReadingLanguage: String, CaseIterable, Identifiable, Sendable {
         self == .sanskrit ? .english : .sanskrit
     }
 
-    /// Which mode the reader opens in. Debug builds honour a launch argument so
-    /// UI tests and screenshot runs can start in either mode without tapping.
-    static var launchDefault: ReadingLanguage {
-        #if DEBUG
-        ProcessInfo.processInfo.arguments.contains("-startInEnglish") ? .english : .sanskrit
-        #else
-        .sanskrit
-        #endif
-    }
 }
