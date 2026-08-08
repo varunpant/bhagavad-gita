@@ -1,22 +1,149 @@
-# Binaries for programs and plugins
+# =====================================================
+# macOS
+# =====================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# =====================================================
+# Hugo (site — docs/ is the published build artifact and IS committed)
+# =====================================================
+.hugo_build.lock
+/resources/
+
+# =====================================================
+# Binaries / Go leftovers
+# =====================================================
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
-
-# Test binary, build with `go test -c`
 *.test
-
-# Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-.DS_Store
 
-# Hugo
-.hugo_build.lock
+# =====================================================
+# Xcode — user-specific
+# (shared schemes in xcshareddata/ are intentionally NOT ignored)
+# =====================================================
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+*.xcscmblueprint
+*.xccheckout
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
 
-# Python tooling
+# =====================================================
+# Xcode — build artifacts
+# =====================================================
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.hmap
+*.app
+*.framework.dSYM
+*.xcframework.dSYM
+timeline.xctimeline
+playground.xcworkspace
+
+# =====================================================
+# Swift Package Manager
+# =====================================================
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+
+# =====================================================
+# CocoaPods (not currently used, but defensive)
+# =====================================================
+Pods/
+*.podspec.lock
+
+# =====================================================
+# Carthage (not currently used, but defensive)
+# =====================================================
+Carthage/Build/
+Carthage/Checkouts/
+
+# =====================================================
+# Fastlane / CI artifacts
+# =====================================================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+fastlane/.env
+
+# =====================================================
+# Provisioning / signing (NEVER commit these)
+# =====================================================
+*.mobileprovision
+*.p12
+*.cer
+*.certSigningRequest
+
+# =====================================================
+# Python — main.py, tools/
+# =====================================================
 .venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# Hugo asset pipeline cache
-/resources/
+# =====================================================
+# Editors / IDEs
+# =====================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =====================================================
+# Logs / temp / OS
+# =====================================================
+*.log
+*.tmp
+*.bak
+*.backup
+.cache/
+
+# =====================================================
+# SQLite sidecar files (journal/WAL — never commit)
+# gita.sqlite itself IS committed; it is a build artifact from srimad.csv
+# =====================================================
+*.db-wal
+*.db-shm
+*.db-journal
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
