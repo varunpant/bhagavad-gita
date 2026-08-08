@@ -43,19 +43,13 @@ struct SettingsView: View {
                 }
 
                 Section {
-                    Toggle(isOn: $settings.showTranslation) {
-                        label("अनुवाद", "Translation")
-                    }
+                    Toggle("Translation", isOn: $settings.showTranslation)
                     .accessibilityIdentifier("toggleTranslation")
 
-                    Toggle(isOn: $settings.showMeaning) {
-                        label("भावार्थ", "Meaning")
-                    }
+                    Toggle("Meaning", isOn: $settings.showMeaning)
                     .accessibilityIdentifier("toggleMeaning")
 
-                    Toggle(isOn: $settings.showWordByWord) {
-                        label("शब्दार्थ", "Word by word")
-                    }
+                    Toggle("Word by word", isOn: $settings.showWordByWord)
                     .accessibilityIdentifier("toggleWordByWord")
                 } header: {
                     Text("Show beneath the shloka")
@@ -76,6 +70,7 @@ struct SettingsView: View {
                          + "scholar — they are a reading aid, not an authoritative translation.")
                 }
             }
+            .formStyle(.grouped)
             .navigationTitle("Settings")
             #if os(iOS)
             .navigationBarTitleDisplayMode(.inline)
@@ -87,6 +82,11 @@ struct SettingsView: View {
             }
         }
         .tint(theme.accent)
+        #if os(macOS)
+        // A macOS sheet sizes to its content, which for a Form means a cramped
+        // column. Give it room to breathe, and let it grow with the window.
+        .frame(minWidth: 460, idealWidth: 520, minHeight: 520, idealHeight: 620)
+        #endif
     }
 
     /// Devanagari name with its English gloss underneath — the same words the
@@ -103,9 +103,10 @@ struct SettingsView: View {
 
 extension ReadingLanguage {
     /// Longer than the toggle glyph — this is a list row, not a button.
+    /// Settings is in English throughout, so this is too.
     var settingsName: String {
         switch self {
-        case .sanskrit: "संस्कृत · Sanskrit"
+        case .sanskrit: "Sanskrit"
         case .english: "English"
         }
     }

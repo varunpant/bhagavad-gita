@@ -7,13 +7,16 @@ import Foundation
 import GRDB
 
 /// One word of the shloka and its meaning.
-struct WordMeaning: Identifiable, Hashable, Codable, Sendable {
+///
+/// Deliberately **not** `Identifiable`: a word is not a unique identity. Verses
+/// repeat words constantly — "च" three times in 1.5, "पृथक् पृथक्" closing 1.18 —
+/// so keying a list on the word itself collapses real rows and leaves stale ones
+/// behind when the list changes. Position is the identity; iterate with indices.
+nonisolated struct WordMeaning: Hashable, Codable, Sendable {
     /// The word itself — Devanagari in the Hindi list, IAST in the English one.
     let w: String
     /// Its gloss in that list's language.
     let m: String
-
-    var id: String { w }
 }
 
 /// One verse of the Gita, as stored in the bundled read-only `gita.sqlite`.
@@ -22,7 +25,7 @@ struct WordMeaning: Identifiable, Hashable, Codable, Sendable {
 /// `tools/enrich.py` and is **optional** — only part of the corpus has been
 /// enriched so far, so every field below `sanskrit` can be nil and the UI has to
 /// cope with that rather than assume it is there.
-struct Verse: Identifiable, Hashable, Codable, Sendable, FetchableRecord, TableRecord {
+nonisolated struct Verse: Identifiable, Hashable, Codable, Sendable, FetchableRecord, TableRecord {
     static let databaseTableName = "verses"
 
     /// Columns are snake_case in SQLite, properties are camelCase in Swift.

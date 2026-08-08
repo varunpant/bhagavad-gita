@@ -299,7 +299,7 @@ private struct ShlokaPage: View {
             heading(isDevanagari ? "शब्दार्थ" : "WORD BY WORD")
 
             Grid(alignment: .top, horizontalSpacing: 18, verticalSpacing: 12) {
-                ForEach(words) { word in
+                ForEach(Array(words.enumerated()), id: \.offset) { _, word in
                     GridRow {
                         Text(word.w)
                             .font(isDevanagari ? .wordDevanagari : .wordLatin)
@@ -317,6 +317,9 @@ private struct ShlokaPage: View {
                 }
             }
             .fixedSize(horizontal: true, vertical: false)
+            // Position is the row identity, so the two languages' lists must not
+            // be diffed against each other — rebuild outright on a switch.
+            .id(language)
         }
         .frame(maxWidth: .infinity)
     }

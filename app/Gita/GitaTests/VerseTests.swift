@@ -130,3 +130,36 @@ struct ContentDatabaseTests {
         #expect(try ContentDatabase().contentVersion() == "1")
     }
 }
+
+@Suite("Word-by-word glosses")
+struct WordMeaningTests {
+
+    /// The reason `WordMeaning` is not `Identifiable`: verses repeat words, so
+    /// the word cannot be a list identity. 1.18 closes on "पृथक् पृथक्", and
+    /// "च" appears three times in several verses of chapter 1.
+    @Test("Repeated words are all preserved, not collapsed")
+    func repeatedWordsSurvive() throws {
+        let verses = try ContentDatabase().allVerses()
+
+        guard let verse = verses.first(where: { $0.chapter == 1 && $0.sutra == 18 }),
+              verse.isEnriched else {
+            return  // not enriched yet; nothing to assert
+        }
+
+        let hindi = verse.words(for: .sanskrit)
+        #expect(hindi.count == verse.words(for: .english).count)
+        #expect(Set(hindi.map(\.w)).count < hindi.count,
+                "1.18 should contain a repeated word")
+    }
+
+    @Test("Every enriched verse glosses both languages to the same length")
+    func languagesAgree() throws {
+        for verse in try ContentDatabase().allVerses() where verse.isEnriched {
+            let hindi = verse.words(for: .sanskrit)
+            let english = verse.words(for: .english)
+            #expect(!hindi.isEmpty, "\(verse.reference) has no glosses")
+            #expect(hindi.count == english.count,
+                    "\(verse.reference): \(hindi.count) Hindi vs \(english.count) English")
+        }
+    }
+}
