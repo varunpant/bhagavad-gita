@@ -61,10 +61,22 @@ extension Library {
     static func preview() -> Library {
         let library = Library()
         library.verses = [
-            Verse(id: 1, chapter: 1, sutra: 1,
-                  sanskrit: "धृतराष्ट्र उवाच\n\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\n\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।।1.1।।"),
-            Verse(id: 60, chapter: 2, sutra: 47,
-                  sanskrit: "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।2.47।।"),
+            Verse(
+                id: 1, chapter: 1, sutra: 1,
+                sanskrit: "धृतराष्ट्र उवाच\n\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\n\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।।1.1।।",
+                transliteration: "dhṛtarāṣṭra uvāca\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya",
+                hindiTranslation: nil, englishTranslation: nil,
+                hindiMeaning: nil, englishMeaning: nil,
+                wordByWordHindi: #"[{"w":"धर्मक्षेत्रे","m":"धर्म की भूमि में"},{"w":"कुरुक्षेत्रे","m":"कुरुक्षेत्र में"}]"#,
+                wordByWordEnglish: #"[{"w":"dharmakṣetre","m":"on the field of dharma"},{"w":"kurukṣetre","m":"at Kurukshetra"}]"#
+            ),
+            Verse(
+                id: 60, chapter: 2, sutra: 47,
+                sanskrit: "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।2.47।।",
+                transliteration: nil, hindiTranslation: nil, englishTranslation: nil,
+                hindiMeaning: nil, englishMeaning: nil,
+                wordByWordHindi: nil, wordByWordEnglish: nil
+            ),
         ]
         library.state = .ready
         return library

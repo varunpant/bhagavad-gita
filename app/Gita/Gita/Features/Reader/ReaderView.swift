@@ -16,6 +16,7 @@ struct ReaderView: View {
     @Environment(\.theme) private var theme
 
     @State private var currentVerseID: Int?
+    @State private var language: ReadingLanguage = .launchDefault
 
     var body: some View {
         ZStack {
@@ -50,7 +51,7 @@ struct ReaderView: View {
             ScrollView(.horizontal) {
                 LazyHStack(spacing: 0) {
                     ForEach(library.verses) { verse in
-                        ShlokaPage(verse: verse)
+                        ShlokaPage(verse: verse, language: language)
                             .containerRelativeFrame(.horizontal)
                             .id(verse.id)
                     }
@@ -71,18 +72,51 @@ struct ReaderView: View {
     }
 
     private var header: some View {
-        Text(currentVerse.map { "अध्याय \($0.chapter) · श्लोक \($0.sutra)" } ?? " ")
-            .font(.verseReference)
-            .foregroundStyle(theme.textSecondary)
-            .padding(.vertical, 14)
-            .frame(maxWidth: .infinity)
-            .background(theme.background)
-            .overlay(alignment: .bottom) {
-                Rectangle()
-                    .fill(theme.divider)
-                    .frame(height: 1)
+        ZStack {
+            Text(currentVerse.map { "अध्याय \($0.chapter) · श्लोक \($0.sutra)" } ?? " ")
+                .font(.verseReference)
+                .foregroundStyle(theme.textSecondary)
+                .accessibilityHidden(true)
+
+            HStack {
+                Spacer()
+                languageToggle
             }
-            .accessibilityHidden(true)
+            .padding(.trailing, 16)
+        }
+        .padding(.vertical, 10)
+        .frame(maxWidth: .infinity)
+        .background(theme.background)
+        .overlay(alignment: .bottom) {
+            Rectangle()
+                .fill(theme.divider)
+                .frame(height: 1)
+        }
+    }
+
+    /// Flips the scripture and the word meanings together. Sits on the right of
+    /// the header, showing the script it will switch *to*.
+    private var languageToggle: some View {
+        Button {
+            withAnimation(.snappy(duration: 0.2)) { language = language.toggled }
+        } label: {
+            Text(language.toggled.icon)
+                .font(.system(size: 15, weight: .medium))
+                .frame(width: 34, height: 30)
+                .background(
+                    RoundedRectangle(cornerRadius: 8, style: .continuous)
+                        .fill(theme.accent.opacity(0.10))
+                )
+                .overlay(
+                    RoundedRectangle(cornerRadius: 8, style: .continuous)
+                        .stroke(theme.accent.opacity(0.25), lineWidth: 1)
+                )
+                .contentShape(.rect)
+        }
+        .buttonStyle(.plain)
+        .foregroundStyle(theme.accent)
+        .accessibilityIdentifier("languageToggle")
+        .accessibilityLabel("Switch to \(language.toggled.accessibilityName)")
     }
 
     private var footer: some View {
@@ -156,32 +190,85 @@ struct ReaderView: View {
 
 private struct ShlokaPage: View {
     let verse: Verse
+    let language: ReadingLanguage
     @Environment(\.theme) private var theme
 
-    var body: some View {
-        VStack {
-            Spacer(minLength: 0)
+    private var words: [WordMeaning] { verse.words(for: language) }
 
-            VStack(spacing: 18) {
-                ForEach(Array(verse.lines.enumerated()), id: \.offset) { _, line in
-                    Text(line)
-                        .font(.shloka)
-                        .foregroundStyle(theme.textPrimary)
-                        .multilineTextAlignment(.center)
-                        .lineSpacing(10)
+    var body: some View {
+        ScrollView(.vertical) {
+            VStack(spacing: 32) {
+                shloka
+                if !words.isEmpty {
+                    Divider().background(theme.divider)
+                    wordList
+                } else if !verse.isEnriched {
+                    notYetEnriched
                 }
             }
             // A comfortable measure, centred — the text column never stretches
             // to fill a wide iPad or Mac window (specs.md section 13).
             .frame(maxWidth: 560)
+            .frame(maxWidth: .infinity)
             .padding(.horizontal, 32)
-
-            Spacer(minLength: 0)
+            .padding(.vertical, 36)
         }
+        .scrollIndicators(.hidden)
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .accessibilityElement(children: .contain)
+    }
+
+    private var shloka: some View {
+        VStack(spacing: 16) {
+            ForEach(Array(Verse.lines(of: verse.scripture(for: language)).enumerated()), id: \.offset) { _, line in
+                Text(line)
+                    .font(language == .sanskrit ? .shloka : .shlokaLatin)
+                    .foregroundStyle(theme.textPrimary)
+                    .multilineTextAlignment(.center)
+                    .lineSpacing(10)
+            }
+        }
+        .frame(maxWidth: .infinity)
         .accessibilityElement(children: .combine)
         .accessibilityLabel("Chapter \(verse.chapter), verse \(verse.sutra)")
         .accessibilityValue(Text(spokenShloka))
+    }
+
+    /// Word and gloss, one pair per row. A `Grid` keeps the glosses aligned in a
+    /// column no matter how long the words are — the thing a plain HStack per
+    /// row cannot do, since each row would size independently.
+    private var wordList: some View {
+        VStack(alignment: .leading, spacing: 14) {
+            Text(language == .sanskrit ? "शब्दार्थ" : "WORD BY WORD")
+                .font(.label)
+                .tracking(1.2)
+                .foregroundStyle(theme.textSecondary)
+
+            Grid(alignment: .topLeading, horizontalSpacing: 16, verticalSpacing: 12) {
+                ForEach(words) { word in
+                    GridRow {
+                        Text(word.w)
+                            .font(language == .sanskrit ? .wordDevanagari : .wordLatin)
+                            .foregroundStyle(theme.accent)
+                            .gridColumnAlignment(.leading)
+                        Text(word.m)
+                            .font(language == .sanskrit ? .glossDevanagari : .glossLatin)
+                            .foregroundStyle(theme.textSecondary)
+                            .fixedSize(horizontal: false, vertical: true)
+                    }
+                    .accessibilityElement(children: .combine)
+                }
+            }
+        }
+        .frame(maxWidth: .infinity, alignment: .leading)
+    }
+
+    private var notYetEnriched: some View {
+        Text("Word meanings for this verse have not been generated yet.")
+            .font(.label)
+            .foregroundStyle(theme.textSecondary.opacity(0.7))
+            .multilineTextAlignment(.center)
+            .padding(.top, 8)
     }
 
     /// Tagging the value as Sanskrit makes VoiceOver reach for a Devanagari
