@@ -281,3 +281,66 @@ final class ContentsUITests: XCTestCase {
                        "reader did not move to 2.47, showing \(reference.label)")
     }
 }
+
+/// The contents has its own language switch, seeded from the reader's but not
+/// tied to it.
+final class ContentsLanguageUITests: XCTestCase {
+
+    private var app: XCUIApplication!
+
+    override func setUp() {
+        continueAfterFailure = false
+        #if os(iOS)
+        XCUIDevice.shared.orientation = .portrait
+        #endif
+        app = XCUIApplication()
+        app.launchArguments += ["-resetSettings"]
+        app.launch()
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
+    }
+
+    private func openContents() {
+        app.buttons["verseReference"].tap()
+        XCTAssertTrue(app.buttons["tocLanguageToggle"].waitForExistence(timeout: 5))
+    }
+
+    func testContentsOpensInTheReadersLanguage() {
+        openContents()
+        // Reader defaults to Sanskrit, so the contents should too.
+        XCTAssertTrue(app.staticTexts["अध्याय"].exists, "contents did not open in Sanskrit")
+    }
+
+    func testTogglingSwitchesTheChapterNames() {
+        openContents()
+        XCTAssertTrue(app.staticTexts["अध्याय"].exists)
+
+        app.buttons["tocLanguageToggle"].tap()
+        XCTAssertTrue(app.staticTexts["CHAPTERS"].waitForExistence(timeout: 3), "did not switch to English")
+        XCTAssertFalse(app.staticTexts["अध्याय"].exists)
+
+        app.buttons["tocLanguageToggle"].tap()
+        XCTAssertTrue(app.staticTexts["अध्याय"].waitForExistence(timeout: 3), "did not switch back")
+    }
+
+    /// The point of keeping it local: browsing the contents in English must not
+    /// change what the reader is showing.
+    func testContentsLanguageDoesNotChangeTheReader() {
+        openContents()
+        app.buttons["tocLanguageToggle"].tap()
+        XCTAssertTrue(app.staticTexts["CHAPTERS"].waitForExistence(timeout: 3))
+
+        app.buttons["tocClose"].tap()
+
+        XCTAssertTrue(app.staticTexts["शब्दार्थ"].waitForExistence(timeout: 5),
+                      "reader should still be in Sanskrit")
+        XCTAssertFalse(app.staticTexts["WORD BY WORD"].exists)
+    }
+
+    func testCloseButtonDismissesTheContents() {
+        openContents()
+        app.buttons["tocClose"].tap()
+        XCTAssertFalse(app.buttons["tocLanguageToggle"].waitForExistence(timeout: 2),
+                       "contents did not dismiss")
+        XCTAssertTrue(app.buttons["verseReference"].exists)
+    }
+}

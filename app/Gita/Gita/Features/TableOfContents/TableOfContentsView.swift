@@ -13,6 +13,7 @@ import SwiftUI
 struct TableOfContentsView: View {
     @Environment(Library.self) private var library
     @Environment(SemanticIndex.self) private var semanticIndex
+    @Environment(Settings.self) private var settings
     @Environment(\.theme) private var theme
     @Environment(\.dismiss) private var dismiss
 
@@ -30,6 +31,14 @@ struct TableOfContentsView: View {
     @State private var relatedHits: [SearchHit] = []
     @FocusState private var searchFocused: Bool
 
+    /// Seeded from the reader's language when the sheet opens, then owned by
+    /// the sheet. Browsing the contents in English while reading in Sanskrit is
+    /// a reasonable thing to want, and it should not change what the reader
+    /// shows when the sheet closes.
+    @State private var language: ReadingLanguage = .sanskrit
+
+    private var isDevanagari: Bool { language == .sanskrit }
+
     var body: some View {
         VStack(spacing: 0) {
             header
@@ -42,7 +51,10 @@ struct TableOfContentsView: View {
         }
         .background(theme.background)
         .task(id: query) { await runSearch() }
-        .onAppear { expandedChapter = currentVerse?.chapter }
+        .onAppear {
+            expandedChapter = currentVerse?.chapter
+            language = settings.language
+        }
         #if os(macOS)
         .frame(minWidth: 420, idealWidth: 480, minHeight: 520, idealHeight: 640)
         #endif
@@ -54,6 +66,23 @@ struct TableOfContentsView: View {
     /// occupy the same row, so opening search costs no vertical space.
     private var header: some View {
         HStack(spacing: 12) {
+            // A chevron rather than a second xmark: the magnifier's close button
+            // is already an xmark, and two of them in one row would be ambiguous.
+            // On Mac this is the only way out at all — a sheet there has no
+            // swipe-to-dismiss.
+            Button {
+                dismiss()
+            } label: {
+                Image(systemName: "chevron.down")
+                    .font(.system(size: 14, weight: .semibold))
+                    .frame(width: 30, height: 30)
+                    .contentShape(.rect)
+            }
+            .buttonStyle(.plain)
+            .foregroundStyle(theme.textSecondary)
+            .accessibilityIdentifier("tocClose")
+            .accessibilityLabel("Close contents")
+
             if searching {
                 Image(systemName: "magnifyingglass")
                     .foregroundStyle(theme.textSecondary)
@@ -70,11 +99,14 @@ struct TableOfContentsView: View {
                     .textInputAutocapitalization(.never)
                 #endif
             } else {
-                Text("अध्याय")
-                    .font(.verseReference)
+                Text(isDevanagari ? "अध्याय" : "CHAPTERS")
+                    .font(isDevanagari ? .verseReference : .label)
+                    .tracking(isDevanagari ? 0 : 1.2)
                     .foregroundStyle(theme.textSecondary)
                 Spacer()
             }
+
+            languageToggle
 
             Button {
                 withAnimation(.snappy(duration: 0.22)) {
@@ -98,6 +130,32 @@ struct TableOfContentsView: View {
         .overlay(alignment: .bottom) {
             Rectangle().fill(theme.divider).frame(height: 1)
         }
+    }
+
+    /// Same control as the reader's, showing the script it switches *to*.
+    private var languageToggle: some View {
+        Button {
+            withAnimation(.snappy(duration: 0.2)) {
+                language = language.toggled
+            }
+        } label: {
+            Text(language.toggled.icon)
+                .font(.system(size: 15, weight: .medium))
+                .frame(width: 34, height: 30)
+                .background(
+                    RoundedRectangle(cornerRadius: 8, style: .continuous)
+                        .fill(theme.accent.opacity(0.10))
+                )
+                .overlay(
+                    RoundedRectangle(cornerRadius: 8, style: .continuous)
+                        .stroke(theme.accent.opacity(0.25), lineWidth: 1)
+                )
+                .contentShape(.rect)
+        }
+        .buttonStyle(.plain)
+        .foregroundStyle(theme.accent)
+        .accessibilityIdentifier("tocLanguageToggle")
+        .accessibilityLabel("Switch to \(language.toggled.accessibilityName)")
     }
 
     // MARK: - Chapters
@@ -132,8 +190,9 @@ struct TableOfContentsView: View {
             HStack(spacing: 14) {
                 // The chapter number as a Devanagari numeral in a ring, rather
                 // than the word "Chapter" repeated eighteen times.
-                Text(chapter.devanagariNumber)
-                    .font(.wordDevanagari)
+                Text(isDevanagari ? chapter.devanagariNumber : "\(chapter.id)")
+                    .font(isDevanagari ? .wordDevanagari : .wordLatin)
+                    .monospacedDigit()
                     .foregroundStyle(isCurrent(chapter) ? theme.background : theme.accent)
                     .frame(width: 34, height: 34)
                     .background {
@@ -143,11 +202,11 @@ struct TableOfContentsView: View {
                     }
 
                 VStack(alignment: .leading, spacing: 2) {
-                    Text(chapter.nameSa)
-                        .font(.wordDevanagari)
+                    Text(isDevanagari ? chapter.nameSa : chapter.nameEn)
+                        .font(isDevanagari ? .wordDevanagari : .wordLatin)
                         .foregroundStyle(theme.textPrimary)
-                    Text(chapter.nameEn)
-                        .font(.label)
+                    Text(isDevanagari ? chapter.nameEn : chapter.nameSa)
+                        .font(isDevanagari ? .label : .glossDevanagari)
                         .foregroundStyle(theme.textSecondary)
                 }
 
@@ -243,7 +302,7 @@ struct TableOfContentsView: View {
                         .monospacedDigit()
                         .foregroundStyle(theme.accent)
                     marked(hit.snippet)
-                        .font(.glossLatin)
+                        .font(isDevanagari ? .glossDevanagari : .glossLatin)
                         .foregroundStyle(theme.textSecondary)
                         .multilineTextAlignment(.leading)
                         .lineLimit(3)
@@ -306,7 +365,10 @@ struct TableOfContentsView: View {
         relatedHits = related
             .filter { !seen.contains($0) }
             .compactMap { id in
-                byId[id].map { SearchHit(verse: $0, snippet: $0.englishTranslation ?? "") }
+                byId[id].map { verse in
+                    SearchHit(verse: verse,
+                              snippet: verse.translation(for: language) ?? verse.sanskrit)
+                }
             }
     }
 }
@@ -315,5 +377,6 @@ struct TableOfContentsView: View {
     TableOfContentsView(currentVerse: nil) { _ in }
         .environment(Library.preview())
         .environment(SemanticIndex())
+        .environment(Settings())
         .environment(\.theme, .light)
 }
