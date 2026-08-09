@@ -43,7 +43,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE_DB = ROOT / "app" / "Gita" / "Gita" / "Resources" / "Database" / "gita.sqlite"
 OUTPUT_DB = ROOT / "enriched.sqlite"
 
-DEFAULT_MODEL = "gemini-2.5-pro"
+DEFAULT_MODEL = "gemini-2.0-flash"
 DEFAULT_CONCURRENCY = 5
 MAX_ATTEMPTS = 4
 
@@ -63,6 +63,7 @@ FATAL_MARKERS = (
 # rate. Update when Google changes pricing — these are only for the estimate
 # printed at the end of a run, never for a decision the script makes.
 PRICES = {
+    "gemini-2.0-flash": (0.10, 0.40),      # free tier available
     "gemini-3.1-pro-preview": (2.00, 12.00),
     "gemini-3-pro-preview": (2.00, 12.00),
     "gemini-2.5-pro": (1.25, 10.00),
