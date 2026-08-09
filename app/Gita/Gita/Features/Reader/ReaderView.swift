@@ -43,13 +43,6 @@ struct ReaderView: View {
             }
         }
         .task { await library.load() }
-        .task(id: library.state.isReady) {
-            // Build the semantic index once the text is in memory. Low priority
-            // and off the main actor: reading must never wait for it.
-            guard library.state.isReady else { return }
-            await semanticIndex.prepare(verses: library.verses,
-                                        contentVersion: library.contentVersion)
-        }
         .sheet(isPresented: $showingSettings) {
             SettingsView()
                 .presentationBackground(theme.background)

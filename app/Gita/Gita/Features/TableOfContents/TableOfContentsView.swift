@@ -98,6 +98,7 @@ struct TableOfContentsView: View {
                     if !searching { query = "" }
                 }
                 searchFocused = searching
+                if searching { prepareSemanticIndex() }
             } label: {
                 Image(systemName: searching ? "chevron.up" : "magnifyingglass")
                     .font(.system(size: 17, weight: .regular))
@@ -335,6 +336,20 @@ struct TableOfContentsView: View {
     private func choose(_ verse: Verse) {
         onSelect(verse)
         dismiss()
+    }
+
+    /// Semantic search is built on first use, not at launch.
+    ///
+    /// It costs seconds — embedding 701 verses on device, or waiting on an OS
+    /// language asset that may not be present — and a reader who only ever
+    /// scrolls should never pay for it. Full-text search works immediately
+    /// regardless; this only adds the "Related" results once it is ready.
+    private func prepareSemanticIndex() {
+        guard semanticIndex.state == .idle else { return }
+        Task {
+            await semanticIndex.prepare(verses: library.verses,
+                                        contentVersion: library.contentVersion)
+        }
     }
 
     private func runSearch() async {
