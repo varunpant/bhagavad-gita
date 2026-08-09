@@ -81,13 +81,17 @@ The wizard defaults do **not** match the spec. Target state:
 | `SWIFT_VERSION` | `6.0` (Swift 6 language mode) | Data-race safety enforced at compile time |
 | `SWIFT_APPROACHABLE_CONCURRENCY` | `YES` | Single-threaded by default; see Concurrency |
 | `SWIFT_DEFAULT_ACTOR_ISOLATION` | `MainActor` | ditto |
-| App Group | `group.<bundle-id>` | §10/§11: widgets read progress + daily verse |
+| App Group | `group.com.varunpant.Gita`, via `Gita.entitlements` | §10/§11: widgets read progress + daily verse |
 | `PRODUCT_BUNDLE_IDENTIFIER` | pick once, never change | Ships to the App Store; App Group and CloudKit derive from it |
 
-Add the App Group **before** writing any persistence code. `user.sqlite` must be
-created in the group container from the first line. RigVeda's `DatabaseService`
-carries a permanent Documents→App Group migration block precisely because that
-decision came second — don't inherit that debt.
+The App Group is configured: `Gita.entitlements` sits **beside** the synchronized
+source folder, not inside it, so Xcode's filesystem groups cannot sweep it into
+the bundle as a resource. `UserDatabase` prefers the group container and falls
+back to Application Support, so it kept working before the entitlement existed
+and keeps working in contexts without it (previews, some test hosts).
+
+A widget target added later needs the same entitlement and the same group id, and
+must be code-signed by the same team.
 
 ## Concurrency — Swift 6, approachable mode
 

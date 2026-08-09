@@ -427,6 +427,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				CODE_SIGN_ENTITLEMENTS = Gita.entitlements;
 				PRODUCT_BUNDLE_IDENTIFIER = com.varunpant.Gita;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
@@ -469,6 +470,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				CODE_SIGN_ENTITLEMENTS = Gita.entitlements;
 				PRODUCT_BUNDLE_IDENTIFIER = com.varunpant.Gita;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
