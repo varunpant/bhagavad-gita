@@ -18,6 +18,8 @@ final class Library {
         case loading
         case ready
         case failed(String)
+
+        var isReady: Bool { if case .ready = self { true } else { false } }
     }
 
     private(set) var verses: [Verse] = []

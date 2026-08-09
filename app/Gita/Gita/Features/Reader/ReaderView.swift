@@ -403,10 +403,6 @@ private struct ProgressRail: View {
 
 // MARK: - Helpers
 
-private extension Library.State {
-    var isReady: Bool { if case .ready = self { true } else { false } }
-}
-
 private extension Array {
     subscript(safe index: Int) -> Element? {
         indices.contains(index) ? self[index] : nil

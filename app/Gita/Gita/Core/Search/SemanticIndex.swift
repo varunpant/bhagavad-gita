@@ -213,7 +213,7 @@ final class SemanticIndex {
 
     private nonisolated static func writeCache(_ vectors: VerseVectors, contentVersion: String) throws {
         var data = Data()
-        var header = [magic, format, UInt32(vectors.count), UInt32(vectors.dimension)]
+        let header = [magic, format, UInt32(vectors.count), UInt32(vectors.dimension)]
         header.withUnsafeBufferPointer { data.append(Data(buffer: $0)) }
         vectors.mean.withUnsafeBufferPointer { data.append(Data(buffer: $0)) }
         vectors.ids.map(Int32.init).withUnsafeBufferPointer { data.append(Data(buffer: $0)) }

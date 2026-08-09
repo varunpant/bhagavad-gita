@@ -17,7 +17,7 @@ struct GitaApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ReaderView()
+            RootView()
                 .environment(library)
                 .environment(settings)
                 .environment(semanticIndex)

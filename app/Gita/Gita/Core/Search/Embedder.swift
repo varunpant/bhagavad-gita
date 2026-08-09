@@ -11,7 +11,7 @@ import OSLog
 ///
 /// Resuming twice is a crash, and never resuming is a hang; both are live risks
 /// when a system callback races a timeout.
-private final class ResumeOnce: @unchecked Sendable {
+private nonisolated final class ResumeOnce: @unchecked Sendable {
     private let lock = NSLock()
     private var claimed = false
 

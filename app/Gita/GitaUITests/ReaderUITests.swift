@@ -15,6 +15,7 @@ final class ReaderUITests: XCTestCase {
     override func setUp() {
         continueAfterFailure = false
         app = XCUIApplication()
+        app.launchArguments += ["-skipSplash"]
         app.launch()
     }
 
@@ -79,7 +80,7 @@ final class LanguageToggleUITests: XCTestCase {
 
     private func launch(english: Bool = false) -> XCUIApplication {
         let app = XCUIApplication()
-        app.launchArguments += ["-resetSettings"]
+        app.launchArguments += ["-resetSettings", "-skipSplash"]
         if english { app.launchArguments += ["-startInEnglish"] }
         app.launch()
         return app
@@ -130,7 +131,7 @@ final class SettingsUITests: XCTestCase {
         XCUIDevice.shared.orientation = .portrait
         #endif
         app = XCUIApplication()
-        app.launchArguments += ["-resetSettings"]
+        app.launchArguments += ["-resetSettings", "-skipSplash"]
         app.launch()
         XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
     }
@@ -236,7 +237,7 @@ final class ContentsUITests: XCTestCase {
         XCUIDevice.shared.orientation = .portrait
         #endif
         app = XCUIApplication()
-        app.launchArguments += ["-resetSettings"]
+        app.launchArguments += ["-resetSettings", "-skipSplash"]
         app.launch()
         XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
     }
@@ -306,7 +307,7 @@ final class ContentsLanguageUITests: XCTestCase {
         XCUIDevice.shared.orientation = .portrait
         #endif
         app = XCUIApplication()
-        app.launchArguments += ["-resetSettings"]
+        app.launchArguments += ["-resetSettings", "-skipSplash"]
         app.launch()
         XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
     }

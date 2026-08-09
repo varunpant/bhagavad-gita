@@ -154,7 +154,7 @@ CONTENTS = {
             "appearances": [{"appearance": "luminosity", "value": "tinted"}],
             "filename": "icon-tinted.png", "idiom": "universal", "platform": "ios", "size": "1024x1024",
         },
-        {"filename": "icon-light.png", "idiom": "mac", "scale": "1x", "size": "512x512"},
+        {"filename": "icon-mac-512.png", "idiom": "mac", "scale": "1x", "size": "512x512"},
     ],
     "info": {"author": "xcode", "version": 1},
 }
@@ -168,11 +168,12 @@ def main() -> None:
     light.save(ICONSET / "icon-light.png")
     compose(diagonal_gradient(*DARK)).save(ICONSET / "icon-dark.png")
     tinted().save(ICONSET / "icon-tinted.png")
+    light.resize((512, 512), Image.LANCZOS).save(ICONSET / "icon-mac-512.png")
     light.save(LOGO)
 
     (ICONSET / "Contents.json").write_text(json.dumps(CONTENTS, indent=2) + "\n")
 
-    print(f"wrote 3 icon variants to {ICONSET.relative_to(ROOT)}")
+    print(f"wrote 4 icon files to {ICONSET.relative_to(ROOT)}")
     print(f"wrote {LOGO.relative_to(ROOT)}")
 
 
