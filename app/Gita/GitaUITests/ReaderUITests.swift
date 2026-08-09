@@ -85,30 +85,30 @@ final class LanguageToggleUITests: XCTestCase {
         return app
     }
 
-    func testStartsInSanskritAndShowsHindiWordMeanings() {
+    func testStartsInSanskritAndShowsHindiHeadings() {
         let app = launch()
         XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
-        XCTAssertTrue(app.staticTexts["शब्दार्थ"].exists, "Hindi word-meaning heading missing")
-        XCTAssertFalse(app.staticTexts["WORD BY WORD"].exists)
+        XCTAssertTrue(app.staticTexts["अनुवाद"].exists, "Hindi translation heading missing")
+        XCTAssertFalse(app.staticTexts["TRANSLATION"].exists)
     }
 
-    func testTogglingSwitchesScriptureAndWordMeanings() {
+    func testTogglingSwitchesScriptureAndHeadings() {
         let app = launch()
-        XCTAssertTrue(app.staticTexts["शब्दार्थ"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 10))
 
         app.buttons["languageToggle"].tap()
 
-        let english = app.staticTexts["WORD BY WORD"]
+        let english = app.staticTexts["TRANSLATION"]
         XCTAssertTrue(english.waitForExistence(timeout: 5), "did not switch to English")
-        XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists, "Hindi meanings still showing")
+        XCTAssertFalse(app.staticTexts["अनुवाद"].exists, "Hindi headings still showing")
 
         app.buttons["languageToggle"].tap()
-        XCTAssertTrue(app.staticTexts["शब्दार्थ"].waitForExistence(timeout: 5), "did not switch back")
+        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 5), "did not switch back")
     }
 
     func testEnglishModeShowsTransliterationNotDevanagari() {
         let app = launch(english: true)
-        XCTAssertTrue(app.staticTexts["WORD BY WORD"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.staticTexts["TRANSLATION"].waitForExistence(timeout: 10))
         // The IAST replaces the Devanagari. Match on content rather than on an
         // exact line, since how the transliteration breaks is the model's choice.
         let iast = app.staticTexts.containing(
@@ -166,10 +166,12 @@ final class SettingsUITests: XCTestCase {
         XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 5))
     }
 
-    func testAllThreeBlocksShowByDefault() {
-        XCTAssertTrue(app.staticTexts["अनुवाद"].exists)
-        XCTAssertTrue(app.staticTexts["भावार्थ"].exists)
-        XCTAssertTrue(app.staticTexts["शब्दार्थ"].exists)
+    /// Translation and meaning are the reading experience; word-by-word is
+    /// study material and opt-in.
+    func testTranslationAndMeaningShowByDefaultButNotWordByWord() {
+        XCTAssertTrue(app.staticTexts["अनुवाद"].exists, "translation should be on by default")
+        XCTAssertTrue(app.staticTexts["भावार्थ"].exists, "meaning should be on by default")
+        XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists, "word-by-word should be off by default")
     }
 
     /// The point of the setting: each block is independent, so turning one off
@@ -181,12 +183,12 @@ final class SettingsUITests: XCTestCase {
 
         XCTAssertFalse(app.staticTexts["अनुवाद"].exists, "translation should be hidden")
         XCTAssertTrue(app.staticTexts["भावार्थ"].exists, "meaning should be untouched")
-        XCTAssertTrue(app.staticTexts["शब्दार्थ"].exists, "word list should be untouched")
     }
 
     func testTurningEverythingOffLeavesOnlyTheShloka() {
         openSettings()
-        for identifier in ["toggleTranslation", "toggleMeaning", "toggleWordByWord"] {
+        // Word-by-word starts off, so only the two on by default need flipping.
+        for identifier in ["toggleTranslation", "toggleMeaning"] {
             flip(identifier)
         }
         closeSettings()
@@ -197,18 +199,26 @@ final class SettingsUITests: XCTestCase {
         XCTAssertTrue(app.buttons["verseReference"].exists, "the verse itself should remain")
     }
 
-    /// Settings live in user.sqlite, so a choice has to survive a relaunch.
-    func testChoiceSurvivesRelaunch() {
+    /// Settings live in user.sqlite, so a choice has to survive a relaunch — in
+    /// both directions, since turning a default-on setting off and a default-off
+    /// setting on are stored identically but fail differently.
+    func testChoicesSurviveRelaunch() {
         openSettings()
-        flip("toggleWordByWord")
+        flip("toggleWordByWord")     // off by default -> on
+        flip("toggleMeaning")        // on by default  -> off
         closeSettings()
-        XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists)
+        XCTAssertTrue(app.staticTexts["शब्दार्थ"].waitForExistence(timeout: 3))
+        XCTAssertFalse(app.staticTexts["भावार्थ"].exists)
 
         app.terminate()
         app.launchArguments.removeAll { $0 == "-resetSettings" }
         app.launch()
         XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
-        XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists, "setting did not persist")
+
+        XCTAssertTrue(app.staticTexts["शब्दार्थ"].waitForExistence(timeout: 5),
+                      "word-by-word was switched on but did not persist")
+        XCTAssertFalse(app.staticTexts["भावार्थ"].exists,
+                       "meaning was switched off but came back")
     }
 }
 
@@ -331,9 +341,9 @@ final class ContentsLanguageUITests: XCTestCase {
 
         app.buttons["tocClose"].tap()
 
-        XCTAssertTrue(app.staticTexts["शब्दार्थ"].waitForExistence(timeout: 5),
+        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 5),
                       "reader should still be in Sanskrit")
-        XCTAssertFalse(app.staticTexts["WORD BY WORD"].exists)
+        XCTAssertFalse(app.staticTexts["TRANSLATION"].exists)
     }
 
     func testCloseButtonDismissesTheContents() {

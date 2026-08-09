@@ -66,23 +66,6 @@ struct TableOfContentsView: View {
     /// occupy the same row, so opening search costs no vertical space.
     private var header: some View {
         HStack(spacing: 12) {
-            // A chevron rather than a second xmark: the magnifier's close button
-            // is already an xmark, and two of them in one row would be ambiguous.
-            // On Mac this is the only way out at all — a sheet there has no
-            // swipe-to-dismiss.
-            Button {
-                dismiss()
-            } label: {
-                Image(systemName: "chevron.down")
-                    .font(.system(size: 14, weight: .semibold))
-                    .frame(width: 30, height: 30)
-                    .contentShape(.rect)
-            }
-            .buttonStyle(.plain)
-            .foregroundStyle(theme.textSecondary)
-            .accessibilityIdentifier("tocClose")
-            .accessibilityLabel("Close contents")
-
             if searching {
                 Image(systemName: "magnifyingglass")
                     .foregroundStyle(theme.textSecondary)
@@ -115,7 +98,7 @@ struct TableOfContentsView: View {
                 }
                 searchFocused = searching
             } label: {
-                Image(systemName: searching ? "xmark" : "magnifyingglass")
+                Image(systemName: searching ? "chevron.up" : "magnifyingglass")
                     .font(.system(size: 15, weight: .medium))
                     .frame(width: 34, height: 30)
                     .contentShape(.rect)
@@ -124,6 +107,21 @@ struct TableOfContentsView: View {
             .foregroundStyle(theme.accent)
             .accessibilityIdentifier("tocSearchToggle")
             .accessibilityLabel(searching ? "Close search" : "Search")
+
+            // Rightmost, and the only xmark in the sheet: on Mac this is the
+            // sole way out, as a sheet there has no swipe-to-dismiss.
+            Button {
+                dismiss()
+            } label: {
+                Image(systemName: "xmark")
+                    .font(.system(size: 14, weight: .semibold))
+                    .frame(width: 30, height: 30)
+                    .contentShape(.rect)
+            }
+            .buttonStyle(.plain)
+            .foregroundStyle(theme.textSecondary)
+            .accessibilityIdentifier("tocClose")
+            .accessibilityLabel("Close contents")
         }
         .padding(.horizontal, 16)
         .padding(.vertical, 10)

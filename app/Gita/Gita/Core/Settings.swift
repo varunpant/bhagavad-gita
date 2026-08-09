@@ -72,11 +72,17 @@ final class Settings {
     var language: ReadingLanguage = .sanskrit { didSet { persist(language.rawValue, .language) } }
     var textSize: TextSize = .medium { didSet { persist(textSize.rawValue, .textSize) } }
 
-    /// Which blocks the reader draws beneath the shloka. All on by default —
-    /// a reader who wants only the verse can switch the rest off.
+    /// Which blocks the reader draws beneath the shloka.
+    ///
+    /// Translation and meaning are on out of the box — that is the reading
+    /// experience. The word-by-word list is study material and much longer than
+    /// the verse itself, so it is opt-in.
+    ///
+    /// Each is written to `user.sqlite` the moment it changes, so a reader's
+    /// choice holds for every future session until they change it again.
     var showTranslation = true { didSet { persist(showTranslation, .showTranslation) } }
     var showMeaning = true { didSet { persist(showMeaning, .showMeaning) } }
-    var showWordByWord = true { didSet { persist(showWordByWord, .showWordByWord) } }
+    var showWordByWord = false { didSet { persist(showWordByWord, .showWordByWord) } }
 
     private var store: UserDatabase?
     private var loading = false
@@ -125,7 +131,7 @@ final class Settings {
         if let raw = values[Key.textSize.rawValue], let value = TextSize(rawValue: raw) { textSize = value }
         showTranslation = values[Key.showTranslation.rawValue].map { $0 == "1" } ?? true
         showMeaning = values[Key.showMeaning.rawValue].map { $0 == "1" } ?? true
-        showWordByWord = values[Key.showWordByWord.rawValue].map { $0 == "1" } ?? true
+        showWordByWord = values[Key.showWordByWord.rawValue].map { $0 == "1" } ?? false
     }
 
     private func persist(_ value: String, _ key: Key) {

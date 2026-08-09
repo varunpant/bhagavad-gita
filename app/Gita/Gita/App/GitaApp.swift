@@ -23,6 +23,11 @@ struct GitaApp: App {
                 .environment(semanticIndex)
                 .environment(\.theme, settings.theme.resolve(for: colorScheme))
                 .dynamicTypeSize(settings.textSize.dynamicTypeSize)
+                // Without this the app's own colours follow the chosen theme but
+                // every system control — Form rows, pickers, toggles, the sheet
+                // background — stays on the device appearance, so picking Dark
+                // left half the UI light.
+                .preferredColorScheme(settings.theme.resolve(for: colorScheme).colorScheme)
         }
         #if os(macOS)
         .defaultSize(width: 720, height: 820)
