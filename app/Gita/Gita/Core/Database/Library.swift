@@ -41,6 +41,11 @@ final class Library {
             contentVersion = loaded.version
             state = .ready
             Self.logger.info("Loaded \(self.verses.count) verses")
+
+            let corpus = verses, version = contentVersion
+            Task { @concurrent in
+                SharedVerses.exportIfNeeded(corpus, contentVersion: version)
+            }
         } catch {
             state = .failed(error.localizedDescription)
             Self.logger.error("Failed to load verses: \(error.localizedDescription)")

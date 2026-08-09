@@ -37,11 +37,6 @@ nonisolated enum DailyVerse {
         return shuffled(count: count, seed: UInt64(bitPattern: Int64(cycle)))[offset]
     }
 
-    static func verse(for date: Date, in verses: [Verse], calendar: Calendar = .current) -> Verse? {
-        guard !verses.isEmpty else { return nil }
-        return verses[index(for: date, count: verses.count, calendar: calendar)]
-    }
-
     /// Fisher-Yates driven by a seeded generator, so the order is identical on
     /// every device and every platform for the same seed.
     private static func shuffled(count: Int, seed: UInt64) -> [Int] {

@@ -24,6 +24,9 @@ struct ReaderView: View {
 
     private var language: ReadingLanguage { settings.language }
 
+    /// A verse asked for by a widget before the corpus finished loading.
+    @State private var pendingDeepLink: (chapter: Int, sutra: Int)?
+
     var body: some View {
         ZStack {
             theme.background.ignoresSafeArea()
@@ -56,6 +59,19 @@ struct ReaderView: View {
         }
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
             if isReady, currentVerseID == nil { currentVerseID = library.verses.first?.id }
+            if isReady { openPendingDeepLink() }
+        }
+        .onOpenURL { url in
+            // gita://verse/2/47 — from a widget, and later from Shortcuts.
+            guard url.scheme == "gita", url.host == "verse" else { return }
+            let parts = url.pathComponents.filter { $0 != "/" }
+            guard parts.count == 2,
+                  let chapter = Int(parts[0]), let sutra = Int(parts[1]) else { return }
+
+            pendingDeepLink = (chapter, sutra)
+            // A cold launch from a widget arrives before the corpus is in
+            // memory, so the request is held until it is.
+            if library.state.isReady { openPendingDeepLink() }
         }
         .onChange(of: currentVerseID) { previous, current in
             // Every route to another verse — swipe, chevron, contents — passes
@@ -221,6 +237,15 @@ struct ReaderView: View {
     private func neighbour(_ direction: Int) -> Verse? {
         guard let currentIndex else { return nil }
         return library.verses[safe: currentIndex + direction]
+    }
+
+    private func openPendingDeepLink() {
+        guard let target = pendingDeepLink else { return }
+        pendingDeepLink = nil
+        guard let verse = library.verses.first(
+            where: { $0.chapter == target.chapter && $0.sutra == target.sutra }
+        ) else { return }
+        currentVerseID = verse.id
     }
 
     private func step(_ direction: Int) {

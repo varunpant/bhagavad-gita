@@ -274,6 +274,34 @@ Anything to do with the OS embedding asset must be **bounded**. The
 hangs forever instead of degrading. Semantic search is optional everywhere: if
 it is unavailable, search stays literal and nothing is shown to the reader.
 
+## Widgets
+
+A widget runs in its own process, cannot read the app's bundle, and **cannot ask
+the app for anything** — when a timeline refreshes the app is usually not
+running. Data only ever flows app → shared container.
+
+So the app exports the corpus once into the App Group as `widget-verses.json`
+(~680 KB, keyed by `content_version`), and the widget reads it there. The whole
+corpus rather than just today's verse: `DailyVerse` is a pure function of the
+date, so the widget works out any day by itself and can never go stale, however
+long since the app was opened. Before the first launch there is nothing to read,
+and the widget says so plainly rather than showing an error.
+
+Two constraints that shaped the target:
+
+- **Anything the widget compiles must not touch `Verse`**, which imports GRDB.
+  `DailyVerse` and `SharedVerses` are split so the shared halves are pure — the
+  `Verse` conveniences live in `+Verse` / `+Export` files that only the app
+  builds.
+- **Nothing may sit inside a synchronized source folder that also gets copied as
+  a resource.** `Info.plist` and `.entitlements` files live beside those folders,
+  not in them, or the build fails with "multiple commands produce Info.plist".
+
+Deep links are `gita://verse/<chapter>/<sutra>`. The scheme needs
+`CFBundleURLTypes`, which has no `INFOPLIST_KEY` equivalent, so the app supplies
+`Gita-Info.plist`. A cold launch from a widget arrives before the corpus is in
+memory, so the request is held and applied once it loads.
+
 ## Build and verify
 
 **Never run a command that produces no console output** — a silent `xcodebuild`

@@ -8,9 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		EE00000000000000000000A3 /* GRDB in Frameworks */ = {isa = PBXBuildFile; productRef = EE00000000000000000000A2 /* GRDB */; };
+		EE00000000000000000000B8 /* GitaWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000B2 /* GitaWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		EE00000000000000000000C3 /* DailyVerse.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000C1 /* DailyVerse.swift */; };
+		EE00000000000000000000C4 /* SharedVerses.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000C2 /* SharedVerses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		EE00000000000000000000BA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EE86B0B7302758DE0093E936 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EE00000000000000000000B1;
+			remoteInfo = GitaWidgetExtension;
+		};
 		EE86B0CD302758DF0093E936 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = EE86B0B7302758DE0093E936 /* Project object */;
@@ -27,13 +37,35 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		EE00000000000000000000B7 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				EE00000000000000000000B8 /* GitaWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		EE00000000000000000000B2 /* GitaWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = GitaWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE86B0BF302758DE0093E936 /* Gita.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gita.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE86B0CC302758DF0093E936 /* GitaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE86B0D6302758DF0093E936 /* GitaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE00000000000000000000C1 /* DailyVerse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DailyVerse.swift; path = Gita/Core/Daily/DailyVerse.swift; sourceTree = "<group>"; };
+		EE00000000000000000000C2 /* SharedVerses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SharedVerses.swift; path = Gita/Core/Widget/SharedVerses.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		EE00000000000000000000B3 /* GitaWidget */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = GitaWidget;
+			sourceTree = "<group>";
+		};
 		EE86B0C1302758DE0093E936 /* Gita */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Gita;
@@ -52,6 +84,13 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		EE00000000000000000000B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		EE86B0BC302758DE0093E936 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -83,6 +122,7 @@
 				EE86B0C1302758DE0093E936 /* Gita */,
 				EE86B0CF302758DF0093E936 /* GitaTests */,
 				EE86B0D9302758DF0093E936 /* GitaUITests */,
+				EE00000000000000000000B3 /* GitaWidget */,
 				EE86B0C0302758DE0093E936 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -93,6 +133,7 @@
 				EE86B0BF302758DE0093E936 /* Gita.app */,
 				EE86B0CC302758DF0093E936 /* GitaTests.xctest */,
 				EE86B0D6302758DF0093E936 /* GitaUITests.xctest */,
+				EE00000000000000000000B2 /* GitaWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -100,6 +141,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		EE00000000000000000000B1 /* GitaWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE00000000000000000000BB /* Build configuration list for PBXNativeTarget "GitaWidgetExtension" */;
+			buildPhases = (
+				EE00000000000000000000B4 /* Sources */,
+				EE00000000000000000000B5 /* Frameworks */,
+				EE00000000000000000000B6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				EE00000000000000000000B3 /* GitaWidget */,
+			);
+			name = GitaWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = GitaWidgetExtension;
+			productReference = EE00000000000000000000B2 /* GitaWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 		EE86B0BE302758DE0093E936 /* Gita */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = EE86B0E0302758DF0093E936 /* Build configuration list for PBXNativeTarget "Gita" */;
@@ -107,10 +170,12 @@
 				EE86B0BB302758DE0093E936 /* Sources */,
 				EE86B0BC302758DE0093E936 /* Frameworks */,
 				EE86B0BD302758DE0093E936 /* Resources */,
+				EE00000000000000000000B7 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				EE00000000000000000000B9 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				EE86B0C1302758DE0093E936 /* Gita */,
@@ -212,11 +277,19 @@
 				EE86B0BE302758DE0093E936 /* Gita */,
 				EE86B0CB302758DF0093E936 /* GitaTests */,
 				EE86B0D5302758DF0093E936 /* GitaUITests */,
+				EE00000000000000000000B1 /* GitaWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		EE00000000000000000000B6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		EE86B0BD302758DE0093E936 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -241,6 +314,15 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		EE00000000000000000000B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE00000000000000000000C3 /* DailyVerse.swift in Sources */,
+				EE00000000000000000000C4 /* SharedVerses.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		EE86B0BB302758DE0093E936 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -265,6 +347,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		EE00000000000000000000B9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EE00000000000000000000B1 /* GitaWidgetExtension */;
+			targetProxy = EE00000000000000000000BA /* PBXContainerItemProxy */;
+		};
 		EE86B0CE302758DF0093E936 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = EE86B0BE302758DE0093E936 /* Gita */;
@@ -278,6 +365,66 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		EE00000000000000000000BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = GitaWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QG9SKD3898;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GitaWidget-Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Gita;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.varunpant.Gita.GitaWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EE00000000000000000000BD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = GitaWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QG9SKD3898;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GitaWidget-Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Gita;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.varunpant.Gita.GitaWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		EE86B0DE302758DF0093E936 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -428,6 +575,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				INFOPLIST_FILE = Gita-Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.varunpant.Gita;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
@@ -471,6 +619,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				INFOPLIST_FILE = Gita-Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.varunpant.Gita;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
@@ -590,6 +739,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		EE00000000000000000000BB /* Build configuration list for PBXNativeTarget "GitaWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE00000000000000000000BC /* Debug */,
+				EE00000000000000000000BD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		EE86B0BA302758DE0093E936 /* Build configuration list for PBXProject "Gita" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
