@@ -19,6 +19,7 @@ import argparse
 import csv
 import hashlib
 import re
+import tomllib
 import sqlite3
 import sys
 from datetime import datetime, timezone
@@ -27,6 +28,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CSV = ROOT / "srimad.csv"
 ENRICHED_DB = ROOT / "enriched.sqlite"
+CHAPTERS_TOML = ROOT / "data" / "chapters.toml"
 DEFAULT_OUT = ROOT / "app" / "Gita" / "Gita" / "Resources" / "Database" / "gita.sqlite"
 
 CONTENT_VERSION = 1
@@ -54,9 +56,21 @@ CREATE INDEX idx_verses_chapter ON verses(chapter);
 
 CREATE VIRTUAL TABLE verses_fts USING fts5(
     sanskrit,
+    transliteration,
+    hindi_translation,
+    english_translation,
+    hindi_meaning,
+    english_meaning,
     content='verses',
     content_rowid='id',
     tokenize='unicode61 remove_diacritics 2'
+);
+
+CREATE TABLE chapters (
+    id          INTEGER PRIMARY KEY,   -- 1..18
+    name_sa     TEXT NOT NULL,         -- अर्जुनविषादयोग
+    name_en     TEXT NOT NULL,         -- "The Despondency of Arjuna"
+    verse_count INTEGER NOT NULL
 );
 
 CREATE TABLE meta (
@@ -193,9 +207,19 @@ def read_enrichment() -> dict[tuple[int, int], tuple]:
     return {(row[0], row[1]): row[2:] for row in rows}
 
 
+def read_chapters() -> dict[int, tuple[str, str]]:
+    """Chapter names from data/chapters.toml — the same file the website uses."""
+    if not CHAPTERS_TOML.exists():
+        sys.exit(f"error: {CHAPTERS_TOML} not found")
+    with CHAPTERS_TOML.open("rb") as handle:
+        data = tomllib.load(handle)
+    return {int(k): (v["sa"], v["en"]) for k, v in data.items()}
+
+
 def build(csv_path: Path, out_path: Path) -> None:
     verses = read_verses(csv_path)
     enrichment = read_enrichment()
+    chapters = read_chapters()
     checksum = hashlib.sha256(csv_path.read_bytes()).hexdigest()
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -215,6 +239,17 @@ def build(csv_path: Path, out_path: Path) -> None:
                 VALUES ({', '.join('?' * (4 + len(ENRICHED_FIELDS)))})""",
             [v + align(v[3], enrichment.get((v[1], v[2]), blank)) for v in verses],
         )
+        counts: dict[int, int] = {}
+        for verse in verses:
+            counts[verse[1]] = counts.get(verse[1], 0) + 1
+        missing = set(counts) - set(chapters)
+        if missing:
+            sys.exit(f"error: chapters.toml has no entry for {sorted(missing)}")
+        db.executemany(
+            "INSERT INTO chapters (id, name_sa, name_en, verse_count) VALUES (?, ?, ?, ?)",
+            [(n, chapters[n][0], chapters[n][1], counts[n]) for n in sorted(counts)],
+        )
+
         db.execute("INSERT INTO verses_fts(verses_fts) VALUES ('rebuild')")
         db.executemany(
             "INSERT INTO meta (key, value) VALUES (?, ?)",

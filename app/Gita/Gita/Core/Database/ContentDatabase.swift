@@ -56,6 +56,41 @@ nonisolated struct ContentDatabase {
         }
     }
 
+    /// The eighteen chapters, in order.
+    func allChapters() throws -> [Chapter] {
+        try queue.read { db in try Chapter.order(Column("id")).fetchAll(db) }
+    }
+
+    /// Full-text search across every column the reader can see.
+    ///
+    /// The query is rebuilt as a quoted prefix expression rather than passed
+    /// through: FTS5's syntax would otherwise treat a stray quote, `*` or `NOT`
+    /// as an operator, and a reader typing an apostrophe would get a crash
+    /// instead of results.
+    func search(_ query: String, limit: Int = 80) throws -> [SearchHit] {
+        let terms = query
+            .components(separatedBy: .whitespacesAndNewlines)
+            .map { $0.replacingOccurrences(of: "\"", with: "") }
+            .filter { !$0.isEmpty }
+        guard !terms.isEmpty else { return [] }
+
+        let expression = terms.map { "\"\($0)\"*" }.joined(separator: " AND ")
+
+        return try queue.read { db in
+            try Row.fetchAll(db, sql: """
+                SELECT verses.*, snippet(verses_fts, -1, '\u{2062}', '\u{2063}', '…', 12) AS snippet
+                FROM verses_fts
+                JOIN verses ON verses.id = verses_fts.rowid
+                WHERE verses_fts MATCH ?
+                ORDER BY rank
+                LIMIT ?
+                """, arguments: [expression, limit])
+                .map { row in
+                    SearchHit(verse: try! Verse(row: row), snippet: row["snippet"] ?? "")
+                }
+        }
+    }
+
     /// Version stamp written by `tools/build_db.py`.
     func contentVersion() throws -> String? {
         try queue.read { db in

@@ -19,6 +19,7 @@ struct ReaderView: View {
     @State private var currentVerseID: Int?
     /// Debug builds can open straight into settings, for screenshots and tests.
     @State private var showingSettings = ProcessInfo.processInfo.arguments.contains("-openSettings")
+    @State private var showingContents = ProcessInfo.processInfo.arguments.contains("-openContents")
 
     private var language: ReadingLanguage { settings.language }
 
@@ -42,6 +43,11 @@ struct ReaderView: View {
         }
         .task { await library.load() }
         .sheet(isPresented: $showingSettings) { SettingsView() }
+        .sheet(isPresented: $showingContents) {
+            TableOfContentsView(currentVerse: currentVerse) { verse in
+                currentVerseID = verse.id
+            }
+        }
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
             if isReady, currentVerseID == nil { currentVerseID = library.verses.first?.id }
         }
@@ -151,11 +157,20 @@ struct ReaderView: View {
             HStack {
                 stepButton(direction: -1, symbol: "chevron.left", label: "Previous verse")
                 Spacer()
-                Text(currentVerse?.reference ?? "")
-                    .font(.label)
-                    .monospacedDigit()
-                    .foregroundStyle(theme.textSecondary)
-                    .accessibilityIdentifier("verseReference")
+                Button {
+                    showingContents = true
+                } label: {
+                    Text(currentVerse?.reference ?? "")
+                        .font(.label)
+                        .monospacedDigit()
+                        .foregroundStyle(theme.textSecondary)
+                        .padding(.horizontal, 14)
+                        .padding(.vertical, 5)
+                        .contentShape(.rect)
+                }
+                .buttonStyle(.plain)
+                .accessibilityIdentifier("verseReference")
+                .accessibilityLabel("Contents. Currently at \(currentVerse?.reference ?? "")")
                 Spacer()
                 stepButton(direction: 1, symbol: "chevron.right", label: "Next verse")
             }

@@ -21,6 +21,7 @@ final class Library {
     }
 
     private(set) var verses: [Verse] = []
+    private(set) var chapters: [Chapter] = []
     private(set) var state: State = .loading
 
     private static let logger = Logger(
@@ -31,7 +32,9 @@ final class Library {
     func load() async {
         guard case .loading = state else { return }
         do {
-            verses = try await Self.fetchAll()
+            let loaded = try await Self.fetchAll()
+            verses = loaded.verses
+            chapters = loaded.chapters
             state = .ready
             Self.logger.info("Loaded \(self.verses.count) verses")
         } catch {
@@ -41,8 +44,15 @@ final class Library {
     }
 
     @concurrent
-    private static func fetchAll() async throws -> [Verse] {
-        try ContentDatabase().allVerses()
+    private static func fetchAll() async throws -> (verses: [Verse], chapters: [Chapter]) {
+        let database = try ContentDatabase()
+        return (try database.allVerses(), try database.allChapters())
+    }
+
+    /// Full-text search, off the main actor.
+    @concurrent
+    static func search(_ query: String) async throws -> [SearchHit] {
+        try ContentDatabase().search(query)
     }
 
     /// Verses of one chapter, in order.
@@ -53,9 +63,8 @@ final class Library {
     /// How many verses have been through the enrichment pipeline.
     var enrichedCount: Int { verses.count(where: \.isEnriched) }
 
-    /// Chapter numbers present in the corpus.
-    var chapters: [Int] {
-        Array(Set(verses.map(\.chapter))).sorted()
+    func chapter(_ number: Int) -> Chapter? {
+        chapters.first { $0.id == number }
     }
 }
 

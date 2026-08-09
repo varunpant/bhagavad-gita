@@ -19,7 +19,7 @@ final class ReaderUITests: XCTestCase {
     }
 
     private var referenceLabel: XCUIElement {
-        app.staticTexts["verseReference"]
+        app.buttons["verseReference"]
     }
 
     private var pager: XCUIElement {
@@ -40,7 +40,7 @@ final class ReaderUITests: XCTestCase {
             file: file, line: line
         )
         let matched = XCTNSPredicateExpectation(
-            predicate: NSPredicate(format: "label == %@", expected),
+            predicate: NSPredicate(format: "label CONTAINS %@", expected),
             object: referenceLabel
         )
         XCTAssertEqual(
@@ -87,7 +87,7 @@ final class LanguageToggleUITests: XCTestCase {
 
     func testStartsInSanskritAndShowsHindiWordMeanings() {
         let app = launch()
-        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
         XCTAssertTrue(app.staticTexts["शब्दार्थ"].exists, "Hindi word-meaning heading missing")
         XCTAssertFalse(app.staticTexts["WORD BY WORD"].exists)
     }
@@ -130,7 +130,7 @@ final class SettingsUITests: XCTestCase {
         app = XCUIApplication()
         app.launchArguments += ["-resetSettings"]
         app.launch()
-        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
     }
 
     private func openSettings() {
@@ -161,7 +161,7 @@ final class SettingsUITests: XCTestCase {
 
     private func closeSettings() {
         app.buttons["Done"].tap()
-        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 5))
     }
 
     func testAllThreeBlocksShowByDefault() {
@@ -192,7 +192,7 @@ final class SettingsUITests: XCTestCase {
         XCTAssertFalse(app.staticTexts["अनुवाद"].exists)
         XCTAssertFalse(app.staticTexts["भावार्थ"].exists)
         XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists)
-        XCTAssertTrue(app.staticTexts["verseReference"].exists, "the verse itself should remain")
+        XCTAssertTrue(app.buttons["verseReference"].exists, "the verse itself should remain")
     }
 
     /// Settings live in user.sqlite, so a choice has to survive a relaunch.
@@ -205,7 +205,75 @@ final class SettingsUITests: XCTestCase {
         app.terminate()
         app.launchArguments.removeAll { $0 == "-resetSettings" }
         app.launch()
-        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
         XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists, "setting did not persist")
+    }
+}
+
+/// The contents sheet: reachable from the verse reference, searchable behind an
+/// icon rather than a permanent field, and able to jump the reader anywhere.
+final class ContentsUITests: XCTestCase {
+
+    private var app: XCUIApplication!
+
+    override func setUp() {
+        continueAfterFailure = false
+        XCUIDevice.shared.orientation = .portrait
+        app = XCUIApplication()
+        app.launchArguments += ["-resetSettings"]
+        app.launch()
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
+    }
+
+    private func openContents() {
+        app.buttons["verseReference"].tap()
+        XCTAssertTrue(app.buttons["tocSearchToggle"].waitForExistence(timeout: 5), "contents did not open")
+    }
+
+    func testVerseReferenceOpensContents() {
+        openContents()
+        XCTAssertTrue(app.buttons["chapter-1"].exists)
+        XCTAssertTrue(app.buttons["chapter-2"].exists)
+    }
+
+    /// The point of the icon: no search field until it is asked for.
+    func testSearchFieldIsHiddenUntilTheIconIsTapped() {
+        openContents()
+        XCTAssertFalse(app.textFields["tocSearchField"].exists, "search field should not be visible at rest")
+
+        app.buttons["tocSearchToggle"].tap()
+        XCTAssertTrue(app.textFields["tocSearchField"].waitForExistence(timeout: 3))
+
+        app.buttons["tocSearchToggle"].tap()
+        XCTAssertFalse(app.textFields["tocSearchField"].exists, "search field should collapse again")
+    }
+
+    func testSearchFindsVersesByEnglishText() {
+        openContents()
+        app.buttons["tocSearchToggle"].tap()
+        let field = app.textFields["tocSearchField"]
+        XCTAssertTrue(field.waitForExistence(timeout: 3))
+        field.tap()
+        field.typeText("kurukshetra")
+
+        let firstResult = app.staticTexts["1.1"]
+        XCTAssertTrue(firstResult.waitForExistence(timeout: 5), "no results for a term that is in the text")
+        XCTAssertFalse(app.buttons["chapter-5"].exists, "chapter list should be replaced by results")
+    }
+
+    func testChoosingAVerseMovesTheReader() {
+        openContents()
+        app.buttons["chapter-2"].tap()
+        let verse = app.buttons["Verse 2.47"]
+        XCTAssertTrue(verse.waitForExistence(timeout: 5), "verse grid did not appear")
+        verse.tap()
+
+        let reference = app.buttons["verseReference"]
+        XCTAssertTrue(reference.waitForExistence(timeout: 5))
+        let matched = XCTNSPredicateExpectation(
+            predicate: NSPredicate(format: "label CONTAINS %@", "2.47"), object: reference
+        )
+        XCTAssertEqual(XCTWaiter().wait(for: [matched], timeout: 5), .completed,
+                       "reader did not move to 2.47, showing \(reference.label)")
     }
 }
