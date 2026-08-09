@@ -5,11 +5,15 @@
 
 import SwiftUI
 
-/// Appearance, what the reader shows, and where the text came from.
+/// Appearance, and what the reader shows.
 ///
 /// The three content switches are the heart of it (specs.md §7.6 "language
 /// visibility"): a reader who wants only the shloka, or only the shloka and the
 /// word meanings, sets that once and every verse follows.
+///
+/// Every colour here comes from the theme. A `Form` otherwise paints its own
+/// background and row fills from the system palette, which left Sepia tinting
+/// only the app's own views while settings stayed system white or black.
 struct SettingsView: View {
     @Environment(Settings.self) private var settings
     @Environment(\.theme) private var theme
@@ -20,60 +24,87 @@ struct SettingsView: View {
 
         NavigationStack {
             Form {
-                Section("Appearance") {
-                    Picker("Theme", selection: $settings.theme) {
-                        ForEach(ThemePreference.allCases) { Text($0.displayName).tag($0) }
+                Section {
+                    Picker(selection: $settings.theme) {
+                        ForEach(ThemePreference.allCases) {
+                            Text($0.displayName).foregroundStyle(theme.textPrimary).tag($0)
+                        }
+                    } label: {
+                        label("Theme")
                     }
-                    Picker("Text size", selection: $settings.textSize) {
-                        ForEach(TextSize.allCases) { Text($0.displayName).tag($0) }
+                    Picker(selection: $settings.textSize) {
+                        ForEach(TextSize.allCases) {
+                            Text($0.displayName).foregroundStyle(theme.textPrimary).tag($0)
+                        }
+                    } label: {
+                        label("Text size")
                     }
+                } header: {
+                    heading("Appearance")
                 }
+                .listRowBackground(theme.surface)
 
                 Section {
-                    Picker("Language", selection: $settings.language) {
-                        ForEach(ReadingLanguage.allCases) { Text($0.settingsName).tag($0) }
+                    Picker(selection: $settings.language) {
+                        ForEach(ReadingLanguage.allCases) {
+                            Text($0.settingsName).foregroundStyle(theme.textPrimary).tag($0)
+                        }
+                    } label: {
+                        label("Language")
                     }
                     .pickerStyle(.inline)
                 } header: {
-                    Text("Reading")
+                    heading("Reading")
                 } footer: {
-                    Text("Sanskrit shows the Devanagari shloka with Hindi meanings. "
-                         + "English shows the IAST transliteration with English meanings.")
+                    footnote("Sanskrit shows the Devanagari shloka with Hindi meanings. "
+                             + "English shows the IAST transliteration with English meanings.")
                 }
+                .listRowBackground(theme.surface)
 
                 Section {
-                    Toggle("Translation", isOn: $settings.showTranslation)
-                    .accessibilityIdentifier("toggleTranslation")
-
-                    Toggle("Meaning", isOn: $settings.showMeaning)
-                    .accessibilityIdentifier("toggleMeaning")
-
-                    Toggle("Word by word", isOn: $settings.showWordByWord)
-                    .accessibilityIdentifier("toggleWordByWord")
+                    Toggle(isOn: $settings.showTranslation) { label("Translation") }
+                        .accessibilityIdentifier("toggleTranslation")
+                    Toggle(isOn: $settings.showMeaning) { label("Meaning") }
+                        .accessibilityIdentifier("toggleMeaning")
+                    Toggle(isOn: $settings.showWordByWord) { label("Word by word") }
+                        .accessibilityIdentifier("toggleWordByWord")
                 } header: {
-                    Text("Show beneath the shloka")
+                    heading("Show beneath the shloka")
                 } footer: {
-                    Text("Switch everything off to read the verse on its own.")
+                    footnote("Switch everything off to read the verse on its own.")
                 }
+                .listRowBackground(theme.surface)
             }
             .formStyle(.grouped)
+            .scrollContentBackground(.hidden)
+            .background(theme.background)
+            .foregroundStyle(theme.textPrimary)
+            .navigationTitle("")
+            #if os(iOS)
+            .navigationBarTitleDisplayMode(.inline)
+            .toolbarBackground(theme.background, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
+            #endif
+            .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("Settings")
+                        .font(.headline)
+                        .foregroundStyle(theme.textPrimary)
+                }
+                ToolbarItem(placement: .confirmationAction) {
+                    Button("Done") { dismiss() }
+                        .foregroundStyle(theme.accent)
+                }
+            }
             .onChange(of: settings.theme) { Haptics.selection() }
             .onChange(of: settings.textSize) { Haptics.selection() }
             .onChange(of: settings.language) { Haptics.selection() }
             .onChange(of: settings.showTranslation) { Haptics.selection() }
             .onChange(of: settings.showMeaning) { Haptics.selection() }
             .onChange(of: settings.showWordByWord) { Haptics.selection() }
-            .navigationTitle("Settings")
-            #if os(iOS)
-            .navigationBarTitleDisplayMode(.inline)
-            #endif
-            .toolbar {
-                ToolbarItem(placement: .confirmationAction) {
-                    Button("Done") { dismiss() }
-                }
-            }
         }
         .tint(theme.accent)
+        .background(theme.background)
         #if os(macOS)
         // A macOS sheet sizes to its content, which for a Form means a cramped
         // column. Give it room to breathe, and let it grow with the window.
@@ -81,15 +112,19 @@ struct SettingsView: View {
         #endif
     }
 
-    /// Devanagari name with its English gloss underneath — the same words the
-    /// reader sees as section headings on the verse page.
-    private func label(_ devanagari: String, _ english: String) -> some View {
-        VStack(alignment: .leading, spacing: 2) {
-            Text(devanagari)
-            Text(english)
-                .font(.caption)
-                .foregroundStyle(.secondary)
-        }
+    /// A row label in the theme's own text colour.
+    private func label(_ text: String) -> some View {
+        Text(text).foregroundStyle(theme.textPrimary)
+    }
+
+    private func heading(_ text: String) -> some View {
+        Text(text)
+            .foregroundStyle(theme.textSecondary)
+    }
+
+    private func footnote(_ text: String) -> some View {
+        Text(text)
+            .foregroundStyle(theme.textSecondary.opacity(0.85))
     }
 }
 
@@ -104,8 +139,8 @@ extension ReadingLanguage {
     }
 }
 
-#Preview {
+#Preview("Sepia") {
     SettingsView()
         .environment(Settings())
-        .environment(\.theme, .light)
+        .environment(\.theme, .sepia)
 }

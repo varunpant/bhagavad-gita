@@ -50,12 +50,16 @@ struct ReaderView: View {
             await semanticIndex.prepare(verses: library.verses,
                                         contentVersion: library.contentVersion)
         }
-        .sheet(isPresented: $showingSettings) { SettingsView() }
+        .sheet(isPresented: $showingSettings) {
+            SettingsView()
+                .presentationBackground(theme.background)
+        }
         .sheet(isPresented: $showingContents) {
             TableOfContentsView(currentVerse: currentVerse) { verse in
                 currentVerseID = verse.id
             }
             .environment(semanticIndex)
+            .presentationBackground(theme.background)
         }
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
             if isReady, currentVerseID == nil { currentVerseID = library.verses.first?.id }

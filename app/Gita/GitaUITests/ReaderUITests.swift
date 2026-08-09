@@ -137,7 +137,9 @@ final class SettingsUITests: XCTestCase {
 
     private func openSettings() {
         app.buttons["settingsButton"].tap()
-        XCTAssertTrue(app.navigationBars["Settings"].waitForExistence(timeout: 5))
+        // The title is a themed toolbar item rather than a navigationTitle, so
+        // the sheet is identified by its Done button.
+        XCTAssertTrue(app.buttons["Done"].waitForExistence(timeout: 5), "settings did not open")
     }
 
     /// A SwiftUI `Form` is lazy: rows below the fold are not in the accessibility

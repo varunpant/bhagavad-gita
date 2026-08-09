@@ -50,6 +50,7 @@ struct TableOfContentsView: View {
             }
         }
         .background(theme.background)
+        .tint(theme.accent)
         .task(id: query) { await runSearch() }
         .onAppear {
             expandedChapter = currentVerse?.chapter

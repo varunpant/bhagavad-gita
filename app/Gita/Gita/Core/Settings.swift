@@ -115,6 +115,12 @@ final class Settings {
             if ProcessInfo.processInfo.arguments.contains("-startInEnglish") {
                 language = .english
             }
+            let arguments = ProcessInfo.processInfo.arguments
+            if let index = arguments.firstIndex(of: "-forceTheme"),
+               index + 1 < arguments.count,
+               let forced = ThemePreference(rawValue: arguments[index + 1]) {
+                theme = forced
+            }
             #endif
         } catch {
             Self.logger.error("No settings store, using defaults: \(error.localizedDescription)")
