@@ -84,6 +84,18 @@ final class Settings {
     var showMeaning = true { didSet { persist(showMeaning, .showMeaning) } }
     var showWordByWord = false { didSet { persist(showWordByWord, .showWordByWord) } }
 
+    /// A daily notification carrying that day's verse. Off until asked for —
+    /// an unsolicited notification is the fastest way to be deleted.
+    var dailyReminder = false { didSet { persist(dailyReminder, .dailyReminder) } }
+    /// Minutes since midnight, so it stores as one integer rather than a date
+    /// whose timezone would have to be interpreted.
+    var reminderMinutes = 8 * 60 { didSet { persist(String(reminderMinutes), .reminderMinutes) } }
+
+    /// The reminder time as hour and minute, for the picker and the trigger.
+    var reminderTime: DateComponents {
+        DateComponents(hour: reminderMinutes / 60, minute: reminderMinutes % 60)
+    }
+
     private var store: UserDatabase?
     private var loading = false
 
@@ -96,6 +108,7 @@ final class Settings {
     private enum Key: String {
         case theme, language, textSize
         case showTranslation, showMeaning, showWordByWord
+        case dailyReminder, reminderMinutes
     }
 
     init(store: UserDatabase? = nil) {
@@ -138,6 +151,8 @@ final class Settings {
         showTranslation = values[Key.showTranslation.rawValue].map { $0 == "1" } ?? true
         showMeaning = values[Key.showMeaning.rawValue].map { $0 == "1" } ?? true
         showWordByWord = values[Key.showWordByWord.rawValue].map { $0 == "1" } ?? false
+        dailyReminder = values[Key.dailyReminder.rawValue].map { $0 == "1" } ?? false
+        reminderMinutes = values[Key.reminderMinutes.rawValue].flatMap(Int.init) ?? 8 * 60
     }
 
     private func persist(_ value: String, _ key: Key) {
