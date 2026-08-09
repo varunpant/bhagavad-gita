@@ -126,7 +126,9 @@ final class SettingsUITests: XCTestCase {
 
     override func setUp() {
         continueAfterFailure = false
+        #if os(iOS)
         XCUIDevice.shared.orientation = .portrait
+        #endif
         app = XCUIApplication()
         app.launchArguments += ["-resetSettings"]
         app.launch()
@@ -218,7 +220,9 @@ final class ContentsUITests: XCTestCase {
 
     override func setUp() {
         continueAfterFailure = false
+        #if os(iOS)
         XCUIDevice.shared.orientation = .portrait
+        #endif
         app = XCUIApplication()
         app.launchArguments += ["-resetSettings"]
         app.launch()

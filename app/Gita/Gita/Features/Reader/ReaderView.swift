@@ -14,6 +14,7 @@ import SwiftUI
 struct ReaderView: View {
     @Environment(Library.self) private var library
     @Environment(Settings.self) private var settings
+    @Environment(SemanticIndex.self) private var semanticIndex
     @Environment(\.theme) private var theme
 
     @State private var currentVerseID: Int?
@@ -42,11 +43,19 @@ struct ReaderView: View {
             }
         }
         .task { await library.load() }
+        .task(id: library.state.isReady) {
+            // Build the semantic index once the text is in memory. Low priority
+            // and off the main actor: reading must never wait for it.
+            guard library.state.isReady else { return }
+            await semanticIndex.prepare(verses: library.verses,
+                                        contentVersion: library.contentVersion)
+        }
         .sheet(isPresented: $showingSettings) { SettingsView() }
         .sheet(isPresented: $showingContents) {
             TableOfContentsView(currentVerse: currentVerse) { verse in
                 currentVerseID = verse.id
             }
+            .environment(semanticIndex)
         }
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
             if isReady, currentVerseID == nil { currentVerseID = library.verses.first?.id }

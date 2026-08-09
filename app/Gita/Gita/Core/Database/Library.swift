@@ -22,6 +22,7 @@ final class Library {
 
     private(set) var verses: [Verse] = []
     private(set) var chapters: [Chapter] = []
+    private(set) var contentVersion = "0"
     private(set) var state: State = .loading
 
     private static let logger = Logger(
@@ -35,6 +36,7 @@ final class Library {
             let loaded = try await Self.fetchAll()
             verses = loaded.verses
             chapters = loaded.chapters
+            contentVersion = loaded.version
             state = .ready
             Self.logger.info("Loaded \(self.verses.count) verses")
         } catch {
@@ -44,9 +46,11 @@ final class Library {
     }
 
     @concurrent
-    private static func fetchAll() async throws -> (verses: [Verse], chapters: [Chapter]) {
+    private static func fetchAll() async throws -> (verses: [Verse], chapters: [Chapter], version: String) {
         let database = try ContentDatabase()
-        return (try database.allVerses(), try database.allChapters())
+        return (try database.allVerses(),
+                try database.allChapters(),
+                try database.contentVersion() ?? "0")
     }
 
     /// Full-text search, off the main actor.

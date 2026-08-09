@@ -12,6 +12,7 @@ import SwiftUI
 /// header expands a field only when asked for, and collapses back to an icon.
 struct TableOfContentsView: View {
     @Environment(Library.self) private var library
+    @Environment(SemanticIndex.self) private var semanticIndex
     @Environment(\.theme) private var theme
     @Environment(\.dismiss) private var dismiss
 
@@ -24,6 +25,9 @@ struct TableOfContentsView: View {
     @State private var searching = false
     @State private var query = ""
     @State private var hits: [SearchHit] = []
+    /// Ids that only semantic search found — shown under their own heading, so
+    /// a reader can tell "these contain your words" from "these are about it".
+    @State private var relatedHits: [SearchHit] = []
     @FocusState private var searchFocused: Bool
 
     var body: some View {
@@ -201,35 +205,56 @@ struct TableOfContentsView: View {
 
     private var results: some View {
         Group {
-            if hits.isEmpty {
+            if hits.isEmpty && relatedHits.isEmpty {
                 ContentUnavailableView.search(text: query)
             } else {
                 ScrollView {
                     LazyVStack(spacing: 0) {
-                        ForEach(hits) { hit in
-                            Button { choose(hit.verse) } label: {
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text(hit.verse.reference)
-                                        .font(.label)
-                                        .monospacedDigit()
-                                        .foregroundStyle(theme.accent)
-                                    marked(hit.snippet)
-                                        .font(.glossLatin)
-                                        .foregroundStyle(theme.textSecondary)
-                                        .multilineTextAlignment(.leading)
-                                        .lineLimit(3)
-                                }
-                                .frame(maxWidth: .infinity, alignment: .leading)
-                                .padding(.horizontal, 16)
-                                .padding(.vertical, 10)
-                                .contentShape(.rect)
+                        ForEach(hits) { resultRow($0) }
+
+                        if !relatedHits.isEmpty {
+                            HStack(spacing: 8) {
+                                Image(systemName: "sparkles")
+                                Text("RELATED")
                             }
-                            .buttonStyle(.plain)
-                            Rectangle().fill(theme.divider).frame(height: 1)
+                            .font(.label)
+                            .tracking(1.2)
+                            .foregroundStyle(theme.textSecondary)
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .padding(.horizontal, 16)
+                            .padding(.top, 18)
+                            .padding(.bottom, 8)
+                            .accessibilityIdentifier("relatedHeading")
+
+                            ForEach(relatedHits) { resultRow($0) }
                         }
                     }
                 }
             }
+        }
+    }
+
+    private func resultRow(_ hit: SearchHit) -> some View {
+        VStack(spacing: 0) {
+            Button { choose(hit.verse) } label: {
+                VStack(alignment: .leading, spacing: 4) {
+                    Text(hit.verse.reference)
+                        .font(.label)
+                        .monospacedDigit()
+                        .foregroundStyle(theme.accent)
+                    marked(hit.snippet)
+                        .font(.glossLatin)
+                        .foregroundStyle(theme.textSecondary)
+                        .multilineTextAlignment(.leading)
+                        .lineLimit(3)
+                }
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .padding(.horizontal, 16)
+                .padding(.vertical, 10)
+                .contentShape(.rect)
+            }
+            .buttonStyle(.plain)
+            Rectangle().fill(theme.divider).frame(height: 1)
         }
     }
 
@@ -263,17 +288,32 @@ struct TableOfContentsView: View {
 
     private func runSearch() async {
         let trimmed = query.trimmingCharacters(in: .whitespacesAndNewlines)
-        guard trimmed.count >= 2 else { hits = []; return }
+        guard trimmed.count >= 2 else { hits = []; relatedHits = []; return }
         // `.task(id:)` debounces and cancels: a new keystroke replaces this task
         // before the sleep finishes, so only the last query reaches the database.
         try? await Task.sleep(for: .milliseconds(180))
         guard !Task.isCancelled else { return }
-        hits = (try? await Library.search(trimmed)) ?? []
+
+        let literal = (try? await Library.search(trimmed)) ?? []
+        hits = literal
+        guard !Task.isCancelled else { return }
+
+        // Semantic results fill in behind the literal ones, never displacing
+        // them: someone typing "2.47" or "krishna" wants the exact match first.
+        let seen = Set(literal.map(\.verse.id))
+        let related = await semanticIndex.search(trimmed)
+        let byId = Dictionary(uniqueKeysWithValues: library.verses.map { ($0.id, $0) })
+        relatedHits = related
+            .filter { !seen.contains($0) }
+            .compactMap { id in
+                byId[id].map { SearchHit(verse: $0, snippet: $0.englishTranslation ?? "") }
+            }
     }
 }
 
 #Preview {
     TableOfContentsView(currentVerse: nil) { _ in }
         .environment(Library.preview())
+        .environment(SemanticIndex())
         .environment(\.theme, .light)
 }

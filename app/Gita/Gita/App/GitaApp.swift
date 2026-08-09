@@ -11,6 +11,7 @@ struct GitaApp: App {
     /// what lets previews and tests run without the bundled database.
     @State private var library = Library()
     @State private var settings = Settings()
+    @State private var semanticIndex = SemanticIndex()
 
     @Environment(\.colorScheme) private var colorScheme
 
@@ -19,6 +20,7 @@ struct GitaApp: App {
             ReaderView()
                 .environment(library)
                 .environment(settings)
+                .environment(semanticIndex)
                 .environment(\.theme, settings.theme.resolve(for: colorScheme))
                 .dynamicTypeSize(settings.textSize.dynamicTypeSize)
         }
