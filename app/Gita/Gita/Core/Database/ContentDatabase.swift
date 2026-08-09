@@ -61,17 +61,64 @@ nonisolated struct ContentDatabase {
         try queue.read { db in try Chapter.order(Column("id")).fetchAll(db) }
     }
 
-    /// Full-text search across every column the reader can see.
+    /// Longest query we will act on. A search box is an open door for pasted
+    /// text; nothing useful is longer than this, and FTS5 degrades badly on
+    /// hundred-term expressions.
+    static let maxQueryLength = 128
+    /// Terms beyond this are dropped. Each one becomes an AND clause, and the
+    /// cost of the match grows with them.
+    static let maxTerms = 8
+
+    /// Reduce arbitrary user input to something safe to hand to FTS5.
     ///
-    /// The query is rebuilt as a quoted prefix expression rather than passed
-    /// through: FTS5's syntax would otherwise treat a stray quote, `*` or `NOT`
-    /// as an operator, and a reader typing an apostrophe would get a crash
-    /// instead of results.
-    func search(_ query: String, limit: Int = 80) throws -> [SearchHit] {
-        let terms = query
+    /// Three separate hazards, none of which are SQL injection — values are
+    /// always bound, never interpolated — but all of which are real:
+    ///
+    /// * **FTS5's own expression language.** `*`, `^`, `:`, `-`, `NEAR`, `AND`,
+    ///   parentheses and quotes are operators. Passed through, a lone `"` is a
+    ///   syntax error and the query throws rather than returning nothing. Each
+    ///   term is quoted, so every one is a literal.
+    /// * **Length.** Pasted text is unbounded; the query is truncated by
+    ///   scalars, not Characters, so a string of combining marks cannot smuggle
+    ///   in megabytes behind a small visible length.
+    /// * **Invisible and directional characters.** Zero-width joiners, bidi
+    ///   overrides and control characters are stripped: they cannot match
+    ///   anything in the corpus, and bidi overrides can reorder how a query
+    ///   renders back to the reader.
+    nonisolated static func sanitize(_ query: String) -> [String] {
+        let scalars = query.unicodeScalars.prefix(maxQueryLength * 4)
+
+        let cleaned = String(String.UnicodeScalarView(scalars.filter { scalar in
+            // Cc control, Cf format (zero-width, bidi), Cs surrogate, Co private
+            !(CharacterSet.controlCharacters.contains(scalar)
+              || CharacterSet.illegalCharacters.contains(scalar)
+              || (0x200B ... 0x200F).contains(scalar.value)     // zero-width, LRM/RLM
+              || (0x202A ... 0x202E).contains(scalar.value)     // bidi embedding/override
+              || (0x2066 ... 0x2069).contains(scalar.value)     // bidi isolates
+              || scalar.value == 0xFEFF)                        // BOM
+        }))
+
+        var truncated = cleaned
+        if truncated.count > maxQueryLength {
+            truncated = String(truncated.prefix(maxQueryLength))
+        }
+
+        let words: [String] = truncated
             .components(separatedBy: .whitespacesAndNewlines)
+            // A quote would end the quoted term early and let the rest be read
+            // as operators, so it is removed rather than escaped.
             .map { $0.replacingOccurrences(of: "\"", with: "") }
             .filter { !$0.isEmpty }
+
+        return Array(words.prefix(maxTerms))
+    }
+
+    /// Full-text search across every column the reader can see.
+    ///
+    /// Values are bound, never interpolated, so no input can alter the SQL. The
+    /// FTS5 match expression is built from `sanitize`, which quotes every term.
+    func search(_ query: String, limit: Int = 80) throws -> [SearchHit] {
+        let terms = Self.sanitize(query)
         guard !terms.isEmpty else { return [] }
 
         let expression = terms.map { "\"\($0)\"*" }.joined(separator: " AND ")
@@ -85,8 +132,11 @@ nonisolated struct ContentDatabase {
                 ORDER BY rank
                 LIMIT ?
                 """, arguments: [expression, limit])
-                .map { row in
-                    SearchHit(verse: try! Verse(row: row), snippet: row["snippet"] ?? "")
+                .compactMap { row in
+                    // A row that will not decode is skipped, never fatal: search
+                    // must degrade to fewer results rather than crash.
+                    guard let verse = try? Verse(row: row) else { return nil }
+                    return SearchHit(verse: verse, snippet: row["snippet"] ?? "")
                 }
         }
     }
