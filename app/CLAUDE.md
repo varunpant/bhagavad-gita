@@ -240,7 +240,45 @@ expected hits), daily-verse determinism (same date → same verse on every
 platform), repository queries against a fixture DB, share-card text formatting. No
 snapshot tests of SwiftUI `body`.
 
+## Search
+
+Two layers, deliberately separate:
+
+- **Full-text (FTS5)** over Sanskrit, transliteration, both translations and both
+  meanings. Instant, offline, exact. This is what answers "krishna", "2.47",
+  "कर्म". Query text is sanitised by `ContentDatabase.sanitize` before it reaches
+  FTS5 — see `SearchSafetyTests` for what that guards and why.
+- **Semantic (`SemanticIndex`)** over the English translation and meaning, using
+  Apple's `NLContextualEmbedding`. Adds nothing to the app download; the vectors
+  are built on device once and cached, keyed by `content_version`.
+
+Full-text results always lead; semantic ones appear under "Related". Three
+things about the embeddings that are easy to get wrong, all measured:
+
+- **Never use an absolute similarity threshold.** Mean-pooled contextual
+  embeddings sit in a narrow band — every verse scores 0.85–0.92 against any
+  English query. Selection is relative to the best score.
+- **Centre the vectors.** Subtracting the corpus mean (from the query too) is
+  what stops a handful of hub verses winning every query. It widens the top-50
+  spread from ~0.03 to ~0.2.
+- **They are thematically good, not precise.** A paraphrase of 2.20 retrieves
+  2.20 first; a query phrased almost exactly like 2.47 ranks it 59th of 701.
+  Do not build a feature that assumes exact retrieval.
+
+Anything to do with the OS embedding asset must be **bounded**. The
+`requestAssets` callback never fires in the simulator, and an unbounded await
+hangs forever instead of degrading. Semantic search is optional everywhere: if
+it is unavailable, search stays literal and nothing is shown to the reader.
+
 ## Build and verify
+
+**Never run a command that produces no console output** — a silent `xcodebuild`
+is indistinguishable from a hung one, and `timeout` does not exist on macOS
+(prefixing with it means the command never runs at all). Run the suite *before*
+committing, not chained to the commit.
+
+Semantic-search tests need the OS embedding asset, which the simulator does not
+provide — run them on macOS. They skip cleanly elsewhere.
 
 ```bash
 cd app/Gita
