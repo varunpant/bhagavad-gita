@@ -71,8 +71,10 @@ playground.xcworkspace
 .build/
 .swiftpm/
 Packages/
-Package.resolved
-*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+
+# Package.resolved is deliberately NOT ignored. This is an app, not a library:
+# the exact dependency versions are part of what gets shipped, and without the
+# lockfile a fresh clone resolves to whatever is newest within the major version.
 
 # =====================================================
 # CocoaPods (not currently used, but defensive)
