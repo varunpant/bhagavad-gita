@@ -60,6 +60,13 @@ struct ReaderView: View {
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
             if isReady, currentVerseID == nil { currentVerseID = library.verses.first?.id }
         }
+        .onChange(of: currentVerseID) { previous, current in
+            // Every route to another verse — swipe, chevron, contents — passes
+            // through this one property, so the feedback belongs here rather
+            // than at three call sites that could drift apart.
+            guard previous != nil, current != nil, previous != current else { return }
+            Haptics.pageTurn()
+        }
     }
 
     // MARK: - Reader

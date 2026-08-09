@@ -12,7 +12,6 @@ import SwiftUI
 /// word meanings, sets that once and every verse follows.
 struct SettingsView: View {
     @Environment(Settings.self) private var settings
-    @Environment(Library.self) private var library
     @Environment(\.theme) private var theme
     @Environment(\.dismiss) private var dismiss
 
@@ -56,16 +55,14 @@ struct SettingsView: View {
                 } footer: {
                     Text("Switch everything off to read the verse on its own.")
                 }
-
-                Section {
-                    LabeledContent("Verses", value: "\(library.verses.count)")
-                    LabeledContent("With translation", value: "\(library.enrichedCount)")
-                    Link("bhagwadgita.info", destination: URL(string: "https://bhagwadgita.info")!)
-                } header: {
-                    Text("About")
-                }
             }
             .formStyle(.grouped)
+            .onChange(of: settings.theme) { Haptics.selection() }
+            .onChange(of: settings.textSize) { Haptics.selection() }
+            .onChange(of: settings.language) { Haptics.selection() }
+            .onChange(of: settings.showTranslation) { Haptics.selection() }
+            .onChange(of: settings.showMeaning) { Haptics.selection() }
+            .onChange(of: settings.showWordByWord) { Haptics.selection() }
             .navigationTitle("Settings")
             #if os(iOS)
             .navigationBarTitleDisplayMode(.inline)
@@ -110,6 +107,5 @@ extension ReadingLanguage {
 #Preview {
     SettingsView()
         .environment(Settings())
-        .environment(Library.preview())
         .environment(\.theme, .light)
 }

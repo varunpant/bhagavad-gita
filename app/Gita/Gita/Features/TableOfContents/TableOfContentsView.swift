@@ -135,6 +135,7 @@ struct TableOfContentsView: View {
     /// Same control as the reader's, showing the script it switches *to*.
     private var languageToggle: some View {
         Button {
+            Haptics.selection()
             withAnimation(.snappy(duration: 0.2)) {
                 language = language.toggled
             }
