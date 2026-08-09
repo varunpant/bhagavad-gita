@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render the Gita app icon: a gold G on an orange gradient.
+"""Render the Gita app icon: a gold g on an orange gradient.
 
 Writes the three 1024×1024 variants iOS asks for — light, dark and tinted —
 straight into the app's AppIcon.appiconset, plus a standalone logo for anything
@@ -24,6 +24,11 @@ ICONSET = ROOT / "app" / "Gita" / "Gita" / "Assets.xcassets" / "AppIcon.appicons
 LOGO = ROOT / "app" / "design" / "logo-1024.png"
 
 SIZE = 1024
+LETTER = "g"
+# Lowercase carries a descender, so the same point size draws a visibly smaller
+# letter than a capital would. Sized up to match the optical weight, and the
+# bounding-box centring below then places it correctly despite the tail.
+LETTER_SCALE = 0.82
 
 # Saffron, matching the app's accent tokens (specs.md §9.1) rather than an
 # unrelated orange, so the icon and the interface agree.
@@ -94,7 +99,7 @@ def glow() -> Image.Image:
 
 
 def letter_mask() -> Image.Image:
-    """The G, centred on its own ink rather than on its typographic box.
+    """The letter, centred on its own ink rather than on its typographic box.
 
     A glyph's advance width and line height include side bearings and space for
     descenders, so centring by those leaves the letter visibly high and to the
@@ -103,12 +108,12 @@ def letter_mask() -> Image.Image:
     """
     mask = Image.new("L", (SIZE, SIZE), 0)
     draw = ImageDraw.Draw(mask)
-    face = font(int(SIZE * 0.66))
+    face = font(int(SIZE * LETTER_SCALE))
 
-    left, top, right, bottom = draw.textbbox((0, 0), "G", font=face)
+    left, top, right, bottom = draw.textbbox((0, 0), LETTER, font=face)
     x = (SIZE - (right - left)) / 2 - left
     y = (SIZE - (bottom - top)) / 2 - top
-    draw.text((x, y), "G", font=face, fill=255)
+    draw.text((x, y), LETTER, font=face, fill=255)
     return mask
 
 

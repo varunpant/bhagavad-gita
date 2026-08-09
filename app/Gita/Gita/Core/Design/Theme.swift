@@ -30,54 +30,56 @@ enum Theme: String, CaseIterable, Identifiable, Sendable {
     }
 
     // MARK: - Tokens
+    //
+    // Light and dark are plain: white or black ground, primary/secondary text,
+    // and no tint anywhere. Sepia is the only theme that colours anything —
+    // choosing System should look like a system app, not like a warm one.
 
     var background: Color {
         switch self {
-        case .light: Color(hex: 0xFBF9F4)
+        case .light: .white
         case .sepia: Color(hex: 0xF3E9D6)
-        case .dark: Color(hex: 0x14110E)
+        case .dark: .black
         }
     }
 
     var surface: Color {
         switch self {
-        case .light: Color(hex: 0xFFFFFF)
+        case .light: .white
         case .sepia: Color(hex: 0xFBF3E4)
-        case .dark: Color(hex: 0x1E1A16)
+        case .dark: Color(hex: 0x1C1C1E)
         }
     }
 
+    /// Black on light, white on dark — `.primary` follows the color scheme,
+    /// which `preferredColorScheme` has already pinned to match the theme.
     var textPrimary: Color {
         switch self {
-        case .light: Color(hex: 0x211D18)
+        case .light, .dark: .primary
         case .sepia: Color(hex: 0x35291A)
-        case .dark: Color(hex: 0xECE6DA)
         }
     }
 
     var textSecondary: Color {
         switch self {
-        case .light: Color(hex: 0x6B6155)
+        case .light, .dark: .secondary
         case .sepia: Color(hex: 0x6E5C43)
-        case .dark: Color(hex: 0xA79E90)
         }
     }
 
-    /// Saffron. Used sparingly — active states and the progress rail. Never a
-    /// fill behind text.
+    /// The colour of controls. Monochrome outside Sepia: a "System" theme that
+    /// tinted everything saffron was the whole problem.
     var accent: Color {
         switch self {
-        case .light: Color(hex: 0xC8611C)
+        case .light, .dark: .primary
         case .sepia: Color(hex: 0xB4571A)
-        case .dark: Color(hex: 0xE6873C)
         }
     }
 
     var divider: Color {
         switch self {
-        case .light: textPrimary.opacity(0.08)
-        case .sepia: textPrimary.opacity(0.10)
-        case .dark: textPrimary.opacity(0.12)
+        case .light, .dark: Color.secondary.opacity(0.25)
+        case .sepia: Color(hex: 0x35291A).opacity(0.15)
         }
     }
 

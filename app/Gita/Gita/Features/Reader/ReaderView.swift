@@ -135,8 +135,8 @@ struct ReaderView: View {
             showingSettings = true
         } label: {
             Image(systemName: "gearshape")
-                .font(.system(size: 15, weight: .medium))
-                .frame(width: 34, height: 30)
+                .font(.system(size: 17, weight: .regular))
+                .frame(width: 32, height: 32)
                 .contentShape(.rect)
         }
         .buttonStyle(.plain)
@@ -152,16 +152,8 @@ struct ReaderView: View {
             withAnimation(.snappy(duration: 0.2)) { settings.language = language.toggled }
         } label: {
             Text(language.toggled.icon)
-                .font(.system(size: 15, weight: .medium))
-                .frame(width: 34, height: 30)
-                .background(
-                    RoundedRectangle(cornerRadius: 8, style: .continuous)
-                        .fill(theme.accent.opacity(0.10))
-                )
-                .overlay(
-                    RoundedRectangle(cornerRadius: 8, style: .continuous)
-                        .stroke(theme.accent.opacity(0.25), lineWidth: 1)
-                )
+                .font(.system(size: 17, weight: .medium))
+                .frame(width: 32, height: 32)
                 .contentShape(.rect)
         }
         .buttonStyle(.plain)

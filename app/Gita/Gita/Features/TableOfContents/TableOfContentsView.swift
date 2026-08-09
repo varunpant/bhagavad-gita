@@ -100,8 +100,8 @@ struct TableOfContentsView: View {
                 searchFocused = searching
             } label: {
                 Image(systemName: searching ? "chevron.up" : "magnifyingglass")
-                    .font(.system(size: 15, weight: .medium))
-                    .frame(width: 34, height: 30)
+                    .font(.system(size: 17, weight: .regular))
+                    .frame(width: 32, height: 32)
                     .contentShape(.rect)
             }
             .buttonStyle(.plain)
@@ -115,8 +115,8 @@ struct TableOfContentsView: View {
                 dismiss()
             } label: {
                 Image(systemName: "xmark")
-                    .font(.system(size: 14, weight: .semibold))
-                    .frame(width: 30, height: 30)
+                    .font(.system(size: 17, weight: .regular))
+                    .frame(width: 32, height: 32)
                     .contentShape(.rect)
             }
             .buttonStyle(.plain)
@@ -140,16 +140,8 @@ struct TableOfContentsView: View {
             }
         } label: {
             Text(language.toggled.icon)
-                .font(.system(size: 15, weight: .medium))
-                .frame(width: 34, height: 30)
-                .background(
-                    RoundedRectangle(cornerRadius: 8, style: .continuous)
-                        .fill(theme.accent.opacity(0.10))
-                )
-                .overlay(
-                    RoundedRectangle(cornerRadius: 8, style: .continuous)
-                        .stroke(theme.accent.opacity(0.25), lineWidth: 1)
-                )
+                .font(.system(size: 17, weight: .medium))
+                .frame(width: 32, height: 32)
                 .contentShape(.rect)
         }
         .buttonStyle(.plain)
