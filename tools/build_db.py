@@ -66,7 +66,15 @@ CREATE TABLE meta (
 """
 
 
-SPEAKER = "उवाच"          # "…said" — the attribution that opens a spoken verse
+# The four attributions that open a spoken verse, matched explicitly rather than
+# by searching for "उवाच". Sandhi hides that word: "भगवान् + उवाच" becomes
+# "भगवानुवाच", where the उ is a combining vowel SIGN (ु) and no substring search
+# for "उवाच" can find it — which silently missed all 28 श्री भगवानुवाच verses.
+# Matching the known forms also avoids the one false positive, "तमुवाच" in 2.10,
+# where उवाच is an ordinary verb mid-verse rather than an attribution.
+SPEAKERS = re.compile(
+    r"^\s*(श्री\s*भगवानुवाच|भगवानुवाच|धृतराष्ट्र\s*उवाच|सञ्जय\s*उवाच|संजय\s*उवाच|अर्जुन\s*उवाच)"
+)
 DANDA = re.compile(r"।+")
 VERSE_MARKER = re.compile(r"।।\s*[\d.]+\s*।।\s*$")
 
@@ -92,13 +100,13 @@ def normalize(text: str) -> str:
             if segment:
                 lines.append(segment)
 
-    # "सञ्जय उवाचदृष्ट्वा तु…" — the speaker attribution is often run straight
-    # into the first word of the verse. Give it its own line.
+    # "सञ्जय उवाचदृष्ट्वा तु…" — the attribution is usually run straight into the
+    # first word of the verse. Give it its own line.
     if lines:
-        index = lines[0].find(SPEAKER)
-        if 0 <= index <= 30:
-            end = index + len(SPEAKER)
-            speaker, rest = lines[0][:end].strip(), lines[0][end:].strip()
+        match = SPEAKERS.match(lines[0])
+        if match:
+            speaker = match.group(1).strip()
+            rest = lines[0][match.end():].strip()
             lines[:1] = [speaker, rest] if rest else [speaker]
 
     return "\n".join(lines)
@@ -132,6 +140,43 @@ ENRICHED_FIELDS = [
 ]
 
 
+def align_transliteration(sanskrit: str, translit: str | None) -> str | None:
+    """Make the IAST lay out on the same lines as the Devanagari.
+
+    The model is asked to mirror the shloka's line structure and mostly does,
+    but two deviations recur across the corpus:
+
+    * a literal backslash-n instead of a newline (the escape survives the JSON
+      round trip as two characters);
+    * splitting each half-line into its two padas, so four lines where the
+      Devanagari has two.
+
+    Both are mechanical, so they are repaired here rather than by re-running the
+    model. Anything that is not an exact multiple is left alone — better an
+    honest mismatch than a guess at where a line belongs.
+    """
+    if not translit:
+        return translit
+
+    translit = translit.replace("\\n", "\n")
+    source = [l for l in sanskrit.split("\n") if l.strip()]
+    target = [l.strip() for l in translit.split("\n") if l.strip()]
+    if len(source) == len(target):
+        return "\n".join(target)
+
+    # Keep an attribution line paired with its counterpart, then align the body.
+    head = 1 if SPEAKERS.match(source[0]) and len(target) > len(source) else 0
+    body_source, body_target = source[head:], target[head:]
+    if body_source and body_target and len(body_target) % len(body_source) == 0:
+        factor = len(body_target) // len(body_source)
+        if factor > 1:
+            merged = [" ".join(body_target[i * factor:(i + 1) * factor])
+                      for i in range(len(body_source))]
+            return "\n".join(target[:head] + merged)
+
+    return "\n".join(target)
+
+
 def read_enrichment() -> dict[tuple[int, int], tuple]:
     """Enriched columns keyed by (chapter, sutra). Empty if never generated."""
     if not ENRICHED_DB.exists():
@@ -160,10 +205,15 @@ def build(csv_path: Path, out_path: Path) -> None:
     try:
         db.executescript(SCHEMA)
         blank = (None,) * len(ENRICHED_FIELDS)
+
+        def align(sanskrit: str, extra: tuple) -> tuple:
+            index = ENRICHED_FIELDS.index("transliteration")
+            return extra[:index] + (align_transliteration(sanskrit, extra[index]),) + extra[index + 1:]
+
         db.executemany(
             f"""INSERT INTO verses (id, chapter, sutra, sanskrit, {', '.join(ENRICHED_FIELDS)})
                 VALUES ({', '.join('?' * (4 + len(ENRICHED_FIELDS)))})""",
-            [v + enrichment.get((v[1], v[2]), blank) for v in verses],
+            [v + align(v[3], enrichment.get((v[1], v[2]), blank)) for v in verses],
         )
         db.execute("INSERT INTO verses_fts(verses_fts) VALUES ('rebuild')")
         db.executemany(

@@ -43,7 +43,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE_DB = ROOT / "app" / "Gita" / "Gita" / "Resources" / "Database" / "gita.sqlite"
 OUTPUT_DB = ROOT / "enriched.sqlite"
 
-DEFAULT_MODEL = "gemini-2.0-flash"
+DEFAULT_MODEL = "gemini-3.5-flash"
 DEFAULT_CONCURRENCY = 5
 MAX_ATTEMPTS = 4
 
@@ -63,11 +63,10 @@ FATAL_MARKERS = (
 # rate. Update when Google changes pricing — these are only for the estimate
 # printed at the end of a run, never for a decision the script makes.
 PRICES = {
-    "gemini-2.0-flash": (0.10, 0.40),      # free tier available
     "gemini-3.1-pro-preview": (2.00, 12.00),
     "gemini-3-pro-preview": (2.00, 12.00),
     "gemini-2.5-pro": (1.25, 10.00),
-    "gemini-3.5-flash": (0.30, 2.50),
+    "gemini-3.5-flash": (0.30, 2.50),   # default: cheap, and good on this task
     "gemini-2.5-flash": (0.30, 2.50),
     "gemini-flash-latest": (0.30, 2.50),
     "gemini-2.5-flash-lite": (0.10, 0.40),
@@ -255,6 +254,7 @@ async def enrich_one(
     model: str,
     verse: dict,
     semaphore: asyncio.Semaphore,
+    thinking: types.ThinkingConfig | None = None,
 ) -> tuple[dict, Enrichment | None, str | None, dict]:
     """One verse, retried with backoff. Returns (verse, result, error, usage)."""
     prompt = PROMPT.format(
@@ -272,6 +272,7 @@ async def enrich_one(
                         response_mime_type="application/json",
                         response_schema=Enrichment,
                         temperature=0.2,
+                        thinking_config=thinking,
                     ),
                 )
                 # `.parsed` is None when the response fails schema validation —
@@ -301,7 +302,17 @@ async def enrich_one(
     return verse, None, "unreachable", {}
 
 
-async def run(model: str, limit: int | None, force: bool, concurrency: int) -> int:
+def thinking_config(level: str) -> types.ThinkingConfig | None:
+    """Reasoning tokens are billed at the output rate and dominate the bill —
+    they were 77% of it on a Flash run. Capping them is the cheapest lever
+    there is, so it is a flag rather than a hardcoded choice."""
+    if level == "default":
+        return None
+    return types.ThinkingConfig(thinking_level=level)
+
+
+async def run(model: str, limit: int | None, force: bool, concurrency: int,
+              thinking: types.ThinkingConfig | None = None) -> int:
     api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
     if not api_key:
         sys.exit("error: set GEMINI_API_KEY (or GOOGLE_API_KEY)")
@@ -317,7 +328,7 @@ async def run(model: str, limit: int | None, force: bool, concurrency: int) -> i
     client = genai.Client(api_key=api_key)
     semaphore = asyncio.Semaphore(concurrency)
     tasks = [
-        asyncio.create_task(enrich_one(client, model, verse, semaphore))
+        asyncio.create_task(enrich_one(client, model, verse, semaphore, thinking))
         for verse in pending
     ]
 
@@ -422,6 +433,8 @@ def main() -> None:
                         help="how many verses to enrich this run (default 1)")
     parser.add_argument("--all", action="store_true", help="enrich every remaining verse")
     parser.add_argument("--force", action="store_true", help="redo verses already stored")
+    parser.add_argument("--thinking", choices=["default", "low", "high"], default="low",
+                        help="reasoning effort; 'low' is much cheaper (default)")
     parser.add_argument("--concurrency", type=int, default=DEFAULT_CONCURRENCY,
                         help=f"requests in flight (default {DEFAULT_CONCURRENCY})")
     parser.add_argument("--show", nargs="*", metavar=("CHAPTER", "SUTRA"),
@@ -434,7 +447,8 @@ def main() -> None:
         return
 
     limit = None if args.all else args.limit
-    sys.exit(asyncio.run(run(args.model, limit, args.force, args.concurrency)))
+    sys.exit(asyncio.run(run(args.model, limit, args.force, args.concurrency,
+                            thinking_config(args.thinking))))
 
 
 if __name__ == "__main__":

@@ -91,14 +91,28 @@ struct CorpusShapeTests {
         }
     }
 
-    @Test("A speaker attribution always stands on its own line")
+    /// All four attribution forms must be split onto their own line — including
+    /// श्रीभगवानुवाच, where sandhi leaves a combining ु rather than उ.
+    @Test("Every speaker attribution stands alone on the first line")
     func speakerOnItsOwnLine() throws {
+        var attributions = 0
         for verse in try ContentDatabase().allVerses() {
-            for line in verse.lines where line.contains("उवाच") && !Verse.isSpeaker(line) {
-                // 1.25 is the sole legitimate case: "उवाच" there is a verb
-                // mid-verse, not an attribution.
-                #expect(verse.reference == "1.25", "\(verse.reference) has उवाच run into the verse")
+            if Verse.isSpeaker(verse.lines[0]) {
+                attributions += 1
+                #expect(verse.lines[0].count < 20, "\(verse.reference): verse text ran into the attribution")
             }
+            // "उवाच" also occurs mid-verse as an ordinary verb — "तमुवाच" in
+            // 2.10, "वाक्यमुवाच" in 2.1 — so its presence there is not a defect.
+            // What matters is that no attribution opens a verse un-split.
+        }
+        #expect(attributions == 60, "expected 60 spoken verses, found \(attributions)")
+    }
+
+    @Test("The transliteration lays out on the same lines as the Devanagari")
+    func transliterationMirrorsTheShloka() throws {
+        for verse in try ContentDatabase().allVerses() where verse.isEnriched {
+            #expect(Verse.lines(of: verse.scripture(for: .english)).count == verse.lines.count,
+                    "\(verse.reference): transliteration line count differs")
         }
     }
 }

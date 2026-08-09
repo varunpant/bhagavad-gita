@@ -135,9 +135,24 @@ extension Verse {
     }
 
     /// True for a speaker attribution line, in either script.
+    ///
+    /// Both Devanagari endings matter: "अर्जुन उवाच" carries the independent
+    /// vowel उ, while sandhi in "श्रीभगवानुवाच" leaves only the combining sign ु.
+    /// Checking just the first misses all 28 भगवानुवाच verses.
     static func isSpeaker(_ line: String) -> Bool {
         let trimmed = line.trimmingCharacters(in: .whitespaces)
-        return trimmed.hasSuffix("उवाच") || trimmed.lowercased().hasSuffix("uvāca")
+        if trimmed.lowercased().hasSuffix("uvāca") { return true }
+
+        // Compared as Unicode scalars, not as Characters. Swift's `hasSuffix`
+        // works on grapheme clusters, and in "भगवानुवाच" the ु is fused into the
+        // cluster "नु" — so hasSuffix("ुवाच") is false even though the scalars
+        // are right there at the end.
+        return endsWithScalars(trimmed, "उवाच") || endsWithScalars(trimmed, "\u{941}वाच")
+    }
+
+    private static func endsWithScalars(_ text: String, _ suffix: String) -> Bool {
+        let body = Array(text.unicodeScalars), tail = Array(suffix.unicodeScalars)
+        return body.count >= tail.count && Array(body.suffix(tail.count)) == tail
     }
 
     /// Prose translation of the verse in the reading language, if enriched.
