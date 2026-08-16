@@ -100,6 +100,11 @@ final class Settings {
     /// screen. Off by default — controls that vanish have to be asked for.
     var immersiveReading = false { didSet { persist(immersiveReading, .immersiveReading) } }
 
+    /// Show a small share bar under each shloka. On by default: sharing a
+    /// verse is the most common thing anyone wants to do with one, and a
+    /// feature nobody can find is a feature nobody has.
+    var showShareBar = true { didSet { persist(showShareBar, .showShareBar) } }
+
     /// Where the reader last was, so opening the app resumes rather than
     /// restarting. Zero means "never read anything yet".
     var lastVerseID = 0 { didSet { persist(String(lastVerseID), .lastVerseID) } }
@@ -117,7 +122,7 @@ final class Settings {
         case theme, language, textSize
         case showTranslation, showMeaning, showWordByWord
         case dailyReminder, reminderMinutes
-        case lastVerseID, immersiveReading
+        case lastVerseID, immersiveReading, showShareBar
     }
 
     init(store: UserDatabase? = nil) {
@@ -167,6 +172,7 @@ final class Settings {
         reminderMinutes = values[Key.reminderMinutes.rawValue].flatMap(Int.init) ?? 8 * 60
         lastVerseID = values[Key.lastVerseID.rawValue].flatMap(Int.init) ?? 0
         immersiveReading = values[Key.immersiveReading.rawValue].map { $0 == "1" } ?? false
+        showShareBar = values[Key.showShareBar.rawValue].map { $0 == "1" } ?? true
     }
 
     private func persist(_ value: String, _ key: Key) {

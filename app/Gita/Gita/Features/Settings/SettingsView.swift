@@ -83,6 +83,11 @@ struct SettingsView: View {
                             .accessibilityIdentifier("toggleImmersive")
                         caption("Hides the controls. Tap the top or bottom edge for them.")
                     }
+                    VStack(alignment: .leading, spacing: 4) {
+                        Toggle(isOn: $settings.showShareBar) { label("Share bar") }
+                            .accessibilityIdentifier("toggleShareBar")
+                        caption("A link and an image button beneath each shloka.")
+                    }
                 } header: {
                     heading("Reading")
                 }
@@ -150,6 +155,7 @@ struct SettingsView: View {
             .onChange(of: settings.showMeaning) { Haptics.selection() }
             .onChange(of: settings.showWordByWord) { Haptics.selection() }
             .onChange(of: settings.immersiveReading) { Haptics.selection() }
+            .onChange(of: settings.showShareBar) { Haptics.selection() }
             .onChange(of: settings.dailyReminder) { _, wanted in
                 Haptics.selection()
                 Task { await reminderChanged(to: wanted) }

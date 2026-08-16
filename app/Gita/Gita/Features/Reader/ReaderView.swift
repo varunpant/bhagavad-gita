@@ -379,6 +379,15 @@ private struct ShlokaPage: View {
             VStack(spacing: 30) {
                 shloka
 
+                // Directly under the shloka rather than at the foot of the
+                // page: it acts on the verse, so it belongs beside it — and
+                // below the commentary it would be a long scroll away from the
+                // thing it shares.
+                if settings.showShareBar {
+                    ShareBar(verse: verse, language: language)
+                        .padding(.top, -14)
+                }
+
                 if settings.showTranslation, let translation = verse.translation(for: language) {
                     section(isDevanagari ? "अनुवाद" : "TRANSLATION", body: translation)
                 }
