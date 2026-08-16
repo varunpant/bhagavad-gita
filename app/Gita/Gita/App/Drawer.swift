@@ -16,6 +16,7 @@ final class Drawer {
     enum Destination: Equatable {
         case settings
         case contents
+        case bookmarks
     }
 
     /// Debug builds can launch with the rail already open, for screenshots and
@@ -53,6 +54,7 @@ final class Drawer {
             if arguments.contains("-openContentsPanel") || arguments.contains("-openContents") {
                 return .contents
             }
+            if arguments.contains("-openBookmarksPanel") { return .bookmarks }
             return nil
         }()
         #else

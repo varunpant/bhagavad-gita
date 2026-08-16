@@ -338,6 +338,7 @@ private struct ShlokaPage: View {
     let verse: Verse
     let language: ReadingLanguage
     let settings: Settings
+    @Environment(Bookmarks.self) private var bookmarks
     @Environment(\.theme) private var theme
 
     private var words: [WordMeaning] { verse.words(for: language) }
@@ -373,7 +374,19 @@ private struct ShlokaPage: View {
         }
         .scrollIndicators(.hidden)
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+        // A wash of the brand orange, kept very low: enough to notice when you
+        // land on a verse you kept, not enough to read as a highlight over the
+        // text itself.
+        .background(bookmarks.contains(verse.id) ? Brand.orange.opacity(0.07) : .clear)
+        .contentShape(.rect)
+        .onLongPressGesture(minimumDuration: 0.45) {
+            let kept = bookmarks.toggle(verse.id)
+            kept ? Haptics.pageTurn() : Haptics.selection()
+        }
         .accessibilityElement(children: .contain)
+        .accessibilityAction(named: bookmarks.contains(verse.id) ? "Remove bookmark" : "Bookmark") {
+            _ = bookmarks.toggle(verse.id)
+        }
     }
 
     // MARK: - Blocks

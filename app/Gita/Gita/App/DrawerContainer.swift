@@ -94,6 +94,9 @@ struct DrawerContainer<Content: View>: View {
                         onClose: { drawer.panel = nil }
                     )
                     .transition(.move(edge: .leading))
+                case .bookmarks:
+                    BookmarksView(onSelect: { drawer.requestedVerseID = $0.id })
+                        .transition(.move(edge: .leading))
                 case nil:
                     Color.clear
                 }
@@ -152,15 +155,11 @@ struct DrawerContainer<Content: View>: View {
             }
             railButton("magnifyingglass", label: "Search") { drawer.search() }
 
-            // Acts on the verse being read rather than opening a list. The
-            // reader saves its position on every move, so that is where the
-            // rail learns which verse "this one" is without reaching into it.
             railButton(
-                bookmarks.contains(settings.lastVerseID) ? "bookmark.fill" : "bookmark",
-                label: bookmarks.contains(settings.lastVerseID) ? "Remove bookmark" : "Bookmark this verse"
+                drawer.panel == .bookmarks ? "xmark" : "bookmark",
+                label: drawer.panel == .bookmarks ? "Close bookmarks" : "Bookmarks"
             ) {
-                let added = bookmarks.toggle(settings.lastVerseID)
-                added ? Haptics.pageTurn() : Haptics.selection()
+                drawer.togglePanel(.bookmarks)
             }
 
             Spacer()
