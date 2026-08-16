@@ -16,6 +16,7 @@ struct ReaderView: View {
     @Environment(Settings.self) private var settings
     @Environment(SemanticIndex.self) private var semanticIndex
     @Environment(Drawer.self) private var drawer
+    @Environment(Bookmarks.self) private var bookmarks
     @Environment(\.theme) private var theme
 
     @State private var currentVerseID: Int?
@@ -190,7 +191,7 @@ struct ReaderView: View {
             HStack {
                 settingsButton
                 Spacer()
-                languageToggle
+                bookmarkButton
             }
             .padding(.horizontal, 16)
         }
@@ -224,23 +225,6 @@ struct ReaderView: View {
         .accessibilityLabel("Menu")
     }
 
-    /// Flips the scripture and the word meanings together. Sits on the right of
-    /// the header, showing the script it will switch *to*.
-    private var languageToggle: some View {
-        Button {
-            withAnimation(.snappy(duration: 0.2)) { settings.language = language.toggled }
-        } label: {
-            Text(language.toggled.icon)
-                .font(.system(size: 17, weight: .medium))
-                .frame(width: 32, height: 32)
-                .contentShape(.rect)
-        }
-        .buttonStyle(.plain)
-        .foregroundStyle(theme.accent)
-        .accessibilityIdentifier("languageToggle")
-        .accessibilityLabel("Switch to \(language.toggled.accessibilityName)")
-    }
-
     private var footer: some View {
         VStack(spacing: 12) {
             ProgressRail(progress: progress, theme: theme)
@@ -248,7 +232,7 @@ struct ReaderView: View {
             HStack {
                 stepButton(direction: -1, symbol: "chevron.left", label: "Previous verse")
                 Spacer()
-                // Plain text again: the contents belongs to the rail now, and a
+                // Plain text: the contents belongs to the rail now, and a
                 // reference that silently opened a panel was a second, hidden
                 // way in.
                 Text(currentVerse?.reference ?? "")
@@ -263,6 +247,24 @@ struct ReaderView: View {
         .padding(.horizontal, 28)
         .padding(.top, 16)
         .padding(.bottom, 12)
+    }
+
+    private var bookmarkButton: some View {
+        let kept = currentVerse.map { bookmarks.contains($0.id) } ?? false
+
+        return Button {
+            guard let verse = currentVerse else { return }
+            bookmarks.toggle(verse.id) ? Haptics.pageTurn() : Haptics.selection()
+        } label: {
+            Image(systemName: kept ? "bookmark.fill" : "bookmark")
+                .font(.system(size: 17, weight: .regular))
+                .frame(width: 32, height: 32)
+                .contentShape(.rect)
+        }
+        .buttonStyle(.plain)
+        .foregroundStyle(kept ? theme.accent : theme.textSecondary)
+        .accessibilityIdentifier("bookmarkButton")
+        .accessibilityLabel(kept ? "Remove bookmark" : "Bookmark this verse")
     }
 
     private func stepButton(direction: Int, symbol: String, label: String) -> some View {
@@ -374,22 +376,12 @@ private struct ShlokaPage: View {
         }
         .scrollIndicators(.hidden)
         .frame(maxWidth: .infinity, maxHeight: .infinity)
-        // A wash of the brand orange, kept very low: enough to notice when you
-        // land on a verse you kept, not enough to read as a highlight over the
-        // text itself.
-        .background(bookmarks.contains(verse.id) ? Brand.orange.opacity(0.07) : .clear)
-        .contentShape(.rect)
-        .onLongPressGesture(minimumDuration: 0.45) {
-            let kept = bookmarks.toggle(verse.id)
-            kept ? Haptics.pageTurn() : Haptics.selection()
-        }
         .accessibilityElement(children: .contain)
-        .accessibilityAction(named: bookmarks.contains(verse.id) ? "Remove bookmark" : "Bookmark") {
-            _ = bookmarks.toggle(verse.id)
-        }
     }
 
     // MARK: - Blocks
+
+    private var isKept: Bool { bookmarks.contains(verse.id) }
 
     private var shloka: some View {
         VStack(spacing: 14) {
@@ -397,11 +389,26 @@ private struct ShlokaPage: View {
                 Text(line)
                     .font(isDevanagari ? .shloka : .shlokaLatin)
                     .foregroundStyle(theme.textPrimary)
+                    // Dotted and faint: a mark on the shloka, not an emphasis
+                    // of it. A solid rule competes with the Devanagari, which
+                    // already carries a headline across every word.
+                    .underline(isKept, pattern: .dot, color: theme.accent.opacity(0.22))
                     .multilineTextAlignment(.center)
                     .lineSpacing(10)
             }
         }
         .frame(maxWidth: .infinity)
+        // An overlay, so the glyph appearing never shifts the text it marks.
+        .overlay(alignment: .topLeading) {
+            if isKept {
+                Image(systemName: "bookmark.fill")
+                    .font(.system(size: 15))
+                    .foregroundStyle(theme.accent)
+                    .offset(y: -4)
+                    .transition(.opacity)
+                    .accessibilityHidden(true)
+            }
+        }
         .accessibilityElement(children: .combine)
         .accessibilityLabel("Chapter \(verse.chapter), verse \(verse.sutra)")
         .accessibilityValue(Text(spokenShloka))

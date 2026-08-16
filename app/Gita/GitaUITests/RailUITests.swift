@@ -100,29 +100,28 @@ final class BookmarkUITests: XCTestCase {
 
     func testNothingKeptYet() {
         openBookmarks()
-        XCTAssertTrue(app.staticTexts["Press and hold a verse to keep it"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.staticTexts["Tap the bookmark beside a verse number to keep it"].waitForExistence(timeout: 5))
     }
 
-    func testLongPressKeepsAVerseAndItAppearsInTheList() {
-        // Press and hold the middle of the page.
-        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.45)).press(forDuration: 0.9)
+    func testBookmarkButtonKeepsAVerseAndItAppearsInTheList() {
+        app.buttons["bookmarkButton"].tap()
 
         openBookmarks()
         XCTAssertTrue(app.buttons["bookmark-1.1"].waitForExistence(timeout: 5),
                       "the verse was not kept")
     }
 
-    func testLongPressAgainRemovesIt() {
-        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.45)).press(forDuration: 0.9)
-        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.45)).press(forDuration: 0.9)
+    func testTappingAgainRemovesIt() {
+        app.buttons["bookmarkButton"].tap()
+        app.buttons["bookmarkButton"].tap()
 
         openBookmarks()
-        XCTAssertTrue(app.staticTexts["Press and hold a verse to keep it"].waitForExistence(timeout: 5),
+        XCTAssertTrue(app.staticTexts["Tap the bookmark beside a verse number to keep it"].waitForExistence(timeout: 5),
                       "the bookmark was not removed")
     }
 
     func testChoosingABookmarkOpensThatVerse() {
-        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.45)).press(forDuration: 0.9)
+        app.buttons["bookmarkButton"].tap()
         app.buttons["Next verse"].tap()                       // move away
 
         openBookmarks()

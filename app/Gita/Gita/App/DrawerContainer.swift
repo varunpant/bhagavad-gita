@@ -162,6 +162,23 @@ struct DrawerContainer<Content: View>: View {
                 drawer.togglePanel(.bookmarks)
             }
 
+            // The script switch lives here rather than in the reader's header:
+            // it changes the whole app, which is what the rail is for, and the
+            // header is left to the verse.
+            Button {
+                Haptics.selection()
+                settings.language = settings.language.toggled
+            } label: {
+                Text(settings.language.toggled.icon)
+                    .font(.system(size: 18, weight: .medium))
+                    .foregroundStyle(.white)
+                    .frame(width: railWidth, height: 52)
+                    .contentShape(.rect)
+            }
+            .buttonStyle(.plain)
+            .accessibilityIdentifier("languageToggle")
+            .accessibilityLabel("Switch to \(settings.language.toggled.accessibilityName)")
+
             Spacer()
 
             // The mark closes the rail: the bottom of the rail is where a thumb

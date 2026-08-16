@@ -62,7 +62,7 @@ struct BookmarksView: View {
             Image(systemName: "bookmark")
                 .font(.title3)
                 .foregroundStyle(theme.textSecondary.opacity(0.6))
-            Text("Press and hold a verse to keep it")
+            Text("Tap the bookmark beside a verse number to keep it")
                 .font(.label)
                 .foregroundStyle(theme.textSecondary)
                 .multilineTextAlignment(.center)

@@ -100,13 +100,17 @@ final class LanguageToggleUITests: XCTestCase {
         let app = launch()
         XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 10))
 
+        app.buttons["menuButton"].tap()
         app.buttons["languageToggle"].tap()
+        app.buttons["Close menu"].firstMatch.tap()
 
         let english = app.staticTexts["TRANSLATION"]
         XCTAssertTrue(english.waitForExistence(timeout: 5), "did not switch to English")
         XCTAssertFalse(app.staticTexts["अनुवाद"].exists, "Hindi headings still showing")
 
+        app.buttons["menuButton"].tap()
         app.buttons["languageToggle"].tap()
+        app.buttons["Close menu"].firstMatch.tap()
         XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 5), "did not switch back")
     }
 
