@@ -78,15 +78,13 @@ struct SettingsView: View {
                         label("Language")
                     }
                     .pickerStyle(.inline)
-                    Toggle(isOn: $settings.immersiveReading) { label("Immersive") }
-                        .accessibilityIdentifier("toggleImmersive")
+                    VStack(alignment: .leading, spacing: 4) {
+                        Toggle(isOn: $settings.immersiveReading) { label("Immersive") }
+                            .accessibilityIdentifier("toggleImmersive")
+                        caption("Hides the controls. Tap the top or bottom edge for them.")
+                    }
                 } header: {
                     heading("Reading")
-                } footer: {
-                    footnote("Sanskrit shows the Devanagari shloka with Hindi meanings. "
-                             + "English shows the IAST transliteration with English meanings.\n\n"
-                             + "Immersive gives the verse the whole screen. Tap the top or bottom "
-                             + "edge to bring the controls back.")
                 }
                 .listRowBackground(theme.surface)
 
@@ -99,14 +97,17 @@ struct SettingsView: View {
                         .accessibilityIdentifier("toggleWordByWord")
                 } header: {
                     heading("Show beneath the shloka")
-                } footer: {
-                    footnote("Switch everything off to read the verse on its own.")
                 }
                 .listRowBackground(theme.surface)
 
                 Section {
-                    Toggle(isOn: $settings.dailyReminder) { label("Daily verse") }
-                        .accessibilityIdentifier("toggleDailyReminder")
+                    VStack(alignment: .leading, spacing: 4) {
+                        Toggle(isOn: $settings.dailyReminder) { label("Daily verse") }
+                            .accessibilityIdentifier("toggleDailyReminder")
+                        if reminderDenied {
+                            caption("Notifications are off for Gita in the Settings app.")
+                        }
+                    }
 
                     if settings.dailyReminder {
                         DatePicker(selection: reminderTime, displayedComponents: .hourAndMinute) {
@@ -116,10 +117,6 @@ struct SettingsView: View {
                     }
                 } header: {
                     heading("Reminder")
-                } footer: {
-                    footnote(reminderDenied
-                             ? "Notifications are turned off for Gita in the Settings app."
-                             : "One notification a day, carrying that day's verse.")
                 }
                 .listRowBackground(theme.surface)
             }
@@ -206,9 +203,13 @@ struct SettingsView: View {
             .foregroundStyle(theme.textSecondary)
     }
 
-    private func footnote(_ text: String) -> some View {
+    /// A single line under the control it belongs to. Only where the control
+    /// genuinely needs one — a caption on every row is noise, not help.
+    private func caption(_ text: String) -> some View {
         Text(text)
-            .foregroundStyle(theme.textSecondary.opacity(0.85))
+            .font(.footnote)
+            .foregroundStyle(theme.textSecondary)
+            .fixedSize(horizontal: false, vertical: true)
     }
 }
 

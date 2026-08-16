@@ -150,21 +150,21 @@ struct TableOfContentsView: View {
                             .overlay(Circle().stroke(theme.accent.opacity(0.35), lineWidth: 1))
                     }
 
-                VStack(alignment: .leading, spacing: 2) {
+                VStack(alignment: .leading, spacing: 3) {
                     Text(isDevanagari ? chapter.nameSa : chapter.nameEn)
                         .font(isDevanagari ? .wordDevanagari : .wordLatin)
                         .foregroundStyle(theme.textPrimary)
-                    Text(isDevanagari ? chapter.nameEn : chapter.nameSa)
-                        .font(isDevanagari ? .label : .glossDevanagari)
+                    // The count, in the same script as the name above it. The
+                    // other language's title underneath read as a mistake:
+                    // Devanagari heading, English subheading, on every row.
+                    Text(isDevanagari
+                         ? "\(chapter.verseCount) श्लोक"
+                         : "\(chapter.verseCount) verses")
+                        .font(isDevanagari ? .glossDevanagari : .label)
                         .foregroundStyle(theme.textSecondary)
                 }
 
                 Spacer()
-
-                Text("\(chapter.verseCount)")
-                    .font(.label)
-                    .monospacedDigit()
-                    .foregroundStyle(theme.textSecondary.opacity(0.7))
 
                 Image(systemName: "chevron.right")
                     .font(.system(size: 11, weight: .semibold))
@@ -185,7 +185,7 @@ struct TableOfContentsView: View {
     /// 78 verses stay reachable without a long scroll.
     private func verseGrid(for chapter: Chapter) -> some View {
         let verses = library.verses.filter { $0.chapter == chapter.id }
-        return LazyVGrid(columns: [GridItem(.adaptive(minimum: 46), spacing: 8)], spacing: 8) {
+        return LazyVGrid(columns: [GridItem(.adaptive(minimum: 46), spacing: 10)], spacing: 10) {
             ForEach(verses) { verse in
                 Button {
                     choose(verse)
@@ -194,10 +194,16 @@ struct TableOfContentsView: View {
                         .font(.label)
                         .monospacedDigit()
                         .foregroundStyle(verse.id == currentVerse?.id ? theme.background : theme.textPrimary)
-                        .frame(maxWidth: .infinity, minHeight: 32)
+                        // Circles, like the chapter numerals: the two lists sit
+                        // one inside the other and should read as one family.
+                        .frame(width: 38, height: 38)
                         .background {
-                            RoundedRectangle(cornerRadius: 7, style: .continuous)
-                                .fill(verse.id == currentVerse?.id ? theme.accent : theme.surface)
+                            Circle()
+                                .fill(verse.id == currentVerse?.id ? theme.accent : .clear)
+                                .overlay(
+                                    Circle().stroke(theme.divider, lineWidth: 1)
+                                        .opacity(verse.id == currentVerse?.id ? 0 : 1)
+                                )
                         }
                         .contentShape(.rect)
                 }

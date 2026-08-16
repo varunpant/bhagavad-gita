@@ -46,6 +46,30 @@ final class RailUITests: XCTestCase {
         XCTAssertTrue(app.buttons["searchClose"].exists)
     }
 
+    /// Choosing a verse should land on the page, not on a menu covering it.
+    func testChoosingAVerseClosesTheRailAndThePanel() {
+        app.buttons["Contents"].tap()
+        XCTAssertTrue(app.buttons["chapter-2"].waitForExistence(timeout: 5))
+
+        app.buttons["chapter-2"].tap()                       // expand
+        let verse = app.buttons["Verse 2.47"]
+        XCTAssertTrue(verse.waitForExistence(timeout: 5))
+        verse.tap()
+
+        // Did the panel go?
+        XCTAssertFalse(app.buttons["chapter-1"].waitForExistence(timeout: 2), "panel stayed open")
+        // Did the reader move?
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.staticTexts["verseReference"].label.contains("2.47"),
+                      "reader did not move, showing \(app.staticTexts["verseReference"].label)")
+        // Did the rail go? By where the page sits, not by hittability: the rail
+        // stays in the hierarchy either way, and what actually changes is that
+        // the page slides back to the screen's edge.
+        XCTAssertTrue(app.buttons["menuButton"].waitForExistence(timeout: 5))
+        XCTAssertLessThan(app.buttons["menuButton"].frame.minX, 72,
+                          "the page is still pushed aside, so the rail stayed open")
+    }
+
     /// The verse number at the foot is no longer a second way into the contents.
     func testVerseReferenceDoesNotOpenTheContents() {
         app.buttons["Close menu"].firstMatch.tap()          // put the rail away

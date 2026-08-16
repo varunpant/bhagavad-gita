@@ -77,6 +77,12 @@ struct ReaderView: View {
             guard let requested else { return }
             currentVerseID = requested
             drawer.requestedVerseID = nil
+            // Asking for a verse means "take me there", so the rail and any
+            // panel go with it. Done here, where the request is consumed,
+            // rather than in the panel that raised it — the panel is being torn
+            // down at that moment, which is a poor place to expect more work.
+            drawer.isOpen = false
+            drawer.panel = nil
         }
         .onChange(of: settings.immersiveReading) { _, immersive in
             hideChrome?.cancel()
