@@ -15,6 +15,10 @@ import SwiftUI
 /// background and row fills from the system palette, which left Sepia tinting
 /// only the app's own views while settings stayed system white or black.
 struct SettingsView: View {
+    /// A sheet brings its own title bar and Done button; a panel sits inside the
+    /// rail, which already provides the way out.
+    var showsChrome = true
+
     @Environment(Settings.self) private var settings
     @Environment(Library.self) private var library
     @Environment(\.theme) private var theme
@@ -25,10 +29,26 @@ struct SettingsView: View {
     @State private var reminderDenied = false
 
     var body: some View {
+        Group {
+            if showsChrome {
+                NavigationStack { form }
+            } else {
+                form
+            }
+        }
+        .tint(theme.accent)
+        .background(theme.background)
+        #if os(macOS)
+        // A macOS sheet sizes to its content, which for a Form means a cramped
+        // column. Give it room to breathe, and let it grow with the window.
+        .frame(minWidth: 460, idealWidth: 520, minHeight: 520, idealHeight: 620)
+        #endif
+    }
+
+    private var form: some View {
         @Bindable var settings = settings
 
-        NavigationStack {
-            Form {
+        return Form {
                 Section {
                     Picker(selection: $settings.theme) {
                         ForEach(ThemePreference.allCases) {
@@ -114,14 +134,16 @@ struct SettingsView: View {
             .toolbarBackground(.visible, for: .navigationBar)
             #endif
             .toolbar {
-                ToolbarItem(placement: .principal) {
-                    Text("Settings")
-                        .font(.headline)
-                        .foregroundStyle(theme.textPrimary)
-                }
-                ToolbarItem(placement: .confirmationAction) {
-                    Button("Done") { dismiss() }
-                        .foregroundStyle(theme.accent)
+                if showsChrome {
+                    ToolbarItem(placement: .principal) {
+                        Text("Settings")
+                            .font(.headline)
+                            .foregroundStyle(theme.textPrimary)
+                    }
+                    ToolbarItem(placement: .confirmationAction) {
+                        Button("Done") { dismiss() }
+                            .foregroundStyle(theme.accent)
+                    }
                 }
             }
             .onChange(of: settings.theme) { Haptics.selection() }
@@ -139,14 +161,6 @@ struct SettingsView: View {
                 Haptics.selection()
                 Task { await rescheduleIfOn() }
             }
-        }
-        .tint(theme.accent)
-        .background(theme.background)
-        #if os(macOS)
-        // A macOS sheet sizes to its content, which for a Form means a cramped
-        // column. Give it room to breathe, and let it grow with the window.
-        .frame(minWidth: 460, idealWidth: 520, minHeight: 520, idealHeight: 620)
-        #endif
     }
 
     /// The stored minutes-since-midnight, as the Date a picker wants.

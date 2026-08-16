@@ -18,6 +18,7 @@ struct DrawerContainer<Content: View>: View {
     @Environment(Drawer.self) private var drawer
     @Environment(Settings.self) private var settings
     @Environment(Bookmarks.self) private var bookmarks
+    @Environment(Library.self) private var library
     @Environment(\.theme) private var theme
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
@@ -71,8 +72,35 @@ struct DrawerContainer<Content: View>: View {
                             .accessibilityAddTraits(.isButton)
                     }
                 }
+
+            if drawer.panel == .settings {
+                SettingsView(showsChrome: false)
+                    // Starts at the rail's edge and runs to the screen's, so it
+                    // covers the page without ever covering the rail — the rail
+                    // is how it is closed again.
+                    .padding(.leading, railWidth)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    .transition(.move(edge: .leading))
+                    .zIndex(1)
+            }
+
+            if drawer.panel == .contents {
+                TableOfContentsView(
+                    currentVerse: library.verses.first { $0.id == settings.lastVerseID },
+                    onSelect: { drawer.requestedVerseID = $0.id },
+                    onClose: { drawer.panel = nil }
+                )
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                // Stops short of the right edge so the page still shows: it says
+                // the reader is still there, and gives somewhere to tap back to.
+                .padding(.leading, railWidth)
+                .padding(.trailing, 44)
+                .transition(.move(edge: .leading))
+                .zIndex(1)
+            }
         }
         .animation(reduceMotion ? nil : .snappy(duration: 0.32), value: drawer.isOpen)
+        .animation(reduceMotion ? nil : .snappy(duration: 0.30), value: drawer.panel)
         .gesture(edgeDrag)
     }
 
@@ -101,11 +129,16 @@ struct DrawerContainer<Content: View>: View {
             // header pads 10pt and centres a 32pt button, putting its middle
             // 26pt below the safe area, which is exactly the middle of this
             // 52pt button with no padding above it.
-            railButton("gearshape", label: "Settings") { drawer.choose(.settings) }
+            railButton(
+                drawer.panel == .settings ? "xmark" : "gearshape",
+                label: drawer.panel == .settings ? "Close settings" : "Settings"
+            ) {
+                drawer.togglePanel(.settings)
+            }
 
             Spacer()
 
-            railButton("list.bullet", label: "Contents") { drawer.choose(.contents) }
+            railButton("list.bullet", label: "Contents") { drawer.togglePanel(.contents) }
             railButton("magnifyingglass", label: "Search") { drawer.search() }
 
             // Acts on the verse being read rather than opening a list. The

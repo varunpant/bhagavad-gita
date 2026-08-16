@@ -23,6 +23,8 @@ struct TableOfContentsView: View {
     var startSearching = false
     /// Called with the chosen verse; the sheet dismisses itself.
     let onSelect: (Verse) -> Void
+    /// How to close when shown as a panel, where `dismiss` means nothing.
+    var onClose: (() -> Void)?
 
     @State private var expandedChapter: Int?
     @State private var searching = false
@@ -120,7 +122,7 @@ struct TableOfContentsView: View {
             // Rightmost, and the only xmark in the sheet: on Mac this is the
             // sole way out, as a sheet there has no swipe-to-dismiss.
             Button {
-                dismiss()
+                close()
             } label: {
                 Image(systemName: "xmark")
                     .font(.system(size: 17, weight: .regular))
@@ -342,7 +344,11 @@ struct TableOfContentsView: View {
 
     private func choose(_ verse: Verse) {
         onSelect(verse)
-        dismiss()
+        close()
+    }
+
+    private func close() {
+        if let onClose { onClose() } else { dismiss() }
     }
 
     /// Semantic search is built on first use, not at launch.
