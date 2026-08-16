@@ -18,21 +18,9 @@ struct SplashView: View {
     @State private var markShown = false
     @State private var wordmarkShown = false
 
-    /// Yellow at the top through to vermillion at the foot — the icon's ground,
-    /// run vertically over the whole screen.
-    private let ground = LinearGradient(
-        colors: [
-            Color(red: 0xF2 / 255, green: 0xC2 / 255, blue: 0x30 / 255),
-            Color(red: 0xF0 / 255, green: 0x86 / 255, blue: 0x1E / 255),
-            Color(red: 0xE0 / 255, green: 0x3C / 255, blue: 0x24 / 255),
-        ],
-        startPoint: .top,
-        endPoint: .bottom
-    )
-
     var body: some View {
         ZStack {
-            ground.ignoresSafeArea()
+            Brand.gradient.ignoresSafeArea()
 
             VStack(spacing: 18) {
                 Text(verbatim: "ग")

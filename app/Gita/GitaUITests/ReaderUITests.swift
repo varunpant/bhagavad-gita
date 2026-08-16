@@ -140,7 +140,8 @@ final class SettingsUITests: XCTestCase {
     }
 
     private func openSettings() {
-        app.buttons["settingsButton"].tap()
+        app.buttons["menuButton"].tap()
+        app.buttons["Settings"].tap()
         // The title is a themed toolbar item rather than a navigationTitle, so
         // the sheet is identified by its Done button.
         XCTAssertTrue(app.buttons["Done"].waitForExistence(timeout: 5), "settings did not open")
@@ -413,7 +414,8 @@ final class ImmersiveUITests: XCTestCase {
     }
 
     private func turnOnImmersive() {
-        app.buttons["settingsButton"].tap()
+        app.buttons["menuButton"].tap()
+        app.buttons["Settings"].tap()
         XCTAssertTrue(app.buttons["Done"].waitForExistence(timeout: 5))
 
         let toggle = app.switches["toggleImmersive"]
@@ -455,7 +457,7 @@ final class ImmersiveUITests: XCTestCase {
 
         // Just below the status bar: taps inside it never reach the app.
         app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.09)).tap()
-        XCTAssertTrue(app.buttons["settingsButton"].waitForExistence(timeout: 3),
+        XCTAssertTrue(app.buttons["menuButton"].waitForExistence(timeout: 3),
                       "tapping the top edge did not reveal the controls")
     }
 

@@ -12,6 +12,7 @@ struct GitaApp: App {
     @State private var library = Library()
     @State private var settings = Settings()
     @State private var semanticIndex = SemanticIndex()
+    @State private var drawer = Drawer()
 
     @Environment(\.colorScheme) private var colorScheme
 
@@ -21,6 +22,7 @@ struct GitaApp: App {
                 .environment(library)
                 .environment(settings)
                 .environment(semanticIndex)
+                .environment(drawer)
                 .environment(\.theme, settings.theme.resolve(for: colorScheme))
                 .dynamicTypeSize(settings.textSize.dynamicTypeSize)
                 // Without this the app's own colours follow the chosen theme but

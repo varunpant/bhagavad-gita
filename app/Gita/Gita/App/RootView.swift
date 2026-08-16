@@ -24,7 +24,7 @@ struct RootView: View {
 
     var body: some View {
         ZStack {
-            ReaderView()
+            DrawerContainer { ReaderView() }
 
             if showingSplash {
                 SplashView()

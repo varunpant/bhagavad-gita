@@ -30,12 +30,15 @@ ICONSET = ROOT / "app" / "Gita" / "Gita" / "Assets.xcassets" / "AppIcon.appicons
 LETTER = "ग"
 SIZE = 1024
 
-# Vermillion — sindoor, the red of the tilak — against a marigold ground.
-VERMILLION = (0xE0, 0x3C, 0x24)
-VERMILLION_DARK = (0xFF, 0x6B, 0x4A)      # lifted, so it holds against a dark ground
+# The brand ramp — yellow through orange to bright pink. The same three values
+# live in app/.../Core/Design/Brand.swift, which paints the splash and the rail;
+# change them together.
+GROUND_LIGHT = ((0xFF, 0xC9, 0x3C), (0xFF, 0x7A, 0x18), (0xFF, 0x2D, 0x78))
+GROUND_DARK = ((0x7A, 0x53, 0x0E), (0x7A, 0x33, 0x08), (0x7A, 0x11, 0x37))
 
-GROUND_LIGHT = ((0xFF, 0xC7, 0x3B), (0xF0, 0x76, 0x18))   # yellow -> orange
-GROUND_DARK = ((0x6B, 0x33, 0x08), (0x2A, 0x14, 0x06))    # the same ramp, banked down
+# White, not vermillion: against a ground this bright — and pink at one end —
+# only white holds its contrast the whole way down.
+INK = (0xFF, 0xFF, 0xFF)
 
 # Devanagari faces, best first.
 FONTS = [
@@ -59,14 +62,12 @@ def font(size: int) -> ImageFont.FreeTypeFont:
     raise SystemExit("error: no Devanagari font found")
 
 
-def gradient(start: tuple[int, int, int], end: tuple[int, int, int], size: int) -> Image.Image:
-    """Top-left to bottom-right, built small and scaled for a smooth ramp."""
-    small = Image.new("RGB", (2, 2))
-    mid = tuple((s + e) // 2 for s, e in zip(start, end))
-    small.putpixel((0, 0), start)
-    small.putpixel((1, 0), mid)
-    small.putpixel((0, 1), mid)
-    small.putpixel((1, 1), end)
+def gradient(stops: tuple, size: int) -> Image.Image:
+    """Vertical ramp through every stop, built small and scaled up so it is
+    smooth without looping over a million pixels."""
+    small = Image.new("RGB", (1, len(stops)))
+    for index, colour in enumerate(stops):
+        small.putpixel((0, index), colour)
     return small.resize((size, size), Image.BICUBIC)
 
 
@@ -102,8 +103,8 @@ def letter_mask(size: int) -> Image.Image:
     return mask
 
 
-def compose(size: int, ground: tuple, ink: tuple, lit: bool = True) -> Image.Image:
-    icon = gradient(*ground, size=size)
+def compose(size: int, ground: tuple, ink: tuple = INK, lit: bool = True) -> Image.Image:
+    icon = gradient(ground, size=size)
 
     if lit:
         highlight = Image.new("RGB", (size, size), (255, 255, 255))
@@ -112,8 +113,8 @@ def compose(size: int, ground: tuple, ink: tuple, lit: bool = True) -> Image.Ima
     mask = letter_mask(size)
 
     # A soft dark offset gives the letter weight without an obvious drop shadow.
-    shadow = Image.new("RGB", (size, size), (0x6B, 0x24, 0x06))
-    icon = Image.composite(shadow, icon, mask.point(lambda v: int(v * 0.30)))
+    shadow = Image.new("RGB", (size, size), (0x8A, 0x18, 0x3A))
+    icon = Image.composite(shadow, icon, mask.point(lambda v: int(v * 0.22)))
     icon.paste(Image.new("RGB", (size, size), ink), (0, 0), mask)
     return icon
 
@@ -134,14 +135,16 @@ def tinted(size: int) -> Image.Image:
 def svg(width: int, height: int, ground: tuple, ink: tuple, letter_fraction: float) -> str:
     """An editable master. Kept deliberately simple — two stops and one glyph —
     so it opens cleanly in a vector editor rather than as a mass of paths."""
-    (r1, g1, b1), (r2, g2, b2) = ground
+    stops = "\n      ".join(
+        f'<stop offset="{i / (len(ground) - 1):.2f}" stop-color="#{r:02X}{g:02X}{b:02X}"/>'
+        for i, (r, g, b) in enumerate(ground)
+    )
     return f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}"
      viewBox="0 0 {width} {height}">
   <defs>
-    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#{r1:02X}{g1:02X}{b1:02X}"/>
-      <stop offset="1" stop-color="#{r2:02X}{g2:02X}{b2:02X}"/>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      {stops}
     </linearGradient>
     <radialGradient id="glow" cx="0.32" cy="0.26" r="0.78">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.25"/>
@@ -183,15 +186,15 @@ def main() -> None:
         folder.mkdir(parents=True, exist_ok=True)
 
     # --- logo -------------------------------------------------------------
-    light = compose(SIZE, GROUND_LIGHT, VERMILLION)
-    dark = compose(SIZE, GROUND_DARK, VERMILLION_DARK)
+    light = compose(SIZE, GROUND_LIGHT)
+    dark = compose(SIZE, GROUND_DARK)
     grey = tinted(SIZE)
 
     light.save(LOGO_DIR / "logo-1024.png")
     dark.save(LOGO_DIR / "logo-dark.png")
     grey.save(LOGO_DIR / "logo-tinted.png")
-    (LOGO_DIR / "logo.svg").write_text(svg(SIZE, SIZE, GROUND_LIGHT, VERMILLION, LETTER_SCALE))
-    (LOGO_DIR / "logo-dark.svg").write_text(svg(SIZE, SIZE, GROUND_DARK, VERMILLION_DARK, LETTER_SCALE))
+    (LOGO_DIR / "logo.svg").write_text(svg(SIZE, SIZE, GROUND_LIGHT, INK, LETTER_SCALE))
+    (LOGO_DIR / "logo-dark.svg").write_text(svg(SIZE, SIZE, GROUND_DARK, INK, LETTER_SCALE))
 
     # --- app icon ---------------------------------------------------------
     light.save(ICONSET / "icon-light.png")
@@ -207,7 +210,7 @@ def main() -> None:
     for scale, name in ((1, "splash@1x.png"), (2, "splash@2x.png"), (3, "splash@3x.png")):
         canvas = Image.new("RGB", (width // 3 * scale, height // 3 * scale), (0xFF, 0xFF, 0xFF))
         mark_size = int(min(canvas.size) * 0.34)
-        mark = compose(mark_size, GROUND_LIGHT, VERMILLION).resize((mark_size, mark_size), Image.LANCZOS)
+        mark = compose(mark_size, GROUND_LIGHT).resize((mark_size, mark_size), Image.LANCZOS)
 
         rounded = Image.new("L", (mark_size, mark_size), 0)
         ImageDraw.Draw(rounded).rounded_rectangle(
@@ -216,7 +219,7 @@ def main() -> None:
         canvas.paste(mark, ((canvas.width - mark_size) // 2, (canvas.height - mark_size) // 2), rounded)
         canvas.save(SPLASH_DIR / name)
 
-    (SPLASH_DIR / "splash.svg").write_text(svg(width, height, GROUND_LIGHT, VERMILLION, 0.18))
+    (SPLASH_DIR / "splash.svg").write_text(svg(width, height, GROUND_LIGHT, INK, 0.18))
 
     print(f"logo    -> {LOGO_DIR.relative_to(ROOT)}  (svg + 3 png)")
     print(f"splash  -> {SPLASH_DIR.relative_to(ROOT)}  (svg + 3 png)")

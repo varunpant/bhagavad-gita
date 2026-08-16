@@ -15,6 +15,7 @@ struct ReaderView: View {
     @Environment(Library.self) private var library
     @Environment(Settings.self) private var settings
     @Environment(SemanticIndex.self) private var semanticIndex
+    @Environment(Drawer.self) private var drawer
     @Environment(\.theme) private var theme
 
     @State private var currentVerseID: Int?
@@ -85,6 +86,14 @@ struct ReaderView: View {
             // A cold launch from a widget arrives before the corpus is in
             // memory, so the request is held until it is.
             if library.state.isReady { openPendingDeepLink() }
+        }
+        .onChange(of: drawer.destination) { _, destination in
+            guard let destination else { return }
+            switch destination {
+            case .settings: showingSettings = true
+            case .contents: showingContents = true
+            }
+            drawer.destination = nil
         }
         .onChange(of: settings.immersiveReading) { _, immersive in
             hideChrome?.cancel()
@@ -208,17 +217,17 @@ struct ReaderView: View {
 
     private var settingsButton: some View {
         Button {
-            showingSettings = true
+            drawer.open()
         } label: {
-            Image(systemName: "gearshape")
+            Image(systemName: "line.3.horizontal")
                 .font(.system(size: 17, weight: .regular))
                 .frame(width: 32, height: 32)
                 .contentShape(.rect)
         }
         .buttonStyle(.plain)
         .foregroundStyle(theme.textSecondary)
-        .accessibilityIdentifier("settingsButton")
-        .accessibilityLabel("Settings")
+        .accessibilityIdentifier("menuButton")
+        .accessibilityLabel("Menu")
     }
 
     /// Flips the scripture and the word meanings together. Sits on the right of
