@@ -94,10 +94,10 @@ struct DrawerContainer<Content: View>: View {
                     onClose: { drawer.panel = nil }
                 )
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
-                // Stops short of the right edge so the page still shows: it says
-                // the reader is still there, and gives somewhere to tap back to.
+                // Same shape as the settings panel: rail edge to screen edge,
+                // closed by its own rail icon. Two panels that behave alike are
+                // easier to learn than two that each have their own rules.
                 .padding(.leading, railWidth)
-                .padding(.trailing, 44)
                 .transition(.move(edge: .leading))
                 .zIndex(1)
             }
@@ -141,7 +141,12 @@ struct DrawerContainer<Content: View>: View {
 
             Spacer()
 
-            railButton("list.bullet", label: "Contents") { drawer.togglePanel(.contents) }
+            railButton(
+                drawer.panel == .contents ? "xmark" : "list.bullet",
+                label: drawer.panel == .contents ? "Close contents" : "Contents"
+            ) {
+                drawer.togglePanel(.contents)
+            }
             railButton("magnifyingglass", label: "Search") { drawer.search() }
 
             // Acts on the verse being read rather than opening a list. The

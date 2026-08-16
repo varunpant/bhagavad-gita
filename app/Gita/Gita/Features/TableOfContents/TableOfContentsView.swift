@@ -64,20 +64,22 @@ struct TableOfContentsView: View {
 
             languageToggle
 
-            // Rightmost, and the only xmark in the sheet: on Mac this is the
-            // sole way out, as a sheet there has no swipe-to-dismiss.
-            Button {
-                close()
-            } label: {
-                Image(systemName: "xmark")
-                    .font(.system(size: 17, weight: .regular))
-                    .frame(width: 32, height: 32)
-                    .contentShape(.rect)
+            // Only when it is a sheet. As a panel the rail's icon is the cross,
+            // and a second one in the header would be two ways to do one thing.
+            if onClose == nil {
+                Button {
+                    close()
+                } label: {
+                    Image(systemName: "xmark")
+                        .font(.system(size: 17, weight: .regular))
+                        .frame(width: 32, height: 32)
+                        .contentShape(.rect)
+                }
+                .buttonStyle(.plain)
+                .foregroundStyle(theme.textSecondary)
+                .accessibilityIdentifier("tocClose")
+                .accessibilityLabel("Close contents")
             }
-            .buttonStyle(.plain)
-            .foregroundStyle(theme.textSecondary)
-            .accessibilityIdentifier("tocClose")
-            .accessibilityLabel("Close contents")
         }
         .padding(.horizontal, 16)
         .padding(.vertical, 10)
