@@ -26,6 +26,14 @@ nonisolated enum Streak {
         return formatter
     }()
 
+    /// Built once. It was being constructed per day inside the streak loops —
+    /// a hundred `Calendar` allocations to walk a hundred-day streak.
+    private nonisolated static let calendar: Calendar = {
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = dayFormatter.timeZone
+        return calendar
+    }()
+
     static func day(for date: Date) -> String { dayFormatter.string(from: date) }
 
     /// The run of consecutive days ending today — or ending yesterday, if
@@ -87,9 +95,7 @@ nonisolated enum Streak {
     /// 25 hours long, and subtracting a fixed interval across one of those
     /// lands on the wrong date and silently breaks the streak.
     private static func previousDay(of date: Date) -> Date? {
-        var calendar = Calendar(identifier: .gregorian)
-        calendar.timeZone = dayFormatter.timeZone
-        return calendar.date(byAdding: .day, value: -1, to: date)
+        calendar.date(byAdding: .day, value: -1, to: date)
     }
 
     private static func isDayAfter(_ day: String, _ previous: String) -> Bool {
@@ -99,8 +105,6 @@ nonisolated enum Streak {
     }
 
     private static func nextDay(of date: Date) -> Date? {
-        var calendar = Calendar(identifier: .gregorian)
-        calendar.timeZone = dayFormatter.timeZone
-        return calendar.date(byAdding: .day, value: 1, to: date)
+        calendar.date(byAdding: .day, value: 1, to: date)
     }
 }

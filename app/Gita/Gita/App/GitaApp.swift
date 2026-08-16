@@ -9,12 +9,16 @@ import SwiftUI
 struct GitaApp: App {
     /// Shared, injected rather than reached for through a singleton — this is
     /// what lets previews and tests run without the bundled database.
+    /// Opened once and shared, rather than three times over in three
+    /// initialisers.
+    private static let store = UserDatabase.shared
+
     @State private var library = Library()
-    @State private var settings = Settings()
+    @State private var settings = Settings(store: Self.store)
     @State private var semanticIndex = SemanticIndex()
     @State private var drawer = Drawer()
-    @State private var bookmarks = Bookmarks()
-    @State private var progress = ReadingProgress()
+    @State private var bookmarks = Bookmarks(store: Self.store)
+    @State private var progress = ReadingProgress(store: Self.store)
 
     @Environment(\.colorScheme) private var colorScheme
 

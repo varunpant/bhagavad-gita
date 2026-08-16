@@ -46,13 +46,18 @@ nonisolated struct UserDatabase {
         return support.appendingPathComponent("user.sqlite")
     }
 
+    /// The one connection the app shares. Settings, Bookmarks and
+    /// ReadingProgress used to open their own, so launch ran the migrator three
+    /// times against the same file and left three write queues to contend.
+    static let shared: UserDatabase? = try? UserDatabase()
+
     init(url: URL? = nil) throws {
         queue = try DatabaseQueue(path: (url ?? Self.storeURL()).path)
         try Self.migrator.migrate(queue)
     }
 
     /// Append-only forever: never edit a registered migration, only add another.
-    private static var migrator: DatabaseMigrator {
+    private static let migrator: DatabaseMigrator = {
         var migrator = DatabaseMigrator()
         migrator.registerMigration("createSettings") { db in
             try db.create(table: "settings") { table in
@@ -69,7 +74,7 @@ nonisolated struct UserDatabase {
         registerProgress(in: &migrator)
 
         return migrator
-    }
+    }()
 
     func string(_ key: String) throws -> String? {
         try queue.read { db in

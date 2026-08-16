@@ -22,8 +22,18 @@ final class Library {
         var isReady: Bool { if case .ready = self { true } else { false } }
     }
 
-    private(set) var verses: [Verse] = []
+    private(set) var verses: [Verse] = [] { didSet { reindex() } }
     private(set) var chapters: [Chapter] = []
+
+    /// Verse id → its position in `verses`, built once when the corpus loads.
+    ///
+    /// Six places used to answer "which verse is this id?" with `first(where:)`
+    /// over 701 elements, several of them from inside a SwiftUI `body` that
+    /// re-runs on every frame of a page turn. One dictionary makes all of them
+    /// a lookup.
+    private var indexByID: [Int: Int] = [:]
+    /// Chapter number → its verses, in order. Same argument.
+    private var versesByChapter: [Int: [Verse]] = [:]
     private(set) var contentVersion = "0"
     private(set) var state: State = .loading
 
@@ -52,9 +62,13 @@ final class Library {
         }
     }
 
+    /// One connection for the corpus load and for every search. Opening a new
+    /// one per keystroke threw away SQLite's page cache each time.
+    private nonisolated static let content: ContentDatabase? = try? ContentDatabase()
+
     @concurrent
     private static func fetchAll() async throws -> (verses: [Verse], chapters: [Chapter], version: String) {
-        let database = try ContentDatabase()
+        let database = try content ?? ContentDatabase()
         return (try database.allVerses(),
                 try database.allChapters(),
                 try database.contentVersion() ?? "0")
@@ -63,17 +77,23 @@ final class Library {
     /// Full-text search, off the main actor.
     @concurrent
     static func search(_ query: String) async throws -> [SearchHit] {
-        try ContentDatabase().search(query)
+        try (content ?? ContentDatabase()).search(query)
+    }
+
+    private func reindex() {
+        indexByID = Dictionary(
+            uniqueKeysWithValues: verses.enumerated().map { ($0.element.id, $0.offset) }
+        )
+        versesByChapter = Dictionary(grouping: verses, by: \.chapter)
     }
 
     /// Verses of one chapter, in order.
-    func verses(inChapter chapter: Int) -> [Verse] {
-        verses.filter { $0.chapter == chapter }
-    }
+    func verses(inChapter chapter: Int) -> [Verse] { versesByChapter[chapter] ?? [] }
 
-    func chapter(_ number: Int) -> Chapter? {
-        chapters.first { $0.id == number }
-    }
+    func verse(id: Int) -> Verse? { index(of: id).map { verses[$0] } }
+
+    /// Position in reading order, for the pager and the progress rail.
+    func index(of verseID: Int) -> Int? { indexByID[verseID] }
 }
 
 extension Library {

@@ -44,9 +44,17 @@ struct Provider: TimelineProvider {
         let calendar = Calendar.current
         let today = calendar.startOfDay(for: Date())
 
+        // Read and decoded once for the whole week. Asking `SharedVerses` per
+        // day decoded the entire corpus seven times, in the process with the
+        // tightest memory budget in the app.
+        let verses = SharedVerses.read()?.verses ?? []
+
         let entries = (0 ..< 7).compactMap { offset -> Entry? in
             guard let day = calendar.date(byAdding: .day, value: offset, to: today) else { return nil }
-            return Entry(date: day, verse: SharedVerses.verse(for: day, calendar: calendar))
+            let verse = verses.isEmpty ? nil : verses[
+                DailyVerse.index(for: day, count: verses.count, calendar: calendar)
+            ]
+            return Entry(date: day, verse: verse)
         }
 
         // Nothing shared yet: the app has never been opened. Ask again in an

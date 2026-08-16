@@ -13,11 +13,22 @@ import SwiftUI
 /// need to agree about it.
 @Observable
 final class Drawer {
-    enum Destination: Equatable {
-        case settings
-        case contents
-        case bookmarks
-        case progress
+    enum Destination: String, CaseIterable, Equatable {
+        case settings, contents, bookmarks, progress
+
+        /// The rail's icon and the noun in its label. Kept beside the case so
+        /// the two cannot drift, and so a fifth panel is one line here rather
+        /// than six correlated tokens in the container.
+        var symbol: String {
+            switch self {
+            case .settings: "gearshape"
+            case .contents: "list.bullet"
+            case .bookmarks: "bookmark"
+            case .progress: "chart.bar"
+            }
+        }
+
+        var noun: String { rawValue.capitalized }
     }
 
     /// Debug builds can launch with the rail already open, for screenshots and
@@ -82,6 +93,25 @@ final class Drawer {
         panel = panel == destination ? nil : destination
         Haptics.selection()
     }
+
+    /// Ask the reader to go to a verse, and get out of the way.
+    ///
+    /// Closing the rail used to be the reader's job, spelled out as two raw
+    /// property writes where `close()` already existed. Every route into a
+    /// verse — contents, bookmarks, progress, search — wants the same thing, so
+    /// it belongs on the one type that owns all of that state.
+    func requestVerse(_ verseID: Int) {
+        requestedVerseID = verseID
+        isOpen = false
+        panel = nil
+        isSearching = false
+    }
+
+    /// Whether anything is on top of the reading surface.
+    ///
+    /// One question the reader, the dwell tracker and the double-tap gesture
+    /// all used to ask by testing the same three properties separately.
+    var isCoveringReader: Bool { isOpen || panel != nil || isSearching }
 
     func search() {
         // The rail stays where it is. Search dims what is behind it rather than

@@ -13,7 +13,11 @@ nonisolated enum BadgeCatalog {
 
     static let all: [Badge] = verses + chapters + streaks + landmarks
 
-    static func all(in family: Badge.Family) -> [Badge] { all.filter { $0.family == family } }
+    /// Grouped once rather than filtered per call — the progress panel asks for
+    /// each family several times per render.
+    private static let byFamily: [Badge.Family: [Badge]] = Dictionary(grouping: all, by: \.family)
+
+    static func all(in family: Badge.Family) -> [Badge] { byFamily[family] ?? [] }
 
     // MARK: - Verses read (7)
 

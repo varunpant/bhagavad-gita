@@ -54,7 +54,7 @@ struct ReadingProgressView: View {
 
                     badges
 
-                    resetControl
+                    resetControl(snapshot)
                 }
                 .padding(.top, 12)
                 .padding(.bottom, 32)
@@ -105,7 +105,7 @@ struct ReadingProgressView: View {
 
     private func figure(value: Int, caption: String, symbol: String?) -> some View {
         VStack(spacing: 3) {
-            Text(isDevanagari ? value.devanagariDigits : "\(value)")
+            Text(value.digits(devanagari: isDevanagari))
                 .font(.system(size: 24, weight: .light))
                 .monospacedDigit()
                 .foregroundStyle(theme.textPrimary)
@@ -132,14 +132,14 @@ struct ReadingProgressView: View {
     private var badges: some View {
         VStack(spacing: 20) {
             ForEach(Badge.Family.allCases, id: \.self) { family in
+                let badges = BadgeCatalog.all(in: family)
                 VStack(spacing: 12) {
-                    sectionCount(
+                    section(
                         family.title(isDevanagari: isDevanagari),
-                        earned: BadgeCatalog.all(in: family).count { progress.unlockedBadgeIDs.contains($0.id) },
-                        total: BadgeCatalog.all(in: family).count
+                        count: (badges.count { progress.unlockedBadgeIDs.contains($0.id) }, badges.count)
                     )
                     BadgeGrid(
-                        badges: BadgeCatalog.all(in: family),
+                        badges: badges,
                         earned: progress.unlockedBadgeIDs,
                         isDevanagari: isDevanagari
                     )
@@ -154,7 +154,7 @@ struct ReadingProgressView: View {
     /// Last on the screen, so reaching it takes a deliberate scroll past
     /// everything it would destroy. Plain destructive text rather than a filled
     /// button: this is not an action to invite.
-    private var resetControl: some View {
+    private func resetControl(_ snapshot: ProgressSnapshot) -> some View {
         VStack(spacing: 0) {
             Rectangle().fill(theme.divider).frame(height: 1).padding(.vertical, 8)
 
@@ -184,12 +184,11 @@ struct ReadingProgressView: View {
             // Naming what survives matters more than naming what goes: people
             // conflate bookmarks with progress, and the fear of losing forty
             // kept verses is what would stop them using this at all.
-            Text(resetWarning)
+            Text(resetWarning(snapshot))
         }
     }
 
-    private var resetWarning: String {
-        let snapshot = progress.snapshot
+    private func resetWarning(_ snapshot: ProgressSnapshot) -> String {
         let earned = progress.unlockedBadgeIDs.count
         if isDevanagari {
             return """
@@ -205,34 +204,25 @@ struct ReadingProgressView: View {
 
     // MARK: - Sections
 
-    /// A heading with an "earned of total" count beside it.
-    private func sectionCount(_ title: String, earned: Int, total: Int) -> some View {
+    /// One heading, optionally with an "earned of total" beside it. These were
+    /// two near-identical functions twenty lines apart, so the rule that
+    /// letter-spacing must not apply to Devanagari was stated twice.
+    @ViewBuilder
+    private func section(_ title: String, count: (earned: Int, total: Int)? = nil) -> some View {
         HStack {
             Text(title)
                 .font(.label)
                 .tracking(isDevanagari ? 0 : 1.2)
                 .foregroundStyle(theme.textSecondary)
             Spacer()
-            Text(isDevanagari
-                 ? "\(earned.devanagariDigits)/\(total.devanagariDigits)"
-                 : "\(earned)/\(total)")
-                .font(.label)
-                .monospacedDigit()
-                .foregroundStyle(theme.textSecondary.opacity(0.7))
+            if let count {
+                Text(Int.ratio(count.earned, of: count.total, devanagari: isDevanagari))
+                    .font(.label)
+                    .monospacedDigit()
+                    .foregroundStyle(theme.textSecondary.opacity(0.7))
+            }
         }
         .padding(.horizontal, 16)
-    }
-
-    private func section(_ title: String) -> some View {
-        HStack {
-            Text(title)
-                .font(.label)
-                .tracking(isDevanagari ? 0 : 1.2)
-                .foregroundStyle(theme.textSecondary)
-            Spacer()
-        }
-        .padding(.horizontal, 16)
-        .padding(.top, 4)
     }
 
     // MARK: - Navigation

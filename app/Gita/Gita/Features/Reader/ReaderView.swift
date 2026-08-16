@@ -23,6 +23,7 @@ struct ReaderView: View {
     @State private var currentVerseID: Int?
 
     private var language: ReadingLanguage { settings.language }
+    private var isDevanagari: Bool { language.isDevanagari }
 
     /// A verse asked for by a widget before the corpus finished loading.
     @State private var pendingDeepLink: (chapter: Int, sutra: Int)?
@@ -84,16 +85,12 @@ struct ReaderView: View {
             // memory, so the request is held until it is.
             if library.state.isReady { openPendingDeepLink() }
         }
+        // The drawer has already put itself away — see `Drawer.requestVerse`.
+        // All the reader does is take the request and clear it.
         .onChange(of: drawer.requestedVerseID) { _, requested in
             guard let requested else { return }
             currentVerseID = requested
             drawer.requestedVerseID = nil
-            // Asking for a verse means "take me there", so the rail and any
-            // panel go with it. Done here, where the request is consumed,
-            // rather than in the panel that raised it — the panel is being torn
-            // down at that moment, which is a poor place to expect more work.
-            drawer.isOpen = false
-            drawer.panel = nil
         }
         // Switching the mode either way drops any pending hide, so the chrome
         // is never left mid-fade.
@@ -148,11 +145,8 @@ struct ReaderView: View {
             // mid-read. Two taps rather than one because a single tap is how
             // you stop a fling, and stopping a fling must not summon the
             // toolbar.
-            // The rail check is belt and braces — an open rail already disables
-            // the page — but it says in one place what the gesture is for: the
-            // reading surface, not a page that has been pushed aside.
             .onTapGesture(count: 2) {
-                guard chromeHidden, !drawer.isOpen, drawer.panel == nil else { return }
+                guard chromeHidden, !drawer.isCoveringReader else { return }
                 revealChrome()
             }
 
@@ -210,7 +204,11 @@ struct ReaderView: View {
 
     private var header: some View {
         ZStack {
-            Text(currentVerse.map { "अध्याय \($0.chapter) · श्लोक \($0.sutra)" } ?? " ")
+            Text(currentVerse.map { verse in
+                isDevanagari
+                    ? "अध्याय \(verse.chapter.devanagariDigits) · श्लोक \(verse.sutra.devanagariDigits)"
+                    : "Chapter \(verse.chapter) · Verse \(verse.sutra)"
+            } ?? " ")
                 .font(.verseReference)
                 .foregroundStyle(theme.textSecondary)
                 .accessibilityHidden(true)
@@ -312,14 +310,16 @@ struct ReaderView: View {
 
     // MARK: - Position
 
-    private var currentVerse: Verse? {
-        guard let currentVerseID else { return library.verses.first }
-        return library.verses.first { $0.id == currentVerseID }
+    /// Both are dictionary lookups, and `currentVerse` derives from the index
+    /// rather than searching again. `body` reads these several times per pass
+    /// and re-runs on every frame of a page turn.
+    private var currentIndex: Int? {
+        currentVerseID.flatMap { library.index(of: $0) }
     }
 
-    private var currentIndex: Int? {
-        guard let currentVerseID else { return nil }
-        return library.verses.firstIndex { $0.id == currentVerseID }
+    private var currentVerse: Verse? {
+        guard let currentIndex else { return library.verses.first }
+        return library.verses[currentIndex]
     }
 
     private var progress: Double {
@@ -337,8 +337,7 @@ struct ReaderView: View {
     /// The saved verse is looked up rather than trusted — a content update can
     /// renumber ids, and resuming into nothing would leave a blank reader.
     private func resumeTarget() -> Int? {
-        if settings.lastVerseID != 0,
-           let saved = library.verses.first(where: { $0.id == settings.lastVerseID }) {
+        if settings.lastVerseID != 0, let saved = library.verse(id: settings.lastVerseID) {
             return saved.id
         }
         return library.verses.first?.id
@@ -370,6 +369,8 @@ private struct ShlokaPage: View {
     @Environment(Bookmarks.self) private var bookmarks
     @Environment(\.theme) private var theme
 
+    /// Decoded once per body pass. It is a JSON parse, and `body` asked for it
+    /// twice — once to test emptiness, once to draw the list.
     private var words: [WordMeaning] { verse.words(for: language) }
     private var isDevanagari: Bool { language.isDevanagari }
 

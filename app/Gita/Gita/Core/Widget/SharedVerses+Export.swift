@@ -11,16 +11,19 @@ import OSLog
 nonisolated extension SharedVerses {
     /// Export unless an export of this content version is already there.
     ///
-    /// Cheap to call on every launch: the common case is one file-read of a
-    /// version string.
+    /// Cheap to call on every launch: the common case reads two values from
+    /// shared defaults and checks the file is still there.
     @discardableResult
     static func exportIfNeeded(_ verses: [Verse], contentVersion: String) -> Bool {
         guard let fileURL else {
             logger.notice("No App Group container; widgets will have no data")
             return false
         }
-        if let existing = read(), existing.contentVersion == contentVersion,
-           existing.verses.count == verses.count {
+        // A stamp, not the payload. This used to `read()` — a full 680 KB file
+        // read and a decode of 701 structs — on every launch, purely to compare
+        // a version string and a count.
+        if let last = lastExported, last.version == contentVersion, last.count == verses.count,
+           FileManager.default.fileExists(atPath: fileURL.path) {
             return false
         }
 
@@ -31,9 +34,7 @@ nonisolated extension SharedVerses {
                     chapter: $0.chapter,
                     sutra: $0.sutra,
                     sanskrit: $0.sanskrit,
-                    transliteration: $0.transliteration,
-                    english: $0.englishTranslation,
-                    hindi: $0.hindiTranslation
+                    english: $0.englishTranslation
                 )
             }
         )
@@ -41,6 +42,7 @@ nonisolated extension SharedVerses {
         do {
             let data = try JSONEncoder().encode(payload)
             try data.write(to: fileURL, options: .atomic)
+            lastExported = (contentVersion, payload.verses.count)
             logger.info("Exported \(payload.verses.count) verses for widgets (\(data.count / 1024) KB)")
             return true
         } catch {

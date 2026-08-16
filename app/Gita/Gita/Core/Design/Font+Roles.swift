@@ -18,10 +18,10 @@ import SwiftUI
 extension Font {
     // Devanagari. Kohinoor ships with both iOS and macOS; if it is ever absent
     // SwiftUI falls back to the system Devanagari face rather than failing.
-    private static let devanagari = "KohinoorDevanagari-Light"
-    private static let devanagariMedium = "KohinoorDevanagari-Medium"
+    fileprivate static let devanagari = "KohinoorDevanagari-Light"
+    fileprivate static let devanagariMedium = "KohinoorDevanagari-Medium"
     // Latin serif, present on both platforms, so IAST can be sized to match.
-    private static let latin = "Georgia"
+    fileprivate static let latin = "Georgia"
 
     // One size per role, shared by both scripts.
     private static let shlokaSize: CGFloat = 27
@@ -73,5 +73,14 @@ extension Font {
     /// Tracked labels and captions.
     static var label: Font {
         .system(.caption, design: .serif).weight(.medium)
+    }
+
+    /// A face at an explicit size, for the share card — which is rendered at
+    /// fixed pixel dimensions and so cannot ride on Dynamic Type like the
+    /// reading roles above. It still picks its face here rather than naming
+    /// one, so the card cannot drift from the app's typography.
+    static func card(devanagari: Bool, size: CGFloat, medium: Bool = false) -> Font {
+        let face = devanagari ? (medium ? devanagariMedium : Self.devanagari) : latin
+        return .custom(face, fixedSize: size)
     }
 }

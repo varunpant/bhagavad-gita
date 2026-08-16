@@ -144,13 +144,9 @@ struct ProgressStoreTests {
 struct ReadingPolicyTests {
 
     private func conditions(
-        active: Bool = true, drawer: Bool = false, panel: Bool = false,
-        searching: Bool = false, read: Bool = false
+        active: Bool = true, covered: Bool = false, read: Bool = false
     ) -> ReadingPolicy.Conditions {
-        ReadingPolicy.Conditions(
-            isActive: active, drawerIsOpen: drawer, panelIsShowing: panel,
-            isSearching: searching, alreadyRead: read
-        )
+        ReadingPolicy.Conditions(isActive: active, isCovered: covered, alreadyRead: read)
     }
 
     @Test func aVerseInFrontOfTheReaderCounts() {
@@ -163,17 +159,10 @@ struct ReadingPolicyTests {
         #expect(!ReadingPolicy.shouldCount(conditions(active: false)))
     }
 
-    @Test func aVerseBehindTheRailDoesNotCount() {
-        #expect(!ReadingPolicy.shouldCount(conditions(drawer: true)))
-    }
-
-    /// Browsing the contents is not reading.
-    @Test func aVerseBehindAPanelDoesNotCount() {
-        #expect(!ReadingPolicy.shouldCount(conditions(panel: true)))
-    }
-
-    @Test func aVerseBehindSearchDoesNotCount() {
-        #expect(!ReadingPolicy.shouldCount(conditions(searching: true)))
+    /// Browsing the contents is not reading — rail, panel and search are one
+    /// condition now, `Drawer.isCoveringReader`.
+    @Test func aCoveredVerseDoesNotCount() {
+        #expect(!ReadingPolicy.shouldCount(conditions(covered: true)))
     }
 
     @Test func anAlreadyReadVerseIsNotRecordedAgain() {

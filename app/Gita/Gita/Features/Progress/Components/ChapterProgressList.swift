@@ -35,7 +35,7 @@ struct ChapterProgressList: View {
         let complete = snapshot.isComplete(chapter: chapter.id)
 
         return HStack(alignment: .center, spacing: 12) {
-            Text(isDevanagari ? chapter.devanagariNumber : "\(chapter.id)")
+            Text(chapter.id.digits(devanagari: isDevanagari))
                 .font(.label)
                 .monospacedDigit()
                 .foregroundStyle(theme.textSecondary)
@@ -62,10 +62,10 @@ struct ChapterProgressList: View {
                     }
                 }
 
-                ProgressBar(fraction: fraction(read: read, total: chapter.verseCount))
+                ProgressBar(fraction: snapshot.completion(ofChapter: chapter.id))
             }
 
-            Text(counts(read: read, total: chapter.verseCount))
+            Text(Int.ratio(read, of: chapter.verseCount, devanagari: isDevanagari))
                 .font(.label)
                 .monospacedDigit()
                 .foregroundStyle(theme.textSecondary)
@@ -79,14 +79,5 @@ struct ChapterProgressList: View {
         )
     }
 
-    private func fraction(read: Int, total: Int) -> Double {
-        guard total > 0 else { return 0 }
-        return Double(read) / Double(total)
-    }
 
-    private func counts(read: Int, total: Int) -> String {
-        isDevanagari
-            ? "\(read.devanagariDigits)/\(total.devanagariDigits)"
-            : "\(read)/\(total)"
-    }
 }

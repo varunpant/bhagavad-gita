@@ -40,7 +40,7 @@ struct CompletionRing: View {
                 .rotationEffect(.degrees(-90))
 
             VStack(spacing: 2) {
-                Text(isDevanagari ? "\(percent.devanagariDigits)%" : "\(percent)%")
+                Text("\(percent.digits(devanagari: isDevanagari))%")
                     .font(.system(size: 34, weight: .light))
                     .monospacedDigit()
                     .foregroundStyle(theme.textPrimary)
@@ -62,8 +62,6 @@ struct CompletionRing: View {
     }
 
     private var count: String {
-        isDevanagari
-            ? "\(versesRead.devanagariDigits) / \(totalVerses.devanagariDigits)"
-            : "\(versesRead) / \(totalVerses)"
+        Int.ratio(versesRead, of: totalVerses, devanagari: isDevanagari, separator: " / ")
     }
 }

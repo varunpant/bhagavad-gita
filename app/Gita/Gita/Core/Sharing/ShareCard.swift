@@ -39,13 +39,13 @@ struct ShareCard: View {
 
             VStack(spacing: 44) {
                 Text(verse.displayLines(for: language).joined(separator: "\n"))
-                    .font(.custom(isDevanagari ? "KohinoorDevanagari-Light" : "Georgia", size: 52))
+                    .font(.card(devanagari: isDevanagari, size: 52))
                     .lineSpacing(isDevanagari ? 22 : 14)
                     .foregroundStyle(.black)
 
                 if let translation = verse.translation(for: language), !translation.isEmpty {
                     Text(translation)
-                        .font(.custom(isDevanagari ? "KohinoorDevanagari-Light" : "Georgia", size: 34))
+                        .font(.card(devanagari: isDevanagari, size: 34))
                         .lineSpacing(12)
                         .foregroundStyle(.black.opacity(0.7))
                 }
@@ -67,18 +67,13 @@ struct ShareCard: View {
                 .fill(.black.opacity(0.12))
                 .frame(width: 120, height: 1)
 
-            Text(reference)
-                .font(.custom(isDevanagari ? "KohinoorDevanagari-Medium" : "Georgia", size: 30))
+            Text(verse.shareTitle(for: language))
+                .font(.card(devanagari: isDevanagari, size: 30, medium: true))
                 .foregroundStyle(.black.opacity(0.75))
         }
         .padding(.bottom, 76)
     }
 
-    private var reference: String {
-        isDevanagari
-            ? "श्रीमद्भगवद्गीता \(verse.chapter.devanagariDigits).\(verse.sutra.devanagariDigits)"
-            : "Bhagavad Gita \(verse.chapter).\(verse.sutra)"
-    }
 }
 
 // MARK: - Transferable

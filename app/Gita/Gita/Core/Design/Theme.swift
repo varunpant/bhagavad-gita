@@ -10,20 +10,11 @@ import SwiftUI
 /// Sepia is a real theme, not a tint on light mode, so the palette cannot ride
 /// on `ColorScheme` alone — it is resolved once and injected through the
 /// environment, and every colour in the app is read from it by role.
-enum Theme: String, CaseIterable, Identifiable, Sendable {
+enum Theme: String, Sendable {
     case light
     case sepia
     case dark
 
-    var id: String { rawValue }
-
-    var displayName: String {
-        switch self {
-        case .light: "Light"
-        case .sepia: "Sepia"
-        case .dark: "Dark"
-        }
-    }
 
     static func resolved(for colorScheme: ColorScheme) -> Theme {
         colorScheme == .dark ? .dark : .light

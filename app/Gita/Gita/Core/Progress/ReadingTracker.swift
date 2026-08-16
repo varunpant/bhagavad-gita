@@ -15,9 +15,9 @@ nonisolated enum ReadingPolicy {
     /// What the app is doing while a verse sits on screen.
     struct Conditions: Equatable, Sendable {
         var isActive: Bool
-        var drawerIsOpen: Bool
-        var panelIsShowing: Bool
-        var isSearching: Bool
+        /// Rail, panel or search — `Drawer.isCoveringReader`. One flag, because
+        /// the three were only ever tested together.
+        var isCovered: Bool
         var alreadyRead: Bool
     }
 
@@ -25,16 +25,12 @@ nonisolated enum ReadingPolicy {
     ///
     /// - Backgrounded: a verse left on screen overnight must not count when the
     ///   phone is next picked up.
-    /// - Rail, panel or search open: the verse is behind something, and
-    ///   browsing the contents is not reading.
+    /// - Covered: the verse is behind the rail, a panel or search, and browsing
+    ///   the contents is not reading.
     /// - Already read: nothing to gain, and re-recording would need a second
     ///   write on every page turn through familiar ground.
     static func shouldCount(_ conditions: Conditions) -> Bool {
-        conditions.isActive
-            && !conditions.drawerIsOpen
-            && !conditions.panelIsShowing
-            && !conditions.isSearching
-            && !conditions.alreadyRead
+        conditions.isActive && !conditions.isCovered && !conditions.alreadyRead
     }
 
     /// How long a verse must stay on screen. Long enough that flicking through
@@ -57,9 +53,7 @@ struct ReadingTrackerModifier: ViewModifier {
     private var conditions: ReadingPolicy.Conditions {
         ReadingPolicy.Conditions(
             isActive: scenePhase == .active,
-            drawerIsOpen: drawer.isOpen,
-            panelIsShowing: drawer.panel != nil,
-            isSearching: drawer.isSearching,
+            isCovered: drawer.isCoveringReader,
             alreadyRead: verseID.map { progress.hasRead($0) } ?? true
         )
     }

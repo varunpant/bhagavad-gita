@@ -169,6 +169,29 @@ final class SemanticIndex {
     /// gap below the best match, so results are kept within `margin` of the top
     /// score and capped at `topK`.
     func search(_ query: String, topK: Int = 20, margin: Float = 0.035) async -> [Int] {
+        let ranked = await scored(query)
+        guard let best = ranked.first?.1 else { return [] }
+
+        // Relative, never an absolute threshold: mean-pooled contextual
+        // embeddings sit in a narrow band, so every verse scores 0.85-0.92
+        // against any English query. See the Search notes in app/CLAUDE.md.
+        return ranked
+            .prefix(topK)
+            .filter { $0.1 >= best - margin }
+            .map(\.0)
+    }
+
+    /// Every verse scored against the query, best first, with no cut-off.
+    /// `SemanticSearchTests` uses it to check ranking; `search` filters it.
+    func scoredForDiagnostics(_ query: String, topK: Int) async -> [(Int, Float)] {
+        Array(await scored(query).prefix(topK))
+    }
+
+    /// The scoring itself, in one place. It used to be written out twice —
+    /// once here and once in the diagnostic path — so the dimension check, the
+    /// corpus-mean centring and the four length arguments to `vDSP_mmul` had to
+    /// be kept in agreement by hand.
+    private func scored(_ query: String) async -> [(Int, Float)] {
         guard state.isReady, let vectors else { return [] }
         // The cache path returns before ever loading the embedder, so the query
         // still needs a model even when the corpus vectors came off disk.
@@ -183,25 +206,7 @@ final class SemanticIndex {
         vDSP_mmul(vectors.values, 1, vector, 1, &scores, 1,
                   vDSP_Length(vectors.count), 1, vDSP_Length(vectors.dimension))
 
-        let ranked = zip(vectors.ids, scores).sorted { $0.1 > $1.1 }
-        guard let best = ranked.first?.1 else { return [] }
-
-        return ranked
-            .prefix(topK)
-            .filter { $0.1 >= best - margin }
-            .map(\.0)
-    }
-
-    /// Scores without the cut-off, for calibrating `minimumScore`.
-    func scoredForDiagnostics(_ query: String, topK: Int) async -> [(Int, Float)] {
-        guard state.isReady, let vectors else { return [] }
-        guard (try? await embedder.load()) != nil else { return [] }
-        guard let raw = try? await embedder.embed(query), raw.count == vectors.dimension else { return [] }
-        let vector = Embedder.normalised(zip(raw, vectors.mean).map(-))
-        var scores = [Float](repeating: 0, count: vectors.count)
-        vDSP_mmul(vectors.values, 1, vector, 1, &scores, 1,
-                  vDSP_Length(vectors.count), 1, vDSP_Length(vectors.dimension))
-        return zip(vectors.ids, scores).sorted { $0.1 > $1.1 }.prefix(topK).map { ($0.0, $0.1) }
+        return zip(vectors.ids, scores).sorted { $0.1 > $1.1 }
     }
 
     // MARK: - Cache

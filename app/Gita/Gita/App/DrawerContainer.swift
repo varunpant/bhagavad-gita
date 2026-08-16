@@ -89,16 +89,16 @@ struct DrawerContainer<Content: View>: View {
                         .transition(.move(edge: .leading))
                 case .contents:
                     TableOfContentsView(
-                        currentVerse: library.verses.first { $0.id == settings.lastVerseID },
-                        onSelect: { drawer.requestedVerseID = $0.id },
+                        currentVerse: library.verse(id: settings.lastVerseID),
+                        onSelect: { drawer.requestVerse($0.id) },
                         onClose: { drawer.panel = nil }
                     )
                     .transition(.move(edge: .leading))
                 case .bookmarks:
-                    BookmarksView(onSelect: { drawer.requestedVerseID = $0.id })
+                    BookmarksView(onSelect: { drawer.requestVerse($0.id) })
                         .transition(.move(edge: .leading))
                 case .progress:
-                    ReadingProgressView(onSelect: { drawer.requestedVerseID = $0.id })
+                    ReadingProgressView(onSelect: { drawer.requestVerse($0.id) })
                         .transition(.move(edge: .leading))
                 case nil:
                     Color.clear
@@ -141,36 +141,16 @@ struct DrawerContainer<Content: View>: View {
             // header pads 10pt and centres a 32pt button, putting its middle
             // 26pt below the safe area, which is exactly the middle of this
             // 52pt button with no padding above it.
-            railButton(
-                drawer.panel == .settings ? "xmark" : "gearshape",
-                label: drawer.panel == .settings ? "Close settings" : "Settings"
-            ) {
-                drawer.togglePanel(.settings)
-            }
+            panelButton(.settings)
 
             Spacer()
 
-            railButton(
-                drawer.panel == .contents ? "xmark" : "list.bullet",
-                label: drawer.panel == .contents ? "Close contents" : "Contents"
-            ) {
-                drawer.togglePanel(.contents)
-            }
+            panelButton(.contents)
             railButton("magnifyingglass", label: "Search") { drawer.search() }
 
-            railButton(
-                drawer.panel == .bookmarks ? "xmark" : "bookmark",
-                label: drawer.panel == .bookmarks ? "Close bookmarks" : "Bookmarks"
-            ) {
-                drawer.togglePanel(.bookmarks)
-            }
+            panelButton(.bookmarks)
 
-            railButton(
-                drawer.panel == .progress ? "xmark" : "chart.bar",
-                label: drawer.panel == .progress ? "Close progress" : "Progress"
-            ) {
-                drawer.togglePanel(.progress)
-            }
+            panelButton(.progress)
 
             // The script switch lives here rather than in the reader's header:
             // it changes the whole app, which is what the rail is for, and the
@@ -214,6 +194,18 @@ struct DrawerContainer<Content: View>: View {
         // icons stay inside the safe area, or the top one collides with the clock.
         .background(Brand.gradient.ignoresSafeArea())
         .accessibilityHidden(!drawer.isOpen)
+    }
+
+    /// A rail button for a panel: its icon becomes a cross while it is open,
+    /// and its label follows. All four derive from the destination.
+    private func panelButton(_ destination: Drawer.Destination) -> some View {
+        let isOpen = drawer.panel == destination
+        return railButton(
+            isOpen ? "xmark" : destination.symbol,
+            label: isOpen ? "Close \(destination.rawValue)" : destination.noun
+        ) {
+            drawer.togglePanel(destination)
+        }
     }
 
     private func railButton(

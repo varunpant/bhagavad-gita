@@ -147,11 +147,12 @@ struct SearchOverlay: View {
         guard !Task.isCancelled else { return }
 
         let seen = Set(literal.map(\.verse.id))
-        let byId = Dictionary(uniqueKeysWithValues: library.verses.map { ($0.id, $0) })
+        // Library keeps the id index; building a second 701-entry dictionary
+        // per keystroke to resolve at most twenty results was pure waste.
         related = await semanticIndex.search(trimmed)
             .filter { !seen.contains($0) }
             .compactMap { id in
-                byId[id].map { SearchHit(verse: $0, snippet: $0.englishTranslation ?? $0.sanskrit) }
+                library.verse(id: id).map { SearchHit(verse: $0, snippet: $0.englishTranslation ?? $0.sanskrit) }
             }
     }
 }

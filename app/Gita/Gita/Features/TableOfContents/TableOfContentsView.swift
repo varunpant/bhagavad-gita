@@ -171,13 +171,13 @@ struct TableOfContentsView: View {
     /// Verse numbers as a grid of chips — compact enough that even chapter 18's
     /// 78 verses stay reachable without a long scroll.
     private func verseGrid(for chapter: Chapter) -> some View {
-        let verses = library.verses.filter { $0.chapter == chapter.id }
+        let verses = library.verses(inChapter: chapter.id)
         return LazyVGrid(columns: [GridItem(.adaptive(minimum: 46), spacing: 10)], spacing: 10) {
             ForEach(verses) { verse in
                 Button {
                     choose(verse)
                 } label: {
-                    Text(isDevanagari ? verse.sutra.devanagariDigits : "\(verse.sutra)")
+                    Text(verse.sutra.digits(devanagari: isDevanagari))
                         .font(isDevanagari ? .glossDevanagari : .label)
                         .monospacedDigit()
                         .foregroundStyle(verse.id == currentVerse?.id ? theme.background : theme.textPrimary)

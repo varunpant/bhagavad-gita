@@ -10,14 +10,13 @@ import OSLog
 ///
 /// Deliberately not `Verse`: the widget never shows meanings or word glosses,
 /// and carrying them would quadruple a file that has to be decoded inside a
-/// widget's very small memory budget.
+/// widget's very small memory budget. It carried a transliteration and a Hindi
+/// translation that nothing read, for the same reason — now gone.
 nonisolated struct WidgetVerse: Codable, Sendable {
     let chapter: Int
     let sutra: Int
     let sanskrit: String
-    let transliteration: String?
     let english: String?
-    let hindi: String?
 
     var reference: String { "\(chapter).\(sutra)" }
 }
@@ -62,8 +61,29 @@ nonisolated enum SharedVerses {
 
     /// The verse for a given day, or nil when the app has never been opened and
     /// there is nothing shared yet.
+    ///
+    /// Decodes the whole corpus, so a caller wanting several days should
+    /// `read()` once and use `DailyVerse.index(for:count:calendar:)` itself —
+    /// which is what the timeline does.
     static func verse(for date: Date, calendar: Calendar = .current) -> WidgetVerse? {
         guard let verses = read()?.verses, !verses.isEmpty else { return nil }
         return verses[DailyVerse.index(for: date, count: verses.count, calendar: calendar)]
+    }
+
+    // MARK: - Export bookkeeping
+
+    /// What was last exported, kept beside the file so the app can tell whether
+    /// a re-export is needed without decoding 680 KB of JSON to read one string.
+    static var lastExported: (version: String, count: Int)? {
+        get {
+            guard let defaults = UserDefaults(suiteName: appGroup),
+                  let version = defaults.string(forKey: "widgetVersesVersion") else { return nil }
+            return (version, defaults.integer(forKey: "widgetVersesCount"))
+        }
+        set {
+            guard let defaults = UserDefaults(suiteName: appGroup) else { return }
+            defaults.set(newValue?.version, forKey: "widgetVersesVersion")
+            defaults.set(newValue?.count ?? 0, forKey: "widgetVersesCount")
+        }
     }
 }

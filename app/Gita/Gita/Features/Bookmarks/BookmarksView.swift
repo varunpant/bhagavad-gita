@@ -25,22 +25,26 @@ struct BookmarksView: View {
     private var isDevanagari: Bool { settings.language.isDevanagari }
 
     var body: some View {
-        VStack(spacing: 0) {
-            header
+        // Once per render: `kept` is a filter over the whole corpus and the
+        // body reads it four times.
+        let kept = kept
+
+        return VStack(spacing: 0) {
+            header(count: kept.count)
 
             if kept.isEmpty {
                 empty
             } else {
-                list
+                list(kept)
             }
         }
         .background(theme.background)
     }
 
-    private var header: some View {
+    private func header(count: Int) -> some View {
         PanelHeader(sanskrit: "संगृहीत", english: "BOOKMARKS", isDevanagari: isDevanagari) {
-            if !kept.isEmpty {
-                Text(isDevanagari ? kept.count.devanagariDigits : "\(kept.count)")
+            if count > 0 {
+                Text(count.digits(devanagari: isDevanagari))
                     .font(.label)
                     .foregroundStyle(theme.textSecondary.opacity(0.7))
             }
@@ -63,7 +67,7 @@ struct BookmarksView: View {
         .padding(.horizontal, 32)
     }
 
-    private var list: some View {
+    private func list(_ kept: [Verse]) -> some View {
         ScrollView {
             LazyVStack(spacing: 0) {
                 ForEach(kept) { verse in

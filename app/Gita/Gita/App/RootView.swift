@@ -33,7 +33,7 @@ struct RootView: View {
 
             if drawer.isSearching {
                 SearchOverlay(
-                    onSelect: { drawer.requestedVerseID = $0.id },
+                    onSelect: { drawer.requestVerse($0.id) },
                     onDismiss: { drawer.isSearching = false }
                 )
                 .transition(reduceMotion ? .opacity : .opacity.combined(with: .move(edge: .top)))
