@@ -40,6 +40,7 @@ private struct PageClip: Shape {
 /// brand in the running app, and it is deliberate rather than a stray colour.
 struct DrawerContainer<Content: View>: View {
     @Environment(Drawer.self) private var drawer
+    @Environment(\.theme) private var theme
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     private let railWidth: CGFloat = 72
@@ -52,9 +53,10 @@ struct DrawerContainer<Content: View>: View {
     var body: some View {
         ZStack(alignment: .leading) {
             // Behind everything, so the rounded corners of the open page reveal
-            // the brand ground rather than the bare window — which showed as
-            // grey rectangles above and below the page.
-            Brand.gradient.ignoresSafeArea()
+            // the reading background rather than the bare window, which showed
+            // as grey rectangles above and below the page. The rail is the only
+            // coloured surface; the space around the page stays the theme's.
+            theme.background.ignoresSafeArea()
 
             rail
 
