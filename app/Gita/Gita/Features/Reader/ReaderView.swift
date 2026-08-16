@@ -16,6 +16,8 @@ struct ReaderView: View {
     @Environment(Settings.self) private var settings
     @Environment(SemanticIndex.self) private var semanticIndex
     @Environment(Drawer.self) private var drawer
+    /// Not `progress` — that name is taken by the pager's rail position.
+    @Environment(ReadingProgress.self) private var readingProgress
     @Environment(Bookmarks.self) private var bookmarks
     @Environment(\.theme) private var theme
 
@@ -61,7 +63,17 @@ struct ReaderView: View {
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
             if isReady, currentVerseID == nil { currentVerseID = resumeTarget() }
             if isReady { openPendingDeepLink() }
+            // Progress counts verses on its own, but completion needs a
+            // denominator and a verse-to-chapter map, and both come from the
+            // corpus rather than from anything the reader has saved.
+            if isReady {
+                readingProgress.adopt(verses: library.verses)
+                readingProgress.adopt(chapters: library.chapters)
+            }
         }
+        // Counts the verse in front of the reader once it has been there long
+        // enough to have been read rather than swiped past.
+        .tracksReading(of: currentVerseID)
         .onOpenURL { url in
             // gita://verse/2/47 — from a widget, and later from Shortcuts.
             guard url.scheme == "gita", url.host == "verse" else { return }

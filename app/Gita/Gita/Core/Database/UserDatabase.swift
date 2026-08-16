@@ -15,7 +15,10 @@ import OSLog
 ///
 /// `nonisolated` so writes happen off the main actor; GRDB serialises access.
 nonisolated struct UserDatabase {
-    private let queue: DatabaseQueue
+    /// Not `private`: the progress tables live in `UserDatabase+Progress.swift`,
+    /// and Swift's `private` is file-scoped. Still internal to the database
+    /// layer — GRDB types never escape it.
+    let queue: DatabaseQueue
     private static let logger = Logger(
         subsystem: Bundle.main.bundleIdentifier ?? "Gita",
         category: "UserDatabase"
@@ -63,6 +66,7 @@ nonisolated struct UserDatabase {
                 table.column("createdAt", .datetime).notNull()
             }
         }
+        registerProgress(in: &migrator)
 
         return migrator
     }
