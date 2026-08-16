@@ -5,35 +5,67 @@
 
 import SwiftUI
 
-/// A title page: the brand's ग on the reading ground, held briefly and handed
-/// over with a tap of feedback.
+/// A title page: the mark and wordmark on the brand's marigold ground.
 ///
-/// It follows the theme like everything else — plain in Light and Dark, warm in
-/// Sepia — so the first thing seen matches the app that follows it.
+/// Full-bleed and coloured regardless of theme. This is the one screen that is
+/// the brand rather than the reading surface — the app it hands over to is
+/// deliberately plain, so the colour belongs here and nowhere else.
 struct SplashView: View {
-    @Environment(\.theme) private var theme
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
-    /// Animated in rather than shown flat, so the handover has somewhere to go.
-    @State private var settled = false
+    /// Two stages: the mark arrives, the wordmark follows a beat later. A
+    /// single simultaneous fade reads as a static image that happens to appear.
+    @State private var markShown = false
+    @State private var wordmarkShown = false
+
+    /// Yellow at the top through to vermillion at the foot — the icon's ground,
+    /// run vertically over the whole screen.
+    private let ground = LinearGradient(
+        colors: [
+            Color(red: 0xF2 / 255, green: 0xC2 / 255, blue: 0x30 / 255),
+            Color(red: 0xF0 / 255, green: 0x86 / 255, blue: 0x1E / 255),
+            Color(red: 0xE0 / 255, green: 0x3C / 255, blue: 0x24 / 255),
+        ],
+        startPoint: .top,
+        endPoint: .bottom
+    )
 
     var body: some View {
         ZStack {
-            theme.background.ignoresSafeArea()
+            ground.ignoresSafeArea()
 
-            // The brand mark itself, so the vermillion is deliberate rather
-            // than a stray colour in an otherwise monochrome interface.
-            Text(verbatim: "ग")
-                .font(.custom("KohinoorDevanagari-Medium", size: 148))
-                .foregroundStyle(Color(red: 0xE0 / 255, green: 0x3C / 255, blue: 0x24 / 255))
-                .scaleEffect(settled ? 1 : 0.86)
-                .opacity(settled ? 1 : 0)
+            VStack(spacing: 18) {
+                Text(verbatim: "ग")
+                    .font(.custom("KohinoorDevanagari-Light", size: 96))
+                    .foregroundStyle(.white)
+                    .opacity(markShown ? 1 : 0)
+                    .scaleEffect(markShown ? 1 : 0.88)
+
+                VStack(spacing: -2) {
+                    Text(verbatim: "श्रीमद्")
+                        .font(.custom("KohinoorDevanagari-Light", size: 26))
+                        .foregroundStyle(.white.opacity(0.92))
+                    Text(verbatim: "भगवद्गीता")
+                        .font(.custom("KohinoorDevanagari-Medium", size: 34))
+                        .foregroundStyle(.white)
+                }
+                .opacity(wordmarkShown ? 1 : 0)
+                .offset(y: wordmarkShown ? 0 : 10)
+            }
         }
         .task {
-            withAnimation(.smooth(duration: 0.5)) { settled = true }
+            guard !reduceMotion else {
+                markShown = true
+                wordmarkShown = true
+                return
+            }
+            withAnimation(.smooth(duration: 0.55)) { markShown = true }
+            try? await Task.sleep(for: .milliseconds(180))
+            withAnimation(.smooth(duration: 0.5)) { wordmarkShown = true }
         }
         .accessibilityElement()
-        .accessibilityLabel("Gita")
+        .accessibilityLabel("श्रीमद् भगवद्गीता")
     }
 }
 
-#Preview { SplashView().environment(\.theme, .sepia) }
+#Preview { SplashView() }
