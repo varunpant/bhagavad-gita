@@ -57,8 +57,10 @@ final class Drawer {
     }
 
     func search() {
+        // The rail stays where it is. Search dims what is behind it rather than
+        // dismissing it, so closing search returns to the rail the reader had
+        // open rather than to a screen they did not ask for.
         isSearching = true
-        isOpen = false
         Haptics.selection()
     }
 
