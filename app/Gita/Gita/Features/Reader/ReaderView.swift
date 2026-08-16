@@ -226,6 +226,11 @@ struct ReaderView: View {
         }
         .buttonStyle(.plain)
         .foregroundStyle(theme.textSecondary)
+        // Gone the instant the rail opens, with no animation of its own: the
+        // rail's gear takes over on the same line, and watching this glyph slide
+        // away underneath it was the distracting part.
+        .opacity(drawer.isOpen ? 0 : 1)
+        .animation(nil, value: drawer.isOpen)
         .accessibilityIdentifier("menuButton")
         .accessibilityLabel("Menu")
     }

@@ -116,8 +116,11 @@ struct DrawerContainer<Content: View>: View {
 
     private var rail: some View {
         VStack(spacing: 0) {
+            // Sits on the same centre line as the reader's menu glyph: the
+            // header pads 10pt and centres a 32pt button, putting its middle
+            // 26pt below the safe area, which is exactly the middle of this
+            // 52pt button with no padding above it.
             railButton("gearshape", label: "Settings") { drawer.choose(.settings) }
-                .padding(.top, 8)
 
             Spacer()
 
