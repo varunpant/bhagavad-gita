@@ -42,34 +42,38 @@ nonisolated enum BadgeCatalog {
 
     // MARK: - Chapters (18)
 
-    /// One per chapter, titled with that chapter's own yoga. This is the family
-    /// that unlocks most often, because finishing a chapter is how people
-    /// actually read the Gita.
+    /// One per chapter, titled with that chapter's own yoga and given its own
+    /// symbol — Arjuna's despair a rain cloud, the cosmic form a globe,
+    /// devotion a heart, liberation a sunrise. Eighteen identical book icons
+    /// said nothing about which chapter was which.
+    ///
+    /// This is the family that unlocks most often, because finishing a chapter
+    /// is how people actually read the Gita.
     private static let chapters: [Badge] = [
-        (1, "अर्जुनविषादयोग", "The Despondency of Arjuna"),
-        (2, "सांख्ययोग", "Transcendental Knowledge"),
-        (3, "कर्मयोग", "The Path of Action"),
-        (4, "ज्ञानकर्मसंन्यासयोग", "Knowledge and the Renunciation of Action"),
-        (5, "कर्मसंन्यासयोग", "The Path of Renunciation"),
-        (6, "आत्मसंयमयोग", "The Path of Meditation"),
-        (7, "ज्ञानविज्ञानयोग", "Knowledge and Realisation"),
-        (8, "अक्षरब्रह्मयोग", "The Imperishable Brahman"),
-        (9, "राजविद्याराजगुह्ययोग", "The Royal Knowledge"),
-        (10, "विभूतियोग", "The Divine Manifestations"),
-        (11, "विश्वरूपदर्शनयोग", "The Vision of the Cosmic Form"),
-        (12, "भक्तियोग", "The Path of Devotion"),
-        (13, "क्षेत्रक्षेत्रज्ञविभागयोग", "The Field and its Knower"),
-        (14, "गुणत्रयविभागयोग", "The Three Gunas"),
-        (15, "पुरुषोत्तमयोग", "The Supreme Person"),
-        (16, "दैवासुरसम्पद्विभागयोग", "Divine and Demoniac Natures"),
-        (17, "श्रद्धात्रयविभागयोग", "The Three Kinds of Faith"),
-        (18, "मोक्षसंन्यासयोग", "Liberation through Renunciation"),
-    ].map { number, sa, en in
+        (1, "अर्जुनविषादयोग", "The Despondency of Arjuna", "cloud.rain"),
+        (2, "सांख्ययोग", "Transcendental Knowledge", "brain"),
+        (3, "कर्मयोग", "The Path of Action", "hammer"),
+        (4, "ज्ञानकर्मसंन्यासयोग", "Knowledge and the Renunciation of Action", "books.vertical"),
+        (5, "कर्मसंन्यासयोग", "The Path of Renunciation", "hand.raised"),
+        (6, "आत्मसंयमयोग", "The Path of Meditation", "figure.mind.and.body"),
+        (7, "ज्ञानविज्ञानयोग", "Knowledge and Realisation", "lightbulb"),
+        (8, "अक्षरब्रह्मयोग", "The Imperishable Brahman", "atom"),
+        (9, "राजविद्याराजगुह्ययोग", "The Royal Knowledge", "key"),
+        (10, "विभूतियोग", "The Divine Manifestations", "star"),
+        (11, "विश्वरूपदर्शनयोग", "The Vision of the Cosmic Form", "globe.asia.australia"),
+        (12, "भक्तियोग", "The Path of Devotion", "heart"),
+        (13, "क्षेत्रक्षेत्रज्ञविभागयोग", "The Field and its Knower", "square.grid.3x3"),
+        (14, "गुणत्रयविभागयोग", "The Three Gunas", "triangle"),
+        (15, "पुरुषोत्तमयोग", "The Supreme Person", "tree"),
+        (16, "दैवासुरसम्पद्विभागयोग", "Divine and Demoniac Natures", "theatermasks"),
+        (17, "श्रद्धात्रयविभागयोग", "The Three Kinds of Faith", "flame.circle"),
+        (18, "मोक्षसंन्यासयोग", "Liberation through Renunciation", "sunrise"),
+    ].map { number, sa, en, symbol in
         Badge(
             id: "chapter_\(number)", titleSa: sa, titleEn: en,
             detailSa: "अध्याय \(number.devanagariDigits) पूर्ण",
             detailEn: "Finish chapter \(number)",
-            symbol: "book.closed", family: .chapters,
+            symbol: symbol, family: .chapters,
             requirement: .chapterComplete(number)
         )
     }

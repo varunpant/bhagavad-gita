@@ -163,3 +163,38 @@ struct BadgeTests {
         }
     }
 }
+
+#if canImport(UIKit)
+import UIKit
+#elseif canImport(AppKit)
+import AppKit
+#endif
+
+/// Every badge names an SF Symbol. A misspelled one does not fail to build and
+/// does not throw — it simply draws nothing, leaving a blank circle in the grid
+/// that no other test would notice.
+struct BadgeSymbolTests {
+
+    private func symbolExists(_ name: String) -> Bool {
+        #if canImport(UIKit)
+        UIImage(systemName: name) != nil
+        #elseif canImport(AppKit)
+        NSImage(systemSymbolName: name, accessibilityDescription: nil) != nil
+        #else
+        true
+        #endif
+    }
+
+    @Test func everySymbolResolves() {
+        for badge in BadgeCatalog.all {
+            #expect(symbolExists(badge.symbol), "\(badge.id) uses a symbol that does not exist: \(badge.symbol)")
+        }
+    }
+
+    /// Eighteen chapters, eighteen different icons — the point of giving them
+    /// their own symbols in the first place.
+    @Test func everyChapterHasItsOwnSymbol() {
+        let symbols = BadgeCatalog.all(in: .chapters).map(\.symbol)
+        #expect(Set(symbols).count == symbols.count, "two chapters share a symbol")
+    }
+}
