@@ -17,6 +17,7 @@ final class Drawer {
         case settings
         case contents
         case bookmarks
+        case progress
     }
 
     /// Debug builds can launch with the rail already open, for screenshots and
@@ -55,6 +56,7 @@ final class Drawer {
                 return .contents
             }
             if arguments.contains("-openBookmarksPanel") { return .bookmarks }
+            if arguments.contains("-openProgressPanel") { return .progress }
             return nil
         }()
         #else

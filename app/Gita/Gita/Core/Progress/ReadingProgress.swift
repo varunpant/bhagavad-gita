@@ -42,7 +42,26 @@ final class ReadingProgress {
             self.store = nil
             Self.logger.error("No progress store: \(error.localizedDescription)")
         }
+
+        #if DEBUG
+        // Plausible progress for design review and screenshots: an empty
+        // Progress screen shows none of the things it exists to show.
+        if ProcessInfo.processInfo.arguments.contains("-seedProgress") { seedForDesign() }
+        #endif
     }
+
+    #if DEBUG
+    /// Chapter 1 finished, most of chapter 2, a scattering beyond, and a
+    /// six-day streak ending today. In memory only — never written to the store.
+    private func seedForDesign() {
+        readVerseIDs = Set(1 ... 47).union(Set(48 ... 80)).union([120, 121, 300, 301, 302])
+        let today = Date()
+        readingDays = (0 ..< 6)
+            .compactMap { Calendar.current.date(byAdding: .day, value: -$0, to: today) }
+            .map { Streak.day(for: $0) }
+            .sorted()
+    }
+    #endif
 
     // MARK: - Corpus
 

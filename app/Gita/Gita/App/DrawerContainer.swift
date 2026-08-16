@@ -97,6 +97,9 @@ struct DrawerContainer<Content: View>: View {
                 case .bookmarks:
                     BookmarksView(onSelect: { drawer.requestedVerseID = $0.id })
                         .transition(.move(edge: .leading))
+                case .progress:
+                    ReadingProgressView(onSelect: { drawer.requestedVerseID = $0.id })
+                        .transition(.move(edge: .leading))
                 case nil:
                     Color.clear
                 }
@@ -160,6 +163,13 @@ struct DrawerContainer<Content: View>: View {
                 label: drawer.panel == .bookmarks ? "Close bookmarks" : "Bookmarks"
             ) {
                 drawer.togglePanel(.bookmarks)
+            }
+
+            railButton(
+                drawer.panel == .progress ? "xmark" : "chart.bar",
+                label: drawer.panel == .progress ? "Close progress" : "Progress"
+            ) {
+                drawer.togglePanel(.progress)
             }
 
             // The script switch lives here rather than in the reader's header:
