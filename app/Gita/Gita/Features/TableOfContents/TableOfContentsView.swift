@@ -158,7 +158,7 @@ struct TableOfContentsView: View {
                     // other language's title underneath read as a mistake:
                     // Devanagari heading, English subheading, on every row.
                     Text(isDevanagari
-                         ? "\(chapter.verseCount) श्लोक"
+                         ? "\(chapter.verseCount.devanagariDigits) श्लोक"
                          : "\(chapter.verseCount) verses")
                         .font(isDevanagari ? .glossDevanagari : .label)
                         .foregroundStyle(theme.textSecondary)
@@ -190,8 +190,8 @@ struct TableOfContentsView: View {
                 Button {
                     choose(verse)
                 } label: {
-                    Text("\(verse.sutra)")
-                        .font(.label)
+                    Text(isDevanagari ? verse.sutra.devanagariDigits : "\(verse.sutra)")
+                        .font(isDevanagari ? .glossDevanagari : .label)
                         .monospacedDigit()
                         .foregroundStyle(verse.id == currentVerse?.id ? theme.background : theme.textPrimary)
                         // Circles, like the chapter numerals: the two lists sit

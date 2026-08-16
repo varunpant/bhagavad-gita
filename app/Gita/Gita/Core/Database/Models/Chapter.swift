@@ -24,9 +24,21 @@ nonisolated struct Chapter: Identifiable, Hashable, Codable, Sendable, Fetchable
 
     /// The chapter number in Devanagari numerals — used instead of the word
     /// "Chapter" in the contents list.
-    var devanagariNumber: String {
-        String(String(id).map { char in
-            Character(UnicodeScalar(0x0966 + (char.wholeNumberValue ?? 0))!)
+    var devanagariNumber: String { id.devanagariDigits }
+}
+
+nonisolated extension Int {
+    /// The number written in Devanagari digits: ०१२३४५६७८९.
+    ///
+    /// Reading "47 श्लोक" in a Devanagari list is the same jar as an English
+    /// subtitle under a Sanskrit name — the script should hold all the way
+    /// through, numerals included.
+    var devanagariDigits: String {
+        String(String(self).map { character in
+            guard let value = character.wholeNumberValue, (0 ... 9).contains(value) else {
+                return character
+            }
+            return Character(UnicodeScalar(0x0966 + value)!)
         })
     }
 }
