@@ -41,16 +41,20 @@ final class Drawer {
         #endif
     }()
 
-    /// Set by a rail icon; the reader picks it up, presents, and clears it.
-    var destination: Destination?
-
     /// A panel shown beside the rail, over the page. Distinct from `destination`
     /// because the rail keeps this one — the reader is not involved.
     var panel: Destination? = {
         #if DEBUG
-        ProcessInfo.processInfo.arguments.contains("-openSettingsPanel") ? .settings
-            : ProcessInfo.processInfo.arguments.contains("-openContentsPanel") ? .contents
-            : nil
+        {
+            let arguments = ProcessInfo.processInfo.arguments
+            if arguments.contains("-openSettingsPanel") || arguments.contains("-openSettings") {
+                return .settings
+            }
+            if arguments.contains("-openContentsPanel") || arguments.contains("-openContents") {
+                return .contents
+            }
+            return nil
+        }()
         #else
         nil
         #endif
@@ -83,9 +87,4 @@ final class Drawer {
         Haptics.selection()
     }
 
-    func choose(_ destination: Destination) {
-        self.destination = destination
-        isOpen = false
-        Haptics.selection()
-    }
 }

@@ -19,11 +19,6 @@ struct ReaderView: View {
     @Environment(\.theme) private var theme
 
     @State private var currentVerseID: Int?
-    /// Debug builds can open straight into settings, for screenshots and tests.
-    @State private var showingSettings = ProcessInfo.processInfo.arguments.contains("-openSettings")
-    @State private var showingContents = ProcessInfo.processInfo.arguments.contains("-openContents")
-    /// Whether the contents should open straight into its search field.
-    @State private var openContentsSearching = false
 
     private var language: ReadingLanguage { settings.language }
 
@@ -62,20 +57,6 @@ struct ReaderView: View {
             }
         }
         .task { await library.load() }
-        .sheet(isPresented: $showingSettings) {
-            SettingsView()
-                .presentationBackground(theme.background)
-        }
-        .onChange(of: showingContents) { _, shown in
-            if !shown { openContentsSearching = false }
-        }
-        .sheet(isPresented: $showingContents) {
-            TableOfContentsView(currentVerse: currentVerse, startSearching: openContentsSearching) { verse in
-                currentVerseID = verse.id
-            }
-            .environment(semanticIndex)
-            .presentationBackground(theme.background)
-        }
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
             if isReady, currentVerseID == nil { currentVerseID = resumeTarget() }
             if isReady { openPendingDeepLink() }
@@ -96,14 +77,6 @@ struct ReaderView: View {
             guard let requested else { return }
             currentVerseID = requested
             drawer.requestedVerseID = nil
-        }
-        .onChange(of: drawer.destination) { _, destination in
-            guard let destination else { return }
-            switch destination {
-            case .settings: showingSettings = true
-            case .contents: showingContents = true
-            }
-            drawer.destination = nil
         }
         .onChange(of: settings.immersiveReading) { _, immersive in
             hideChrome?.cancel()
@@ -269,20 +242,14 @@ struct ReaderView: View {
             HStack {
                 stepButton(direction: -1, symbol: "chevron.left", label: "Previous verse")
                 Spacer()
-                Button {
-                    showingContents = true
-                } label: {
-                    Text(currentVerse?.reference ?? "")
-                        .font(.label)
-                        .monospacedDigit()
-                        .foregroundStyle(theme.textSecondary)
-                        .padding(.horizontal, 14)
-                        .padding(.vertical, 5)
-                        .contentShape(.rect)
-                }
-                .buttonStyle(.plain)
-                .accessibilityIdentifier("verseReference")
-                .accessibilityLabel("Contents. Currently at \(currentVerse?.reference ?? "")")
+                // Plain text again: the contents belongs to the rail now, and a
+                // reference that silently opened a panel was a second, hidden
+                // way in.
+                Text(currentVerse?.reference ?? "")
+                    .font(.label)
+                    .monospacedDigit()
+                    .foregroundStyle(theme.textSecondary)
+                    .accessibilityIdentifier("verseReference")
                 Spacer()
                 stepButton(direction: 1, symbol: "chevron.right", label: "Next verse")
             }

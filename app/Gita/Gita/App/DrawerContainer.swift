@@ -45,6 +45,21 @@ struct DrawerContainer<Content: View>: View {
             // the rail opened. Nothing is gained by it: a white page on a white
             // background has no corner to see.
             content
+                .disabled(drawer.isOpen)
+                // Ordered before the offset on purpose. `offset` moves a view
+                // without changing its layout bounds, so an overlay added after
+                // it still covers the original full-screen frame — including the
+                // rail, whose taps it then swallowed. Applied first, the dismiss
+                // layer travels with the page and leaves the rail alone.
+                .overlay {
+                    if drawer.isOpen {
+                        Color.black.opacity(0.001)
+                            .contentShape(.rect)
+                            .onTapGesture { drawer.close() }
+                            .accessibilityLabel("Close menu")
+                            .accessibilityAddTraits(.isButton)
+                    }
+                }
                 .offset(x: drawer.isOpen ? railWidth : 0)
                 // No drop shadow: cast around the whole page it smudged grey
                 // onto the background above and below the rounded corners. The
@@ -58,18 +73,6 @@ struct DrawerContainer<Content: View>: View {
                         )
                         .frame(width: 12)
                         .allowsHitTesting(false)
-                    }
-                }
-                // While the rail is open the page is a dismiss target, not a
-                // reader: a stray tap should close, never turn a page.
-                .disabled(drawer.isOpen)
-                .overlay {
-                    if drawer.isOpen {
-                        Color.black.opacity(0.001)
-                            .contentShape(.rect)
-                            .onTapGesture { drawer.close() }
-                            .accessibilityLabel("Close menu")
-                            .accessibilityAddTraits(.isButton)
                     }
                 }
 
