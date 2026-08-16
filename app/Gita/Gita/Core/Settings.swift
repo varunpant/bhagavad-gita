@@ -137,6 +137,9 @@ final class Settings {
             if ProcessInfo.processInfo.arguments.contains("-startInEnglish") {
                 language = .english
             }
+            if ProcessInfo.processInfo.arguments.contains("-immersive") {
+                immersiveReading = true
+            }
             let arguments = ProcessInfo.processInfo.arguments
             if let index = arguments.firstIndex(of: "-forceTheme"),
                index + 1 < arguments.count,

@@ -128,6 +128,22 @@ struct ReaderView: View {
             .scrollTargetBehavior(.paging)
             .scrollPosition(id: $currentVerseID)
             .scrollIndicators(.hidden)
+            // Double tap anywhere on the page to call the chrome back, so the
+            // edge strips are a convenience rather than the only way in.
+            //
+            // Attached unconditionally and guarded inside: making the modifier
+            // itself conditional would change the ScrollView's identity every
+            // time the chrome came and went, which resets the scroll position
+            // mid-read. Two taps rather than one because a single tap is how
+            // you stop a fling, and stopping a fling must not summon the
+            // toolbar.
+            // The rail check is belt and braces — an open rail already disables
+            // the page — but it says in one place what the gesture is for: the
+            // reading surface, not a page that has been pushed aside.
+            .onTapGesture(count: 2) {
+                guard chromeHidden, !drawer.isOpen, drawer.panel == nil else { return }
+                revealChrome()
+            }
 
             if !chromeHidden {
                 footer.transition(.move(edge: .bottom).combined(with: .opacity))

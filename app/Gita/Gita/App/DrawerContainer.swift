@@ -170,7 +170,11 @@ struct DrawerContainer<Content: View>: View {
                 settings.language = settings.language.toggled
             } label: {
                 Text(settings.language.toggled.icon)
-                    .font(.system(size: 18, weight: .medium))
+                    // Same size and weight as the symbols above it. SF Symbols
+                    // are drawn to the cap height of text at the same point
+                    // size, so matching the font is what makes the letter sit
+                    // in the column at the same optical size as the glyphs.
+                    .font(.system(size: 20, weight: .light))
                     .foregroundStyle(.white)
                     .frame(width: railWidth, height: 52)
                     .contentShape(.rect)

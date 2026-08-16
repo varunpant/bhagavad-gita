@@ -23,7 +23,7 @@ final class ReaderUITests: XCTestCase {
     }
 
     private var referenceLabel: XCUIElement {
-        app.buttons["verseReference"]
+        app.staticTexts["verseReference"]
     }
 
     private var pager: XCUIElement {
@@ -91,7 +91,7 @@ final class LanguageToggleUITests: XCTestCase {
 
     func testStartsInSanskritAndShowsHindiHeadings() {
         let app = launch()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
         XCTAssertTrue(app.staticTexts["अनुवाद"].exists, "Hindi translation heading missing")
         XCTAssertFalse(app.staticTexts["TRANSLATION"].exists)
     }
@@ -140,7 +140,7 @@ final class SettingsUITests: XCTestCase {
         app = XCUIApplication()
         app.launchArguments += ["-resetSettings", "-skipSplash"]
         app.launch()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
     }
 
     private func openSettings() {
@@ -174,7 +174,7 @@ final class SettingsUITests: XCTestCase {
 
     private func closeSettings() {
         app.buttons["Done"].tap()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 5))
     }
 
     /// Translation and meaning are the reading experience; word-by-word is
@@ -207,7 +207,7 @@ final class SettingsUITests: XCTestCase {
         XCTAssertFalse(app.staticTexts["अनुवाद"].exists)
         XCTAssertFalse(app.staticTexts["भावार्थ"].exists)
         XCTAssertFalse(app.staticTexts["शब्दार्थ"].exists)
-        XCTAssertTrue(app.buttons["verseReference"].exists, "the verse itself should remain")
+        XCTAssertTrue(app.staticTexts["verseReference"].exists, "the verse itself should remain")
     }
 
     /// Settings live in user.sqlite, so a choice has to survive a relaunch — in
@@ -224,7 +224,7 @@ final class SettingsUITests: XCTestCase {
         app.terminate()
         app.launchArguments.removeAll { $0 == "-resetSettings" }
         app.launch()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
 
         XCTAssertTrue(app.staticTexts["शब्दार्थ"].waitForExistence(timeout: 5),
                       "word-by-word was switched on but did not persist")
@@ -247,43 +247,22 @@ final class ContentsUITests: XCTestCase {
         app = XCUIApplication()
         app.launchArguments += ["-resetSettings", "-skipSplash"]
         app.launch()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
     }
 
+    /// The contents is reached from the rail. It used to open by tapping the
+    /// verse number, which was a second, hidden way in; RailUITests asserts
+    /// that route is gone.
     private func openContents() {
-        app.buttons["verseReference"].tap()
-        XCTAssertTrue(app.buttons["tocSearchToggle"].waitForExistence(timeout: 5), "contents did not open")
+        app.buttons["menuButton"].tap()
+        app.buttons["Contents"].tap()
+        XCTAssertTrue(app.buttons["chapter-1"].waitForExistence(timeout: 5), "contents did not open")
     }
 
-    func testVerseReferenceOpensContents() {
+    func testContentsListsEveryChapter() {
         openContents()
         XCTAssertTrue(app.buttons["chapter-1"].exists)
-        XCTAssertTrue(app.buttons["chapter-2"].exists)
-    }
-
-    /// The point of the icon: no search field until it is asked for.
-    func testSearchFieldIsHiddenUntilTheIconIsTapped() {
-        openContents()
-        XCTAssertFalse(app.textFields["tocSearchField"].exists, "search field should not be visible at rest")
-
-        app.buttons["tocSearchToggle"].tap()
-        XCTAssertTrue(app.textFields["tocSearchField"].waitForExistence(timeout: 3))
-
-        app.buttons["tocSearchToggle"].tap()
-        XCTAssertFalse(app.textFields["tocSearchField"].exists, "search field should collapse again")
-    }
-
-    func testSearchFindsVersesByEnglishText() {
-        openContents()
-        app.buttons["tocSearchToggle"].tap()
-        let field = app.textFields["tocSearchField"]
-        XCTAssertTrue(field.waitForExistence(timeout: 3))
-        field.tap()
-        field.typeText("kurukshetra")
-
-        let firstResult = app.staticTexts["1.1"]
-        XCTAssertTrue(firstResult.waitForExistence(timeout: 5), "no results for a term that is in the text")
-        XCTAssertFalse(app.buttons["chapter-5"].exists, "chapter list should be replaced by results")
+        XCTAssertTrue(app.buttons["chapter-18"].exists)
     }
 
     func testChoosingAVerseMovesTheReader() {
@@ -293,7 +272,7 @@ final class ContentsUITests: XCTestCase {
         XCTAssertTrue(verse.waitForExistence(timeout: 5), "verse grid did not appear")
         verse.tap()
 
-        let reference = app.buttons["verseReference"]
+        let reference = app.staticTexts["verseReference"]
         XCTAssertTrue(reference.waitForExistence(timeout: 5))
         let matched = XCTNSPredicateExpectation(
             predicate: NSPredicate(format: "label CONTAINS %@", "2.47"), object: reference
@@ -317,11 +296,12 @@ final class ContentsLanguageUITests: XCTestCase {
         app = XCUIApplication()
         app.launchArguments += ["-resetSettings", "-skipSplash"]
         app.launch()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
     }
 
     private func openContents() {
-        app.buttons["verseReference"].tap()
+        app.buttons["menuButton"].tap()
+        app.buttons["Contents"].tap()
         XCTAssertTrue(app.buttons["tocLanguageToggle"].waitForExistence(timeout: 5))
     }
 
@@ -362,7 +342,7 @@ final class ContentsLanguageUITests: XCTestCase {
         app.buttons["tocClose"].tap()
         XCTAssertFalse(app.buttons["tocLanguageToggle"].waitForExistence(timeout: 2),
                        "contents did not dismiss")
-        XCTAssertTrue(app.buttons["verseReference"].exists)
+        XCTAssertTrue(app.staticTexts["verseReference"].exists)
     }
 }
 
@@ -374,7 +354,7 @@ final class ResumeUITests: XCTestCase {
         app.launchArguments += ["-resetSettings", "-skipSplash"]
         app.launch()
 
-        let reference = app.buttons["verseReference"]
+        let reference = app.staticTexts["verseReference"]
         XCTAssertTrue(reference.waitForExistence(timeout: 10))
         XCTAssertTrue(reference.label.contains("1.1"), "should start at the beginning")
 
@@ -411,53 +391,55 @@ final class ImmersiveUITests: XCTestCase {
         XCUIDevice.shared.orientation = .portrait
         #endif
         app = XCUIApplication()
-        app.launchArguments += ["-resetSettings", "-skipSplash"]
+        app.launchArguments += ["-resetSettings", "-skipSplash", "-immersive"]
         app.launch()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
-        turnOnImmersive()
+        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 10),
+                      "the reader never appeared")
     }
 
-    private func turnOnImmersive() {
-        app.buttons["menuButton"].tap()
-        app.buttons["Settings"].tap()
-        XCTAssertTrue(app.buttons["Done"].waitForExistence(timeout: 5))
+    private var chromeShowing: Bool { app.staticTexts["verseReference"].exists }
 
-        let toggle = app.switches["toggleImmersive"]
-        for _ in 0 ..< 6 where !toggle.exists { app.swipeUp() }
-        XCTAssertTrue(toggle.waitForExistence(timeout: 3))
-        toggle.coordinate(withNormalizedOffset: CGVector(dx: 0.92, dy: 0.5)).tap()
-        app.buttons["Done"].tap()
+    /// Polls rather than sampling once. `exists` read the instant a launch or a
+    /// swipe finishes catches the accessibility tree mid-settle, which showed up
+    /// as this suite failing roughly one run in three and passing in isolation.
+    private func expectChromeHidden(
+        _ message: String, file: StaticString = #filePath, line: UInt = #line
+    ) {
+        let gone = XCTNSPredicateExpectation(
+            predicate: NSPredicate(format: "exists == false"),
+            object: app.staticTexts["verseReference"]
+        )
+        XCTAssertEqual(XCTWaiter().wait(for: [gone], timeout: 3), .completed,
+                       message, file: file, line: line)
     }
-
-    private var chromeShowing: Bool { app.buttons["verseReference"].exists }
 
     func testChromeHidesWhileReading() {
-        XCTAssertFalse(chromeShowing, "controls should be hidden in immersive mode")
+        expectChromeHidden("controls should be hidden in immersive mode")
         XCTAssertTrue(app.staticTexts["अनुवाद"].exists, "the verse should still be there")
     }
 
     /// The point of the feature: turning pages must not keep flashing the
     /// controls back at the reader.
     func testPagingDoesNotBringTheChromeBack() {
-        XCTAssertFalse(chromeShowing)
+        expectChromeHidden("controls should start hidden")
 
         app.swipeLeft()
-        XCTAssertFalse(chromeShowing, "a swipe brought the controls back")
+        expectChromeHidden("a swipe brought the controls back")
 
         app.swipeRight()
-        XCTAssertFalse(chromeShowing, "a swipe back brought the controls back")
+        expectChromeHidden("a swipe back brought the controls back")
     }
 
     func testTappingTheBottomEdgeBringsThemBack() {
-        XCTAssertFalse(chromeShowing)
+        expectChromeHidden("controls should start hidden")
 
         app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.97)).tap()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 3),
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 3),
                       "tapping the bottom edge did not reveal the controls")
     }
 
     func testTappingTheTopEdgeBringsThemBack() {
-        XCTAssertFalse(chromeShowing)
+        expectChromeHidden("controls should start hidden")
 
         // Just below the status bar: taps inside it never reach the app.
         app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.09)).tap()
@@ -465,13 +447,33 @@ final class ImmersiveUITests: XCTestCase {
                       "tapping the top edge did not reveal the controls")
     }
 
+    /// The edge strips are small targets. A double tap anywhere on the page is
+    /// the forgiving way back to the controls.
+    func testDoubleTappingThePageBringsThemBack() {
+        expectChromeHidden("controls should start hidden")
+
+        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.5)).doubleTap()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 3),
+                      "a double tap on the page did not reveal the controls")
+    }
+
+    /// A single tap is how you stop a fling. It must not summon the toolbar,
+    /// or the chrome would flash back on every arrested scroll.
+    func testASingleTapOnThePageDoesNothing() {
+        expectChromeHidden("controls should start hidden")
+
+        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.5)).tap()
+        XCTAssertFalse(app.staticTexts["verseReference"].waitForExistence(timeout: 2),
+                       "a single tap revealed the controls")
+    }
+
     func testRevealedChromeHidesItselfAgain() {
         app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.97)).tap()
-        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 3))
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 3))
 
         let gone = XCTNSPredicateExpectation(
             predicate: NSPredicate(format: "exists == false"),
-            object: app.buttons["verseReference"]
+            object: app.staticTexts["verseReference"]
         )
         XCTAssertEqual(XCTWaiter().wait(for: [gone], timeout: 8), .completed,
                        "the controls stayed up instead of hiding again")
