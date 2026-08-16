@@ -64,7 +64,20 @@ struct DrawerContainer<Content: View>: View {
                 .offset(x: drawer.isOpen ? railWidth : 0)
                 .clipShape(PageClip(radius: drawer.isOpen ? 20 : 0,
                                     bleed: drawer.isOpen ? 0 : 240))
-                .shadow(color: .black.opacity(drawer.isOpen ? 0.18 : 0), radius: 18, x: -6)
+                // No drop shadow: cast around the whole page it smudged grey
+                // onto the background above and below the rounded corners. The
+                // separation the rail needs is only along the page's left edge,
+                // so that is the only place anything is drawn.
+                .overlay(alignment: .leading) {
+                    if drawer.isOpen {
+                        LinearGradient(
+                            colors: [.black.opacity(0.10), .clear],
+                            startPoint: .leading, endPoint: .trailing
+                        )
+                        .frame(width: 12)
+                        .allowsHitTesting(false)
+                    }
+                }
                 // While the rail is open the page is a dismiss target, not a
                 // reader: a stray tap should close, never turn a page.
                 .disabled(drawer.isOpen)
