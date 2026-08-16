@@ -22,6 +22,8 @@ struct ReadingProgressView: View {
     /// Moves the reader to the first verse of a chapter.
     let onSelect: (Verse) -> Void
 
+    @State private var confirmingReset = false
+
     private var isDevanagari: Bool { settings.language == .sanskrit }
 
     var body: some View {
@@ -49,6 +51,10 @@ struct ReadingProgressView: View {
                         isDevanagari: isDevanagari,
                         onSelect: open
                     )
+
+                    badges
+
+                    resetControl
                 }
                 .padding(.top, 12)
                 .padding(.bottom, 32)
@@ -92,9 +98,12 @@ struct ReadingProgressView: View {
                 symbol: "flame"
             )
             divider
+            // Longest, not days read: alongside the current streak those two
+            // show the same number for anyone who has not missed a day yet,
+            // which reads as a mistake rather than as two facts.
             figure(
-                value: snapshot.daysRead,
-                caption: isDevanagari ? "कुल दिन" : "days",
+                value: snapshot.longestStreak,
+                caption: isDevanagari ? "सर्वाधिक" : "best",
                 symbol: nil
             )
         }
@@ -126,7 +135,104 @@ struct ReadingProgressView: View {
         .accessibilityElement(children: .combine)
     }
 
+    // MARK: - Badges
+
+    /// One heading per family, in catalogue order. No filter chips: with 35
+    /// badges the whole set is a short scroll, and a control that hides most of
+    /// them earns its place only when scrolling stops working.
+    private var badges: some View {
+        VStack(spacing: 20) {
+            ForEach(Badge.Family.allCases, id: \.self) { family in
+                VStack(spacing: 12) {
+                    sectionCount(
+                        family.title(isDevanagari: isDevanagari),
+                        earned: BadgeCatalog.all(in: family).count { progress.unlockedBadgeIDs.contains($0.id) },
+                        total: BadgeCatalog.all(in: family).count
+                    )
+                    BadgeGrid(
+                        badges: BadgeCatalog.all(in: family),
+                        earned: progress.unlockedBadgeIDs,
+                        isDevanagari: isDevanagari
+                    )
+                }
+            }
+        }
+        .padding(.top, 8)
+    }
+
+    // MARK: - Reset
+
+    /// Last on the screen, so reaching it takes a deliberate scroll past
+    /// everything it would destroy. Plain destructive text rather than a filled
+    /// button: this is not an action to invite.
+    private var resetControl: some View {
+        VStack(spacing: 0) {
+            Rectangle().fill(theme.divider).frame(height: 1).padding(.vertical, 8)
+
+            Button(role: .destructive) { confirmingReset = true } label: {
+                Text(isDevanagari ? "प्रगति मिटाएँ" : "Reset progress")
+                    .font(.label)
+                    .frame(maxWidth: .infinity)
+                    .padding(.vertical, 12)
+                    .contentShape(.rect)
+            }
+            .buttonStyle(.plain)
+            .foregroundStyle(.red)
+            .accessibilityIdentifier("resetProgress")
+        }
+        .padding(.top, 16)
+        .confirmationDialog(
+            isDevanagari ? "प्रगति मिटाएँ?" : "Reset progress?",
+            isPresented: $confirmingReset,
+            titleVisibility: .visible
+        ) {
+            Button(isDevanagari ? "मिटाएँ" : "Reset", role: .destructive) {
+                progress.reset()
+                Haptics.selection()
+            }
+            Button(isDevanagari ? "रहने दें" : "Cancel", role: .cancel) {}
+        } message: {
+            // Naming what survives matters more than naming what goes: people
+            // conflate bookmarks with progress, and the fear of losing forty
+            // kept verses is what would stop them using this at all.
+            Text(resetWarning)
+        }
+    }
+
+    private var resetWarning: String {
+        let snapshot = progress.snapshot
+        let earned = progress.unlockedBadgeIDs.count
+        if isDevanagari {
+            return """
+                \(snapshot.versesRead.devanagariDigits) पढ़े हुए श्लोक, \(snapshot.currentStreak.devanagariDigits) दिन की निरंतरता और \(earned.devanagariDigits) उपलब्धियाँ मिट जाएँगी।
+                आपके संगृहीत श्लोक और सेटिंग्स सुरक्षित रहेंगी।
+                """
+        }
+        return """
+            This erases \(snapshot.versesRead) verses read, a \(snapshot.currentStreak)-day streak and \(earned) badges.
+            Your bookmarks and settings are not affected.
+            """
+    }
+
     // MARK: - Sections
+
+    /// A heading with an "earned of total" count beside it.
+    private func sectionCount(_ title: String, earned: Int, total: Int) -> some View {
+        HStack {
+            Text(title)
+                .font(.label)
+                .tracking(isDevanagari ? 0 : 1.2)
+                .foregroundStyle(theme.textSecondary)
+            Spacer()
+            Text(isDevanagari
+                 ? "\(earned.devanagariDigits)/\(total.devanagariDigits)"
+                 : "\(earned)/\(total)")
+                .font(.label)
+                .monospacedDigit()
+                .foregroundStyle(theme.textSecondary.opacity(0.7))
+        }
+        .padding(.horizontal, 16)
+    }
 
     private func section(_ title: String) -> some View {
         HStack {

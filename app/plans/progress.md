@@ -187,9 +187,6 @@ One scrolling column, top to bottom:
 │  २  सांख्ययोग           ███░░░░░░░ 22/72 │
 │  …                                       │
 │                                          │
-│  ─── Last 12 weeks ─────────────────     │   4. Heatmap
-│  ▪▪▫▪▪▪▫ ▪▫▫▪▪▪▪ ▫▫▪▪▪▪▪ …              │
-│                                          │
 │  ─── Badges ──────────────── 9 of 35 ──  │   5. Badge grid
 │  ◉ प्रथम पद   ◉ जिज्ञासु   ○ साधक        │      locked ones dimmed
 │  ◉ कर्मयोग    ○ सांख्ययोग  ○ …           │
@@ -251,7 +248,6 @@ Features/Progress/
   ReadingProgressView.swift      the panel
   Components/CompletionRing.swift
   Components/ChapterProgressList.swift
-  Components/ActivityHeatmap.swift
   Components/BadgeGrid.swift
   Components/BadgeUnlockToast.swift
 ```
@@ -285,7 +281,8 @@ function and test that; leave only the `Task.sleep` untested.
    progress starts accumulating silently, which means the feature has real data
    in it the day the screen lands.
 2. **The screen.** Rail icon, panel, ring, three figures, chapter list.
-3. **Heatmap and badges.** `BadgeCatalog`, grid, unlock toast.
+3. **Badges.** `BadgeCatalog`, grid, unlock toast. Heatmap dropped as
+   unnecessary weight.
 4. **Reset.**
 
 Phase 1 is the one with the risk in it; 2–4 are presentation over a settled

@@ -19,6 +19,10 @@ final class ReadingProgress {
     private(set) var readingDays: [String] = []
     private(set) var unlockedBadgeIDs: Set<String> = []
 
+    /// Earned just now and not yet shown. The view clears it once the toast
+    /// has been seen; nothing else reads it.
+    var newlyEarned: [Badge] = []
+
     /// Chapter sizes, handed over once the corpus loads. Until then the
     /// snapshot reports a total of zero and a completion of zero rather than
     /// dividing by nothing.
@@ -50,10 +54,15 @@ final class ReadingProgress {
         #endif
     }
 
+    /// Seeded progress must never reach the store, or a screenshot run would
+    /// leave fake badges in the reader's real database.
+    private var isDesignSeed = false
+
     #if DEBUG
     /// Chapter 1 finished, most of chapter 2, a scattering beyond, and a
     /// six-day streak ending today. In memory only — never written to the store.
     private func seedForDesign() {
+        isDesignSeed = true
         readVerseIDs = Set(1 ... 47).union(Set(48 ... 80)).union([120, 121, 300, 301, 302])
         let today = Date()
         readingDays = (0 ..< 6)
@@ -71,6 +80,10 @@ final class ReadingProgress {
         versesPerChapter = Dictionary(
             chapters.map { ($0.id, $0.verseCount) }, uniquingKeysWith: { first, _ in first }
         )
+        // Chapter badges cannot be judged until the chapter sizes are known,
+        // so anything earned by reading done before this point is settled here.
+        // Without it, finishing a chapter and relaunching would lose the badge.
+        awardBadges(announcing: false)
     }
 
     // MARK: - Snapshot
@@ -133,7 +146,41 @@ final class ReadingProgress {
                 }
             }
         }
+
+        // Only a first read can move a total, so only a first read can earn
+        // anything. Re-reading familiar ground stays free.
+        if isFirst { awardBadges(announcing: true) }
         return isFirst
+    }
+
+    /// Diffs what the current snapshot has earned against what is already
+    /// stored, and keeps the difference.
+    ///
+    /// Badges are never revoked: only additions are taken. Losing a streak must
+    /// not take the badge back — see `Badge.isEarned`, which tests streaks
+    /// against the longest ever rather than the current one.
+    /// - Parameter announcing: whether to raise a toast. False when settling
+    ///   badges that were earned earlier and are only now computable — nobody
+    ///   wants six toasts on launch for work they did last week.
+    private func awardBadges(announcing: Bool) {
+        let earned = Badge.earned(by: snapshot)
+        let fresh = earned.subtracting(unlockedBadgeIDs)
+        guard !fresh.isEmpty else { return }
+
+        unlockedBadgeIDs.formUnion(fresh)
+        if announcing {
+            newlyEarned += BadgeCatalog.all.filter { fresh.contains($0.id) }
+        }
+
+        if let store, !isDesignSeed {
+            Task { @concurrent in
+                do {
+                    try store.unlockBadges(fresh)
+                } catch {
+                    Self.logger.error("Could not save badges: \(error.localizedDescription)")
+                }
+            }
+        }
     }
 
     // MARK: - Reset
@@ -145,6 +192,7 @@ final class ReadingProgress {
         readVerseIDs = []
         readingDays = []
         unlockedBadgeIDs = []
+        newlyEarned = []
 
         if let store {
             Task { @concurrent in

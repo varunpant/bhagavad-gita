@@ -12,6 +12,7 @@ import SwiftUI
 struct RootView: View {
     @Environment(Library.self) private var library
     @Environment(Drawer.self) private var drawer
+    @Environment(ReadingProgress.self) private var progress
     @Environment(\.theme) private var theme
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
@@ -39,6 +40,15 @@ struct RootView: View {
                 .zIndex(2)
             }
 
+            // Earning something silently is the same as not earning it. One
+            // line, at the top, gone on its own — deliberately not a sheet or
+            // a card, which would interrupt the reading this is rewarding.
+            if let earned = progress.newlyEarned.first {
+                BadgeToast(badge: earned)
+                    .transition(.move(edge: .top).combined(with: .opacity))
+                    .zIndex(3)
+            }
+
             if showingSplash {
                 SplashView()
                     .transition(.opacity)
@@ -46,6 +56,16 @@ struct RootView: View {
             }
         }
         .animation(reduceMotion ? nil : .snappy(duration: 0.28), value: drawer.isSearching)
+        .animation(reduceMotion ? nil : .snappy(duration: 0.3), value: progress.newlyEarned.first)
+        // Keyed on the badge, so a second one earned while the first is up gets
+        // its own four seconds rather than inheriting what is left of them.
+        .task(id: progress.newlyEarned.first) {
+            guard progress.newlyEarned.first != nil else { return }
+            Haptics.pageTurn()
+            try? await Task.sleep(for: .seconds(4))
+            guard !Task.isCancelled, !progress.newlyEarned.isEmpty else { return }
+            progress.newlyEarned.removeFirst()
+        }
         .task {
             guard showingSplash else { return }
             let start = ContinuousClock.now
