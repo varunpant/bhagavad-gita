@@ -58,11 +58,15 @@ struct SettingsView: View {
                         label("Language")
                     }
                     .pickerStyle(.inline)
+                    Toggle(isOn: $settings.immersiveReading) { label("Immersive") }
+                        .accessibilityIdentifier("toggleImmersive")
                 } header: {
                     heading("Reading")
                 } footer: {
                     footnote("Sanskrit shows the Devanagari shloka with Hindi meanings. "
-                             + "English shows the IAST transliteration with English meanings.")
+                             + "English shows the IAST transliteration with English meanings.\n\n"
+                             + "Immersive gives the verse the whole screen. Tap the top or bottom "
+                             + "edge to bring the controls back.")
                 }
                 .listRowBackground(theme.surface)
 
@@ -126,6 +130,7 @@ struct SettingsView: View {
             .onChange(of: settings.showTranslation) { Haptics.selection() }
             .onChange(of: settings.showMeaning) { Haptics.selection() }
             .onChange(of: settings.showWordByWord) { Haptics.selection() }
+            .onChange(of: settings.immersiveReading) { Haptics.selection() }
             .onChange(of: settings.dailyReminder) { _, wanted in
                 Haptics.selection()
                 Task { await reminderChanged(to: wanted) }

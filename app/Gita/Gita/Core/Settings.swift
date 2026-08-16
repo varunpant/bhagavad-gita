@@ -96,6 +96,10 @@ final class Settings {
         DateComponents(hour: reminderMinutes / 60, minute: reminderMinutes % 60)
     }
 
+    /// Hide the header and footer while reading, giving the verse the whole
+    /// screen. Off by default — controls that vanish have to be asked for.
+    var immersiveReading = false { didSet { persist(immersiveReading, .immersiveReading) } }
+
     /// Where the reader last was, so opening the app resumes rather than
     /// restarting. Zero means "never read anything yet".
     var lastVerseID = 0 { didSet { persist(String(lastVerseID), .lastVerseID) } }
@@ -113,7 +117,7 @@ final class Settings {
         case theme, language, textSize
         case showTranslation, showMeaning, showWordByWord
         case dailyReminder, reminderMinutes
-        case lastVerseID
+        case lastVerseID, immersiveReading
     }
 
     init(store: UserDatabase? = nil) {
@@ -159,6 +163,7 @@ final class Settings {
         dailyReminder = values[Key.dailyReminder.rawValue].map { $0 == "1" } ?? false
         reminderMinutes = values[Key.reminderMinutes.rawValue].flatMap(Int.init) ?? 8 * 60
         lastVerseID = values[Key.lastVerseID.rawValue].flatMap(Int.init) ?? 0
+        immersiveReading = values[Key.immersiveReading.rawValue].map { $0 == "1" } ?? false
     }
 
     private func persist(_ value: String, _ key: Key) {

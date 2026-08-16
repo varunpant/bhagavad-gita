@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EE00000000000000000000A3 /* GRDB in Frameworks */ = {isa = PBXBuildFile; productRef = EE00000000000000000000A2 /* GRDB */; };
-		EE00000000000000000000B8 /* GitaWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000B2 /* GitaWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		EE00000000000000000000B8 /* GitaWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000B2 /* GitaWidgetExtension.appex */; platformFilters = (ios, ); settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		EE00000000000000000000C3 /* DailyVerse.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000C1 /* DailyVerse.swift */; };
 		EE00000000000000000000C4 /* SharedVerses.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000C2 /* SharedVerses.swift */; };
 /* End PBXBuildFile section */
@@ -349,6 +349,9 @@
 /* Begin PBXTargetDependency section */
 		EE00000000000000000000B9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
+			platformFilters = (
+				ios,
+			);
 			target = EE00000000000000000000B1 /* GitaWidgetExtension */;
 			targetProxy = EE00000000000000000000BA /* PBXContainerItemProxy */;
 		};

@@ -304,6 +304,13 @@ memory, so the request is held and applied once it loads.
 
 ## Build and verify
 
+**Do not run the UI tests without asking first.** `GitaUITests` launches the app
+for every test — a full run is minutes long and blocks whoever is watching.
+Verify with a build, then the unit tests (`-only-testing:GitaTests`, well under a
+second), and only run a UI suite when it is the thing actually in question — and
+ask before you do. Prefer moving behaviour into pure functions on the models so
+it can be tested without a running app at all.
+
 **Never run a command that produces no console output** — a silent `xcodebuild`
 is indistinguishable from a hung one, and `timeout` does not exist on macOS
 (prefixing with it means the command never runs at all). Run the suite *before*

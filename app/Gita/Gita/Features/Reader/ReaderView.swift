@@ -27,6 +27,19 @@ struct ReaderView: View {
     /// A verse asked for by a widget before the corpus finished loading.
     @State private var pendingDeepLink: (chapter: Int, sutra: Int)?
 
+    /// Chrome brought back by tapping an edge, and the task that hides it again.
+    @State private var chromeRevealed = false
+    @State private var hideChrome: Task<Void, Never>?
+
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @Environment(\.accessibilityVoiceOverEnabled) private var voiceOverRunning
+
+    /// Chrome is hidden only when asked for, and never from VoiceOver — a
+    /// control that cannot be found by touch cannot be found at all.
+    private var chromeHidden: Bool {
+        settings.immersiveReading && !chromeRevealed && !voiceOverRunning
+    }
+
     var body: some View {
         ZStack {
             theme.background.ignoresSafeArea()
@@ -73,6 +86,12 @@ struct ReaderView: View {
             // memory, so the request is held until it is.
             if library.state.isReady { openPendingDeepLink() }
         }
+        .onChange(of: settings.immersiveReading) { _, immersive in
+            hideChrome?.cancel()
+            chromeRevealed = false
+            // Leaving immersive mode should not leave the chrome mid-fade.
+            if !immersive { hideChrome = nil }
+        }
         .onChange(of: currentVerseID) { previous, current in
             guard let current, previous != current else { return }
 
@@ -93,7 +112,9 @@ struct ReaderView: View {
 
     private var reader: some View {
         VStack(spacing: 0) {
-            header
+            if !chromeHidden {
+                header.transition(.move(edge: .top).combined(with: .opacity))
+            }
 
             ScrollView(.horizontal) {
                 LazyHStack(spacing: 0) {
@@ -109,8 +130,16 @@ struct ReaderView: View {
             .scrollPosition(id: $currentVerseID)
             .scrollIndicators(.hidden)
 
-            footer
+            if !chromeHidden {
+                footer.transition(.move(edge: .bottom).combined(with: .opacity))
+            }
         }
+        // The reveal targets sit above the page rather than being part of it, so
+        // a horizontal swipe still reaches the pager underneath and turning the
+        // page never brings the chrome back — only a deliberate tap does.
+        .overlay(alignment: .top) { revealEdge(.top) }
+        .overlay(alignment: .bottom) { revealEdge(.bottom) }
+        .animation(reduceMotion ? nil : .snappy(duration: 0.28), value: chromeHidden)
         #if os(macOS)
         // Focusable so the arrow keys reach the reader — but without the focus
         // ring AppKit would otherwise draw around the whole page, which reads as
@@ -120,6 +149,37 @@ struct ReaderView: View {
         .onKeyPress(.leftArrow) { step(-1); return .handled }
         .onKeyPress(.rightArrow) { step(1); return .handled }
         #endif
+    }
+
+    /// A tap strip along an edge, present only while the chrome is hidden.
+    ///
+    /// The bottom strip reaches into the safe area, because the home-indicator
+    /// band is exactly where a thumb goes. The top one deliberately does not:
+    /// taps in the status bar are consumed by the system before the app sees
+    /// them, so a strip drawn up there would simply be dead.
+    @ViewBuilder
+    private func revealEdge(_ edge: Edge) -> some View {
+        if chromeHidden {
+            Color.clear
+                .frame(height: 72)
+                .frame(maxWidth: .infinity)
+                .contentShape(.rect)
+                .onTapGesture { revealChrome() }
+                .ignoresSafeArea(edges: edge == .bottom ? .bottom : [])
+                .accessibilityHidden(true)
+        }
+    }
+
+    /// Show the controls, then take them away again shortly — long enough to
+    /// reach one, short enough not to become the normal state.
+    private func revealChrome() {
+        hideChrome?.cancel()
+        chromeRevealed = true
+        hideChrome = Task {
+            try? await Task.sleep(for: .seconds(4))
+            guard !Task.isCancelled else { return }
+            chromeRevealed = false
+        }
     }
 
     private var header: some View {

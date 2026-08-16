@@ -15,7 +15,10 @@ final class ReaderUITests: XCTestCase {
     override func setUp() {
         continueAfterFailure = false
         app = XCUIApplication()
-        app.launchArguments += ["-skipSplash"]
+        // -resetSettings matters here as much as anywhere: the reader now
+        // resumes where it left off, so without it these tests inherit the
+        // position an earlier test walked to and never see 1.1.
+        app.launchArguments += ["-resetSettings", "-skipSplash"]
         app.launch()
     }
 
@@ -388,5 +391,83 @@ final class ResumeUITests: XCTestCase {
         )
         XCTAssertEqual(XCTWaiter().wait(for: [resumed], timeout: 5), .completed,
                        "did not resume at 1.4, showing \(reference.label)")
+    }
+}
+
+/// Immersive reading: the verse gets the whole screen, and the controls come
+/// back only when asked for.
+final class ImmersiveUITests: XCTestCase {
+
+    private var app: XCUIApplication!
+
+    override func setUp() {
+        continueAfterFailure = false
+        #if os(iOS)
+        XCUIDevice.shared.orientation = .portrait
+        #endif
+        app = XCUIApplication()
+        app.launchArguments += ["-resetSettings", "-skipSplash"]
+        app.launch()
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 10))
+        turnOnImmersive()
+    }
+
+    private func turnOnImmersive() {
+        app.buttons["settingsButton"].tap()
+        XCTAssertTrue(app.buttons["Done"].waitForExistence(timeout: 5))
+
+        let toggle = app.switches["toggleImmersive"]
+        for _ in 0 ..< 6 where !toggle.exists { app.swipeUp() }
+        XCTAssertTrue(toggle.waitForExistence(timeout: 3))
+        toggle.coordinate(withNormalizedOffset: CGVector(dx: 0.92, dy: 0.5)).tap()
+        app.buttons["Done"].tap()
+    }
+
+    private var chromeShowing: Bool { app.buttons["verseReference"].exists }
+
+    func testChromeHidesWhileReading() {
+        XCTAssertFalse(chromeShowing, "controls should be hidden in immersive mode")
+        XCTAssertTrue(app.staticTexts["अनुवाद"].exists, "the verse should still be there")
+    }
+
+    /// The point of the feature: turning pages must not keep flashing the
+    /// controls back at the reader.
+    func testPagingDoesNotBringTheChromeBack() {
+        XCTAssertFalse(chromeShowing)
+
+        app.swipeLeft()
+        XCTAssertFalse(chromeShowing, "a swipe brought the controls back")
+
+        app.swipeRight()
+        XCTAssertFalse(chromeShowing, "a swipe back brought the controls back")
+    }
+
+    func testTappingTheBottomEdgeBringsThemBack() {
+        XCTAssertFalse(chromeShowing)
+
+        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.97)).tap()
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 3),
+                      "tapping the bottom edge did not reveal the controls")
+    }
+
+    func testTappingTheTopEdgeBringsThemBack() {
+        XCTAssertFalse(chromeShowing)
+
+        // Just below the status bar: taps inside it never reach the app.
+        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.09)).tap()
+        XCTAssertTrue(app.buttons["settingsButton"].waitForExistence(timeout: 3),
+                      "tapping the top edge did not reveal the controls")
+    }
+
+    func testRevealedChromeHidesItselfAgain() {
+        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.97)).tap()
+        XCTAssertTrue(app.buttons["verseReference"].waitForExistence(timeout: 3))
+
+        let gone = XCTNSPredicateExpectation(
+            predicate: NSPredicate(format: "exists == false"),
+            object: app.buttons["verseReference"]
+        )
+        XCTAssertEqual(XCTWaiter().wait(for: [gone], timeout: 8), .completed,
+                       "the controls stayed up instead of hiding again")
     }
 }
