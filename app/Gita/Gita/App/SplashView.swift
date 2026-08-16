@@ -5,8 +5,8 @@
 
 import SwiftUI
 
-/// A title page: the app's letterform on the reading ground, held briefly and
-/// handed over with a tap of feedback.
+/// A title page: the brand's ग on the reading ground, held briefly and handed
+/// over with a tap of feedback.
 ///
 /// It follows the theme like everything else — plain in Light and Dark, warm in
 /// Sepia — so the first thing seen matches the app that follows it.
@@ -20,9 +20,11 @@ struct SplashView: View {
         ZStack {
             theme.background.ignoresSafeArea()
 
-            Text(verbatim: "g")
-                .font(.custom("Georgia-Bold", size: 132))
-                .foregroundStyle(theme.accent)
+            // The brand mark itself, so the vermillion is deliberate rather
+            // than a stray colour in an otherwise monochrome interface.
+            Text(verbatim: "ग")
+                .font(.custom("KohinoorDevanagari-Medium", size: 148))
+                .foregroundStyle(Color(red: 0xE0 / 255, green: 0x3C / 255, blue: 0x24 / 255))
                 .scaleEffect(settled ? 1 : 0.86)
                 .opacity(settled ? 1 : 0)
         }
