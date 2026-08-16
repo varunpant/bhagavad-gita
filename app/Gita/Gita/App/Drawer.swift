@@ -16,11 +16,23 @@ final class Drawer {
     enum Destination: Equatable {
         case settings
         case contents
-        case search
     }
 
     /// Debug builds can launch with the rail already open, for screenshots and
     /// tests, the same way the sheets can.
+    /// Search covers everything, rail included, so it lives here rather than
+    /// inside the reader.
+    var isSearching: Bool = {
+        #if DEBUG
+        ProcessInfo.processInfo.arguments.contains("-openSearch")
+        #else
+        false
+        #endif
+    }()
+
+    /// Set when a search result is chosen; the reader consumes and clears it.
+    var requestedVerseID: Int?
+
     var isOpen: Bool = {
         #if DEBUG
         ProcessInfo.processInfo.arguments.contains("-openMenu")
@@ -40,6 +52,12 @@ final class Drawer {
 
     func close() {
         guard isOpen else { return }
+        isOpen = false
+        Haptics.selection()
+    }
+
+    func search() {
+        isSearching = true
         isOpen = false
         Haptics.selection()
     }

@@ -92,14 +92,16 @@ struct ReaderView: View {
             // memory, so the request is held until it is.
             if library.state.isReady { openPendingDeepLink() }
         }
+        .onChange(of: drawer.requestedVerseID) { _, requested in
+            guard let requested else { return }
+            currentVerseID = requested
+            drawer.requestedVerseID = nil
+        }
         .onChange(of: drawer.destination) { _, destination in
             guard let destination else { return }
             switch destination {
             case .settings: showingSettings = true
             case .contents: showingContents = true
-            case .search:
-                openContentsSearching = true
-                showingContents = true
             }
             drawer.destination = nil
         }

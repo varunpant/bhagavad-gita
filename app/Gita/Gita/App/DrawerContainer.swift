@@ -106,7 +106,7 @@ struct DrawerContainer<Content: View>: View {
             Spacer()
 
             railButton("list.bullet", label: "Contents") { drawer.choose(.contents) }
-            railButton("magnifyingglass", label: "Search") { drawer.choose(.search) }
+            railButton("magnifyingglass", label: "Search") { drawer.search() }
 
             // Acts on the verse being read rather than opening a list. The
             // reader saves its position on every move, so that is where the

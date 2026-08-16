@@ -11,7 +11,10 @@ import SwiftUI
 /// happens behind the splash instead of being started by its disappearance.
 struct RootView: View {
     @Environment(Library.self) private var library
+    @Environment(Drawer.self) private var drawer
     @Environment(\.theme) private var theme
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+
 
     @State private var showingSplash = !ProcessInfo.processInfo.arguments.contains("-skipSplash")
 
@@ -27,12 +30,22 @@ struct RootView: View {
         ZStack {
             DrawerContainer { ReaderView() }
 
+            if drawer.isSearching {
+                SearchOverlay(
+                    onSelect: { drawer.requestedVerseID = $0.id },
+                    onDismiss: { drawer.isSearching = false }
+                )
+                .transition(reduceMotion ? .opacity : .opacity.combined(with: .move(edge: .top)))
+                .zIndex(2)
+            }
+
             if showingSplash {
                 SplashView()
                     .transition(.opacity)
                     .zIndex(1)
             }
         }
+        .animation(reduceMotion ? nil : .snappy(duration: 0.28), value: drawer.isSearching)
         .task {
             guard showingSplash else { return }
             let start = ContinuousClock.now
