@@ -19,6 +19,8 @@ struct TableOfContentsView: View {
 
     /// Where the reader currently is, so the list can open there.
     let currentVerse: Verse?
+    /// Open with the search field already up, for the rail's search icon.
+    var startSearching = false
     /// Called with the chosen verse; the sheet dismisses itself.
     let onSelect: (Verse) -> Void
 
@@ -55,6 +57,11 @@ struct TableOfContentsView: View {
         .onAppear {
             expandedChapter = currentVerse?.chapter
             language = settings.language
+            if startSearching {
+                searching = true
+                searchFocused = true
+                prepareSemanticIndex()
+            }
         }
         #if os(macOS)
         .frame(minWidth: 420, idealWidth: 480, minHeight: 520, idealHeight: 640)

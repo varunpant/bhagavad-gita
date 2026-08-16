@@ -22,6 +22,8 @@ struct ReaderView: View {
     /// Debug builds can open straight into settings, for screenshots and tests.
     @State private var showingSettings = ProcessInfo.processInfo.arguments.contains("-openSettings")
     @State private var showingContents = ProcessInfo.processInfo.arguments.contains("-openContents")
+    /// Whether the contents should open straight into its search field.
+    @State private var openContentsSearching = false
 
     private var language: ReadingLanguage { settings.language }
 
@@ -64,8 +66,11 @@ struct ReaderView: View {
             SettingsView()
                 .presentationBackground(theme.background)
         }
+        .onChange(of: showingContents) { _, shown in
+            if !shown { openContentsSearching = false }
+        }
         .sheet(isPresented: $showingContents) {
-            TableOfContentsView(currentVerse: currentVerse) { verse in
+            TableOfContentsView(currentVerse: currentVerse, startSearching: openContentsSearching) { verse in
                 currentVerseID = verse.id
             }
             .environment(semanticIndex)
@@ -92,6 +97,9 @@ struct ReaderView: View {
             switch destination {
             case .settings: showingSettings = true
             case .contents: showingContents = true
+            case .search:
+                openContentsSearching = true
+                showingContents = true
             }
             drawer.destination = nil
         }

@@ -16,6 +16,8 @@ import SwiftUI
 /// brand in the running app, and it is deliberate rather than a stray colour.
 struct DrawerContainer<Content: View>: View {
     @Environment(Drawer.self) private var drawer
+    @Environment(Settings.self) private var settings
+    @Environment(Bookmarks.self) private var bookmarks
     @Environment(\.theme) private var theme
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
@@ -104,8 +106,18 @@ struct DrawerContainer<Content: View>: View {
             Spacer()
 
             railButton("list.bullet", label: "Contents") { drawer.choose(.contents) }
-                .padding(.bottom, 28)
-            railButton("magnifyingglass", label: "Search") { drawer.choose(.contents) }
+            railButton("magnifyingglass", label: "Search") { drawer.choose(.search) }
+
+            // Acts on the verse being read rather than opening a list. The
+            // reader saves its position on every move, so that is where the
+            // rail learns which verse "this one" is without reaching into it.
+            railButton(
+                bookmarks.contains(settings.lastVerseID) ? "bookmark.fill" : "bookmark",
+                label: bookmarks.contains(settings.lastVerseID) ? "Remove bookmark" : "Bookmark this verse"
+            ) {
+                let added = bookmarks.toggle(settings.lastVerseID)
+                added ? Haptics.pageTurn() : Haptics.selection()
+            }
 
             Spacer()
 

@@ -57,6 +57,13 @@ nonisolated struct UserDatabase {
                 table.column("value", .text).notNull()
             }
         }
+        migrator.registerMigration("createBookmarks") { db in
+            try db.create(table: "bookmarks") { table in
+                table.primaryKey("verseId", .integer)
+                table.column("createdAt", .datetime).notNull()
+            }
+        }
+
         return migrator
     }
 
@@ -72,6 +79,29 @@ nonisolated struct UserDatabase {
                 sql: "INSERT OR REPLACE INTO settings (key, value) VALUES (?, ?)",
                 arguments: [key, value]
             )
+        }
+    }
+
+    // MARK: - Bookmarks
+
+    func bookmarkedVerseIDs() throws -> Set<Int> {
+        try queue.read { db in
+            Set(try Int.fetchAll(db, sql: "SELECT verseId FROM bookmarks"))
+        }
+    }
+
+    func addBookmark(_ verseID: Int) throws {
+        try queue.write { db in
+            try db.execute(
+                sql: "INSERT OR REPLACE INTO bookmarks (verseId, createdAt) VALUES (?, ?)",
+                arguments: [verseID, Date()]
+            )
+        }
+    }
+
+    func removeBookmark(_ verseID: Int) throws {
+        try queue.write { db in
+            try db.execute(sql: "DELETE FROM bookmarks WHERE verseId = ?", arguments: [verseID])
         }
     }
 

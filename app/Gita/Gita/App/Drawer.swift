@@ -16,6 +16,7 @@ final class Drawer {
     enum Destination: Equatable {
         case settings
         case contents
+        case search
     }
 
     /// Debug builds can launch with the rail already open, for screenshots and
