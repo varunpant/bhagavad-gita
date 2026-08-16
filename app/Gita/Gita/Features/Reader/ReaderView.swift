@@ -14,7 +14,6 @@ import SwiftUI
 struct ReaderView: View {
     @Environment(Library.self) private var library
     @Environment(Settings.self) private var settings
-    @Environment(SemanticIndex.self) private var semanticIndex
     @Environment(Drawer.self) private var drawer
     /// Not `progress` — that name is taken by the pager's rail position.
     @Environment(ReadingProgress.self) private var readingProgress
@@ -61,15 +60,14 @@ struct ReaderView: View {
         }
         .task { await library.load() }
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
-            if isReady, currentVerseID == nil { currentVerseID = resumeTarget() }
-            if isReady { openPendingDeepLink() }
+            guard isReady else { return }
+
+            if currentVerseID == nil { currentVerseID = resumeTarget() }
+            openPendingDeepLink()
             // Progress counts verses on its own, but completion needs a
             // denominator and a verse-to-chapter map, and both come from the
             // corpus rather than from anything the reader has saved.
-            if isReady {
-                readingProgress.adopt(verses: library.verses)
-                readingProgress.adopt(chapters: library.chapters)
-            }
+            readingProgress.adopt(verses: library.verses, chapters: library.chapters)
         }
         // Counts the verse in front of the reader once it has been there long
         // enough to have been read rather than swiped past.
@@ -97,11 +95,12 @@ struct ReaderView: View {
             drawer.isOpen = false
             drawer.panel = nil
         }
-        .onChange(of: settings.immersiveReading) { _, immersive in
+        // Switching the mode either way drops any pending hide, so the chrome
+        // is never left mid-fade.
+        .onChange(of: settings.immersiveReading) {
             hideChrome?.cancel()
+            hideChrome = nil
             chromeRevealed = false
-            // Leaving immersive mode should not leave the chrome mid-fade.
-            if !immersive { hideChrome = nil }
         }
         .onChange(of: currentVerseID) { previous, current in
             guard let current, previous != current else { return }
@@ -255,7 +254,7 @@ struct ReaderView: View {
 
     private var footer: some View {
         VStack(spacing: 12) {
-            ProgressRail(progress: progress, theme: theme)
+            ProgressBar(fraction: progress, height: 2, minimumWidth: 2)
 
             HStack {
                 stepButton(direction: -1, symbol: "chevron.left", label: "Previous verse")
@@ -372,7 +371,7 @@ private struct ShlokaPage: View {
     @Environment(\.theme) private var theme
 
     private var words: [WordMeaning] { verse.words(for: language) }
-    private var isDevanagari: Bool { language == .sanskrit }
+    private var isDevanagari: Bool { language.isDevanagari }
 
     var body: some View {
         ScrollView(.vertical) {
@@ -539,44 +538,10 @@ private struct ShlokaPage: View {
     }
 }
 
-// MARK: - Progress rail
-
-private struct ProgressRail: View {
-    let progress: Double
-    let theme: Theme
-
-    var body: some View {
-        GeometryReader { proxy in
-            ZStack(alignment: .leading) {
-                Capsule().fill(theme.divider)
-                Capsule()
-                    .fill(theme.accent)
-                    .frame(width: max(2, proxy.size.width * progress))
-            }
-        }
-        .frame(height: 2)
-        .accessibilityHidden(true)
-    }
-}
-
 // MARK: - Helpers
 
 private extension Array {
     subscript(safe index: Int) -> Element? {
         indices.contains(index) ? self[index] : nil
     }
-}
-
-#Preview("Reader") {
-    ReaderView()
-        .environment(Library.preview())
-        .environment(Settings())
-        .environment(\.theme, .light)
-}
-
-#Preview("Sepia") {
-    ReaderView()
-        .environment(Library.preview())
-        .environment(Settings())
-        .environment(\.theme, .sepia)
 }

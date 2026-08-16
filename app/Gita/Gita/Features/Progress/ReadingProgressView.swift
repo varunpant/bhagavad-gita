@@ -24,13 +24,13 @@ struct ReadingProgressView: View {
 
     @State private var confirmingReset = false
 
-    private var isDevanagari: Bool { settings.language == .sanskrit }
+    private var isDevanagari: Bool { settings.language.isDevanagari }
 
     var body: some View {
         let snapshot = progress.snapshot
 
         return VStack(spacing: 0) {
-            header(snapshot)
+            header
 
             ScrollView {
                 VStack(spacing: 24) {
@@ -65,19 +65,8 @@ struct ReadingProgressView: View {
 
     // MARK: - Header
 
-    private func header(_ snapshot: ProgressSnapshot) -> some View {
-        HStack {
-            Text(isDevanagari ? "प्रगति" : "PROGRESS")
-                .font(isDevanagari ? .verseReference : .label)
-                .tracking(isDevanagari ? 0 : 1.2)
-                .foregroundStyle(theme.textSecondary)
-            Spacer()
-        }
-        .padding(.horizontal, 16)
-        .padding(.vertical, 14)
-        .overlay(alignment: .bottom) {
-            Rectangle().fill(theme.divider).frame(height: 1)
-        }
+    private var header: some View {
+        PanelHeader(sanskrit: "प्रगति", english: "PROGRESS", isDevanagari: isDevanagari)
     }
 
     // MARK: - Figures

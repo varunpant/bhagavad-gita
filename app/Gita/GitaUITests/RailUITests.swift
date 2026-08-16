@@ -92,6 +92,10 @@ final class BookmarkUITests: XCTestCase {
         XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
     }
 
+    /// The empty state follows the reading language, and the app starts in
+    /// Sanskrit — see the language rules in app/CLAUDE.md.
+    private static let emptyState = "श्लोक संख्या के पास बुकमार्क दबाकर उसे सहेजें"
+
     private func openBookmarks() {
         app.buttons["menuButton"].tap()
         XCTAssertTrue(app.buttons["Bookmarks"].waitForExistence(timeout: 5))
@@ -100,7 +104,7 @@ final class BookmarkUITests: XCTestCase {
 
     func testNothingKeptYet() {
         openBookmarks()
-        XCTAssertTrue(app.staticTexts["Tap the bookmark beside a verse number to keep it"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.staticTexts[Self.emptyState].waitForExistence(timeout: 5))
     }
 
     func testBookmarkButtonKeepsAVerseAndItAppearsInTheList() {
@@ -116,7 +120,7 @@ final class BookmarkUITests: XCTestCase {
         app.buttons["bookmarkButton"].tap()
 
         openBookmarks()
-        XCTAssertTrue(app.staticTexts["Tap the bookmark beside a verse number to keep it"].waitForExistence(timeout: 5),
+        XCTAssertTrue(app.staticTexts[Self.emptyState].waitForExistence(timeout: 5),
                       "the bookmark was not removed")
     }
 

@@ -16,7 +16,7 @@ struct BadgeToast: View {
     @Environment(Settings.self) private var settings
     @Environment(\.theme) private var theme
 
-    private var isDevanagari: Bool { settings.language == .sanskrit }
+    private var isDevanagari: Bool { settings.language.isDevanagari }
 
     var body: some View {
         HStack(spacing: 10) {

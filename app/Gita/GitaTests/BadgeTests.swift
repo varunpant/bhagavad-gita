@@ -20,12 +20,12 @@ struct BadgeTests {
 
     private func snapshot(
         read: Set<Int> = [], perChapter: [Int: Int] = [:],
-        current: Int = 0, longest: Int = 0, days: Int = 0
+        current: Int = 0, longest: Int = 0
     ) -> ProgressSnapshot {
         ProgressSnapshot(
             readVerseIDs: read, versesReadPerChapter: perChapter,
             versesPerChapter: Self.chapters,
-            currentStreak: current, longestStreak: longest, daysRead: days
+            currentStreak: current, longestStreak: longest
         )
     }
 
@@ -139,7 +139,7 @@ struct BadgeTests {
         let finished = snapshot(
             read: Set(1 ... 701),
             perChapter: Self.chapters,
-            current: 365, longest: 365, days: 365
+            current: 365, longest: 365
         )
         let earned = Badge.earned(by: finished)
         #expect(earned.count == BadgeCatalog.all.count)

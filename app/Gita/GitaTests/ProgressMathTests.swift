@@ -19,7 +19,7 @@ struct ProgressMathTests {
             readVerseIDs: read,
             versesReadPerChapter: perChapter,
             versesPerChapter: Self.chapters,
-            currentStreak: 0, longestStreak: 0, daysRead: 0
+            currentStreak: 0, longestStreak: 0
         )
     }
 
@@ -35,7 +35,7 @@ struct ProgressMathTests {
     @Test func completionWithNoCorpusIsZero() {
         let unloaded = ProgressSnapshot(
             readVerseIDs: [1, 2, 3], versesReadPerChapter: [1: 3], versesPerChapter: [:],
-            currentStreak: 0, longestStreak: 0, daysRead: 0
+            currentStreak: 0, longestStreak: 0
         )
         #expect(unloaded.completion == 0)
         #expect(!unloaded.completion.isNaN)
@@ -68,11 +68,6 @@ struct ProgressMathTests {
         #expect(!snapshot(read: [], perChapter: [:]).isComplete(chapter: 99))
     }
 
-    @Test func completedChaptersCountsOnlyFinishedOnes() {
-        let progress = snapshot(read: [], perChapter: [1: 10, 2: 3, 3: 5])
-        #expect(progress.completedChapters == 2)
-    }
-
     /// The real corpus is 701 verses, not the 700 everyone expects: the source
     /// splits 13.1 into two rows. Anything that hardcodes 700 leaves the ring
     /// permanently one verse short of full.
@@ -95,8 +90,7 @@ struct ProgressMathTests {
         // A throwaway store: `ReadingProgress(store: nil)` would open the
         // real user.sqlite and write test data into it.
         let progress = ReadingProgress(store: try UserDatabase(url: TempStore.url()))
-        progress.adopt(verses: verses)
-        progress.adopt(chapters: try database.allChapters())
+        progress.adopt(verses: verses, chapters: try database.allChapters())
         for verse in verses.prefix(120) { progress.record(verse.id) }
 
         let snapshot = progress.snapshot

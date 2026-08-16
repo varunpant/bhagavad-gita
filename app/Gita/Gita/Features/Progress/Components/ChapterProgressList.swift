@@ -62,7 +62,7 @@ struct ChapterProgressList: View {
                     }
                 }
 
-                bar(read: read, total: chapter.verseCount)
+                ProgressBar(fraction: fraction(read: read, total: chapter.verseCount))
             }
 
             Text(counts(read: read, total: chapter.verseCount))
@@ -79,23 +79,9 @@ struct ChapterProgressList: View {
         )
     }
 
-    /// A capsule rather than `ProgressView`, so the track and fill take theme
-    /// colours instead of the system tint.
-    private func bar(read: Int, total: Int) -> some View {
-        GeometryReader { proxy in
-            ZStack(alignment: .leading) {
-                Capsule().fill(theme.divider)
-                Capsule()
-                    .fill(theme.accent)
-                    .frame(width: proxy.size.width * fraction(read: read, total: total))
-            }
-        }
-        .frame(height: 3)
-    }
-
     private func fraction(read: Int, total: Int) -> Double {
         guard total > 0 else { return 0 }
-        return min(1, Double(read) / Double(total))
+        return Double(read) / Double(total)
     }
 
     private func counts(read: Int, total: Int) -> String {

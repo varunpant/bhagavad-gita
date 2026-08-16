@@ -26,7 +26,11 @@ final class ReadingProgress {
     /// Chapter sizes, handed over once the corpus loads. Until then the
     /// snapshot reports a total of zero and a completion of zero rather than
     /// dividing by nothing.
-    private(set) var versesPerChapter: [Int: Int] = [:]
+    private var versesPerChapter: [Int: Int] = [:]
+
+    /// Verse id → chapter. A snapshot has no other way to bucket a bare set of
+    /// ids into chapters.
+    private var chapterOf: [Int: Int] = [:]
 
     private let store: UserDatabase?
 
@@ -74,15 +78,26 @@ final class ReadingProgress {
 
     // MARK: - Corpus
 
-    /// Called once the chapters load. Progress is meaningful without it — the
-    /// counts are real — but completion needs a denominator.
-    func adopt(chapters: [Chapter]) {
+    /// Takes both halves of the corpus at once, once it has loaded.
+    ///
+    /// Deliberately **not** two calls. Chapter badges are judged from the
+    /// chapter sizes *and* the verse-to-chapter map, so two setters could be
+    /// called in the order that judges them against a map that is still empty —
+    /// awarding nothing, and never running again. One call cannot be
+    /// misordered.
+    ///
+    /// Progress is meaningful before this: the counts are real from the first
+    /// verse read. Only completion needs a denominator.
+    func adopt(verses: [Verse], chapters: [Chapter]) {
+        chapterOf = Dictionary(
+            verses.map { ($0.id, $0.chapter) }, uniquingKeysWith: { first, _ in first }
+        )
         versesPerChapter = Dictionary(
             chapters.map { ($0.id, $0.verseCount) }, uniquingKeysWith: { first, _ in first }
         )
-        // Chapter badges cannot be judged until the chapter sizes are known,
-        // so anything earned by reading done before this point is settled here.
-        // Without it, finishing a chapter and relaunching would lose the badge.
+        // Settles anything earned by reading done before the corpus could
+        // judge it — without this, finishing a chapter and relaunching would
+        // lose the badge.
         awardBadges(announcing: false)
     }
 
@@ -105,17 +120,8 @@ final class ReadingProgress {
             versesReadPerChapter: perChapter,
             versesPerChapter: versesPerChapter,
             currentStreak: Streak.current(from: readingDays, today: today),
-            longestStreak: Streak.longest(from: readingDays),
-            daysRead: readingDays.count
+            longestStreak: Streak.longest(from: readingDays)
         )
-    }
-
-    /// Verse ID → chapter. Built from the corpus once, because a snapshot
-    /// otherwise has no way to bucket a bare set of IDs.
-    private var chapterOf: [Int: Int] = [:]
-
-    func adopt(verses: [Verse]) {
-        chapterOf = Dictionary(verses.map { ($0.id, $0.chapter) }, uniquingKeysWith: { first, _ in first })
     }
 
     // MARK: - Recording

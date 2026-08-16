@@ -264,7 +264,12 @@ final class ContentsUITests: XCTestCase {
     func testContentsListsEveryChapter() {
         openContents()
         XCTAssertTrue(app.buttons["chapter-1"].exists)
-        XCTAssertTrue(app.buttons["chapter-18"].exists)
+
+        // The list is lazy, so the last chapter is not merely off screen — it
+        // is not in the accessibility tree until it scrolls in.
+        let last = app.buttons["chapter-18"]
+        for _ in 0 ..< 8 where !last.exists { app.swipeUp() }
+        XCTAssertTrue(last.exists, "chapter 18 never appeared")
     }
 
     func testChoosingAVerseMovesTheReader() {
@@ -307,6 +312,13 @@ final class ContentsLanguageUITests: XCTestCase {
         XCTAssertTrue(app.buttons["tocLanguageToggle"].waitForExistence(timeout: 5))
     }
 
+    /// The panel's own cross (`tocClose`) exists only when it is presented as a
+    /// sheet. From the rail, the rail's icon is the cross.
+    private func closeContents() {
+        app.buttons["Close contents"].tap()
+        app.buttons["Close menu"].firstMatch.tap()
+    }
+
     func testContentsOpensInTheReadersLanguage() {
         openContents()
         // Reader defaults to Sanskrit, so the contents should too.
@@ -332,7 +344,7 @@ final class ContentsLanguageUITests: XCTestCase {
         app.buttons["tocLanguageToggle"].tap()
         XCTAssertTrue(app.staticTexts["CHAPTERS"].waitForExistence(timeout: 3))
 
-        app.buttons["tocClose"].tap()
+        closeContents()
 
         XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 5),
                       "reader should still be in Sanskrit")
@@ -341,7 +353,7 @@ final class ContentsLanguageUITests: XCTestCase {
 
     func testCloseButtonDismissesTheContents() {
         openContents()
-        app.buttons["tocClose"].tap()
+        closeContents()
         XCTAssertFalse(app.buttons["tocLanguageToggle"].waitForExistence(timeout: 2),
                        "contents did not dismiss")
         XCTAssertTrue(app.staticTexts["verseReference"].exists)

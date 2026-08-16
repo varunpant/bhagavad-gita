@@ -15,7 +15,7 @@ nonisolated extension Verse {
     }
 
     func shareTitle(for language: ReadingLanguage) -> String {
-        language == .sanskrit
+        language.isDevanagari
             ? "श्रीमद्भगवद्गीता \(chapter.devanagariDigits).\(sutra.devanagariDigits)"
             : "Bhagavad Gita \(chapter).\(sutra)"
     }

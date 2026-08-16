@@ -22,11 +22,10 @@ nonisolated struct ProgressSnapshot: Equatable, Sendable {
     let versesPerChapter: [Int: Int]
     let currentStreak: Int
     let longestStreak: Int
-    let daysRead: Int
 
     static let empty = ProgressSnapshot(
         readVerseIDs: [], versesReadPerChapter: [:], versesPerChapter: [:],
-        currentStreak: 0, longestStreak: 0, daysRead: 0
+        currentStreak: 0, longestStreak: 0
     )
 
     // MARK: - Totals
@@ -59,10 +58,5 @@ nonisolated struct ProgressSnapshot: Equatable, Sendable {
     func isComplete(chapter: Int) -> Bool {
         guard let total = versesPerChapter[chapter], total > 0 else { return false }
         return versesRead(inChapter: chapter) >= total
-    }
-
-    /// Chapters finished end to end.
-    var completedChapters: Int {
-        versesPerChapter.keys.count { isComplete(chapter: $0) }
     }
 }

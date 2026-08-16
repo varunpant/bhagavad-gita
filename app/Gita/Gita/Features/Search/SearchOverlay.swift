@@ -121,7 +121,7 @@ struct SearchOverlay: View {
                     .font(.label)
                     .monospacedDigit()
                     .foregroundStyle(.white.opacity(0.6))
-                Text(plain(hit.snippet))
+                Text(hit.snippet)
                     .font(.glossLatin)
                     .foregroundStyle(.white.opacity(0.92))
                     .multilineTextAlignment(.leading)
@@ -133,14 +133,6 @@ struct SearchOverlay: View {
             .contentShape(.rect)
         }
         .buttonStyle(.plain)
-    }
-
-    /// FTS5 marks matches with invisible sentinels; on this dark ground the
-    /// snippet reads better plain than with a second emphasis colour.
-    private func plain(_ snippet: String) -> String {
-        snippet
-            .replacingOccurrences(of: "\u{2062}", with: "")
-            .replacingOccurrences(of: "\u{2063}", with: "")
     }
 
     private func run() async {

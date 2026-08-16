@@ -71,9 +71,6 @@ final class Library {
         verses.filter { $0.chapter == chapter }
     }
 
-    /// How many verses have been through the enrichment pipeline.
-    var enrichedCount: Int { verses.count(where: \.isEnriched) }
-
     func chapter(_ number: Int) -> Chapter? {
         chapters.first { $0.id == number }
     }

@@ -13,8 +13,6 @@ nonisolated enum BadgeCatalog {
 
     static let all: [Badge] = verses + chapters + streaks + landmarks
 
-    static func badge(id: String) -> Badge? { all.first { $0.id == id } }
-
     static func all(in family: Badge.Family) -> [Badge] { all.filter { $0.family == family } }
 
     // MARK: - Verses read (7)

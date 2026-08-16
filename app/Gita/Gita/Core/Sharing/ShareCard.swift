@@ -26,7 +26,7 @@ struct ShareCard: View {
     let verse: Verse
     let language: ReadingLanguage
 
-    private var isDevanagari: Bool { language == .sanskrit }
+    private var isDevanagari: Bool { language.isDevanagari }
 
     /// 1080pt square at 1× — `ImageRenderer` is asked for 1× because the view
     /// is already sized in final pixels. Square travels best: it is what

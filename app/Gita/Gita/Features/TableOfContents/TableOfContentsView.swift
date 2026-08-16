@@ -31,7 +31,7 @@ struct TableOfContentsView: View {
     /// shows when the sheet closes.
     @State private var language: ReadingLanguage = .sanskrit
 
-    private var isDevanagari: Bool { language == .sanskrit }
+    private var isDevanagari: Bool { language.isDevanagari }
 
     var body: some View {
         VStack(spacing: 0) {
@@ -52,16 +52,8 @@ struct TableOfContentsView: View {
 
     // MARK: - Header
 
-    /// Title and magnifier, or the field once the magnifier is tapped. The two
-    /// occupy the same row, so opening search costs no vertical space.
     private var header: some View {
-        HStack(spacing: 12) {
-            Text(isDevanagari ? "अध्याय" : "CHAPTERS")
-                .font(isDevanagari ? .verseReference : .label)
-                .tracking(isDevanagari ? 0 : 1.2)
-                .foregroundStyle(theme.textSecondary)
-            Spacer()
-
+        PanelHeader(sanskrit: "अध्याय", english: "CHAPTERS", isDevanagari: isDevanagari) {
             languageToggle
 
             // Only when it is a sheet. As a panel the rail's icon is the cross,
@@ -80,11 +72,6 @@ struct TableOfContentsView: View {
                 .accessibilityIdentifier("tocClose")
                 .accessibilityLabel("Close contents")
             }
-        }
-        .padding(.horizontal, 16)
-        .padding(.vertical, 10)
-        .overlay(alignment: .bottom) {
-            Rectangle().fill(theme.divider).frame(height: 1)
         }
     }
 

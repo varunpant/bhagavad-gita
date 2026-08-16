@@ -125,7 +125,9 @@ nonisolated struct ContentDatabase {
 
         return try queue.read { db in
             try Row.fetchAll(db, sql: """
-                SELECT verses.*, snippet(verses_fts, -1, '\u{2062}', '\u{2063}', '…', 12) AS snippet
+                -- No highlight markers: nothing renders them. They used to be
+                -- invisible sentinels that the only consumer stripped again.
+                SELECT verses.*, snippet(verses_fts, -1, '', '', '…', 12) AS snippet
                 FROM verses_fts
                 JOIN verses ON verses.id = verses_fts.rowid
                 WHERE verses_fts MATCH ?

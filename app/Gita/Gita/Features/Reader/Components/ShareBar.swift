@@ -19,7 +19,7 @@ struct ShareBar: View {
 
     @State private var showingOptions = false
 
-    private var isDevanagari: Bool { language == .sanskrit }
+    private var isDevanagari: Bool { language.isDevanagari }
 
     var body: some View {
         Button {

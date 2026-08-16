@@ -22,7 +22,7 @@ struct BookmarksView: View {
         library.verses.filter { bookmarks.contains($0.id) }
     }
 
-    private var isDevanagari: Bool { settings.language == .sanskrit }
+    private var isDevanagari: Bool { settings.language.isDevanagari }
 
     var body: some View {
         VStack(spacing: 0) {
@@ -38,22 +38,12 @@ struct BookmarksView: View {
     }
 
     private var header: some View {
-        HStack {
-            Text(isDevanagari ? "संगृहीत" : "BOOKMARKS")
-                .font(isDevanagari ? .verseReference : .label)
-                .tracking(isDevanagari ? 0 : 1.2)
-                .foregroundStyle(theme.textSecondary)
-            Spacer()
+        PanelHeader(sanskrit: "संगृहीत", english: "BOOKMARKS", isDevanagari: isDevanagari) {
             if !kept.isEmpty {
                 Text(isDevanagari ? kept.count.devanagariDigits : "\(kept.count)")
                     .font(.label)
                     .foregroundStyle(theme.textSecondary.opacity(0.7))
             }
-        }
-        .padding(.horizontal, 16)
-        .padding(.vertical, 14)
-        .overlay(alignment: .bottom) {
-            Rectangle().fill(theme.divider).frame(height: 1)
         }
     }
 

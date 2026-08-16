@@ -37,4 +37,10 @@ enum ReadingLanguage: String, CaseIterable, Identifiable, Sendable {
         self == .sanskrit ? .english : .sanskrit
     }
 
+    /// Whether this mode is written in Devanagari.
+    ///
+    /// Views ask this constantly — it picks the string, the face and the
+    /// numerals together (see the language rules in `app/CLAUDE.md`). Seven of
+    /// them had defined their own `isDevanagari` before this existed.
+    nonisolated var isDevanagari: Bool { self == .sanskrit }
 }
