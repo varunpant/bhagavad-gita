@@ -76,31 +76,34 @@ struct DrawerContainer<Content: View>: View {
                     }
                 }
 
-            if drawer.panel == .settings {
-                SettingsView(showsChrome: false)
-                    // Starts at the rail's edge and runs to the screen's, so it
-                    // covers the page without ever covering the rail — the rail
-                    // is how it is closed again.
-                    .padding(.leading, railWidth)
-                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+            // One column, to the right of the rail, clipped to itself.
+            //
+            // The panel used to be a full-screen view with leading padding, so
+            // sliding it moved that whole frame — and it swept across the rail
+            // on its way in and out. Clipped to its own column it slides out
+            // from under the rail instead, which is what the eye expects.
+            ZStack {
+                switch drawer.panel {
+                case .settings:
+                    SettingsView(showsChrome: false)
+                        .transition(.move(edge: .leading))
+                case .contents:
+                    TableOfContentsView(
+                        currentVerse: library.verses.first { $0.id == settings.lastVerseID },
+                        onSelect: { drawer.requestedVerseID = $0.id },
+                        onClose: { drawer.panel = nil }
+                    )
                     .transition(.move(edge: .leading))
-                    .zIndex(1)
+                case nil:
+                    Color.clear
+                }
             }
-
-            if drawer.panel == .contents {
-                TableOfContentsView(
-                    currentVerse: library.verses.first { $0.id == settings.lastVerseID },
-                    onSelect: { drawer.requestedVerseID = $0.id },
-                    onClose: { drawer.panel = nil }
-                )
-                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                // Same shape as the settings panel: rail edge to screen edge,
-                // closed by its own rail icon. Two panels that behave alike are
-                // easier to learn than two that each have their own rules.
-                .padding(.leading, railWidth)
-                .transition(.move(edge: .leading))
-                .zIndex(1)
-            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .clipped()
+            .padding(.leading, railWidth)
+            .ignoresSafeArea(edges: .bottom)
+            .allowsHitTesting(drawer.panel != nil)
+            .zIndex(1)
         }
         .animation(reduceMotion ? nil : .snappy(duration: 0.32), value: drawer.isOpen)
         .animation(reduceMotion ? nil : .snappy(duration: 0.30), value: drawer.panel)
