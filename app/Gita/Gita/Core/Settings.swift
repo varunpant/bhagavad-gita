@@ -96,6 +96,10 @@ final class Settings {
         DateComponents(hour: reminderMinutes / 60, minute: reminderMinutes % 60)
     }
 
+    /// Where the reader last was, so opening the app resumes rather than
+    /// restarting. Zero means "never read anything yet".
+    var lastVerseID = 0 { didSet { persist(String(lastVerseID), .lastVerseID) } }
+
     private var store: UserDatabase?
     private var loading = false
 
@@ -109,6 +113,7 @@ final class Settings {
         case theme, language, textSize
         case showTranslation, showMeaning, showWordByWord
         case dailyReminder, reminderMinutes
+        case lastVerseID
     }
 
     init(store: UserDatabase? = nil) {
@@ -153,6 +158,7 @@ final class Settings {
         showWordByWord = values[Key.showWordByWord.rawValue].map { $0 == "1" } ?? false
         dailyReminder = values[Key.dailyReminder.rawValue].map { $0 == "1" } ?? false
         reminderMinutes = values[Key.reminderMinutes.rawValue].flatMap(Int.init) ?? 8 * 60
+        lastVerseID = values[Key.lastVerseID.rawValue].flatMap(Int.init) ?? 0
     }
 
     private func persist(_ value: String, _ key: Key) {

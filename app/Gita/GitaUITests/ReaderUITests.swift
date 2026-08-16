@@ -357,3 +357,36 @@ final class ContentsLanguageUITests: XCTestCase {
         XCTAssertTrue(app.buttons["verseReference"].exists)
     }
 }
+
+/// Reading position survives quitting the app.
+final class ResumeUITests: XCTestCase {
+
+    func testReopensOnTheLastVerseRead() {
+        let app = XCUIApplication()
+        app.launchArguments += ["-resetSettings", "-skipSplash"]
+        app.launch()
+
+        let reference = app.buttons["verseReference"]
+        XCTAssertTrue(reference.waitForExistence(timeout: 10))
+        XCTAssertTrue(reference.label.contains("1.1"), "should start at the beginning")
+
+        for _ in 0 ..< 3 { app.buttons["Next verse"].tap() }
+        let moved = XCTNSPredicateExpectation(
+            predicate: NSPredicate(format: "label CONTAINS %@", "1.4"), object: reference
+        )
+        XCTAssertEqual(XCTWaiter().wait(for: [moved], timeout: 5), .completed,
+                       "did not reach 1.4, showing \(reference.label)")
+
+        // Quit outright — not backgrounded — and come back without resetting.
+        app.terminate()
+        app.launchArguments.removeAll { $0 == "-resetSettings" }
+        app.launch()
+
+        XCTAssertTrue(reference.waitForExistence(timeout: 10))
+        let resumed = XCTNSPredicateExpectation(
+            predicate: NSPredicate(format: "label CONTAINS %@", "1.4"), object: reference
+        )
+        XCTAssertEqual(XCTWaiter().wait(for: [resumed], timeout: 5), .completed,
+                       "did not resume at 1.4, showing \(reference.label)")
+    }
+}

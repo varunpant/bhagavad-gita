@@ -58,7 +58,7 @@ struct ReaderView: View {
             .presentationBackground(theme.background)
         }
         .onChange(of: library.state.isReady, initial: true) { _, isReady in
-            if isReady, currentVerseID == nil { currentVerseID = library.verses.first?.id }
+            if isReady, currentVerseID == nil { currentVerseID = resumeTarget() }
             if isReady { openPendingDeepLink() }
         }
         .onOpenURL { url in
@@ -74,10 +74,17 @@ struct ReaderView: View {
             if library.state.isReady { openPendingDeepLink() }
         }
         .onChange(of: currentVerseID) { previous, current in
-            // Every route to another verse — swipe, chevron, contents — passes
-            // through this one property, so the feedback belongs here rather
-            // than at three call sites that could drift apart.
-            guard previous != nil, current != nil, previous != current else { return }
+            guard let current, previous != current else { return }
+
+            // Saved on every move rather than on backgrounding: an app killed
+            // from the switcher, or crashed, never gets a chance to save later,
+            // and a single integer write is far cheaper than the risk.
+            settings.lastVerseID = current
+
+            // Every route to another verse — swipe, chevron, contents, a widget
+            // link — passes through this one property, so the feedback belongs
+            // here rather than at four call sites that could drift apart.
+            guard previous != nil else { return }
             Haptics.pageTurn()
         }
     }
@@ -237,6 +244,18 @@ struct ReaderView: View {
     private func neighbour(_ direction: Int) -> Verse? {
         guard let currentIndex else { return nil }
         return library.verses[safe: currentIndex + direction]
+    }
+
+    /// Where to open: where the reader left off, or the beginning.
+    ///
+    /// The saved verse is looked up rather than trusted — a content update can
+    /// renumber ids, and resuming into nothing would leave a blank reader.
+    private func resumeTarget() -> Int? {
+        if settings.lastVerseID != 0,
+           let saved = library.verses.first(where: { $0.id == settings.lastVerseID }) {
+            return saved.id
+        }
+        return library.verses.first?.id
     }
 
     private func openPendingDeepLink() {
