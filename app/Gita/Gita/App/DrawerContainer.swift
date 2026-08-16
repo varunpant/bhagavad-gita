@@ -5,30 +5,6 @@
 
 import SwiftUI
 
-/// The shape the page is clipped to.
-///
-/// Rounded at the screen edges while the rail is open, and **bled well past the
-/// top and bottom while closed**. The reader paints its background beyond its
-/// own bounds so it fills the status bar and home-indicator areas; clipping to
-/// those bounds would slice that background off and let the rail's gradient show
-/// through at the top-left and bottom-left corners. Extending the clip past the
-/// screen means the closed state clips nothing at all.
-private struct PageClip: Shape {
-    var radius: CGFloat
-    var bleed: CGFloat
-
-    var animatableData: AnimatablePair<CGFloat, CGFloat> {
-        get { AnimatablePair(radius, bleed) }
-        set { radius = newValue.first; bleed = newValue.second }
-    }
-
-    func path(in rect: CGRect) -> Path {
-        Path(roundedRect: rect.insetBy(dx: 0, dy: -bleed),
-             cornerRadius: radius,
-             style: .continuous)
-    }
-}
-
 /// A permanent left rail that the content slides off to reveal.
 ///
 /// The content is **offset**, never re-laid-out: opening the rail must not
@@ -60,10 +36,13 @@ struct DrawerContainer<Content: View>: View {
 
             rail
 
+            // Offset only — no clip. Clipping the page meant animating how much
+            // of it was cut, and because the page paints past its own bounds to
+            // fill the status bar, that cut travelled visibly across the top as
+            // the rail opened. Nothing is gained by it: a white page on a white
+            // background has no corner to see.
             content
                 .offset(x: drawer.isOpen ? railWidth : 0)
-                .clipShape(PageClip(radius: drawer.isOpen ? 20 : 0,
-                                    bleed: drawer.isOpen ? 0 : 240))
                 // No drop shadow: cast around the whole page it smudged grey
                 // onto the background above and below the rounded corners. The
                 // separation the rail needs is only along the page's left edge,
