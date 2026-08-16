@@ -5,57 +5,90 @@
 
 import SwiftUI
 
-/// Two ways to send a verse to someone: as a link, or as a picture.
+/// One share icon under the verse, opening a small popup with the two ways to
+/// send it: as an app link, or as a picture.
 ///
-/// Sits directly under the shloka, centred, small and low-contrast — near the
-/// thing it acts on, but never competing with it. Shown only when the reader
-/// asks for it in Settings.
+/// A single icon rather than a row of them — the reader knows what a share
+/// glyph does, and the choice between link and image belongs one level in
+/// rather than on the reading page.
 struct ShareBar: View {
     let verse: Verse
     let language: ReadingLanguage
 
     @Environment(\.theme) private var theme
 
-    /// Rendered on demand rather than up front: 701 cards eagerly rendered
-    /// would be an enormous waste for the one or two anybody actually sends.
-    @State private var card: Image?
+    @State private var showingOptions = false
 
     var body: some View {
-        HStack(spacing: 4) {
+        Button {
+            showingOptions = true
+        } label: {
+            Image(systemName: "square.and.arrow.up")
+                .font(.system(size: 16, weight: .light))
+                .foregroundStyle(theme.textSecondary)
+                .frame(width: 44, height: 40)
+                .contentShape(.rect)
+        }
+        .buttonStyle(.plain)
+        .accessibilityIdentifier("shareButton")
+        .accessibilityLabel("Share this verse")
+        .popover(isPresented: $showingOptions) {
+            options
+                // Keeps it a popup on iPhone too — without this, a compact
+                // width promotes a popover to a full sheet, which is far more
+                // ceremony than two choices deserve.
+                .presentationCompactAdaptation(.popover)
+        }
+    }
+
+    private var options: some View {
+        VStack(alignment: .leading, spacing: 0) {
             ShareLink(
                 item: verse.shareURL,
                 subject: Text(verse.shareTitle(for: language)),
                 message: Text(verse.shareText(for: language))
             ) {
-                icon("link")
+                row("link", title: "Link", detail: "Opens this verse in Gita")
             }
             .accessibilityIdentifier("shareLink")
-            .accessibilityLabel("Share a link to this verse")
 
-            if let card {
-                ShareLink(
-                    item: card,
-                    preview: SharePreview(verse.shareTitle(for: language), image: card)
-                ) {
-                    icon("photo")
-                }
-                .accessibilityIdentifier("shareImage")
-                .accessibilityLabel("Share this verse as an image")
+            Divider()
+
+            // A `Transferable` rather than a rendered `Image` held in state:
+            // the row is then never conditional, and the card is drawn only if
+            // the reader actually picks it.
+            ShareLink(
+                item: VerseCard(verse: verse, language: language),
+                preview: SharePreview(verse.shareTitle(for: language))
+            ) {
+                row("photo", title: "Image", detail: "The verse as a picture")
             }
+            .accessibilityIdentifier("shareImage")
         }
         .buttonStyle(.plain)
-        .task(id: verse.id) {
-            // Re-rendered per verse and per language, which `id:` covers by way
-            // of the reader rebuilding the page when the script changes.
-            card = ShareCard.render(verse: verse, language: language)
-        }
+        .frame(width: 250)
+        .padding(.vertical, 4)
     }
 
-    private func icon(_ symbol: String) -> some View {
-        Image(systemName: symbol)
-            .font(.system(size: 15, weight: .light))
-            .foregroundStyle(theme.textSecondary)
-            .frame(width: 44, height: 34)
-            .contentShape(.rect)
+    private func row(_ symbol: String, title: String, detail: String) -> some View {
+        HStack(spacing: 12) {
+            Image(systemName: symbol)
+                .font(.system(size: 15, weight: .light))
+                .foregroundStyle(theme.accent)
+                .frame(width: 22)
+
+            VStack(alignment: .leading, spacing: 1) {
+                Text(title)
+                    .font(.glossLatin)
+                    .foregroundStyle(theme.textPrimary)
+                Text(detail)
+                    .font(.label)
+                    .foregroundStyle(theme.textSecondary)
+            }
+            Spacer(minLength: 0)
+        }
+        .padding(.horizontal, 16)
+        .padding(.vertical, 10)
+        .contentShape(.rect)
     }
 }

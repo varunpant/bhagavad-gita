@@ -143,12 +143,13 @@ final class SettingsUITests: XCTestCase {
         XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
     }
 
+    /// Settings is a panel beside the rail now, not a sheet: there is no Done
+    /// button, and its rail icon becomes the close control while it is up.
     private func openSettings() {
         app.buttons["menuButton"].tap()
         app.buttons["Settings"].tap()
-        // The title is a themed toolbar item rather than a navigationTitle, so
-        // the sheet is identified by its Done button.
-        XCTAssertTrue(app.buttons["Done"].waitForExistence(timeout: 5), "settings did not open")
+        XCTAssertTrue(app.switches["toggleTranslation"].waitForExistence(timeout: 5),
+                      "settings did not open")
     }
 
     /// A SwiftUI `Form` is lazy: rows below the fold are not in the accessibility
@@ -173,7 +174,8 @@ final class SettingsUITests: XCTestCase {
     }
 
     private func closeSettings() {
-        app.buttons["Done"].tap()
+        app.buttons["Close settings"].tap()
+        app.buttons["Close menu"].firstMatch.tap()
         XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 5))
     }
 

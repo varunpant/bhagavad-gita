@@ -379,15 +379,6 @@ private struct ShlokaPage: View {
             VStack(spacing: 30) {
                 shloka
 
-                // Directly under the shloka rather than at the foot of the
-                // page: it acts on the verse, so it belongs beside it — and
-                // below the commentary it would be a long scroll away from the
-                // thing it shares.
-                if settings.showShareBar {
-                    ShareBar(verse: verse, language: language)
-                        .padding(.top, -14)
-                }
-
                 if settings.showTranslation, let translation = verse.translation(for: language) {
                     section(isDevanagari ? "अनुवाद" : "TRANSLATION", body: translation)
                 }
@@ -402,6 +393,15 @@ private struct ShlokaPage: View {
 
                 if !verse.isEnriched, showsAnythingBelowTheShloka {
                     notYetEnriched
+                }
+
+                // Last, under everything the reader has turned on. Sharing is
+                // what you do once you have finished with a verse, so the bar
+                // sits at the end of it rather than interrupting between the
+                // shloka and its translation.
+                if settings.showShareBar {
+                    ShareBar(verse: verse, language: language)
+                        .padding(.top, 4)
                 }
             }
             // A comfortable measure, centred — the text column never stretches

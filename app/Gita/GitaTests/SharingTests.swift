@@ -18,17 +18,22 @@ struct SharingTests {
         return try #require(verses.first { $0.chapter == chapter && $0.sutra == sutra })
     }
 
-    @Test func theLinkMatchesTheWebsitesUrlShape() throws {
+    /// The same scheme the widgets deep-link with, so a shared verse opens
+    /// straight to it. ReaderView's onOpenURL parses exactly this shape.
+    @Test func theLinkIsTheAppsOwnDeepLink() throws {
         let verse = try verse(2, 47)
-        #expect(verse.shareURL.absoluteString == "https://bhagwadgita.info/chapter-2/sutra-47/")
+        #expect(verse.shareURL.absoluteString == "gita://verse/2/47")
     }
 
-    @Test func everyVerseProducesAValidLink() throws {
+    @Test func everyVerseProducesALinkTheAppCanOpen() throws {
         let verses = try #require(try? ContentDatabase().allVerses())
         for verse in verses {
             let url = verse.shareURL
-            #expect(url.scheme == "https")
-            #expect(url.path.contains("chapter-\(verse.chapter)"))
+            #expect(url.scheme == "gita")
+            #expect(url.host == "verse")
+            // What onOpenURL splits on.
+            let parts = url.pathComponents.filter { $0 != "/" }
+            #expect(parts == [String(verse.chapter), String(verse.sutra)])
         }
     }
 
@@ -42,15 +47,24 @@ struct SharingTests {
     /// it twice into anything that pastes both.
     @Test func theShareTextDoesNotRepeatTheLink() throws {
         let text = try verse(2, 47).shareText(for: .english)
-        #expect(!text.contains("bhagwadgita.info"))
+        #expect(!text.contains("gita://"))
         #expect(text.contains("Bhagavad Gita 2.47"))
     }
 
     @MainActor
     @Test func theCardRendersInBothLanguages() throws {
         let verse = try verse(2, 47)
-        #expect(ShareCard.render(verse: verse, language: .sanskrit) != nil)
-        #expect(ShareCard.render(verse: verse, language: .english) != nil)
+        #expect(ShareCard.png(verse: verse, language: .sanskrit) != nil)
+        #expect(ShareCard.png(verse: verse, language: .english) != nil)
+    }
+
+    /// Real PNG bytes, not an empty file — the exporter hands these straight to
+    /// the share sheet, and a zero-byte attachment fails silently there.
+    @MainActor
+    @Test func theCardIsARealPng() throws {
+        let data = try #require(ShareCard.png(verse: try verse(2, 47), language: .sanskrit))
+        #expect(data.count > 10_000)
+        #expect(Array(data.prefix(4)) == [0x89, 0x50, 0x4E, 0x47])   // PNG magic
     }
 
     /// An unenriched verse has no translation. The card must still render,
@@ -59,7 +73,7 @@ struct SharingTests {
     @Test func theCardRendersWithoutATranslation() throws {
         let verses = try #require(try? ContentDatabase().allVerses())
         guard let bare = verses.first(where: { $0.englishTranslation == nil }) else { return }
-        #expect(ShareCard.render(verse: bare, language: .english) != nil)
+        #expect(ShareCard.png(verse: bare, language: .english) != nil)
     }
 }
 
@@ -67,10 +81,13 @@ struct SharingTests {
 import AppKit
 #endif
 
-#if DEBUG
+#if DEBUG && os(macOS)
 /// Writes a sample card into the test process's own temporary directory, which
 /// the sandbox permits, and logs where it went. Not an assertion — it exists so
 /// the card can be eyeballed after a design change.
+///
+/// macOS only: it goes through `NSBitmapImageRep` to get a PNG, which does not
+/// exist on iOS, and building the iOS test bundle failed on it.
 struct ShareCardSampleTests {
     @MainActor
     @Test func writeSampleCards() throws {
@@ -78,12 +95,7 @@ struct ShareCardSampleTests {
         let verse = try #require(verses.first { $0.chapter == 2 && $0.sutra == 47 })
 
         for language in [ReadingLanguage.sanskrit, .english] {
-            let renderer = ImageRenderer(content: ShareCard(verse: verse, language: language))
-            renderer.scale = 1
-            guard let image = renderer.nsImage,
-                  let tiff = image.tiffRepresentation,
-                  let bitmap = NSBitmapImageRep(data: tiff),
-                  let png = bitmap.representation(using: .png, properties: [:]) else { continue }
+            guard let png = ShareCard.png(verse: verse, language: language) else { continue }
 
             let url = FileManager.default.temporaryDirectory
                 .appendingPathComponent("card-\(language.rawValue).png")

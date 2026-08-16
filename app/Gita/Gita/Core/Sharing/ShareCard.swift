@@ -4,6 +4,13 @@
 //
 
 import SwiftUI
+import UniformTypeIdentifiers
+
+#if canImport(UIKit)
+import UIKit
+#elseif canImport(AppKit)
+import AppKit
+#endif
 
 /// The verse as a square image, for sending to someone.
 ///
@@ -63,11 +70,6 @@ struct ShareCard: View {
             Text(reference)
                 .font(.custom(isDevanagari ? "KohinoorDevanagari-Medium" : "Georgia", size: 30))
                 .foregroundStyle(.black.opacity(0.75))
-
-            Text(verbatim: "bhagwadgita.info")
-                .font(.system(size: 22, weight: .light))
-                .tracking(1.5)
-                .foregroundStyle(.black.opacity(0.35))
         }
         .padding(.bottom, 76)
     }
@@ -79,21 +81,56 @@ struct ShareCard: View {
     }
 }
 
-// MARK: - Rendering
+// MARK: - Transferable
 
-extension ShareCard {
-    /// Renders the card to an `Image` ready for `ShareLink`.
-    ///
-    /// `@MainActor` because `ImageRenderer` is: it walks a SwiftUI view tree.
-    /// It is fast enough at this size to run inline — a few milliseconds — so
-    /// there is no loading state, unlike RigVeda's "Generating image…".
-    @MainActor
-    static func render(verse: Verse, language: ReadingLanguage) -> Image? {
-        let renderer = ImageRenderer(content: ShareCard(verse: verse, language: language))
-        renderer.scale = 1     // the view is already sized in final pixels
+/// The verse as a shareable PNG, rendered at the moment something asks for it.
+///
+/// This exists because `ShareLink` needs its item up front, while the card is
+/// expensive enough that rendering all 701 eagerly would be absurd. An earlier
+/// attempt kept an optional `Image` in view state and showed the image row only
+/// once it was filled — but the popover's content is built as it is presented,
+/// and never saw the value arrive, so the row simply never appeared.
+///
+/// As a `Transferable` the problem disappears: the item is always available,
+/// and the work happens inside the exporter, which the share sheet calls only
+/// if the reader actually picks the image.
+nonisolated struct VerseCard: Transferable {
+    let verse: Verse
+    let language: ReadingLanguage
 
-        guard let cgImage = renderer.cgImage else { return nil }
-        return Image(decorative: cgImage, scale: 1)
+    static var transferRepresentation: some TransferRepresentation {
+        DataRepresentation(exportedContentType: .png) { card in
+            // `ImageRenderer` walks a SwiftUI view tree, so it is main-actor
+            // work even though the export itself is not.
+            try await MainActor.run {
+                guard let data = ShareCard.png(verse: card.verse, language: card.language) else {
+                    throw CocoaError(.fileWriteUnknown)
+                }
+                return data
+            }
+        }
+        .suggestedFileName { card in
+            "gita-\(card.verse.chapter)-\(card.verse.sutra).png"
+        }
     }
 }
 
+extension ShareCard {
+    /// PNG bytes for the card, or nil if rendering fails.
+    @MainActor
+    static func png(verse: Verse, language: ReadingLanguage) -> Data? {
+        let renderer = ImageRenderer(content: ShareCard(verse: verse, language: language))
+        renderer.scale = 1
+
+        #if canImport(UIKit)
+        return renderer.uiImage?.pngData()
+        #elseif canImport(AppKit)
+        guard let image = renderer.nsImage,
+              let tiff = image.tiffRepresentation,
+              let bitmap = NSBitmapImageRep(data: tiff) else { return nil }
+        return bitmap.representation(using: .png, properties: [:])
+        #else
+        return nil
+        #endif
+    }
+}

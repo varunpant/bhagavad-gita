@@ -7,15 +7,11 @@ import Foundation
 
 nonisolated extension Verse {
 
-    /// The verse on bhagwadgita.info, matching the Hugo site's URL shape
-    /// (`content/chapter-N/sutra-M.md` publishes to `/chapter-N/sutra-M/`).
-    ///
-    /// A web link rather than the `gita://verse/2/47` deep link: what gets
-    /// shared usually lands with someone who does not have the app, and a
-    /// custom scheme opens nothing for them. The site carries the same text and
-    /// its own share card, so the link previews properly wherever it is pasted.
+    /// The app link for this verse — the same `gita://verse/<chapter>/<sutra>`
+    /// scheme the widgets already deep-link with, so a shared verse opens
+    /// straight to it for anyone with the app.
     var shareURL: URL {
-        URL(string: "https://bhagwadgita.info/chapter-\(chapter)/sutra-\(sutra)/")!
+        URL(string: "gita://verse/\(chapter)/\(sutra)")!
     }
 
     func shareTitle(for language: ReadingLanguage) -> String {
@@ -24,9 +20,9 @@ nonisolated extension Verse {
             : "Bhagavad Gita \(chapter).\(sutra)"
     }
 
-    /// The verse itself, then its translation. Deliberately without the link —
-    /// `ShareLink` carries the URL as the item, and repeating it in the message
-    /// puts it twice into anything that pastes both.
+    /// The verse itself, then its translation, then the reference. `ShareLink`
+    /// carries the URL as the item, so it is not repeated here — that would put
+    /// it twice into anything that pastes both.
     func shareText(for language: ReadingLanguage) -> String {
         var parts = [displayLines(for: language).joined(separator: "\n")]
         if let translation = translation(for: language), !translation.isEmpty {
