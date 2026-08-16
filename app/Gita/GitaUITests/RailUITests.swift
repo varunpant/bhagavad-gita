@@ -7,11 +7,12 @@ import XCTest
 
 /// The rail's icons must open their panels, not just close the rail — which is
 /// what the old sheet-based wiring did.
+@MainActor
 final class RailUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         app = XCUIApplication()
         app.launchArguments += ["-resetSettings", "-skipSplash"]
@@ -80,11 +81,12 @@ final class RailUITests: XCTestCase {
 }
 
 /// Keeping a verse, seeing that it is kept, and finding it again.
+@MainActor
 final class BookmarkUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         app = XCUIApplication()
         app.launchArguments += ["-resetSettings", "-skipSplash"]

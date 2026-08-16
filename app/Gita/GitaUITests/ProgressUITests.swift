@@ -7,11 +7,12 @@ import Foundation
 import XCTest
 
 /// The progress panel: reached from the rail, and a way back into the book.
+@MainActor
 final class ProgressUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         #if os(iOS)
         XCUIDevice.shared.orientation = .portrait

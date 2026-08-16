@@ -7,11 +7,12 @@ import Foundation
 import XCTest
 
 /// The share control under each verse.
+@MainActor
 final class ShareUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         #if os(iOS)
         XCUIDevice.shared.orientation = .portrait

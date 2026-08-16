@@ -7,9 +7,10 @@
 
 import XCTest
 
+@MainActor
 final class GitaUITests: XCTestCase {
 
-    override func setUpWithError() throws {
+    override func setUp() async throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
 
         // In UI tests it is usually best to stop immediately when a failure occurs.

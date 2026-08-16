@@ -8,11 +8,12 @@ import XCTest
 
 /// The reader shows exactly one shloka at a time; these check that moving
 /// between them actually works on device, not just that the view compiles.
+@MainActor
 final class ReaderUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         app = XCUIApplication()
         // -resetSettings matters here as much as anywhere: the reader now
@@ -79,6 +80,7 @@ final class ReaderUITests: XCTestCase {
 }
 
 /// The language toggle flips the scripture and the word meanings together.
+@MainActor
 final class LanguageToggleUITests: XCTestCase {
 
     private func launch(english: Bool = false) -> XCUIApplication {
@@ -128,11 +130,12 @@ final class LanguageToggleUITests: XCTestCase {
 }
 
 /// Settings drives what the reader draws, and each block switches independently.
+@MainActor
 final class SettingsUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         #if os(iOS)
         XCUIDevice.shared.orientation = .portrait
@@ -237,11 +240,12 @@ final class SettingsUITests: XCTestCase {
 
 /// The contents sheet: reachable from the verse reference, searchable behind an
 /// icon rather than a permanent field, and able to jump the reader anywhere.
+@MainActor
 final class ContentsUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         #if os(iOS)
         XCUIDevice.shared.orientation = .portrait
@@ -291,11 +295,12 @@ final class ContentsUITests: XCTestCase {
 
 /// The contents has its own language switch, seeded from the reader's but not
 /// tied to it.
+@MainActor
 final class ContentsLanguageUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         #if os(iOS)
         XCUIDevice.shared.orientation = .portrait
@@ -361,6 +366,7 @@ final class ContentsLanguageUITests: XCTestCase {
 }
 
 /// Reading position survives quitting the app.
+@MainActor
 final class ResumeUITests: XCTestCase {
 
     func testReopensOnTheLastVerseRead() {
@@ -395,11 +401,12 @@ final class ResumeUITests: XCTestCase {
 
 /// Immersive reading: the verse gets the whole screen, and the controls come
 /// back only when asked for.
+@MainActor
 final class ImmersiveUITests: XCTestCase {
 
     private var app: XCUIApplication!
 
-    override func setUp() {
+    override func setUp() async throws {
         continueAfterFailure = false
         #if os(iOS)
         XCUIDevice.shared.orientation = .portrait
