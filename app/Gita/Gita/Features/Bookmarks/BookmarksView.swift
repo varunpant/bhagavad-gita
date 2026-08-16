@@ -62,8 +62,10 @@ struct BookmarksView: View {
             Image(systemName: "bookmark")
                 .font(.title3)
                 .foregroundStyle(theme.textSecondary.opacity(0.6))
-            Text("Tap the bookmark beside a verse number to keep it")
-                .font(.label)
+            Text(isDevanagari
+                 ? "श्लोक संख्या के पास बुकमार्क दबाकर उसे सहेजें"
+                 : "Tap the bookmark beside a verse number to keep it")
+                .font(isDevanagari ? .glossDevanagari : .label)
                 .foregroundStyle(theme.textSecondary)
                 .multilineTextAlignment(.center)
         }
@@ -99,7 +101,7 @@ struct BookmarksView: View {
                             bookmarks.toggle(verse.id)
                             Haptics.selection()
                         } label: {
-                            Label("Remove", systemImage: "bookmark.slash")
+                            Label(isDevanagari ? "हटाएँ" : "Remove", systemImage: "bookmark.slash")
                         }
                     }
 

@@ -19,6 +19,8 @@ struct ShareBar: View {
 
     @State private var showingOptions = false
 
+    private var isDevanagari: Bool { language == .sanskrit }
+
     var body: some View {
         Button {
             showingOptions = true
@@ -48,7 +50,11 @@ struct ShareBar: View {
                 subject: Text(verse.shareTitle(for: language)),
                 message: Text(verse.shareText(for: language))
             ) {
-                row("link", title: "Link", detail: "Opens this verse in Gita")
+                row(
+                    "link",
+                    title: isDevanagari ? "कड़ी" : "Link",
+                    detail: isDevanagari ? "यह श्लोक गीता में खोलती है" : "Opens this verse in Gita"
+                )
             }
             .accessibilityIdentifier("shareLink")
 
@@ -61,7 +67,11 @@ struct ShareBar: View {
                 item: VerseCard(verse: verse, language: language),
                 preview: SharePreview(verse.shareTitle(for: language))
             ) {
-                row("photo", title: "Image", detail: "The verse as a picture")
+                row(
+                    "photo",
+                    title: isDevanagari ? "चित्र" : "Image",
+                    detail: isDevanagari ? "श्लोक चित्र के रूप में" : "The verse as a picture"
+                )
             }
             .accessibilityIdentifier("shareImage")
         }
@@ -79,7 +89,7 @@ struct ShareBar: View {
 
             VStack(alignment: .leading, spacing: 1) {
                 Text(title)
-                    .font(.glossLatin)
+                    .font(isDevanagari ? .glossDevanagari : .glossLatin)
                     .foregroundStyle(theme.textPrimary)
                 Text(detail)
                     .font(.label)

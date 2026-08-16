@@ -220,6 +220,51 @@ Copy `Constants.swift` and `Logger+Extensions.swift` wholesale in spirit — a
 namespaced `enum Constants` for app/DB/UI values and per-category `Logger`s
 (`Logger.ui`, `Logger.database`) instead of `print`.
 
+## Language consistency
+
+`settings.language` is not a translation toggle for the scripture alone — it is
+the language the **reading surface** is in. Anything the reader meets while
+reading follows it, all the way down: headings, captions, empty states, menus,
+popups, sheet titles, confirmation dialogs, button labels and numerals.
+
+The standard shape, used everywhere:
+
+```swift
+private var isDevanagari: Bool { settings.language == .sanskrit }
+…
+Text(isDevanagari ? "चित्र" : "Image")
+    .font(isDevanagari ? .glossDevanagari : .glossLatin)
+```
+
+Three things that are easy to half-do:
+
+- **The font has to switch with the string.** Devanagari set in Georgia is
+  wrong even when the characters are right; every place that picks a string by
+  language must pick the face too.
+- **Numerals count as language.** `1/47` in a Devanagari row is the same jar as
+  an English subtitle under a Sanskrit heading — use `Int.devanagariDigits`.
+  This applies to counts and references as much as to the verse.
+- **Submenus and popups are part of the surface.** A share popup, a
+  confirmation dialog or a swipe action reached from a Devanagari screen must
+  not answer in English. This is the one that keeps getting missed, because
+  those strings are written later and in a different file from the screen that
+  opens them.
+
+Three deliberate exceptions:
+
+- **Settings is in English throughout** — it is configuration, not reading, and
+  it was asked for that way.
+- **VoiceOver labels for *controls* stay English** ("Close contents", "Search
+  verses"), which is what the whole app already does. Devanagari that VoiceOver
+  must pronounce is *content*, and it carries its language on the string via
+  `AttributedString.languageIdentifier` — see Accessibility below. Do not
+  translate control labels to match the reading language; that is a different
+  axis from the one this section is about.
+- **The share card is bilingual by construction**: it renders in whichever
+  language the reader is in, and carries no interface text at all.
+
+When adding a screen, grep it for a bare string literal before calling it done.
+
 ## Accessibility (§14)
 
 Written as you go, not as a final pass:
