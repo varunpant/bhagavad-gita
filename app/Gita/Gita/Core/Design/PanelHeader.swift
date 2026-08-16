@@ -16,6 +16,10 @@ import SwiftUI
 /// The title takes both languages rather than a resolved string, so the font
 /// and the tracking can never disagree with the script — see the language
 /// rules in `app/CLAUDE.md`.
+///
+/// Lives in `Core/Design` beside `ProgressBar` rather than in a folder of its
+/// own: both are shared by more than one feature, and both are design rules
+/// made concrete rather than anything a feature owns.
 struct PanelHeader<Trailing: View>: View {
     let sanskrit: String
     let english: String
