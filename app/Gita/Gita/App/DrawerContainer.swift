@@ -5,6 +5,30 @@
 
 import SwiftUI
 
+/// The shape the page is clipped to.
+///
+/// Rounded at the screen edges while the rail is open, and **bled well past the
+/// top and bottom while closed**. The reader paints its background beyond its
+/// own bounds so it fills the status bar and home-indicator areas; clipping to
+/// those bounds would slice that background off and let the rail's gradient show
+/// through at the top-left and bottom-left corners. Extending the clip past the
+/// screen means the closed state clips nothing at all.
+private struct PageClip: Shape {
+    var radius: CGFloat
+    var bleed: CGFloat
+
+    var animatableData: AnimatablePair<CGFloat, CGFloat> {
+        get { AnimatablePair(radius, bleed) }
+        set { radius = newValue.first; bleed = newValue.second }
+    }
+
+    func path(in rect: CGRect) -> Path {
+        Path(roundedRect: rect.insetBy(dx: 0, dy: -bleed),
+             cornerRadius: radius,
+             style: .continuous)
+    }
+}
+
 /// A permanent left rail that the content slides off to reveal.
 ///
 /// The content is **offset**, never re-laid-out: opening the rail must not
@@ -27,11 +51,17 @@ struct DrawerContainer<Content: View>: View {
 
     var body: some View {
         ZStack(alignment: .leading) {
+            // Behind everything, so the rounded corners of the open page reveal
+            // the brand ground rather than the bare window — which showed as
+            // grey rectangles above and below the page.
+            Brand.gradient.ignoresSafeArea()
+
             rail
 
             content
                 .offset(x: drawer.isOpen ? railWidth : 0)
-                .clipShape(RoundedRectangle(cornerRadius: drawer.isOpen ? 20 : 0, style: .continuous))
+                .clipShape(PageClip(radius: drawer.isOpen ? 20 : 0,
+                                    bleed: drawer.isOpen ? 0 : 240))
                 .shadow(color: .black.opacity(drawer.isOpen ? 0.18 : 0), radius: 18, x: -6)
                 // While the rail is open the page is a dismiss target, not a
                 // reader: a stray tap should close, never turn a page.

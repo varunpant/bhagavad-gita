@@ -15,9 +15,10 @@ struct RootView: View {
 
     @State private var showingSplash = !ProcessInfo.processInfo.arguments.contains("-skipSplash")
 
-    /// Long enough to register as a title page rather than a flash, short enough
-    /// not to be in the way. The corpus usually loads well inside this.
-    private let minimumDuration = Duration.milliseconds(750)
+    /// Long enough for the ground to finish resolving from soft to sharp — the
+    /// splash animation is two seconds, and cutting away mid-focus would look
+    /// like a glitch rather than a transition.
+    private let minimumDuration = Duration.milliseconds(2_050)
     /// Never hold the reader back if loading stalls — the reader shows its own
     /// state for that.
     private let patience = Duration.seconds(3)
