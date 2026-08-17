@@ -74,8 +74,19 @@ struct ReaderView: View {
         // enough to have been read rather than swiped past.
         .tracksReading(of: currentVerseID)
         .onOpenURL { url in
+            guard url.scheme == "gita" else { return }
+
+            // gita://progress — the progress widget's own tap target. It opens
+            // the panel the widget is a summary of, rather than dropping the
+            // reader somewhere unrelated to what they tapped.
+            if url.host == "progress" {
+                drawer.open()
+                drawer.panel = .progress
+                return
+            }
+
             // gita://verse/2/47 — from a widget, and later from Shortcuts.
-            guard url.scheme == "gita", url.host == "verse" else { return }
+            guard url.host == "verse" else { return }
             let parts = url.pathComponents.filter { $0 != "/" }
             guard parts.count == 2,
                   let chapter = Int(parts[0]), let sutra = Int(parts[1]) else { return }
@@ -375,6 +386,19 @@ private struct ShlokaPage: View {
     private var isDevanagari: Bool { language.isDevanagari }
 
     var body: some View {
+        // The height is needed to know whether the page even fills the screen,
+        // and there is no way to ask for "at least the container" without it.
+        // The usual objection to `GeometryReader` does not apply here: this page
+        // is one verse in a plain `VStack`, not a lazy list whose laziness it
+        // would defeat.
+        GeometryReader { geometry in
+            page(minHeight: geometry.size.height)
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .accessibilityElement(children: .contain)
+    }
+
+    private func page(minHeight: CGFloat) -> some View {
         ScrollView(.vertical) {
             VStack(spacing: 30) {
                 shloka
@@ -410,10 +434,19 @@ private struct ShlokaPage: View {
             .frame(maxWidth: .infinity)
             .padding(.horizontal, 32)
             .padding(.vertical, 36)
+            // Immersive reading only. With most sections turned off — the
+            // shloka and its meaning, say — a page is far shorter than the
+            // screen, and top-aligned it left the verse under the chrome with
+            // the rest of the screen empty. Centring it is what immersive is
+            // for; in ordinary reading the page keeps its top edge, where the
+            // header, the rail and the footer expect it.
+            //
+            // `minHeight`, not `height`: a page longer than the screen grows
+            // past it and scrolls as it always did.
+            .frame(minHeight: settings.immersiveReading ? minHeight : 0,
+                   alignment: .center)
         }
         .scrollIndicators(.hidden)
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .accessibilityElement(children: .contain)
     }
 
     // MARK: - Blocks

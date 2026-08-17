@@ -137,12 +137,6 @@ struct DrawerContainer<Content: View>: View {
 
     private var rail: some View {
         VStack(spacing: 0) {
-            // Sits on the same centre line as the reader's menu glyph: the
-            // header pads 10pt and centres a 32pt button, putting its middle
-            // 26pt below the safe area, which is exactly the middle of this
-            // 52pt button with no padding above it.
-            panelButton(.settings)
-
             Spacer()
 
             panelButton(.contents)
@@ -174,6 +168,20 @@ struct DrawerContainer<Content: View>: View {
             .accessibilityLabel("Switch to \(settings.language.toggled.accessibilityName)")
 
             Spacer()
+
+            // Settings sits at the foot rather than at the head. At the top it
+            // was level with the status bar and the reader's own header, which
+            // is the hardest place on the rail to see and the furthest from a
+            // thumb; down here it is next to the only other control that is
+            // about the app rather than about the book.
+            panelButton(.settings)
+
+            // A hairline between the two, so the gear reads as the last of the
+            // controls rather than as part of the mark below it.
+            Rectangle()
+                .fill(.white.opacity(0.28))
+                .frame(width: 22, height: 1)
+                .padding(.vertical, 6)
 
             // The mark closes the rail: the bottom of the rail is where a thumb
             // rests, and it needs something to do.
