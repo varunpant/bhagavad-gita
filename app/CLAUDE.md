@@ -263,7 +263,48 @@ Three deliberate exceptions:
 - **The share card is bilingual by construction**: it renders in whichever
   language the reader is in, and carries no interface text at all.
 
+Two rules keep a language switch from moving the furniture, both learned from
+panels that jumped when it did:
+
+- **Captions come in a pair, `.labelDevanagari` / `.label`.** They were written
+  `isDevanagari ? .glossDevanagari : .label` — 16pt scaled from `.body` against
+  12pt scaled from `.caption`. Close enough at Large, far apart above it, because
+  the two Dynamic Type anchors grow at different rates. Never pair roles across
+  anchors.
+- **Anything whose length changes with the script reserves its space.**
+  `.lineLimit(2, reservesSpace: true)` on chapter names, `3` on badge titles: a
+  Devanagari chapter name is one compound where its English form is a phrase, so
+  without this every row changes height on a switch and the list slides under the
+  reader.
+
+There is exactly **one** language switcher, in the rail. The contents panel used
+to carry a second one with a local copy of the language, which browsing changed
+and closing threw away; two controls for one setting is one too many, and the
+panel is part of the reading surface like everything else.
+
 When adding a screen, grep it for a bare string literal before calling it done.
+
+## Read verses
+
+Reading marks itself: `.tracksReading` records the verse in front of the reader
+once it has been there long enough to have been read rather than swiped past.
+That has always been stored — `verseReads` in `user.sqlite`, keyed by verse and
+kept forever — and Reset in the Progress panel is the only thing that clears it,
+along with days and badges.
+
+What the contents panel adds is showing it. A read verse wears a light grey
+disc; the chapter row carries a grey `read/total`, or a tick once the chapter is
+finished, and nothing at all until something in it has been read. Grey rather
+than the accent, which is monochrome in every theme but Sepia — a coloured
+marker would be the only colour on the panel.
+
+A verse can also be marked by hand, from the chip's context menu, for reading
+done away from the app. There is deliberately **no** "mark as unread": progress
+is never revoked one verse at a time, the same rule badges follow.
+
+`TableOfContentsView` takes **one** `ProgressSnapshot` per render and threads it
+down. `ReadingProgress.snapshot` walks every read verse to bucket it by chapter;
+asking for it per row made eighteen passes to draw one list.
 
 ## Accessibility (§14)
 
@@ -342,10 +383,41 @@ Two constraints that shaped the target:
   a resource.** `Info.plist` and `.entitlements` files live beside those folders,
   not in them, or the build fails with "multiple commands produce Info.plist".
 
-Deep links are `gita://verse/<chapter>/<sutra>`. The scheme needs
-`CFBundleURLTypes`, which has no `INFOPLIST_KEY` equivalent, so the app supplies
-`Gita-Info.plist`. A cold launch from a widget arrives before the corpus is in
-memory, so the request is held and applied once it loads.
+Deep links are `gita://verse/<chapter>/<sutra>` and `gita://progress`. The scheme
+needs `CFBundleURLTypes`, which has no `INFOPLIST_KEY` equivalent, so the app
+supplies `Gita-Info.plist`. A cold launch from a widget arrives before the corpus
+is in memory, so the request is held and applied once it loads.
+
+There are two widgets, and two shared files behind them:
+
+| Widget | Families | Reads |
+| --- | --- | --- |
+| `DailyVerseWidget` | small, medium, `accessoryRectangular` | `widget-verses.json` |
+| `ProgressWidget` | small, medium, large, `accessoryCircular` | `widget-progress.json` |
+
+`SharedProgress` is the second file, and it differs from the corpus in kind: the
+corpus is written once and is never wrong, while progress is a number that
+changes. So `WidgetProgressPublisher` — attached once, at the root — rewrites it
+whenever the count, the language or the theme moves, and asks WidgetKit to
+reload. `write` skips an unchanged payload, which is why it can be called on
+every verse read.
+
+Two things it carries that are not progress at all:
+
+- **The theme.** A widget cannot read the app's `Theme` setting, so the app
+  shares its raw value and `Theme.forWidget` resolves it, falling back to the
+  system appearance for "System". `Theme.swift` and `Brand.swift` are compiled
+  into the extension rather than copied, so the widgets are the same four themes
+  and the same saffron ramp as the app.
+- **The reading language.** Widget numerals and labels follow it, exactly as the
+  rest of the reading surface does — which is why `Int.devanagariDigits` had to
+  move out of `Chapter.swift` (that file imports GRDB) into
+  `Core/Utilities/Int+Digits.swift`.
+
+`SharedProgress` names days `yyyy-MM-dd` itself rather than compiling `Streak`.
+That copy is deliberate and `SharedProgressTests` pins the two formats together:
+if they drifted, the widget's chart would silently zero while the app's streak
+kept working — a bug with no symptom on the side anyone is looking at.
 
 ## Build and verify
 
