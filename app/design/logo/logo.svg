@@ -3,9 +3,10 @@
      viewBox="0 0 1024 1024">
   <defs>
     <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0.00" stop-color="#FFC93C"/>
-      <stop offset="0.50" stop-color="#FF7A18"/>
-      <stop offset="1.00" stop-color="#FF2D78"/>
+      <stop offset="0.00" stop-color="#FFD24A"/>
+      <stop offset="0.33" stop-color="#FFA21C"/>
+      <stop offset="0.67" stop-color="#FF6F17"/>
+      <stop offset="1.00" stop-color="#E8451E"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.32" cy="0.26" r="0.78">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.25"/>

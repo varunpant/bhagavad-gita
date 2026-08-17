@@ -30,14 +30,16 @@ ICONSET = ROOT / "app" / "Gita" / "Gita" / "Assets.xcassets" / "AppIcon.appicons
 LETTER = "ग"
 SIZE = 1024
 
-# The brand ramp — yellow through orange to bright pink. The same three values
-# live in app/.../Core/Design/Brand.swift, which paints the splash and the rail;
-# change them together.
-GROUND_LIGHT = ((0xFF, 0xC9, 0x3C), (0xFF, 0x7A, 0x18), (0xFF, 0x2D, 0x78))
-GROUND_DARK = ((0x7A, 0x53, 0x0E), (0x7A, 0x33, 0x08), (0x7A, 0x11, 0x37))
+# The brand ramp — yellow through orange to deep vermillion. The ground stays in
+# the yellow/orange family end to end; the only pink left is inside the mark, in
+# the shadow under the letter. The same values live in
+# app/.../Core/Design/Brand.swift, which paints the splash and the rail; change
+# them together.
+GROUND_LIGHT = ((0xFF, 0xD2, 0x4A), (0xFF, 0xA2, 0x1C), (0xFF, 0x6F, 0x17), (0xE8, 0x45, 0x1E))
+GROUND_DARK = ((0x7A, 0x55, 0x12), (0x7A, 0x3E, 0x0A), (0x74, 0x2C, 0x08), (0x6B, 0x1F, 0x0B))
 
-# White, not vermillion: against a ground this bright — and pink at one end —
-# only white holds its contrast the whole way down.
+# White, not vermillion: against a ground this bright, only white holds its
+# contrast the whole way down.
 INK = (0xFF, 0xFF, 0xFF)
 
 # Devanagari faces, best first.
