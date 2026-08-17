@@ -143,13 +143,19 @@ struct SearchOverlay: View {
         guard !Task.isCancelled else { return }
 
         let literal = (try? await Library.search(trimmed)) ?? []
-        hits = literal
+        // Checked *before* the assignment, not after: a superseded query whose
+        // FTS call happened to finish last would otherwise overwrite the newer
+        // results and leave the reader looking at hits for something they have
+        // already typed past.
         guard !Task.isCancelled else { return }
+        hits = literal
 
         let seen = Set(literal.map(\.verse.id))
+        let semantic = await semanticIndex.search(trimmed)
+        guard !Task.isCancelled else { return }
         // Library keeps the id index; building a second 701-entry dictionary
         // per keystroke to resolve at most twenty results was pure waste.
-        related = await semanticIndex.search(trimmed)
+        related = semantic
             .filter { !seen.contains($0) }
             .compactMap { id in
                 library.verse(id: id).map { SearchHit(verse: $0, snippet: $0.englishTranslation ?? $0.sanskrit) }

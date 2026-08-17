@@ -90,7 +90,11 @@ struct BookmarksView: View {
                     }
                     .buttonStyle(.plain)
                     .accessibilityIdentifier("bookmark-\(verse.reference)")
-                    .swipeActions(edge: .trailing) {
+                    // A context menu, not `.swipeActions`: swipe actions only
+                    // exist inside a `List`, and this panel is a `LazyVStack`
+                    // — the modifier compiled and did nothing at all, leaving
+                    // the panel with no way to remove anything.
+                    .contextMenu {
                         Button(role: .destructive) {
                             bookmarks.toggle(verse.id)
                             Haptics.selection()

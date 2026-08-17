@@ -12,6 +12,7 @@ import SwiftUI
 struct RootView: View {
     @Environment(Library.self) private var library
     @Environment(Drawer.self) private var drawer
+    @Environment(Settings.self) private var settings
     @Environment(ReadingProgress.self) private var progress
     @Environment(\.theme) private var theme
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
@@ -66,6 +67,16 @@ struct RootView: View {
             try? await Task.sleep(for: .seconds(4))
             guard !Task.isCancelled, !progress.newlyEarned.isEmpty else { return }
             progress.newlyEarned.removeFirst()
+        }
+        // The reminder is scheduled a fortnight ahead, so it has to be topped up
+        // by the app itself: `DailyReminder.schedule` was only ever called from
+        // the switch in Settings, which meant a reader who turned it on and then
+        // simply read for a fortnight stopped being reminded, permanently, with
+        // nothing to tell them why. Refilling the window on every launch is what
+        // the horizon was always for.
+        .task(id: library.state.isReady) {
+            guard library.state.isReady, settings.dailyReminder else { return }
+            await DailyReminder.schedule(at: settings.reminderTime, verses: library.verses)
         }
         .task {
             guard showingSplash else { return }

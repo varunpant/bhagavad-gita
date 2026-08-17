@@ -184,10 +184,18 @@ final class Settings {
         // `didSet` also fires while loading from disk; writing then would be a
         // pointless round trip back to the value we just read.
         guard !loading, let store else { return }
-        Task { @concurrent in
-            do { try store.set(value, for: key.rawValue) }
-            catch { Self.logger.error("Could not save \(key.rawValue): \(error.localizedDescription)") }
-        }
+
+        // Written now, not on a task — the same defect `Bookmarks.toggle` and
+        // `ReadingProgress.record` document at length. iOS suspends the app
+        // when it goes to the background and kills it from the switcher without
+        // ever scheduling an unstructured task, so the write was lost exactly
+        // when it mattered most: `lastVerseID` is set on every page turn, and
+        // the one that went missing was always the last verse of the session —
+        // reopening the app landed a verse behind where the reader stopped.
+        //
+        // One small INSERT on the main actor, at most once per setting change.
+        do { try store.set(value, for: key.rawValue) }
+        catch { Self.logger.error("Could not save \(key.rawValue): \(error.localizedDescription)") }
     }
 
     private func persist(_ value: Bool, _ key: Key) {

@@ -74,8 +74,14 @@ final class SemanticIndex {
     func prepare(verses: [Verse], contentVersion: String) async {
         guard state == .idle else { return }
 
+        // Compared against the verses that can actually be embedded, not the
+        // whole corpus: `passage(for:)` skips anything with no English text, so
+        // the built index is smaller than `verses` the moment one verse is
+        // unenriched — and `cached.count == verses.count` would then never hold,
+        // silently rebuilding all 701 vectors on device every time search opens.
+        let embeddable = verses.count { Self.passage(for: $0) != nil }
         if let cached = try? Self.readCache(contentVersion: contentVersion),
-           cached.count == verses.count {
+           cached.count == embeddable, embeddable > 0 {
             vectors = cached
             state = .ready
             Self.logger.info("Semantic index loaded from cache (\(cached.count) verses)")

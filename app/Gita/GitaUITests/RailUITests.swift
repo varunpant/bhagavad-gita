@@ -126,6 +126,29 @@ final class BookmarkUITests: XCTestCase {
                       "the bookmark was not removed")
     }
 
+    /// Removing one from the panel.
+    ///
+    /// This path had no test, which is how it shipped broken: the row carried
+    /// `.swipeActions`, which only exists inside a `List`, so on a `LazyVStack`
+    /// it compiled and did nothing and the panel had no way to remove anything.
+    func testABookmarkCanBeRemovedFromThePanel() {
+        app.buttons["bookmarkButton"].tap()
+        openBookmarks()
+
+        let row = app.buttons["bookmark-1.1"]
+        XCTAssertTrue(row.waitForExistence(timeout: 5))
+        row.press(forDuration: 1.2)
+
+        // The suite reads in Sanskrit, and the menu follows the reading
+        // language like everything else the reader meets.
+        let remove = app.buttons["हटाएँ"]
+        XCTAssertTrue(remove.waitForExistence(timeout: 5), "no way to remove it")
+        remove.tap()
+
+        XCTAssertTrue(app.staticTexts[Self.emptyState].waitForExistence(timeout: 5),
+                      "the bookmark survived being removed")
+    }
+
     func testChoosingABookmarkOpensThatVerse() {
         app.buttons["bookmarkButton"].tap()
         app.buttons["Next verse"].tap()                       // move away

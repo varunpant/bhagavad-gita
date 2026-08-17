@@ -88,14 +88,22 @@ nonisolated struct ContentDatabase {
     nonisolated static func sanitize(_ query: String) -> [String] {
         let scalars = query.unicodeScalars.prefix(maxQueryLength * 4)
 
-        let cleaned = String(String.UnicodeScalarView(scalars.filter { scalar in
+        let cleaned = String(String.UnicodeScalarView(scalars.compactMap { scalar -> Unicode.Scalar? in
+            // Tab, newline and carriage return separate terms rather than
+            // vanishing. They are control characters, so the strip below used
+            // to delete them outright — which glued the words on either side of
+            // a line break into one ("karma\nyoga" searched for "karmayoga")
+            // and made any pasted multi-line query return nothing.
+            if (0x09 ... 0x0D).contains(scalar.value) { return " " }
+
             // Cc control, Cf format (zero-width, bidi), Cs surrogate, Co private
-            !(CharacterSet.controlCharacters.contains(scalar)
-              || CharacterSet.illegalCharacters.contains(scalar)
-              || (0x200B ... 0x200F).contains(scalar.value)     // zero-width, LRM/RLM
-              || (0x202A ... 0x202E).contains(scalar.value)     // bidi embedding/override
-              || (0x2066 ... 0x2069).contains(scalar.value)     // bidi isolates
-              || scalar.value == 0xFEFF)                        // BOM
+            let stripped = CharacterSet.controlCharacters.contains(scalar)
+                || CharacterSet.illegalCharacters.contains(scalar)
+                || (0x200B ... 0x200F).contains(scalar.value)   // zero-width, LRM/RLM
+                || (0x202A ... 0x202E).contains(scalar.value)   // bidi embedding/override
+                || (0x2066 ... 0x2069).contains(scalar.value)   // bidi isolates
+                || scalar.value == 0xFEFF                       // BOM
+            return stripped ? nil : scalar
         }))
 
         var truncated = cleaned
