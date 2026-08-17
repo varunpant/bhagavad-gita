@@ -59,7 +59,7 @@ struct BookmarksView: View {
             Text(isDevanagari
                  ? "श्लोक संख्या के पास बुकमार्क दबाकर उसे सहेजें"
                  : "Tap the bookmark beside a verse number to keep it")
-                .font(isDevanagari ? .glossDevanagari : .label)
+                .font(isDevanagari ? .labelDevanagari : .label)
                 .foregroundStyle(theme.textSecondary)
                 .multilineTextAlignment(.center)
         }

@@ -29,7 +29,7 @@ struct BadgeToast: View {
                     .font(isDevanagari ? .glossDevanagari : .glossLatin)
                     .foregroundStyle(theme.textPrimary)
                 Text(badge.detail(isDevanagari: isDevanagari))
-                    .font(.label)
+                    .font(isDevanagari ? .labelDevanagari : .label)
                     .foregroundStyle(theme.textSecondary)
             }
             Spacer(minLength: 0)

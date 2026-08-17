@@ -46,7 +46,7 @@ struct CompletionRing: View {
                     .foregroundStyle(theme.textPrimary)
 
                 Text(count)
-                    .font(.label)
+                    .font(isDevanagari ? .labelDevanagari : .label)
                     .monospacedDigit()
                     .foregroundStyle(theme.textSecondary)
             }

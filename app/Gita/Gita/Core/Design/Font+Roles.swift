@@ -75,6 +75,21 @@ extension Font {
         .system(.caption, design: .serif).weight(.medium)
     }
 
+    /// The Devanagari counterpart to `.label`, and the reason it exists.
+    ///
+    /// Captions used to be written `isDevanagari ? .glossDevanagari : .label` —
+    /// a 16pt body-scaled face against a 12pt caption-scaled one. The two look
+    /// close enough at Large and come apart badly above it, because `.body` and
+    /// `.caption` grow at different rates: switching language on a panel at an
+    /// accessibility text size relaid the whole thing.
+    ///
+    /// 13pt against the label's 12: Devanagari carries matras above and below
+    /// the line, so at an equal point size it reads a shade small beside a
+    /// Latin serif.
+    static var labelDevanagari: Font {
+        .custom(devanagariMedium, size: 13, relativeTo: .caption)
+    }
+
     /// A face at an explicit size, for the share card — which is rendered at
     /// fixed pixel dimensions and so cannot ride on Dynamic Type like the
     /// reading roles above. It still picks its face here rather than naming

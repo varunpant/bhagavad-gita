@@ -314,7 +314,14 @@ final class ContentsLanguageUITests: XCTestCase {
     private func openContents() {
         app.buttons["menuButton"].tap()
         app.buttons["Contents"].tap()
-        XCTAssertTrue(app.buttons["tocLanguageToggle"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.buttons["chapter-1"].waitForExistence(timeout: 5))
+    }
+
+    /// The rail's switcher, which is now the only one there is.
+    private func switchLanguage() {
+        app.buttons["menuButton"].tap()
+        app.buttons["languageToggle"].tap()
+        app.buttons["Close menu"].firstMatch.tap()
     }
 
     /// The panel's own cross (`tocClose`) exists only when it is presented as a
@@ -330,36 +337,32 @@ final class ContentsLanguageUITests: XCTestCase {
         XCTAssertTrue(app.staticTexts["अध्याय"].exists, "contents did not open in Sanskrit")
     }
 
-    func testTogglingSwitchesTheChapterNames() {
+    /// The contents have no switcher of their own any more — they follow the
+    /// rail's, like every other surface.
+    func testTheRailsSwitcherChangesTheChapterNames() {
         openContents()
         XCTAssertTrue(app.staticTexts["अध्याय"].exists)
-
-        app.buttons["tocLanguageToggle"].tap()
-        XCTAssertTrue(app.staticTexts["CHAPTERS"].waitForExistence(timeout: 3), "did not switch to English")
-        XCTAssertFalse(app.staticTexts["अध्याय"].exists)
-
-        app.buttons["tocLanguageToggle"].tap()
-        XCTAssertTrue(app.staticTexts["अध्याय"].waitForExistence(timeout: 3), "did not switch back")
-    }
-
-    /// The point of keeping it local: browsing the contents in English must not
-    /// change what the reader is showing.
-    func testContentsLanguageDoesNotChangeTheReader() {
-        openContents()
-        app.buttons["tocLanguageToggle"].tap()
-        XCTAssertTrue(app.staticTexts["CHAPTERS"].waitForExistence(timeout: 3))
-
         closeContents()
 
-        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 5),
-                      "reader should still be in Sanskrit")
-        XCTAssertFalse(app.staticTexts["TRANSLATION"].exists)
+        switchLanguage()
+
+        openContents()
+        XCTAssertTrue(app.staticTexts["CHAPTERS"].waitForExistence(timeout: 3),
+                      "the contents did not follow the reading language")
+        XCTAssertFalse(app.staticTexts["अध्याय"].exists)
+    }
+
+    /// One control, not two: nothing inside the panel changes the language.
+    func testTheContentsCarryNoSwitcherOfTheirOwn() {
+        openContents()
+        XCTAssertFalse(app.buttons["tocLanguageToggle"].exists,
+                       "the contents still have their own language switcher")
     }
 
     func testCloseButtonDismissesTheContents() {
         openContents()
         closeContents()
-        XCTAssertFalse(app.buttons["tocLanguageToggle"].waitForExistence(timeout: 2),
+        XCTAssertFalse(app.buttons["chapter-1"].waitForExistence(timeout: 2),
                        "contents did not dismiss")
         XCTAssertTrue(app.staticTexts["verseReference"].exists)
     }

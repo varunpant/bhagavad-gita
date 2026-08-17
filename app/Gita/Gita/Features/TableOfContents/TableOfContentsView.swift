@@ -13,6 +13,7 @@ import SwiftUI
 struct TableOfContentsView: View {
     @Environment(Library.self) private var library
     @Environment(Settings.self) private var settings
+    @Environment(ReadingProgress.self) private var progress
     @Environment(\.theme) private var theme
     @Environment(\.dismiss) private var dismiss
 
@@ -25,26 +26,23 @@ struct TableOfContentsView: View {
 
     @State private var expandedChapter: Int?
 
-    /// Seeded from the reader's language when the sheet opens, then owned by
-    /// the sheet. Browsing the contents in English while reading in Sanskrit is
-    /// a reasonable thing to want, and it should not change what the reader
-    /// shows when the sheet closes.
-    @State private var language: ReadingLanguage = .sanskrit
-
-    private var isDevanagari: Bool { language.isDevanagari }
+    /// The contents follow the reading language, like every other surface — see
+    /// the language rules in `app/CLAUDE.md`. They used to carry a switcher of
+    /// their own, with a local copy of the language that browsing changed and
+    /// closing threw away. Two controls for one setting is one too many: the
+    /// rail's switcher is the language of the whole reading surface, and this
+    /// panel is part of it.
+    private var isDevanagari: Bool { settings.language.isDevanagari }
 
     var body: some View {
         VStack(spacing: 0) {
             header
 
-            chapterList
+            chapterList(progress.snapshot)
         }
         .background(theme.background)
         .tint(theme.accent)
-        .onAppear {
-            expandedChapter = currentVerse?.chapter
-            language = settings.language
-        }
+        .onAppear { expandedChapter = currentVerse?.chapter }
         #if os(macOS)
         .frame(minWidth: 420, idealWidth: 480, minHeight: 520, idealHeight: 640)
         #endif
@@ -54,8 +52,6 @@ struct TableOfContentsView: View {
 
     private var header: some View {
         PanelHeader(sanskrit: "अध्याय", english: "CHAPTERS", isDevanagari: isDevanagari) {
-            languageToggle
-
             // Only when it is a sheet. As a panel the rail's icon is the cross,
             // and a second one in the header would be two ways to do one thing.
             if onClose == nil {
@@ -75,33 +71,14 @@ struct TableOfContentsView: View {
         }
     }
 
-    /// Same control as the reader's, showing the script it switches *to*.
-    private var languageToggle: some View {
-        Button {
-            Haptics.selection()
-            withAnimation(.snappy(duration: 0.2)) {
-                language = language.toggled
-            }
-        } label: {
-            Text(language.toggled.icon)
-                .font(.system(size: 17, weight: .medium))
-                .frame(width: 32, height: 32)
-                .contentShape(.rect)
-        }
-        .buttonStyle(.plain)
-        .foregroundStyle(theme.accent)
-        .accessibilityIdentifier("tocLanguageToggle")
-        .accessibilityLabel("Switch to \(language.toggled.accessibilityName)")
-    }
-
     // MARK: - Chapters
 
-    private var chapterList: some View {
+    private func chapterList(_ snapshot: ProgressSnapshot) -> some View {
         ScrollViewReader { proxy in
             ScrollView {
                 LazyVStack(spacing: 0, pinnedViews: []) {
                     ForEach(library.chapters) { chapter in
-                        chapterRow(chapter)
+                        chapterRow(chapter, snapshot: snapshot)
                         if expandedChapter == chapter.id {
                             verseGrid(for: chapter)
                         }
@@ -117,7 +94,7 @@ struct TableOfContentsView: View {
         }
     }
 
-    private func chapterRow(_ chapter: Chapter) -> some View {
+    private func chapterRow(_ chapter: Chapter, snapshot: ProgressSnapshot) -> some View {
         Button {
             withAnimation(.snappy(duration: 0.25)) {
                 expandedChapter = expandedChapter == chapter.id ? nil : chapter.id
@@ -141,17 +118,29 @@ struct TableOfContentsView: View {
                     Text(isDevanagari ? chapter.nameSa : chapter.nameEn)
                         .font(isDevanagari ? .wordDevanagari : .wordLatin)
                         .foregroundStyle(theme.textPrimary)
+                        // Two lines where the name needs them, and no reserved
+                        // space: reserving it left the numeral centred against
+                        // an empty line, floating between the name and the
+                        // count.
+                        .lineLimit(2)
+                        .multilineTextAlignment(.leading)
                     // The count, in the same script as the name above it. The
                     // other language's title underneath read as a mistake:
                     // Devanagari heading, English subheading, on every row.
                     Text(isDevanagari
                          ? "\(chapter.verseCount.devanagariDigits) श्लोक"
                          : "\(chapter.verseCount) verses")
-                        .font(isDevanagari ? .glossDevanagari : .label)
+                        .font(isDevanagari ? .labelDevanagari : .label)
                         .foregroundStyle(theme.textSecondary)
                 }
 
                 Spacer()
+
+                // How much of the chapter has been read, in the same grey as
+                // the chips inside it — so the row answers the question without
+                // being opened. A finished chapter gets a tick instead of a
+                // count: "47 of 47" is a number to check, a tick is not.
+                readMarker(for: chapter, in: snapshot)
 
                 Image(systemName: "chevron.right")
                     .font(.system(size: 11, weight: .semibold))
@@ -166,40 +155,109 @@ struct TableOfContentsView: View {
         .id(chapter.id)
         .accessibilityIdentifier("chapter-\(chapter.id)")
         .accessibilityLabel("Chapter \(chapter.id), \(chapter.nameEn), \(chapter.verseCount) verses")
+        .accessibilityValue("\(snapshot.versesRead(inChapter: chapter.id)) read")
+    }
+
+    /// Grey throughout, and absent entirely until something has been read in
+    /// that chapter — eighteen "0" markers on a first launch would be a wall of
+    /// zeroes telling a new reader they have failed at nothing.
+    @ViewBuilder
+    private func readMarker(for chapter: Chapter, in snapshot: ProgressSnapshot) -> some View {
+        let read = snapshot.versesRead(inChapter: chapter.id)
+
+        if read >= chapter.verseCount, chapter.verseCount > 0 {
+            Image(systemName: "checkmark")
+                .font(.system(size: 11, weight: .semibold))
+                .foregroundStyle(theme.textSecondary.opacity(0.7))
+                .accessibilityHidden(true)
+        } else if read > 0 {
+            Text(Int.ratio(read, of: chapter.verseCount, devanagari: isDevanagari))
+                .font(isDevanagari ? .labelDevanagari : .label)
+                .monospacedDigit()
+                .foregroundStyle(theme.textSecondary.opacity(0.7))
+                .accessibilityHidden(true)
+        }
     }
 
     /// Verse numbers as a grid of chips — compact enough that even chapter 18's
     /// 78 verses stay reachable without a long scroll.
+    ///
+    /// A read verse wears a light grey disc. Three states have to stay apart at
+    /// a glance and at chip size: where the reader is now (accent, filled),
+    /// where they have been (grey, filled) and where they have not (outline
+    /// only). Grey rather than a tint, because the accent is monochrome in
+    /// every theme but Sepia — a coloured "read" marker would be the only
+    /// colour on the panel.
     private func verseGrid(for chapter: Chapter) -> some View {
         let verses = library.verses(inChapter: chapter.id)
         return LazyVGrid(columns: [GridItem(.adaptive(minimum: 46), spacing: 10)], spacing: 10) {
             ForEach(verses) { verse in
-                Button {
-                    choose(verse)
-                } label: {
-                    Text(verse.sutra.digits(devanagari: isDevanagari))
-                        .font(isDevanagari ? .glossDevanagari : .label)
-                        .monospacedDigit()
-                        .foregroundStyle(verse.id == currentVerse?.id ? theme.background : theme.textPrimary)
-                        // Circles, like the chapter numerals: the two lists sit
-                        // one inside the other and should read as one family.
-                        .frame(width: 38, height: 38)
-                        .background {
-                            Circle()
-                                .fill(verse.id == currentVerse?.id ? theme.accent : .clear)
-                                .overlay(
-                                    Circle().stroke(theme.divider, lineWidth: 1)
-                                        .opacity(verse.id == currentVerse?.id ? 0 : 1)
-                                )
-                        }
-                        .contentShape(.rect)
-                }
-                .buttonStyle(.plain)
-                .accessibilityLabel("Verse \(verse.chapter).\(verse.sutra)")
+                chip(verse)
             }
         }
         .padding(.horizontal, 16)
         .padding(.bottom, 14)
+    }
+
+    private func chip(_ verse: Verse) -> some View {
+        let isCurrent = verse.id == currentVerse?.id
+        let isRead = progress.hasRead(verse.id)
+
+        return Button {
+            choose(verse)
+        } label: {
+            // The gloss pair rather than the label pair: both scripts at
+            // the same size, which is what keeps a grid of fixed
+            // circles looking like one grid in either language.
+            Text(verse.sutra.digits(devanagari: isDevanagari))
+                .font(isDevanagari ? .glossDevanagari : .glossLatin)
+                .monospacedDigit()
+                .foregroundStyle(isCurrent ? theme.background : theme.textPrimary)
+                // Circles, like the chapter numerals: the two lists sit
+                // one inside the other and should read as one family.
+                .frame(width: 38, height: 38)
+                .background {
+                    Circle()
+                        .fill(fill(isCurrent: isCurrent, isRead: isRead))
+                        .overlay(
+                            Circle().stroke(theme.divider, lineWidth: 1)
+                                .opacity(isCurrent ? 0 : 1)
+                        )
+                }
+                .contentShape(.rect)
+        }
+        .buttonStyle(.plain)
+        // Marking by hand, for the verse someone has read elsewhere or sat with
+        // for an hour without the reader on screen. Reading still marks itself
+        // — this is the deliberate version of the same act, and like everything
+        // else it counts towards chapters, streaks and goals.
+        //
+        // There is no "mark as unread": progress is never revoked one verse at
+        // a time, only wholesale by Reset in the Progress panel.
+        .contextMenu {
+            if !isRead {
+                Button {
+                    Haptics.selection()
+                    progress.record(verse.id)
+                } label: {
+                    Label(
+                        isDevanagari ? "पढ़ा हुआ चिह्नित करें" : "Mark as read",
+                        systemImage: "checkmark.circle"
+                    )
+                }
+            }
+        }
+        .accessibilityLabel("Verse \(verse.chapter).\(verse.sutra)")
+        .accessibilityValue(isRead ? "Read" : "Not read")
+        .accessibilityIdentifier("verse-\(verse.chapter).\(verse.sutra)")
+    }
+
+    private func fill(isCurrent: Bool, isRead: Bool) -> Color {
+        if isCurrent { return theme.accent }
+        // Light enough to sit under the numeral without fighting it, and the
+        // same grey in all four themes because `divider` already resolves per
+        // theme.
+        return isRead ? theme.divider.opacity(0.9) : .clear
     }
 
     // MARK: - Actions
@@ -222,5 +280,6 @@ struct TableOfContentsView: View {
     TableOfContentsView(currentVerse: nil) { _ in }
         .environment(Library.preview())
         .environment(Settings())
+        .environment(ReadingProgress())
         .environment(\.theme, .light)
 }

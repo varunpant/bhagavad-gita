@@ -31,7 +31,7 @@ struct PanelHeader<Trailing: View>: View {
     var body: some View {
         HStack(spacing: 8) {
             Text(isDevanagari ? sanskrit : english)
-                .font(isDevanagari ? .verseReference : .label)
+                .font(isDevanagari ? .labelDevanagari : .label)
                 // Letter-spacing suits small-caps Latin and damages Devanagari,
                 // which is already spaced by its own headline.
                 .tracking(isDevanagari ? 0 : 1.2)
