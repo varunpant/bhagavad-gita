@@ -81,7 +81,11 @@ struct SettingsView: View {
                     VStack(alignment: .leading, spacing: 4) {
                         Toggle(isOn: $settings.immersiveReading) { label("Immersive") }
                             .accessibilityIdentifier("toggleImmersive")
-                        caption("Hides the controls. Tap the top or bottom edge for them.")
+                        // The edge strips still work, and are the easier target
+                        // one-handed — but a double tap works anywhere on the
+                        // page, so it is the one thing worth telling a reader
+                        // who has just hidden their controls.
+                        caption("Double tap to see the controls.")
                     }
                     VStack(alignment: .leading, spacing: 4) {
                         Toggle(isOn: $settings.showShareBar) { label("Share bar") }
