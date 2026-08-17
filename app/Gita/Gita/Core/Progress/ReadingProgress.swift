@@ -19,6 +19,11 @@ final class ReadingProgress {
     private(set) var readingDays: [String] = []
     private(set) var unlockedBadgeIDs: Set<String> = []
 
+    /// Day → verses first read that day. `readingDays` says *whether* a day was
+    /// read on, which is all a streak needs; the widget's bar chart needs how
+    /// much, and the store has been keeping the count all along.
+    private(set) var readingDayCounts: [String: Int] = [:]
+
     /// Earned just now and not yet shown. The view clears it once the toast
     /// has been seen; nothing else reads it.
     var newlyEarned: [Badge] = []
@@ -45,6 +50,7 @@ final class ReadingProgress {
             self.store = database
             readVerseIDs = (try? database.readVerseIDs()) ?? []
             readingDays = (try? database.readingDays()) ?? []
+            readingDayCounts = (try? database.readingDayCounts()) ?? [:]
             unlockedBadgeIDs = (try? database.unlockedBadgeIDs()) ?? []
         } catch {
             self.store = nil
@@ -73,6 +79,11 @@ final class ReadingProgress {
             .compactMap { Calendar.current.date(byAdding: .day, value: -$0, to: today) }
             .map { Streak.day(for: $0) }
             .sorted()
+        // Uneven on purpose: six identical bars in the widget's chart would
+        // show nothing about how the days differ, which is what it is for.
+        readingDayCounts = Dictionary(
+            uniqueKeysWithValues: zip(readingDays, [9, 14, 3, 22, 11, 26])
+        )
     }
     #endif
 
@@ -137,19 +148,33 @@ final class ReadingProgress {
 
         if isFirst {
             readVerseIDs.insert(verseID)
+            readingDayCounts[day, default: 0] += 1
             if readingDays.last != day, !readingDays.contains(day) {
                 readingDays.append(day)
                 readingDays.sort()
             }
         }
 
-        if let store {
-            Task { @concurrent in
-                do {
-                    try store.recordRead(verseID, on: day, at: date)
-                } catch {
-                    Self.logger.error("Could not record read: \(error.localizedDescription)")
-                }
+        // Written now, not on a task.
+        //
+        // This used to be `Task { @concurrent in … }`, and the verse would be
+        // read for the rest of the session and unread ever after: iOS suspends
+        // an app when it goes to the background and kills it from the switcher
+        // without ever scheduling that task, so the row was never inserted.
+        // Reading the last verse of a session and then putting the phone down
+        // lost it every time — which is exactly what "I read it but it is not
+        // marked" looks like from the outside.
+        //
+        // The cost is one small INSERT on the main actor, at most once per
+        // verse ever read. That is worth a great deal less than the read.
+        // Every read, not only the first: `recordRead` keeps `lastReadAt` and
+        // `readCount` for re-reads, which costs one statement. Seeded design
+        // progress is the one thing that must not reach the store.
+        if let store, !isDesignSeed {
+            do {
+                try store.recordRead(verseID, on: day, at: date)
+            } catch {
+                Self.logger.error("Could not record read: \(error.localizedDescription)")
             }
         }
 
@@ -178,13 +203,14 @@ final class ReadingProgress {
             newlyEarned += BadgeCatalog.all.filter { fresh.contains($0.id) }
         }
 
+        // Written now rather than on a task, for the reason spelled out in
+        // `record`: a badge earned on the last verse before the phone goes in a
+        // pocket was being lost.
         if let store, !isDesignSeed {
-            Task { @concurrent in
-                do {
-                    try store.unlockBadges(fresh)
-                } catch {
-                    Self.logger.error("Could not save badges: \(error.localizedDescription)")
-                }
+            do {
+                try store.unlockBadges(fresh)
+            } catch {
+                Self.logger.error("Could not save badges: \(error.localizedDescription)")
             }
         }
     }
@@ -197,16 +223,15 @@ final class ReadingProgress {
     func reset() {
         readVerseIDs = []
         readingDays = []
+        readingDayCounts = [:]
         unlockedBadgeIDs = []
         newlyEarned = []
 
         if let store {
-            Task { @concurrent in
-                do {
-                    try store.resetProgress()
-                } catch {
-                    Self.logger.error("Could not reset progress: \(error.localizedDescription)")
-                }
+            do {
+                try store.resetProgress()
+            } catch {
+                Self.logger.error("Could not reset progress: \(error.localizedDescription)")
             }
         }
     }

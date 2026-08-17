@@ -49,7 +49,22 @@ nonisolated struct UserDatabase {
     /// The one connection the app shares. Settings, Bookmarks and
     /// ReadingProgress used to open their own, so launch ran the migrator three
     /// times against the same file and left three write queues to contend.
-    static let shared: UserDatabase? = try? UserDatabase()
+    ///
+    /// `-resetSettings` is honoured **here**, before the file is opened.
+    /// `Settings.init` used to delete it, by which time this connection was
+    /// already open on that inode: the file was gone but the handle was not, so
+    /// a whole test session wrote to an unlinked file and every read, bookmark
+    /// and badge vanished at relaunch. That looked exactly like a persistence
+    /// bug in the app, and cost an afternoon to tell apart from one.
+    static let shared: UserDatabase? = {
+        #if DEBUG
+        if ProcessInfo.processInfo.arguments.contains("-resetSettings"),
+           let url = try? storeURL() {
+            try? FileManager.default.removeItem(at: url)
+        }
+        #endif
+        return try? UserDatabase()
+    }()
 
     init(url: URL? = nil) throws {
         queue = try DatabaseQueue(path: (url ?? Self.storeURL()).path)

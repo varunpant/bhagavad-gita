@@ -41,15 +41,17 @@ final class Bookmarks {
         let bookmarked = !verseIDs.contains(verseID)
         if bookmarked { verseIDs.insert(verseID) } else { verseIDs.remove(verseID) }
 
-        // The set is the truth the UI reads; the write is a background chore.
+        // The set is the truth the UI reads, and the write goes with it rather
+        // than onto a task. Backgrounding suspends the app before an
+        // unstructured task is scheduled, so a verse kept and then put down was
+        // never kept at all — the same defect `ReadingProgress.record`
+        // documents at length.
         if let store {
-            Task { @concurrent in
-                do {
-                    if bookmarked { try store.addBookmark(verseID) }
-                    else { try store.removeBookmark(verseID) }
-                } catch {
-                    Self.logger.error("Could not save bookmark: \(error.localizedDescription)")
-                }
+            do {
+                if bookmarked { try store.addBookmark(verseID) }
+                else { try store.removeBookmark(verseID) }
+            } catch {
+                Self.logger.error("Could not save bookmark: \(error.localizedDescription)")
             }
         }
         return bookmarked

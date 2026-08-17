@@ -126,14 +126,10 @@ final class Settings {
     }
 
     init(store: UserDatabase? = nil) {
-        #if DEBUG
-        // UI tests need a known starting state; settings are durable by design,
-        // so without this each test inherits whatever the last one left behind.
-        if ProcessInfo.processInfo.arguments.contains("-resetSettings"),
-           let url = try? UserDatabase.storeURL() {
-            try? FileManager.default.removeItem(at: url)
-        }
-        #endif
+        // `-resetSettings` is handled by `UserDatabase.shared`, which deletes
+        // the file before opening it. Deleting it here — after the shared
+        // connection was already open — left the app writing to an unlinked
+        // file for the rest of the session.
 
         do {
             self.store = try store ?? UserDatabase()
@@ -150,6 +146,15 @@ final class Settings {
                index + 1 < arguments.count,
                let forced = ThemePreference(rawValue: arguments[index + 1]) {
                 theme = forced
+            }
+            // The reading size is pinned by the app itself
+            // (`GitaApp` applies `.dynamicTypeSize`), so the simulator's own
+            // `-UICTContentSizeCategoryOverride` cannot reach it. Design checks
+            // that need a large size have to set this instead.
+            if let index = arguments.firstIndex(of: "-forceTextSize"),
+               index + 1 < arguments.count,
+               let forced = TextSize(rawValue: arguments[index + 1]) {
+                textSize = forced
             }
             #endif
         } catch {
