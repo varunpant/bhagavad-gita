@@ -149,3 +149,14 @@ __pycache__/
 *.sqlite-wal
 *.sqlite-shm
 *.sqlite-journal
+
+# =====================================================
+# App Store media (tools/make_appstore_media.py)
+# The panels and preview.mp4 are committed like any other design asset;
+# tour.mov is the 33 MB simulator recording they are cut from.
+# =====================================================
+app/design/appstore/video/tour.mov
+app/design/appstore/.build/
+# Design checks written by the UI harness — diagnostics, not deliverables.
+app/design/appstore/raw/check-*.png
+app/design/appstore/raw/8-goal.png
