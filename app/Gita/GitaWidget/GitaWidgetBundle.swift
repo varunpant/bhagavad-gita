@@ -10,5 +10,6 @@ import WidgetKit
 struct GitaWidgetBundle: WidgetBundle {
     var body: some Widget {
         DailyVerseWidget()
+        ProgressWidget()
     }
 }

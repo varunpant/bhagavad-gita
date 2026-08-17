@@ -13,9 +13,10 @@ import WidgetKit
 /// never shows stale text.
 struct DailyVerseWidget: Widget {
     var body: some WidgetConfiguration {
+        // The view supplies its own container background, because the theme it
+        // paints comes from the App Group rather than from the system.
         StaticConfiguration(kind: "DailyVerse", provider: Provider()) { entry in
             DailyVerseView(entry: entry)
-                .containerBackground(.background, for: .widget)
         }
         .configurationDisplayName("Daily Verse")
         .description("A verse from the Bhagavad Gita each day.")

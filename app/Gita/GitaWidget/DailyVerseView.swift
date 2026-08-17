@@ -6,15 +6,41 @@
 import SwiftUI
 import WidgetKit
 
+/// The day's verse.
+///
+/// Typeset rather than laid out: the shloka is the subject, so it gets the
+/// Devanagari face and the room, and everything else — the reference, the
+/// translation — is set quieter around it. The theme and the reading language
+/// come from the App Group, so the widget matches the app the reader left.
 struct DailyVerseView: View {
     @Environment(\.widgetFamily) private var family
+    @Environment(\.colorScheme) private var colorScheme
     let entry: Entry
 
+    /// Progress is read here only for the two things it carries about the
+    /// reader rather than about progress: which theme and which script. Absent
+    /// before the first launch, when the defaults are the app's own.
+    private var shared: SharedProgress? { SharedProgressStore.read() }
+
+    private var theme: Theme {
+        .forWidget(shared?.theme, colorScheme: colorScheme)
+    }
+
+    private var isDevanagari: Bool { shared?.isDevanagari ?? true }
+
     var body: some View {
-        if let verse = entry.verse {
-            content(verse)
-        } else {
-            NotReadyView()
+        Group {
+            if let verse = entry.verse {
+                content(verse)
+            } else {
+                NotReadyView()
+            }
+        }
+        .containerBackground(for: .widget) {
+            ZStack {
+                theme.background
+                theme.wash
+            }
         }
     }
 
@@ -22,6 +48,8 @@ struct DailyVerseView: View {
     private func content(_ verse: WidgetVerse) -> some View {
         switch family {
         case .accessoryRectangular:
+            // The lock screen gives no colour and very little room, so this one
+            // stays plain on purpose.
             VStack(alignment: .leading, spacing: 2) {
                 Text(verse.reference)
                     .font(.caption2.weight(.semibold))
@@ -32,16 +60,21 @@ struct DailyVerseView: View {
             .widgetURL(url(for: verse))
 
         case .systemMedium:
-            VStack(alignment: .leading, spacing: 8) {
+            VStack(alignment: .leading, spacing: 9) {
                 header(verse)
+
                 Text(verse.sanskrit)
-                    .font(.system(size: 15))
+                    .font(.widgetDevanagari(17))
+                    .foregroundStyle(theme.textPrimary)
+                    .lineSpacing(3)
                     .lineLimit(2)
-                    .minimumScaleFactor(0.8)
+                    .minimumScaleFactor(0.75)
+
                 if let english = verse.english {
                     Text(english)
-                        .font(.system(size: 13, design: .serif))
-                        .foregroundStyle(.secondary)
+                        .font(.widgetSerif(12))
+                        .foregroundStyle(theme.textSecondary)
+                        .lineSpacing(1)
                         .lineLimit(3)
                 }
                 Spacer(minLength: 0)
@@ -50,12 +83,16 @@ struct DailyVerseView: View {
             .widgetURL(url(for: verse))
 
         default:
-            VStack(alignment: .leading, spacing: 6) {
+            VStack(alignment: .leading, spacing: 8) {
                 header(verse)
+
                 Text(firstLine(of: verse.sanskrit))
-                    .font(.system(size: 14))
-                    .lineLimit(3)
-                    .minimumScaleFactor(0.75)
+                    .font(.widgetDevanagari(16))
+                    .foregroundStyle(theme.textPrimary)
+                    .lineSpacing(2)
+                    .lineLimit(4)
+                    .minimumScaleFactor(0.7)
+
                 Spacer(minLength: 0)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
@@ -63,10 +100,25 @@ struct DailyVerseView: View {
         }
     }
 
+    /// The reference on a saffron rule: the one piece of brand on a face that is
+    /// otherwise all text, and enough to make the widget recognisable at a
+    /// glance from across a home screen.
     private func header(_ verse: WidgetVerse) -> some View {
-        Text(verse.reference)
-            .font(.caption2.weight(.semibold))
-            .foregroundStyle(.secondary)
+        HStack(spacing: 6) {
+            Capsule()
+                .fill(LinearGradient(colors: Brand.ramp, startPoint: .top, endPoint: .bottom))
+                .frame(width: 3, height: 12)
+
+            Text(reference(verse))
+                .font(isDevanagari ? .widgetDevanagari(12) : .widgetLabel)
+                .tracking(isDevanagari ? 0 : 0.8)
+                .foregroundStyle(theme.textSecondary)
+        }
+    }
+
+    private func reference(_ verse: WidgetVerse) -> String {
+        verse.chapter.digits(devanagari: isDevanagari)
+            + "." + verse.sutra.digits(devanagari: isDevanagari)
     }
 
     /// One line is all a small widget has room for, and the shloka is stored

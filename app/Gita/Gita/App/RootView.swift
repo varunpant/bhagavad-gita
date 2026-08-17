@@ -55,6 +55,7 @@ struct RootView: View {
                     .zIndex(1)
             }
         }
+        .publishesProgressToWidgets()
         .animation(reduceMotion ? nil : .snappy(duration: 0.28), value: drawer.isSearching)
         .animation(reduceMotion ? nil : .snappy(duration: 0.3), value: progress.newlyEarned.first)
         // Keyed on the badge, so a second one earned while the first is up gets
