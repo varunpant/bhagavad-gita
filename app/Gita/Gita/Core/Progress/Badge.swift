@@ -70,6 +70,51 @@ nonisolated struct Badge: Identifiable, Hashable, Sendable {
         }
     }
 
+    // MARK: - Standing
+
+    /// How close the reader is to earning this badge.
+    ///
+    /// `isEarned` alone answers "have I got it"; a reader looking at a locked
+    /// badge is asking the other question — how far off am I. Pure, like
+    /// `isEarned`, so the arithmetic is testable without a store or a view.
+    struct Standing: Equatable, Sendable {
+        let current: Int
+        let target: Int
+        /// Whether counting says anything. A landmark verse is reached or it is
+        /// not; "0 of 1" is a worse answer than none at all.
+        let isCountable: Bool
+
+        /// `target > 0` is not pedantry: before the corpus loads a chapter's
+        /// size is unknown, and "0 of 0" would otherwise report every chapter
+        /// badge as earned — which is exactly what `isComplete(chapter:)`
+        /// guards against on the snapshot.
+        var isEarned: Bool { target > 0 && current >= target }
+        /// 0...1, clamped — passing a threshold in one go must not overfill a bar.
+        var fraction: Double {
+            guard target > 0 else { return 0 }
+            return min(1, Double(current) / Double(target))
+        }
+    }
+
+    func standing(in snapshot: ProgressSnapshot) -> Standing {
+        switch requirement {
+        case .versesRead(let count):
+            Standing(current: snapshot.versesRead, target: count, isCountable: true)
+        case .chapterComplete(let chapter):
+            Standing(current: snapshot.versesRead(inChapter: chapter),
+                     target: snapshot.versesPerChapter[chapter] ?? 0,
+                     isCountable: true)
+        case .currentStreak(let days):
+            // The longest streak, matching `isEarned` — showing the current one
+            // here would put a locked badge next to a bar that had just gone
+            // backwards through no fault of the reader's.
+            Standing(current: snapshot.longestStreak, target: days, isCountable: true)
+        case .verseReached(let verseID):
+            Standing(current: snapshot.readVerseIDs.contains(verseID) ? 1 : 0,
+                     target: 1, isCountable: false)
+        }
+    }
+
     /// Every badge the snapshot has earned. Pure; the caller decides what is
     /// newly earned by diffing against what is already stored.
     nonisolated static func earned(

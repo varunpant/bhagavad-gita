@@ -162,6 +162,78 @@ struct BadgeTests {
                     "\(badge.id) points at \(verse.chapter).\(verse.sutra)")
         }
     }
+
+    // MARK: - Standing
+
+    /// What the goal popup shows. `isEarned` answers "have I got it"; standing
+    /// answers "how far off am I", and the two must never disagree.
+
+    @Test func standingCountsVersesTowardsTheTarget() throws {
+        let badge = try #require(BadgeCatalog.all.first { $0.id == "verses_250" })
+        let standing = badge.standing(in: snapshot(read: Set(1 ... 100)))
+
+        #expect(standing.current == 100)
+        #expect(standing.target == 250)
+        #expect(standing.isCountable)
+        #expect(!standing.isEarned)
+        #expect(abs(standing.fraction - 0.4) < 0.0001)
+    }
+
+    @Test func standingCountsAChaptersOwnVerses() throws {
+        let badge = try #require(BadgeCatalog.all.first { $0.id == "chapter_12" })
+        let standing = badge.standing(in: snapshot(perChapter: [12: 5]))
+
+        #expect(standing.current == 5)
+        #expect(standing.target == 20)          // chapter 12 holds 20 verses
+    }
+
+    /// Against the longest streak, exactly as `isEarned` is — a bar that fell
+    /// back on a missed Tuesday would contradict a badge that did not.
+    @Test func standingUsesTheLongestStreak() throws {
+        let badge = try #require(BadgeCatalog.all.first { $0.id == "streak_30" })
+        let standing = badge.standing(in: snapshot(current: 2, longest: 21))
+
+        #expect(standing.current == 21)
+        #expect(standing.target == 30)
+    }
+
+    /// A landmark has no halfway, and saying "0 of 1" would imply it does.
+    @Test func aLandmarkDoesNotCount() throws {
+        let badge = try #require(BadgeCatalog.all.first { $0.id == "landmark_2.47" })
+        #expect(!badge.standing(in: snapshot()).isCountable)
+        #expect(!badge.standing(in: snapshot()).isEarned)
+        #expect(badge.standing(in: snapshot(read: [94])).isEarned)
+    }
+
+    /// Passing a threshold in one go must not overfill the bar.
+    @Test func theFractionIsClamped() throws {
+        let badge = try #require(BadgeCatalog.all.first { $0.id == "verses_10" })
+        #expect(badge.standing(in: snapshot(read: Set(1 ... 500))).fraction == 1)
+    }
+
+    /// The one that catches "0 of 0 is complete": before the corpus loads, a
+    /// chapter's size is unknown and nothing may report itself earned.
+    @Test func anUnknownChapterSizeEarnsNothing() {
+        let empty = ProgressSnapshot(
+            readVerseIDs: [], versesReadPerChapter: [:], versesPerChapter: [:],
+            currentStreak: 0, longestStreak: 0
+        )
+        for badge in BadgeCatalog.all(in: .chapters) {
+            #expect(!badge.standing(in: empty).isEarned, "\(badge.id) earned itself from nothing")
+        }
+    }
+
+    /// Standing and `isEarned` are two views of one fact, across the whole
+    /// catalogue and a snapshot that is partway through everything.
+    @Test func standingAgreesWithIsEarned() {
+        let partway = snapshot(
+            read: Set(1 ... 120), perChapter: [1: 47, 2: 30], current: 8, longest: 8
+        )
+        for badge in BadgeCatalog.all {
+            #expect(badge.standing(in: partway).isEarned == badge.isEarned(by: partway),
+                    "\(badge.id) disagrees with itself")
+        }
+    }
 }
 
 #if canImport(UIKit)

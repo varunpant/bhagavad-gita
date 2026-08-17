@@ -24,6 +24,10 @@ struct ReadingProgressView: View {
 
     @State private var confirmingReset = false
 
+    /// The goal being explained, if any. Sheet presentation belongs to the view
+    /// that opens it — see the SwiftUI rules in `app/CLAUDE.md`.
+    @State private var selectedBadge: Badge?
+
     private var isDevanagari: Bool { settings.language.isDevanagari }
 
     var body: some View {
@@ -61,6 +65,21 @@ struct ReadingProgressView: View {
             }
         }
         .background(theme.background)
+        .sheet(item: $selectedBadge) { badge in
+            BadgeDetailView(
+                badge: badge,
+                snapshot: snapshot,
+                isEarned: progress.unlockedBadgeIDs.contains(badge.id),
+                isDevanagari: isDevanagari
+            )
+            #if os(iOS)
+            // Half height: the panel it came from stays visible behind, so the
+            // goal reads as an aside rather than as a place you have navigated
+            // to and must find your way back from.
+            .presentationDetents([.medium])
+            .presentationDragIndicator(.visible)
+            #endif
+        }
     }
 
     // MARK: - Header
@@ -116,7 +135,7 @@ struct ReadingProgressView: View {
                         .font(.system(size: 10))
                 }
                 Text(caption)
-                    .font(.label)
+                    .font(isDevanagari ? .labelDevanagari : .label)
             }
             .foregroundStyle(theme.textSecondary)
         }
@@ -141,7 +160,8 @@ struct ReadingProgressView: View {
                     BadgeGrid(
                         badges: badges,
                         earned: progress.unlockedBadgeIDs,
-                        isDevanagari: isDevanagari
+                        isDevanagari: isDevanagari,
+                        onSelect: { selectedBadge = $0 }
                     )
                 }
             }
@@ -211,13 +231,16 @@ struct ReadingProgressView: View {
     private func section(_ title: String, count: (earned: Int, total: Int)? = nil) -> some View {
         HStack {
             Text(title)
-                .font(.label)
+                // The face follows the string, not just the words: a Devanagari
+                // heading set in the Latin serif is the same fault as an English
+                // subtitle under a Sanskrit one.
+                .font(isDevanagari ? .labelDevanagari : .label)
                 .tracking(isDevanagari ? 0 : 1.2)
                 .foregroundStyle(theme.textSecondary)
             Spacer()
             if let count {
                 Text(Int.ratio(count.earned, of: count.total, devanagari: isDevanagari))
-                    .font(.label)
+                    .font(isDevanagari ? .labelDevanagari : .label)
                     .monospacedDigit()
                     .foregroundStyle(theme.textSecondary.opacity(0.7))
             }
