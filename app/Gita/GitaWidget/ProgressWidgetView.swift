@@ -97,12 +97,15 @@ struct ProgressWidgetView: View {
     // MARK: - Medium: today against the whole
 
     private func medium(_ progress: SharedProgress) -> some View {
-        HStack(spacing: 18) {
+        let week = progress.recentDays(7, ending: entry.date)
+        let busiest = max(1, week.map(\.count).max() ?? 1)
+
+        return HStack(spacing: 16) {
             ZStack {
                 BrandRing(completion: progress.completion, theme: theme, lineWidth: 9)
                 counts(progress, size: 24)
             }
-            .frame(width: 104, height: 104)
+            .frame(width: 100, height: 100)
 
             VStack(alignment: .leading, spacing: 10) {
                 figure(
@@ -114,9 +117,26 @@ struct ProgressWidgetView: View {
                     label: isDevanagari ? "दिन लगातार" : "DAY STREAK",
                     symbol: "flame.fill"
                 )
-                Spacer(minLength: 0)
             }
-            .frame(maxWidth: .infinity, alignment: .leading)
+
+            Spacer(minLength: 0)
+
+            // The week, unlabelled. Today against the whole is the point of this
+            // size, and the last seven days are the shape of that — without them
+            // the right third of a medium widget was empty. No numerals and no
+            // weekday letters: at this width they would be noise, and the large
+            // size is where the chart is read rather than glanced at.
+            HStack(alignment: .bottom, spacing: 5) {
+                ForEach(week, id: \.date) { day in
+                    DayBar(
+                        fraction: Double(day.count) / Double(busiest),
+                        theme: theme,
+                        isToday: Calendar.current.isDate(day.date, inSameDayAs: entry.date)
+                    )
+                    .frame(width: 7)
+                }
+            }
+            .frame(height: 62)
         }
         .padding(.vertical, 2)
     }

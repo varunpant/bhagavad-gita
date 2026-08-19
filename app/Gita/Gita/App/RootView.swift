@@ -76,7 +76,11 @@ struct RootView: View {
         // the horizon was always for.
         .task(id: library.state.isReady) {
             guard library.state.isReady, settings.dailyReminder else { return }
-            await DailyReminder.schedule(at: settings.reminderTime, verses: library.verses)
+            // Refill rather than schedule: on launch the app must never be the
+            // thing that asks for permission — see `refillIfAuthorized`.
+            await DailyReminder.refillIfAuthorized(
+                at: settings.reminderTime, verses: library.verses
+            )
         }
         .task {
             guard showingSplash else { return }

@@ -100,10 +100,20 @@ nonisolated enum SharedProgressStore {
         category: "SharedProgress"
     )
 
+    /// Nil on macOS, where there is nothing to share with.
+    ///
+    /// The widget extension is iOS-only, and asking for the group container on a
+    /// Mac makes the system ask the reader whether "Gita.app would like to
+    /// access data from other apps" — a question with no purpose here, and one
+    /// that stops a test run dead until somebody clicks it.
     static var fileURL: URL? {
+        #if os(iOS)
         FileManager.default
             .containerURL(forSecurityApplicationGroupIdentifier: SharedVerses.appGroup)?
             .appendingPathComponent(filename)
+        #else
+        nil
+        #endif
     }
 
     // MARK: - Read, by the widget

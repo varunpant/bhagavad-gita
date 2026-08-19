@@ -67,7 +67,20 @@ nonisolated struct UserDatabase {
     }()
 
     init(url: URL? = nil) throws {
-        queue = try DatabaseQueue(path: (url ?? Self.storeURL()).path)
+        // A second process opening the same file must fail rather than wait for
+        // ever. SQLite's default is to give up immediately on a locked file, but
+        // the migrator takes a write lock at launch, and a Mac with the app
+        // already open — which is any Mac running the tests from Xcode — left
+        // the second process blocked with no error and no timeout. Five seconds
+        // is far longer than any write here takes and still finite: the caller
+        // logs it and runs on defaults, which is what it already does for a
+        // store it cannot open.
+        var configuration = Configuration()
+        configuration.busyMode = .timeout(5)
+
+        queue = try DatabaseQueue(
+            path: (url ?? Self.storeURL()).path, configuration: configuration
+        )
         try Self.migrator.migrate(queue)
     }
 

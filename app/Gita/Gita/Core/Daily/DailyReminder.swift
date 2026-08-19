@@ -45,6 +45,29 @@ nonisolated enum DailyReminder {
         centre.removePendingNotificationRequests(withIdentifiers: ours)
     }
 
+    /// Top the schedule up, but only for a reader who has already said yes.
+    ///
+    /// Adding a request when authorization is undetermined puts the system's
+    /// permission alert on screen — on macOS `add` alone is enough to do it,
+    /// without anyone calling `requestAuthorization`. That is fine when the
+    /// reader has just reached for the switch and catastrophic on launch: it
+    /// asks a question nobody prompted, and under a test host it stops the run
+    /// dead waiting for a human to click something.
+    ///
+    /// So the launch-time refill goes through here, and only the switch in
+    /// Settings is allowed to ask.
+    static func refillIfAuthorized(
+        at time: DateComponents, verses: [Verse], calendar: Calendar = .current
+    ) async {
+        let status = await UNUserNotificationCenter.current().notificationSettings()
+            .authorizationStatus
+        guard status == .authorized || status == .provisional else {
+            logger.info("Not authorised (\(status.rawValue)); leaving the schedule alone")
+            return
+        }
+        await schedule(at: time, verses: verses, calendar: calendar)
+    }
+
     /// Replace the schedule with one notification per day at `time`, starting
     /// with the next occurrence.
     static func schedule(at time: DateComponents, verses: [Verse], calendar: Calendar = .current) async {

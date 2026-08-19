@@ -46,10 +46,17 @@ nonisolated enum SharedVerses {
         category: "SharedVerses"
     )
 
+    /// Nil on macOS: the widget extension is iOS-only, and probing the group
+    /// container on a Mac prompts the reader about accessing other apps' data.
+    /// See `SharedProgressStore.fileURL`.
     static var fileURL: URL? {
+        #if os(iOS)
         FileManager.default
             .containerURL(forSecurityApplicationGroupIdentifier: appGroup)?
             .appendingPathComponent(filename)
+        #else
+        nil
+        #endif
     }
 
     // MARK: - Read by the widget
