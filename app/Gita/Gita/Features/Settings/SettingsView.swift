@@ -18,6 +18,9 @@ struct SettingsView: View {
     /// A sheet brings its own title bar and Done button; a panel sits inside the
     /// rail, which already provides the way out.
     var showsChrome = true
+    /// How to put the panel away, when it is one. As a sheet the toolbar's
+    /// Done does it instead.
+    var onClose: (() -> Void)?
 
     @Environment(Settings.self) private var settings
     @Environment(Library.self) private var library
@@ -33,7 +36,17 @@ struct SettingsView: View {
             if showsChrome {
                 NavigationStack { form }
             } else {
-                form
+                // As a panel there is no navigation bar, so the title and the
+                // way out come from the same header every other panel uses.
+                // English throughout, like the rest of Settings: it is
+                // configuration, not reading.
+                VStack(spacing: 0) {
+                    PanelHeader(
+                        sanskrit: "SETTINGS", english: "SETTINGS", isDevanagari: false,
+                        closeLabel: "Close settings", onClose: onClose
+                    )
+                    form
+                }
             }
         }
         .tint(theme.accent)

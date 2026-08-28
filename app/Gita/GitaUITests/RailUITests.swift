@@ -27,8 +27,11 @@ final class RailUITests: XCTestCase {
 
         XCTAssertTrue(app.switches["toggleTranslation"].waitForExistence(timeout: 5),
                       "settings panel did not open")
-        XCTAssertTrue(app.buttons["Close settings"].exists,
-                      "rail should still be there, with the gear now a cross")
+        // The rail keeps its own icons now — the gear stays a gear and wears a
+        // ring — so the rail is proved by the gear still being there, and the
+        // way out by the panel's own cross.
+        XCTAssertTrue(app.buttons["Settings"].exists, "the rail went away")
+        XCTAssertTrue(app.buttons["Close settings"].exists, "the panel has no way out")
     }
 
     func testContentsIconOpensThePanelAndKeepsTheRail() {
@@ -160,5 +163,55 @@ final class BookmarkUITests: XCTestCase {
         XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 5))
         XCTAssertTrue(app.staticTexts["verseReference"].label.contains("1.1"),
                       "did not return to 1.1, showing \(app.staticTexts["verseReference"].label)")
+    }
+}
+
+/// The rail's own state: which panel you are in, and how you get out of it.
+@MainActor
+final class RailSelectionUITests: XCTestCase {
+
+    private var app: XCUIApplication!
+
+    override func setUp() async throws {
+        continueAfterFailure = false
+        app = XCUIApplication()
+        app.launchArguments += ["-resetSettings", "-skipSplash"]
+        app.launch()
+        XCTAssertTrue(app.buttons["menuButton"].waitForExistence(timeout: 10))
+        app.buttons["menuButton"].tap()
+    }
+
+    /// The open panel's icon is marked selected, and only that one.
+    func testTheOpenPanelsIconIsTheSelectedOne() {
+        XCTAssertTrue(app.buttons["Progress"].waitForExistence(timeout: 5))
+        app.buttons["Progress"].tap()
+
+        XCTAssertTrue(app.buttons["Progress"].isSelected, "the open panel is not marked selected")
+        XCTAssertFalse(app.buttons["Bookmarks"].isSelected, "a closed panel is marked selected")
+    }
+
+    /// Nothing is selected before a panel is opened.
+    func testNothingIsSelectedWithNoPanelOpen() {
+        XCTAssertTrue(app.buttons["Contents"].waitForExistence(timeout: 5))
+        for panel in ["Contents", "Bookmarks", "Progress", "Settings"] {
+            XCTAssertFalse(app.buttons[panel].isSelected, "\(panel) is selected with no panel open")
+        }
+    }
+
+    /// Every panel closes from its own corner, at the same size and place.
+    func testEveryPanelClosesFromItsOwnCross() {
+        for (panel, label) in [("Contents", "Close contents"), ("Bookmarks", "Close bookmarks"),
+                               ("Progress", "Close progress"), ("Settings", "Close settings")] {
+            XCTAssertTrue(app.buttons[panel].waitForExistence(timeout: 5))
+            app.buttons[panel].tap()
+
+            let cross = app.buttons[label]
+            XCTAssertTrue(cross.waitForExistence(timeout: 5), "\(panel) has no cross")
+            // Top right of the panel, not the far left where the rail is.
+            XCTAssertGreaterThan(cross.frame.minX, app.buttons[panel].frame.maxX,
+                                 "\(panel)'s cross is not on the panel side")
+            cross.tap()
+            XCTAssertFalse(cross.waitForExistence(timeout: 2), "\(panel) stayed open")
+        }
     }
 }

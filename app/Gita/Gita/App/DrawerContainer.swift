@@ -85,7 +85,7 @@ struct DrawerContainer<Content: View>: View {
             ZStack {
                 switch drawer.panel {
                 case .settings:
-                    SettingsView(showsChrome: false)
+                    SettingsView(showsChrome: false, onClose: { drawer.panel = nil })
                         .transition(.move(edge: .leading))
                 case .contents:
                     TableOfContentsView(
@@ -95,11 +95,17 @@ struct DrawerContainer<Content: View>: View {
                     )
                     .transition(.move(edge: .leading))
                 case .bookmarks:
-                    BookmarksView(onSelect: { drawer.requestVerse($0.id) })
-                        .transition(.move(edge: .leading))
+                    BookmarksView(
+                        onSelect: { drawer.requestVerse($0.id) },
+                        onClose: { drawer.panel = nil }
+                    )
+                    .transition(.move(edge: .leading))
                 case .progress:
-                    ReadingProgressView(onSelect: { drawer.requestVerse($0.id) })
-                        .transition(.move(edge: .leading))
+                    ReadingProgressView(
+                        onSelect: { drawer.requestVerse($0.id) },
+                        onClose: { drawer.panel = nil }
+                    )
+                    .transition(.move(edge: .leading))
                 case nil:
                     Color.clear
                 }
@@ -204,30 +210,52 @@ struct DrawerContainer<Content: View>: View {
         .accessibilityHidden(!drawer.isOpen)
     }
 
-    /// A rail button for a panel: its icon becomes a cross while it is open,
-    /// and its label follows. All four derive from the destination.
+    /// A rail button for a panel. It keeps its own icon whether or not its
+    /// panel is open, and the open one wears a ring.
+    ///
+    /// The icon used to turn into a cross instead, which made the rail a column
+    /// of identical glyphs where one of them had quietly changed job — and put
+    /// the way out of a panel on the opposite edge of the screen from the
+    /// panel. Closing now happens in the panel's own top right corner; this
+    /// says only which panel you are in.
     private func panelButton(_ destination: Drawer.Destination) -> some View {
-        let isOpen = drawer.panel == destination
-        return railButton(
-            isOpen ? "xmark" : destination.symbol,
-            label: isOpen ? "Close \(destination.rawValue)" : destination.noun
+        railButton(
+            destination.symbol,
+            label: destination.noun,
+            isSelected: drawer.panel == destination
         ) {
             drawer.togglePanel(destination)
         }
     }
 
     private func railButton(
-        _ symbol: String, label: String, action: @escaping () -> Void
+        _ symbol: String,
+        label: String,
+        isSelected: Bool = false,
+        action: @escaping () -> Void
     ) -> some View {
         Button(action: action) {
             Image(systemName: symbol)
                 .font(.system(size: 20, weight: .light))
                 .foregroundStyle(.white)
                 .frame(width: railWidth, height: 52)
+                .background {
+                    // A ring, not a fill: the rail is a saffron gradient, and a
+                    // solid white block on it reads as a hole. Circular to match
+                    // the circled numerals in the contents and the progress
+                    // panels, so the whole app rings a selected thing the same
+                    // way.
+                    if isSelected {
+                        Circle()
+                            .stroke(.white, lineWidth: 1.5)
+                            .frame(width: 44, height: 44)
+                    }
+                }
                 .contentShape(.rect)
         }
         .buttonStyle(.plain)
         .accessibilityLabel(label)
+        .accessibilityAddTraits(isSelected ? [.isSelected] : [])
     }
 
 }

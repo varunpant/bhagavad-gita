@@ -51,24 +51,13 @@ struct TableOfContentsView: View {
     // MARK: - Header
 
     private var header: some View {
-        PanelHeader(sanskrit: "अध्याय", english: "CHAPTERS", isDevanagari: isDevanagari) {
-            // Only when it is a sheet. As a panel the rail's icon is the cross,
-            // and a second one in the header would be two ways to do one thing.
-            if onClose == nil {
-                Button {
-                    close()
-                } label: {
-                    Image(systemName: "xmark")
-                        .font(.system(size: 17, weight: .regular))
-                        .frame(width: 32, height: 32)
-                        .contentShape(.rect)
-                }
-                .buttonStyle(.plain)
-                .foregroundStyle(theme.textSecondary)
-                .accessibilityIdentifier("tocClose")
-                .accessibilityLabel("Close contents")
-            }
-        }
+        // The cross is no longer conditional. It used to appear only when the
+        // contents were a sheet, because as a panel the rail's icon became the
+        // cross instead — which put the way out on the far edge of the screen.
+        PanelHeader(
+            sanskrit: "अध्याय", english: "CHAPTERS", isDevanagari: isDevanagari,
+            closeLabel: "Close contents", onClose: close
+        )
     }
 
     // MARK: - Chapters

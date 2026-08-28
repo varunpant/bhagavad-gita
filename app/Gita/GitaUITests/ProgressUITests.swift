@@ -32,9 +32,9 @@ final class ProgressUITests: XCTestCase {
         openProgress()
         XCTAssertTrue(app.buttons["progress-chapter-1"].waitForExistence(timeout: 5),
                       "progress did not open")
-        // The rail stays put — its icon becomes the close control, as with the
-        // other panels.
-        XCTAssertTrue(app.buttons["Close progress"].exists, "the rail closed instead of staying")
+        // The rail stays put, keeping its own icon; the cross is the panel's.
+        XCTAssertTrue(app.buttons["Progress"].exists, "the rail closed instead of staying")
+        XCTAssertTrue(app.buttons["Close progress"].exists, "the panel has no way out")
     }
 
     func testEveryChapterIsListed() {

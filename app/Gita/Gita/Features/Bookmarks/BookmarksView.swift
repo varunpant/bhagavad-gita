@@ -17,6 +17,9 @@ struct BookmarksView: View {
     @Environment(\.theme) private var theme
 
     let onSelect: (Verse) -> Void
+    /// How to put the panel away. Nil when there is nothing to close — a
+    /// preview, or a future sheet that brings its own chrome.
+    var onClose: (() -> Void)?
 
     private var kept: [Verse] {
         library.verses.filter { bookmarks.contains($0.id) }
@@ -42,7 +45,10 @@ struct BookmarksView: View {
     }
 
     private func header(count: Int) -> some View {
-        PanelHeader(sanskrit: "संगृहीत", english: "BOOKMARKS", isDevanagari: isDevanagari) {
+        PanelHeader(
+            sanskrit: "संगृहीत", english: "BOOKMARKS", isDevanagari: isDevanagari,
+            closeLabel: "Close bookmarks", onClose: onClose
+        ) {
             if count > 0 {
                 Text(count.digits(devanagari: isDevanagari))
                     .font(.label)

@@ -21,6 +21,8 @@ struct ReadingProgressView: View {
 
     /// Moves the reader to the first verse of a chapter.
     let onSelect: (Verse) -> Void
+    /// How to put the panel away; nil in a preview.
+    var onClose: (() -> Void)?
 
     @State private var confirmingReset = false
 
@@ -85,7 +87,10 @@ struct ReadingProgressView: View {
     // MARK: - Header
 
     private var header: some View {
-        PanelHeader(sanskrit: "प्रगति", english: "PROGRESS", isDevanagari: isDevanagari)
+        PanelHeader(
+            sanskrit: "प्रगति", english: "PROGRESS", isDevanagari: isDevanagari,
+            closeLabel: "Close progress", onClose: onClose
+        )
     }
 
     // MARK: - Figures
