@@ -5,12 +5,12 @@
 
 import SwiftUI
 
-/// Search as a full-screen overlay: a brand band carrying the field, and the
-/// app dimmed away beneath it.
+/// Search as a full-screen overlay: a brand band carrying the field, over a
+/// ground that covers the app completely.
 ///
 /// Covers the rail as well as the page. Search is a mode, not a panel — while it
-/// is up, nothing behind it is meant to be read or tapped, so it is dimmed
-/// rather than left competing for attention.
+/// is up, nothing behind it is meant to be read or tapped, so nothing behind it
+/// is visible.
 struct SearchOverlay: View {
     @Environment(Library.self) private var library
     @Environment(SemanticIndex.self) private var semanticIndex
@@ -25,7 +25,12 @@ struct SearchOverlay: View {
 
     var body: some View {
         ZStack(alignment: .top) {
-            Color.black.opacity(0.82)
+            // Opaque, not a dim. At 82% the page underneath showed through as
+            // ghosted Devanagari behind the results — the reader's own verse,
+            // set large and faint, reading exactly like a watermark someone had
+            // stamped across the search. Nothing behind search is meant to be
+            // read, so nothing behind it is shown.
+            Color.black
                 .ignoresSafeArea()
                 .contentShape(.rect)
                 .onTapGesture { onDismiss() }
