@@ -74,14 +74,26 @@ final class WelcomeArtUITests: XCTestCase {
     }
 
     private func shootAll() throws {
-        // The book itself.
-        var app = launch([])
-        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 15))
+        // The book itself — in immersive reading, so the shot is the verse and
+        // nothing else. With the chrome up it carried a menu button, a chapter
+        // line and a bookmark, none of which that page is about.
+        var app = launch(["-immersive"])
+        Thread.sleep(forTimeInterval: 2)
+        app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.97)).tap()   // reveal
+        XCTAssertTrue(app.buttons["menuButton"].waitForExistence(timeout: 10))
         openVerse(2, 47, in: app)
+        // Long enough for two things: the chrome to fade back out, and the
+        // badge toast to go. Reading 2.47 earns "Yours Is the Action", and it
+        // was sitting in the middle of the screenshot.
+        Thread.sleep(forTimeInterval: 9)
         try capture("scripture")
 
-        // Bookmarking, caught with the bookmark on.
+        // Bookmarking, where the mark is the whole point, so the chrome stays.
+        app = launch([])
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 15))
+        openVerse(2, 47, in: app)
         app.buttons["bookmarkButton"].tap()
+        Thread.sleep(forTimeInterval: 6)          // the same toast, again
         try capture("bookmark")
 
         // Where the verses are.

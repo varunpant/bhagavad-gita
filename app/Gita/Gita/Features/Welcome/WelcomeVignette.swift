@@ -29,30 +29,44 @@ struct WelcomeVignette: View {
             // and one 320pt card left two of them mostly empty. Capped, because
             // past about 700pt a screenshot of a phone stops looking like one.
             .containerRelativeFrame([.horizontal, .vertical], alignment: .top) { length, axis in
-                axis == .horizontal ? min(length * 0.86, 700) : length * 0.54
+                axis == .horizontal ? min(length * 0.86, 700) : length * 0.50
             }
             .clipped()
+            // Dissolves on all four sides. Top and bottom because the screen
+            // carries on past the card; left and right just enough to take the
+            // hard edge off, so the shot sits *in* the page rather than on it.
             .mask(
                 LinearGradient(
                     stops: [
                         .init(color: .clear, location: 0),
-                        .init(color: .black, location: 0.09),
-                        .init(color: .black, location: 0.88),
+                        .init(color: .black, location: 0.10),
+                        .init(color: .black, location: 0.86),
                         .init(color: .clear, location: 1),
                     ],
                     startPoint: .top, endPoint: .bottom
                 )
             )
+            .mask(
+                LinearGradient(
+                    stops: [
+                        .init(color: .clear, location: 0),
+                        .init(color: .black, location: 0.04),
+                        .init(color: .black, location: 0.96),
+                        .init(color: .clear, location: 1),
+                    ],
+                    startPoint: .leading, endPoint: .trailing
+                )
+            )
+            // No border and barely a shadow. A hairline round a white
+            // screenshot on a white page draws a box where the eye wants a
+            // window; the faintest lift is enough to say the shot is nearer
+            // than the page.
             .background {
                 RoundedRectangle(cornerRadius: 26, style: .continuous)
                     .fill(.white)
-                    .shadow(color: .black.opacity(0.13), radius: 20, y: 8)
+                    .shadow(color: .black.opacity(0.07), radius: 24, y: 10)
             }
             .clipShape(RoundedRectangle(cornerRadius: 26, style: .continuous))
-            .overlay {
-                RoundedRectangle(cornerRadius: 26, style: .continuous)
-                    .stroke(.secondary.opacity(0.18), lineWidth: 1)
-            }
             .accessibilityHidden(true)
     }
 }

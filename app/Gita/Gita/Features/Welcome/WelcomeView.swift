@@ -173,8 +173,17 @@ struct WelcomeView: View {
 
     @ViewBuilder
     private func page(_ item: WelcomePage) -> some View {
-        VStack(spacing: 26) {
-            Spacer(minLength: 0)
+        VStack(spacing: isRegular ? 34 : 24) {
+            // Barely a gap above a card on a large screen: it belongs near the
+            // top, so the title falls just below the middle rather than the
+            // whole page hanging in the centre of thirteen inches. The first
+            // page has no card and stays centred, or the greeting floats in the
+            // top third with the rest of the screen empty under it.
+            if isRegular, !item.isLanguageChoice {
+                Spacer(minLength: 0).frame(maxHeight: 24)
+            } else {
+                Spacer(minLength: 0)
+            }
 
             if item.isLanguageChoice {
                 blessing
@@ -199,7 +208,10 @@ struct WelcomeView: View {
 
             // Only the first page carries a control: the one setting worth
             // asking for, at the one moment when asking is not an interruption.
-            if item.isLanguageChoice { languageChoice }
+            if item.isLanguageChoice {
+                languageChoice
+                    .padding(.top, isRegular ? 26 : 18)
+            }
 
             Spacer(minLength: 0)
         }
@@ -219,7 +231,7 @@ struct WelcomeView: View {
     /// Both scripts here and only here: the reader has not chosen one yet, and
     /// this is the page that asks. Everything after it is in their answer.
     private var blessing: some View {
-        VStack(spacing: 12) {
+        VStack(spacing: 14) {
             Text(verbatim: "आ नो भद्राः क्रतवो यन्तु विश्वतः")
                 .font(.shloka)
                 .foregroundStyle(.primary)
@@ -236,7 +248,7 @@ struct WelcomeView: View {
                 .font(.labelDevanagari)
                 .foregroundStyle(.secondary.opacity(0.8))
         }
-        .padding(.bottom, 4)
+        .padding(.bottom, isRegular ? 30 : 20)
         .accessibilityElement(children: .combine)
     }
 
@@ -298,8 +310,8 @@ struct WelcomePage: Identifiable, Sendable {
         WelcomePage(
             id: 0, symbol: "hands.sparkles",
             titleSa: "स्वागत है", titleEn: "Welcome",
-            bodySa: "पढ़ने के लिए लिपि चुनें।",
-            bodyEn: "Choose the script you read in.",
+            bodySa: "भाषा चुनें",
+            bodyEn: "Select language",
             isLanguageChoice: true
         ),
         WelcomePage(
