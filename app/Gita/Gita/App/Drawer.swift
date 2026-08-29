@@ -78,14 +78,14 @@ final class Drawer {
     func open() {
         guard !isOpen else { return }
         isOpen = true
-        Haptics.selection()
+        Haptics.panel()
     }
 
     func close() {
         guard isOpen || panel != nil else { return }
         isOpen = false
         panel = nil
-        Haptics.selection()
+        Haptics.panel()
     }
 
     /// Show a panel beside the rail, or put it away if it is already showing.

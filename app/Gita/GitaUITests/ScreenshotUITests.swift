@@ -304,6 +304,23 @@ final class LanguageCheckUITests: XCTestCase {
         try capture("check-overflow-1.26-xl")
     }
 
+    /// A kept verse: nothing on the shloka, the header's bookmark filled with
+    /// the brand ramp.
+    func testAKeptVerseIsMarkedOnlyOnTheButton() throws {
+        let app = XCUIApplication()
+        // Seeded, so 1.1 is already read: otherwise the dwell earns "First
+        // Step" while the shot is being taken and the confetti covers the very
+        // button this is about.
+        app.launchArguments += ["-resetSettings", "-skipSplash", "-startInEnglish",
+                                "-seedProgress"]
+        app.launch()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 15))
+        try capture("check-bookmark-before")
+
+        app.buttons["bookmarkButton"].tap()
+        try capture("check-bookmark-after")
+    }
+
     /// The moment a goal is earned.
     ///
     /// Reading the very first verse earns "First Step", so the dwell alone

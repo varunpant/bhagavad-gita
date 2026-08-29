@@ -12,9 +12,10 @@ import AppKit
 
 /// Physical feedback, in one place so the whole app is consistent about it.
 ///
-/// Three intensities, deliberately: changing a setting is a small confirmation,
+/// Four intensities, deliberately: changing a setting is a small confirmation,
 /// turning to another verse is the app's central gesture and should feel like a
-/// page moving, and earning a goal happens rarely enough to be allowed the
+/// page moving, a swipe that meets the end of the book is that same page
+/// refusing to move, and earning a goal happens rarely enough to be allowed the
 /// system's own success pattern. Anything more elaborate becomes noise in a
 /// reader.
 ///
@@ -40,6 +41,37 @@ enum Haptics {
         generator.impactOccurred(intensity: 0.9)
         #elseif os(macOS)
         NSHapticFeedbackManager.defaultPerformer.perform(.levelChange, performanceTime: .now)
+        #endif
+    }
+
+    /// The rail slid in or out, by the menu button or by a drag.
+    ///
+    /// Firmer than `selection`, which is a tick for a value changing and is too
+    /// slight for something the size of the screen moving; softer than
+    /// `pageTurn`, which stands for the book itself.
+    static func panel() {
+        #if os(iOS)
+        let generator = UIImpactFeedbackGenerator(style: .medium)
+        generator.prepare()
+        generator.impactOccurred(intensity: 0.7)
+        #elseif os(macOS)
+        NSHapticFeedbackManager.defaultPerformer.perform(.levelChange, performanceTime: .now)
+        #endif
+    }
+
+    /// The reader tried to turn past the end of the book, or back before its
+    /// beginning.
+    ///
+    /// Softer than `pageTurn`, and deliberately dull: the page turn is a page
+    /// moving, and this is the feel of one that did not. A warning pattern was
+    /// wrong here — nothing has gone wrong, there is simply nothing there.
+    static func edge() {
+        #if os(iOS)
+        let generator = UIImpactFeedbackGenerator(style: .soft)
+        generator.prepare()
+        generator.impactOccurred(intensity: 0.55)
+        #elseif os(macOS)
+        NSHapticFeedbackManager.defaultPerformer.perform(.alignment, performanceTime: .now)
         #endif
     }
 

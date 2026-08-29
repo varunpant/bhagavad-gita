@@ -184,8 +184,13 @@ struct ReadingProgressView: View {
             Rectangle().fill(theme.divider).frame(height: 1).padding(.vertical, 8)
 
             Button(role: .destructive) { confirmingReset = true } label: {
-                Text(isDevanagari ? "प्रगति मिटाएँ" : "Reset progress")
-                    .font(.label)
+                // "फिर से आरंभ करें", not "मिटाएँ". मिटाना is to efface — to rub
+                // something out and leave nothing — which is both harsher than
+                // what this does and inaccurate: the reading itself is not
+                // being destroyed, the count of it is going back to zero so the
+                // reader can begin the book again.
+                Text(isDevanagari ? "प्रगति फिर से आरंभ करें" : "Reset progress")
+                    .font(isDevanagari ? .labelDevanagari : .label)
                     .frame(maxWidth: .infinity)
                     .padding(.vertical, 12)
                     .contentShape(.rect)
@@ -196,11 +201,11 @@ struct ReadingProgressView: View {
         }
         .padding(.top, 16)
         .confirmationDialog(
-            isDevanagari ? "प्रगति मिटाएँ?" : "Reset progress?",
+            isDevanagari ? "प्रगति फिर से आरंभ करें?" : "Reset progress?",
             isPresented: $confirmingReset,
             titleVisibility: .visible
         ) {
-            Button(isDevanagari ? "मिटाएँ" : "Reset", role: .destructive) {
+            Button(isDevanagari ? "फिर से आरंभ करें" : "Reset", role: .destructive) {
                 progress.reset()
                 Haptics.selection()
             }
@@ -217,7 +222,7 @@ struct ReadingProgressView: View {
         let earned = progress.unlockedBadgeIDs.count
         if isDevanagari {
             return """
-                \(snapshot.versesRead.devanagariDigits) पढ़े हुए श्लोक, \(snapshot.currentStreak.devanagariDigits) दिन की निरंतरता और \(earned.devanagariDigits) उपलब्धियाँ मिट जाएँगी।
+                \(snapshot.versesRead.devanagariDigits) पढ़े हुए श्लोक, \(snapshot.currentStreak.devanagariDigits) दिन की निरंतरता और \(earned.devanagariDigits) उपलब्धियाँ शून्य से आरंभ होंगी।
                 आपके संगृहीत श्लोक और सेटिंग्स सुरक्षित रहेंगी।
                 """
         }

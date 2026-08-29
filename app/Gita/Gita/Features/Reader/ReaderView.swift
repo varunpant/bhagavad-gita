@@ -146,6 +146,28 @@ struct ReaderView: View {
             }
             .scrollTargetBehavior(.paging)
             .scrollPosition(id: $currentVerseID)
+            // A swipe at either end of the book turns no page, so `onChange`
+            // never fires and the gesture feels ignored rather than answered.
+            // This is the only place the reader can tell the difference between
+            // "nothing happened" and "there is nothing there".
+            //
+            // Simultaneous, so the pager still scrolls normally underneath; the
+            // drawer's own edge drag is excluded by where it starts, exactly as
+            // `DrawerContainer.edgeDrag` decides it.
+            .simultaneousGesture(
+                DragGesture(minimumDistance: 24)
+                    .onEnded { value in
+                        let horizontal = value.translation.width
+                        guard abs(horizontal) > abs(value.translation.height),
+                              !drawer.isCoveringReader,
+                              value.startLocation.x > 40
+                        else { return }
+
+                        // Dragging left asks for the next verse, right for the
+                        // previous one.
+                        if neighbour(horizontal < 0 ? 1 : -1) == nil { Haptics.edge() }
+                    }
+            )
             .scrollIndicators(.hidden)
             // Double tap anywhere on the page to call the chrome back, so the
             // edge strips are a convenience rather than the only way in.
@@ -294,11 +316,19 @@ struct ReaderView: View {
         } label: {
             Image(systemName: kept ? "bookmark.fill" : "bookmark")
                 .font(.system(size: 17, weight: .regular))
+                // The ramp itself when kept, not a flat sample of it: this is
+                // the only place the page says a verse is kept, so it can
+                // afford to be the brand rather than a yellow.
+                .foregroundStyle(
+                    kept
+                        ? AnyShapeStyle(LinearGradient(colors: Brand.ramp,
+                                                       startPoint: .top, endPoint: .bottom))
+                        : AnyShapeStyle(theme.textSecondary)
+                )
                 .frame(width: 32, height: 32)
                 .contentShape(.rect)
         }
         .buttonStyle(.plain)
-        .foregroundStyle(kept ? theme.selectionTint : theme.textSecondary)
         .accessibilityIdentifier("bookmarkButton")
         .accessibilityLabel(kept ? "Remove bookmark" : "Bookmark this verse")
     }
@@ -377,7 +407,6 @@ private struct ShlokaPage: View {
     let verse: Verse
     let language: ReadingLanguage
     let settings: Settings
-    @Environment(Bookmarks.self) private var bookmarks
     @Environment(\.theme) private var theme
 
     /// Decoded once per body pass. It is a JSON parse, and `body` asked for it
@@ -450,34 +479,22 @@ private struct ShlokaPage: View {
 
     // MARK: - Blocks
 
-    private var isKept: Bool { bookmarks.contains(verse.id) }
-
     private var shloka: some View {
         VStack(spacing: 14) {
             ForEach(Array(verse.displayLines(for: language).enumerated()), id: \.offset) { _, line in
                 Text(line)
                     .font(isDevanagari ? .shloka : .shlokaLatin)
                     .foregroundStyle(theme.textPrimary)
-                    // Dotted and faint: a mark on the shloka, not an emphasis
-                    // of it. A solid rule competes with the Devanagari, which
-                    // already carries a headline across every word.
-                    .underline(isKept, pattern: .dot, color: theme.selectionTint.opacity(0.35))
                     .multilineTextAlignment(.center)
                     .lineSpacing(10)
             }
         }
         .frame(maxWidth: .infinity)
-        // An overlay, so the glyph appearing never shifts the text it marks.
-        .overlay(alignment: .topLeading) {
-            if isKept {
-                Image(systemName: "bookmark.fill")
-                    .font(.system(size: 15))
-                    .foregroundStyle(theme.selectionTint)
-                    .offset(y: -4)
-                    .transition(.opacity)
-                    .accessibilityHidden(true)
-            }
-        }
+        // Nothing on the shloka itself — no glyph before its first line, no
+        // rule under it. Both marked the verse by decorating the one thing on
+        // the page that should carry no decoration; the header's bookmark
+        // fills with the brand ramp instead, which is where the reader put the
+        // mark in the first place.
         .accessibilityElement(children: .combine)
         .accessibilityLabel("Chapter \(verse.chapter), verse \(verse.sutra)")
         .accessibilityValue(Text(spokenShloka))

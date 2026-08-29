@@ -85,6 +85,10 @@ struct TableOfContentsView: View {
 
     private func chapterRow(_ chapter: Chapter, snapshot: ProgressSnapshot) -> some View {
         Button {
+            // Opening a chapter is the one move in the contents that changes
+            // the panel without leaving it. Choosing a verse needs nothing
+            // here: it moves the reader, and the page turn speaks for it.
+            Haptics.selection()
             withAnimation(.snappy(duration: 0.25)) {
                 expandedChapter = expandedChapter == chapter.id ? nil : chapter.id
             }
