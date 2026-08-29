@@ -108,6 +108,16 @@ enum Theme: String, Sendable {
         }
     }
 
+    /// What to call it on screen. `ThemePreference` names the *choice*,
+    /// including "System"; this names the palette that choice resolved to.
+    func displayName(isDevanagari: Bool) -> String {
+        switch self {
+        case .light: isDevanagari ? "प्रकाश" : "Light"
+        case .sepia: isDevanagari ? "सेपिया" : "Sepia"
+        case .dark: isDevanagari ? "अंधकार" : "Dark"
+        }
+    }
+
     var colorScheme: ColorScheme {
         self == .dark ? .dark : .light
     }

@@ -29,14 +29,34 @@ struct WelcomeView: View {
     var onFinish: () -> Void
 
     @Environment(Settings.self) private var settings
-    @Environment(Library.self) private var library
-    @Environment(\.theme) private var theme
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     @State private var page: Int? = 0
 
     private var isDevanagari: Bool { settings.language.isDevanagari }
     private var pages: [WelcomePage] { WelcomePage.all }
+
+    /// An iPad or a Mac is not a large phone. Everything here — the card, the
+    /// title, the body — is bigger there, and bigger on the phone than it was:
+    /// the first version left a third of the screen empty on both.
+    #if os(iOS)
+    @Environment(\.horizontalSizeClass) private var sizeClass
+    private var isRegular: Bool { sizeClass != .compact }
+    #else
+    private var isRegular: Bool { true }
+    #endif
+
+    private var titleFont: Font {
+        isDevanagari
+            ? .custom("KohinoorDevanagari-Light", size: isRegular ? 52 : 34)
+            : .custom("Georgia", size: isRegular ? 50 : 33)
+    }
+
+    private var bodyFont: Font {
+        isDevanagari
+            ? .custom("KohinoorDevanagari-Light", size: isRegular ? 27 : 20)
+            : .custom("Georgia", size: isRegular ? 26 : 19)
+    }
 
     var body: some View {
         VStack(spacing: 0) {
@@ -59,8 +79,11 @@ struct WelcomeView: View {
             dots
             advance
         }
-        .background(Brand.gradient.ignoresSafeArea())
-        .preferredColorScheme(.light)   // white on saffron, in every theme
+        // White, not the brand ramp. The cards are screenshots of a white app,
+        // and a white rectangle floating on saffron read as a hole cut in the
+        // page. The ramp stays where it belongs: on the controls.
+        .background(Color.white.ignoresSafeArea())
+        .preferredColorScheme(.light)
     }
 
     // MARK: - Chrome
@@ -76,7 +99,7 @@ struct WelcomeView: View {
                 Button(action: finish) {
                     Text(isDevanagari ? "छोड़ें" : "Skip")
                         .font(isDevanagari ? .labelDevanagari : .label)
-                        .foregroundStyle(.white.opacity(0.85))
+                        .foregroundStyle(.secondary)
                         .padding(.horizontal, 16)
                         .padding(.vertical, 10)
                         .contentShape(.rect)
@@ -93,7 +116,10 @@ struct WelcomeView: View {
         HStack(spacing: 8) {
             ForEach(pages) { item in
                 Circle()
-                    .fill(.white.opacity(item.id == (page ?? 0) ? 1 : 0.35))
+                    .fill(item.id == (page ?? 0)
+                          ? AnyShapeStyle(LinearGradient(colors: Brand.ramp,
+                                                         startPoint: .top, endPoint: .bottom))
+                          : AnyShapeStyle(Color.secondary.opacity(0.3)))
                     .frame(width: 7, height: 7)
             }
         }
@@ -115,10 +141,14 @@ struct WelcomeView: View {
         } label: {
             Text(buttonTitle)
                 .font(isDevanagari ? .wordDevanagari : .wordLatin)
-                .foregroundStyle(Brand.ramp[3])
-                .frame(maxWidth: 280)
-                .frame(height: 52)
-                .background(Capsule().fill(.white))
+                .foregroundStyle(.white)
+                .frame(maxWidth: 320)
+                .frame(height: 56)
+                .background(
+                    Capsule().fill(LinearGradient(colors: Brand.ramp,
+                                                  startPoint: .leading, endPoint: .trailing))
+                )
+                .shadow(color: Brand.ramp[3].opacity(0.35), radius: 12, y: 6)
         }
         .buttonStyle(.plain)
         .padding(.horizontal, 32)
@@ -154,14 +184,14 @@ struct WelcomeView: View {
 
             VStack(spacing: 14) {
                 Text(item.title(isDevanagari: isDevanagari))
-                    .font(isDevanagari ? .shloka : .shlokaLatin)
-                    .foregroundStyle(.white)
+                    .font(titleFont)
+                    .foregroundStyle(.primary)
                     .multilineTextAlignment(.center)
                     .fixedSize(horizontal: false, vertical: true)
 
                 Text(item.body(isDevanagari: isDevanagari))
-                    .font(isDevanagari ? .proseDevanagari : .proseLatin)
-                    .foregroundStyle(.white.opacity(0.9))
+                    .font(bodyFont)
+                    .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
                     .lineSpacing(4)
                     .fixedSize(horizontal: false, vertical: true)
@@ -173,73 +203,14 @@ struct WelcomeView: View {
 
             Spacer(minLength: 0)
         }
-        .padding(.horizontal, 34)
+        .padding(.horizontal, isRegular ? 60 : 26)
         .accessibilityElement(children: .contain)
     }
 
-    /// The screen the page is about, drawn small behind a fade.
-    ///
-    /// Falls back to the page's symbol only while the corpus is still loading —
-    /// a first launch reaches this a moment after the splash, and an empty card
-    /// would be worse than a glyph.
+    /// The screen this page is about, as a card.
     @ViewBuilder
     private func vignette(for item: WelcomePage) -> some View {
-        let art = WelcomeVignettes(verse: hero, language: settings.language, theme: theme)
-
-        if hero == nil {
-            ZStack {
-                Circle().fill(.white.opacity(0.14)).frame(width: 168, height: 168)
-                Image(systemName: item.symbol)
-                    .font(.system(size: 66, weight: .light))
-                    .foregroundStyle(.white)
-            }
-            .accessibilityHidden(true)
-        } else {
-            WelcomeVignette {
-                switch item.id {
-                case 1: art.scripture
-                case 2: art.reading
-                case 3: art.appearance
-                case 4: art.finding(searchHits)
-                case 5: art.keeping
-                default: art.progress(library.chapters, snapshot: sampleProgress)
-                }
-            }
-        }
-    }
-
-    /// 2.47 — the verse the whole Gita is quoted for, and the one the store
-    /// panels lead with.
-    private var hero: Verse? {
-        library.verses.first { $0.chapter == 2 && $0.sutra == 47 } ?? library.verses.first
-    }
-
-    /// What "karma" actually returns, so the search card is not a mock-up.
-    private var searchHits: [Verse] {
-        library.verses
-            .filter { ($0.englishTranslation ?? "").localizedCaseInsensitiveContains("karma") }
-            .prefix(3)
-            .map { $0 }
-    }
-
-    /// A plausible reading rather than the reader's own, which on a first
-    /// launch is nothing at all: an empty ring is a poor advertisement for a
-    /// ring. Chapter one finished, a little of chapter two.
-    private var sampleProgress: ProgressSnapshot {
-        var perChapter: [Int: Int] = [:]
-        var sizes: [Int: Int] = [:]
-        for chapter in library.chapters { sizes[chapter.id] = chapter.verseCount }
-        if let first = library.chapters.first { perChapter[first.id] = first.verseCount }
-        if library.chapters.count > 1 { perChapter[library.chapters[1].id] = 38 }
-
-        let read = perChapter.values.reduce(0, +)
-        return ProgressSnapshot(
-            readVerseIDs: Set(1 ... max(read, 1)),
-            versesReadPerChapter: perChapter,
-            versesPerChapter: sizes,
-            currentStreak: 6,
-            longestStreak: 6
-        )
+        WelcomeVignette(art: item.art, isDevanagari: isDevanagari)
     }
 
     /// The Rigveda's welcome, which is older than the Gita and is what this
@@ -251,19 +222,19 @@ struct WelcomeView: View {
         VStack(spacing: 12) {
             Text(verbatim: "आ नो भद्राः क्रतवो यन्तु विश्वतः")
                 .font(.shloka)
-                .foregroundStyle(.white)
+                .foregroundStyle(.primary)
                 .multilineTextAlignment(.center)
                 .fixedSize(horizontal: false, vertical: true)
 
             Text(verbatim: "Let noble thoughts come to us from every side")
                 .font(.glossLatin)
-                .foregroundStyle(.white.opacity(0.85))
+                .foregroundStyle(.secondary)
                 .multilineTextAlignment(.center)
                 .fixedSize(horizontal: false, vertical: true)
 
             Text(verbatim: "ऋग्वेद १.८९.१  ·  Rigveda 1.89.1")
                 .font(.labelDevanagari)
-                .foregroundStyle(.white.opacity(0.65))
+                .foregroundStyle(.secondary.opacity(0.8))
         }
         .padding(.bottom, 4)
         .accessibilityElement(children: .combine)
@@ -278,16 +249,22 @@ struct WelcomeView: View {
                 } label: {
                     Text(language.isDevanagari ? "देवनागरी" : "English")
                         .font(language.isDevanagari ? .wordDevanagari : .wordLatin)
-                        .foregroundStyle(settings.language == language ? Brand.ramp[3] : .white)
-                        .padding(.horizontal, 22)
-                        .padding(.vertical, 12)
+                        .foregroundStyle(settings.language == language ? .white : .primary)
+                        .padding(.horizontal, 26)
+                        .padding(.vertical, 14)
                         .background {
                             Capsule()
-                                .fill(settings.language == language ? AnyShapeStyle(.white)
-                                                                    : AnyShapeStyle(.white.opacity(0.18)))
+                                .fill(settings.language == language
+                                      ? AnyShapeStyle(LinearGradient(colors: Brand.ramp,
+                                                                     startPoint: .leading,
+                                                                     endPoint: .trailing))
+                                      : AnyShapeStyle(Color.clear))
                         }
                         .overlay {
-                            Capsule().stroke(.white.opacity(0.5), lineWidth: 1)
+                            Capsule().stroke(
+                                settings.language == language ? .clear : .secondary.opacity(0.35),
+                                lineWidth: 1
+                            )
                         }
                 }
                 .buttonStyle(.plain)
@@ -306,6 +283,8 @@ struct WelcomeView: View {
 struct WelcomePage: Identifiable, Sendable {
     let id: Int
     let symbol: String
+    /// Which screenshot the page shows, without its script suffix.
+    var art: String = ""
     let titleSa: String
     let titleEn: String
     let bodySa: String
@@ -319,45 +298,45 @@ struct WelcomePage: Identifiable, Sendable {
         WelcomePage(
             id: 0, symbol: "hands.sparkles",
             titleSa: "स्वागत है", titleEn: "Welcome",
-            bodySa: "आप किस लिपि में पढ़ना चाहेंगे?",
-            bodyEn: "Which script would you like to read in?",
+            bodySa: "पढ़ने के लिए लिपि चुनें।",
+            bodyEn: "Choose the script you read in.",
             isLanguageChoice: true
         ),
         WelcomePage(
-            id: 1, symbol: "book.closed",
-            titleSa: "पूरी गीता", titleEn: "The whole Gita",
-            bodySa: "सात सौ श्लोक, मूल संस्कृत में — अनुवाद और भावार्थ के साथ। सब कुछ बिना इंटरनेट के।",
-            bodyEn: "All 700 verses in the original Sanskrit, with translation and meaning. Everything works offline."
+            id: 1, symbol: "book.closed", art: "scripture",
+            titleSa: "सम्पूर्ण गीता", titleEn: "The complete Gita",
+            bodySa: "सात सौ श्लोक — अनुवाद और भावार्थ सहित, बिना इंटरनेट के।",
+            bodyEn: "All 700 verses, with translation and meaning. Works entirely offline."
         ),
         WelcomePage(
-            id: 2, symbol: "hand.draw",
-            titleSa: "पढ़ना", titleEn: "Reading",
-            bodySa: "एक श्लोक से दूसरे तक उँगली सरकाएँ। लिपि कभी भी बदल सकते हैं — बाईं पट्टी में अ / A का बटन है।",
-            bodyEn: "Swipe from one verse to the next. You can change script whenever you like — the अ / A button is in the left bar."
+            id: 2, symbol: "hand.draw", art: "contents",
+            titleSa: "अध्याय और श्लोक", titleEn: "Chapters and verses",
+            bodySa: "श्लोकों के बीच सरकाएँ, या सूची से चुनें। लिपि बाईं पट्टी से बदलें।",
+            bodyEn: "Swipe between verses, or pick one from the contents. Change script from the left bar."
         ),
         WelcomePage(
-            id: 3, symbol: "circle.lefthalf.filled",
-            titleSa: "अपने अनुसार", titleEn: "Make it yours",
-            bodySa: "प्रकाश, अंधकार या सेपिया — और अक्षरों का आकार अपनी सुविधा से। एकाग्र पाठ में केवल श्लोक रह जाता है; नियंत्रण वापस लाने के लिए दो बार टैप करें।",
-            bodyEn: "Light, Dark or Sepia, with the text size to match. Immersive reading leaves the shloka alone on the page — double tap to bring the controls back."
+            id: 3, symbol: "circle.lefthalf.filled", art: "appearance",
+            titleSa: "रूप और अक्षर-आकार", titleEn: "Appearance and text size",
+            bodySa: "प्रकाश, अंधकार या सेपिया, अपने अक्षर-आकार में। एकाग्र पाठ में केवल श्लोक रहता है।",
+            bodyEn: "Light, Dark or Sepia, at your text size. Immersive reading leaves only the shloka."
         ),
         WelcomePage(
-            id: 4, symbol: "magnifyingglass",
-            titleSa: "खोज", titleEn: "Finding",
-            bodySa: "किसी शब्द, अर्थ या संख्या — जैसे २.४७ — से तुरंत खोजें, बिना इंटरनेट के।",
-            bodyEn: "Search by a word, by a meaning, or by a number like 2.47 — instantly, and offline."
+            id: 4, symbol: "magnifyingglass", art: "search",
+            titleSa: "खोज", titleEn: "Search",
+            bodySa: "शब्द, अर्थ या संख्या से खोजें — तुरंत, बिना इंटरनेट के।",
+            bodyEn: "Search by word, meaning or number — instantly, offline."
         ),
         WelcomePage(
-            id: 5, symbol: "bookmark",
-            titleSa: "सहेजना", titleEn: "Keeping",
-            bodySa: "जो श्लोक मन को छू जाए उसे सहेज लें, या उसका चित्र बनाकर किसी को भेजें।",
-            bodyEn: "Keep a verse that stays with you, or send it to someone as a card."
+            id: 5, symbol: "bookmark", art: "bookmark",
+            titleSa: "संगृहीत और साझा", titleEn: "Bookmarks and sharing",
+            bodySa: "श्लोक सहेजें और बाद में लौटें, या चित्र रूप में साझा करें।",
+            bodyEn: "Bookmark a verse to return to it, or share it as a card."
         ),
         WelcomePage(
-            id: 6, symbol: "chart.bar",
+            id: 6, symbol: "chart.bar", art: "progress",
             titleSa: "प्रगति और विजेट", titleEn: "Progress and widgets",
-            bodySa: "पढ़े हुए श्लोक अंकित होते हैं, अध्याय भरते हैं और लक्ष्य पूरे होते हैं — सब बाईं पट्टी में। होम स्क्रीन पर विजेट आज का श्लोक और आपकी प्रगति दिखाता है।",
-            bodyEn: "Verses you read are marked, chapters fill and goals arrive — all in the left bar. On the Home Screen, a widget carries the day's verse and how far you have come."
+            bodySa: "पढ़े हुए श्लोक अंकित होते हैं और लक्ष्य पूरे होते हैं। विजेट पर आज का श्लोक।",
+            bodyEn: "Verses you read are marked and goals arrive. A widget carries the day's verse."
         ),
     ]
 }
