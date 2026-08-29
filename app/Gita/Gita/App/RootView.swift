@@ -45,6 +45,13 @@ struct RootView: View {
             // line, at the top, gone on its own — deliberately not a sheet or
             // a card, which would interrupt the reading this is rewarding.
             if let earned = progress.newlyEarned.first {
+                // Behind the toast, over everything else. Seeded from the badge
+                // so the same goal falls the same way twice.
+                Confetti(seed: earned.id.hashValue)
+                    .ignoresSafeArea()
+                    .transition(.opacity)
+                    .zIndex(2.5)
+
                 BadgeToast(badge: earned)
                     .transition(.move(edge: .top).combined(with: .opacity))
                     .zIndex(3)
@@ -63,7 +70,8 @@ struct RootView: View {
         // its own four seconds rather than inheriting what is left of them.
         .task(id: progress.newlyEarned.first) {
             guard progress.newlyEarned.first != nil else { return }
-            Haptics.pageTurn()
+            // The firmest feedback in the app, for the rarest event in it.
+            Haptics.celebrate()
             try? await Task.sleep(for: .seconds(4))
             guard !Task.isCancelled, !progress.newlyEarned.isEmpty else { return }
             progress.newlyEarned.removeFirst()

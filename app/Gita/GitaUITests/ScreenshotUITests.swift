@@ -304,6 +304,26 @@ final class LanguageCheckUITests: XCTestCase {
         try capture("check-overflow-1.26-xl")
     }
 
+    /// The moment a goal is earned.
+    ///
+    /// Reading the very first verse earns "First Step", so the dwell alone
+    /// raises it. The confetti itself cannot be checked from here — a
+    /// screenshot takes about two seconds to come back and the fall lasts
+    /// about two, so stills step straight over it. It was watched by recording
+    /// the screen with `simctl io recordVideo` while this ran. What is asserted
+    /// is the part that stills can see: that the goal is announced at all.
+    func testAGoalEarnedRainsConfetti() throws {
+        let app = XCUIApplication()
+        app.launchArguments += ["-resetSettings", "-skipSplash", "-startInEnglish"]
+        app.launch()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 15))
+
+        // `ReadingPolicy.dwell` is three seconds; the badge lands just after.
+        let toast = app.staticTexts["First Step"]
+        XCTAssertTrue(toast.waitForExistence(timeout: 10), "no goal was announced")
+        try capture("check-goal-earned")
+    }
+
     /// The word-by-word list in both scripts, which is where the page was
     /// reported to run off to the right when the language was switched.
     func testWordByWordFitsInBothScripts() throws {
