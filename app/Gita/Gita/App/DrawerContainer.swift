@@ -23,6 +23,10 @@ struct DrawerContainer<Content: View>: View {
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     private let railWidth: CGFloat = 72
+
+    /// The welcome, opened as the guide. Presented from here rather than from
+    /// the reader because the rail is what raised it.
+    @State private var showingGuide = false
     private let content: Content
 
     init(@ViewBuilder content: () -> Content) {
@@ -117,6 +121,9 @@ struct DrawerContainer<Content: View>: View {
             .allowsHitTesting(drawer.panel != nil)
             .zIndex(1)
         }
+        .fullScreenCoverIfAvailable(isPresented: $showingGuide) {
+            WelcomeView { showingGuide = false }
+        }
         .animation(reduceMotion ? nil : .snappy(duration: 0.32), value: drawer.isOpen)
         .animation(reduceMotion ? nil : .snappy(duration: 0.30), value: drawer.panel)
         .gesture(edgeDrag)
@@ -174,6 +181,14 @@ struct DrawerContainer<Content: View>: View {
             .accessibilityLabel("Switch to \(settings.language.toggled.accessibilityName)")
 
             Spacer()
+
+            // The guide, beside Settings at the foot: both are about the app
+            // rather than about the book, which is what the rest of the rail
+            // is for.
+            railButton("questionmark.circle", label: "Guide") {
+                Haptics.selection()
+                showingGuide = true
+            }
 
             // Settings sits at the foot rather than at the head. At the top it
             // was level with the status bar and the reader's own header, which

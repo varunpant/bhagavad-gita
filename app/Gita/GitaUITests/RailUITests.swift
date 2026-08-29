@@ -215,3 +215,30 @@ final class RailSelectionUITests: XCTestCase {
         }
     }
 }
+
+/// The guide, reached from the rail.
+@MainActor
+final class RailGuideUITests: XCTestCase {
+
+    /// The welcome is the guide, and the rail is where a reader looks for help.
+    func testTheGuideIconOpensTheWelcome() {
+        let app = XCUIApplication()
+        app.launchArguments += ["-resetSettings", "-skipSplash", "-startInEnglish"]
+        app.launch()
+        XCTAssertTrue(app.buttons["menuButton"].waitForExistence(timeout: 15))
+        app.buttons["menuButton"].tap()
+
+        XCTAssertTrue(app.buttons["Guide"].waitForExistence(timeout: 5), "no guide on the rail")
+        app.buttons["Guide"].tap()
+
+        // The welcome, from its first page.
+        XCTAssertTrue(app.buttons["welcomeAdvance"].waitForExistence(timeout: 10),
+                      "the guide did not open")
+        XCTAssertTrue(app.buttons["welcomeLanguage-english"].exists)
+
+        // And it goes away again, back to the book.
+        for _ in 0 ..< 7 { app.buttons["welcomeAdvance"].tap() }
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10),
+                      "the guide did not close")
+    }
+}
