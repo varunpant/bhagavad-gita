@@ -95,11 +95,11 @@ struct TableOfContentsView: View {
                 Text(isDevanagari ? chapter.devanagariNumber : "\(chapter.id)")
                     .font(isDevanagari ? .wordDevanagari : .wordLatin)
                     .monospacedDigit()
-                    .foregroundStyle(isCurrent(chapter) ? theme.background : theme.accent)
+                    .foregroundStyle(isCurrent(chapter) ? theme.onSelection : theme.accent)
                     .frame(width: 34, height: 34)
                     .background {
                         Circle()
-                            .fill(isCurrent(chapter) ? theme.accent : .clear)
+                            .fill(isCurrent(chapter) ? theme.selectionTint : .clear)
                             .overlay(Circle().stroke(theme.accent.opacity(0.35), lineWidth: 1))
                     }
 
@@ -201,7 +201,7 @@ struct TableOfContentsView: View {
             Text(verse.sutra.digits(devanagari: isDevanagari))
                 .font(isDevanagari ? .glossDevanagari : .glossLatin)
                 .monospacedDigit()
-                .foregroundStyle(isCurrent ? theme.background : theme.textPrimary)
+                .foregroundStyle(isCurrent ? theme.onSelection : theme.textPrimary)
                 // Circles, like the chapter numerals: the two lists sit
                 // one inside the other and should read as one family.
                 .frame(width: 38, height: 38)
@@ -242,7 +242,7 @@ struct TableOfContentsView: View {
     }
 
     private func fill(isCurrent: Bool, isRead: Bool) -> Color {
-        if isCurrent { return theme.accent }
+        if isCurrent { return theme.selectionTint }
         // Light enough to sit under the numeral without fighting it, and the
         // same grey in all four themes because `divider` already resolves per
         // theme.

@@ -71,12 +71,12 @@ struct BadgeDetailView: View {
     private var medal: some View {
         ZStack {
             Circle()
-                .fill(isEarned ? theme.accent.opacity(0.12) : theme.divider.opacity(0.5))
+                .fill(isEarned ? theme.selectionTint.opacity(0.12) : theme.divider.opacity(0.5))
                 .frame(width: 96, height: 96)
 
             Image(systemName: badge.symbol)
                 .font(.system(size: 40, weight: .light))
-                .foregroundStyle(isEarned ? theme.accent : theme.textSecondary)
+                .foregroundStyle(isEarned ? theme.selectionTint : theme.textSecondary)
         }
         .opacity(isEarned ? 1 : 0.6)
         .padding(.top, 12)
@@ -117,7 +117,8 @@ struct BadgeDetailView: View {
                 ZStack(alignment: .leading) {
                     Capsule().fill(theme.divider)
                     Capsule()
-                        .fill(theme.accent)
+                        .fill(LinearGradient(colors: Brand.ramp,
+                                             startPoint: .leading, endPoint: .trailing))
                         .frame(width: geometry.size.width * standing.fraction)
                 }
             }
@@ -149,11 +150,11 @@ struct BadgeDetailView: View {
                 .font(isDevanagari ? .glossDevanagari : .glossLatin)
                 .multilineTextAlignment(.center)
         }
-        .foregroundStyle(isEarned ? theme.accent : theme.textSecondary)
+        .foregroundStyle(isEarned ? theme.selectionTint : theme.textSecondary)
         .padding(.horizontal, 16)
         .padding(.vertical, 10)
         .background {
-            Capsule().fill(isEarned ? theme.accent.opacity(0.10) : theme.divider.opacity(0.45))
+            Capsule().fill(isEarned ? theme.selectionTint.opacity(0.14) : theme.divider.opacity(0.45))
         }
         .accessibilityElement(children: .combine)
     }

@@ -22,7 +22,7 @@ struct BadgeToast: View {
         HStack(spacing: 10) {
             Image(systemName: badge.symbol)
                 .font(.system(size: 16, weight: .light))
-                .foregroundStyle(theme.accent)
+                .foregroundStyle(theme.selectionTint)
 
             VStack(alignment: .leading, spacing: 1) {
                 Text(badge.title(isDevanagari: isDevanagari))

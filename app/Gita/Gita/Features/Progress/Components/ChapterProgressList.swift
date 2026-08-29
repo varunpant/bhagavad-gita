@@ -63,12 +63,13 @@ struct ChapterProgressList: View {
 
                 Spacer(minLength: 0)
 
-                // A finished chapter is worth marking, and a checkmark says it
-                // without needing a colour the theme rule would forbid.
+                // A finished chapter is worth marking, in the same colour that
+                // marks anything else finished or current — the ramp's yellow
+                // in Light, its deep orange in Dark.
                 if complete {
                     Image(systemName: "checkmark")
                         .font(.system(size: 11, weight: .semibold))
-                        .foregroundStyle(theme.accent)
+                        .foregroundStyle(theme.selectionTint)
                 }
             }
 

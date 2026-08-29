@@ -94,6 +94,7 @@ struct SettingsView: View {
                     VStack(alignment: .leading, spacing: 4) {
                         Toggle(isOn: $settings.immersiveReading) { label("Immersive") }
                             .accessibilityIdentifier("toggleImmersive")
+                            .tint(theme.selectionTint)
                         // The edge strips still work, and are the easier target
                         // one-handed — but a double tap works anywhere on the
                         // page, so it is the one thing worth telling a reader
@@ -103,6 +104,7 @@ struct SettingsView: View {
                     VStack(alignment: .leading, spacing: 4) {
                         Toggle(isOn: $settings.showShareBar) { label("Share bar") }
                             .accessibilityIdentifier("toggleShareBar")
+                            .tint(theme.selectionTint)
                         caption("A link and an image button beneath each shloka.")
                     }
                 } header: {
@@ -113,10 +115,13 @@ struct SettingsView: View {
                 Section {
                     Toggle(isOn: $settings.showTranslation) { label("Translation") }
                         .accessibilityIdentifier("toggleTranslation")
+                        .tint(theme.selectionTint)
                     Toggle(isOn: $settings.showMeaning) { label("Meaning") }
                         .accessibilityIdentifier("toggleMeaning")
+                        .tint(theme.selectionTint)
                     Toggle(isOn: $settings.showWordByWord) { label("Word by word") }
                         .accessibilityIdentifier("toggleWordByWord")
+                        .tint(theme.selectionTint)
                 } header: {
                     heading("Show beneath the shloka")
                 }
@@ -126,6 +131,7 @@ struct SettingsView: View {
                     VStack(alignment: .leading, spacing: 4) {
                         Toggle(isOn: $settings.dailyReminder) { label("Daily verse") }
                             .accessibilityIdentifier("toggleDailyReminder")
+                            .tint(theme.selectionTint)
                         if reminderDenied {
                             caption("Notifications are off for Gita in the Settings app.")
                         }

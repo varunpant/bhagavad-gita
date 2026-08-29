@@ -7,7 +7,7 @@ import SwiftUI
 
 /// How much of the Gita has been read, as a ring.
 ///
-/// Drawn in `theme.accent` — which resolves to plain black outside Sepia — and
+/// Drawn in the brand ramp — the one thing on the panel that carries it — and
 /// deliberately **not** in `Brand.gradient`. The rail and the splash are the
 /// app's two brand exceptions; a marigold ring would put colour back onto a
 /// light-theme reading screen, which is the rule this app keeps.
@@ -34,7 +34,10 @@ struct CompletionRing: View {
 
             Circle()
                 .trim(from: 0, to: shown)
-                .stroke(theme.accent, style: StrokeStyle(lineWidth: 10, lineCap: .round))
+                // The brand ramp swept round, exactly as the progress widget
+                // draws it — the same number in two places should not be two
+                // colours. Black here read as a hole punched in the panel.
+                .stroke(Brand.ring, style: StrokeStyle(lineWidth: 10, lineCap: .round))
                 // From twelve o'clock rather than three, which is where a
                 // progress ring is read from.
                 .rotationEffect(.degrees(-90))

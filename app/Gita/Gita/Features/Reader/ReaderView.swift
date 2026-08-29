@@ -298,7 +298,7 @@ struct ReaderView: View {
                 .contentShape(.rect)
         }
         .buttonStyle(.plain)
-        .foregroundStyle(kept ? theme.accent : theme.textSecondary)
+        .foregroundStyle(kept ? theme.selectionTint : theme.textSecondary)
         .accessibilityIdentifier("bookmarkButton")
         .accessibilityLabel(kept ? "Remove bookmark" : "Bookmark this verse")
     }
@@ -461,7 +461,7 @@ private struct ShlokaPage: View {
                     // Dotted and faint: a mark on the shloka, not an emphasis
                     // of it. A solid rule competes with the Devanagari, which
                     // already carries a headline across every word.
-                    .underline(isKept, pattern: .dot, color: theme.accent.opacity(0.22))
+                    .underline(isKept, pattern: .dot, color: theme.selectionTint.opacity(0.35))
                     .multilineTextAlignment(.center)
                     .lineSpacing(10)
             }
@@ -472,7 +472,7 @@ private struct ShlokaPage: View {
             if isKept {
                 Image(systemName: "bookmark.fill")
                     .font(.system(size: 15))
-                    .foregroundStyle(theme.accent)
+                    .foregroundStyle(theme.selectionTint)
                     .offset(y: -4)
                     .transition(.opacity)
                     .accessibilityHidden(true)

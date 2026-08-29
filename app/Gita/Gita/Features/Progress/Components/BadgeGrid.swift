@@ -71,12 +71,12 @@ struct BadgeGrid: View {
         VStack(spacing: 6) {
             ZStack {
                 Circle()
-                    .fill(isEarned ? theme.accent.opacity(0.10) : theme.divider.opacity(0.5))
+                    .fill(isEarned ? theme.selectionTint.opacity(0.10) : theme.divider.opacity(0.5))
                     .frame(width: 44, height: 44)
 
                 Image(systemName: badge.symbol)
                     .font(.system(size: 18, weight: .light))
-                    .foregroundStyle(isEarned ? theme.accent : theme.textSecondary)
+                    .foregroundStyle(isEarned ? theme.selectionTint : theme.textSecondary)
             }
 
             Text(badge.title(isDevanagari: isDevanagari))

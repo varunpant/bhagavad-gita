@@ -82,7 +82,7 @@ struct BookmarksView: View {
                             Text(verse.reference)
                                 .font(.label)
                                 .monospacedDigit()
-                                .foregroundStyle(theme.accent)
+                                .foregroundStyle(theme.selectionTint)
                             Text(verse.displayLines(for: settings.language).first ?? verse.sanskrit)
                                 .font(isDevanagari ? .glossDevanagari : .glossLatin)
                                 .foregroundStyle(theme.textPrimary)

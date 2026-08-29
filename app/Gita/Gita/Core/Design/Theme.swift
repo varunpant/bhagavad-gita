@@ -67,6 +67,40 @@ enum Theme: String, Sendable {
         }
     }
 
+    /// The colour of a thing that is on, or that you are in: a switch turned
+    /// on, the chapter and the verse the reader is currently at.
+    ///
+    /// The one place brand colour is allowed past the rail. `accent` is
+    /// deliberately monochrome outside Sepia — a "System" theme that tinted
+    /// every control saffron was the original mistake — but *state* is not a
+    /// control, and a black disc marking where you are reads as a hole in the
+    /// page rather than as a place.
+    ///
+    /// The yellow end of the ramp in Light; the deep orange at its foot in
+    /// Dark, where that yellow glares against black. Sepia keeps its own
+    /// accent: it is the one theme that already colours its controls, and a
+    /// second colour beside that reads as a mistake.
+    var selectionTint: Color {
+        switch self {
+        case .light: Brand.ramp[0]
+        case .dark: Brand.ramp[3]
+        case .sepia: accent
+        }
+    }
+
+    /// The ink to draw *on* `selectionTint`.
+    ///
+    /// Not `background`, which is what a monochrome accent wanted: white on the
+    /// ramp's yellow is barely there. Dark on the yellow, white on the deep
+    /// orange, and Sepia unchanged.
+    var onSelection: Color {
+        switch self {
+        case .light: Color(hex: 0x3A2306)
+        case .dark: .white
+        case .sepia: background
+        }
+    }
+
     var divider: Color {
         switch self {
         case .light, .dark: Color.secondary.opacity(0.25)

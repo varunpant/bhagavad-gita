@@ -26,7 +26,11 @@ struct ProgressBar: View {
             ZStack(alignment: .leading) {
                 Capsule().fill(theme.divider)
                 Capsule()
-                    .fill(theme.accent)
+                    // Left to right along the ramp, so a full bar ends where
+                    // the ring ends and a short one is still recognisably the
+                    // same colour.
+                    .fill(LinearGradient(colors: Brand.ramp,
+                                         startPoint: .leading, endPoint: .trailing))
                     .frame(width: max(minimumWidth, proxy.size.width * fraction.clamped()))
             }
         }
