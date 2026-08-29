@@ -434,17 +434,16 @@ private struct ShlokaPage: View {
             .frame(maxWidth: .infinity)
             .padding(.horizontal, 32)
             .padding(.vertical, 36)
-            // Immersive reading only. With most sections turned off — the
-            // shloka and its meaning, say — a page is far shorter than the
-            // screen, and top-aligned it left the verse under the chrome with
-            // the rest of the screen empty. Centring it is what immersive is
-            // for; in ordinary reading the page keeps its top edge, where the
-            // header, the rail and the footer expect it.
+            // Centred in both modes. With most sections turned off — the shloka
+            // and its meaning, say — a page is far shorter than the screen, and
+            // top-aligned it hugged the header with the rest of the screen
+            // empty. In normal reading the container is the band between the
+            // header and the footer, so the verse centres in that; in immersive
+            // it is the whole screen.
             //
             // `minHeight`, not `height`: a page longer than the screen grows
             // past it and scrolls as it always did.
-            .frame(minHeight: settings.immersiveReading ? minHeight : 0,
-                   alignment: .center)
+            .frame(minHeight: minHeight, alignment: .center)
         }
         .scrollIndicators(.hidden)
     }
@@ -505,6 +504,16 @@ private struct ShlokaPage: View {
     /// stack of HStacks would each size independently and the glosses would
     /// stagger. The grid then sizes to its content, so centring the grid centres
     /// the table as a block while the columns stay tidily aligned inside it.
+    /// How wide the word column may get before it wraps instead.
+    ///
+    /// The grid used to carry `.fixedSize(horizontal: true)`, which told it to
+    /// take its *ideal* width and ignore the width it was offered. In Devanagari
+    /// the ideal width fits a phone and nobody noticed; in English the
+    /// transliteration is compounded into single 30-character words, so the grid
+    /// drew itself far wider than the screen and the whole list hung off both
+    /// edges — the page "overflowing to the right" on switching language.
+    private var wordColumnWidth: CGFloat { 150 }
+
     private var wordList: some View {
         VStack(spacing: 14) {
             heading(isDevanagari ? "शब्दार्थ" : "WORD BY WORD")
@@ -517,6 +526,13 @@ private struct ShlokaPage: View {
                             .foregroundStyle(theme.accent)
                             .multilineTextAlignment(.trailing)
                             .gridColumnAlignment(.trailing)
+                            // Wraps rather than pushing the row wider. Devanagari
+                            // words are short; their transliterations are
+                            // sandhi-compounded — "kārpaṇya-doṣa-upahata-svabhāvaḥ"
+                            // is one word — and a column sized to that leaves the
+                            // meanings a ribbon.
+                            .frame(maxWidth: wordColumnWidth, alignment: .trailing)
+                            .fixedSize(horizontal: false, vertical: true)
                         Text(word.m)
                             .font(isDevanagari ? .glossDevanagari : .glossLatin)
                             .foregroundStyle(theme.textSecondary)
@@ -527,7 +543,6 @@ private struct ShlokaPage: View {
                     .accessibilityElement(children: .combine)
                 }
             }
-            .fixedSize(horizontal: true, vertical: false)
             // Position is the row identity, so the two languages' lists must not
             // be diffed against each other — rebuild outright on a switch.
             .id(language)

@@ -226,6 +226,18 @@ final class LanguageCheckUITests: XCTestCase {
             .write(to: Self.output.appendingPathComponent("\(name).png"))
     }
 
+    private func openVerse(_ chapter: Int, _ verse: Int, in app: XCUIApplication) {
+        app.buttons["menuButton"].tap()
+        app.buttons["Contents"].tap()
+        let row = app.buttons["chapter-\(chapter)"]
+        XCTAssertTrue(row.waitForExistence(timeout: 10))
+        row.tap()
+        let target = app.buttons["Verse \(chapter).\(verse)"]
+        for _ in 0 ..< 8 where !target.isHittable { app.swipeUp() }
+        XCTAssertTrue(target.waitForExistence(timeout: 5))
+        target.tap()
+    }
+
     private func contents(english: Bool, huge: Bool) throws -> XCUIApplication {
         let app = XCUIApplication()
         app.launchArguments += ["-resetSettings", "-skipSplash", "-seedProgress",
@@ -268,6 +280,60 @@ final class LanguageCheckUITests: XCTestCase {
             // different thing wearing a similar heading.
             app.swipeUp()
             try capture(name)
+        }
+    }
+
+    /// 1.26 in English, whose transliteration carries a 46-character sandhi
+    /// compound — `ācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā`, one token
+    /// with nowhere to break. Reported as the page overflowing to the right
+    /// when the language is switched.
+    func testALongTransliterationFitsThePage() throws {
+        let app = XCUIApplication()
+        app.launchArguments += ["-resetSettings", "-skipSplash", "-startInEnglish",
+                                "-forceTextSize", "extraLarge"]
+        app.launch()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 15))
+
+        app.buttons["menuButton"].tap()
+        app.buttons["Contents"].tap()
+        XCTAssertTrue(app.buttons["chapter-1"].waitForExistence(timeout: 10))
+        let verse = app.buttons["Verse 1.26"]
+        for _ in 0 ..< 8 where !verse.isHittable { app.swipeUp() }
+        verse.tap()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
+        try capture("check-overflow-1.26-xl")
+    }
+
+    /// The word-by-word list in both scripts, which is where the page was
+    /// reported to run off to the right when the language was switched.
+    func testWordByWordFitsInBothScripts() throws {
+        for (english, name) in [(true, "check-words-en"), (false, "check-words-sa")] {
+            let app = XCUIApplication()
+            app.launchArguments += ["-resetSettings", "-skipSplash"]
+            if english { app.launchArguments += ["-startInEnglish"] }
+            app.launch()
+            XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 15))
+
+            app.buttons["menuButton"].tap()
+            app.buttons["Settings"].tap()
+            let words = app.switches["toggleWordByWord"]
+            for _ in 0 ..< 6 where !words.exists { app.swipeUp() }
+            XCTAssertTrue(words.waitForExistence(timeout: 5))
+            words.coordinate(withNormalizedOffset: CGVector(dx: 0.92, dy: 0.5)).tap()
+            app.buttons["Close settings"].tap()
+            app.buttons["Close menu"].firstMatch.tap()
+
+            // 2.7 carries the longest compound in the list:
+            // "kārpaṇya-doṣa-upahata-svabhāvaḥ".
+            openVerse(2, 7, in: app)
+            for _ in 0 ..< 4 { app.swipeUp() }
+            try capture(name)
+
+            // Checked by eye, not by assertion: XCUITest reports the
+            // combined frame of the accessibility row, which stays inside the
+            // window even when the text inside it is drawn off screen — so an
+            // assertion on it passes with the bug present and proves nothing.
+            // The two captures are the record.
         }
     }
 
@@ -370,8 +436,8 @@ final class ReadingMarksUITests: XCTestCase {
 /// Where a short page sits on the screen.
 ///
 /// With the translation turned off, a verse and its meaning are far shorter than
-/// the screen. Immersive reading centres that; ordinary reading keeps its top
-/// edge, where the header and the footer expect it.
+/// the screen. Both modes centre it now — immersive in the whole screen,
+/// ordinary reading in the band between the header and the footer.
 @MainActor
 final class ImmersiveLayoutCheckUITests: XCTestCase {
 
@@ -419,8 +485,8 @@ final class ImmersiveLayoutCheckUITests: XCTestCase {
         try capture(name)
     }
 
-    func testAShortPageIsCentredInImmersiveAndNotOtherwise() throws {
-        try shlokaAndMeaning(immersive: true, name: "check-immersive-centred")
-        try shlokaAndMeaning(immersive: false, name: "check-normal-top")
+    func testAShortPageIsCentredInBothModes() throws {
+        try shlokaAndMeaning(immersive: true, name: "check-centred-immersive")
+        try shlokaAndMeaning(immersive: false, name: "check-centred-normal")
     }
 }
