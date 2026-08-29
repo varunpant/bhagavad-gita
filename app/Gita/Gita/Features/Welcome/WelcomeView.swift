@@ -48,8 +48,8 @@ struct WelcomeView: View {
 
     private var titleFont: Font {
         isDevanagari
-            ? .custom("KohinoorDevanagari-Light", size: isRegular ? 52 : 34)
-            : .custom("Georgia", size: isRegular ? 50 : 33)
+            ? .custom("KohinoorDevanagari-Medium", size: isRegular ? 46 : 32)
+            : .custom("Georgia-Bold", size: isRegular ? 44 : 31)
     }
 
     private var bodyFont: Font {
@@ -145,49 +145,84 @@ struct WelcomeView: View {
 
     // MARK: - A page
 
+    /// Title and line at the top, the screen in the middle, the button at the
+    /// foot.
+    ///
+    /// Read top to bottom, which is how a page is read: what this is, then a
+    /// sentence about it, then the thing itself. The heading is left-aligned
+    /// and set large — centred headings over centred body text over a centred
+    /// picture gave every page the same soft column and nothing to start from.
+    /// Title and line at one end, the screen at the other — and which end
+    /// alternates as the reader swipes.
+    ///
+    /// Every page laid out identically turned the slider into one page seen
+    /// seven times; alternating gives each swipe somewhere new to look. The
+    /// heading is always left-aligned and always read first, so the rhythm
+    /// changes without the reading order doing so.
     @ViewBuilder
     private func page(_ item: WelcomePage) -> some View {
-        VStack(spacing: isRegular ? 32 : 22) {
-            // A card page starts at the top: the screenshot is the largest
-            // thing here and the page is read downwards, so the title and its
-            // line fall under it and the space that is left is at the foot.
-            // Only the first page, which has no card, stays centred.
-            if item.isLanguageChoice {
-                Spacer(minLength: 0)
-            }
+        let textOnTop = item.id.isMultiple(of: 2)
 
-            if item.isLanguageChoice {
-                blessing
+        VStack(alignment: .leading, spacing: isRegular ? 16 : 12) {
+            if item.art.isEmpty, !item.isLanguageChoice {
+                // Nothing to alternate with. The page about the whole book is
+                // its two sentences and nothing else, so they sit in the middle
+                // rather than clinging to an edge with a blank half beneath.
+                Spacer(minLength: 0)
+                words(item)
+                Spacer(minLength: 0)
+            } else if textOnTop {
+                words(item)
+                Spacer(minLength: isRegular ? 40 : 24)
+                art(item)
+                Spacer(minLength: 0)
             } else {
+                Spacer(minLength: isRegular ? 24 : 12)
+                art(item)
+                Spacer(minLength: isRegular ? 40 : 26)
+                words(item)
+                Spacer(minLength: isRegular ? 20 : 10)
+            }
+        }
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .padding(.horizontal, isRegular ? 64 : 30)
+        .padding(.top, isRegular ? 40 : 24)
+        .accessibilityElement(children: .contain)
+    }
+
+    @ViewBuilder
+    private func words(_ item: WelcomePage) -> some View {
+        VStack(alignment: .leading, spacing: isRegular ? 14 : 10) {
+            Text(item.title(isDevanagari: isDevanagari))
+                .font(titleFont)
+                .foregroundStyle(.primary)
+                .multilineTextAlignment(.leading)
+                .fixedSize(horizontal: false, vertical: true)
+
+            Text(item.body(isDevanagari: isDevanagari))
+                .font(bodyFont)
+                .foregroundStyle(.secondary)
+                .multilineTextAlignment(.leading)
+                .lineSpacing(3)
+                .fixedSize(horizontal: false, vertical: true)
+        }
+    }
+
+    /// The middle belongs to the app itself: a screenshot on the feature pages,
+    /// the Rigveda's welcome and the language choice on the first.
+    @ViewBuilder
+    private func art(_ item: WelcomePage) -> some View {
+        Group {
+            if item.isLanguageChoice {
+                VStack(spacing: isRegular ? 34 : 26) {
+                    blessing
+                    languageChoice
+                }
+            } else if !item.art.isEmpty {
                 vignette(for: item)
             }
-
-            VStack(spacing: 14) {
-                Text(item.title(isDevanagari: isDevanagari))
-                    .font(titleFont)
-                    .foregroundStyle(.primary)
-                    .multilineTextAlignment(.center)
-                    .fixedSize(horizontal: false, vertical: true)
-
-                Text(item.body(isDevanagari: isDevanagari))
-                    .font(bodyFont)
-                    .foregroundStyle(.secondary)
-                    .multilineTextAlignment(.center)
-                    .lineSpacing(4)
-                    .fixedSize(horizontal: false, vertical: true)
-            }
-
-            // Only the first page carries a control: the one setting worth
-            // asking for, at the one moment when asking is not an interruption.
-            if item.isLanguageChoice {
-                languageChoice
-                    .padding(.top, isRegular ? 26 : 18)
-            }
-
-            Spacer(minLength: 0)
         }
-        .padding(.horizontal, isRegular ? 60 : 26)
-        .accessibilityElement(children: .contain)
+        .frame(maxWidth: .infinity, alignment: .center)
     }
 
     /// The screen this page is about, as a card.
@@ -219,7 +254,6 @@ struct WelcomeView: View {
                 .font(.labelDevanagari)
                 .foregroundStyle(.secondary.opacity(0.8))
         }
-        .padding(.bottom, isRegular ? 30 : 20)
         .accessibilityElement(children: .combine)
     }
 
@@ -255,7 +289,6 @@ struct WelcomeView: View {
                 .accessibilityAddTraits(settings.language == language ? [.isSelected] : [])
             }
         }
-        .padding(.top, 4)
     }
 }
 
@@ -286,7 +319,7 @@ struct WelcomePage: Identifiable, Sendable {
             isLanguageChoice: true
         ),
         WelcomePage(
-            id: 1, symbol: "book.closed", art: "scripture",
+            id: 1, symbol: "book.closed",
             titleSa: "सम्पूर्ण गीता", titleEn: "The complete Gita",
             bodySa: "सात सौ श्लोक — अनुवाद और भावार्थ सहित, बिना इंटरनेट के।",
             bodyEn: "All 700 verses, with translation and meaning. Works entirely offline."
