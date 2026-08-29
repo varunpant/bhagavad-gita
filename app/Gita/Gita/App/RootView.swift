@@ -20,6 +20,10 @@ struct RootView: View {
 
     @State private var showingSplash = !ProcessInfo.processInfo.arguments.contains("-skipSplash")
 
+    /// Shown once, on a first launch — and afterwards only from Settings, where
+    /// the same six pages serve as the guide.
+    @State private var showsWelcome = false
+
     /// Long enough for the ground to finish resolving from soft to sharp — the
     /// splash animation is two seconds, and cutting away mid-focus would look
     /// like a glitch rather than a transition.
@@ -62,7 +66,16 @@ struct RootView: View {
                     .transition(.opacity)
                     .zIndex(1)
             }
+
+            // After the splash, not instead of it: the app opens on the brand
+            // ramp either way, and the welcome carries the same surface on.
+            if showsWelcome, !showingSplash {
+                WelcomeView { withAnimation(.easeOut(duration: 0.3)) { showsWelcome = false } }
+                    .transition(.opacity)
+                    .zIndex(4)
+            }
         }
+        .task { showsWelcome = !settings.hasSeenWelcome }
         .publishesProgressToWidgets()
         .animation(reduceMotion ? nil : .snappy(duration: 0.28), value: drawer.isSearching)
         .animation(reduceMotion ? nil : .snappy(duration: 0.3), value: progress.newlyEarned.first)

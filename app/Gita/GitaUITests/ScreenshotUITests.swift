@@ -304,6 +304,32 @@ final class LanguageCheckUITests: XCTestCase {
         try capture("check-overflow-1.26-xl")
     }
 
+    /// Every page of the welcome, which is also the guide.
+    func testTheWelcomeSlider() throws {
+        let app = XCUIApplication()
+        app.launchArguments += ["-resetSettings", "-skipSplash", "-showWelcome"]
+        app.launch()
+
+        let advance = app.buttons["welcomeAdvance"]
+        XCTAssertTrue(advance.waitForExistence(timeout: 15), "the welcome did not open")
+        try capture("check-welcome-1")
+
+        // Choose English on the first page, so the rest is in English — the
+        // whole point of asking there.
+        app.buttons["welcomeLanguage-english"].tap()
+        try capture("check-welcome-1-english")
+
+        for page in 2 ... 7 {
+            advance.tap()
+            try capture("check-welcome-\(page)")
+        }
+
+        // The last page begins the reading, and the welcome does not come back.
+        advance.tap()
+        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10))
+        XCTAssertFalse(advance.exists, "the welcome stayed up")
+    }
+
     /// A kept verse: nothing on the shloka, the header's bookmark filled with
     /// the brand ramp.
     func testAKeptVerseIsMarkedOnlyOnTheButton() throws {

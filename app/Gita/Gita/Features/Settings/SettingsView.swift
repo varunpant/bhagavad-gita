@@ -30,6 +30,9 @@ struct SettingsView: View {
     /// Set when the reader has declined notifications, so the footer can say so
     /// rather than leaving a switch that looks on but does nothing.
     @State private var reminderDenied = false
+    /// The welcome, shown again on request — it is the guide as much as it is
+    /// an introduction, and one that can only ever be seen once is neither.
+    @State private var showingGuide = false
 
     var body: some View {
         Group {
@@ -51,6 +54,9 @@ struct SettingsView: View {
         }
         .tint(theme.accent)
         .background(theme.background)
+        .fullScreenCoverIfAvailable(isPresented: $showingGuide) {
+            WelcomeView { showingGuide = false }
+        }
         #if os(macOS)
         // A macOS sheet sizes to its content, which for a Form means a cramped
         // column. Give it room to breathe, and let it grow with the window.
@@ -124,6 +130,27 @@ struct SettingsView: View {
                         .tint(theme.selectionTint)
                 } header: {
                     heading("Show beneath the shloka")
+                }
+                .listRowBackground(theme.surface)
+
+                Section {
+                    Button {
+                        showingGuide = true
+                    } label: {
+                        HStack {
+                            label("Guide")
+                            Spacer()
+                            Image(systemName: "questionmark.circle")
+                                .foregroundStyle(theme.textSecondary)
+                        }
+                        .contentShape(.rect)
+                    }
+                    .buttonStyle(.plain)
+                    .accessibilityIdentifier("showGuide")
+                } header: {
+                    heading("About")
+                } footer: {
+                    caption("The welcome tour, whenever you want it again.")
                 }
                 .listRowBackground(theme.surface)
 

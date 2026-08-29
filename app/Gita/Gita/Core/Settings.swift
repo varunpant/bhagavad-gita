@@ -105,6 +105,10 @@ final class Settings {
     /// feature nobody can find is a feature nobody has.
     var showShareBar = true { didSet { persist(showShareBar, .showShareBar) } }
 
+    /// Whether the welcome has been shown. Written the moment it is dismissed,
+    /// so a crash on the first verse cannot resurrect it.
+    var hasSeenWelcome = false { didSet { persist(hasSeenWelcome, .hasSeenWelcome) } }
+
     /// Where the reader last was, so opening the app resumes rather than
     /// restarting. Zero means "never read anything yet".
     var lastVerseID = 0 { didSet { persist(String(lastVerseID), .lastVerseID) } }
@@ -122,7 +126,7 @@ final class Settings {
         case theme, language, textSize
         case showTranslation, showMeaning, showWordByWord
         case dailyReminder, reminderMinutes
-        case lastVerseID, immersiveReading, showShareBar
+        case lastVerseID, immersiveReading, showShareBar, hasSeenWelcome
     }
 
     init(store: UserDatabase? = nil) {
@@ -140,6 +144,12 @@ final class Settings {
             }
             if ProcessInfo.processInfo.arguments.contains("-immersive") {
                 immersiveReading = true
+            }
+            // A reset is a fresh install as far as the store is concerned, so
+            // the welcome would open in front of every UI test in the suite.
+            // Tests that want it ask for it.
+            if ProcessInfo.processInfo.arguments.contains("-resetSettings") {
+                hasSeenWelcome = !ProcessInfo.processInfo.arguments.contains("-showWelcome")
             }
             let arguments = ProcessInfo.processInfo.arguments
             if let index = arguments.firstIndex(of: "-forceTheme"),
@@ -177,6 +187,7 @@ final class Settings {
         reminderMinutes = values[Key.reminderMinutes.rawValue].flatMap(Int.init) ?? 8 * 60
         lastVerseID = values[Key.lastVerseID.rawValue].flatMap(Int.init) ?? 0
         immersiveReading = values[Key.immersiveReading.rawValue].map { $0 == "1" } ?? false
+        hasSeenWelcome = values[Key.hasSeenWelcome.rawValue].map { $0 == "1" } ?? false
         showShareBar = values[Key.showShareBar.rawValue].map { $0 == "1" } ?? true
     }
 

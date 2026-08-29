@@ -58,3 +58,18 @@ extension Array {
         }
     }
 }
+
+extension View {
+    /// `fullScreenCover` on iOS, a plain `sheet` on macOS, where it does not
+    /// exist. One helper rather than an `#if` at the call site.
+    @ViewBuilder
+    func fullScreenCoverIfAvailable<Content: View>(
+        isPresented: Binding<Bool>, @ViewBuilder content: @escaping () -> Content
+    ) -> some View {
+        #if os(iOS)
+        fullScreenCover(isPresented: isPresented, content: content)
+        #else
+        sheet(isPresented: isPresented, content: content)
+        #endif
+    }
+}
