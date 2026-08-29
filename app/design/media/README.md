@@ -119,10 +119,12 @@ If a genuine Home Screen capture becomes possible, prefer it.
 
 ---
 
-## iPad — five panels, 2752 × 2064 landscape
+## iPad — five panels, 2064 × 2752 portrait
 
-Landscape throughout: portrait iPad is a large iPhone, and hides the one thing
-the iPad build does differently.
+**Portrait, not landscape.** The plan was landscape, for the one frame a phone
+cannot show — rail, panel and reader together. The app is now locked to portrait
+on every device, so that frame does not exist and the set follows the app. The
+side-by-side story is still tellable in portrait, with the panel over the page.
 
 ### 1. `ipad-1-open` — the whole book, open
 **Caption:** The whole Gita open at once

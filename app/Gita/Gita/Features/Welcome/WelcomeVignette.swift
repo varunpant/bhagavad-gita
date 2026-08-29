@@ -29,7 +29,11 @@ struct WelcomeVignette: View {
             // and one 320pt card left two of them mostly empty. Capped, because
             // past about 700pt a screenshot of a phone stops looking like one.
             .containerRelativeFrame([.horizontal, .vertical], alignment: .top) { length, axis in
-                axis == .horizontal ? min(length * 0.86, 700) : length * 0.50
+                // Half the height, and anchored at the top of the page, so the
+                // card ends at the middle and the title begins there — the same
+                // line on every page, which is what stops the slider bobbing as
+                // it is swiped.
+                axis == .horizontal ? min(length * 0.88, 720) : length * 0.50
             }
             .clipped()
             // Dissolves on all four sides. Top and bottom because the screen

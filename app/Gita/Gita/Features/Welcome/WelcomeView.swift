@@ -60,8 +60,6 @@ struct WelcomeView: View {
 
     var body: some View {
         VStack(spacing: 0) {
-            skip
-
             ScrollView(.horizontal) {
                 LazyHStack(spacing: 0) {
                     ForEach(pages) { item in
@@ -87,30 +85,6 @@ struct WelcomeView: View {
     }
 
     // MARK: - Chrome
-
-    /// Only while there is somewhere to skip to. On the last page the primary
-    /// button says the same thing, and two ways out side by side is one too
-    /// many.
-    @ViewBuilder
-    private var skip: some View {
-        HStack {
-            Spacer()
-            if (page ?? 0) < pages.count - 1 {
-                Button(action: finish) {
-                    Text(isDevanagari ? "छोड़ें" : "Skip")
-                        .font(isDevanagari ? .labelDevanagari : .label)
-                        .foregroundStyle(.secondary)
-                        .padding(.horizontal, 16)
-                        .padding(.vertical, 10)
-                        .contentShape(.rect)
-                }
-                .buttonStyle(.plain)
-                .accessibilityIdentifier("welcomeSkip")
-            }
-        }
-        .frame(height: 44)
-        .padding(.trailing, 8)
-    }
 
     private var dots: some View {
         HStack(spacing: 8) {
@@ -173,15 +147,12 @@ struct WelcomeView: View {
 
     @ViewBuilder
     private func page(_ item: WelcomePage) -> some View {
-        VStack(spacing: isRegular ? 34 : 24) {
-            // Barely a gap above a card on a large screen: it belongs near the
-            // top, so the title falls just below the middle rather than the
-            // whole page hanging in the centre of thirteen inches. The first
-            // page has no card and stays centred, or the greeting floats in the
-            // top third with the rest of the screen empty under it.
-            if isRegular, !item.isLanguageChoice {
-                Spacer(minLength: 0).frame(maxHeight: 24)
-            } else {
+        VStack(spacing: isRegular ? 32 : 22) {
+            // A card page starts at the top: the screenshot is the largest
+            // thing here and the page is read downwards, so the title and its
+            // line fall under it and the space that is left is at the foot.
+            // Only the first page, which has no card, stays centred.
+            if item.isLanguageChoice {
                 Spacer(minLength: 0)
             }
 
