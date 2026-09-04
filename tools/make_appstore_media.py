@@ -73,6 +73,10 @@ PANEL_65 = (1284, 2778)
 # the shot is placed rather than scaled.
 PANEL_IPAD = (2064, 2752)
 PREVIEW = (886, 1920)
+# The iPad app preview. Same 0.75 aspect as the 13" simulator's portrait screen,
+# so the recording downscales with no crop and no letterbox — the same luck the
+# iPhone pair has.
+PREVIEW_IPAD = (1200, 1600)
 
 # The simulators to shoot on, newest runtime that has each.
 DEVICE = "iPhone 16 Pro Max"
@@ -375,7 +379,7 @@ def build_preview() -> None:
         raise SystemExit("error: ffmpeg failed\n" + result.stderr[-2000:])
 
 
-def caption_face() -> ImageFont.FreeTypeFont:
+def caption_face(frame: tuple[int, int] = PREVIEW) -> ImageFont.FreeTypeFont:
     """The one size every caption is set in.
 
     Fitted to the longest line in `CAPTIONS` rather than to each caption
@@ -383,16 +387,18 @@ def caption_face() -> ImageFont.FreeTypeFont:
     a long one, and captions that change size between beats read as seven
     different designs rather than one.
     """
-    room = PREVIEW[0] - CAPTION_MARGIN * 2 - CAPTION_PADDING * 2
+    k = frame[0] / PREVIEW[0]
+    room = frame[0] - (CAPTION_MARGIN + CAPTION_PADDING) * 2 * k
     lines = [line for text in CAPTIONS.values() for line in text.split("\n")]
-    for points in range(50, 29, -2):
+    for points in range(int(50 * k), int(29 * k), -2):
         face = ImageFont.truetype(SERIF_BOLD, points)
         if max(face.getbbox(line)[2] for line in lines) <= room:
             return face
-    return ImageFont.truetype(SERIF_BOLD, 30)
+    return ImageFont.truetype(SERIF_BOLD, int(30 * k))
 
 
-def caption_band(text: str, into: Path) -> Path:
+def caption_band(text: str, into: Path,
+                 frame: tuple[int, int] = PREVIEW) -> Path:
     """One caption, drawn as a band and saved as a transparent PNG.
 
     Drawn with Pillow rather than with ffmpeg's `drawtext`, for two reasons. The
@@ -406,17 +412,18 @@ def caption_band(text: str, into: Path) -> Path:
     ground, the same pairing as the panels — white on the yellow end of the brand
     ramp is the one place it loses its contrast.
     """
-    padding, spacing = CAPTION_PADDING, 14
-    face = caption_face()
+    k = frame[0] / PREVIEW[0]
+    padding, spacing = int(CAPTION_PADDING * k), int(14 * k)
+    face = caption_face(frame)
 
     measure = ImageDraw.Draw(Image.new("RGB", (1, 1)))
     _, top, _, bottom = measure.multiline_textbbox((0, 0), text, font=face,
                                                    spacing=spacing)
     height = int(bottom - top) + padding * 2
 
-    band = Image.new("RGBA", (PREVIEW[0] - CAPTION_MARGIN * 2, height), (0, 0, 0, 0))
+    band = Image.new("RGBA", (frame[0] - int(CAPTION_MARGIN * 2 * k), height), (0, 0, 0, 0))
     draw = ImageDraw.Draw(band)
-    draw.rounded_rectangle([0, 0, band.width - 1, band.height - 1], radius=26,
+    draw.rounded_rectangle([0, 0, band.width - 1, band.height - 1], radius=int(26 * k),
                            fill=(0xFF, 0xE7, 0xA8, 235))
     draw.multiline_text((band.width // 2, padding - top), text, font=face,
                         fill=(0x63, 0x22, 0x06, 255), anchor="ma",
@@ -425,28 +432,32 @@ def caption_band(text: str, into: Path) -> Path:
     return into
 
 
-def closing_card() -> Path:
+def closing_card(frame: tuple[int, int] = PREVIEW, name: str = "closing") -> Path:
     """The last frame: the mark on the brand ground, the name, the promise."""
-    card = ground(PREVIEW)
-    mark = brand_mark(360, GROUND_LIGHT)
+    k = frame[0] / PREVIEW[0]
+    card = ground(frame)
+    side = int(360 * k)
+    mark = brand_mark(side, GROUND_LIGHT)
 
-    top = int(PREVIEW[1] * 0.30)
-    drop(card, ((PREVIEW[0] - 360) // 2, top, 360, 360), 80)
-    card.paste(mark, ((PREVIEW[0] - 360) // 2, top), rounded(mark.size, 80))
+    top = int(frame[1] * 0.30)
+    left = (frame[0] - side) // 2
+    drop(card, (left, top, side, side), int(80 * k))
+    card.paste(mark, (left, top), rounded(mark.size, int(80 * k)))
 
     draw = ImageDraw.Draw(card)
-    y = top + 360 + 90
-    for text, face, colour, gap in (
-        ("Gita", ImageFont.truetype(SERIF_BOLD, 92), (0x63, 0x22, 0x06), 124),
-        (CARD_LINES[0], ImageFont.truetype(SERIF, 40), (0x7A, 0x2E, 0x08), 56),
-        (CARD_LINES[1], ImageFont.truetype(SERIF, 40), (0x7A, 0x2E, 0x08), 0),
+    y = top + side + int(90 * k)
+    for text, points, colour, gap in (
+        ("Gita", 92, (0x63, 0x22, 0x06), 124),
+        (CARD_LINES[0], 40, (0x7A, 0x2E, 0x08), 56),
+        (CARD_LINES[1], 40, (0x7A, 0x2E, 0x08), 0),
     ):
-        draw.text((PREVIEW[0] // 2, y + 3), text, font=face,
+        face = ImageFont.truetype(SERIF_BOLD if points == 92 else SERIF, int(points * k))
+        draw.text((frame[0] // 2, y + int(3 * k)), text, font=face,
                   fill=(0xFF, 0xE7, 0xA8), anchor="ma")
-        draw.text((PREVIEW[0] // 2, y), text, font=face, fill=colour, anchor="ma")
-        y += gap
+        draw.text((frame[0] // 2, y), text, font=face, fill=colour, anchor="ma")
+        y += int(gap * k)
 
-    path = VIDEO / "closing.png"
+    path = VIDEO / f"{name}.png"
     card.save(path)
     return path
 
@@ -598,15 +609,32 @@ def compose_ipad() -> None:
 def capture_ipad(udid: str) -> None:
     """The same four screens, on a tablet, kept in their own folder.
 
-    The tests write to `raw/` by name, so without the move the second device to
-    run would quietly overwrite the first one's captures — and the panels would
-    be composed from whichever ran last.
+    The tests write to `raw/<name>.png` whatever they are running on, so the two
+    devices collide twice over: the iPad run overwrites the iPhone captures on
+    its way past, and moving its own results into `raw/ipad/` afterwards then
+    takes those files away altogether. The first iPad run did exactly that and
+    the iPhone shots had to come back out of git.
+
+    So the iPhone captures are held aside for the length of the run and put
+    back. Belt and braces against a half-finished run: the restore is in a
+    `finally`.
     """
-    capture_stills(udid)
+    held = Path(tempfile.mkdtemp(prefix="gita-iphone-shots-"))
+    for name, _ in STILLS:
+        shot = RAW / f"{name}.png"
+        if shot.exists():
+            shutil.copy2(shot, held / f"{name}.png")
+
     shots = RAW / "ipad"
     shots.mkdir(parents=True, exist_ok=True)
-    for name, _ in STILLS:
-        (RAW / f"{name}.png").replace(shots / f"{name}.png")
+    try:
+        capture_stills(udid)
+        for name, _ in STILLS:
+            (RAW / f"{name}.png").replace(shots / f"{name}.png")
+    finally:
+        for kept in held.iterdir():
+            shutil.copy2(kept, RAW / kept.name)
+        shutil.rmtree(held, ignore_errors=True)
 
 
 def compose() -> None:
