@@ -49,20 +49,33 @@ extension Theme {
 /// Widget type, which is not reading type.
 ///
 /// `Font+Roles` is sized for a page held at reading distance; a widget is
-/// glanced at from across a desk, so it wants its own scale. The faces are the
-/// same two the app reads in — Kohinoor for Devanagari, Georgia for Latin — so
-/// the family still holds.
+/// glanced at from across a desk, so it wants its own scale.
+///
+/// **These are system faces, and the app's are not.** The app reads in Inter
+/// and Noto Sans Devanagari, both bundled. A widget draws in its own process
+/// and cannot read the app's bundle, so matching it exactly would mean a
+/// second copy of both files — 1.5 MB of an extension whose whole job is to
+/// show one verse. The near neighbours cost nothing and are already on every
+/// device: SF Pro is the face Inter was drawn in the lineage of, and Kohinoor
+/// is the contemporary Devanagari sans that sits closest to Noto's.
+///
+/// The consequence is worth naming: the widget is *deliberately* a shade off
+/// the app. At widget sizes, glanced at, that is a trade worth making — but if
+/// the two are ever put side by side in a screenshot, they will not be the
+/// same typeface, and that is not a bug.
 extension Font {
     static func widgetNumber(_ size: CGFloat) -> Font {
-        .system(size: size, weight: .light, design: .serif)
+        .system(size: size, weight: .light)
     }
 
+    /// Kohinoor ships with both iOS and macOS; if it is ever absent SwiftUI
+    /// falls back to the system Devanagari face rather than failing.
     static func widgetDevanagari(_ size: CGFloat) -> Font {
         .custom("KohinoorDevanagari-Light", size: size)
     }
 
-    static func widgetSerif(_ size: CGFloat) -> Font {
-        .custom("Georgia", size: size)
+    static func widgetLatin(_ size: CGFloat) -> Font {
+        .system(size: size)
     }
 
     /// Section labels: small, spaced, upper case. The one place the widget does

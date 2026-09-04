@@ -13,6 +13,15 @@ struct GitaApp: App {
     /// initialisers.
     private static let store = UserDatabase.shared
 
+    /// Both faces are bundled rather than system, so nothing can draw in them
+    /// until they are registered. Done here, in `init`, because a `.task` on
+    /// the root view runs *after* the first layout — long enough for the
+    /// splash and the first verse to be composed in the system face and then
+    /// reflowed once the real one arrives.
+    init() {
+        Fonts.register()
+    }
+
     @State private var library = Library()
     @State private var settings = Settings(store: Self.store)
     @State private var semanticIndex = SemanticIndex()

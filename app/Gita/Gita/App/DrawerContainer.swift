@@ -24,9 +24,6 @@ struct DrawerContainer<Content: View>: View {
 
     private let railWidth: CGFloat = 72
 
-    /// The welcome, opened as the guide. Presented from here rather than from
-    /// the reader because the rail is what raised it.
-    @State private var showingGuide = false
     private let content: Content
 
     init(@ViewBuilder content: () -> Content) {
@@ -110,6 +107,9 @@ struct DrawerContainer<Content: View>: View {
                         onClose: { drawer.panel = nil }
                     )
                     .transition(.move(edge: .leading))
+                case .help:
+                    HelpView(onClose: { drawer.panel = nil })
+                        .transition(.move(edge: .leading))
                 case nil:
                     Color.clear
                 }
@@ -120,9 +120,6 @@ struct DrawerContainer<Content: View>: View {
             .ignoresSafeArea(edges: .bottom)
             .allowsHitTesting(drawer.panel != nil)
             .zIndex(1)
-        }
-        .fullScreenCoverIfAvailable(isPresented: $showingGuide) {
-            WelcomeView { showingGuide = false }
         }
         .animation(reduceMotion ? nil : .snappy(duration: 0.32), value: drawer.isOpen)
         .animation(reduceMotion ? nil : .snappy(duration: 0.30), value: drawer.panel)
@@ -182,13 +179,15 @@ struct DrawerContainer<Content: View>: View {
 
             Spacer()
 
-            // The guide, beside Settings at the foot: both are about the app
-            // rather than about the book, which is what the rest of the rail
-            // is for.
-            railButton("questionmark.circle", label: "Guide") {
-                Haptics.selection()
-                showingGuide = true
-            }
+            // Help, beside Settings at the foot: both are about the app rather
+            // than about the book, which is what the rest of the rail is for.
+            //
+            // This was the welcome slider, opened as a full-screen cover. A
+            // nine-page introduction is the wrong answer to "what does this
+            // button do" — it is a fixed sequence that has to be walked, where
+            // the question is a lookup. The introduction is still available,
+            // from Settings; the rail now holds the reference.
+            panelButton(.help)
 
             // Settings sits at the foot rather than at the head. At the top it
             // was level with the status bar and the reader's own header, which
@@ -208,7 +207,7 @@ struct DrawerContainer<Content: View>: View {
             // rests, and it needs something to do.
             Button { drawer.close() } label: {
                 Text(verbatim: "ग")
-                    .font(.custom("KohinoorDevanagari-Light", size: 30))
+                    .font(.custom(Fonts.devanagari, size: 30).weight(.light))
                     .foregroundStyle(.white.opacity(0.95))
                     .frame(width: railWidth, height: 52)
                     .contentShape(.rect)

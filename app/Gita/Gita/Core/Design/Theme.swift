@@ -88,6 +88,46 @@ enum Theme: String, Sendable {
         }
     }
 
+    /// `selectionTint` with a sheen, for the one selected thing on a panel.
+    ///
+    /// Built *around* each theme's own tint rather than from the whole ramp,
+    /// so `onSelection` stays the right ink. Sweeping yellow to vermillion in
+    /// every theme would look like the brand but break that pairing: dark ink
+    /// is correct on Light's yellow and invisible on the vermillion the same
+    /// sweep would end in.
+    ///
+    /// Sepia keeps a single hue and shifts only in weight. It is the one theme
+    /// that already colours its controls, and a second colour beside that reads
+    /// as a mistake, which is the rule `selectionTint` above follows too.
+    var selectionGradient: LinearGradient {
+        let stops: [Color] = switch self {
+        case .light: [Brand.ramp[0], Brand.ramp[1]]
+        case .dark:  [Brand.ramp[2], Brand.ramp[3]]
+        case .sepia: [accent, accent.opacity(0.78)]
+        }
+        return LinearGradient(colors: stops, startPoint: .topLeading, endPoint: .bottomTrailing)
+    }
+
+    /// The switch track, which is the same idea with a different constraint.
+    ///
+    /// A track carries no text, only a white knob, so it is free to sweep the
+    /// ramp properly where `selectionGradient` cannot: yellow into orange in
+    /// Light, and the same sweep reversed in Dark, so the deep end meets the
+    /// eye first against a dark ground. Sepia shifts weight rather than hue,
+    /// for the reason given above.
+    ///
+    /// Two gradients rather than one because the constraints genuinely differ.
+    /// Reversing this one under a numeral would end Dark's sweep in yellow,
+    /// and `onSelection` there is white.
+    var switchGradient: LinearGradient {
+        let stops: [Color] = switch self {
+        case .light: [Brand.ramp[0], Brand.ramp[2]]
+        case .dark:  [Brand.ramp[2], Brand.ramp[0]]
+        case .sepia: [accent.opacity(0.78), accent]
+        }
+        return LinearGradient(colors: stops, startPoint: .leading, endPoint: .trailing)
+    }
+
     /// The ink to draw *on* `selectionTint`.
     ///
     /// Not `background`, which is what a monochrome accent wanted: white on the

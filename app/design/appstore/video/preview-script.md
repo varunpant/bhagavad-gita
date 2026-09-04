@@ -103,7 +103,7 @@ a four-minute run of the simulator to find:
 
 ### The gold rings — beat 3 is doing two jobs
 
-`FamousVerses.all` is a hand-picked set of **twenty-five verses** — 2.20, 2.47,
+`FamousVerses.all` is a hand-picked set of **eighty verses** — 2.20, 2.47,
 4.7, 9.22, 18.66 and the rest — the ones a reader is most likely to arrive
 already knowing. In the contents they carry a gold ring around the verse number.
 

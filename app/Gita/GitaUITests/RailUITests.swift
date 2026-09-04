@@ -216,29 +216,50 @@ final class RailSelectionUITests: XCTestCase {
     }
 }
 
-/// The guide, reached from the rail.
+/// Help on the rail, and the welcome behind it in Settings.
 @MainActor
-final class RailGuideUITests: XCTestCase {
+final class RailHelpUITests: XCTestCase {
 
-    /// The welcome is the guide, and the rail is where a reader looks for help.
-    func testTheGuideIconOpensTheWelcome() {
+    /// The rail is where a reader looks for help, and what they find there is
+    /// the reference — not the nine-page introduction, which used to be here.
+    func testTheHelpIconOpensTheHelpPanel() {
         let app = XCUIApplication()
         app.launchArguments += ["-resetSettings", "-skipSplash", "-startInEnglish"]
         app.launch()
         XCTAssertTrue(app.buttons["menuButton"].waitForExistence(timeout: 15))
         app.buttons["menuButton"].tap()
 
-        XCTAssertTrue(app.buttons["Guide"].waitForExistence(timeout: 5), "no guide on the rail")
-        app.buttons["Guide"].tap()
+        XCTAssertTrue(app.buttons["Help"].waitForExistence(timeout: 5), "no help on the rail")
+        app.buttons["Help"].tap()
 
-        // The welcome, from its first page.
+        XCTAssertTrue(app.staticTexts["Reading a verse"].waitForExistence(timeout: 10),
+                      "the help panel did not open")
+
+        // The welcome is emphatically not what the rail opens any more.
+        XCTAssertFalse(app.buttons["welcomeAdvance"].exists)
+
+        // And the panel is written in whichever script the rail's own switch is
+        // set to — it carries no second one. This is the rule in
+        // `app/CLAUDE.md`: exactly one language switcher, and it is that button.
+        app.buttons["languageToggle"].tap()
+        XCTAssertTrue(app.staticTexts["श्लोक पढ़ना"].waitForExistence(timeout: 5),
+                      "the help panel did not follow the rail's script switch")
+        XCTAssertFalse(app.staticTexts["Reading a verse"].exists)
+    }
+
+    /// The introduction kept its way back, one door along: Settings, under
+    /// About, where a reader looks for a thing they saw once.
+    func testSettingsOpensTheWelcome() {
+        let app = XCUIApplication()
+        app.launchArguments += ["-resetSettings", "-skipSplash", "-startInEnglish", "-openSettings"]
+        app.launch()
+
+        let guideRow = app.buttons["showGuide"]
+        XCTAssertTrue(guideRow.waitForExistence(timeout: 15), "no welcome tour in Settings")
+        guideRow.tap()
+
         XCTAssertTrue(app.buttons["welcomeAdvance"].waitForExistence(timeout: 10),
-                      "the guide did not open")
+                      "the welcome did not open")
         XCTAssertTrue(app.buttons["welcomeLanguage-english"].exists)
-
-        // And it goes away again, back to the book.
-        for _ in 0 ..< 7 { app.buttons["welcomeAdvance"].tap() }
-        XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 10),
-                      "the guide did not close")
     }
 }

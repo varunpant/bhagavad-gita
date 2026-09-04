@@ -43,6 +43,19 @@ struct TableOfContentsView: View {
         .background(theme.background)
         .tint(theme.accent)
         .onAppear { expandedChapter = currentVerse?.chapter }
+        // The corpus loads asynchronously, and `currentVerse` is looked up in
+        // it — so on a cold launch straight into this panel there is no current
+        // verse yet when `onAppear` runs, and the reader is shown eighteen
+        // closed chapters with no sign of where they are. This fills that in
+        // the moment the lookup succeeds.
+        //
+        // Guarded on `nil` so it only ever fills a blank: once a chapter is
+        // open, it is the reader's, and moving through the book must not
+        // reach in and reopen something they closed.
+        .onChange(of: currentVerse?.chapter) { _, chapter in
+            guard expandedChapter == nil, let chapter else { return }
+            expandedChapter = chapter
+        }
         #if os(macOS)
         .frame(minWidth: 420, idealWidth: 480, minHeight: 520, idealHeight: 640)
         #endif
@@ -84,7 +97,12 @@ struct TableOfContentsView: View {
     }
 
     private func chapterRow(_ chapter: Chapter, snapshot: ProgressSnapshot) -> some View {
-        Button {
+        let isOpen = expandedChapter == chapter.id
+        // Open or current, either way the disc is filled and the numeral is
+        // drawn in the ink that goes on a filled disc.
+        let isFilled = isOpen || isCurrent(chapter)
+
+        return Button {
             // Opening a chapter is the one move in the contents that changes
             // the panel without leaving it. Choosing a verse needs nothing
             // here: it moves the reader, and the page turn speaks for it.
@@ -99,13 +117,9 @@ struct TableOfContentsView: View {
                 Text(isDevanagari ? chapter.devanagariNumber : "\(chapter.id)")
                     .font(isDevanagari ? .wordDevanagari : .wordLatin)
                     .monospacedDigit()
-                    .foregroundStyle(isCurrent(chapter) ? theme.onSelection : theme.accent)
+                    .foregroundStyle(isFilled ? theme.onSelection : theme.accent)
                     .frame(width: 34, height: 34)
-                    .background {
-                        Circle()
-                            .fill(isCurrent(chapter) ? theme.selectionTint : .clear)
-                            .overlay(Circle().stroke(theme.accent.opacity(0.35), lineWidth: 1))
-                    }
+                    .background { numeralDisc(isOpen: isOpen, chapter: chapter) }
 
                 VStack(alignment: .leading, spacing: 3) {
                     Text(isDevanagari ? chapter.nameSa : chapter.nameEn)
@@ -151,6 +165,29 @@ struct TableOfContentsView: View {
         .accessibilityValue("\(snapshot.versesRead(inChapter: chapter.id)) read")
     }
 
+    /// The chapter numeral's disc.
+    ///
+    /// Two filled states, and the open one wins where they coincide. The
+    /// **open** accordion takes the theme's selection gradient, which is the
+    /// only gradient on the panel and marks the one chapter the reader is
+    /// looking into. The chapter they are reading *in* keeps the flat tint, so
+    /// the two are still tellable apart when they are different chapters.
+    ///
+    /// The gradient comes from `Theme`, not from `Brand`, which is what makes
+    /// this honour the theme: Light sweeps its yellow, Dark its deep orange,
+    /// and Sepia shifts weight without introducing a second hue. Sweeping the
+    /// whole ramp in every theme would put white numerals on yellow in Dark.
+    @ViewBuilder
+    private func numeralDisc(isOpen: Bool, chapter: Chapter) -> some View {
+        if isOpen {
+            Circle().fill(theme.selectionGradient)
+        } else {
+            Circle()
+                .fill(isCurrent(chapter) ? theme.selectionTint : .clear)
+                .overlay(Circle().stroke(theme.accent.opacity(0.35), lineWidth: 1))
+        }
+    }
+
     /// Grey throughout, and absent entirely until something has been read in
     /// that chapter — eighteen "0" markers on a first launch would be a wall of
     /// zeroes telling a new reader they have failed at nothing.
@@ -181,6 +218,13 @@ struct TableOfContentsView: View {
     /// only). Grey rather than a tint, because the accent is monochrome in
     /// every theme but Sepia — a coloured "read" marker would be the only
     /// colour on the panel.
+    ///
+    /// A well-known verse wears a marigold ring where the others have a grey
+    /// one. That is deliberately a different channel from the three states
+    /// above — fill for progress, edge for the text itself — because fame is a
+    /// property of the verse and progress is a property of the reader, so the
+    /// two have to be readable at once and must never be mistaken for each
+    /// other. See `FamousVerses`.
     private func verseGrid(for chapter: Chapter) -> some View {
         let verses = library.verses(inChapter: chapter.id)
         return LazyVGrid(columns: [GridItem(.adaptive(minimum: 46), spacing: 10)], spacing: 10) {
@@ -195,6 +239,7 @@ struct TableOfContentsView: View {
     private func chip(_ verse: Verse) -> some View {
         let isCurrent = verse.id == currentVerse?.id
         let isRead = progress.hasRead(verse.id)
+        let isFamous = verse.isFamous
 
         return Button {
             choose(verse)
@@ -212,10 +257,7 @@ struct TableOfContentsView: View {
                 .background {
                     Circle()
                         .fill(fill(isCurrent: isCurrent, isRead: isRead))
-                        .overlay(
-                            Circle().stroke(theme.divider, lineWidth: 1)
-                                .opacity(isCurrent ? 0 : 1)
-                        )
+                        .overlay { ring(isCurrent: isCurrent, isFamous: isFamous) }
                 }
                 .contentShape(.rect)
         }
@@ -241,8 +283,49 @@ struct TableOfContentsView: View {
             }
         }
         .accessibilityLabel("Verse \(verse.chapter).\(verse.sutra)")
-        .accessibilityValue(isRead ? "Read" : "Not read")
+        // Two facts, and VoiceOver gets both — the marker is not decoration,
+        // and a reader who cannot see it should still be told which verses the
+        // world quotes.
+        .accessibilityValue(isFamous
+                            ? (isRead ? "Read, well known" : "Not read, well known")
+                            : (isRead ? "Read" : "Not read"))
         .accessibilityIdentifier("verse-\(verse.chapter).\(verse.sutra)")
+    }
+
+    /// The chip's edge, which is where being well known is said.
+    ///
+    /// The **border**, not a mark added beside it: the three progress states
+    /// live in the disc's *fill* — accent filled, grey filled, empty — so the
+    /// edge is free to carry something else entirely, and a verse can be read
+    /// and famous, or unread and famous, with both facts legible at once. An
+    /// earlier version drew a small rule under the chip instead; a ring is the
+    /// same information without adding a second object to a grid of 78.
+    ///
+    /// The ramp is the one deliberate exception to this panel's monochrome.
+    /// The rule against colour here is about *progress* markers — a coloured
+    /// "read" would be the only colour on the panel and would read as a reward.
+    /// This is furniture: an editorial note about the text, in the colour the
+    /// app uses for furniture everywhere else.
+    ///
+    /// Where the reader is now takes precedence and wears no ring at all: that
+    /// chip is filled with the selection tint, and a marigold ring around a
+    /// marigold disc says nothing.
+    @ViewBuilder
+    private func ring(isCurrent: Bool, isFamous: Bool) -> some View {
+        if isCurrent {
+            EmptyView()
+        } else if isFamous {
+            // `strokeBorder`, not `stroke` — a stroke straddles the path and
+            // would spill half its width outside the 38pt chip, which at
+            // 1.5pt is enough to crowd its neighbours in the grid.
+            Circle().strokeBorder(
+                LinearGradient(colors: Brand.ramp,
+                               startPoint: .topLeading, endPoint: .bottomTrailing),
+                lineWidth: 1.5
+            )
+        } else {
+            Circle().strokeBorder(theme.divider, lineWidth: 1)
+        }
     }
 
     private func fill(isCurrent: Bool, isRead: Bool) -> Color {

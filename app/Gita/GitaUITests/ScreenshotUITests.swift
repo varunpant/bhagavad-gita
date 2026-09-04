@@ -641,8 +641,12 @@ final class ReadingMarksUITests: XCTestCase {
         for verse in 1 ... 3 {
             let chip = app.buttons["verse-1.\(verse)"]
             XCTAssertTrue(chip.waitForExistence(timeout: 5), "no chip for 1.\(verse)")
-            XCTAssertEqual(chip.value as? String, "Read",
-                           "1.\(verse) was read but is not marked")
+            // A prefix, not the whole value: a well-known verse says so in the
+            // same string — 1.1 reads "Read, well known" — and this test is
+            // about the reading, not about the ring.
+            let value = chip.value as? String ?? ""
+            XCTAssertTrue(value.hasPrefix("Read"),
+                          "1.\(verse) was read but is marked \(value)")
         }
     }
 
@@ -665,12 +669,14 @@ final class ReadingMarksUITests: XCTestCase {
         relaunched.launchArguments += ["-skipSplash", "-openContentsPanel"]
         relaunched.launch()
         XCTAssertTrue(relaunched.buttons["chapter-1"].waitForExistence(timeout: 15))
-        relaunched.buttons["chapter-1"].tap()
+        // No tap. The contents open on the chapter being read, already
+        // expanded, so tapping the row closes it and takes every chip with it.
 
         let chip = relaunched.buttons["verse-1.1"]
         XCTAssertTrue(chip.waitForExistence(timeout: 5))
-        XCTAssertEqual(chip.value as? String, "Read",
-                       "the read was lost when the app was quit")
+        let value = chip.value as? String ?? ""
+        XCTAssertTrue(value.hasPrefix("Read"),
+                      "the read was lost when the app was quit, chip says \(value)")
     }
 
     /// The other way to mark: long-press a chip in the contents.
@@ -680,7 +686,8 @@ final class ReadingMarksUITests: XCTestCase {
                                 "-openContentsPanel"]
         app.launch()
         XCTAssertTrue(app.buttons["chapter-1"].waitForExistence(timeout: 15))
-        app.buttons["chapter-1"].tap()          // nothing is open on a cold launch
+        // No tap here either: a cold launch is still *in* chapter 1 — the
+        // reader is at 1.1 — so the panel opens with it expanded.
 
         let chip = app.buttons["verse-1.5"]
         XCTAssertTrue(chip.waitForExistence(timeout: 5), "no chip for 1.5")

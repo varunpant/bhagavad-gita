@@ -72,7 +72,7 @@ struct DailyVerseView: View {
 
                 if let english = verse.english {
                     Text(english)
-                        .font(.widgetSerif(12))
+                        .font(.widgetLatin(12))
                         .foregroundStyle(theme.textSecondary)
                         .lineSpacing(1)
                         .lineLimit(3)

@@ -515,22 +515,32 @@ private struct ShlokaPage: View {
         .frame(maxWidth: .infinity)
     }
 
-    /// Word and gloss, one pair per row, the whole table centred on the page.
+    /// Word and gloss, one pair per row, the boundary between them on the
+    /// page's own centre line.
     ///
     /// A `Grid` keeps the two columns aligned to one shared boundary — rows in a
     /// stack of HStacks would each size independently and the glosses would
-    /// stagger. The grid then sizes to its content, so centring the grid centres
-    /// the table as a block while the columns stay tidily aligned inside it.
-    /// How wide the word column may get before it wraps instead.
+    /// stagger.
     ///
-    /// The grid used to carry `.fixedSize(horizontal: true)`, which told it to
-    /// take its *ideal* width and ignore the width it was offered. In Devanagari
-    /// the ideal width fits a phone and nobody noticed; in English the
-    /// transliteration is compounded into single 30-character words, so the grid
-    /// drew itself far wider than the screen and the whole list hung off both
-    /// edges — the page "overflowing to the right" on switching language.
-    private var wordColumnWidth: CGFloat { 150 }
-
+    /// **Both columns are flexible and equal**, which is what puts that
+    /// boundary in the middle and keeps it there. The word column used to be a
+    /// fixed 150pt and the gloss column its natural width, with the whole grid
+    /// centred as a block; that centres the *table* but not the *gutter*. With
+    /// a 150pt column in a 376pt measure the boundary fell 42pt left of centre,
+    /// so every short word sat left of the middle and every gloss leaned right
+    /// of it — and because the grid's width came from the longest gloss, the
+    /// whole arrangement shifted whenever the face or the wording changed. It
+    /// moved visibly when the Latin face became Inter, whose glosses set wider
+    /// than Georgia's at the same size. Two equal halves cannot drift: words
+    /// end at the centre, meanings begin there, in either script and at every
+    /// text size.
+    ///
+    /// The grid must not carry `.fixedSize(horizontal: true)`. That tells it to
+    /// take its *ideal* width and ignore the width it was offered — in
+    /// Devanagari the ideal fits a phone and nobody noticed, but the English
+    /// transliteration is sandhi-compounded into single 30-character words, so
+    /// the grid drew itself far wider than the screen and the list hung off
+    /// both edges.
     private var wordList: some View {
         VStack(spacing: 14) {
             heading(isDevanagari ? "शब्दार्थ" : "WORD BY WORD")
@@ -543,23 +553,26 @@ private struct ShlokaPage: View {
                             .foregroundStyle(theme.accent)
                             .multilineTextAlignment(.trailing)
                             .gridColumnAlignment(.trailing)
-                            // Wraps rather than pushing the row wider. Devanagari
-                            // words are short; their transliterations are
-                            // sandhi-compounded — "kārpaṇya-doṣa-upahata-svabhāvaḥ"
-                            // is one word — and a column sized to that leaves the
+                            // Half the measure, and wrapping inside it rather
+                            // than pushing the row wider. Devanagari words are
+                            // short; their transliterations are sandhi-compounded
+                            // — "kārpaṇya-doṣa-upahata-svabhāvaḥ" is one word —
+                            // and a column sized to *that* would leave the
                             // meanings a ribbon.
-                            .frame(maxWidth: wordColumnWidth, alignment: .trailing)
+                            .frame(maxWidth: .infinity, alignment: .trailing)
                             .fixedSize(horizontal: false, vertical: true)
                         Text(word.m)
                             .font(isDevanagari ? .glossDevanagari : .glossLatin)
                             .foregroundStyle(theme.textSecondary)
                             .multilineTextAlignment(.leading)
                             .gridColumnAlignment(.leading)
+                            .frame(maxWidth: .infinity, alignment: .leading)
                             .fixedSize(horizontal: false, vertical: true)
                     }
                     .accessibilityElement(children: .combine)
                 }
             }
+            .frame(maxWidth: .infinity)
             // Position is the row identity, so the two languages' lists must not
             // be diffed against each other — rebuild outright on a switch.
             .id(language)

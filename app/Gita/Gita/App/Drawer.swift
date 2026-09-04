@@ -14,7 +14,7 @@ import SwiftUI
 @Observable
 final class Drawer {
     enum Destination: String, CaseIterable, Equatable {
-        case settings, contents, bookmarks, progress
+        case settings, contents, bookmarks, progress, help
 
         /// The rail's icon and the noun in its label. Kept beside the case so
         /// the two cannot drift, and so a fifth panel is one line here rather
@@ -25,6 +25,7 @@ final class Drawer {
             case .contents: "list.bullet"
             case .bookmarks: "bookmark"
             case .progress: "chart.bar"
+            case .help: "questionmark.circle"
             }
         }
 
@@ -46,9 +47,17 @@ final class Drawer {
     /// Set when a search result is chosen; the reader consumes and clears it.
     var requestedVerseID: Int?
 
+    /// Open when asked for the rail — **or** when asked for a panel.
+    ///
+    /// A panel is always drawn beside the rail and inset by its width, because
+    /// by hand there is no way to reach one without the rail being open: you
+    /// tap it there. Launching straight into a panel used to set only `panel`,
+    /// which produced a state no tap can make — a panel holding a 72pt gutter
+    /// open for a rail that is not on screen, with the reader showing through
+    /// it. Every screenshot taken that way misrepresented the app.
     var isOpen: Bool = {
         #if DEBUG
-        ProcessInfo.processInfo.arguments.contains("-openMenu")
+        ProcessInfo.processInfo.arguments.contains("-openMenu") || Drawer.launchPanel != nil
         #else
         false
         #endif
@@ -58,22 +67,34 @@ final class Drawer {
     /// because the rail keeps this one — the reader is not involved.
     var panel: Destination? = {
         #if DEBUG
-        {
-            let arguments = ProcessInfo.processInfo.arguments
-            if arguments.contains("-openSettingsPanel") || arguments.contains("-openSettings") {
-                return .settings
-            }
-            if arguments.contains("-openContentsPanel") || arguments.contains("-openContents") {
-                return .contents
-            }
-            if arguments.contains("-openBookmarksPanel") { return .bookmarks }
-            if arguments.contains("-openProgressPanel") { return .progress }
-            return nil
-        }()
+        Drawer.launchPanel
         #else
         nil
         #endif
     }()
+
+    #if DEBUG
+    /// The panel a debug launch argument asks for, if any.
+    ///
+    /// Lifted out of `panel`'s initialiser so `isOpen` can consult the same
+    /// answer rather than a second copy of the argument list that would drift
+    /// the next time a panel is added.
+    private static let launchPanel: Destination? = {
+        let arguments = ProcessInfo.processInfo.arguments
+        if arguments.contains("-openSettingsPanel") || arguments.contains("-openSettings") {
+            return .settings
+        }
+        if arguments.contains("-openContentsPanel") || arguments.contains("-openContents") {
+            return .contents
+        }
+        if arguments.contains("-openBookmarksPanel") { return .bookmarks }
+        if arguments.contains("-openProgressPanel") { return .progress }
+        if arguments.contains("-openHelpPanel") || arguments.contains("-openHelp") {
+            return .help
+        }
+        return nil
+    }()
+    #endif
 
     func open() {
         guard !isOpen else { return }

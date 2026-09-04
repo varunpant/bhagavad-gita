@@ -36,17 +36,17 @@ struct SplashView: View {
 
             VStack(spacing: 18) {
                 Text(verbatim: "ग")
-                    .font(.custom("KohinoorDevanagari-Light", size: 96))
+                    .font(.custom(Fonts.devanagari, size: 96).weight(.light))
                     .foregroundStyle(.white)
                     .opacity(markShown ? 1 : 0)
                     .scaleEffect(markShown ? 1 : 0.88)
 
                 VStack(spacing: -2) {
                     Text(verbatim: "श्रीमद्")
-                        .font(.custom("KohinoorDevanagari-Light", size: 26))
+                        .font(.custom(Fonts.devanagari, size: 26).weight(.light))
                         .foregroundStyle(.white.opacity(0.92))
                     Text(verbatim: "भगवद्गीता")
-                        .font(.custom("KohinoorDevanagari-Medium", size: 34))
+                        .font(.custom(Fonts.devanagari, size: 34).weight(.medium))
                         .foregroundStyle(.white)
                 }
                 .opacity(wordmarkShown ? 1 : 0)

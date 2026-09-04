@@ -53,6 +53,9 @@ struct SettingsView: View {
             }
         }
         .tint(theme.accent)
+        // One style for every switch in the form, rather than a tint repeated
+        // on each of the six. See `BrandToggleStyle`.
+        .toggleStyle(BrandToggleStyle(theme: theme))
         .background(theme.background)
         .fullScreenCoverIfAvailable(isPresented: $showingGuide) {
             WelcomeView { showingGuide = false }
@@ -96,11 +99,9 @@ struct SettingsView: View {
                     } label: {
                         label("Language")
                     }
-                    .pickerStyle(.inline)
                     VStack(alignment: .leading, spacing: 4) {
                         Toggle(isOn: $settings.immersiveReading) { label("Immersive") }
                             .accessibilityIdentifier("toggleImmersive")
-                            .tint(theme.selectionTint)
                         // The edge strips still work, and are the easier target
                         // one-handed — but a double tap works anywhere on the
                         // page, so it is the one thing worth telling a reader
@@ -110,7 +111,6 @@ struct SettingsView: View {
                     VStack(alignment: .leading, spacing: 4) {
                         Toggle(isOn: $settings.showShareBar) { label("Share bar") }
                             .accessibilityIdentifier("toggleShareBar")
-                            .tint(theme.selectionTint)
                         caption("A link and an image button beneath each shloka.")
                     }
                 } header: {
@@ -121,15 +121,12 @@ struct SettingsView: View {
                 Section {
                     Toggle(isOn: $settings.showTranslation) { label("Translation") }
                         .accessibilityIdentifier("toggleTranslation")
-                        .tint(theme.selectionTint)
                     Toggle(isOn: $settings.showMeaning) { label("Meaning") }
                         .accessibilityIdentifier("toggleMeaning")
-                        .tint(theme.selectionTint)
                     Toggle(isOn: $settings.showWordByWord) { label("Word by word") }
                         .accessibilityIdentifier("toggleWordByWord")
-                        .tint(theme.selectionTint)
                 } header: {
-                    heading("Show beneath the shloka")
+                    heading("Verse details")
                 }
                 .listRowBackground(theme.surface)
 
@@ -138,10 +135,19 @@ struct SettingsView: View {
                         showingGuide = true
                     } label: {
                         HStack {
-                            label("Guide")
+                            label("Welcome tour")
                             Spacer()
-                            Image(systemName: "questionmark.circle")
-                                .foregroundStyle(theme.textSecondary)
+                            // `hand.wave` rather than `questionmark.circle`.
+                            // A question mark offers to answer something, and
+                            // this answers nothing — it replays the greeting
+                            // the app opens with, which is what the row now
+                            // says. Drawn at `.title2` because it is the only
+                            // thing in Settings that *does* something rather
+                            // than holding a value, and in the accent because
+                            // a larger grey glyph is just a larger grey glyph.
+                            Image(systemName: "hand.wave")
+                                .font(.title2)
+                                .foregroundStyle(theme.accent)
                         }
                         .contentShape(.rect)
                     }
@@ -149,8 +155,6 @@ struct SettingsView: View {
                     .accessibilityIdentifier("showGuide")
                 } header: {
                     heading("About")
-                } footer: {
-                    caption("The welcome tour, whenever you want it again.")
                 }
                 .listRowBackground(theme.surface)
 
@@ -158,7 +162,6 @@ struct SettingsView: View {
                     VStack(alignment: .leading, spacing: 4) {
                         Toggle(isOn: $settings.dailyReminder) { label("Daily verse") }
                             .accessibilityIdentifier("toggleDailyReminder")
-                            .tint(theme.selectionTint)
                         if reminderDenied {
                             caption("Notifications are off for Gita in the Settings app.")
                         }

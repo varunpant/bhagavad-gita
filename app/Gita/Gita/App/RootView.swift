@@ -75,6 +75,23 @@ struct RootView: View {
                     .zIndex(4)
             }
         }
+        // No clock, no battery, no carrier — on every screen, not just the
+        // guide. The reading surface is the whole page, and the one piece of
+        // furniture the app cannot style is the one it does not own.
+        //
+        // Belt and braces, and the braces are in `Gita-Info.plist`:
+        // `UIViewControllerBasedStatusBarAppearance` is NO there, which takes
+        // the decision away from the hosting controller altogether. This line
+        // is the belt — a preference, which is all SwiftUI can express, and
+        // which is why it was not enough on its own.
+        //
+        // A Mac has no status bar to hide, and the modifier is not merely a
+        // no-op there — it is `unavailable`, so the smallest possible `#if`
+        // rather than a cross-platform call, which is the rule the rest of
+        // this target follows.
+        #if os(iOS)
+        .statusBarHidden(true)
+        #endif
         .task { showsWelcome = !settings.hasSeenWelcome }
         .publishesProgressToWidgets()
         .animation(reduceMotion ? nil : .snappy(duration: 0.28), value: drawer.isSearching)

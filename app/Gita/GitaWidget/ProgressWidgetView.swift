@@ -84,7 +84,7 @@ struct ProgressWidgetView: View {
                 .lineLimit(1)
 
             Text(dividedBy(progress.totalVerses))
-                .font(isDevanagari ? .widgetDevanagari(size * 0.44) : .widgetSerif(size * 0.42))
+                .font(isDevanagari ? .widgetDevanagari(size * 0.44) : .widgetLatin(size * 0.42))
                 .foregroundStyle(theme.textSecondary)
                 .lineLimit(1)
         }
