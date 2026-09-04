@@ -53,6 +53,7 @@ PROJECT = ROOT / "app" / "Gita"
 OUT = ROOT / "app" / "design" / "appstore"
 RAW = OUT / "raw"
 PANELS = OUT / "iphone-6.9"
+PANELS_65 = OUT / "iphone-6.5"
 VIDEO = OUT / "video"
 # Outside the repository on purpose: a test build of this app is about a
 # gigabyte, and the first version of this script put it under app/design/.
@@ -60,6 +61,12 @@ DERIVED = Path(tempfile.gettempdir()) / "gita-appstore-build"
 
 # App Store Connect's 6.9" panel, and its preview video.
 PANEL = (1290, 2796)
+# The 6.5" set, for the row that predates it. Providing 6.9" is enough on its
+# own — Connect scales it down for every smaller iPhone — but the 6.5" row is
+# still on the page and refuses a 6.9" file, which reads as "the dimensions are
+# wrong" rather than as "that is the wrong row". Composing both makes the
+# question moot.
+PANEL_65 = (1284, 2778)
 PREVIEW = (886, 1920)
 
 # The 6.9" simulator to shoot on, newest runtime that has it.
@@ -489,16 +496,17 @@ def caption(panel: Image.Image, text: str) -> int:
     return int(bottom)
 
 
-def device_panel(shot: Image.Image, text: str) -> Image.Image:
+def device_panel(shot: Image.Image, text: str,
+                 size: tuple[int, int] = PANEL) -> Image.Image:
     """A screenshot in a phone, running off the bottom edge of the panel."""
-    panel = ground(PANEL)
+    panel = ground(size)
     top = caption(panel, text) + 96
 
-    width = int(PANEL[0] * 0.72)
+    width = int(size[0] * 0.72)
     height = int(width * shot.height / shot.width)
     bezel, radius = 16, int(width * 0.105)
 
-    left = (PANEL[0] - width) // 2
+    left = (size[0] - width) // 2
     drop(panel, (left, top, width, height), radius)
 
     body = Image.new("RGB", (width, height), (0x1A, 0x14, 0x12))
@@ -508,15 +516,16 @@ def device_panel(shot: Image.Image, text: str) -> Image.Image:
     return panel
 
 
-def card_panel(card: Image.Image, text: str) -> Image.Image:
+def card_panel(card: Image.Image, text: str,
+               size: tuple[int, int] = PANEL) -> Image.Image:
     """The share card is square and is its own artwork — no phone around it."""
-    panel = ground(PANEL)
+    panel = ground(size)
     top = caption(panel, text)
 
-    side = int(PANEL[0] * 0.80)
+    side = int(size[0] * 0.80)
     radius = int(side * 0.06)
-    left = (PANEL[0] - side) // 2
-    top += (PANEL[1] - top - side) // 2          # centred in what is left
+    left = (size[0] - side) // 2
+    top += (size[1] - top - side) // 2           # centred in what is left
 
     drop(panel, (left, top, side, side), radius)
     square = card.resize((side, side), Image.LANCZOS)
@@ -525,19 +534,32 @@ def card_panel(card: Image.Image, text: str) -> Image.Image:
 
 
 def compose() -> None:
-    PANELS.mkdir(parents=True, exist_ok=True)
-    for name, text in STILLS:
-        source = RAW / f"{name}.png"
-        if not source.exists():
-            raise SystemExit(f"error: {source.relative_to(ROOT)} is missing — capture first")
-        device_panel(Image.open(source).convert("RGB"), text).save(PANELS / f"{name}.png")
-        print(f"  {name}")
+    """Both iPhone sets, from the same captures.
 
-    name, text = CARD_PANEL
-    source = RAW / "5-card.png"
-    if source.exists():
-        card_panel(Image.open(source).convert("RGB"), text).save(PANELS / f"{name}.png")
-        print(f"  {name}")
+    Composed at each size rather than resized from the larger: the caption face
+    and the phone's corner radius are in points, so a resize would leave the
+    6.5" set slightly softer and slightly differently proportioned than the one
+    beside it.
+    """
+    for folder, size in ((PANELS, PANEL), (PANELS_65, PANEL_65)):
+        folder.mkdir(parents=True, exist_ok=True)
+        print(f"  {folder.name}")
+        for name, text in STILLS:
+            source = RAW / f"{name}.png"
+            if not source.exists():
+                raise SystemExit(
+                    f"error: {source.relative_to(ROOT)} is missing — capture first"
+                )
+            shot = Image.open(source).convert("RGB")
+            device_panel(shot, text, size).save(folder / f"{name}.png")
+            print(f"    {name}")
+
+        name, text = CARD_PANEL
+        source = RAW / "5-card.png"
+        if source.exists():
+            card = Image.open(source).convert("RGB")
+            card_panel(card, text, size).save(folder / f"{name}.png")
+            print(f"    {name}")
 
 
 # ------------------------------------------------------------------------ main
@@ -577,7 +599,7 @@ def main() -> None:
     if not options.stills_only:
         record_video(udid)
 
-    print(f"\npanels -> {PANELS.relative_to(ROOT)}")
+    print(f"\npanels -> {PANELS.relative_to(ROOT)} and {PANELS_65.relative_to(ROOT)}")
     print(f"video  -> {(VIDEO / 'preview.mp4').relative_to(ROOT)}")
 
 
