@@ -54,6 +54,7 @@ OUT = ROOT / "app" / "design" / "appstore"
 RAW = OUT / "raw"
 PANELS = OUT / "iphone-6.9"
 PANELS_65 = OUT / "iphone-6.5"
+PANELS_IPAD = OUT / "ipad-13"
 VIDEO = OUT / "video"
 # Outside the repository on purpose: a test build of this app is about a
 # gigabyte, and the first version of this script put it under app/design/.
@@ -67,10 +68,15 @@ PANEL = (1290, 2796)
 # wrong" rather than as "that is the wrong row". Composing both makes the
 # question moot.
 PANEL_65 = (1284, 2778)
+# The 13" iPad panel. Required as soon as iPad stays in the app record, and the
+# iPad Pro 13-inch (M4) simulator is exactly this many pixels in portrait, so
+# the shot is placed rather than scaled.
+PANEL_IPAD = (2064, 2752)
 PREVIEW = (886, 1920)
 
-# The 6.9" simulator to shoot on, newest runtime that has it.
+# The simulators to shoot on, newest runtime that has each.
 DEVICE = "iPhone 16 Pro Max"
+DEVICE_IPAD = "iPad Pro 13-inch (M4)"
 
 SERIF_BOLD = "/System/Library/Fonts/Supplemental/Georgia Bold.ttf"
 SERIF = "/System/Library/Fonts/Supplemental/Georgia.ttf"
@@ -128,17 +134,17 @@ def run(command: list[str], **kwargs) -> subprocess.CompletedProcess:
     return subprocess.run(command, capture_output=True, text=True, **kwargs)
 
 
-def simulator() -> str:
-    """The udid of the newest 6.9" iPhone runtime installed."""
+def simulator(device: str = DEVICE) -> str:
+    """The udid of the newest runtime installed for a named simulator."""
     listing = run(["xcrun", "simctl", "list", "devices", "available"]).stdout
-    found = re.findall(rf"^\s+{re.escape(DEVICE)} \(([0-9A-F-]+)\)", listing, re.M)
+    found = re.findall(rf"^\s+{re.escape(device)} \(([0-9A-F-]+)\)", listing, re.M)
     if not found:
-        raise SystemExit(f"error: no {DEVICE} simulator installed")
+        raise SystemExit(f"error: no {device} simulator installed")
     return found[-1]          # simctl lists runtimes oldest first
 
 
-def boot(udid: str) -> None:
-    print(f"booting {DEVICE} ({udid[:8]})")
+def boot(udid: str, device: str = DEVICE) -> None:
+    print(f"booting {device} ({udid[:8]})")
     run(["xcrun", "simctl", "boot", udid])
     subprocess.run(["xcrun", "simctl", "bootstatus", udid, "-b"], check=False)
     # 9:41, full bars, charged. Apple's own convention, and it keeps two runs
@@ -463,48 +469,71 @@ def rounded(size: tuple[int, int], radius: int) -> Image.Image:
     return mask
 
 
+def scale(panel: Image.Image) -> float:
+    """How much bigger this panel is than the 6.9" one everything was drawn for.
+
+    The type size, the offsets, the bezel and the blur radius were all chosen
+    against a 1290-wide panel. On a 2064-wide iPad panel the same pixel values
+    are two thirds the size — a caption that looked like a headline becomes a
+    label. Every one of them is multiplied through this instead.
+    """
+    return panel.width / PANEL[0]
+
+
 def drop(panel: Image.Image, box: tuple[int, int, int, int], radius: int) -> None:
     """A soft shadow under a rounded shape, blurred rather than stacked — the
     same reason `make_brand.glow` is computed: stacked outlines band."""
     left, top, width, height = box
+    k = scale(panel)
     shadow = Image.new("L", panel.size, 0)
     ImageDraw.Draw(shadow).rounded_rectangle(
-        [left, top + 26, left + width, top + height + 26], radius=radius, fill=150
+        [left, top + 26 * k, left + width, top + height + 26 * k],
+        radius=radius, fill=150,
     )
-    shadow = shadow.filter(ImageFilter.GaussianBlur(46))
+    shadow = shadow.filter(ImageFilter.GaussianBlur(46 * k))
     panel.paste(Image.new("RGB", panel.size, (0x6B, 0x22, 0x06)), (0, 0), shadow)
 
 
 def caption(panel: Image.Image, text: str) -> int:
     """Two centred lines at the top. Returns the y the artwork may start at."""
+    k = scale(panel)
     draw = ImageDraw.Draw(panel)
-    face = ImageFont.truetype(SERIF_BOLD, 88)
-    top = 186
+    face = ImageFont.truetype(SERIF_BOLD, int(88 * k))
+    top = int(186 * k)
+    spacing = int(26 * k)
 
     # Deep brown, not white. The panel's caption sits on the yellow end of the
     # ramp, which is the one place white loses its contrast — at carousel size
     # it goes soft and unreadable. The pale line under it is a lift, not a
     # shadow: it separates the letters from the ground without a halo.
-    for offset, fill in (((0, 3), (0xFF, 0xE7, 0xA8)), ((0, 0), (0x63, 0x22, 0x06))):
+    for offset, fill in (((0, int(3 * k)), (0xFF, 0xE7, 0xA8)),
+                         ((0, 0), (0x63, 0x22, 0x06))):
         draw.multiline_text(
             (panel.width // 2 + offset[0], top + offset[1]), text, font=face,
-            fill=fill, anchor="ma", align="center", spacing=26,
+            fill=fill, anchor="ma", align="center", spacing=spacing,
         )
 
     _, _, _, bottom = draw.multiline_textbbox((panel.width // 2, top), text,
-                                              font=face, anchor="ma", spacing=26)
+                                              font=face, anchor="ma", spacing=spacing)
     return int(bottom)
 
 
-def device_panel(shot: Image.Image, text: str,
-                 size: tuple[int, int] = PANEL) -> Image.Image:
-    """A screenshot in a phone, running off the bottom edge of the panel."""
-    panel = ground(size)
-    top = caption(panel, text) + 96
+def device_panel(shot: Image.Image, text: str, size: tuple[int, int] = PANEL,
+                 across: float = 0.72, corner: float = 0.105) -> Image.Image:
+    """A screenshot in a device, running off the bottom edge of the panel.
 
-    width = int(size[0] * 0.72)
+    `across` and `corner` are what make the same drawing work for a tablet: an
+    iPad is wider in proportion and its corners are far less round, and a 13"
+    shot in a phone-shaped frame with phone-sized corners reads as a phone
+    someone stretched.
+    """
+    panel = ground(size)
+    k = scale(panel)
+    top = caption(panel, text) + int(96 * k)
+
+    width = int(size[0] * across)
     height = int(width * shot.height / shot.width)
-    bezel, radius = 16, int(width * 0.105)
+    bezel, radius = int(16 * k), int(width * corner)
 
     left = (size[0] - width) // 2
     drop(panel, (left, top, width, height), radius)
@@ -531,6 +560,53 @@ def card_panel(card: Image.Image, text: str,
     square = card.resize((side, side), Image.LANCZOS)
     panel.paste(square, (left, top), rounded(square.size, radius))
     return panel
+
+
+def compose_ipad() -> None:
+    """The 13" iPad panels, from the iPad captures.
+
+    Kept apart from the iPhone sets because the shots are different files: an
+    iPad screen is not an iPhone screen scaled, and the panel has to show the
+    app as it lays itself out on a tablet or the panel is a lie.
+    """
+    shots = RAW / "ipad"
+    if not (shots / "1-sanskrit.png").exists():
+        raise SystemExit("error: no iPad captures — run with --ipad first")
+
+    PANELS_IPAD.mkdir(parents=True, exist_ok=True)
+    print(f"  {PANELS_IPAD.name}")
+    for name, text in STILLS:
+        source = shots / f"{name}.png"
+        if not source.exists():
+            raise SystemExit(f"error: {source.relative_to(ROOT)} is missing")
+        panel = device_panel(Image.open(source).convert("RGB"), text, PANEL_IPAD,
+                             across=0.78, corner=0.038)
+        panel.save(PANELS_IPAD / f"{name}.png")
+        print(f"    {name}")
+
+    # The share card is the app's own artwork at any size, so the iPad panel
+    # uses the same render as the iPhone one rather than a second copy of it.
+    name, text = CARD_PANEL
+    card = RAW / "5-card.png"
+    if card.exists():
+        card_panel(Image.open(card).convert("RGB"), text, PANEL_IPAD).save(
+            PANELS_IPAD / f"{name}.png"
+        )
+        print(f"    {name}")
+
+
+def capture_ipad(udid: str) -> None:
+    """The same four screens, on a tablet, kept in their own folder.
+
+    The tests write to `raw/` by name, so without the move the second device to
+    run would quietly overwrite the first one's captures — and the panels would
+    be composed from whichever ran last.
+    """
+    capture_stills(udid)
+    shots = RAW / "ipad"
+    shots.mkdir(parents=True, exist_ok=True)
+    for name, _ in STILLS:
+        (RAW / f"{name}.png").replace(shots / f"{name}.png")
 
 
 def compose() -> None:
@@ -573,15 +649,32 @@ def main() -> None:
     parser.add_argument("--compose-only", action="store_true")
     parser.add_argument("--captions-only", action="store_true",
                         help="rebuild preview.mp4 from the tour already recorded")
+    parser.add_argument("--ipad", action="store_true",
+                        help="shoot and compose the 13\" iPad panels instead")
     options = parser.parse_args()
 
     RAW.mkdir(parents=True, exist_ok=True)
 
     if options.compose_only:
-        return compose()
+        compose()
+        if (RAW / "ipad" / "1-sanskrit.png").exists():
+            compose_ipad()
+        return
 
     if options.captions_only:
         return build_preview()
+
+    if options.ipad:
+        udid = simulator(DEVICE_IPAD)
+        boot(udid, DEVICE_IPAD)
+        if not options.skip_build:
+            print("building for testing")
+            xcodebuild("-destination", f"id={udid}", "build-for-testing")
+        capture_ipad(udid)
+        print("composing panels")
+        compose_ipad()
+        print(f"\npanels -> {PANELS_IPAD.relative_to(ROOT)}")
+        return
 
     udid = simulator()
     boot(udid)

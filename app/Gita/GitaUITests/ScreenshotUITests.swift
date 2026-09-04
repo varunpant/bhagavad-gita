@@ -5,6 +5,9 @@
 
 import Foundation
 import XCTest
+#if os(iOS)
+import UIKit
+#endif
 
 /// App Store capture. Not a test of anything — it drives the app to five screens
 /// and writes what it sees to disk, and it drives a slower scripted tour that the
@@ -43,6 +46,19 @@ final class ScreenshotUITests: XCTestCase {
     private func launch(_ arguments: [String]) -> XCUIApplication {
         let app = XCUIApplication()
         app.launchArguments += ["-resetSettings", "-skipSplash"] + arguments
+        #if os(iOS)
+        // Bigger type on a tablet, because that is what a tablet is read at.
+        //
+        // The reading column is capped at 680pt so a line never runs the width
+        // of a 13" screen, which is right for reading and wrong for a store
+        // panel: at default size the page is a small block of text adrift in
+        // white, and at carousel size none of it can be read. The size is a
+        // real setting the reader has, not a mock-up — the same rule the
+        // preview video's `-showWordByWord` follows.
+        if UIDevice.current.userInterfaceIdiom == .pad {
+            app.launchArguments += ["-forceTextSize", "extraLarge"]
+        }
+        #endif
         app.launch()
         return app
     }
