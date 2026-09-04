@@ -46,7 +46,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from make_brand import GROUND_LIGHT                                # noqa: E402
+from make_brand import GROUND_LIGHT, compose as brand_mark         # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 PROJECT = ROOT / "app" / "Gita"
@@ -78,6 +78,35 @@ STILLS = [
     ("4-progress", "See how far\nyou have come"),
 ]
 CARD_PANEL = ("5-card", "Share any verse\nas a card")
+
+# The preview's captions, one per beat of the tour, keyed by the name the tour
+# records in `tour-timeline.json`. The copy lives here rather than in the test so
+# it can be rewritten without rebuilding a test target — the test decides *when*
+# a beat happens, this decides what it says. Two lines, same as the panels.
+CAPTIONS = {
+    "opening": "All 700 verses,\nin the original Sanskrit",
+    "verse": "Translation, meaning,\nand every word explained",
+    "language": "Read in Sanskrit\nor in English",
+    "contents": "Every chapter, every verse —\nthe famous ones ringed in gold",
+    "search": "Search by word, meaning\nor number — instantly, offline",
+    "keep": "Keep a verse,\nor share it as a card",
+    "progress": "Read at your own pace —\nthirty-five goals on the way",
+}
+
+# The closing card: the mark, the name, and the one line nothing else in the
+# video says. Held long enough to survive being the poster frame and being what
+# is on screen when the loop comes round again.
+CARD_SECONDS = 2.4
+CARD_LINES = ("No account. No ads. No tracking.", "Works offline.")
+
+# App Store Connect takes 15-30s. The tour is paced for about 24s of app; this
+# is the ceiling it is squeezed into if the simulator ran slow on the day.
+FOOTAGE_MAX = 27.4
+# Beyond this the squeeze is visible as hurry rather than as pace.
+FASTEST = 1.25
+
+# The caption band: clear of the frame's edges, and roomy around its own text.
+CAPTION_MARGIN, CAPTION_PADDING = 40, 30
 
 
 # --------------------------------------------------------------------- helpers
@@ -196,7 +225,7 @@ def app_appears(movie: Path) -> float:
 
 
 def record_video(udid: str) -> None:
-    """Record the scripted tour, then transcode it to a preview.
+    """Record the scripted tour, then build the preview from it.
 
     `simctl io recordVideo` writes until it is interrupted, so it runs alongside
     the tour test and takes a SIGINT when the test is done — killing it outright
@@ -205,6 +234,7 @@ def record_video(udid: str) -> None:
     VIDEO.mkdir(parents=True, exist_ok=True)
     source = VIDEO / "tour.mov"
     source.unlink(missing_ok=True)
+    (RAW / "tour-timeline.json").unlink(missing_ok=True)
 
     print("recording the tour")
     recorder = subprocess.Popen(
@@ -220,22 +250,192 @@ def record_video(udid: str) -> None:
         recorder.send_signal(signal.SIGINT)
         recorder.wait(timeout=60)
 
+    build_preview()
+
+
+def timeline() -> list[tuple[str, float, float]]:
+    """The tour's beats as (name, start, end), in seconds from the app appearing.
+
+    Written by the tour itself, because the sleeps in it are not the timings:
+    every tap costs an animation and every query costs a layout pass, and by the
+    last beat a guess made from the source is seconds out. The run measures
+    itself and leaves the answer beside the recording.
+    """
+    written = RAW / "tour-timeline.json"
+    if not written.exists():
+        raise SystemExit(f"error: {written.relative_to(ROOT)} is missing — record first")
+
+    import json
+    entries = json.loads(written.read_text())
+    beats = [(entry["name"], float(entry["at"]), float(entry.get("show", entry["at"])))
+             for entry in entries]
+    if len(beats) < 2 or beats[-1][0] != "end":
+        raise SystemExit("error: the tour timeline is incomplete — the run did not finish")
+
+    # A caption runs from its beat's payoff to the start of the next beat: the
+    # taps that set a screen up are not what the caption is talking about.
+    return [(name, show, beats[index + 1][1])
+            for index, (name, _, show) in enumerate(beats[:-1])]
+
+
+def build_preview() -> None:
+    """Trim, scale, caption, and hang the closing card off the end.
+
+    Split from the recording on purpose: rewriting a caption is a fifteen-second
+    job against the take already on disk, and re-shooting for it would be four
+    minutes of simulator per word.
+    """
+    source = VIDEO / "tour.mov"
+    if not source.exists():
+        raise SystemExit(f"error: {source.relative_to(ROOT)} is missing — record first")
+
+    beats = timeline()
     start = app_appears(source)
-    print(f"transcoding the preview, from {start:.1f}s")
-    # A silent stereo track is deliberate: App Store Connect rejects previews
-    # with no audio stream at all. 28s caps it under the 30s limit whatever the
-    # simulator's pacing did.
-    result = run([
-        "ffmpeg", "-y", "-ss", f"{start:.2f}", "-i", str(source),
-        "-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100",
-        "-t", "28",
-        "-vf", f"scale={PREVIEW[0]}:{PREVIEW[1]}:flags=lanczos,fps=30",
-        "-c:v", "libx264", "-profile:v", "high", "-pix_fmt", "yuv420p",
-        "-b:v", "12M", "-c:a", "aac", "-b:a", "128k", "-shortest",
-        "-movflags", "+faststart", str(VIDEO / "preview.mp4"),
-    ])
+    footage = beats[-1][2]
+
+    # If the simulator ran slow, take the whole thing slightly faster rather
+    # than cutting the last beat off. A tenth quicker reads as pace; a missing
+    # progress screen reads as a shorter app.
+    rate = max(1.0, footage / FOOTAGE_MAX)
+    if rate > FASTEST:
+        raise SystemExit(
+            f"error: the tour ran {footage:.1f}s, which needs a {rate:.2f}x squeeze "
+            f"to fit {FOOTAGE_MAX:.0f}s. Shorten the holds in test9Tour instead."
+        )
+    if rate > 1.0:
+        print(f"  the tour ran {footage:.1f}s — taking it {rate:.2f}x faster")
+
+    card = closing_card()
+    print(f"transcoding the preview, from {start:.1f}s "
+          f"({footage / rate:.1f}s + {CARD_SECONDS:.1f}s card)")
+
+    with tempfile.TemporaryDirectory() as scratch:
+        bands: list[tuple[Path, float, float]] = []
+        # Padded in at both ends, so a caption never straddles a transition.
+        pad = 0.2
+        for index, (name, opens, closes) in enumerate(beats):
+            text = CAPTIONS.get(name)
+            if text is None:
+                continue
+            band = caption_band(text, Path(scratch) / f"{index}.png")
+            bands.append((band, opens / rate + pad,
+                          max(closes / rate - pad, opens / rate + pad + 0.5)))
+
+        length = footage / rate
+        inputs = [
+            "-ss", f"{start:.2f}", "-t", f"{footage:.2f}", "-i", str(source),
+            "-loop", "1", "-t", f"{CARD_SECONDS}", "-i", str(card),
+        ]
+        for band, _, _ in bands:
+            inputs += ["-loop", "1", "-t", f"{length:.2f}", "-i", str(band)]
+        inputs += ["-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100"]
+
+        steps = [
+            f"[0:v]scale={PREVIEW[0]}:{PREVIEW[1]}:flags=lanczos,"
+            f"setpts=PTS/{rate:.4f},fps=30,setsar=1[tour0]"
+        ]
+        for index, (_, opens, closes) in enumerate(bands):
+            # The band sits clear of the home indicator, and clear of the top
+            # third, where the verse reference and the rail live.
+            steps.append(
+                f"[tour{index}][{index + 2}:v]"
+                f"overlay=x=(W-w)/2:y=H-h-150:"
+                f"enable=between(t\\,{opens:.2f}\\,{closes:.2f})[tour{index + 1}]"
+            )
+        steps.append(f"[tour{len(bands)}]format=yuv420p[tour]")
+        steps.append(
+            f"[1:v]scale={PREVIEW[0]}:{PREVIEW[1]},fps=30,setsar=1,format=yuv420p[card]"
+        )
+        steps.append("[tour][card]concat=n=2:v=1:a=0[v]")
+
+        # A silent stereo track is deliberate: App Store Connect rejects
+        # previews with no audio stream at all.
+        result = run([
+            "ffmpeg", "-y", *inputs,
+            "-filter_complex", ";".join(steps),
+            "-map", "[v]", "-map", f"{len(bands) + 2}:a",
+            "-c:v", "libx264", "-profile:v", "high", "-pix_fmt", "yuv420p",
+            "-b:v", "12M", "-c:a", "aac", "-b:a", "128k", "-shortest",
+            "-movflags", "+faststart", str(VIDEO / "preview.mp4"),
+        ])
     if result.returncode != 0:
         raise SystemExit("error: ffmpeg failed\n" + result.stderr[-2000:])
+
+
+def caption_face() -> ImageFont.FreeTypeFont:
+    """The one size every caption is set in.
+
+    Fitted to the longest line in `CAPTIONS` rather than to each caption
+    separately: sized one at a time, a short line came out half again as big as
+    a long one, and captions that change size between beats read as seven
+    different designs rather than one.
+    """
+    room = PREVIEW[0] - CAPTION_MARGIN * 2 - CAPTION_PADDING * 2
+    lines = [line for text in CAPTIONS.values() for line in text.split("\n")]
+    for points in range(50, 29, -2):
+        face = ImageFont.truetype(SERIF_BOLD, points)
+        if max(face.getbbox(line)[2] for line in lines) <= room:
+            return face
+    return ImageFont.truetype(SERIF_BOLD, 30)
+
+
+def caption_band(text: str, into: Path) -> Path:
+    """One caption, drawn as a band and saved as a transparent PNG.
+
+    Drawn with Pillow rather than with ffmpeg's `drawtext`, for two reasons. The
+    ffmpeg on this machine is built without freetype, so `drawtext` does not
+    exist in it at all — and even where it does, this way the video's captions
+    and the panels' captions come out of the same renderer, in the same face, on
+    the same ground. One place to change how a caption looks.
+
+    A band rather than bare letters on the page: over a paragraph of Devanagari,
+    text alone half-disappears into the strokes behind it. Deep brown on the pale
+    ground, the same pairing as the panels — white on the yellow end of the brand
+    ramp is the one place it loses its contrast.
+    """
+    padding, spacing = CAPTION_PADDING, 14
+    face = caption_face()
+
+    measure = ImageDraw.Draw(Image.new("RGB", (1, 1)))
+    _, top, _, bottom = measure.multiline_textbbox((0, 0), text, font=face,
+                                                   spacing=spacing)
+    height = int(bottom - top) + padding * 2
+
+    band = Image.new("RGBA", (PREVIEW[0] - CAPTION_MARGIN * 2, height), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(band)
+    draw.rounded_rectangle([0, 0, band.width - 1, band.height - 1], radius=26,
+                           fill=(0xFF, 0xE7, 0xA8, 235))
+    draw.multiline_text((band.width // 2, padding - top), text, font=face,
+                        fill=(0x63, 0x22, 0x06, 255), anchor="ma",
+                        align="center", spacing=spacing)
+    band.save(into)
+    return into
+
+
+def closing_card() -> Path:
+    """The last frame: the mark on the brand ground, the name, the promise."""
+    card = ground(PREVIEW)
+    mark = brand_mark(360, GROUND_LIGHT)
+
+    top = int(PREVIEW[1] * 0.30)
+    drop(card, ((PREVIEW[0] - 360) // 2, top, 360, 360), 80)
+    card.paste(mark, ((PREVIEW[0] - 360) // 2, top), rounded(mark.size, 80))
+
+    draw = ImageDraw.Draw(card)
+    y = top + 360 + 90
+    for text, face, colour, gap in (
+        ("Gita", ImageFont.truetype(SERIF_BOLD, 92), (0x63, 0x22, 0x06), 124),
+        (CARD_LINES[0], ImageFont.truetype(SERIF, 40), (0x7A, 0x2E, 0x08), 56),
+        (CARD_LINES[1], ImageFont.truetype(SERIF, 40), (0x7A, 0x2E, 0x08), 0),
+    ):
+        draw.text((PREVIEW[0] // 2, y + 3), text, font=face,
+                  fill=(0xFF, 0xE7, 0xA8), anchor="ma")
+        draw.text((PREVIEW[0] // 2, y), text, font=face, fill=colour, anchor="ma")
+        y += gap
+
+    path = VIDEO / "closing.png"
+    card.save(path)
+    return path
 
 
 # -------------------------------------------------------------------- drawing
@@ -349,12 +549,17 @@ def main() -> None:
     parser.add_argument("--stills-only", action="store_true")
     parser.add_argument("--video-only", action="store_true")
     parser.add_argument("--compose-only", action="store_true")
+    parser.add_argument("--captions-only", action="store_true",
+                        help="rebuild preview.mp4 from the tour already recorded")
     options = parser.parse_args()
 
     RAW.mkdir(parents=True, exist_ok=True)
 
     if options.compose_only:
         return compose()
+
+    if options.captions_only:
+        return build_preview()
 
     udid = simulator()
     boot(udid)

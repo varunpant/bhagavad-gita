@@ -155,51 +155,237 @@ final class ScreenshotUITests: XCTestCase {
 
     // MARK: - Tour, for the preview video
 
-    /// A slow, legible walk through the app for the host to record. Everything
-    /// here is paced for someone watching, not for a test — the pauses are the
-    /// point, and the whole thing is about twenty seconds.
+    /// A slow, legible walk through the app for the host to record.
+    ///
+    /// Everything here is paced for someone watching, not for a test — the
+    /// pauses are the point. The shot list it follows is
+    /// `app/design/appstore/video/preview-script.md`; change that first, then
+    /// change this to match.
     ///
     /// The splash is deliberately *not* skipped: it is the brand ramp, and it is
     /// the right opening frame.
+    ///
+    /// Beside the recording it writes `tour-timeline.json`, which is how the
+    /// captions know when to appear. Guessing at the timings from the sleeps
+    /// below does not work — a beat costs whatever the simulator's springs,
+    /// queries and layout passes cost on the day, and by the last beat the
+    /// error is seconds. The run measures itself instead, and
+    /// `make_appstore_media.py` maps those offsets onto the movie.
     func test9Tour() throws {
         let app = XCUIApplication()
-        app.launchArguments += ["-resetSettings", "-startInEnglish", "-seedProgress"]
+        // Devanagari, not English: beat 0 opens on the original script, and
+        // beat 2 is the switch. `-seedProgress` fills the rings that beat 3 and
+        // beat 6 exist to show.
+        app.launchArguments += ["-resetSettings", "-seedProgress", "-showWordByWord"]
         app.launch()
 
         XCTAssertTrue(app.staticTexts["verseReference"].waitForExistence(timeout: 20))
-        Thread.sleep(forTimeInterval: 1.5)
+        // Everything after this is measured from here — the moment the app has
+        // the screen, which is also the frame the transcode trims to.
+        let tour = Timeline()
 
-        // Read down one verse.
+        // 0 — the book, open at its first verse, in Devanagari.
+        tour.beat("opening")
+        tour.show()
+        Thread.sleep(forTimeInterval: 1.9)
+
+        // 1 — down the page: translation, meaning, then every word explained.
+        //
+        // No tap through to the next verse any more. Every XCUITest action costs
+        // a second or more of accessibility work, and the take has to fit inside
+        // thirty seconds — so the actions that survive are the ones that put a
+        // *feature* on screen. Paging between verses is shown by the contents
+        // and by search, twice over.
+        tour.beat("verse")
         app.swipeUp()
-        Thread.sleep(forTimeInterval: 1.2)
-        app.swipeUp()
-        Thread.sleep(forTimeInterval: 1.2)
-
-        // Move through the book.
-        app.buttons["Next verse"].tap()
-        Thread.sleep(forTimeInterval: 1.5)
-
-        // Jump to 2.47 by hand, so the contents panel is on screen on the way.
-        openVerse(2, 47, in: app)
+        tour.show()
         Thread.sleep(forTimeInterval: 2.0)
 
-        // Search.
+        // 2 — the script switch, which lives on the rail because it changes the
+        // whole app rather than the page.
+        //
+        // The rail stays open from here until search sends the reader to a
+        // verse. Closing it and reopening it for the next panel cost two taps
+        // and nearly three seconds, and the open rail is worth seeing: it is
+        // where the switch and the panels are.
+        tour.beat("language")
         app.buttons["menuButton"].tap()
-        Thread.sleep(forTimeInterval: 0.8)
+        let toggle = app.buttons["languageToggle"]
+        XCTAssertTrue(toggle.waitForExistence(timeout: 5))
+        toggle.tap()
+        // Wait for the switch to actually land before the caption claims it.
+        // Tapped 0.4s after the rail was asked to open, the tap fell on a rail
+        // still sliding and did nothing at all — and "Read in Sanskrit or in
+        // English" then sat over a page of unchanged Devanagari. The reference
+        // in the header is the proof: it is the one thing on the page that is
+        // written in whichever language is on.
+        XCTAssertTrue(app.staticTexts["Chapter 1 · Verse 1"].waitForExistence(timeout: 5),
+                      "the language did not switch")
+        tour.show()
+        Thread.sleep(forTimeInterval: 2.0)
+
+        // 3 — the contents, held long enough for the gold rings to register.
+        //
+        // It does not tap through to a verse: a ringed verse is a dozen rows
+        // down a list of seven hundred, and every swipe towards one costs a
+        // fresh accessibility snapshot of the whole panel. Beat 4 arrives at a
+        // verse by searching for it instead, which is a better thing to watch.
+        tour.beat("contents")
+        app.buttons["Contents"].tap()
+        // No tap on a chapter row: the panel opens on the chapter being read,
+        // already expanded, already showing its grid of verse numbers with the
+        // gold rings in it. The tap that used to be here expanded a second
+        // chapter and cost a second and a half to show the same thing.
+        XCTAssertTrue(app.buttons["chapter-1"].waitForExistence(timeout: 5))
+        tour.show()
+        // The ringed verses are what this pause is for. Nothing moves; the eye
+        // is doing the work.
+        Thread.sleep(forTimeInterval: 2.0)
+
+        // 4 — search, from the rail, which is still open beside the contents.
+        tour.beat("search")
         app.buttons["Search"].tap()
         let field = app.textFields["searchField"]
         XCTAssertTrue(field.waitForExistence(timeout: 5))
         field.tap()
         field.typeText("karma")
-        Thread.sleep(forTimeInterval: 2.5)
-        app.buttons["searchClose"].tap()
-        Thread.sleep(forTimeInterval: 1.0)
+        Thread.sleep(forTimeInterval: 0.9)
+        // Drag the results *down* to put the keyboard away: the list is
+        // `.scrollDismissesKeyboard(.interactively)`, which follows a downward
+        // drag. Dragging up scrolls the results and leaves the keyboard sitting
+        // over the bottom third — which is exactly where the caption goes.
+        let results = app.scrollViews.containing(.button, identifier: "searchResult").firstMatch
+        results.swipeDown()
+        tour.show()
+        Thread.sleep(forTimeInterval: 1.5)
+        // Into the first result. Choosing a row is also what puts the rail, the
+        // panel and the search away in one move — `Drawer.requestVerse` clears
+        // all three, which is why the reader is live again for beat 5. Tapping
+        // `searchClose` instead leaves the rail open behind it, and the reader
+        // disabled underneath, which is how the first take of this tour failed.
+        app.buttons.matching(identifier: "searchResult").element(boundBy: 0).tap()
+        Thread.sleep(forTimeInterval: 1.1)
 
-        // And what has been read so far.
+        // 5 — keep it, or send it. The share popup is where this stops: one tap
+        // further is the system share sheet, which is Apple's UI and not ours.
+        tour.beat("keep")
+        app.buttons["bookmarkButton"].tap()
+        tour.show()
+        Thread.sleep(forTimeInterval: 0.7)
+        // The share icon is under the verse, so on a long one it starts below
+        // the fold — and the only `shareButton` in the tree is then the
+        // neighbouring page's, off at x = -170 and disabled. Scroll to it.
+        app.swipeUp()
+        Thread.sleep(forTimeInterval: 0.6)
+        if let share = onscreen("shareButton", in: app) {
+            share.tap()
+            Thread.sleep(forTimeInterval: 1.0)
+            // Dismiss the popover by tapping outside it rather than by pressing
+            // either row — both rows are `ShareLink`s.
+            app.coordinate(withNormalizedOffset: CGVector(dx: 0.5, dy: 0.12)).tap()
+            Thread.sleep(forTimeInterval: 0.3)
+        } else {
+            // The bookmark is half the beat and it has already happened. A take
+            // that films six beats is worth having; one that throws here is not.
+            XCTContext.runActivity(named: "no share icon on this verse") { _ in }
+            Thread.sleep(forTimeInterval: 1.0)
+        }
+
+        // 6 — what the reading has added up to.
+        tour.beat("progress")
         app.buttons["menuButton"].tap()
-        Thread.sleep(forTimeInterval: 0.8)
+        Thread.sleep(forTimeInterval: 0.4)
         app.buttons["Progress"].tap()
-        Thread.sleep(forTimeInterval: 3.0)
+        tour.show()
+        Thread.sleep(forTimeInterval: 1.2)
+        // Down past the ring and the figures to the chapter cards and the goals.
+        app.swipeUp()
+        Thread.sleep(forTimeInterval: 1.3)
+
+        tour.end()
+        try tour.write(to: Self.output.appendingPathComponent("tour-timeline.json"))
+    }
+
+    /// The one on the page in front of the reader.
+    ///
+    /// The reader is a horizontal pager, so the verse to the left and the verse
+    /// to the right are built and present in the accessibility tree with the
+    /// same identifiers as the one on screen. `app.buttons["shareButton"]` took
+    /// the first of the three, which sat at x = -170 and was disabled, and the
+    /// take failed there twice.
+    /// Waits for one, because a page that has just been paged to is laid out a
+    /// beat after it is asked for.
+    ///
+    /// Judged on the **frame**, not on `isHittable` or `isEnabled`. Both are
+    /// true for the neighbouring page's copy sitting at x = -170 — XCUITest
+    /// reasons that it could scroll it into view, and then the scroll it tries
+    /// fails and takes the take with it. A control the camera cannot see is not
+    /// the control this wants, whatever the snapshot says about it.
+    private func onscreen(_ identifier: String, in app: XCUIApplication,
+                          timeout: TimeInterval = 4) -> XCUIElement? {
+        let screen = app.windows.firstMatch.frame
+        let deadline = Date().addingTimeInterval(timeout)
+        repeat {
+            let candidates = app.buttons.matching(identifier: identifier)
+            for index in 0 ..< candidates.count {
+                let candidate = candidates.element(boundBy: index)
+                guard candidate.exists, candidate.isEnabled else { continue }
+                if screen.contains(candidate.frame), candidate.isHittable {
+                    return candidate
+                }
+            }
+            Thread.sleep(forTimeInterval: 0.3)
+        } while Date() < deadline
+        return nil
+    }
+
+}
+
+/// When each beat of the tour began, in seconds from the app taking the screen.
+///
+/// Only the timings live here. The caption copy is in
+/// `tools/make_appstore_media.py`, beside the captions for the still panels, so
+/// the marketing words can be changed without rebuilding a test target — this
+/// side records `contents`, that side decides it says "Every chapter, every
+/// verse".
+private final class Timeline {
+    private let started = Date()
+    private var beats: [(name: String, at: TimeInterval, show: TimeInterval)] = []
+
+    func beat(_ name: String) {
+        let now = Date().timeIntervalSince(started)
+        beats.append((name, now, now))
+    }
+
+    /// The moment the beat's payoff is actually on screen — after the taps that
+    /// set it up, and after the rail has finished sliding.
+    ///
+    /// Without this the caption arrived with the beat, which meant "Read in
+    /// Sanskrit or in English" sat over a rail opening and "the famous ones
+    /// ringed in gold" over a page of prose. A caption describing a screen that
+    /// is not up yet is worse than no caption: it reads as a claim the app did
+    /// not keep.
+    func show() {
+        guard let last = beats.indices.last else { return }
+        beats[last].show = Date().timeIntervalSince(started)
+    }
+
+    /// The end of the last beat, so a caption knows when to leave.
+    func end() {
+        let now = Date().timeIntervalSince(started)
+        beats.append(("end", now, now))
+    }
+
+    func write(to url: URL) throws {
+        let entries = beats.map {
+            ["name": $0.name,
+             "at": String(format: "%.2f", $0.at),
+             "show": String(format: "%.2f", $0.show)]
+        }
+        let data = try JSONSerialization.data(
+            withJSONObject: entries, options: [.prettyPrinted]
+        )
+        try data.write(to: url)
     }
 }
 
@@ -319,7 +505,8 @@ final class LanguageCheckUITests: XCTestCase {
         app.buttons["welcomeLanguage-english"].tap()
         try capture("check-welcome-1-english")
 
-        for page in 2 ... 7 {
+        // Nine pages — keep in step with WelcomePage.all.count.
+        for page in 2 ... 9 {
             advance.tap()
             try capture("check-welcome-\(page)")
         }

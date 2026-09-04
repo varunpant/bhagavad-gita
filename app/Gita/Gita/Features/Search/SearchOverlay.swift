@@ -138,6 +138,10 @@ struct SearchOverlay: View {
             .contentShape(.rect)
         }
         .buttonStyle(.plain)
+        // Named so a test can reach a result without guessing. `app.scrollViews`
+        // matches the reader's pager as readily as this list, and its first
+        // button is a share icon on an off-screen page.
+        .accessibilityIdentifier("searchResult")
     }
 
     private func run() async {

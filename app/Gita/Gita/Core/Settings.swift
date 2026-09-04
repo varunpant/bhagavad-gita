@@ -145,6 +145,12 @@ final class Settings {
             if ProcessInfo.processInfo.arguments.contains("-immersive") {
                 immersiveReading = true
             }
+            // Off by default, because most readers want the verse and not the
+            // grammar — but it is the thing the preview video says the app does,
+            // so the tour turns it on rather than the caption overclaiming.
+            if ProcessInfo.processInfo.arguments.contains("-showWordByWord") {
+                showWordByWord = true
+            }
             // A reset is a fresh install as far as the store is concerned, so
             // the welcome would open in front of every UI test in the suite.
             // Tests that want it ask for it.
