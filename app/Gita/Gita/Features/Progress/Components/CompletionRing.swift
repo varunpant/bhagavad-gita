@@ -29,18 +29,13 @@ struct CompletionRing: View {
 
     var body: some View {
         ZStack {
-            Circle()
-                .stroke(theme.divider, lineWidth: 10)
-
-            Circle()
-                .trim(from: 0, to: shown)
-                // The brand ramp swept round, exactly as the progress widget
-                // draws it — the same number in two places should not be two
-                // colours. Black here read as a hole punched in the panel.
-                .stroke(Brand.ring, style: StrokeStyle(lineWidth: 10, lineCap: .round))
-                // From twelve o'clock rather than three, which is where a
-                // progress ring is read from.
-                .rotationEffect(.degrees(-90))
+            // The widget's ring, drawn here too — the same number in two
+            // places should not be two designs. It was the same saffron sweep
+            // already, but over `theme.divider`: a cold grey track beside a
+            // saffron arc, which is what the comment on `Theme.track` exists
+            // to argue against. Only this screen animates it, so the sweep is
+            // passed in rather than owned by the ring.
+            BrandRing(completion: shown, theme: theme)
 
             VStack(spacing: 2) {
                 Text("\(percent.digits(devanagari: isDevanagari))%")

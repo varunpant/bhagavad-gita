@@ -177,3 +177,29 @@ private extension Color {
         )
     }
 }
+
+/// The two tints progress is drawn with, in the app and in the widget alike.
+///
+/// Here rather than in the widget's own file, which is where they began: this
+/// file is compiled into both targets, so putting them anywhere else only made
+/// them harder to find from the half that also needs them.
+extension Theme {
+    /// The unfilled part of a ring. A tint of the ramp's own yellow rather than
+    /// grey: a cold grey track beside a saffron arc reads as two designs, and
+    /// what is left to read should look like the same book.
+    var track: Color {
+        Brand.ramp[0].opacity(self == .dark ? 0.22 : 0.28)
+    }
+
+    /// A breath of saffron in the corner, so a surface reads as this app's
+    /// rather than as a system panel. Kept under 12% — behind text, at widget
+    /// size, anything stronger is a stain rather than a light.
+    var wash: RadialGradient {
+        RadialGradient(
+            colors: [Brand.ramp[0].opacity(self == .dark ? 0.16 : 0.11), .clear],
+            center: .topTrailing,
+            startRadius: 0,
+            endRadius: 190
+        )
+    }
+}

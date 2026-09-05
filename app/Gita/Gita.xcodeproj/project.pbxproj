@@ -15,6 +15,7 @@
 		EE00000000000000000000C8 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000C7 /* Theme.swift */; };
 		EE00000000000000000000CA /* Brand.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000C9 /* Brand.swift */; };
 		EE00000000000000000000CC /* Int+Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000CB /* Int+Digits.swift */; };
+		EE00000000000000000000D2 /* ProgressMarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE00000000000000000000D1 /* ProgressMarks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		EE00000000000000000000C7 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Theme.swift; path = Gita/Core/Design/Theme.swift; sourceTree = "<group>"; };
 		EE00000000000000000000C9 /* Brand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Brand.swift; path = Gita/Core/Design/Brand.swift; sourceTree = "<group>"; };
 		EE00000000000000000000CB /* Int+Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Int+Digits.swift"; path = "Gita/Core/Utilities/Int+Digits.swift"; sourceTree = "<group>"; };
+		EE00000000000000000000D1 /* ProgressMarks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ProgressMarks.swift; path = Gita/Core/Design/ProgressMarks.swift; sourceTree = "<group>"; };
 		EE86B0BF302758DE0093E936 /* Gita.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gita.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE86B0CC302758DF0093E936 /* GitaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE86B0D6302758DF0093E936 /* GitaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -154,6 +156,7 @@
 				EE00000000000000000000C7 /* Theme.swift */,
 				EE00000000000000000000C9 /* Brand.swift */,
 				EE00000000000000000000CB /* Int+Digits.swift */,
+				EE00000000000000000000D1 /* ProgressMarks.swift */,
 				EE00000000000000000000C1 /* DailyVerse.swift */,
 				EE00000000000000000000C2 /* SharedVerses.swift */,
 			);
@@ -344,6 +347,7 @@
 				EE00000000000000000000C8 /* Theme.swift in Sources */,
 				EE00000000000000000000CA /* Brand.swift in Sources */,
 				EE00000000000000000000CC /* Int+Digits.swift in Sources */,
+				EE00000000000000000000D2 /* ProgressMarks.swift in Sources */,
 				EE00000000000000000000C3 /* DailyVerse.swift in Sources */,
 				EE00000000000000000000C4 /* SharedVerses.swift in Sources */,
 			);
