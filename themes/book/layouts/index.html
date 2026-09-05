@@ -2,20 +2,52 @@
 <section class="hero">
 	<div class="hero__inner">
 		<p class="hero__kicker">श्रीमद् भगवद्गीता</p>
-		<h2 class="hero__title">The Bhagavad Gita</h2>
+		<h2 class="hero__title">Read the Gita,<br>one verse at a time.</h2>
 		<p class="hero__lede">
-			All <b>18 chapters</b> and <b>{{ len site.RegularPages }} verses</b> — the original Sanskrit shloka,
-			Hindi translation and commentary, and English translation.
+			All <b>18 chapters</b> and <b>{{ len site.RegularPages }} verses</b> — the original Sanskrit
+			shloka, Hindi translation and commentary, and English translation, on one page each.
 		</p>
 		<p class="hero__actions">
 			<a class="btn btn--primary" href="{{ "chapter-1/sutra-1/" | relURL }}">Begin at 1.1</a>
 			<a class="btn" data-resume-link data-resume hidden href="#">Continue reading</a>
 		</p>
-		<dl class="hero__stats">
-			<div><dt>Chapters</dt><dd>18</dd></div>
-			<div><dt>Verses</dt><dd>{{ len site.RegularPages }}</dd></div>
-			<div><dt>Languages</dt><dd>संस्कृत · हिन्दी · EN</dd></div>
-		</dl>
+	</div>
+</section>
+
+{{/* What the site is, in four. Each tile is one claim this site can actually
+     keep — no feature here belongs to the app rather than the web pages. */}}
+<section class="features">
+	<div class="feature">
+		<span class="feature__mark" aria-hidden="true"></span>
+		<div>
+			<h3>Every verse, in full</h3>
+			<p>The shloka as it was composed, its Hindi translation and commentary,
+			and its English translation — together, on the verse's own page.</p>
+		</div>
+	</div>
+	<div class="feature">
+		<span class="feature__mark feature__mark--two" aria-hidden="true"></span>
+		<div>
+			<h3>Three languages</h3>
+			<p>संस्कृत, हिन्दी and English side by side, set in the same two faces
+			the app uses, so the Devanagari is typeset rather than approximated.</p>
+		</div>
+	</div>
+	<div class="feature">
+		<span class="feature__mark feature__mark--three" aria-hidden="true"></span>
+		<div>
+			<h3>Pick up where you left off</h3>
+			<p>Your last verse is remembered in this browser, and nothing else is.
+			No account, no sign-in, nothing to install.</p>
+		</div>
+	</div>
+	<div class="feature">
+		<span class="feature__mark feature__mark--four" aria-hidden="true"></span>
+		<div>
+			<h3>Every chapter, a click away</h3>
+			<p>The whole book is listed below — eighteen chapters, every verse
+			numbered — and the menu carries it on every page.</p>
+		</div>
 	</div>
 </section>
 
@@ -51,4 +83,13 @@
 		{{ end }}
 	{{ end }}
 </div>
+
+<section class="closing">
+	<h2>Start reading today</h2>
+	<p>Free, and complete. No account, and nothing to install.</p>
+	<p class="closing__actions">
+		<a class="btn btn--primary" href="{{ "chapter-1/sutra-1/" | relURL }}">Open chapter 1</a>
+		<a class="btn btn--ghost" href="https://varunpant.com/gita/">Gita for iPhone &amp; iPad</a>
+	</p>
+</section>
 {{ end }}

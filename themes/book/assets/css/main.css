@@ -2,6 +2,25 @@
    Bhagavad Gita — theme "book"
    ================================================================= */
 
+/* The app's two faces, self-hosted. Variable, so one file covers every weight
+   the site sets — and `font-display: swap` means the text is readable while
+   they load rather than invisible. */
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter-Variable.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Devanagari';
+    src: url('/fonts/NotoSansDevanagari-Variable.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
 :root {
     --nav-width: 300px;
     --nav-ease: cubic-bezier(.32, .72, 0, 1);
@@ -18,6 +37,14 @@
     --accent-2: #ff8a1f;
     --accent-grad: linear-gradient(135deg, #ffd24a 0%, #ffab2e 45%, #ff8a1f 100%);
     --accent-grad-soft: linear-gradient(135deg, #fff3cf 0%, #ffe2ab 100%);
+    /* The app's rail, top to bottom: saffron into vermillion. */
+    --rail-grad: linear-gradient(180deg, #ffd24a 0%, #ffa21c 38%, #ff6f17 72%, #e8451e 100%);
+
+    /* Devanagari first in the stack wherever the text may be in it: the two
+       faces have no overlapping glyphs, so a browser takes each character from
+       whichever covers it, and the fallback never shows. */
+    --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+    --font-deva: 'Noto Sans Devanagari', 'Inter', sans-serif;
 }
 
 *,
@@ -38,7 +65,7 @@ body {
 }
 
 body {
-    font-family: 'Mukta', sans-serif;
+    font-family: var(--font-deva), var(--font-ui);
     font-size: 1em;
     line-height: 2em;
     color: var(--ink);
@@ -336,7 +363,9 @@ code {
 .hero__inner {
     position: relative;
     z-index: 1;
-    max-width: 640px;
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .hero__kicker {
@@ -348,23 +377,28 @@ code {
 .hero__title {
     margin: 0;
     padding: 0;
-    font-size: clamp(2rem, 5vw, 3rem);
-    line-height: 1.2;
-    letter-spacing: -.01em;
+    /* Big, tight and heavy: the one line on the page that is allowed to shout,
+       and Inter is drawn for exactly this. */
+    font-size: clamp(2.2rem, 6vw, 3.6rem);
+    font-weight: 700;
+    line-height: 1.12;
+    letter-spacing: -.03em;
 }
 
 .hero__lede {
-    margin-top: 12px;
-    max-width: 46ch;
-    line-height: 1.7;
+    margin: 14px auto 0;
+    max-width: 48ch;
+    font-size: 1.075rem;
+    line-height: 1.65;
     color: #5c3000;
 }
 
 .hero__actions {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 12px;
-    margin-top: 22px;
+    margin-top: 26px;
 }
 
 .btn {
@@ -794,4 +828,315 @@ code {
     width: 150px;
     border-radius: 50%;
     margin: 20px;
+}
+
+
+/* =================================================================
+   Homepage — what the site is, and the way out of it
+   ================================================================= */
+
+.features {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 34px 48px;
+    max-width: 980px;
+    margin: 58px auto 10px;
+    padding: 0 24px;
+}
+
+.feature {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+}
+
+/* The gradient tile is the only ornament on the page, and it is the app's own
+   ramp rotated a quarter turn per tile — four grounds cut from one palette
+   rather than four colours chosen separately. */
+.feature__mark {
+    flex: 0 0 auto;
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #ffd24a 0%, #ff8a1f 100%);
+    box-shadow: 0 6px 16px rgba(255, 138, 31, .28);
+}
+
+.feature__mark--two { background: linear-gradient(135deg, #ffab2e 0%, #e8451e 100%); }
+.feature__mark--three { background: linear-gradient(135deg, #ffe08a 0%, #ffab2e 100%); }
+.feature__mark--four { background: linear-gradient(135deg, #ff8a1f 0%, #b8451e 100%); }
+
+.feature h3 {
+    margin: 2px 0 4px;
+    font-size: 1.06rem;
+    font-weight: 650;
+    line-height: 1.35;
+    letter-spacing: -.01em;
+    color: var(--ink);
+}
+
+.feature p {
+    margin: 0;
+    font-size: .965rem;
+    line-height: 1.6;
+    color: var(--ink-soft);
+}
+
+@media (max-width: 720px) {
+    .features {
+        grid-template-columns: 1fr;
+        gap: 26px;
+        margin-top: 40px;
+    }
+}
+
+.closing {
+    max-width: 720px;
+    margin: 64px auto 72px;
+    padding: 0 24px;
+    text-align: center;
+}
+
+.closing h2 {
+    font-size: clamp(1.7rem, 4vw, 2.4rem);
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02em;
+    color: var(--ink);
+}
+
+.closing p {
+    margin-top: 10px;
+    color: var(--ink-soft);
+}
+
+.closing__actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 22px;
+}
+
+/* An outline button for the second choice, so the primary keeps its weight. */
+.btn--ghost {
+    background: transparent;
+    border: 1px solid var(--rule);
+    color: var(--ink);
+}
+
+.btn--ghost:hover {
+    border-color: var(--accent-2);
+    color: var(--accent-2);
+}
+
+
+/* =================================================================
+   The rail — the app's menu, on the web
+   ================================================================= */
+
+:root {
+    --rail-width: 58px;
+    --page-bg: #fff;
+    --surface: #fff;
+    /* The reading size, cycled by the rail and remembered per browser. */
+    --read-scale: 1;
+}
+
+/* The three appearances the app offers, in the app's own colours. Set on
+   <html> so the whole page turns, chrome included, rather than the reading
+   column changing while the furniture around it stays light. */
+html[data-theme="sepia"] {
+    --page-bg: #F6EFDF;
+    --surface: #FBF6EA;
+    --ink: #3B2E1C;
+    --ink-soft: #6E5C43;
+    --rule: #E2D6BC;
+}
+
+html[data-theme="dark"] {
+    --page-bg: #131110;
+    --surface: #1B1917;
+    --ink: #ECE6DC;
+    --ink-soft: #A69C8D;
+    --rule: #2C2724;
+    --cream: #1B1917;
+}
+
+body {
+    background: var(--page-bg);
+    padding-left: var(--rail-width);
+}
+
+.rail {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 60;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: var(--rail-width);
+    height: 100%;
+    padding: 14px 0 18px;
+    background: var(--rail-grad);
+    color: #fff;
+}
+
+.rail__mark {
+    font-family: var(--font-deva);
+    font-size: 1.45rem;
+    font-weight: 300;
+    line-height: 1;
+    color: #fff;
+    opacity: .95;
+}
+
+.rail__mark:hover { opacity: 1; }
+
+.rail__group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: auto;
+    margin-top: 26px;
+}
+
+.rail__btn {
+    display: grid;
+    place-items: center;
+    width: var(--rail-width);
+    height: 46px;
+    border: 0;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    opacity: .9;
+}
+
+.rail__btn:hover,
+.rail__btn[aria-expanded="true"] { opacity: 1; }
+
+.rail__btn svg {
+    width: 21px;
+    height: 21px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+/* The half-filled circle that means "appearance" is drawn, not stroked, so it
+   reads at 21px. Its own path carries the fill. */
+.rail__btn svg path[fill="currentColor"] { stroke: none; }
+
+.rail__aa {
+    font-family: var(--font-ui);
+    font-size: .95rem;
+    font-weight: 600;
+    letter-spacing: -.01em;
+}
+
+/* The rail is furniture, and on a phone it is furniture in the way. It lies
+   down along the foot instead, where a thumb is anyway. */
+@media (max-width: 720px) {
+    :root { --rail-width: 0px; }
+
+    body { padding-left: 0; padding-bottom: 56px; }
+
+    .rail {
+        top: auto;
+        bottom: 0;
+        flex-direction: row;
+        width: 100%;
+        height: 56px;
+        padding: 0 10px;
+        background: linear-gradient(90deg, #ffd24a 0%, #ffa21c 38%, #ff6f17 72%, #e8451e 100%);
+    }
+
+    .rail__group {
+        flex-direction: row;
+        gap: 2px;
+        margin: 0;
+    }
+
+    .rail__btn { width: 52px; height: 56px; }
+}
+
+/* ---------- jump to a verse ---------- */
+
+.jump {
+    position: fixed;
+    z-index: 61;
+    top: 14px;
+    left: calc(var(--rail-width) + 14px);
+    width: min(340px, calc(100vw - var(--rail-width) - 28px));
+    padding: 16px 18px 14px;
+    border: 1px solid var(--rule);
+    border-radius: 16px;
+    background: var(--surface);
+    box-shadow: 0 18px 44px rgba(0, 0, 0, .18);
+}
+
+.jump__form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.jump__label {
+    flex: 1 0 100%;
+    font-size: .78rem;
+    font-weight: 600;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+}
+
+.jump__input {
+    flex: 1;
+    min-width: 0;
+    padding: 9px 12px;
+    font: inherit;
+    font-size: 1rem;
+    color: var(--ink);
+    background: var(--page-bg);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+}
+
+.jump__input:focus {
+    outline: 2px solid var(--accent-2);
+    outline-offset: 1px;
+}
+
+.jump__hint {
+    margin-top: 10px;
+    font-size: .82rem;
+    line-height: 1.5;
+    color: var(--ink-soft);
+}
+
+.jump__hint--error { color: #b8451e; }
+
+@media (max-width: 720px) {
+    .jump {
+        top: auto;
+        bottom: 68px;
+        left: 14px;
+        width: calc(100vw - 28px);
+    }
+}
+
+/* ---------- reading size ---------- */
+
+/* Only the verse itself scales. The chrome keeps its size, the way the app's
+   text-size setting moves the shloka and leaves the rail alone. */
+.verse-page .content-block,
+.verse-page pre,
+.verse-page p {
+    font-size: calc(1em * var(--read-scale));
 }

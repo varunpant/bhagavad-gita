@@ -1,0 +1,51 @@
+{{/*
+  The rail, as the app has it.
+
+  A gradient strip down the left edge carrying the same moves the iOS app puts
+  there: the contents, the reading language's size, the appearance, and the way
+  home. Deliberately *not* a copy of the app's icon column — every control does
+  something this website can actually do. A search glyph would be the obvious
+  fifth, and there is no search index behind these pages, so it is not drawn.
+
+  Rendered on every page. The contents button drives the existing `#sidenav`
+  through the same `data-nav-toggle` hook the burger used, so the drawer's
+  behaviour, focus trap and escape handling are unchanged.
+*/}}
+<nav class="rail" aria-label="Reading controls">
+  <a class="rail__mark" href="{{ "" | relURL }}" aria-label="Home">ग</a>
+
+  <div class="rail__group">
+    <button type="button" class="rail__btn" data-nav-toggle
+            aria-controls="sidenav" aria-expanded="false" aria-label="Contents">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+
+    <button type="button" class="rail__btn" data-jump-toggle
+            aria-controls="jump" aria-expanded="false" aria-label="Go to a verse">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </button>
+
+    <button type="button" class="rail__btn" data-size-cycle
+            aria-label="Text size">
+      <span class="rail__aa" aria-hidden="true">Aa</span>
+    </button>
+
+    <button type="button" class="rail__btn" data-theme-cycle
+            aria-label="Appearance">
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="12" r="7"/><path d="M12 5v14" fill="currentColor"/>
+      </svg>
+    </button>
+  </div>
+</nav>
+
+{{/* Jump to a verse by its number — the one thing people arrive knowing. */}}
+<div class="jump" id="jump" hidden>
+  <form class="jump__form" data-jump-form>
+    <label class="jump__label" for="jump-input">Go to verse</label>
+    <input class="jump__input" id="jump-input" type="text" inputmode="decimal"
+           placeholder="2.47" autocomplete="off" spellcheck="false">
+    <button class="btn btn--primary" type="submit">Open</button>
+  </form>
+  <p class="jump__hint" data-jump-hint>Chapter and verse, like <b>2.47</b> or <b>18 66</b>.</p>
+</div>

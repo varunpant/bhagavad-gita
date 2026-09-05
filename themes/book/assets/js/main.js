@@ -117,4 +117,119 @@
       resume.hidden = false;
     }
   }
+
+  /* -----------------------------------------------------------------
+     The rail's own three controls.
+
+     Each remembers its choice in this browser and nowhere else, which is the
+     same bargain the reading position already makes above: no account, no
+     server, nothing that leaves the machine.
+
+     All three read and write `<html>` attributes rather than classes on the
+     body, so the choice is applied before first paint by the inline snippet in
+     head.html — without it a dark reader gets a white flash on every page.
+     ----------------------------------------------------------------- */
+
+  var THEMES = ["light", "sepia", "dark"];
+  var SIZES = ["1", "1.15", "1.3"];
+  var THEME_KEY = "gita:theme";
+  var SIZE_KEY = "gita:size";
+
+  function stored(key, fallback) {
+    try {
+      return localStorage.getItem(key) || fallback;
+    } catch (e) {
+      return fallback;
+    }
+  }
+
+  function remember(key, value) {
+    try {
+      localStorage.setItem(key, value);
+    } catch (e) {}
+  }
+
+  function applyTheme(name) {
+    document.documentElement.setAttribute("data-theme", name);
+    remember(THEME_KEY, name);
+  }
+
+  function applySize(scale) {
+    document.documentElement.style.setProperty("--read-scale", scale);
+    remember(SIZE_KEY, scale);
+  }
+
+  function cycle(list, current) {
+    var at = list.indexOf(current);
+    return list[(at + 1) % list.length];
+  }
+
+  var themeButton = document.querySelector("[data-theme-cycle]");
+  if (themeButton) {
+    themeButton.addEventListener("click", function () {
+      applyTheme(cycle(THEMES, stored(THEME_KEY, "light")));
+    });
+  }
+
+  var sizeButton = document.querySelector("[data-size-cycle]");
+  if (sizeButton) {
+    applySize(stored(SIZE_KEY, "1"));
+    sizeButton.addEventListener("click", function () {
+      applySize(cycle(SIZES, stored(SIZE_KEY, "1")));
+    });
+  }
+
+  /* ---------- go to a verse ----------
+     The one thing a reader arrives already knowing is the number, and the
+     directory is 700 links long. This takes "2.47", "2 47" or "2/47" and
+     opens it — and says so when the reference is not in the book, rather than
+     navigating to a 404. */
+
+  var jump = document.getElementById("jump");
+  var jumpToggle = document.querySelector("[data-jump-toggle]");
+  var jumpForm = document.querySelector("[data-jump-form]");
+  var jumpHint = document.querySelector("[data-jump-hint]");
+  var CHAPTER_LENGTHS = [47, 72, 43, 42, 29, 47, 30, 28, 34, 42, 55, 20, 34, 27, 20, 24, 28, 78];
+
+  function showJump(open) {
+    if (!jump || !jumpToggle) return;
+    jump.hidden = !open;
+    jumpToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    if (open) jump.querySelector("input").focus();
+  }
+
+  if (jumpToggle) {
+    jumpToggle.addEventListener("click", function () {
+      showJump(jump.hidden);
+    });
+  }
+
+  if (jumpForm) {
+    jumpForm.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var raw = jumpForm.querySelector("input").value.trim();
+      var parts = raw.split(/[^0-9]+/).filter(Boolean);
+      var chapter = parseInt(parts[0], 10);
+      var sutra = parseInt(parts[1], 10);
+
+      var known =
+        parts.length === 2 &&
+        chapter >= 1 && chapter <= 18 &&
+        sutra >= 1 && sutra <= CHAPTER_LENGTHS[chapter - 1];
+
+      if (!known) {
+        jumpHint.textContent = raw
+          ? "There is no verse " + raw + " in the Gita."
+          : "Chapter and verse, like 2.47.";
+        jumpHint.className = "jump__hint jump__hint--error";
+        return;
+      }
+
+      window.location.href = "/chapter-" + chapter + "/sutra-" + sutra + "/";
+    });
+  }
+
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && jump && !jump.hidden) showJump(false);
+  });
 })();

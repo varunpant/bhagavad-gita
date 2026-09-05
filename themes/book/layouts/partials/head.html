@@ -57,15 +57,35 @@
 {{ with .PrevInSection }}<link rel="prev" href="{{ .Permalink }}">{{ end }}
 {{ with .NextInSection }}<link rel="next" href="{{ .Permalink }}">{{ end }}
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{{/* Applied before the first paint, and inline for that reason: read from a
+     stylesheet or from main.js, the choice arrives a frame late and a reader
+     who chose Dark gets a white flash on every page turn. Wrapped in
+     try/catch because a browser with storage blocked must still render. */}}
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem("gita:theme");
+      if (t) document.documentElement.setAttribute("data-theme", t);
+      var s = localStorage.getItem("gita:size");
+      if (s) document.documentElement.style.setProperty("--read-scale", s);
+    } catch (e) {}
+  })();
+</script>
+{{/* The app's own two faces, served from this domain rather than fetched
+     from Google. Same files the iOS app bundles, so the site and the app are
+     set in the same type — and no third party learns who read which verse,
+     which is the promise the app makes and the site should keep too. */}}
+<link rel="preload" as="font" type="font/ttf" crossorigin
+      href="{{ "fonts/Inter-Variable.ttf" | relURL }}">
+<link rel="preload" as="font" type="font/ttf" crossorigin
+      href="{{ "fonts/NotoSansDevanagari-Variable.ttf" | relURL }}">
 {{/* Fingerprinted so a CSS change actually reaches readers who have an old
      copy cached — the previous plain /css/main.css had no cache busting. */}}
 {{ with resources.Get "css/main.css" }}
   {{ $css := . | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ end }}
-<link href="https://fonts.googleapis.com/css?family=Mukta:400,600,700&display=swap" rel="stylesheet">
+
 <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
 <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
 {{ with .Site.Home.OutputFormats.Get "rss" -}}
