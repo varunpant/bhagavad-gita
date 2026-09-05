@@ -277,7 +277,7 @@ def app_appears(movie: Path) -> float:
     return 0.0
 
 
-def record_video(udid: str) -> None:
+def record_video(udid: str, frame: tuple[int, int] = PREVIEW, name: str = "preview") -> None:
     """Record the scripted tour, then build the preview from it.
 
     `simctl io recordVideo` writes until it is interrupted, so it runs alongside
@@ -285,7 +285,7 @@ def record_video(udid: str) -> None:
     leaves an unfinalised, unplayable file.
     """
     VIDEO.mkdir(parents=True, exist_ok=True)
-    source = VIDEO / "tour.mov"
+    source = VIDEO / f"tour-{name}.mov"
     source.unlink(missing_ok=True)
     (RAW / "tour-timeline.json").unlink(missing_ok=True)
 
@@ -303,7 +303,7 @@ def record_video(udid: str) -> None:
         recorder.send_signal(signal.SIGINT)
         recorder.wait(timeout=60)
 
-    build_preview()
+    build_preview(frame=frame, name=name)
 
 
 def timeline() -> list[tuple[str, float, float]]:
@@ -331,14 +331,14 @@ def timeline() -> list[tuple[str, float, float]]:
             for index, (name, _, show) in enumerate(beats[:-1])]
 
 
-def build_preview() -> None:
+def build_preview(frame: tuple[int, int] = PREVIEW, name: str = "preview") -> None:
     """Trim, scale, caption, and hang the closing card off the end.
 
     Split from the recording on purpose: rewriting a caption is a fifteen-second
     job against the take already on disk, and re-shooting for it would be four
     minutes of simulator per word.
     """
-    source = VIDEO / "tour.mov"
+    source = VIDEO / f"tour-{name}.mov"
     if not source.exists():
         raise SystemExit(f"error: {source.relative_to(ROOT)} is missing — record first")
 
@@ -358,7 +358,7 @@ def build_preview() -> None:
     if rate > 1.0:
         print(f"  the tour ran {footage:.1f}s — taking it {rate:.2f}x faster")
 
-    card = closing_card()
+    card = closing_card(frame=frame, name=f"closing-{name}")
     print(f"transcoding the preview, from {start:.1f}s "
           f"({footage / rate:.1f}s + {CARD_SECONDS:.1f}s card)")
 
@@ -366,11 +366,15 @@ def build_preview() -> None:
         bands: list[tuple[Path, float, float]] = []
         # Padded in at both ends, so a caption never straddles a transition.
         pad = 0.2
-        for index, (name, opens, closes) in enumerate(beats):
-            text = CAPTIONS.get(name)
+        # `beat`, not `name`: `name` is this function's own parameter — the one
+        # the output file is named after — and reusing it here quietly renamed
+        # the iPad preview after the last beat of the tour. It came out as
+        # `progress.mp4`.
+        for index, (beat, opens, closes) in enumerate(beats):
+            text = CAPTIONS.get(beat)
             if text is None:
                 continue
-            band = caption_band(text, Path(scratch) / f"{index}.png")
+            band = caption_band(text, Path(scratch) / f"{index}.png", frame=frame)
             bands.append((band, opens / rate + pad,
                           max(closes / rate - pad, opens / rate + pad + 0.5)))
 
@@ -384,7 +388,7 @@ def build_preview() -> None:
         inputs += ["-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100"]
 
         steps = [
-            f"[0:v]scale={PREVIEW[0]}:{PREVIEW[1]}:flags=lanczos,"
+            f"[0:v]scale={frame[0]}:{frame[1]}:flags=lanczos,"
             f"setpts=PTS/{rate:.4f},fps=30,setsar=1[tour0]"
         ]
         for index, (_, opens, closes) in enumerate(bands):
@@ -397,7 +401,7 @@ def build_preview() -> None:
             )
         steps.append(f"[tour{len(bands)}]format=yuv420p[tour]")
         steps.append(
-            f"[1:v]scale={PREVIEW[0]}:{PREVIEW[1]},fps=30,setsar=1,format=yuv420p[card]"
+            f"[1:v]scale={frame[0]}:{frame[1]},fps=30,setsar=1,format=yuv420p[card]"
         )
         steps.append("[tour][card]concat=n=2:v=1:a=0[v]")
 
@@ -409,7 +413,7 @@ def build_preview() -> None:
             "-map", "[v]", "-map", f"{len(bands) + 2}:a",
             "-c:v", "libx264", "-profile:v", "high", "-pix_fmt", "yuv420p",
             "-b:v", "12M", "-c:a", "aac", "-b:a", "128k", "-shortest",
-            "-movflags", "+faststart", str(VIDEO / "preview.mp4"),
+            "-movflags", "+faststart", str(VIDEO / f"{name}.mp4"),
         ])
     if result.returncode != 0:
         raise SystemExit("error: ffmpeg failed\n" + result.stderr[-2000:])
@@ -765,6 +769,8 @@ def main() -> None:
                         help="rebuild preview.mp4 from the tour already recorded")
     parser.add_argument("--ipad", action="store_true",
                         help="shoot and compose the 13\" iPad panels instead")
+    parser.add_argument("--ipad-video", action="store_true",
+                        help="record the iPad app preview (1200x1600)")
     options = parser.parse_args()
 
     RAW.mkdir(parents=True, exist_ok=True)
@@ -777,6 +783,20 @@ def main() -> None:
 
     if options.captions_only:
         return build_preview()
+
+    if options.ipad_video:
+        udid = simulator(DEVICE_IPAD)
+        boot(udid, DEVICE_IPAD)
+        if not options.skip_build:
+            print("building for testing")
+            xcodebuild("-destination", f"id={udid}", "build-for-testing")
+        # The same tour, on a tablet. The iPad's portrait screen is 2064x2752,
+        # which is the same 0.75 aspect as the 1200x1600 App Store asks for —
+        # so this downscales with no crop and no letterbox, the same luck the
+        # iPhone pair has.
+        record_video(udid, frame=PREVIEW_IPAD, name="preview-ipad")
+        print(f"\nvideo -> {(VIDEO / 'preview-ipad.mp4').relative_to(ROOT)}")
+        return
 
     if options.ipad:
         udid = simulator(DEVICE_IPAD)

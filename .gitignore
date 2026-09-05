@@ -156,6 +156,8 @@ __pycache__/
 # tour.mov is the 33 MB simulator recording they are cut from.
 # =====================================================
 app/design/appstore/video/tour.mov
+# And the per-device takes, now that there is one per platform.
+app/design/appstore/video/tour-*.mov
 app/design/appstore/.build/
 # Design checks written by the UI harness — diagnostics, not deliverables.
 app/design/appstore/raw/check-*.png
