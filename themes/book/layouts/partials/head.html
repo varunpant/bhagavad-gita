@@ -2,9 +2,9 @@
   Per-page SEO metadata.
 
   Verse pages get a descriptive title and a description built from the actual
-  English translation, so all 700 pages are distinct in search results. The old
+  English translation, so all 701 pages are distinct in search results. The old
   template reused the site description verbatim on every page, which reads to a
-  crawler as 700 near-duplicate pages.
+  crawler as 701 near-duplicate pages.
 */}}
 {{ $meta := "" }}
 {{ $seoTitle := .Title }}
@@ -28,6 +28,14 @@
         | replaceRE "^\\s*\\w+\\s*" ""
         | replaceRE "^[\\d.]+\\s*" ""
         | replaceRE "\\s+" " " }}
+    {{/* Stop at the next heading. `.Plain` has no markup left to stop at, so
+         this ran straight on into whatever followed — descriptions were
+         ending "…be to inaction. Transliteration karmaṇyevādhikāraste mā",
+         which is the one part of a result snippet a searcher reads. It was
+         clean only while this was the last section on the page. */}}
+    {{ range (slice "Transliteration" "अनुवाद" "भावार्थ" "Translation") }}
+      {{ $en = index (split $en .) 0 }}
+    {{ end }}
   {{ end }}
   {{ $seoDesc = printf "Bhagavad Gita %v.%v: %s" .Params.chapter .Params.sutra (trim $en " ") | truncate 200 }}
   {{ $seoDesc = printf "%s Sanskrit shloka with Hindi and English translation and commentary." $seoDesc }}
