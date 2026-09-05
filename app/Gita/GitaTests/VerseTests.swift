@@ -177,3 +177,51 @@ struct WordMeaningTests {
         }
     }
 }
+
+/// The reference, in the script being read.
+///
+/// Worth pinning because the fault it replaces was invisible: `reference` is
+/// ASCII and reads perfectly well on its own, so "2.47" under a Devanagari
+/// shloka looks like a design choice rather than a setting that was missed.
+/// Nothing fails, nothing logs; it just quietly stops being one language.
+@Suite("Verse reference")
+struct VerseReferenceTests {
+
+    private func verse(_ chapter: Int, _ sutra: Int) -> Verse {
+        Verse(id: 1, chapter: chapter, sutra: sutra, sanskrit: "…")
+    }
+
+    @Test("English keeps ASCII digits")
+    func englishReference() {
+        #expect(verse(2, 47).reference(devanagari: false) == "2.47")
+        #expect(verse(18, 78).reference(devanagari: false) == "18.78")
+    }
+
+    @Test("Devanagari carries all the way through the numerals")
+    func devanagariReference() {
+        #expect(verse(2, 47).reference(devanagari: true) == "२.४७")
+        #expect(verse(1, 1).reference(devanagari: true) == "१.१")
+        #expect(verse(18, 78).reference(devanagari: true) == "१८.७८")
+    }
+
+    /// Not one ASCII digit survives a Devanagari reference — the assertion the
+    /// per-case ones above would each pass while the app still showed "2.47"
+    /// somewhere, if the helper were ever half-applied.
+    @Test("No Devanagari reference contains a Latin digit")
+    func noLatinDigitsLeak() throws {
+        for chapter in 1 ... 18 {
+            for sutra in 1 ... 78 {
+                let written = verse(chapter, sutra).reference(devanagari: true)
+                #expect(!written.contains { $0.isASCII && $0.isNumber },
+                        "\(chapter).\(sutra) kept a Latin digit: \(written)")
+            }
+        }
+    }
+
+    /// The ASCII form stays ASCII: accessibility identifiers and notification
+    /// request ids are built from it, and neither may move with a setting.
+    @Test("The plain reference is unaffected by language")
+    func plainReferenceIsStable() {
+        #expect(verse(2, 47).reference == "2.47")
+    }
+}

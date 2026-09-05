@@ -19,10 +19,11 @@ ground, the caption and the device frame.
 | Mac | 2880 × 1800 | the Mac app's own window, composed | **not built** |
 
 **Portrait on iPad, not landscape.** The plan was landscape, for the one frame a
-phone cannot show — rail, panel and reader together. The app is locked to
-portrait on every device (`e4df93e`), so that frame does not exist and the set
-follows the app. The side-by-side story is still tellable in portrait, with the
-panel over the page.
+phone cannot show — rail, panel and reader together. The iPhone is locked to
+portrait (`e4df93e`) and the iPad is not — it takes all four orientations, which
+is what makes it a full-screen iPad app rather than a letterboxed phone one. The
+set is portrait anyway: it is the shape the store shows a tablet in, and the
+side-by-side story is tellable in portrait with the panel over the page.
 
 The Mac canvas cannot be a screen grab: the display here is 2560 × 1080
 ultrawide and App Store Connect wants 16:10. The window is captured and placed.

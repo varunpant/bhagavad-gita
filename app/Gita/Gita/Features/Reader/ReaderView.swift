@@ -292,7 +292,7 @@ struct ReaderView: View {
                 // Plain text: the contents belongs to the rail now, and a
                 // reference that silently opened a panel was a second, hidden
                 // way in.
-                Text(currentVerse?.reference ?? "")
+                Text(currentVerse?.reference(devanagari: isDevanagari) ?? "")
                     .font(.label)
                     .monospacedDigit()
                     .foregroundStyle(theme.textSecondary)
@@ -612,8 +612,10 @@ private struct ShlokaPage: View {
     }
 
     private var notYetEnriched: some View {
-        Text("Translation and word meanings for this verse have not been generated yet.")
-            .font(.label)
+        Text(isDevanagari
+             ? "इस श्लोक का अनुवाद और शब्दार्थ अभी तैयार नहीं हुआ है।"
+             : "Translation and word meanings for this verse have not been generated yet.")
+            .font(isDevanagari ? .labelDevanagari : .label)
             .foregroundStyle(theme.textSecondary.opacity(0.7))
             .multilineTextAlignment(.center)
             .padding(.top, 8)

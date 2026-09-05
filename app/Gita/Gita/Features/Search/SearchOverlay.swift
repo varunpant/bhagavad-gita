@@ -14,6 +14,14 @@ import SwiftUI
 struct SearchOverlay: View {
     @Environment(Library.self) private var library
     @Environment(SemanticIndex.self) private var semanticIndex
+    @Environment(Settings.self) private var settings
+
+    /// Search is opened from the rail, over the page, without leaving the
+    /// reading surface — so it follows the reading language like the rest of
+    /// it. This file had no notion of the setting at all: its headings, its
+    /// empty state, its references and the face it set results in were English
+    /// whatever the reader had chosen.
+    private var isDevanagari: Bool { settings.language.isDevanagari }
 
     let onSelect: (Verse) -> Void
     let onDismiss: () -> Void
@@ -53,7 +61,11 @@ struct SearchOverlay: View {
             TextField(
                 "",
                 text: $query,
-                prompt: Text(verbatim: "गीता").foregroundColor(.white.opacity(0.55))
+                // The placeholder was "गीता" in both languages — the same fault
+                // as an English caption under a Devanagari heading, just
+                // pointing the other way.
+                prompt: Text(verbatim: isDevanagari ? "गीता" : "Gita")
+                    .foregroundColor(.white.opacity(0.55))
             )
             .textFieldStyle(.plain)
             .font(.system(size: 34, design: .serif).italic())
@@ -89,8 +101,8 @@ struct SearchOverlay: View {
     @ViewBuilder
     private var results: some View {
         if query.count >= 2, hits.isEmpty, related.isEmpty {
-            Text("Nothing found")
-                .font(.proseLatin)
+            Text(isDevanagari ? "कुछ नहीं मिला" : "Nothing found")
+                .font(isDevanagari ? .proseDevanagari : .proseLatin)
                 .foregroundStyle(.white.opacity(0.55))
                 .padding(.top, 40)
             Spacer()
@@ -100,8 +112,8 @@ struct SearchOverlay: View {
                     ForEach(hits) { row($0) }
 
                     if !related.isEmpty {
-                        Text("RELATED")
-                            .font(.label)
+                        Text(isDevanagari ? "संबंधित" : "RELATED")
+                            .font(isDevanagari ? .labelDevanagari : .label)
                             .tracking(1.2)
                             .foregroundStyle(.white.opacity(0.5))
                             .padding(.horizontal, 20)
@@ -122,12 +134,12 @@ struct SearchOverlay: View {
             onDismiss()
         } label: {
             VStack(alignment: .leading, spacing: 4) {
-                Text(hit.verse.reference)
-                    .font(.label)
+                Text(hit.verse.reference(devanagari: isDevanagari))
+                    .font(isDevanagari ? .labelDevanagari : .label)
                     .monospacedDigit()
                     .foregroundStyle(.white.opacity(0.6))
                 Text(hit.snippet)
-                    .font(.glossLatin)
+                    .font(isDevanagari ? .glossDevanagari : .glossLatin)
                     .foregroundStyle(.white.opacity(0.92))
                     .multilineTextAlignment(.leading)
                     .lineLimit(3)
@@ -167,7 +179,14 @@ struct SearchOverlay: View {
         related = semantic
             .filter { !seen.contains($0) }
             .compactMap { id in
-                library.verse(id: id).map { SearchHit(verse: $0, snippet: $0.englishTranslation ?? $0.sanskrit) }
+                // The index is built over the English translation, but what is
+                // *shown* is prose on the reading surface: a Devanagari reader
+                // was getting English paragraphs under a Devanagari heading.
+                // What it was matched on and what it reads as are two questions.
+                library.verse(id: id).map {
+                    let prose = isDevanagari ? $0.hindiTranslation : $0.englishTranslation
+                    return SearchHit(verse: $0, snippet: prose ?? $0.sanskrit)
+                }
             }
     }
 }

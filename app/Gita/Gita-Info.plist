@@ -2,23 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<!-- The status bar is hidden for the whole app: the reading surface is the
-	     page, and the clock is the one piece of furniture the app cannot style.
-
-	     Both keys are needed and neither is enough alone. UIStatusBarHidden
-	     covers the launch, before any view controller exists. Setting
-	     UIViewControllerBasedStatusBarAppearance to NO is what makes it hold
-	     afterwards, by taking the decision away from the hosting controller
-	     entirely — SwiftUI's .statusBarHidden(true) is only a *preference*,
-	     and a preference can be lost.
-
-	     It lives here rather than in the project's build settings because
-	     Xcode has no INFOPLIST_KEY_ for this one: written there it is dropped
-	     silently, with no error and no entry in the built plist. -->
-	<key>UIStatusBarHidden</key>
-	<true/>
-	<key>UIViewControllerBasedStatusBarAppearance</key>
-	<false/>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -30,5 +13,11 @@
 			</array>
 		</dict>
 	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
 </dict>
 </plist>

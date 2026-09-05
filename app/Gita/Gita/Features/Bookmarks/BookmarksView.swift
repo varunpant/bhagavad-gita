@@ -79,8 +79,8 @@ struct BookmarksView: View {
                 ForEach(kept) { verse in
                     Button { onSelect(verse) } label: {
                         VStack(alignment: .leading, spacing: 4) {
-                            Text(verse.reference)
-                                .font(.label)
+                            Text(verse.reference(devanagari: isDevanagari))
+                                .font(isDevanagari ? .labelDevanagari : .label)
                                 .monospacedDigit()
                                 .foregroundStyle(theme.selectionTint)
                             Text(verse.displayLines(for: settings.language).first ?? verse.sanskrit)

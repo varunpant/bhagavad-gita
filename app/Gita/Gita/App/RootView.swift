@@ -128,12 +128,17 @@ struct RootView: View {
         // simply read for a fortnight stopped being reminded, permanently, with
         // nothing to tell them why. Refilling the window on every launch is what
         // the horizon was always for.
-        .task(id: library.state.isReady) {
+        // Keyed on the language as well as readiness: the banner is written in
+        // whichever language was set when it was scheduled, and the schedule
+        // runs a fortnight ahead. Without this, switching language left two
+        // weeks of notifications in the old one.
+        .task(id: "\(library.state.isReady)-\(settings.language.rawValue)") {
             guard library.state.isReady, settings.dailyReminder else { return }
             // Refill rather than schedule: on launch the app must never be the
             // thing that asks for permission — see `refillIfAuthorized`.
             await DailyReminder.refillIfAuthorized(
-                at: settings.reminderTime, verses: library.verses
+                at: settings.reminderTime, verses: library.verses,
+                language: settings.language
             )
         }
         .task {

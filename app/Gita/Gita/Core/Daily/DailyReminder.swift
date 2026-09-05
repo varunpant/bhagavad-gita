@@ -57,7 +57,8 @@ nonisolated enum DailyReminder {
     /// So the launch-time refill goes through here, and only the switch in
     /// Settings is allowed to ask.
     static func refillIfAuthorized(
-        at time: DateComponents, verses: [Verse], calendar: Calendar = .current
+        at time: DateComponents, verses: [Verse], language: ReadingLanguage,
+        calendar: Calendar = .current
     ) async {
         let status = await UNUserNotificationCenter.current().notificationSettings()
             .authorizationStatus
@@ -65,12 +66,21 @@ nonisolated enum DailyReminder {
             logger.info("Not authorised (\(status.rawValue)); leaving the schedule alone")
             return
         }
-        await schedule(at: time, verses: verses, calendar: calendar)
+        await schedule(at: time, verses: verses, language: language, calendar: calendar)
     }
 
     /// Replace the schedule with one notification per day at `time`, starting
     /// with the next occurrence.
-    static func schedule(at time: DateComponents, verses: [Verse], calendar: Calendar = .current) async {
+    /// The notification is the reading surface arriving on the lock screen, so
+    /// it is written in the language the reader reads in — heading, numerals
+    /// and prose together. It used to be none of those: a Devanagari word, an
+    /// ASCII reference and an English translation in one banner, whichever
+    /// language was set.
+    static func schedule(
+        at time: DateComponents, verses: [Verse], language: ReadingLanguage,
+        calendar: Calendar = .current
+    ) async {
+        let devanagari = language.isDevanagari
         await cancel()
         guard !verses.isEmpty, let hour = time.hour, let minute = time.minute else { return }
 
@@ -87,8 +97,11 @@ nonisolated enum DailyReminder {
             else { continue }
 
             let content = UNMutableNotificationContent()
-            content.title = "श्लोक \(verse.reference)"
-            content.body = verse.englishTranslation ?? verse.sanskrit
+            content.title = devanagari
+                ? "श्लोक \(verse.reference(devanagari: true))"
+                : "Verse \(verse.reference)"
+            content.body = (devanagari ? verse.hindiTranslation : verse.englishTranslation)
+                ?? verse.sanskrit
             content.sound = .default
             content.userInfo = ["chapter": verse.chapter, "sutra": verse.sutra]
 

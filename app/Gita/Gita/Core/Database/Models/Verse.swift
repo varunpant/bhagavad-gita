@@ -49,7 +49,21 @@ nonisolated struct Verse: Identifiable, Hashable, Codable, Sendable, FetchableRe
     let wordByWordEnglish: String?
 
     /// Traditional reference, e.g. "2.47".
+    ///
+    /// ASCII, and therefore **not** for the reading surface — use
+    /// `reference(devanagari:)` there. This one is for identity: accessibility
+    /// identifiers, notification request ids, log lines.
     var reference: String { "\(chapter).\(sutra)" }
+
+    /// The same reference in whichever script is being read — "2.47" or "२.४७".
+    ///
+    /// Numerals are part of the language (`app/CLAUDE.md`, *Language
+    /// consistency*), and this is the one place the rule kept being missed: the
+    /// reference sits beside prose whose face already switches, so the two were
+    /// written on adjacent lines and only one of them followed the setting.
+    func reference(devanagari: Bool) -> String {
+        chapter.digits(devanagari: devanagari) + "." + sutra.digits(devanagari: devanagari)
+    }
 
     /// True once this verse has been through the enrichment pipeline.
     var isEnriched: Bool { transliteration?.isEmpty == false }

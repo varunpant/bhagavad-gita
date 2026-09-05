@@ -244,12 +244,14 @@ struct SettingsView: View {
             return
         }
         reminderDenied = false
-        await DailyReminder.schedule(at: settings.reminderTime, verses: library.verses)
+        await DailyReminder.schedule(at: settings.reminderTime, verses: library.verses,
+                                     language: settings.language)
     }
 
     private func rescheduleIfOn() async {
         guard settings.dailyReminder else { return }
-        await DailyReminder.schedule(at: settings.reminderTime, verses: library.verses)
+        await DailyReminder.schedule(at: settings.reminderTime, verses: library.verses,
+                                     language: settings.language)
     }
 
     /// A row label in the theme's own text colour.
