@@ -105,3 +105,78 @@ struct StreakTests {
         #expect(Streak.day(for: later).count == 10)
     }
 }
+
+/// The civil-date arithmetic that replaced `DateFormatter` in the streak loops.
+///
+/// Worth pinning against the thing it replaced rather than against hand-written
+/// expectations: the point of the change is that it computes *the same days*
+/// more cheaply, and a leap-year or century-boundary slip in Hinnant's
+/// algorithm would show up as a streak that is one short — a number nobody can
+/// check by looking at it.
+@Suite("Day numbers")
+struct DayNumberTests {
+
+    private static let formatter: DateFormatter = {
+        let formatter = DateFormatter()
+        formatter.locale = Locale(identifier: "en_US_POSIX")
+        formatter.calendar = Calendar(identifier: .gregorian)
+        formatter.dateFormat = "yyyy-MM-dd"
+        return formatter
+    }()
+
+    /// Every day across sixteen years, including four leap years and the
+    /// 2100-style century rule, agrees with what `DateFormatter` parses.
+    @Test("Day numbers advance exactly one per calendar day, for years at a time")
+    func agreesWithTheFormatterAcrossYears() throws {
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = Self.formatter.timeZone
+
+        let start = try #require(Self.formatter.date(from: "2016-01-01"))
+        var date = start
+        var previous: Int?
+        var checked = 0
+
+        while checked < 16 * 365 {
+            let key = Self.formatter.string(from: date)
+            let number = try #require(Streak.dayNumber(key), "\(key) did not parse")
+            if let previous {
+                #expect(number == previous + 1,
+                        "\(key) is not one day after the day before it")
+            }
+            previous = number
+            date = try #require(calendar.date(byAdding: .day, value: 1, to: date))
+            checked += 1
+        }
+    }
+
+    /// The epoch and the leap days, stated outright.
+    @Test("Known days have known numbers", arguments: [
+        ("1970-01-01", 0), ("1970-01-02", 1), ("1969-12-31", -1),
+        ("2000-02-29", 11016),          // a leap year: divisible by 400
+        ("2024-02-29", 19782),
+    ])
+    func knownDays(key: String, number: Int) {
+        #expect(Streak.dayNumber(key) == number)
+    }
+
+    /// A date that does not exist is refused, not rounded into the next month —
+    /// which is what `DateFormatter.date(from:)` did, and what the round-trip
+    /// check inside `dayNumber` is there to preserve.
+    @Test("Impossible and malformed days are refused", arguments: [
+        "2025-02-30", "2023-02-29", "2025-13-01", "2025-00-10", "2025-01-32",
+        "2025-1-01", "25-01-01", "2025-01", "", "not-a-date", "2025/01/01",
+    ])
+    func refusesNonsense(key: String) {
+        #expect(Streak.dayNumber(key) == nil, "\(key) should not parse")
+    }
+
+    /// 2100 is not a leap year, and an algorithm that only checks divisibility
+    /// by four says it is. One day out, seventy-five years from now.
+    @Test("The century rule holds")
+    func centuryRule() throws {
+        let feb28 = try #require(Streak.dayNumber("2100-02-28"))
+        let mar1 = try #require(Streak.dayNumber("2100-03-01"))
+        #expect(mar1 == feb28 + 1, "2100-02-29 was treated as a real day")
+        #expect(Streak.dayNumber("2100-02-29") == nil)
+    }
+}

@@ -120,15 +120,24 @@ final class SemanticIndex {
             return
         }
 
-        let built = Self.centred(ids: ids, dimension: dimension, values: values)
+        let built = await Self.centred(ids: ids, dimension: dimension, values: values)
         vectors = built
         state = .ready
-        try? Self.writeCache(built, contentVersion: contentVersion)
+        try? await Self.writeCache(built, contentVersion: contentVersion)
         Self.logger.info("Semantic index built for \(ids.count) verses")
     }
 
     /// Subtract the corpus mean from every vector, then renormalise.
-    nonisolated static func centred(ids: [Int], dimension: Int, values: [Float]) -> VerseVectors {
+    ///
+    /// `@concurrent` because `nonisolated` alone does not move work: a
+    /// synchronous nonisolated function runs on whatever executor called it,
+    /// and every caller here is the main actor. This walks 701 × ~512 floats
+    /// twice, which was two passes over a third of a million values with the
+    /// interface waiting on them.
+    @concurrent
+    nonisolated static func centred(
+        ids: [Int], dimension: Int, values: [Float]
+    ) async -> VerseVectors {
         var mean = [Float](repeating: 0, count: dimension)
         for row in 0 ..< ids.count {
             for column in 0 ..< dimension {
@@ -206,6 +215,19 @@ final class SemanticIndex {
         guard let raw = try? await embedder.embed(query), raw.count == vectors.dimension else {
             return []
         }
+        return await Self.rank(query: raw, in: vectors)
+    }
+
+    /// The corpus multiply and the sort, off the main actor.
+    ///
+    /// This is the one that was worth moving. `scored` runs on every search,
+    /// which is to say on the typing path, and it multiplied the query through
+    /// all 701 vectors and then sorted them — while holding the actor that
+    /// draws the results it is producing.
+    @concurrent
+    private nonisolated static func rank(
+        query raw: [Float], in vectors: VerseVectors
+    ) async -> [(Int, Float)] {
         let vector = Embedder.normalised(zip(raw, vectors.mean).map(-))
 
         var scores = [Float](repeating: 0, count: vectors.count)
@@ -222,7 +244,11 @@ final class SemanticIndex {
     /// rather than misread. Version 2 added the corpus mean.
     private nonisolated static let format: UInt32 = 2
 
-    private nonisolated static func writeCache(_ vectors: VerseVectors, contentVersion: String) throws {
+    /// Writing the cache is disk work and nothing waits on it.
+    @concurrent
+    private nonisolated static func writeCache(
+        _ vectors: VerseVectors, contentVersion: String
+    ) async throws {
         var data = Data()
         let header = [magic, format, UInt32(vectors.count), UInt32(vectors.dimension)]
         header.withUnsafeBufferPointer { data.append(Data(buffer: $0)) }

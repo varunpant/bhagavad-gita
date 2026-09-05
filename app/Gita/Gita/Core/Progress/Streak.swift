@@ -26,15 +26,65 @@ nonisolated enum Streak {
         return formatter
     }()
 
-    /// Built once. It was being constructed per day inside the streak loops —
-    /// a hundred `Calendar` allocations to walk a hundred-day streak.
-    private nonisolated static let calendar: Calendar = {
-        var calendar = Calendar(identifier: .gregorian)
-        calendar.timeZone = dayFormatter.timeZone
-        return calendar
-    }()
-
     static func day(for date: Date) -> String { dayFormatter.string(from: date) }
+
+    // MARK: - Days as numbers
+
+    /// A `yyyy-MM-dd` key as a count of days, so a run of them is arithmetic.
+    ///
+    /// The streak loops used to walk in `Date`s, which meant a `DateFormatter`
+    /// call for every day examined: `longest` did three per reading day — parse
+    /// the key, add a day, format it back — so a reader with a year of history
+    /// paid about eleven hundred formatter calls, and `snapshot` recomputes on
+    /// every read. Formatters are also locked internally, so those are not
+    /// cheap microseconds.
+    ///
+    /// Nothing is lost by leaving `Date` behind. These keys are civil dates in
+    /// a fixed Gregorian calendar, and the day after a civil date is a matter
+    /// of counting, not of clocks: the daylight-saving trap the old comment
+    /// warns about is real for `addingTimeInterval(-86_400)` on an instant, and
+    /// cannot arise here, because there is no instant left to shift.
+    static func dayNumber(_ day: String) -> Int? {
+        let parts = day.split(separator: "-", omittingEmptySubsequences: false)
+        guard parts.count == 3,
+              let year = Int(parts[0]), let month = Int(parts[1]), let dayOfMonth = Int(parts[2]),
+              parts[0].count == 4, parts[1].count == 2, parts[2].count == 2,
+              (1 ... 12).contains(month), (1 ... 31).contains(dayOfMonth)
+        else { return nil }
+
+        let number = daysFromCivil(year: year, month: month, day: dayOfMonth)
+        // Rejects the dates that look well-formed and do not exist — "2025-02-30"
+        // — which `DateFormatter.date(from:)` also refused. Without the check
+        // they would quietly become the first of March.
+        guard civilFromDays(number) == (year, month, dayOfMonth) else { return nil }
+        return number
+    }
+
+    /// Days from 1970-01-01, by Howard Hinnant's civil-date algorithm. Exact
+    /// for every proleptic Gregorian date, with no table and no branch on leap
+    /// years beyond the era arithmetic.
+    private static func daysFromCivil(year: Int, month: Int, day: Int) -> Int {
+        let y = year - (month <= 2 ? 1 : 0)
+        let era = (y >= 0 ? y : y - 399) / 400
+        let yearOfEra = y - era * 400                                  // [0, 399]
+        let dayOfYear = (153 * (month + (month > 2 ? -3 : 9)) + 2) / 5 + day - 1
+        let dayOfEra = yearOfEra * 365 + yearOfEra / 4 - yearOfEra / 100 + dayOfYear
+        return era * 146_097 + dayOfEra - 719_468
+    }
+
+    /// The inverse, used only to reject impossible dates.
+    private static func civilFromDays(_ number: Int) -> (Int, Int, Int) {
+        let z = number + 719_468
+        let era = (z >= 0 ? z : z - 146_096) / 146_097
+        let dayOfEra = z - era * 146_097                               // [0, 146096]
+        let yearOfEra = (dayOfEra - dayOfEra / 1460 + dayOfEra / 36524 - dayOfEra / 146_096) / 365
+        let year = yearOfEra + era * 400
+        let dayOfYear = dayOfEra - (365 * yearOfEra + yearOfEra / 4 - yearOfEra / 100)
+        let mp = (5 * dayOfYear + 2) / 153
+        let day = dayOfYear - (153 * mp + 2) / 5 + 1
+        let month = mp + (mp < 10 ? 3 : -9)
+        return (year + (month <= 2 ? 1 : 0), month, day)
+    }
 
     /// The run of consecutive days ending today — or ending yesterday, if
     /// nothing has been read yet today.
@@ -45,26 +95,26 @@ nonisolated enum Streak {
     /// keeps the streak alive for the whole of today; it breaks only once a
     /// full day has passed with nothing read.
     static func current(from days: some Sequence<String>, today: String) -> Int {
-        let set = Set(days)
-        guard !set.isEmpty else { return 0 }
+        // A day that cannot be parsed is dropped rather than counted, which is
+        // what happened before: it could never equal a key this type produced.
+        let set = Set(days.compactMap(dayNumber))
+        guard !set.isEmpty, let todayNumber = dayNumber(today) else { return 0 }
 
         // Anchor on today if it counts, otherwise on yesterday. If neither has
         // been read the streak is over, whatever came before.
-        guard let todayDate = dayFormatter.date(from: today) else { return 0 }
-        var cursor: Date
-        if set.contains(today) {
-            cursor = todayDate
-        } else if let yesterday = previousDay(of: todayDate), set.contains(day(for: yesterday)) {
-            cursor = yesterday
+        var cursor: Int
+        if set.contains(todayNumber) {
+            cursor = todayNumber
+        } else if set.contains(todayNumber - 1) {
+            cursor = todayNumber - 1
         } else {
             return 0
         }
 
         var length = 0
-        while set.contains(day(for: cursor)) {
+        while set.contains(cursor) {
             length += 1
-            guard let earlier = previousDay(of: cursor) else { break }
-            cursor = earlier
+            cursor -= 1
         }
         return length
     }
@@ -72,39 +122,16 @@ nonisolated enum Streak {
     /// The longest run anywhere in the history, which is not necessarily the
     /// current one and is not necessarily the most recent.
     static func longest(from days: some Sequence<String>) -> Int {
-        let sorted = Set(days).sorted()
+        let sorted = Set(days.compactMap(dayNumber)).sorted()
         guard !sorted.isEmpty else { return 0 }
 
         var longest = 1
         var run = 1
         for (previous, day) in zip(sorted, sorted.dropFirst()) {
-            if isDayAfter(day, previous) {
-                run += 1
-                longest = max(longest, run)
-            } else {
-                run = 1
-            }
+            run = day == previous + 1 ? run + 1 : 1
+            longest = max(longest, run)
         }
         return longest
     }
 
-    // MARK: - Date arithmetic
-
-    /// Calendar arithmetic, not `addingTimeInterval(-86_400)`. A day is not
-    /// always 86,400 seconds — daylight saving makes two of them a year 23 or
-    /// 25 hours long, and subtracting a fixed interval across one of those
-    /// lands on the wrong date and silently breaks the streak.
-    private static func previousDay(of date: Date) -> Date? {
-        calendar.date(byAdding: .day, value: -1, to: date)
-    }
-
-    private static func isDayAfter(_ day: String, _ previous: String) -> Bool {
-        guard let previousDate = dayFormatter.date(from: previous),
-              let nextDate = nextDay(of: previousDate) else { return false }
-        return self.day(for: nextDate) == day
-    }
-
-    private static func nextDay(of date: Date) -> Date? {
-        calendar.date(byAdding: .day, value: 1, to: date)
-    }
 }

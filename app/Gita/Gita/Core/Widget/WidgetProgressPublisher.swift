@@ -24,14 +24,34 @@ private struct WidgetProgressPublisher: ViewModifier {
     @Environment(Settings.self) private var settings
     @Environment(Library.self) private var library
 
+    /// The four inputs as one value.
+    ///
+    /// They were four separate `onChange` handlers, which meant four separate
+    /// calls to `publish()` — and `publish()` takes a `ProgressSnapshot`, which
+    /// walks every read verse and recomputes both streaks. On a cold launch at
+    /// least two of them fire in the same update, the read count with
+    /// `initial: true` and the corpus becoming ready, so the app opened by
+    /// building the same snapshot twice and writing the same file twice.
+    private struct Inputs: Equatable {
+        let versesRead: Int
+        let isReady: Bool
+        let language: ReadingLanguage
+        let theme: ThemePreference
+    }
+
+    private var inputs: Inputs {
+        Inputs(versesRead: progress.readVerseIDs.count,
+               isReady: library.state.isReady,
+               language: settings.language,
+               theme: settings.theme)
+    }
+
     func body(content: Content) -> some View {
-        content
-            // `initial: true` on the first: a launch that changes nothing still
-            // has to write the file the very first time.
-            .onChange(of: progress.readVerseIDs.count, initial: true) { _, _ in publish() }
-            .onChange(of: library.state.isReady) { _, _ in publish() }
-            .onChange(of: settings.language) { _, _ in publish() }
-            .onChange(of: settings.theme) { _, _ in publish() }
+        // `task(id:)` rather than four `onChange`s: it runs once on appear —
+        // which is what `initial: true` was for — and once per *distinct*
+        // combination after that, so changes landing in the same update
+        // coalesce into a single write instead of racing each other to it.
+        content.task(id: inputs) { publish() }
     }
 
     private func publish() {
