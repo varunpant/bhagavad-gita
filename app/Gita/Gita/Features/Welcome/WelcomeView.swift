@@ -37,15 +37,17 @@ struct WelcomeView: View {
 
     @State private var page: Int? = 0
 
-    /// Whether the page on screen is one whose art runs off the foot.
-    ///
-    /// Only those want the long fade. On every other page the tall wash reached
-    /// 170pt up into art that ends well above it — over the title page it
-    /// desaturated the two language pills, which are the one thing that page
-    /// exists to collect, and over the cards it greyed out the last lines of
-    /// the English one.
-    private var currentPageBleeds: Bool {
-        pages.first { $0.id == (page ?? 0) }?.isScreenshot ?? false
+    /// The guide's screenshots, decoded before they are swiped to. Owned here
+    /// rather than by the app: nothing outside the welcome draws them, and the
+    /// memory goes back when the welcome does.
+    @State private var art = WelcomeArtStore()
+
+    @Environment(\.displayScale) private var displayScale
+
+    /// What the page on screen is showing, which decides how far the scrim
+    /// reaches — see `WelcomeMetrics.scrimReach(for:)`.
+    private var currentArt: WelcomeArt {
+        pages.first { $0.id == (page ?? 0) }?.art ?? .opening
     }
 
     /// Debug builds can open the guide at any page, the same way the rail's
@@ -107,10 +109,20 @@ struct WelcomeView: View {
             // screenshot, whatever the art does.
             .overlay(alignment: .bottom) { controls(m).zIndex(2) }
             .overlay(alignment: .topTrailing) { close(m).zIndex(3) }
+            // Decoding is off the main actor and the pages draw an empty glass
+            // until it lands, so this races nothing: the guide opens on its
+            // title page, which has no screenshot, and by the second page the
+            // pictures are in memory. Keyed on the script because choosing
+            // English on page 1 changes which five are wanted.
+            .task(id: isDevanagari) {
+                await art.warm(isDevanagari: isDevanagari,
+                               pixelWidth: m.artPixelWidth(scale: displayScale))
+            }
         }
         .ignoresSafeArea()
         .background(WelcomeInk.ground.ignoresSafeArea())
         .preferredColorScheme(.light)
+        .environment(art)
         // After the first layout, so the pager has somewhere to scroll to.
         .task { if let start = Self.startPage { page = start } }
     }
@@ -159,7 +171,7 @@ struct WelcomeView: View {
         // muddy brown and half-fade the other. The tall reach exists to fade a
         // screenshot running off the page, and the title page has no art to
         // fade; the dots and the button still get their ground either way.
-        .background { scrim(m, reach: currentPageBleeds ? 170 : WelcomeMetrics.artClearance) }
+        .background { scrim(m, reach: m.scrimReach(for: currentArt)) }
     }
 
     /// What the art dissolves into at the foot of the page.
@@ -432,16 +444,8 @@ struct WelcomeView: View {
         .multilineTextAlignment(.leading)
     }
 
-    /// The middle belongs to the app itself.
-    ///
-    /// Wrapped in a `GeometryReader` so the art is told the size of the hole it
-    /// is going into rather than inferring one from the page. That reading is
-    /// what makes this responsive in the only sense that matters: the same code
-    /// gives a 6.9" phone a tall narrow device, an SE a shorter one, and a
-    /// resized Mac window whatever it currently deserves — without a single
-    /// device check.
-    @ViewBuilder
-    /// The art, told the slot it is drawing into rather than measuring it.
+    /// The middle belongs to the app itself: told the slot it is drawing into
+    /// rather than measuring it.
     ///
     /// This used to read the slot with a `GeometryReader`, which cannot survive
     /// being put inside `FitToSlot`: fitting proposes an *unbounded* height so
@@ -503,9 +507,12 @@ struct WelcomeView: View {
 /// pure white under a warm serif reads cold, and the difference costs nothing.
 enum WelcomeInk {
     static let ground = Color(.sRGB, red: 0xFD / 255, green: 0xFA / 255, blue: 0xF4 / 255, opacity: 1)
-    static let ink    = Color(.sRGB, red: 0x35 / 255, green: 0x29 / 255, blue: 0x1A / 255, opacity: 1)
-    static let mute   = Color(.sRGB, red: 0x6E / 255, green: 0x5C / 255, blue: 0x43 / 255, opacity: 1)
-    static let accent = Color(.sRGB, red: 0xB4 / 255, green: 0x57 / 255, blue: 0x1A / 255, opacity: 1)
+    // Taken from Sepia rather than retyped from it. These were the same three
+    // values as hex literals under a comment saying they were "lifted" — which
+    // meant a sepia repaint left the whole nine-page guide on the old palette.
+    static let ink    = Theme.sepia.textPrimary
+    static let mute   = Theme.sepia.textSecondary
+    static let accent = Theme.sepia.accent
     static var hairline: Color { ink.opacity(0.13) }
     static var cardEdge: Color { ink.opacity(0.09) }
 }
@@ -524,6 +531,18 @@ enum WelcomeArt: Equatable, Sendable {
     case screen(String)
     /// The reminder and the widgets, which are not screens.
     case daily
+
+    /// The catalogue name this art draws, or nothing for the pages that are
+    /// drawn rather than captured.
+    ///
+    /// The one place the rule lives. It used to be spelled out in the vignette,
+    /// again in the store that warms them, again in the test that checks they
+    /// resolve, and a fourth time in `tools/make_welcome_art.py` — so a page
+    /// could be drawn, warmed and tested while never being shot.
+    func assetName(isDevanagari: Bool) -> String? {
+        guard case .screen(let name) = self else { return nil }
+        return "welcome-\(name)-\(isDevanagari ? "sa" : "en")"
+    }
 }
 
 /// The nine pages, as content rather than as views.

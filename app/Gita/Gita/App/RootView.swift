@@ -18,7 +18,23 @@ struct RootView: View {
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
 
-    @State private var showingSplash = !ProcessInfo.processInfo.arguments.contains("-skipSplash")
+    /// The splash is skipped only by a debug launch argument, and only in a
+    /// debug build.
+    ///
+    /// Every other launch flag in the app is already `#if DEBUG` —
+    /// `Drawer`, `Settings`, `UserDatabase`, `ReadingProgress` and
+    /// `WelcomeView` — and this one was the exception rather than the rule. The
+    /// exposure was small, because nothing can pass arguments to a shipped
+    /// iPhone app without a debugger, but the inconsistency is the real cost:
+    /// it is the line someone copies when adding the next flag, and the next
+    /// flag may not be as harmless as skipping two seconds of saffron.
+    @State private var showingSplash = {
+        #if DEBUG
+        !ProcessInfo.processInfo.arguments.contains("-skipSplash")
+        #else
+        true
+        #endif
+    }()
 
     /// Shown once, on a first launch — and afterwards only from Settings, where
     /// the same six pages serve as the guide.

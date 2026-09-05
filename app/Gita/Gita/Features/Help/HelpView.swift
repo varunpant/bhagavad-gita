@@ -176,25 +176,31 @@ struct HelpTopic: Identifiable, Sendable {
             bodyEn: "Verses are marked as read as you go, so there is nothing to tick off yourself. Thirty-five goals unlock along the way, and nothing you have earned is ever taken away."
         ),
         HelpTopic(
-            id: 7, symbol: "rectangle.portrait",
+            id: 7, symbol: "circle.dotted",
+            titleSa: "श्लोक कब पढ़ा हुआ माना जाता है", titleEn: "When a verse counts as read",
+            bodySa: "जब कोई श्लोक \(ReadingPolicy.dwellSeconds(isDevanagari: true)) सेकंड तक सामने खुला रहता है, तब वह पढ़ा हुआ मान लिया जाता है। ऊपर संग्रह-चिह्न के बाईं ओर एक छोटा घेरा भरता है और अंत में सही का निशान बनकर चला जाता है। रेल या खोज खुली हो, या ऐप पीछे चला जाए, तो गिनती रुक जाती है — अनुक्रम देखना पढ़ना नहीं है। पढ़ा हुआ श्लोक अनुक्रम में भरे हुए गोले से दिखता है। बिना ऐप के पढ़े श्लोक को अनुक्रम में उसकी संख्या देर तक दबाकर स्वयं अंकित करें।",
+            bodyEn: "A verse counts once it has been open in front of you for \(ReadingPolicy.dwellSeconds(isDevanagari: false)) seconds. A small ring beside the bookmark closes as it counts, then becomes a tick and goes. The count stops if the rail or search is over the page, or if you leave the app — browsing the contents is not reading. Read verses show as a filled circle in the contents, and you can mark one by hand there, by holding its number, for reading done away from the app."
+        ),
+        HelpTopic(
+            id: 8, symbol: "rectangle.portrait",
             titleSa: "एकाग्र पाठ", titleEn: "Immersive reading",
             bodySa: "सेटिंग्स में एकाग्र पाठ चालू करें, और पृष्ठ पर केवल श्लोक रह जाएगा। पढ़ते समय बाकी सब छिपा रहता है। नियंत्रण वापस लाने के लिए पृष्ठ पर कहीं भी दो बार दबाएँ।",
             bodyEn: "Turn on Immersive reading in Settings to leave nothing on the page but the shloka. Everything else stays hidden while you read. Double-tap anywhere on the page to bring the controls back."
         ),
         HelpTopic(
-            id: 8, symbol: "textformat.size",
+            id: 9, symbol: "textformat.size",
             titleSa: "रूप और अक्षर-आकार", titleEn: "Appearance and text size",
             bodySa: "सेटिंग्स में प्रकाश, अंधकार या सेपिया चुनें, और अपनी सुविधा का अक्षर-आकार तय करें। ऐप का हर पृष्ठ उसी रूप में ढल जाता है।",
             bodyEn: "Choose Light, Dark or Sepia in Settings, and set the text size that suits you. Every page in the app follows that choice."
         ),
         HelpTopic(
-            id: 9, symbol: "character",
+            id: 10, symbol: "character",
             titleSa: "लिपि बदलना", titleEn: "Changing script",
             bodySa: "बाईं पट्टी का अक्षर पूरे ऐप को देवनागरी और हिंदी से लिप्यंतरण और अंग्रेज़ी में बदल देता है। केवल श्लोक नहीं, हर शब्द इसके साथ बदलता है।",
             bodyEn: "The letter on the bar at the left switches the whole app between two scripts: Devanagari with Hindi, and transliteration with English. Everything changes with it, not only the verse."
         ),
         HelpTopic(
-            id: 10, symbol: "calendar",
+            id: 11, symbol: "calendar",
             titleSa: "प्रतिदिन एक श्लोक", titleEn: "A verse every day",
             bodySa: "अपने समय पर एक स्मरण लगाएँ, और होम स्क्रीन पर विजेट जोड़ें। दोनों हर दिन वही श्लोक दिखाते हैं, बिना ऐप खोले।",
             bodyEn: "Set a daily reminder for a time that suits you, and add a widget to your Home Screen. Both show the same verse each day, so you can read it without opening the app."

@@ -69,8 +69,17 @@ def imageset(name: str, image: Image.Image) -> None:
     folder.mkdir(parents=True)
 
     image.save(folder / f"{name}.png", optimize=True)
+    # **No scale key** — "universal, single scale", which is what makes these
+    # work on a Mac. Declared as `3x` they had no representation at 1x or 2x,
+    # and every display a Mac has is one of those two: the welcome's screenshot
+    # pages came up blank in the Mac build while being fine on every phone.
+    #
+    # Single scale means one pixel is one point, so the asset would draw at
+    # 1260pt wide if anything ever asked it to draw at its natural size.
+    # Nothing does: `WelcomeVignette` always gives the image an explicit frame
+    # computed from the page, and measures the file only for its aspect ratio.
     (folder / "Contents.json").write_text(json.dumps({
-        "images": [{"filename": f"{name}.png", "idiom": "universal", "scale": "3x"}],
+        "images": [{"filename": f"{name}.png", "idiom": "universal"}],
         "info": {"author": "xcode", "version": 1},
         "properties": {"template-rendering-intent": "original"},
     }, indent=2) + "\n")

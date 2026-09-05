@@ -7,9 +7,10 @@ import SwiftUI
 
 /// The eighteen chapters, and a way to reach any verse.
 ///
-/// Opened by tapping the verse reference in the reader's footer. The resting
-/// state is pure content — no search bar, no chrome. A single magnifier in the
-/// header expands a field only when asked for, and collapses back to an icon.
+/// Opened from the rail. The header is `PanelHeader` — the title, a two-swatch
+/// legend for what the chips' fill and edge mean, and the way out — and
+/// everything below it is content. Searching lives in its own overlay, not
+/// here; this panel is for browsing the book's own order.
 struct TableOfContentsView: View {
     @Environment(Library.self) private var library
     @Environment(Settings.self) private var settings
@@ -70,7 +71,47 @@ struct TableOfContentsView: View {
         PanelHeader(
             sanskrit: "अध्याय", english: "CHAPTERS", isDevanagari: isDevanagari,
             closeLabel: "Close contents", onClose: close
-        )
+        ) {
+            legend
+        }
+    }
+
+    /// What the two marks on a chip mean, in the space `PanelHeader` keeps
+    /// between the title and the way out.
+    ///
+    /// Two swatches, no words. The grid teaches the rest by itself — a numeral
+    /// is a verse, a tap opens it — but nothing on the panel says why four
+    /// numbers in a chapter wear a gold edge, and the ring is a claim about the
+    /// verse rather than about the reader, which is not guessable. The read
+    /// disc sits beside it because the two are easy to confuse: one is the
+    /// fill, the other the edge.
+    ///
+    /// Drawn from `fill` and `ring` rather than restated, so a legend cannot
+    /// come to describe a chip the app no longer draws.
+    private var legend: some View {
+        HStack(spacing: 10) {
+            swatch(isRead: true, isFamous: false,
+                   label: isDevanagari ? "पढ़ा" : "Read")
+            swatch(isRead: false, isFamous: true,
+                   label: isDevanagari ? "प्रसिद्ध" : "Famous")
+        }
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel("Key: filled is read, gold edge is a famous verse")
+    }
+
+    private func swatch(isRead: Bool, isFamous: Bool, label: String) -> some View {
+        HStack(spacing: 5) {
+            Circle()
+                .fill(fill(isCurrent: false, isRead: isRead))
+                .overlay { ring(isCurrent: false, isFamous: isFamous) }
+                .frame(width: 12, height: 12)
+
+            Text(label)
+                .font(isDevanagari ? .labelDevanagari : .label)
+                .tracking(isDevanagari ? 0 : 0.6)
+                .foregroundStyle(theme.textSecondary)
+        }
+        .accessibilityHidden(true)
     }
 
     // MARK: - Chapters

@@ -2,8 +2,7 @@
   "images": [
     {
       "filename": "welcome-bookmark-en.png",
-      "idiom": "universal",
-      "scale": "3x"
+      "idiom": "universal"
     }
   ],
   "info": {

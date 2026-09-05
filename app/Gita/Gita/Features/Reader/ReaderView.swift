@@ -246,9 +246,13 @@ struct ReaderView: View {
                 .foregroundStyle(theme.textSecondary)
                 .accessibilityHidden(true)
 
-            HStack {
+            HStack(spacing: 6) {
                 settingsButton
                 Spacer()
+                // Left of the bookmark, and nothing when there is nothing to
+                // say: the meter is only on screen while a verse is being
+                // counted or has just been marked.
+                ReadMeter()
                 bookmarkButton
             }
             .padding(.horizontal, 16)
@@ -320,10 +324,7 @@ struct ReaderView: View {
                 // the only place the page says a verse is kept, so it can
                 // afford to be the brand rather than a yellow.
                 .foregroundStyle(
-                    kept
-                        ? AnyShapeStyle(LinearGradient(colors: Brand.ramp,
-                                                       startPoint: .top, endPoint: .bottom))
-                        : AnyShapeStyle(theme.textSecondary)
+                    kept ? AnyShapeStyle(Brand.gradient) : AnyShapeStyle(theme.textSecondary)
                 )
                 .frame(width: 32, height: 32)
                 .contentShape(.rect)
@@ -409,10 +410,26 @@ private struct ShlokaPage: View {
     let settings: Settings
     @Environment(\.theme) private var theme
 
-    /// Decoded once per body pass. It is a JSON parse, and `body` asked for it
-    /// twice — once to test emptiness, once to draw the list.
-    private var words: [WordMeaning] { verse.words(for: language) }
+    /// Decoded once per page, not once per read.
+    ///
+    /// This is a `JSONDecoder` parse of the stored word list, and it was a
+    /// computed property that `body` asked for twice — once to test emptiness,
+    /// once to draw the list — for each of the three pages the pager keeps
+    /// resident, on every pass. The comment here used to say "decoded once per
+    /// body pass", which conceded the cost rather than removing it.
+    ///
+    /// `app/CLAUDE.md` on the reader: "Verse leaves must be cheap — no
+    /// attributed-string building or date formatting inside `body`. Precompute
+    /// on load." A `let` set when the page is made is that precomputation.
+    private let words: [WordMeaning]
     private var isDevanagari: Bool { language.isDevanagari }
+
+    init(verse: Verse, language: ReadingLanguage, settings: Settings) {
+        self.verse = verse
+        self.language = language
+        self.settings = settings
+        self.words = verse.words(for: language)
+    }
 
     var body: some View {
         // The height is needed to know whether the page even fills the screen,

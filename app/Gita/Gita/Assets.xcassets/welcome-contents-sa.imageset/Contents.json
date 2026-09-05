@@ -2,8 +2,7 @@
   "images": [
     {
       "filename": "welcome-contents-sa.png",
-      "idiom": "universal",
-      "scale": "3x"
+      "idiom": "universal"
     }
   ],
   "info": {

@@ -37,6 +37,16 @@ nonisolated enum ReadingPolicy {
     /// thirty verses to reach 12.13 records none of them; short enough that
     /// actually reading one always does.
     static let dwell = Duration.seconds(3)
+
+    /// The same number, in words, for the screens that explain the rule.
+    ///
+    /// `HelpView` said "three seconds" and "तीन सेकंड" in prose. Changing the
+    /// policy made the help screen lie, in two scripts, with nothing failing.
+    static func dwellSeconds(isDevanagari: Bool) -> String {
+        let seconds = dwell.components.seconds
+        guard isDevanagari else { return "\(seconds)" }
+        return Int(seconds).devanagariDigits
+    }
 }
 
 /// Watches the reader and records what has been read.
@@ -47,6 +57,7 @@ struct ReadingTrackerModifier: ViewModifier {
     let verseID: Int?
 
     @Environment(ReadingProgress.self) private var progress
+    @Environment(ReadingDwell.self) private var dwell
     @Environment(Drawer.self) private var drawer
     @Environment(\.scenePhase) private var scenePhase
 
@@ -66,12 +77,25 @@ struct ReadingTrackerModifier: ViewModifier {
             // change and cancels the old one for free — no timer to invalidate,
             // nothing to clean up, and it dies with the view.
             .task(id: TrackedState(verseID: verseID, conditions: conditions)) {
-                guard let verseID, ReadingPolicy.shouldCount(conditions) else { return }
+                guard let verseID, ReadingPolicy.shouldCount(conditions) else {
+                    dwell.cancel()
+                    return
+                }
+
+                // The meter in the header draws from this, so it starts when
+                // the sleep starts and stops when the sleep is cancelled —
+                // which is the whole point of it being one state rather than
+                // two three-second animations that happen to agree.
+                dwell.begin()
 
                 try? await Task.sleep(for: ReadingPolicy.dwell)
-                guard !Task.isCancelled else { return }
+                guard !Task.isCancelled else {
+                    dwell.cancel()
+                    return
+                }
 
                 progress.record(verseID)
+                dwell.complete()
             }
     }
 

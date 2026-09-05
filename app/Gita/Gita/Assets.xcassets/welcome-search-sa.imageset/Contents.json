@@ -2,8 +2,7 @@
   "images": [
     {
       "filename": "welcome-search-sa.png",
-      "idiom": "universal",
-      "scale": "3x"
+      "idiom": "universal"
     }
   ],
   "info": {
