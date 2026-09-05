@@ -31,3 +31,57 @@ position: 701
 
 ```
 
+
+### Transliteration
+```
+yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ
+tatra śrīrvijayo bhūtirdhruvā nītirmatirmama
+
+```
+
+### भावार्थ
+
+यह भगवद्गीता का अंतिम श्लोक है, जिसे संजय धृतराष्ट्र से कह रहे हैं। संजय का मानना है कि जहाँ भगवान कृष्ण (परम सत्य) और अर्जुन (कर्मठ भक्त) एक साथ होते हैं, वहाँ सफलता, समृद्धि और धर्म निश्चित रूप से वास करते हैं। यह श्लोक यह संदेश देता है कि ईश्वरीय कृपा और मानवीय पुरुषार्थ का मिलन ही परम कल्याण का मार्ग है।
+
+### Meaning
+
+This is the concluding verse of the Bhagavad Gita, spoken by Sanjaya to Dhritarashtra. Sanjaya declares that wherever the Supreme Lord of Yoga, Krishna, and the supreme archer, Arjuna, are present together, there will always be prosperity, victory, power, and righteousness. It signifies that the combination of divine grace and human effort leads to ultimate success.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत्र | जहाँ |
+| योगेश्वरः | योग के स्वामी |
+| कृष्णः | श्रीकृष्ण |
+| यत्र | जहाँ |
+| पार्थः | पृथा-पुत्र अर्जुन |
+| धनुर्धरः | धनुष धारण करने वाले |
+| तत्र | वहाँ |
+| श्रीः | लक्ष्मी (ऐश्वर्य) |
+| विजयः | विजय |
+| भूतिः | विभूति (वैभव) |
+| ध्रुवा | स्थिर / अचल |
+| नीतिः | नीति |
+| मतिः | मत |
+| मम | मेरा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yatra | wherever |
+| yogeśvaraḥ | the Lord of Yoga |
+| kṛṣṇaḥ | Krishna |
+| yatra | wherever |
+| pārthaḥ | the son of Pritha (Arjuna) |
+| dhanurdharaḥ | the wielder of the bow |
+| tatra | there |
+| śrīḥ | opulence |
+| vijayaḥ | victory |
+| bhūtiḥ | extraordinary power |
+| dhruvā | unswerving |
+| nītiḥ | morality |
+| matiḥ | opinion |
+| mama | my |
+

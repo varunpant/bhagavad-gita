@@ -31,3 +31,59 @@ position: 300
 
 ```
 
+
+### Transliteration
+```
+kāmais tais tair hṛtajñānāḥ prapadyante 'nyadevatāḥ
+taṃ taṃ niyamam āsthāya prakṛtyā niyatāḥ svayā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि भौतिक इच्छाओं के वशीभूत होकर मनुष्य अपनी विवेक-बुद्धि खो बैठते हैं। वे अपनी जन्मजात प्रकृति के अनुसार विभिन्न सांसारिक लाभों के लिए अन्य देवी-देवताओं की पूजा करने लगते हैं। वे उन देवताओं को प्रसन्न करने के लिए विशिष्ट नियमों और अनुष्ठानों का पालन करते हैं, क्योंकि वे परम सत्य को भूल चुके होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains that individuals whose discrimination is stolen by material desires surrender to other demigods. Driven by their own conditioned natures, they follow specific rules and rituals to propitiate these deities for temporary worldly gains, losing sight of the ultimate Supreme Truth.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कामैः | कामनाओं द्वारा |
+| तैः | उन |
+| तैः | उन |
+| हृत | हरे गए / नष्ट हुए |
+| ज्ञानाः | ज्ञान वाले |
+| प्रपद्यन्ते | शरण ग्रहण करते हैं |
+| अन्य | अन्य |
+| देवताः | देवताओं की |
+| तम् | उस |
+| तम् | उस |
+| नियमम् | नियम को |
+| आस्थाय | स्वीकार करके / आश्रय लेकर |
+| प्रकृत्या | स्वभाव से |
+| नियताः | विवश / नियंत्रित |
+| स्वया | अपनी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kāmaiḥ | by desires |
+| taiḥ | by those |
+| taiḥ | by those |
+| hṛta | deprived of |
+| jñānāḥ | whose knowledge |
+| prapadyante | surrender to |
+| anya | other |
+| devatāḥ | deities |
+| tam | that |
+| tam | that |
+| niyamam | regulation |
+| āsthāya | following |
+| prakṛtyā | by nature |
+| niyatāḥ | controlled |
+| svayā | by their own |
+

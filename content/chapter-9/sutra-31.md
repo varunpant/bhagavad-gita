@@ -31,3 +31,51 @@ position: 369
 
 ```
 
+
+### Transliteration
+```
+kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati
+kaunteya pratijānīhi na me bhaktaḥ praṇaśyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि अत्यंत दुराचारी व्यक्ति भी यदि अनन्य भाव से भक्ति में लग जाए, तो वह शीघ्र ही परम पवित्र और धर्मात्मा बन जाता है। भक्ति के प्रभाव से उसके हृदय में स्थायी शांति स्थापित हो जाती है। भगवान अर्जुन से कहते हैं कि वे दृढ़तापूर्वक यह घोषणा करें कि उनके भक्त का कभी पतन या विनाश नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna assures Arjuna that even a person of depraved conduct, once resolved in exclusive devotion, swiftly becomes righteous and attains lasting peace. The purifying power of devotion cleanses the heart of all past impurities. Krishna asks Arjuna to boldly declare that His devotee is never lost or destroyed.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| क्षिप्रम् | शीघ्र ही |
+| भवति | हो जाता है |
+| धर्मात्मा | धर्मात्मा / पवित्र हृदय वाला |
+| शश्वत्-शान्तिम् | सदा रहने वाली परम शांति को |
+| निगच्छति | प्राप्त होता है |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| प्रतिजानीहि | प्रतिज्ञा करो / घोषणा करो |
+| न | नहीं |
+| मे | मेरा |
+| भक्तः | भक्त |
+| प्रणश्यति | नष्ट होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kṣipram | quickly |
+| bhavati | becomes |
+| dharmātmā | righteous |
+| śaśvat-śāntim | eternal peace |
+| nigacchati | attains |
+| kaunteya | O son of Kunti |
+| pratijānīhi | declare / swear |
+| na | not |
+| me | My |
+| bhaktaḥ | devotee |
+| praṇaśyati | perishes |
+

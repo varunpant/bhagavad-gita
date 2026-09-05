@@ -31,3 +31,59 @@ position: 343
 
 ```
 
+
+### Transliteration
+```
+na ca matsthāni bhūtāni paśya me yogamaiśvaram
+bhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी अचिंत्य और दिव्य शक्ति (योगमाया) का वर्णन कर रहे हैं। यद्यपि वे संपूर्ण सृष्टि के आधार और पोषक हैं, फिर भी वे सांसारिक आसक्तियों से सर्वथा अछूते और स्वतंत्र हैं। यह उनकी परम स्वतंत्रता और ऐश्वर्य को दर्शाता है, जहाँ वे सब कुछ धारण करते हुए भी उसमें लिप्त नहीं होते।
+
+### Meaning
+
+In this verse, Lord Krishna describes His inconceivable and divine power (Yogamaya). Although He is the source, sustainer, and creator of all beings, He remains completely detached and independent of them. This highlights His supreme transcendence, showing that He supports everything without being bound or limited by His creation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| च | और |
+| मत्स्थानि | मुझमें स्थित |
+| भूतानि | सब प्राणी |
+| पश्य | देख |
+| मे | मेरा |
+| योगम् | योग (सामर्थ्य) |
+| ऐश्वरम् | ईश्वरीय / ऐश्वर्यमय |
+| भूतभृत् | भूतों का धारण-पोषण करने वाला |
+| न | नहीं |
+| च | और |
+| भूतस्थः | भूतों में स्थित |
+| मम | मेरा |
+| आत्मा | स्वयं (स्वरूप) |
+| भूतभावनः | भूतों को उत्पन्न करने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| ca | and |
+| matsthāni | dwelling in Me |
+| bhūtāni | the created beings |
+| paśya | behold |
+| me | My |
+| yogam | yoga (divine power) |
+| aiśvaram | lordly / majestic |
+| bhūtabhṛt | the sustainer of beings |
+| na | not |
+| ca | and |
+| bhūtasthaḥ | dwelling in the beings |
+| mama | My |
+| ātmā | Self |
+| bhūtabhāvanaḥ | the creator of beings |
+

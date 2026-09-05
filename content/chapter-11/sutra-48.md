@@ -31,3 +31,65 @@ position: 462
 
 ```
 
+
+### Transliteration
+```
+na vedayajñādhyayanairna dānair
+na ca kriyābhirna tapobhirugraiḥ
+evaṁrūpaḥ śakya ahaṁ nṛloke
+draṣṭuṁ tvadanyena kurupravīra
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को अपने इस परम ऐश्वर्यशाली विश्वरूप की दुर्लभता के बारे में बता रहे हैं। वे स्पष्ट करते हैं कि केवल बाहरी धार्मिक अनुष्ठानों, वेदों के अध्ययन, दान या कठिन तपस्या के बल पर इस विराट रूप के दर्शन नहीं किए जा सकते। अर्जुन पर भगवान की विशेष कृपा थी, जिसके कारण उन्हें यह दिव्य दर्शन प्राप्त हुआ।
+
+### Meaning
+
+Lord Krishna explains the extreme rarity of witnessing His cosmic form. He emphasizes that external religious practices, Vedic study, charity, rituals, and severe austerities are insufficient on their own to grant this vision. It was only through Krishna's special grace and Arjuna's unalloyed devotion that this divine form was revealed.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| वेद-यज्ञ-अध्ययनैः | वेदों और यज्ञों के अध्ययन के द्वारा |
+| न | नहीं |
+| दानैः | दानों के द्वारा |
+| न | नहीं |
+| च | और |
+| क्रियाभिः | क्रियाओं (यज्ञ-अनुष्ठानों) के द्वारा |
+| न | नहीं |
+| तपोभिः | तपस्याओं के द्वारा |
+| उग्रैः | उग्र (कठिन) |
+| एवम्-रूपः | इस रूप वाला |
+| शक्यः | संभव हूँ |
+| अहम् | मैं |
+| नृलोके | मनुष्य लोक में |
+| द्रष्टुम् | देखे जाने के लिए |
+| त्वत्-अन्येन | तुम्हारे अतिरिक्त अन्य किसी के द्वारा |
+| कुरुप्रवीर | हे कुरुवंश के श्रेष्ठ वीर (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| veda-yajña-adhyayanaiḥ | by study of the Vedas and sacrifices |
+| na | not |
+| dānaiḥ | by charity |
+| na | not |
+| ca | and |
+| kriyābhiḥ | by rituals |
+| na | not |
+| tapobhiḥ | by penances |
+| ugraiḥ | severe |
+| evam-rūpaḥ | in this form |
+| śakyaḥ | possible |
+| aham | I |
+| nṛloke | in the world of men |
+| draṣṭum | to be seen |
+| tvat-anyena | by anyone other than you |
+| kurupravīra | O best among the Kuru warriors |
+

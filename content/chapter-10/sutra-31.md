@@ -31,3 +31,55 @@ position: 403
 
 ```
 
+
+### Transliteration
+```
+pavanaḥ pavatāmasmi rāmaḥ śastrabhṛtāmaham
+jhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी विभूतियों का वर्णन जारी रखते हुए कहते हैं कि शुद्ध करने वाले तत्वों में वे वायु हैं। शस्त्र धारण करने वाले वीरों में वे मर्यादा पुरुषोत्तम श्री राम हैं। जलचरों में वे मकर (मगरमच्छ) हैं और समस्त पवित्र नदियों में वे देवनदी गंगा (जाह्नवी) हैं।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine manifestations, stating that among purifying agents He is the wind. Among those who wield weapons, He is the legendary Rama. Among aquatic creatures, He is the makara (crocodile or shark), and among all flowing rivers, He is the sacred Ganges.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पवनः | वायु |
+| पवताम् | पवित्र करने वालों में |
+| अस्मि | मैं हूँ |
+| रामः | राम |
+| शस्त्रभृताम् | शस्त्रधारियों में |
+| अहम् | मैं |
+| झषाणाम् | जल-जंतुओं (मछलियों) में |
+| मकरः | मगरमच्छ |
+| च | और |
+| अस्मि | हूँ |
+| स्रोतसाम् | नदियों (प्रवाहों) में |
+| अस्मि | हूँ |
+| जाह्नवी | गंगा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pavanaḥ | the wind |
+| pavatām | of purifiers |
+| asmi | I am |
+| rāmaḥ | Rama |
+| śastrabhṛtām | of the wielders of weapons |
+| aham | I |
+| jhaṣāṇām | of fish (aquatic creatures) |
+| makaraḥ | the crocodile/shark |
+| ca | and |
+| asmi | I am |
+| srotasām | of flowing rivers |
+| asmi | I am |
+| jāhnavī | the Ganges (daughter of Jahnu) |
+

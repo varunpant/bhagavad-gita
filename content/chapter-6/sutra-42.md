@@ -31,3 +31,55 @@ position: 275
 
 ```
 
+
+### Transliteration
+```
+athavā yoginām eva kule bhavati dhīmatām
+etad dhi durlabhataraṃ loke janma yad īdṛśam
+
+```
+
+### भावार्थ
+
+इस श्लोक में श्रीकृष्ण अर्जुन को बताते हैं कि यदि कोई योगी पूर्णता प्राप्त करने से पहले शरीर छोड़ देता है, तो वह या तो समृद्ध परिवारों में जन्म लेता है या फिर अत्यंत बुद्धिमान योगियों के कुल में जन्म लेता है। ऐसा जन्म मिलना अत्यंत दुर्लभ माना गया है क्योंकि यहाँ साधक को बचपन से ही आध्यात्मिक वातावरण प्राप्त होता है। यह वातावरण उसे बिना किसी बाधा के अपनी साधना को आगे बढ़ाने में सहायता करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that if a yogi departs before reaching perfection, they may be born into a family of wise spiritual practitioners. Such a birth is considered extremely rare and auspicious in this world. It provides the soul with a highly conducive spiritual environment right from childhood, allowing them to resume their spiritual journey without obstacles.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अथवा | या फिर |
+| योगिनाम् | योगियों के |
+| एव | ही |
+| कुले | कुल में |
+| भवति | उत्पन्न होता है |
+| धीमताम् | बुद्धिमानों के |
+| एतत् | यह |
+| हि | निश्चित रूप से |
+| दुर्लभतरम् | अत्यंत दुर्लभ |
+| लोके | इस संसार में |
+| जन्म | जन्म |
+| यत् | जो |
+| ईदृशम् | इस प्रकार का |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| athavā | or |
+| yoginām | of yogis |
+| eva | certainly |
+| kule | in the family |
+| bhavati | he takes birth |
+| dhīmatām | of the wise |
+| etat | this |
+| hi | indeed |
+| durlabhataram | more difficult to attain |
+| loke | in the world |
+| janma | birth |
+| yat | which |
+| īdṛśam | like this |
+

@@ -31,3 +31,57 @@ position: 319
 
 ```
 
+
+### Transliteration
+```
+kaviṃ purāṇamanuśāsitāra
+maṇoraṇīyāṃsamanusmaredyaḥ
+sarvasya dhātāramacintyarūpa
+mādityavarṇaṃ tamasaḥ parastāt
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस परम पुरुष के दिव्य गुणों का वर्णन कर रहे हैं जिसका ध्यान साधक को अंत समय में करना चाहिए। वह परमात्मा सर्वज्ञ (कवि), अनादि (पुराण), ब्रह्मांड का शासक, सूक्ष्म से भी सूक्ष्मतर, सबका पोषक और अज्ञान के अंधकार से परे परम प्रकाश स्वरूप है। ऐसे दिव्य स्वरूप का स्मरण करने से जीव परम गति को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the divine qualities of the Supreme Purusha upon whom a seeker should meditate, especially at the time of death. The Supreme Being is characterized as all-knowing, primeval, the absolute ruler, subtler than the atom, the sustainer of everything, possessing an inconceivable form, and shining like the sun beyond all darkness of ignorance. Meditating on these attributes leads the soul to the supreme divine state.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कविम् | सर्वज्ञ को |
+| पुराणम् | अनादि को |
+| अनुशासितारम् | सबके नियन्ता / शासक को |
+| अणोः | अणु से भी |
+| अणीयांसम् | अति सूक्ष्म को |
+| अनुस्मरेत् | स्मरण करता है |
+| यः | जो |
+| सर्वस्य | सबके |
+| धातारम् | धारण-पोषण करने वाले को |
+| अचिन्त्य-रूपम् | अचिन्त्य स्वरूप वाले को |
+| आदित्य-वर्णम् | सूर्य के समान प्रकाशमान |
+| तमसः | अन्धकार से |
+| परस्तात् | सर्वथा परे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kavim | the omniscient / all-knowing |
+| purāṇam | the ancient / primeval |
+| anuśāsitāram | the ruler / governor |
+| aṇoḥ | than the atom |
+| aṇīyāṃsam | subtler |
+| anusmaret | meditates / remembers |
+| yaḥ | who |
+| sarvasya | of all |
+| dhātāram | the sustainer / supporter |
+| acintya-rūpam | one of inconceivable form |
+| āditya-varṇam | resplendent like the sun |
+| tamasaḥ | to darkness |
+| parastāt | beyond |
+

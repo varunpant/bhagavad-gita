@@ -31,3 +31,53 @@ position: 537
 
 ```
 
+
+### Transliteration
+```
+aprakāśo'pravṛttiśca pramādo moha eva ca
+tamasyetāni jāyante vivṛddhe kurunandana
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को तमोगुण के बढ़ने के लक्षणों के बारे में बता रहे हैं। जब मनुष्य के भीतर तमोगुण की वृद्धि होती है, तब ज्ञान का अभाव (अप्रकाश), अकर्मण्यता (अप्रवृत्ति), व्यर्थ की भूलें (प्रमाद) और अज्ञानजनित भ्रम (मोह) उत्पन्न होते हैं। यह स्थिति मनुष्य को आलस्य और अज्ञान के अंधकार में धकेल देती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the symptoms that manifest when the quality of ignorance (tamas) becomes dominant. When tamas increases, it brings about darkness or lack of illumination, inactivity, negligence, and sheer delusion. These qualities drag an individual down into laziness, confusion, and a lack of spiritual or material progress.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अप्रकाशः | अप्रकाश (ज्ञान का अभाव) |
+| अप्रवृत्तिः | निष्क्रियता (कर्म न करने की प्रवृत्ति) |
+| च | और |
+| प्रमादः | प्रमाद (कर्तव्य की उपेक्षा) |
+| मोहः | मोह (भ्रम) |
+| एव | ही |
+| च | और |
+| तमसि | तमोगुण के |
+| एतानि | ये सब |
+| जायन्ते | उत्पन्न होते हैं |
+| विवृद्धे | बढ़ जाने पर |
+| कुरुनन्दन | हे कुरुनन्दन (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aprakāśaḥ | darkness (lack of light/knowledge) |
+| apravṛttiḥ | inactivity |
+| ca | and |
+| pramādaḥ | negligence (madness) |
+| mohaḥ | delusion |
+| eva | indeed |
+| ca | and |
+| tamasi | when the mode of ignorance |
+| etāni | these |
+| jāyante | are manifested |
+| vivṛddhe | having increased |
+| kurunandana | O descendant of Kuru (Arjuna) |
+

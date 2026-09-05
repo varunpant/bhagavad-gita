@@ -31,3 +31,64 @@ position: 311
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+kiṃ tadbrahma kimadhyātmaṃ kiṃ karma puruṣottama
+adhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate
+
+```
+
+### भावार्थ
+
+भगवद्गीता के आठवें अध्याय के इस पहले श्लोक में अर्जुन भगवान कृष्ण से सात प्रश्न पूछते हैं। वे ब्रह्म, अध्यात्म, कर्म, अधिभूत और अधिदैव के वास्तविक स्वरूप को जानना चाहते हैं। इन पारिभाषिक शब्दों का स्पष्टीकरण आगे के श्लोकों में स्वयं भगवान कृष्ण द्वारा किया गया है।
+
+### Meaning
+
+In this opening verse of the eighth chapter, Arjuna asks Lord Krishna seven fundamental questions. He seeks to understand the true nature of Brahman, Adhyatma (the self), Karma (action), Adhibhuta (the material manifestation), and Adhidaiva (the divine agents). Lord Krishna addresses and defines these terms in the subsequent verses.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| किम् | क्या |
+| तत् | वह |
+| ब्रह्म | ब्रह्म |
+| किम् | क्या |
+| अध्यात्मम् | अध्यात्म (स्वभाव) |
+| किम् | क्या |
+| कर्म | कर्म |
+| पुरुषोत्तम | हे पुरुषोत्तम (कृष्ण) |
+| अधिभूतम् | अधिभूत (भौतिक जगत) |
+| च | और |
+| किम् | क्या |
+| प्रोक्तम् | कहा गया है |
+| अधिदैवम् | अधिदैव (दैवीय शक्ति) |
+| किम् | क्या |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| kim | what |
+| tat | that |
+| brahma | Brahman |
+| kim | what |
+| adhyātmam | the individual self (Adhyatma) |
+| kim | what |
+| karma | action (Karma) |
+| puruṣottama | O Supreme Person |
+| adhibhūtam | the physical manifestation (Adhibhuta) |
+| ca | and |
+| kim | what |
+| proktam | is declared to be |
+| adhidaivam | the divine agent (Adhidaiva) |
+| kim | what |
+| ucyate | is said to be |
+

@@ -31,3 +31,45 @@ position: 103
 
 ```
 
+
+### Transliteration
+```
+duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ
+vītarāgabhayakrodhaḥ sthitadhīrmunirucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को एक स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति के लक्षण बताते हैं। ऐसा व्यक्ति जीवन के उतार-चढ़ाव, सुख और दुःख में समभाव रखता है। वह सांसारिक इच्छाओं, भय और क्रोध से पूरी तरह मुक्त हो चुका होता है, और इसी कारण उसे सच्चा मुनि कहा जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a person with steady wisdom to Arjuna. Such a person maintains equanimity through life's ups and downs, remaining unaffected by both sorrow and joy. Having completely freed themselves from worldly attachments, fear, and anger, they are recognized as a true sage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दुःखेषु | दुःखों में |
+| अनुद्विग्नमनाः | उद्वेगरहित मन वाला |
+| सुखेषु | सुखों में |
+| विगतस्पृहः | इच्छा से रहित |
+| वीतरागभयक्रोधः | आसक्ति, भय और क्रोध से मुक्त |
+| स्थितधीः | स्थिर बुद्धि वाला |
+| मुनिः | मुनि |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| duḥkheṣu | in sorrows |
+| anudvignamanāḥ | whose mind is unagitated |
+| sukheṣu | in happiness |
+| vigataspṛhaḥ | free from craving |
+| vītarāgabhayakrodhaḥ | free from attachment, fear, and anger |
+| sthitadhīḥ | of steady wisdom |
+| muniḥ | a sage |
+| ucyate | is called |
+

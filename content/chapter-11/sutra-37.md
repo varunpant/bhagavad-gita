@@ -31,3 +31,69 @@ position: 451
 
 ```
 
+
+### Transliteration
+```
+kasmācca te na nameranmahātman
+garīyase brahmaṇo'pyādikartre
+ananta deveśa jagannivāsa
+tvamakṣaraṃ sadasattatparaṃ yat
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विराट रूप की महिमा का गान कर रहे हैं। वे कहते हैं कि सृष्टि के रचयिता ब्रह्मा जी के भी आदि-कारण होने के कारण सभी को भगवान के सम्मुख नतमस्तक होना ही चाहिए। भगवान ही सत् (व्यक्त), असत् (अव्यक्त) और इन दोनों से परे परम अक्षर ब्रह्म हैं।
+
+### Meaning
+
+In this verse, Arjuna glorifies the cosmic form of Lord Krishna, explaining why the entire universe bows to Him. Since Krishna is the original creator of even Brahma (the secondary creator), He is the ultimate source of everything. He is described as the imperishable reality, encompassing both existence (sat) and non-existence (asat), as well as the supreme transcendental truth beyond them.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कस्मात् | किस कारण से |
+| च | और |
+| ते | वे (सब) |
+| न | नहीं |
+| नमेरन् | नमस्कार करें |
+| महात्मन् | हे महात्मन् |
+| गरीयसे | गुरुतर / श्रेष्ठतर के लिए |
+| ब्रह्मणः | ब्रह्मा के |
+| अपि | भी |
+| आदिकर्त्रे | आदि-रचयिता के लिए |
+| अनन्त | हे अनन्त |
+| देवेश | हे देवों के स्वामी |
+| जगन्निवास | हे ब्रह्मांड के आश्रय |
+| त्वम् | आप |
+| अक्षरम् | अविनाशी |
+| सत् | सत् (व्यक्त) |
+| असत् | असत् (अव्यक्त) |
+| तत्-परम् | उससे परे |
+| यत् | जो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kasmāt | why |
+| ca | and |
+| te | they |
+| na | not |
+| nameran | should bow down |
+| mahātman | O Great Soul |
+| garīyase | to the one who is greater |
+| brahmaṇaḥ | than Brahma |
+| api | even |
+| ādikartre | to the original creator |
+| ananta | O Infinite One |
+| deveśa | O Lord of the gods |
+| jagannivāsa | O Refuge of the universe |
+| tvam | You |
+| akṣaram | the imperishable |
+| sat | being (manifest) |
+| asat | non-being (unmanifest) |
+| tat-param | beyond that |
+| yat | which |
+

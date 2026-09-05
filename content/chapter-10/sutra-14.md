@@ -31,3 +31,63 @@ position: 386
 
 ```
 
+
+### Transliteration
+```
+sarvam etad ṛtaṃ manye yan māṃ vadasi keśava
+na hi te bhagavan vyaktiṃ vidur devā na dānavāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के प्रति अपनी पूर्ण श्रद्धा और विश्वास व्यक्त कर रहे हैं। वे स्वीकार करते हैं कि कृष्ण द्वारा कही गई सभी बातें परम सत्य हैं। अर्जुन यह भी स्पष्ट करते हैं कि भगवान का वास्तविक स्वरूप इतना अगाध है कि देवता और दानव भी उसे पूरी तरह समझने में असमर्थ हैं।
+
+### Meaning
+
+In this verse, Arjuna expresses his complete faith and surrender to Lord Krishna, accepting all His words as absolute truth. He acknowledges that the Supreme Lord's personality and manifestations are so profound that they remain incomprehensible even to the celestial demigods and the powerful demons.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वम् | सब कुछ |
+| एतत् | यह |
+| ऋतम् | सत्य |
+| मन्ये | मैं मानता हूँ |
+| यत् | जो |
+| माम् | मुझसे |
+| वदसि | आप कह रहे हैं |
+| केशव | हे केशव |
+| न | नहीं |
+| हि | निश्चय ही |
+| ते | आपकी |
+| भगवन् | हे भगवान |
+| व्यक्तिम् | अभिव्यक्ति को / स्वरूप को |
+| विदुः | जानते हैं |
+| देवाः | देवतागण |
+| न | न ही |
+| दानवाः | दानवगण |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvam | all |
+| etat | this |
+| ṛtam | truth |
+| manye | I accept / believe |
+| yat | which |
+| mām | to me |
+| vadasi | You say |
+| keśava | O Keshava |
+| na | not |
+| hi | indeed |
+| te | Your |
+| bhagavan | O Supreme Lord |
+| vyaktim | manifestation / personality |
+| viduḥ | know |
+| devāḥ | the demigods |
+| na | nor |
+| dānavāḥ | the demons |
+

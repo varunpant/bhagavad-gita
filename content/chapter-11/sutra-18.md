@@ -31,3 +31,65 @@ position: 432
 
 ```
 
+
+### Transliteration
+```
+tvamakṣaraṃ paramaṃ veditavyaṃ
+tvamasya viśvasya paraṃ nidhānam
+tvamavyayaḥ śāśvatadharmagoptā
+sanātanastvaṃ puruṣo mato me
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप को देखकर उनकी महिमा का गान कर रहे हैं। वे स्वीकार करते हैं कि कृष्ण ही उपनिषदों में वर्णित परम सत्य (अक्षर ब्रह्म) हैं, जिन्हें जानना ही जीवन का अंतिम लक्ष्य है। वे ही इस संपूर्ण सृष्टि के आधार और सनातन धर्म के शाश्वत रक्षक हैं।
+
+### Meaning
+
+In this verse, Arjuna praises the cosmic form of Lord Krishna, recognizing Him as the supreme imperishable reality (Brahman) described in the Upanishads. He acknowledges Krishna as the ultimate resting place of the universe and the eternal guardian of the cosmic order (dharma). Arjuna declares his firm conviction that Krishna is the primeval, divine Being.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| त्वम् | आप |
+| अक्षरम् | अविनाशी (अक्षर ब्रह्म) |
+| परमम् | परम |
+| वेदितव्यम् | जानने योग्य |
+| त्वम् | आप |
+| अस्य | इस |
+| विश्वस्य | ब्रह्मांड के |
+| परम् | परम |
+| निधानम् | आश्रय / आधार |
+| त्वम् | आप |
+| अव्ययः | अविनाशी / विकाररहित |
+| शाश्वत-धर्म-गोप्ता | सनातन धर्म के रक्षक |
+| सनातनः | शाश्वत / आदि-अंत से रहित |
+| त्वम् | आप |
+| पुरुषः | परम पुरुष |
+| मतः | स्वीकार किए गए हैं / माने गए हैं |
+| मे | मेरे द्वारा (मेरी सम्मति में) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tvam | You |
+| akṣaram | the imperishable |
+| paramam | supreme |
+| veditavyam | to be known |
+| tvam | You |
+| asya | of this |
+| viśvasya | universe |
+| param | the supreme |
+| nidhānam | basis / resting place |
+| tvam | You |
+| avyayaḥ | imperishable / inexhaustible |
+| śāśvata-dharma-goptā | protector of the eternal dharma |
+| sanātanaḥ | eternal |
+| tvam | You |
+| puruṣaḥ | Supreme Person |
+| mataḥ | considered / held |
+| me | by me |
+

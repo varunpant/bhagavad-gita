@@ -31,3 +31,43 @@ position: 203
 
 ```
 
+
+### Transliteration
+```
+yogasaṃnyastakarmāṇaṃ jñānasaṃchinnasaṃśayam
+ātmavantaṃ na karmāṇi nibadhnanti dhanañjaya
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण कर्म योग और ज्ञान योग के समन्वय का वर्णन करते हैं। वे बताते हैं कि जो व्यक्ति निष्काम भाव से कर्म करता है और ज्ञान द्वारा जिसके सभी संदेह नष्ट हो चुके हैं, वह कर्मों के बंधन से मुक्त हो जाता है। ऐसा आत्मज्ञानी पुरुष संसार में कर्म करते हुए भी उनसे कभी नहीं बंधता।
+
+### Meaning
+
+In this verse, Lord Krishna summarizes the path of Karma Yoga and Jnana Yoga. He explains that a person who acts with detachment, offering the fruits of their actions to the Divine, is freed from karmic bondage. True knowledge destroys all doubts, allowing the self-realized soul to remain completely unbound by worldly activities.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| योगसंन्यस्तकर्माणम् | योग द्वारा कर्मों का संन्यास करने वाले को |
+| ज्ञानसंछिन्नसंशयम् | ज्ञान द्वारा जिसके संशय नष्ट हो गए हैं |
+| आत्मवन्तम् | आत्मज्ञानी को |
+| न | नहीं |
+| कर्माणि | कर्म |
+| निबध्नन्ति | बांधते हैं |
+| धनञ्जय | हे धनञ्जय |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yogasaṃnyastakarmāṇam | one who has renounced actions through yoga |
+| jñānasaṃchinnasaṃśayam | whose doubts have been dispelled by knowledge |
+| ātmavantam | the self-realized person |
+| na | not |
+| karmāṇi | actions |
+| nibadhnanti | bind |
+| dhanañjaya | O conqueror of wealth |
+

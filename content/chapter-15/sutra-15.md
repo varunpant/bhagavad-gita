@@ -31,3 +31,73 @@ position: 566
 
 ```
 
+
+### Transliteration
+```
+sarvasya cāhaṃ hṛdi sanniviṣṭo
+mattaḥ smṛtirjñānamapohanaṃ ca
+vedaiśca sarvairahameva vedyo
+vedāntakṛdvedavideva cāham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापकता और परमेश्वर रूप का वर्णन कर रहे हैं। वे प्रत्येक जीव के अंतःकरण में साक्षी रूप से स्थित हैं, जिससे जीवों को स्मृति और ज्ञान प्राप्त होता है। वे ही समस्त वेदों के परम लक्ष्य हैं और वेदों के वास्तविक ज्ञाता भी वही हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His omnipresence and supreme nature. He resides in the hearts of all living beings as the inner witness, from whom memory, knowledge, and forgetfulness originate. He is the ultimate goal of all Vedic study, the author of the Upanishads (Vedanta), and the true knower of the Vedas.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वस्य | सब प्राणियों के |
+| च | और |
+| अहम् | मैं |
+| हृदि | हृदय में |
+| सन्निविष्टः | स्थित हूँ |
+| मत्तः | मुझसे ही |
+| स्मृतिः | स्मृति |
+| ज्ञानम् | ज्ञान |
+| अपोहनम् | अपोहन (भ्रम का नाश/विस्मृति) |
+| च | और |
+| वेदैः | वेदों द्वारा |
+| च | और |
+| सर्वैः | सब |
+| अहम् | मैं |
+| एव | ही |
+| वेद्यः | जानने योग्य हूँ |
+| वेदान्तकृत् | वेदान्त का कर्ता |
+| वेदवित् | वेदों को जानने वाला |
+| एव | ही |
+| च | और |
+| अहम् | मैं हूँ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvasya | of all beings |
+| ca | and |
+| aham | I |
+| hṛdi | in the heart |
+| sanniviṣṭaḥ | seated |
+| mattaḥ | from Me |
+| smṛtiḥ | memory |
+| jñānam | knowledge |
+| apohanam | forgetfulness (loss of memory) |
+| ca | and |
+| vedaiḥ | by the Vedas |
+| ca | and |
+| sarvaiḥ | all |
+| aham | I |
+| eva | alone |
+| vedyaḥ | to be known |
+| vedāntakṛt | the author of the Vedanta |
+| vedavit | the knower of the Vedas |
+| eva | indeed |
+| ca | and |
+| aham | I am |
+

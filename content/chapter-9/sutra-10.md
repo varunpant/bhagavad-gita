@@ -31,3 +31,49 @@ position: 348
 
 ```
 
+
+### Transliteration
+```
+mayā'dhyakṣeṇa prakṛtiḥ sūyate sacarācaram
+hetunā'nena kaunteya jagadviparivartate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि यद्यपि वे स्वयं निर्लिप्त रहते हैं, फिर भी उनकी अध्यक्षता और इच्छा मात्र से ही प्रकृति (भौतिक शक्ति) सजीव और निर्जीव जगत का सृजन करती है। ईश्वर की यही परम सत्ता सृष्टि के चक्र को गतिमान रखती है। प्रकृति स्वतंत्र रूप से कार्य नहीं करती, बल्कि वह परमात्मा के अधीन होकर ही कार्य करती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that although He remains unattached, material nature (prakriti) functions under His supreme supervision to create all animate and inanimate beings. It is by His divine will and presence that the cosmic cycle of creation, maintenance, and dissolution keeps revolving. Nature does not act independently, but operates under the direction of the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मया | मेरे द्वारा |
+| अध्यक्षेण | अध्यक्ष (स्वामी) रूप में |
+| प्रकृतिः | भौतिक प्रकृति |
+| सूयते | उत्पन्न करती है |
+| स-चर-अचरम् | चर और अचर (सजीव और निर्जीव) सहित |
+| हेतुना | कारण से |
+| अनेन | इस |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| जगत् | संसार |
+| विपरिवर्तते | चक्र की तरह घूमता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mayā | by Me |
+| adhyakṣeṇa | as supervisor |
+| prakṛtiḥ | material nature |
+| sūyate | manifests / produces |
+| sa-cara-acaram | with the moving and non-moving |
+| hetunā | by the cause |
+| anena | this |
+| kaunteya | O son of Kunti |
+| jagat | the universe |
+| viparivartate | revolves |
+

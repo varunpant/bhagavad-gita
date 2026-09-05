@@ -31,3 +31,55 @@ position: 169
 
 ```
 
+
+### Transliteration
+```
+yadā yadā hi dharmasya glānirbhavati bhārata
+abhyutthānamadharmasya tadātmānaṃ sṛjāmyaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अवतार का मुख्य कारण बताते हैं। जब संसार में धर्म का पतन होने लगता है और अधर्म की शक्तियां प्रबल हो जाती हैं, तब भगवान स्वयं को साकार रूप में प्रकट करते हैं। उनका यह अवतरण ब्रह्मांड में संतुलन और ईश्वरीय व्यवस्था को पुनः स्थापित करने के लिए होता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the primary reason for His divine incarnations. Whenever righteousness declines and unrighteous forces become dominant in the world, the Supreme Lord manifests Himself in a physical form. His descent is a deliberate act to restore cosmic balance and re-establish the divine order.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदा | जब |
+| यदा | जब |
+| हि | निश्चय ही |
+| धर्मस्य | धर्म की |
+| ग्लानिः | हानि |
+| भवति | होती है |
+| भारत | हे भारत (अर्जुन) |
+| अभ्युत्थानम् | वृद्धि |
+| अधर्मस्य | अधर्म की |
+| तदा | तब |
+| आत्मानम् | अपने आप को |
+| सृजामि | प्रकट करता हूँ |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadā | whenever |
+| yadā | whenever |
+| hi | certainly |
+| dharmasya | of righteousness |
+| glāniḥ | decline |
+| bhavati | is |
+| bhārata | O descendant of Bharata |
+| abhyutthānam | uprising |
+| adharmasya | of unrighteousness |
+| tadā | then |
+| ātmānam | myself |
+| sṛjāmi | manifest |
+| aham | I |
+

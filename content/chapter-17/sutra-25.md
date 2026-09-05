@@ -31,3 +31,49 @@ position: 620
 
 ```
 
+
+### Transliteration
+```
+tad ity anabhisandhāya phalaṃ yajñatapaḥkriyāḥ
+dānakriyāś ca vividhāḥ kriyante mokṣakāṅkṣibhiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जो लोग मोक्ष की इच्छा रखते हैं, वे अपने कर्मों के फलों के प्रति आसक्ति का त्याग करते हैं। वे 'तत्' (जिसका अर्थ 'वह' परम सत्य है) शब्द का उच्चारण करके यज्ञ, तपस्या और दान के कार्य करते हैं। ऐसा करने से उनके कर्म उन्हें सांसारिक बंधनों में नहीं बांधते और वे परम गति को प्राप्त करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains that those who seek liberation perform acts of sacrifice, penance, and charity without desiring any personal rewards. By uttering the syllable 'Tat' (meaning 'That', referring to the Supreme), they dedicate their actions to the Absolute. This selfless performance of duty purifies their consciousness and frees them from the bondage of karma.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत् | तत् (वह परमात्मा का नाम) |
+| इति | इस प्रकार (उच्चारण करके) |
+| अनभिसन्धाय | बिना इच्छा किए |
+| फलम् | फल की |
+| यज्ञ-तपः-क्रियाः | यज्ञ और तप की क्रियाएँ |
+| दान-क्रियाः | दान की क्रियाएँ |
+| च | और |
+| विविधाः | विविध प्रकार की |
+| क्रियन्ते | की जाती हैं |
+| मोक्ष-काङ्क्षिभिः | मोक्ष चाहने वाले पुरुषों द्वारा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tat | Tat (the name of the Supreme) |
+| iti | thus (uttering) |
+| anabhisandhāya | without desiring |
+| phalam | the fruit |
+| yajña-tapaḥ-kriyāḥ | acts of sacrifice and austerity |
+| dāna-kriyāḥ | acts of charity |
+| ca | and |
+| vividhāḥ | various |
+| kriyante | are performed |
+| mokṣa-kāṅkṣibhiḥ | by those seeking liberation |
+

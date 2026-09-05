@@ -31,3 +31,51 @@ position: 485
 
 ```
 
+
+### Transliteration
+```
+anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ
+sarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन गुणों का वर्णन कर रहे हैं जो एक भक्त को उनके अत्यंत प्रिय बनाते हैं। ऐसा भक्त किसी भी सांसारिक फल की इच्छा नहीं रखता, आंतरिक और बाहरी रूप से शुद्ध रहता है, और अपने कर्तव्यों को कुशलतापूर्वक निभाता है। वह सुख-दुख में तटस्थ रहता है, किसी भी प्रकार की चिंता से मुक्त होता है, और अपने सभी कर्मों के फलों को ईश्वर को समर्पित कर देता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the qualities that make a devotee dear to Him. Such a devotee is free from worldly expectations, remains pure in mind and body, and is highly skillful in performing duties. He remains unbothered by dualities, free from anxiety, and has renounced the ego of being the doer in all his undertakings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनपेक्षः | अपेक्षा से रहित (निष्काम) |
+| शुचिः | पवित्र (बाहर और भीतर से) |
+| दक्षः | चतुर (दक्ष या कुशल) |
+| उदासीनः | उदासीन (पक्षपात रहित) |
+| गतव्यथः | दुखों या व्यथा से मुक्त |
+| सर्व-आरम्भ-परित्यागी | सभी कर्मों में कर्तापन के भाव का त्यागी |
+| यः | जो |
+| मद्-भक्तः | मेरा भक्त है |
+| सः | वह |
+| मे | मुझे |
+| प्रियः | प्रिय है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| anapekṣaḥ | free from expectations |
+| śuciḥ | pure (internally and externally) |
+| dakṣaḥ | expert or skillful |
+| udāsīnaḥ | indifferent or unconcerned |
+| gatavyathaḥ | free from all distress or anxiety |
+| sarva-ārambha-parityāgī | renouncer of the sense of doership in all undertakings |
+| yaḥ | who |
+| mad-bhaktaḥ | My devotee |
+| saḥ | he |
+| me | to Me |
+| priyaḥ | is dear |
+

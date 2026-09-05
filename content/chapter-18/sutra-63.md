@@ -31,3 +31,57 @@ position: 686
 
 ```
 
+
+### Transliteration
+```
+iti te jñānamākhyātaṃ guhyādguhyataraṃ mayā
+vimṛśyaitadaśeṣeṇa yathecchasi tathā kuru
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को पूर्ण स्वतंत्रता देते हैं। उन्होंने अर्जुन को परम गोपनीय ज्ञान प्रदान कर दिया है, और अब वे चाहते हैं कि अर्जुन इस ज्ञान पर गहराई से विचार करे। इसके बाद अर्जुन अपनी बुद्धि और विवेक के अनुसार स्वयं निर्णय लेने के लिए स्वतंत्र है।
+
+### Meaning
+
+In this verse, Lord Krishna grants complete freedom of choice to Arjuna. Having imparted the most confidential and profound knowledge, Krishna encourages Arjuna to deliberate on it thoroughly. Ultimately, Arjuna is left to make his own decision based on his understanding and free will.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इति | इस प्रकार |
+| ते | तुम्हारे लिए |
+| ज्ञानम् | ज्ञान |
+| आख्यातम् | कहा गया है |
+| गुह्यात् | गोपनीय से |
+| गुह्यतरम् | अधिक गोपनीय |
+| मया | मेरे द्वारा |
+| विमृश्य | विचार करके |
+| एतत् | इस पर |
+| अशेषेण | पूर्ण रूप से |
+| यथा | जैसे |
+| इच्छसि | तुम चाहते हो |
+| तथा | वैसे ही |
+| कुरु | करो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| iti | thus |
+| te | to you |
+| jñānam | knowledge |
+| ākhyātam | has been declared |
+| guhyāt | than the secret |
+| guhyataram | more secret |
+| mayā | by Me |
+| vimṛśya | reflecting |
+| etat | on this |
+| aśeṣeṇa | fully / without omission |
+| yathā | as |
+| icchasi | you wish |
+| tathā | so |
+| kuru | do |
+

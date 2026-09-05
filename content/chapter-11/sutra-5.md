@@ -31,3 +31,56 @@ position: 419
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+paśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ
+nānā-vidhāni divyāni nānā-varṇākṛtīni ca
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को अपना अलौकिक विश्वरूप देखने के लिए आमंत्रित करते हैं। वे स्पष्ट करते हैं कि उनके रूप अनंत, विविध और दिव्य हैं, जो साधारण मानवीय दृष्टि से परे हैं। इन रूपों में अनेक प्रकार के रंग, आकृतियाँ और ब्रह्मांडीय तत्व समाहित हैं।
+
+### Meaning
+
+Lord Krishna invites Arjuna to behold His extraordinary cosmic form. He emphasizes that His forms are infinite, diverse, and divine, transcending ordinary human perception. These forms encompass a multitude of colors, shapes, and cosmic manifestations.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| पश्य | देखो |
+| मे | मेरे |
+| पार्थ | हे अर्जुन (पृथापुत्र) |
+| रूपाणि | रूपों को |
+| शतशः | सैकड़ों |
+| अथ | और |
+| सहस्रशः | हजारों |
+| नाना-विधानि | अनेक प्रकार के |
+| दिव्यानि | अलौकिक (दिव्य) |
+| नाना-वर्ण-आकृतीनि | अनेक रंगों और आकृतियों वाले |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| paśya | behold |
+| me | My |
+| pārtha | O Partha (son of Pritha) |
+| rūpāṇi | forms |
+| śataśaḥ | by hundreds |
+| atha | and |
+| sahasraśaḥ | by thousands |
+| nānā-vidhāni | of various kinds |
+| divyāni | divine |
+| nānā-varṇa-ākṛtīni | of various colors and shapes |
+| ca | and |
+

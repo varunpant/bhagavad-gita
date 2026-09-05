@@ -31,3 +31,59 @@ position: 78
 
 ```
 
+
+### Transliteration
+```
+svadharmamapi cāvekṣya na vikampitumarhasi
+dharmyāddhi yuddhāchreyo'nyatkṣatriyasya na vidyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को उसके क्षत्रिय धर्म का स्मरण करा रहे हैं। वे समझाते हैं कि समाज में न्याय और धर्म की रक्षा करना एक योद्धा का परम कर्तव्य है। इसलिए, धर्म के लिए लड़े जाने वाले इस युद्ध से पीछे हटना अर्जुन के लिए उचित नहीं है, क्योंकि यही उसके लिए सर्वोच्च कल्याण का मार्ग है।
+
+### Meaning
+
+In this verse, Lord Krishna reminds Arjuna of his inherent duty (svadharma) as a warrior. He explains that upholding justice and righteousness is the supreme responsibility of a Kshatriya. Therefore, shrinking away from a righteous war is inappropriate, as fighting for a just cause is the highest good for a warrior.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| स्वधर्मम् | अपने धर्म को |
+| अपि | भी |
+| च | और |
+| अवेक्ष्य | देखकर (विचार करके) |
+| न | नहीं |
+| विकम्पितुम् | विचलित होना |
+| अर्हसि | तुम्हें चाहिए (योग्य हो) |
+| धर्म्यात् | धर्मयुक्त से |
+| हि | निश्चय ही (क्योंकि) |
+| युद्धात् | युद्ध से |
+| श्रेयः | श्रेष्ठ (कल्याणकारी) |
+| अन्यत् | दूसरा |
+| क्षत्रियस्य | क्षत्रिय के लिए |
+| न | नहीं |
+| विद्यते | है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| svadharmam | own duty |
+| api | also / even |
+| ca | and |
+| avekṣya | considering |
+| na | not |
+| vikampitum | to waver |
+| arhasi | you should |
+| dharmyāt | than righteous |
+| hi | indeed |
+| yuddhāt | than war |
+| śreyaḥ | better |
+| anyat | another |
+| kṣatriyasya | for a kshatriya |
+| na | not |
+| vidyate | exists |
+

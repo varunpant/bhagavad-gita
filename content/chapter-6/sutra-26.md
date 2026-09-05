@@ -31,3 +31,53 @@ position: 259
 
 ```
 
+
+### Transliteration
+```
+yato yato niścarati manaścañcalamasthiram
+tatastato niyamyaitadātmanyeva vaśaṃ nayet
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण मन को वश में करने की व्यावहारिक विधि बताते हैं। ध्यान के समय मन अपनी चंचलता के कारण बार-बार सांसारिक विषयों की ओर भागता है। साधक को निराश होने के बजाय धैर्यपूर्वक मन को उन विषयों से हटाकर पुनः आत्मा के चिन्तन में लगाना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna explains the practical method of controlling the mind during meditation. Due to its restless and unstable nature, the mind repeatedly wanders off toward external sense objects. The practitioner must patiently withdraw the mind from those distractions and bring it back under the control of the Self.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यतः यतः | जिस-जिस कारण से / जहाँ-जहाँ |
+| निश्चरति | बाहर जाता है / भटकता है |
+| मनः | मन |
+| चञ्चलम् | चंचल |
+| अस्थिरम् | अस्थिर |
+| ततः ततः | उस-उस से |
+| नियम्य | रोककर / वश में करके |
+| एतत् | इस (मन) को |
+| आत्मनि | आत्मा में |
+| एव | ही |
+| वशम् | वश में |
+| नयेत् | लाना चाहिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yataḥ yataḥ | from whatever cause / wherever |
+| niścarati | wanders away |
+| manaḥ | the mind |
+| cañcalam | restless |
+| asthiram | unsteady |
+| tataḥ tataḥ | from that / from there |
+| niyamya | restraining / regulating |
+| etat | this |
+| ātmani | in the Self |
+| eva | alone / indeed |
+| vaśam | under control |
+| nayet | one should bring |
+

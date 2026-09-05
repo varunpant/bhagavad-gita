@@ -31,3 +31,51 @@ position: 243
 
 ```
 
+
+### Transliteration
+```
+yogī yuñjīta satatam
+ātmānaṃ rahasi sthitaḥ
+ekākī yata-cittātmā
+nirāśīr aparigrahaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में ध्यान योग के अभ्यास के लिए आवश्यक बाहरी और आंतरिक परिस्थितियों का वर्णन किया गया है। साधक को एकांत स्थान में अकेले रहकर अभ्यास करना चाहिए ताकि बाहरी विक्षेप न हों। इसके साथ ही, मन और इंद्रियों पर नियंत्रण, भौतिक इच्छाओं का त्याग और संग्रह न करने की प्रवृत्ति (अपरिग्रह) ध्यान की सफलता के लिए अनिवार्य हैं।
+
+### Meaning
+
+This verse outlines the essential external and internal conditions required for the practice of meditation (Dhyana Yoga). The practitioner is advised to practice in a solitary place to avoid external distractions. Along with physical solitude, internal discipline—such as controlling the mind and senses, being free from desires, and abandoning possessiveness—is crucial for spiritual absorption.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| योगी | योगी (साधक) |
+| युञ्जीत | लगाए (ध्यान में) |
+| सततम् | निरंतर |
+| आत्मानम् | अपने मन को |
+| रहसि | एकांत स्थान में |
+| स्थितः | स्थित होकर |
+| एकाकी | अकेला |
+| यत-चित्त-आत्मा | वश में किए हुए चित्त और शरीर वाला |
+| निराशीः | कामनाओं से रहित |
+| अपरिग्रहः | संग्रह-वृत्ति से रहित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yogī | the yogi |
+| yuñjīta | should engage |
+| satatam | constantly |
+| ātmānam | the mind (or self) |
+| rahasi | in a solitary place |
+| sthitaḥ | situated |
+| ekākī | alone |
+| yata-citta-ātmā | with controlled mind and body |
+| nirāśīḥ | free from desires |
+| aparigrahaḥ | free from possessiveness |
+

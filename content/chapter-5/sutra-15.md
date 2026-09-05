@@ -31,3 +31,59 @@ position: 219
 
 ```
 
+
+### Transliteration
+```
+nādatte kasyacitpāpaṃ na caiva sukṛtaṃ vibhuḥ
+ajñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि सर्वव्यापी परमात्मा किसी भी जीव के पाप या पुण्य को ग्रहण नहीं करते, अर्थात् वे जीवों के कर्मों में तटस्थ रहते हैं। जीव का वास्तविक स्वरूप ज्ञानमय है, परंतु भौतिक प्रकृति के अज्ञान ने उस ज्ञान को ढक लिया है। इसी अज्ञान के कारण सभी प्राणी मोहग्रस्त होकर स्वयं को कर्ता मान बैठते हैं और सुख-दुख भोगते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna clarifies that the Supreme Lord is neutral and does not interfere with the individual's karma, neither taking on their sins nor their merits. The soul's true nature is full of knowledge, but this knowledge is covered by the ignorance of material identification. Because of this covering, living beings are bewildered and falsely attribute agency and the results of actions to themselves.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| आदत्ते | ग्रहण करते हैं |
+| कस्यचित् | किसी के |
+| पापम् | पाप को |
+| न | न |
+| च | और |
+| एव | ही |
+| सुकृतम् | पुण्य को |
+| विभुः | सर्वव्यापी परमेश्वर |
+| अज्ञानेन | अज्ञान के द्वारा |
+| आवृतम् | ढका हुआ |
+| ज्ञानम् | ज्ञान |
+| तेन | उससे |
+| मुह्यन्ति | मोहित होते हैं |
+| जन्तवः | जीव |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| ādatte | accepts |
+| kasyacit | anyone's |
+| pāpam | sin |
+| na | nor |
+| ca | and |
+| eva | certainly |
+| sukṛtam | pious deed |
+| vibhuḥ | the Supreme Lord |
+| ajñānena | by ignorance |
+| āvṛtam | covered |
+| jñānam | knowledge |
+| tena | by that |
+| muhyanti | are bewildered |
+| jantavaḥ | the living entities |
+

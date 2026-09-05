@@ -31,3 +31,69 @@ position: 292
 
 ```
 
+
+### Transliteration
+```
+ye caiva sāttvikā bhāvā rājasāstāmasāśca ye
+matta eveti tān viddhi na tvahaṃ teṣu te mayi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को समझाते हैं कि सृष्टि के तीनों गुण—सत्त्व, रज और तम—और उनसे उत्पन्न होने वाले सभी भाव उन्हीं की माया शक्ति से उत्पन्न होते हैं। यद्यपि ये सब भगवान से ही उत्पन्न होते हैं, फिर भी भगवान इन गुणों के अधीन नहीं हैं। वे इनसे सर्वथा परे और स्वतंत्र हैं, जबकि ये सभी भाव और जीव भगवान के आश्रित हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that all states of existence—whether characterized by harmony (sattva), passion (rajas), or inertia (tamas)—originate from His energy. Although everything emanates from Him, He is independent of them and not subject to the influence of the material modes. Rather, these modes and all living beings are dependent on Him for their existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ये | जो |
+| च | और |
+| एव | ही |
+| सात्त्विकाः | सत्त्वगुण से उत्पन्न |
+| भावाः | भाव (अवस्थाएँ) |
+| राजसाः | रजोगुण से उत्पन्न |
+| तामसाः | तमोगुण से उत्पन्न |
+| च | और |
+| ये | जो |
+| मत्तः | मुझसे ही |
+| एव | ही |
+| इति | इस प्रकार |
+| तान | उन सबको |
+| viddhi | तुम जानो |
+| न | नहीं |
+| तु | परन्तु |
+| अहम् | मैं |
+| तेषु | उनमें (स्थित हूँ) |
+| ते | वे (सब) |
+| मयि | मुझमें (स्थित हैं) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ye | which |
+| ca | and |
+| eva | certainly |
+| sāttvikāḥ | states of goodness |
+| bhāvāḥ | states of being |
+| rājasāḥ | states of passion |
+| tāmasāḥ | states of ignorance |
+| ca | and |
+| ye | which |
+| mattaḥ | from Me |
+| eva | alone |
+| iti | thus |
+| tān | them |
+| viddhi | know |
+| na | not |
+| tu | but |
+| aham | I |
+| teṣu | in them |
+| te | they |
+| mayi | in Me |
+

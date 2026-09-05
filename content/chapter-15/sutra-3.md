@@ -31,3 +31,71 @@ position: 554
 
 ```
 
+
+### Transliteration
+```
+na rūpamasyeha tathopalabhyate
+nānto na cādirna ca saṃpratiṣṭhā
+aśvatthamenaṃ suvirūḍhamūla
+masaṅgaśastreṇa dṛḍhena chittvā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण संसार रूपी अश्वत्थ वृक्ष की वास्तविक प्रकृति का वर्णन करते हैं। संसारी मनुष्यों को इस मायावी वृक्ष का न तो आदि दिखाई देता है, न अंत और न ही इसका आधार समझ आता है। इस बंधन से मुक्त होने का एकमात्र उपाय वैराग्य (अनासक्ति) रूपी तीक्ष्ण शस्त्र से इसकी गहरी जमी हुई जड़ों को काटना है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the elusive nature of the cosmic Ashvattha tree representing material existence. Ordinary beings cannot perceive its beginning, end, or foundation because of illusion. The only way to liberate oneself from this cycle of birth and death is to cut down its deep-rooted attachments using the sharp weapon of detachment (vairagya).
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| रूपम् | स्वरूप |
+| अस्य | इस (वृक्ष) का |
+| इह | यहाँ (इस संसार में) |
+| तथा | वैसा (जैसा वर्णन किया गया है) |
+| उपलभ्यते | अनुभव किया जाता है |
+| न | न |
+| अन्तः | अंत |
+| न | न |
+| च | और |
+| आदिः | आदि (शुरुआत) |
+| न | न |
+| च | और |
+| सम्प्रतिष्ठा | आधार (स्थिति) |
+| अश्वत्थम् | पीपल के वृक्ष को |
+| एनम् | इस |
+| सुविरूढ़-मूलम् | अत्यंत सुदृढ़ जड़ों वाले |
+| असङ्ग-शस्त्रेण | अनासक्ति (वैराग्य) रूपी शस्त्र से |
+| दृढ़ेन | दृढ़ (मजबूत) |
+| छित्त्वा | काटकर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| rūpam | form |
+| asya | of this |
+| iha | here (in this world) |
+| tathā | as such |
+| upalabyate | is perceived |
+| na | not |
+| antaḥ | end |
+| na | not |
+| ca | and |
+| ādiḥ | beginning |
+| na | not |
+| ca | and |
+| sampratiṣṭhā | foundation |
+| aśvattham | Ashvattha tree |
+| enam | this |
+| suvirūḍha-mūlam | having strongly entrenched roots |
+| asaṅga-śastreṇa | with the weapon of non-attachment |
+| dṛḍhena | with strong |
+| chittvā | having cut down |
+

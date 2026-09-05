@@ -36,8 +36,37 @@
         <circle cx="12" cy="12" r="7"/><path d="M12 5v14" fill="currentColor"/>
       </svg>
     </button>
+
+    <button type="button" class="rail__btn" data-settings-toggle
+            aria-controls="settings" aria-expanded="false" aria-label="Settings">
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="12" r="3.2"/>
+        <path d="M19.4 15a1.6 1.6 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.6 1.6 0 0 0-1.8-.3 1.6 1.6 0 0 0-1 1.5v.2a2 2 0 1 1-4 0v-.1a1.6 1.6 0 0 0-1-1.5 1.6 1.6 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.6 1.6 0 0 0 .3-1.8 1.6 1.6 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.6 1.6 0 0 0 1.5-1 1.6 1.6 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.6 1.6 0 0 0 1.8.3H9a1.6 1.6 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.6 1.6 0 0 0 1 1.5 1.6 1.6 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.6 1.6 0 0 0-.3 1.8V9a1.6 1.6 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.6 1.6 0 0 0-1.5 1z"/>
+      </svg>
+    </button>
   </div>
 </nav>
+
+{{/* Which parts of a verse are on the page.
+
+     The same switches the app keeps under Settings → Verse details, and for
+     the same reason: a page carrying the shloka, a transliteration, two
+     translations, a commentary, two meanings and two word lists is complete
+     and, for most readers, too much at once. Nothing is deleted — it is turned
+     off, and turned back on here.
+
+     The shloka has no switch. It is the verse. */}}
+<div class="settings" id="settings" hidden>
+  <p class="settings__title">Verse details</p>
+  <ul class="settings__list">
+    <li><label><input type="checkbox" data-part="translit" checked> Transliteration</label></li>
+    <li><label><input type="checkbox" data-part="translation" checked> Translations</label></li>
+    <li><label><input type="checkbox" data-part="commentary" checked> Commentary</label></li>
+    <li><label><input type="checkbox" data-part="meaning" checked> Meaning</label></li>
+    <li><label><input type="checkbox" data-part="words"> Word by word</label></li>
+  </ul>
+  <p class="settings__note">Remembered in this browser.</p>
+</div>
 
 {{/* Jump to a verse by its number — the one thing people arrive knowing. */}}
 <div class="jump" id="jump" hidden>

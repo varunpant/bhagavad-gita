@@ -31,3 +31,59 @@ position: 658
 
 ```
 
+
+### Transliteration
+```
+yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca
+na vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तामसी धृति (धैर्य या संकल्प) के लक्षणों का वर्णन करते हैं। मंदबुद्धि व्यक्ति जिस संकल्प शक्ति के कारण आलस्य, भय, चिंता, उदासी और अहंकार जैसी नकारात्मक प्रवृत्तियों को नहीं छोड़ पाता, उसे तामसी धृति कहा जाता है। यह धृति मनुष्य को अज्ञान और अंधकार में ही बांधे रखती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of resolve in the mode of ignorance (tamas). A foolish person, driven by tamasic resolve, stubbornly clings to sleep, fear, grief, despondency, and pride. Instead of leading to liberation, this kind of determination keeps the individual bound to negative and self-destructive habits.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यया | जिस (धृति) के द्वारा |
+| स्वप्नम् | नींद को |
+| भयम् | भय को |
+| शोकम् | शोक को |
+| विषादम् | उदासी को |
+| मदम् | घमंड को |
+| एव | ही |
+| च | और |
+| न | नहीं |
+| विमुञ्चति | छोड़ता है |
+| दुर्मेधा | मूर्ख व्यक्ति |
+| धृतिः | धैर्य (संकल्प) |
+| सा | वह |
+| पार्थ | हे अर्जुन (प्रथापुत्र) |
+| तामसी | तामसी है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yayā | by which |
+| svapnam | sleep |
+| bhayam | fear |
+| śokam | grief |
+| viṣādam | depression |
+| madam | arrogance |
+| eva | indeed |
+| ca | and |
+| na | not |
+| vimuñcati | abandons |
+| durmedhā | the foolish person |
+| dhṛtiḥ | resolve |
+| sā | that |
+| pārtha | O Partha (Arjuna) |
+| tāmasī | tamasic (in the mode of ignorance) |
+

@@ -31,3 +31,53 @@ position: 498
 
 ```
 
+
+### Transliteration
+```
+indriyārtheṣu vairāgyamanahaṅkāra eva ca
+janmamṛtyujarāvyādhiduḥkhadoṣānudarśanam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ज्ञान के लक्षणों का वर्णन जारी रखते हुए वैराग्य और अहंकार के अभाव को महत्वपूर्ण बताते हैं। साधक को सांसारिक विषयों के प्रति अनासक्त होना चाहिए और स्वयं को कर्ता मानने के अहंकार से मुक्त होना चाहिए। इसके साथ ही, जन्म, मृत्यु, बुढ़ापा और बीमारी जैसी जीवन की अनिवार्यताओं में निहित दुखों और दोषों का निरंतर चिंतन करने से संसार के प्रति वैराग्य सुदृढ़ होता है।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe the qualities of knowledge, emphasizing dispassion and the absence of ego. A seeker must remain unattached to sensory objects and free from the pride of doership. Furthermore, constantly contemplating the inherent miseries and defects in birth, death, old age, and disease helps strengthen one's detachment from the material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इन्द्रियार्थेषु | इन्द्रियों के विषयों में |
+| वैराग्यम् | वैराग्य (अनासक्ति) |
+| अनहङ्कारः | अहंकार का अभाव |
+| एव | ही |
+| च | और |
+| जन्म | जन्म |
+| मृत्यु | मृत्यु |
+| जरा | वृद्धावस्था |
+| व्याधि | रोग |
+| दुःख | दुःख |
+| दोष | दोषों का |
+| अनुदर्शनम् | बार-बार विचार करना (देखना) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| indriyārtheṣu | in the sense objects |
+| vairāgyam | dispassion |
+| anahaṅkāraḥ | absence of egoism |
+| eva | indeed |
+| ca | and |
+| janma | birth |
+| mṛtyu | death |
+| jarā | old age |
+| vyādhi | disease |
+| duḥkha | misery |
+| doṣa | evil (defects) |
+| anudarśanam | repeatedly observing |
+

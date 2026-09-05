@@ -31,3 +31,63 @@ position: 653
 
 ```
 
+
+### Transliteration
+```
+pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye
+bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक बुद्धि के लक्षणों का वर्णन करते हैं। सात्त्विक बुद्धि वह है जो धर्म और अधर्म, कर्तव्य और अकर्तव्य के बीच स्पष्ट अंतर कर सकती है। यह मनुष्य को सही मार्ग चुनने और बन्धन से मुक्त होकर मोक्ष प्राप्त करने में मार्गदर्शन करती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a sattvika (pure) intellect. A sattvika intellect is capable of clearly distinguishing between action and inaction, duty and non-duty, fear and fearlessness, and bondage and liberation. It guides a person toward the right path, leading ultimately to spiritual freedom.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रवृत्तिम् | प्रवृत्ति मार्ग को (कर्म मार्ग को) |
+| च | और |
+| निवृत्तिम् | निवृत्ति मार्ग को (संन्यास मार्ग को) |
+| च | और |
+| कार्य | कर्तव्य कर्म को |
+| अकार्ये | और अकर्तव्य कर्म को |
+| भय | भय को |
+| अभये | और अभय को |
+| बन्धम् | बन्धन को |
+| मोक्षम् | मोक्ष को |
+| च | और |
+| या | जो |
+| वेत्ति | जानती है |
+| बुद्धिः | बुद्धि |
+| सा | वह |
+| पार्थ | हे पार्थ (अर्जुन) |
+| सात्त्विकी | सात्त्विकी है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pravṛttim | the path of active engagement |
+| ca | and |
+| nivṛttim | the path of renunciation |
+| ca | and |
+| kārya | what ought to be done |
+| akārye | and what ought not to be done |
+| bhaya | fear |
+| abhaye | and fearlessness |
+| bandham | bondage |
+| mokṣam | liberation |
+| ca | and |
+| yā | which |
+| vetti | knows |
+| buddhiḥ | intellect |
+| sā | that |
+| pārtha | O Partha (Arjuna) |
+| sāttvikī | is sattvika (pure) |
+

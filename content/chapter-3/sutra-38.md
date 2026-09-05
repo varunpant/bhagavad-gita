@@ -31,3 +31,59 @@ position: 157
 
 ```
 
+
+### Transliteration
+```
+dhūmenāvriyate vahniryathā''darśo malena ca
+yatholbenāvṛto garbhastathā tenedamāvṛtam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि काम (वासना) किस प्रकार मनुष्य के ज्ञान को आच्छादित कर लेता है। उन्होंने तीन उदाहरण दिए हैं: धुएं से ढकी आग, मैल से ढका दर्पण और गर्भाशय से ढका भ्रूण। ये तीनों आवरण काम की विभिन्न तीव्रताओं को दर्शाते हैं, जो जीवात्मा की शुद्ध चेतना को ढक लेते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains how lust covers a person's knowledge. He gives three analogies: fire covered by smoke, a mirror covered by dirt, and an embryo covered by the womb. These three coverings represent different degrees of lust that obscure the pure consciousness of the living entity.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| धूमेन | धुएं से |
+| आव्रियते | ढका रहता है |
+| वह्निः | आग |
+| यथा | जिस प्रकार |
+| आदर्शः | दर्पण |
+| मलेन | मैल से |
+| च | और |
+| यथा | जिस प्रकार |
+| उल्बेन | गर्भाशय से |
+| आवृतः | ढका रहता है |
+| गर्भः | भ्रूण |
+| तथा | उसी प्रकार |
+| तेन | उसके द्वारा |
+| इदम् | यह |
+| आवृतम् | ढका हुआ है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dhūmena | by smoke |
+| āvriyate | is covered |
+| vahniḥ | fire |
+| yathā | just as |
+| ādarśaḥ | mirror |
+| malena | by dirt |
+| ca | and |
+| yathā | just as |
+| ulbena | by the womb |
+| āvṛtaḥ | is covered |
+| garbhaḥ | embryo |
+| tathā | similarly |
+| tena | by that |
+| idam | this |
+| āvṛtam | is covered |
+

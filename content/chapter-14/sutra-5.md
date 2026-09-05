@@ -31,3 +31,53 @@ position: 529
 
 ```
 
+
+### Transliteration
+```
+sattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ
+nibadhnanti mahābāho dehe dehinamavyayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रकृति से उत्पन्न होने वाले तीन गुण (सत्त्व, रज और तम) किस प्रकार अविनाशी जीवात्मा को भौतिक शरीर के साथ बाँधते हैं। यद्यपि आत्मा स्वयं दिव्य और निर्गुण है, फिर भी शरीर में स्थित होने पर वह इन गुणों के प्रभाव में आ जाती है। यह बंधन ही संसार में जीव के जन्म और मरण का कारण बनता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna how the three modes of material nature (sattva, rajas, and tamas) bind the imperishable soul to the physical body. Although the soul is inherently divine and transcendental, it becomes conditioned by these qualities when it resides in the body. This conditioning is what keeps the living entity bound to the cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सत्त्वम् | सत्त्व गुण |
+| रजः | रज गुण |
+| तमः | तम गुण |
+| इति | इस प्रकार (ये) |
+| गुणाः | तीनों गुण |
+| प्रकृति | भौतिक प्रकृति से |
+| संभवाः | उत्पन्न होने वाले |
+| निबध्नन्ति | बाँधते हैं |
+| महाबाहो | हे विशाल भुजाओं वाले (अर्जुन) |
+| देहे | शरीर में |
+| देहिनम् | शरीरधारी (जीवात्मा) को |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sattvam | the mode of goodness |
+| rajaḥ | the mode of passion |
+| tamaḥ | the mode of ignorance |
+| iti | thus (these) |
+| guṇāḥ | qualities |
+| prakṛti | from material nature |
+| sambhavāḥ | born |
+| nibadhnanti | bind |
+| mahābāho | O mighty-armed one |
+| dehe | in the body |
+| dehinam | the embodied soul |
+| avyayam | the imperishable |
+

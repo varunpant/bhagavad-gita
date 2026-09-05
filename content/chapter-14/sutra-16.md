@@ -31,3 +31,55 @@ position: 540
 
 ```
 
+
+### Transliteration
+```
+karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam
+rajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तीनों गुणों के अनुसार कर्मों के फलों का वर्णन कर रहे हैं। पुण्य या सात्त्विक कर्मों का परिणाम अत्यंत पवित्र, सुखद और ज्ञानवर्धक होता है। इसके विपरीत, राजसी कर्मों का अंतिम परिणाम केवल दुःख होता है और तामसी कर्मों का परिणाम अज्ञान तथा अंधकार होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the consequences of actions performed under the influence of the three modes of nature. Virtuous or Sattvic actions lead to pure, joyful, and enlightening results. Conversely, passionate or Rajasic actions ultimately result in misery, while ignorant or Tamasic actions lead only to darkness and delusion.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्मणः | कर्म का |
+| सुकृतस्य | पुण्य (श्रेष्ठ) |
+| आहुः | कहते हैं |
+| सात्त्विकम् | सात्त्विक |
+| निर्मलम् | निर्मल (पवित्र) |
+| फलम् | फल |
+| रजसः | रजोगुण का |
+| तु | परन्तु |
+| फलम् | फल |
+| दुःखम् | दुःख |
+| अज्ञानम् | अज्ञान |
+| तमसः | तमोगुण का |
+| फलम् | फल |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karmaṇaḥ | of action |
+| sukṛtasya | of the pious (good) |
+| āhuḥ | they say |
+| sāttvikam | Sattvic (pure) |
+| nirmalam | spotless (untarnished) |
+| phalam | the fruit |
+| rajasaḥ | of Rajas (passion) |
+| tu | but |
+| phalam | the fruit |
+| duḥkham | misery (pain) |
+| ajñānam | ignorance |
+| tamasaḥ | of Tamas (darkness) |
+| phalam | the fruit |
+

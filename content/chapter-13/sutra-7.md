@@ -31,3 +31,53 @@ position: 496
 
 ```
 
+
+### Transliteration
+```
+icchā dveṣaḥ sukhaṃ duḥkhaṃ saṅghātaś cetanā dhṛtiḥ
+etat kṣetraṃ samāsena savikāram udāhṛtam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण 'क्षेत्र' (शरीर और प्रकृति के कार्यक्षेत्र) के विकारों और मानसिक अवस्थाओं का वर्णन कर रहे हैं। इच्छा, द्वेष, सुख, दुःख, शरीर का संघात, चेतना और धैर्य—ये सभी प्रकृति के कार्य हैं और क्षेत्र के अंतर्गत आते हैं। आत्मा इन सब से परे इनका केवल ज्ञाता (क्षेत्रज्ञ) है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the mental states and physical modifications that constitute the 'field' (kṣetra). Desire, aversion, pleasure, pain, the bodily aggregate, consciousness, and determination are all products of material nature. The soul is distinct from these, acting merely as the knower of this field.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इच्छा | इच्छा (चाह) |
+| द्वेषः | द्वेष (घृणा) |
+| सुखम् | सुख |
+| दुःखम् | दुःख |
+| संघातः | शरीर का संघात (पंचभूतों का समूह) |
+| चेतना | चेतना (प्राणशक्ति) |
+| धृतिः | धैर्य (धारण शक्ति) |
+| एतत् | यह |
+| क्षेत्रम् | क्षेत्र (शरीर) |
+| समासेन | संक्षेप में |
+| स-विकारम् | विकारों सहित |
+| उदाहृतम् | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| icchā | desire |
+| dveṣaḥ | hatred |
+| sukham | pleasure |
+| duḥkham | pain |
+| saṅghātaḥ | the bodily aggregate |
+| cetanā | consciousness |
+| dhṛtiḥ | fortitude |
+| etat | this |
+| kṣetram | the field |
+| samāsena | in brief |
+| sa-vikāram | with modifications |
+| udāhṛtam | is declared |
+

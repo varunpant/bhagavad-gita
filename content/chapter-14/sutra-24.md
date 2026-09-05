@@ -31,3 +31,41 @@ position: 548
 
 ```
 
+
+### Transliteration
+```
+samaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ
+tulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण गुणातीत (तीनों गुणों से परे गए) पुरुष के लक्षणों का वर्णन कर रहे हैं। ऐसा व्यक्ति सुख और दुःख के द्वंद्वों से विचलित नहीं होता क्योंकि वह अपने आत्म-स्वरूप में स्थित रहता है। उसके लिए भौतिक वस्तुओं का मूल्य (जैसे मिट्टी, पत्थर या सोना) एक समान होता है, और वह प्रशंसा या आलोचना से प्रभावित नहीं होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a person who has transcended the three modes of material nature (guṇātīta). Such a self-realized soul remains undisturbed by the dualities of pleasure and pain because he is firmly established in his true self. He views material objects like clay, stone, and gold with an equal eye, and remains unaffected by praise or criticism.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सम-दुःख-सुखः | दुःख और सुख में समान रहने वाला |
+| स्वस्थः | अपने स्वरूप में स्थित |
+| सम-लोष्ट-अश्म-काञ्चनः | मिट्टी के ढेले, पत्थर और सुवर्ण को समान समझने वाला |
+| तुल्य-प्रिय-अप्रियः | प्रिय और अप्रिय को एक जैसा मानने वाला |
+| धीरः | धैर्यवान (बुद्धिमान) |
+| तुल्य-निन्दा-आत्म-संस्तुतिः | अपनी निंदा और स्तुति में समान भाव रखने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sama-duḥkha-sukhaḥ | equal in pain and pleasure |
+| svasthaḥ | established in the self |
+| sama-loṣṭa-aśma-kāñcanaḥ | regarding a clod of earth, a stone, and gold as equal |
+| tulya-priya-apriyaḥ | alike to the pleasant and the unpleasant |
+| dhīraḥ | wise (steady) |
+| tulya-nindā-ātma-saṃstutiḥ | equal in censure and praise of oneself |
+

@@ -31,3 +31,53 @@ position: 162
 
 ```
 
+
+### Transliteration
+```
+evaṃ buddheḥ paraṃ buddhvā saṃstabhyātmānamātmanā
+jahi śatruṃ mahābāho kāmarūpaṃ durāsadam
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को काम (वासना) पर विजय प्राप्त करने का अंतिम उपाय बताते हैं। वे समझाते हैं कि आत्मा इंद्रियों, मन और बुद्धि से भी श्रेष्ठ है। अपनी वास्तविक आध्यात्मिक पहचान को जानकर और आध्यात्मिक बुद्धि से मन को स्थिर करके, मनुष्य काम रूपी इस अजेय शत्रु को नष्ट कर सकता है।
+
+### Meaning
+
+Lord Krishna concludes His teachings on conquering lust by revealing the ultimate solution to Arjuna. He explains that the soul is superior to the senses, mind, and intelligence. By realizing one's true spiritual identity and steadying the mind with resolute spiritual intelligence, one can defeat this formidable enemy known as lust.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एवं | इस प्रकार |
+| बुद्धेः | बुद्धि से |
+| परं | श्रेष्ठ को |
+| बुद्ध्वा | जानकर |
+| संस्तभ्य | स्थिर करके |
+| आत्मानम् | मन को |
+| आत्मना | बुद्धि के द्वारा |
+| जहि | मारो |
+| शत्रुं | शत्रु को |
+| महाबाहो | हे महाबाहु |
+| कामरूपं | काम के रूप वाले |
+| दुरासदम् | दुर्जय |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| evaṃ | thus |
+| buddheḥ | than intelligence |
+| paraṃ | superior |
+| buddhvā | knowing |
+| saṃstabhya | steadying |
+| ātmānam | the mind |
+| ātmanā | by the intelligence |
+| jahi | conquer |
+| śatruṃ | the enemy |
+| mahābāho | O mighty-armed one |
+| kāmarūpaṃ | in the form of lust |
+| durāsadam | formidable |
+

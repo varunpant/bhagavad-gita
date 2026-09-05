@@ -31,3 +31,55 @@ position: 98
 
 ```
 
+
+### Transliteration
+```
+karmajaṃ buddhiyuktā hi phalaṃ tyaktvā manīṣiṇaḥ
+janmabandhavinirmuktāḥ padaṃ gacchantyanāmayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण निष्काम कर्म योग के सर्वोच्च परिणाम को स्पष्ट करते हैं। जो ज्ञानी पुरुष समबुद्धि से युक्त होकर कर्मफलों की आसक्ति को त्याग देते हैं, वे जन्म और मृत्यु के निरंतर चक्र से पूरी तरह मुक्त हो जाते हैं। इसके परिणामस्वरूप, वे उस परम अवस्था या मोक्ष को प्राप्त करते हैं जो सभी प्रकार के दुखों और कष्टों से रहित है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the ultimate destination of those who practice Karma Yoga. Wise individuals who maintain equanimity and renounce the desire for the fruits of their actions break free from the continuous cycle of birth and death. Consequently, they attain the supreme state of liberation, which is completely free from all miseries and suffering.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्मजम् | कर्मों से उत्पन्न |
+| बुद्धि | समबुद्धि से |
+| युक्ताः | युक्त |
+| हि | निश्चय ही |
+| फलम् | फल को |
+| त्यक्त्वा | त्याग कर |
+| मनीषिणः | ज्ञानी जन |
+| जन्म | जन्म के |
+| बन्ध | बंधन से |
+| विनिर्मुक्ताः | मुक्त होकर |
+| पदम् | परम पद को |
+| गच्छन्ति | प्राप्त होते हैं |
+| अनामयम् | दुःखरहित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karmajam | born of action |
+| buddhi | equanimity |
+| yuktāḥ | endowed with |
+| hi | indeed |
+| phalam | the fruit |
+| tyaktvā | having abandoned |
+| manīṣiṇaḥ | the wise |
+| janma | of birth |
+| bandha | from the bondage |
+| vinirmuktāḥ | freed |
+| padam | the state |
+| gacchanti | attain |
+| anāmayam | free from suffering |
+

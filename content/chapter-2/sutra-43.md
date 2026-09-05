@@ -31,3 +31,55 @@ position: 90
 
 ```
 
+
+### Transliteration
+```
+kāmātmānaḥ svargaparā janmakarmaphalapradām
+kriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati
+
+```
+
+### भावार्थ
+
+यह श्लोक पिछले श्लोक के क्रम में है, जहाँ भगवान कृष्ण वेदों के कर्मकाण्डों में आसक्त अज्ञानी लोगों का वर्णन कर रहे हैं। ऐसे लोग सांसारिक इच्छाओं से भरे होते हैं और स्वर्ग प्राप्ति को ही जीवन का सर्वोच्च लक्ष्य मानते हैं। वे ऐसे सकाम कर्मों का पालन करते हैं जो उन्हें बार-बार जन्म-मृत्यु के चक्र में फंसाते हैं और केवल भौतिक भोग तथा ऐश्वर्य की ओर ले जाते हैं।
+
+### Meaning
+
+This verse continues from the previous one, describing ignorant people who are deeply attached to the ritualistic portions of the Vedas. Such individuals are full of worldly desires and consider reaching heaven as the ultimate goal of life. They perform various fruitive rituals that only lead to repeated birth in the material world, keeping them entangled in the pursuit of sensual enjoyment and power.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कामात्मानः | कामनाओं से भरे हुए |
+| स्वर्गपराः | स्वर्ग को परम लक्ष्य मानने वाले |
+| जन्म | जन्म |
+| कर्म | कर्म के |
+| फल | फल रूपी |
+| प्रदाम् | देने वाली |
+| क्रिया | क्रियाओं |
+| विशेष | विशेष |
+| बहुलाम् | से परिपूर्ण |
+| भोग | भोग |
+| ऐश्वर्य | ऐश्वर्य की |
+| गतिम् | प्राप्ति |
+| प्रति | के प्रति (के लिए) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kāmātmānaḥ | full of desires |
+| svargaparāḥ | regarding heaven as the highest goal |
+| janma | birth |
+| karma | of action |
+| phala | as the fruit |
+| pradām | yielding |
+| kriyā | rites |
+| viśeṣa | specific |
+| bahulām | abounding in |
+| bhoga | enjoyment |
+| aiśvarya | opulence |
+| gatim | attainment |
+| prati | towards |
+

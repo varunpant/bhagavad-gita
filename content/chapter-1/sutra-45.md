@@ -32,3 +32,59 @@ prepared to kill our kinsmen, through greed for the pleasures of a kingdom.
 
 ```
 
+
+### Transliteration
+```
+aho bata mahatpāpaṃ kartuṃ vyavasitā vayam
+yadrājyasukhalobhena hantuṃ svajanamudyatāḥ
+
+```
+
+### भावार्थ
+
+अर्जुन इस बात पर गहरा शोक और आश्चर्य व्यक्त करते हैं कि वे लोग क्या करने जा रहे हैं। उन्हें यह अहसास होता है कि राज्य और सुख के लालच में आकर वे अपने ही परिवार का नाश करने जैसा घोर पाप करने को तत्पर हैं। यह श्लोक युद्धभूमि में अर्जुन की अत्यधिक करुणा और उनके नैतिक संकट को दर्शाता है।
+
+### Meaning
+
+Arjuna expresses deep remorse and shock at the realization of what they are about to do. He recognizes that the desire for royal pleasures and power is driving them to commit the heinous sin of destroying their own family. This highlights his overwhelming compassion and moral dilemma on the battlefield.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहो | अहो |
+| बत | खेद है |
+| महत् | भारी |
+| पापम् | पाप |
+| कर्तुम् | करने के लिए |
+| व्यवसिताः | निश्चय किया है |
+| वयम् | हम लोगों ने |
+| यत् | कि |
+| राज्य | राज्य |
+| सुख | सुख के |
+| लोभेन | लोभ से |
+| हन्तुम् | मारने के लिए |
+| स्व | अपने |
+| जनम् | लोगों को |
+| उद्यताः | तैयार हुए हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aho | alas |
+| bata | how strange |
+| mahat | great |
+| pāpam | sin |
+| kartum | to commit |
+| vyavasitāḥ | have resolved |
+| vayam | we |
+| yat | that |
+| rājya | kingdom |
+| sukha | happiness |
+| lobhena | by greed |
+| hantum | to kill |
+| sva | own |
+| janam | people |
+| udyatāḥ | prepared |
+

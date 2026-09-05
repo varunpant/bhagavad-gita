@@ -31,3 +31,54 @@ position: 49
 
 ```
 
+
+### Transliteration
+```
+śrī bhagavān uvāca
+kutas tvā kaśmalam idaṃ viṣame samupasthitam
+anāryajuṣṭam asvargyam akīrtikaram arjuna
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण युद्धभूमि में अर्जुन के अचानक उत्पन्न हुए मोह और कायरता पर आश्चर्य व्यक्त करते हैं। वे अर्जुन को फटकारते हुए कहते हैं कि ऐसा आचरण किसी श्रेष्ठ पुरुष (आर्य) को शोभा नहीं देता। श्रीकृष्ण उसे याद दिलाते हैं कि अपने कर्तव्य से विमुख होने पर न तो उसे इस लोक में यश मिलेगा और न ही मृत्यु के पश्चात उच्च लोकों की प्राप्ति होगी।
+
+### Meaning
+
+Lord Krishna expresses surprise at Arjuna's sudden despair and cowardice on the battlefield. He rebukes Arjuna, stating that such behavior is uncharacteristic of a noble warrior. Krishna reminds him that abandoning his duty will neither bring him glory in this world nor elevate him to higher realms in the afterlife.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रीभगवान् | श्री भगवान |
+| उवाच | बोले |
+| कुतः | कहाँ से |
+| त्वा | तुम्हें |
+| कश्मलम् | मोह (मलिनता) |
+| इदम् | यह |
+| विषमे | इस संकट में |
+| समुपस्थितम् | प्राप्त हुआ है |
+| अनार्यजुष्टम् | श्रेष्ठ पुरुषों के लिए अनुचित |
+| अस्वर्ग्यम् | स्वर्ग न देने वाला |
+| अकीर्तिकरम् | अपयश कराने वाला |
+| अर्जुन | हे अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrībhagavān | the Supreme Lord |
+| uvāca | said |
+| kutaḥ | from where |
+| tvā | unto you |
+| kaśmalam | delusion (impurity) |
+| idam | this |
+| viṣame | in this crisis |
+| samupasthitam | arrived |
+| anāryajuṣṭam | unpracticed by honorable men |
+| asvargyam | not leading to heaven |
+| akīrtikaram | causing infamy |
+| arjuna | O Arjuna |
+

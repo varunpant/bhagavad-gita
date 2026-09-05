@@ -31,3 +31,55 @@ position: 475
 
 ```
 
+
+### Transliteration
+```
+ye tu sarvāṇi karmāṇi mayi saṃnyasya matparāḥ
+ananyenaiva yogena māṃ dhyāyanta upāsate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण सगुण साकार रूप की उपासना करने वाले भक्तों के लक्षण बता रहे हैं। जो भक्त अपने सभी कर्मों को भगवान को समर्पित कर देते हैं और केवल उन्हीं को अपना परम लक्ष्य मानते हैं, वे अनन्य भक्ति योग में स्थित होते हैं। ऐसे भक्तों का ध्यान निरंतर भगवान में ही लगा रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the path of those who worship the personal form of God. By dedicating all their activities to Him and keeping Him as the ultimate goal, these devotees practice unalloyed devotion. Their minds are constantly absorbed in meditation on the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ये | जो |
+| तु | परन्तु |
+| सर्वाणि | सभी |
+| कर्माणि | कर्मों को |
+| मयि | मुझमें |
+| संन्यस्य | अर्पित करके |
+| मत्पराः | मेरे परायण होकर |
+| अनन्येन | अनन्य (बिना किसी अन्य के) |
+| एव | ही |
+| योगेन | भक्तियोग के द्वारा |
+| माम् | मुझको |
+| ध्यायन्तः | ध्यान करते हुए |
+| उपासते | उपासना करते हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ye | who |
+| tu | but |
+| sarvāṇi | all |
+| karmāṇi | actions |
+| mayi | in Me |
+| saṃnyasya | renouncing / dedicating |
+| matparāḥ | intent on Me as the Supreme |
+| ananyena | with no other object (single-minded) |
+| eva | indeed |
+| yogena | by yoga of devotion |
+| māṃ | on Me |
+| dhyāyantaḥ | meditating |
+| upāsate | worship |
+

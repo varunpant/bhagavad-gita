@@ -33,3 +33,53 @@ Draupadi, all of great chariots (great heroes).
 
 ```
 
+
+### Transliteration
+```
+yudhāmanyuśca vikrānta uttamaujāśca vīryavān
+saubhadro draupadeyāśca sarva eva mahārathāḥ
+
+```
+
+### भावार्थ
+
+दुर्योधन अपने गुरु द्रोणाचार्य को पाण्डव सेना के प्रमुख योद्धाओं के बारे में बताना जारी रखता है। वह पराक्रमी युधामन्यु, बलवान उत्तमौजा, सुभद्रा के पुत्र अभिमन्यु और द्रौपदी के पाँचों पुत्रों का उल्लेख करता है। इन सभी को 'महारथी' (दस हजार धनुर्धरों से अकेले युद्ध करने में सक्षम योद्धा) बताकर दुर्योधन शत्रु सेना की विशाल शक्ति और उनके द्वारा प्रस्तुत चुनौती को स्वीकार कर रहा है।
+
+### Meaning
+
+Duryodhana continues to list the formidable warriors in the Pandava army to his preceptor Dronacharya. He mentions the brave Yudhamanyu, the mighty Uttamauja, Abhimanyu (Subhadra's son), and the five sons of Draupadi. By acknowledging that each of them is a 'Maharatha' (a warrior capable of fighting ten thousand archers simultaneously), Duryodhana highlights the immense strength of the opposing forces.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| युधामन्युः | युधामन्यु |
+| च | और |
+| विक्रान्तः | पराक्रमी |
+| उत्तमौजाः | उत्तमौजा |
+| च | तथा |
+| वीर्यवान् | बलवान |
+| सौभद्रः | सुभद्रा के पुत्र (अभिमन्यु) |
+| द्रौपदेयाः | द्रौपदी के पुत्र |
+| च | और |
+| सर्वे | सभी |
+| एव | ही |
+| महारथाः | महारथी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yudhāmanyuḥ | Yudhamanyu |
+| ca | and |
+| vikrāntaḥ | valiant |
+| uttamaujāḥ | Uttamauja |
+| ca | and |
+| vīryavān | powerful |
+| saubhadraḥ | the son of Subhadra (Abhimanyu) |
+| draupadeyāḥ | the sons of Draupadi |
+| ca | and |
+| sarve | all |
+| eva | indeed |
+| mahārathāḥ | great chariot-warriors |
+

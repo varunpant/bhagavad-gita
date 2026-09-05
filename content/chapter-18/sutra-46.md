@@ -31,3 +31,55 @@ position: 669
 
 ```
 
+
+### Transliteration
+```
+yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam
+svakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि अपने नियत कर्मों को केवल सांसारिक कार्य न मानकर, उन्हें ईश्वर की आराधना के रूप में करना चाहिए। चूंकि संपूर्ण सृष्टि परमात्मा से ही उत्पन्न हुई है और उसी से व्याप्त है, इसलिए अपने कर्तव्यों का निष्ठापूर्वक पालन करना ही उनकी सच्ची पूजा है। इस प्रकार निष्काम भाव से कर्म करने वाला मनुष्य परम सिद्धि को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains how one's daily duties can be transformed into a spiritual practice. Since the Supreme Being is the source of all creation and pervades everything, performing one's prescribed duties as an offering to Him is the highest form of worship. By doing so, a person purifies their mind and attains ultimate spiritual perfection.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यतः | जिससे |
+| प्रवृत्तिः | उत्पत्ति (या चेष्टा) |
+| भूतानाम् | प्राणियों की |
+| येन | जिसके द्वारा |
+| सर्वम् | सब कुछ |
+| इदम् | यह |
+| ततम् | व्याप्त है |
+| स्व-कर्मणा | अपने स्वाभाविक कर्म के द्वारा |
+| तम् | उस (परमेश्वर) को |
+| अभ्यर्च्य | पूजकर |
+| सिद्धिम् | सिद्धि को |
+| विन्दति | प्राप्त करता है |
+| मानवः | मनुष्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yataḥ | from whom |
+| pravṛttiḥ | the origin (or activity) |
+| bhūtānām | of all living beings |
+| yena | by whom |
+| sarvam | all |
+| idam | this |
+| tatam | is pervaded |
+| sva-karmaṇā | by one's own duty |
+| tam | Him |
+| abhyarcya | by worshipping |
+| siddhim | perfection |
+| vindati | attains |
+| mānavaḥ | a human being |
+

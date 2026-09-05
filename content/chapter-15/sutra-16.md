@@ -32,3 +32,59 @@ the perishable and the Kutastha  the unchanging  is called the imperishable.
 
 ```
 
+
+### Transliteration
+```
+dvāv imau puruṣau loke kṣaraś cākṣara eva ca
+kṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण संसार के तत्त्वों को दो श्रेणियों में विभाजित करते हैं। पहला 'क्षर' है, जिसमें सभी भौतिक शरीर और परिवर्तनशील प्रकृति शामिल है। दूसरा 'अक्षर' है, जो कूटस्थ यानी माया के परे स्थित अविनाशी जीवात्मा है।
+
+### Meaning
+
+In this verse, Lord Krishna categorizes the entities in the world into two groups. The first is 'Kshara', which represents the perishable material bodies and changing nature. The second is 'Akshara', which refers to the unchanging, imperishable soul that remains constant amidst material transformations.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| द्वौ | दो |
+| इमौ | ये |
+| पुरुषौ | पुरुष (श्रेणियाँ) |
+| लोके | संसार में |
+| क्षरः | क्षर (नाशवान) |
+| च | और |
+| अक्षरः | अक्षर (अविनाशी) |
+| एव | ही |
+| च | और |
+| क्षरः | क्षर |
+| सर्वाणि | सभी |
+| भूतानि | जीव / भौतिक शरीर |
+| कूटस्थः | कूटस्थ (अपरिवर्तनीय जीवात्मा) |
+| अक्षरः | अक्षर |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dvau | two |
+| imau | these |
+| puruṣau | beings / categories |
+| loke | in the world |
+| kṣaraḥ | the perishable |
+| ca | and |
+| akṣaraḥ | the imperishable |
+| eva | indeed |
+| ca | and |
+| kṣaraḥ | the perishable |
+| sarvāṇi | all |
+| bhūtāni | living beings / material bodies |
+| kūṭasthaḥ | the unchanging (soul) |
+| akṣaraḥ | the imperishable |
+| ucyate | is called |
+

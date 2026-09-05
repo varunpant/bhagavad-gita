@@ -31,3 +31,53 @@ position: 643
 
 ```
 
+
+### Transliteration
+```
+sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate
+avibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक ज्ञान की परिभाषा देते हैं। सात्त्विक ज्ञान वह है जो अनेकता में एकता का दर्शन कराता है। जब मनुष्य सभी भिन्न-भिन्न प्राणियों और पदार्थों में एक ही अविनाशी परमात्मा को देखता है, तब वह परम सत्य को समझ पाता है।
+
+### Meaning
+
+In this verse, Lord Krishna defines Sattvik (pure) knowledge. Sattvik knowledge is that which perceives unity in diversity. When a person sees the single, imperishable Divine reality underlying all diverse living beings, they possess the highest form of understanding.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वभूतेषु | सभी प्राणियों में |
+| येन | जिसके द्वारा |
+| एकम् | एक |
+| भावम् | भाव को / सत्ता को |
+| अव्ययम् | अविनाशी |
+| ईक्षते | देखता है |
+| अविभक्तम् | अविभाजित / एकरूप |
+| विभक्तेषु | विभाजित (भिन्न-भिन्न प्राणियों) में |
+| तत् | उस |
+| ज्ञानम् | ज्ञान को |
+| विद्धि | जानो |
+| सात्त्विकम् | सात्त्विक |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvabhūteṣu | in all living beings |
+| yena | by which |
+| ekam | one |
+| bhāvam | existence / reality |
+| avyayam | imperishable |
+| īkṣate | one sees |
+| avibhaktaṃ | undivided |
+| vibhakteṣu | in the divided / diverse |
+| tat | that |
+| jñānaṃ | knowledge |
+| viddhi | know |
+| sāttvikam | sattvik / pure |
+

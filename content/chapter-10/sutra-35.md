@@ -31,3 +31,51 @@ position: 407
 
 ```
 
+
+### Transliteration
+```
+bṛhatsāma tathā sāmnāṃ gāyatrī chandasāmaham
+māsānāṃ mārgaśīrṣo'hamṛtūnāṃ kusumākaraḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी दिव्य विभूतियों का वर्णन जारी रखते हुए संगीत, छंद, काल और ऋतुओं में अपनी श्रेष्ठता प्रकट करते हैं। वे सामवेद के भजनों में सबसे महत्वपूर्ण 'बृहत्साम' हैं और वैदिक मंत्रों में सर्वोपरि 'गायत्री' छंद हैं। इसी प्रकार, वे महीनों में अत्यंत पवित्र मार्गशीर्ष (अगहन) और ऋतुओं में सबसे सुंदर वसंत ऋतु (कुसुमाकर) हैं।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine manifestations by identifying Himself with the most prominent aspects of music, poetry, time, and seasons. He is the Brihat-sama, the most majestic hymn of the Sama Veda, and the Gayatri, the most sacred of Vedic poetic meters. Furthermore, He represents the auspicious month of Margashirsha and the beautiful spring season, which brings forth flowers and new life.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बृहत्साम | बृहत्साम नामक गान |
+| तथा | तथा |
+| साम्नाम् | सामवेदीय गीतों में |
+| गायत्री | गायत्री मंत्र (या छंद) |
+| छन्दसाम् | छंदों में |
+| अहम् | मैं |
+| मासानाम् | महीनों में |
+| मार्गशीर्षः | मार्गशीर्ष (अगहन का महीना) |
+| अहम् | मैं |
+| ऋतूनाम् | ऋतुओं में |
+| कुसुमाकरः | फूलों की खान (वसंत ऋतु) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bṛhatsāma | the Brihat-sama hymn |
+| tathā | as well as |
+| sāmnām | of the Sama Veda hymns |
+| gāyatrī | the Gayatri meter |
+| chandasām | of poetic meters |
+| aham | I (am) |
+| māsānām | of months |
+| mārgaśīrṣaḥ | Margashirsha (November-December) |
+| aham | I (am) |
+| ṛtūnām | of seasons |
+| kusumākaraḥ | the spring (abode of flowers) |
+

@@ -31,3 +31,53 @@ position: 299
 
 ```
 
+
+### Transliteration
+```
+bahūnāṃ janmanām ante jñānavān māṃ prapadyate
+vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ज्ञानमार्गी भक्त की महिमा का वर्णन कर रहे हैं। अनेक जन्मों के आध्यात्मिक प्रयासों और साधना के बाद, जब साधक को पूर्ण ज्ञान प्राप्त होता है, तब वह समझता है कि सब कुछ परमात्मा (वासुदेव) ही है। ऐसा सर्वत्र ईश्वर-दर्शन करने वाला महात्मा संसार में अत्यंत दुर्लभ होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the culmination of spiritual evolution. After many lifetimes of spiritual practice, a seeker attains true wisdom and realizes that the Divine (Vasudeva) is everything and exists in all. Such a fully realized great soul (mahatma) is extremely rare to find in this world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बहूनाम् | बहुत से |
+| जन्मनाम् | जन्मों के |
+| अन्ते | अन्त में |
+| ज्ञानवान् | ज्ञानवान् पुरुष |
+| माम् | मुझको |
+| प्रपद्यते | शरण लेता है / भजता है |
+| वासुदेवः | वासुदेव (परमात्मा) |
+| सर्वम् | सब कुछ (है) |
+| इति | इस प्रकार |
+| सः | वह |
+| महात्मा | महात्मा |
+| सु-दुर्लभः | अत्यन्त दुर्लभ है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bahūnām | of many |
+| janmanām | births |
+| ante | at the end |
+| jñānavān | the wise person |
+| mām | unto Me |
+| prapadyate | surrenders / approaches |
+| vāsudevaḥ | Vasudeva (the Supreme Lord) |
+| sarvam | all / everything |
+| iti | thus |
+| saḥ | that |
+| mahātmā | great soul |
+| sudurlabhaḥ | is very rare |
+

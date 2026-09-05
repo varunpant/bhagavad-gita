@@ -31,3 +31,49 @@ position: 148
 
 ```
 
+
+### Transliteration
+```
+prakṛterguṇasammūḍhāḥ sajjante guṇakarmasu
+tānakṛtsnavido mandānkṛtsnavinna vicālayet
+
+```
+
+### भावार्थ
+
+अज्ञानी मनुष्य प्रकृति के तीन गुणों से मोहित होकर सांसारिक कर्मों और उनके फलों में आसक्त हो जाते हैं। जो ज्ञानी संपूर्ण सत्य को जानते हैं, उन्हें चाहिए कि वे इन मंदबुद्धि और अधूरे ज्ञान वाले लोगों के मन को विचलित न करें। इसके बजाय, उन्हें निष्काम भाव से कर्म करने के लिए प्रेरित करना चाहिए।
+
+### Meaning
+
+Ignorant people become completely bewildered by the three modes of material nature and get attached to material actions and their results. A wise person, who understands the absolute truth, should not disturb the minds of such ignorant people by prematurely forcing them into renunciation. Instead, the wise should inspire them to perform their prescribed duties selflessly.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रकृतेः | प्रकृति के |
+| गुणसम्मूढाः | गुणों से मोहित हुए |
+| सज्जन्ते | आसक्त होते हैं |
+| गुणकर्मसु | गुणों के कर्मों में |
+| तान् | उन |
+| अकृत्स्नविदः | अपूर्ण ज्ञान वालों को |
+| मन्दान् | मंदबुद्धि वालों को |
+| कृत्स्नवित् | पूर्ण ज्ञानी |
+| न | नहीं |
+| विचालयेत् | विचलित करे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prakṛteḥ | of material nature |
+| guṇa-sammūḍhāḥ | bewildered by the modes |
+| sajjante | become attached |
+| guṇa-karmasu | in the activities of the modes |
+| tān | those |
+| akṛtsna-vidaḥ | persons with incomplete knowledge |
+| mandān | the ignorant ones |
+| kṛtsna-vit | the knower of the complete truth |
+| na | not |
+| vicālayet | should unsettle |
+

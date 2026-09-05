@@ -31,3 +31,57 @@ position: 635
 
 ```
 
+
+### Transliteration
+```
+aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam
+bhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण कर्मफल की प्रकृति और उसके प्रभाव का वर्णन कर रहे हैं। जो लोग कर्मों के फलों के प्रति आसक्त रहते हैं (अत्यागी), उन्हें मृत्यु के बाद अपने कर्मों के अनुसार तीन प्रकार के फल—नरक या पशु योनि (अनिष्ट), स्वर्ग या उत्तम योनि (इष्ट), और मनुष्य योनि (मिश्र) प्राप्त होते हैं। इसके विपरीत, जिन्होंने कर्मफल का पूर्णतः त्याग कर दिया है (संन्यासी), वे इस चक्र से मुक्त रहते हैं और उन्हें कोई कर्मफल नहीं भोगना पड़ता।
+
+### Meaning
+
+In this verse, Lord Krishna explains the nature of the fruits of action and who is affected by them. Those who have not renounced the desires for the fruits of their actions (atyāgīs) must experience threefold results after death: undesirable (hellish or animal life), desirable (heavenly or divine life), or mixed (human life). Conversely, true renouncers (saṃnyāsīs) who perform actions without attachment to their fruits are never bound by these results and attain liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनिष्टम् | अनिष्ट (बुरा) |
+| इष्टम् | इष्ट (अच्छा) |
+| मिश्रम् | मिश्रित (अच्छा और बुरा दोनों) |
+| च | और |
+| त्रिविधम् | तीन प्रकार का |
+| कर्मणः | कर्म का |
+| फलम् | फल |
+| भवति | होता है |
+| अत्यागिनाम् | त्याग न करने वालों को |
+| प्रेत्य | मरने के बाद |
+| ना | नहीं |
+| तु | लेकिन |
+| संन्यासिनाम् | संन्यासियों को (त्यागियों को) |
+| क्वचित् | कभी भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aniṣṭam | undesirable |
+| iṣṭam | desirable |
+| miśram | mixed |
+| ca | and |
+| trividham | threefold |
+| karmaṇaḥ | of action |
+| phalam | fruit |
+| bhavati | accrues |
+| atyāginām | for non-renouncers |
+| pretya | after death |
+| na | not |
+| tu | but |
+| saṃnyāsinām | for renouncers |
+| kvacit | ever |
+

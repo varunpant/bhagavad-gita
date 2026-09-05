@@ -31,3 +31,57 @@ position: 181
 
 ```
 
+
+### Transliteration
+```
+yasya sarve samārambhāḥ kāmasaṅkalpavarjitāḥ
+jñānāgnidagdhakarmāṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण एक सच्चे ज्ञानी (पण्डित) के लक्षण बताते हैं। जो व्यक्ति बिना किसी स्वार्थ, फल की इच्छा या अहंकार के अपने सभी कर्तव्य निभाता है, उसके कर्म ज्ञान की अग्नि में शुद्ध हो जाते हैं। ऐसे व्यक्ति को ही तत्वदर्शी और बुद्धिमान लोग सच्चा पण्डित मानते हैं, क्योंकि वह कर्म करते हुए भी कर्मबंधनों से मुक्त रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a true sage (Pandit). A person who performs all duties without any selfish motive, desire for results, or ego has their actions purified in the fire of knowledge. The wise recognize such a person as a true sage, for even while engaging in action, they remain completely free from karmic bondage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यस्य | जिसके |
+| सर्वे | सम्पूर्ण |
+| समारम्भाः | कार्य |
+| काम | कामना |
+| सङ्कल्प | संकल्प |
+| वर्जिताः | रहित हैं |
+| ज्ञान | ज्ञान की |
+| अग्नि | अग्नि में |
+| दग्ध | भस्म हो गए हैं |
+| कर्माणाम् | जिसके कर्म |
+| तम् | उसे |
+| आहुः | कहते हैं |
+| पण्डितम् | पण्डित |
+| बुधाः | ज्ञानी जन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yasya | whose |
+| sarve | all |
+| samārambhāḥ | undertakings |
+| kāma | desire |
+| saṅkalpa | resolve |
+| varjitāḥ | are devoid of |
+| jñāna | of knowledge |
+| agni | in the fire |
+| dagdha | burned up |
+| karmāṇam | whose actions |
+| tam | him |
+| āhuḥ | call |
+| paṇḍitam | a sage |
+| budhāḥ | the wise |
+

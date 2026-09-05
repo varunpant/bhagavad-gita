@@ -31,3 +31,59 @@ position: 202
 
 ```
 
+
+### Transliteration
+```
+ajñaścāśraddadhānaśca saṃśayātmā vinaśyati
+nāyaṃ loko'sti na paro na sukhaṃ saṃśayātmanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को संशय (संदेह) के विनाशकारी परिणामों के बारे में बताते हैं। जो व्यक्ति आध्यात्मिक ज्ञान से रहित है, जिसमें शास्त्रों के प्रति श्रद्धा नहीं है, और जिसका मन हमेशा संदेह से भरा रहता है, उसका पतन निश्चित है। ऐसे संशयग्रस्त व्यक्ति को न तो इस भौतिक जगत में शांति और सुख मिलता है, और न ही परलोक में उसकी कोई सद्गति होती है।
+
+### Meaning
+
+In this verse, Lord Krishna warns Arjuna about the destructive nature of doubt. A person who lacks spiritual knowledge, has no faith in the scriptures, and is constantly plagued by doubts is ultimately ruined. For such a doubting soul, there is no peace or happiness in this material world, nor is there any positive destination in the afterlife.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अज्ञः | अज्ञानी |
+| च | और |
+| अश्रद्दधानः | श्रद्धारहित |
+| च | तथा |
+| संशयात्मा | संशययुक्त मनुष्य |
+| विनश्यति | नष्ट हो जाता है |
+| न | नहीं |
+| अयम् | यह |
+| लोकः | लोक |
+| अस्ति | है |
+| न | न |
+| परः | परलोक |
+| न | न |
+| सुखम् | सुख |
+| संशयात्मनः | संशयात्मा के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ajñaḥ | the ignorant |
+| ca | and |
+| aśraddadhānaḥ | the faithless |
+| ca | and |
+| saṃśayātmā | the doubting soul |
+| vinaśyati | perishes |
+| na | not |
+| ayam | this |
+| lokaḥ | world |
+| asti | is |
+| na | not |
+| paraḥ | the next |
+| na | not |
+| sukham | happiness |
+| saṃśayātmanaḥ | for the doubting soul |
+

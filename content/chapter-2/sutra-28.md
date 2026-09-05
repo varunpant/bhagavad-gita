@@ -31,3 +31,53 @@ position: 75
 
 ```
 
+
+### Transliteration
+```
+avyaktādīni bhūtāni vyaktamadhyāni bhārata
+avyaktanidhanānyeva tatra kā paridevanā
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को भौतिक शरीर की क्षणभंगुरता समझाते हैं। जन्म से पूर्व सभी प्राणी अप्रकट अवस्था में होते हैं और मृत्यु के पश्चात पुनः उसी अप्रकट अवस्था में विलीन हो जाते हैं। केवल जीवन का मध्य भाग ही दृष्टिगोचर होता है, इसलिए इस अपरिहार्य चक्र के विषय में शोक करना व्यर्थ है।
+
+### Meaning
+
+Krishna explains the temporary nature of physical existence to Arjuna. Before birth, beings exist in an unmanifest state, and after death, they return to that same unmanifest state. Since only the brief middle phase of life is visible, there is no logical reason to grieve over the inevitable cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अव्यक्त | अप्रकट |
+| आदीनि | आदि में (जन्म से पहले) |
+| भूतानि | सम्पूर्ण प्राणी |
+| व्यक्त | प्रकट |
+| मध्यानि | मध्य में |
+| भारत | हे भरतवंशी |
+| अव्यक्त | अप्रकट |
+| निधनानि | मृत्यु के बाद |
+| एव | ही |
+| तत्र | उस स्थिति में |
+| का | क्या |
+| परिदेवना | शोक या विलाप |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| avyakta | unmanifest |
+| ādīni | in the beginning |
+| bhūtāni | all beings |
+| vyakta | manifest |
+| madhyāni | in the middle |
+| bhārata | O descendant of Bharata |
+| avyakta | unmanifest |
+| nidhanāni | at death |
+| eva | indeed |
+| tatra | in that situation |
+| kā | what |
+| paridevanā | lamentation |
+

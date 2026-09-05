@@ -31,3 +31,53 @@ position: 295
 
 ```
 
+
+### Transliteration
+```
+na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ
+māyayāpahṛtajñānā āsuraṃ bhāvamāśritāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन चार प्रकार के लोगों का वर्णन कर रहे हैं जो उनकी शरण में नहीं आते हैं। वे लोग जो पापकर्मों में लिप्त हैं, विवेकहीन हैं, मानव जाति में सबसे गिरे हुए हैं, और माया के प्रभाव से जिनका ज्ञान नष्ट हो चुका है, वे आसुरी प्रवृत्ति के कारण ईश्वर की शरण से विमुख रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the four classes of people who do not surrender to Him. Those who commit evil deeds, are foolish, are the lowest of humanity, and whose knowledge is swept away by illusion, remain distant from the Divine due to their demoniac nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| माम् | मेरी (शरण) |
+| दुष्कृतिनः | दुष्कर्म करने वाले / पापी |
+| मूढाः | मूर्ख लोग |
+| प्रपद्यन्ते | शरण ग्रहण करते हैं |
+| नराधमाः | मनुष्यों में नीच |
+| मायया | माया के द्वारा |
+| अपहृत | हर लिया गया है |
+| ज्ञानाः | ज्ञान जिनका |
+| आसुरम् | आसुरी / राक्षसी |
+| भावम् | स्वभाव को |
+| आश्रिताः | आश्रय लिए हुए / धारण किए हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| mām | unto Me |
+| duṣkṛtinaḥ | evil-doers / miscreants |
+| mūḍhāḥ | the foolish |
+| prapadyante | surrender |
+| narādhamāḥ | the lowest of mankind |
+| māyayā | by illusion / maya |
+| apahṛta | stolen / deprived of |
+| jñānāḥ | whose knowledge |
+| āsuraṃ | demoniac |
+| bhāvam | nature |
+| āśritāḥ | having accepted / sheltered in |
+

@@ -31,3 +31,61 @@ position: 379
 
 ```
 
+
+### Transliteration
+```
+etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ
+so'vikampena yogena yujyate nātra saṃśayaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि जो व्यक्ति उनकी दिव्य विभूतियों (ऐश्वर्य) और योग-शक्ति (सृष्टि की रचना और नियंत्रण की शक्ति) को वास्तविक रूप से समझ लेता है, वह भक्ति मार्ग पर सुदृढ़ हो जाता है। ऐसे ज्ञानी पुरुष का मन भगवान में पूरी तरह स्थिर हो जाता है और वह बिना किसी संशय के अनन्य भक्ति को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that anyone who truly understands His divine manifestations (vibhuti) and mystic power (yoga) becomes established in unwavering devotion. Such a realization removes all doubts, leading the seeker to a state of steady, undivided contemplation on the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एताम् | इस |
+| विभूतिम् | विभूति (ऐश्वर्य) को |
+| योगम् | योग-शक्ति को |
+| च | और |
+| मम | मेरी |
+| यः | जो |
+| वेत्ति | जानता है |
+| तत्त्वतः | तत्त्व से (वास्तव में) |
+| सः | वह |
+| अविकम्पेन | अविचल (दृढ़) |
+| योगेन | योग (भक्ति) से |
+| युज्यते | युक्त हो जाता है |
+| न | नहीं |
+| अत्र | इसमें |
+| संशयः | संशय |
+| अस्ति | है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| etām | this |
+| vibhūtim | divine glory |
+| yogam | yoga power |
+| ca | and |
+| mama | of Mine |
+| yaḥ | who |
+| vetti | knows |
+| tattvataḥ | in truth |
+| saḥ | he |
+| avikampena | by unwavering |
+| yogena | by yoga (devotion) |
+| yujyate | becomes united |
+| na | not |
+| atra | here (in this) |
+| saṃśayaḥ | doubt |
+| asti | there is |
+

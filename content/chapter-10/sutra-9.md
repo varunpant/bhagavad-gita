@@ -31,3 +31,53 @@ position: 381
 
 ```
 
+
+### Transliteration
+```
+maccittā madgataprāṇā bodhayantaḥ parasparam
+kathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपने अनन्य भक्तों के लक्षणों का वर्णन करते हैं। ऐसे भक्तों का चित्त और प्राण पूरी तरह से भगवान में ही लीन रहते हैं। वे आपस में भगवान की महिमा की चर्चा करते हुए परम संतोष और दिव्य आनंद का अनुभव करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of His pure devotees. Their minds and life-force are entirely absorbed in Him. By constantly discussing His glories and instructing one another, they derive immense satisfaction and spiritual bliss.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मच्चित्ताः | मुझमें मन वाले |
+| मद्गतप्राणाः | मुझमें प्राणों को अर्पित करने वाले |
+| बोधयन्तः | बोध कराते हुए (ज्ञान देते हुए) |
+| परस्परम् | आपस में |
+| कथयन्तः | चर्चा करते हुए (कीर्तन करते हुए) |
+| च | और |
+| माम् | मेरे विषय में |
+| नित्यम् | सदा |
+| तुष्यन्ति | संतुष्ट होते हैं |
+| च | और |
+| रमन्ति | आनन्दित होते हैं (रमण करते हैं) |
+| च | भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| maccittāḥ | their minds fixed on Me |
+| madgataprāṇāḥ | their lives surrendered to Me |
+| bodhayantaḥ | enlightening |
+| parasparam | one another |
+| kathayantaḥ | speaking (of) |
+| ca | and |
+| mām | about Me |
+| nityam | always |
+| tuṣyanti | they are satisfied |
+| ca | and |
+| ramanti | they rejoice |
+| ca | also |
+

@@ -31,3 +31,53 @@ position: 193
 
 ```
 
+
+### Transliteration
+```
+yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam
+nāyaṃ loko'styayajñasya kuto'nyaḥ kurusattama
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को यज्ञ के महत्व के बारे में बताते हैं। जो लोग अपने कर्तव्यों और कर्मों को यज्ञ (ईश्वर को अर्पण) के रूप में करते हैं और उसके बाद बचे हुए फल को ग्रहण करते हैं, वे अंततः शाश्वत परब्रह्म को प्राप्त करते हैं। इसके विपरीत, जो व्यक्ति कोई त्याग या यज्ञ नहीं करता, उसके लिए इस भौतिक संसार में भी सुख और शांति संभव नहीं है, तो फिर परलोक में सद्गति कैसे मिल सकती है।
+
+### Meaning
+
+Lord Krishna explains the supreme importance of performing sacrifices (selfless duties). Those who partake of the nectar-like remnants after offering their actions to the Divine eventually attain the eternal Supreme Brahman. Conversely, for a person who makes no sacrifices and lives only for selfish gains, even this current world brings no happiness, let alone the next world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यज्ञशिष्टामृतभुजः | यज्ञ से बचे हुए अमृतरूपी अन्न को खाने वाले |
+| यान्ति | प्राप्त होते हैं |
+| ब्रह्म | परब्रह्म को |
+| सनातनम् | सनातन |
+| न | नहीं |
+| अयम् | यह |
+| लोकः | लोक |
+| अस्ति | है |
+| अयज्ञस्य | यज्ञ न करने वाले के लिए |
+| कुतः | कहाँ से (कैसे) |
+| अन्यः | दूसरा (परलोक) |
+| कुरुसत्तम | हे कुरुश्रेष्ठ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yajña-śiṣṭa-amṛta-bhujaḥ | those who eat the nectar-like remnants of sacrifice |
+| yānti | attain |
+| brahma | the Supreme Brahman |
+| sanātanam | eternal |
+| na | not |
+| ayam | this |
+| lokaḥ | world |
+| asti | is |
+| ayajñasya | for one who performs no sacrifice |
+| kutaḥ | how |
+| anyaḥ | other (world) |
+| kurusattama | O best of the Kurus |
+

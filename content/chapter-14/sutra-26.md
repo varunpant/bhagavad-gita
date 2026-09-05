@@ -31,3 +31,53 @@ position: 550
 
 ```
 
+
+### Transliteration
+```
+māṃ ca yo'vyabhicāreṇa bhaktiyogena sevate
+sa guṇānsamatītyaitān brahmabhūyāya kalpate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण गुणातीत होने का व्यावहारिक उपाय बता रहे हैं। वे कहते हैं कि जो साधक बिना किसी विचलन के, अनन्य भक्ति भाव से केवल परमेश्वर की शरण में रहता है, वह प्रकृति के तीनों गुणों (सत्त्व, रज और तम) के बंधनों को आसानी से पार कर जाता है। ऐसा स्थिर बुद्धि वाला भक्त अंततः ब्रह्म-साक्षात्कार या मोक्ष का अधिकारी बनता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the practical method to transcend the three gunas. He states that one who worships and serves Him with unswerving, exclusive devotion easily overcomes the binding influence of sattva, rajas, and tamas. Such a devotee rises above material nature and qualifies for the realization of the Supreme Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| माम् | मुझको |
+| च | और |
+| यः | जो |
+| अव्यभिचारेण | अव्यभिचारी (बिना किसी विचलन के/अनन्य) |
+| भक्ति-योगेन | भक्तियोग के द्वारा |
+| sevate | भजता है (सेवा करता है) |
+| सः | वह |
+| गुणान् | गुणों को |
+| समतित्य | भली-भांति पार करके |
+| एतान् | इन (तीनों) |
+| ब्रह्म-भूयाय | ब्रह्मभाव के लिए |
+| कल्पते | योग्य बन जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mām | Me |
+| ca | and |
+| yaḥ | who |
+| avyabhicāreṇa | with unswerving (constant) |
+| bhakti-yogena | by the yoga of devotion |
+| sevate | serves |
+| saḥ | he |
+| guṇān | modes of nature |
+| samatītya | transcending |
+| etān | these |
+| brahma-bhūyāya | for the state of Brahman |
+| kalpate | becomes fit |
+

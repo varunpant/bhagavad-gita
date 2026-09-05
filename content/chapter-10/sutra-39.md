@@ -31,3 +31,63 @@ position: 411
 
 ```
 
+
+### Transliteration
+```
+yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna
+na tadasti vinā yatsyānmayā bhūtaṃ carācaram
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी सर्वव्यापकता और सृष्टि के मूल कारण होने की घोषणा करते हैं। वे अर्जुन से कहते हैं कि संसार में जितने भी प्राणी या पदार्थ हैं, उन सभी का आदि कारण या बीज वे स्वयं ही हैं। उनके बिना इस चराचर जगत में किसी भी अस्तित्व की कल्पना नहीं की जा सकती, क्योंकि सब कुछ उन्हीं से उत्पन्न और उन्हीं में स्थित है।
+
+### Meaning
+
+In this verse, Lord Krishna declares His omnipresence and status as the ultimate source of all creation. He explains to Arjuna that He is the generating seed of all existences. There is absolutely nothing in the entire creation, whether moving or non-moving, that can exist independent of His divine presence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| च | और |
+| अपि | भी |
+| सर्व-भूतानाम् | सब भूतों का |
+| बीजम् | उत्पत्ति का कारण (बीज) |
+| तत् | वह |
+| अहम् | मैं हूँ |
+| अर्जुन | हे अर्जुन |
+| न | नहीं |
+| तत् | वह |
+| अस्ति | है |
+| विना | बिना |
+| यत् | जो |
+| स्यात् | हो |
+| मया | मेरे |
+| भूतम् | प्राणी / अस्तित्व |
+| चर-अचरम् | चर और अचर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | whatever |
+| ca | and |
+| api | also |
+| sarva-bhūtānām | of all living beings |
+| bījam | the seed |
+| tat | that |
+| aham | I am |
+| arjuna | O Arjuna |
+| na | not |
+| tat | that |
+| asti | exists |
+| vinā | without |
+| yat | which |
+| syāt | may be |
+| mayā | Me |
+| bhūtam | being |
+| cara-acaram | moving or unmoving |
+

@@ -31,3 +31,59 @@ position: 238
 
 ```
 
+
+### Transliteration
+```
+uddharedātmanā'tmānaṃ nātmānamavasādayet
+ātmaiva hyātmano bandhurātmaiva ripurātmanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण मन के नियंत्रण के महत्व पर बल देते हैं। मनुष्य का अपना मन ही उसे संसार-बंधन से मुक्त करा सकता है या फिर उसे और गहरे बंधनों में धकेल सकता है। यदि मन वश में हो तो वह सबसे बड़ा मित्र है, और यदि वह अनियंत्रित हो तो सबसे बड़ा शत्रु बन जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the importance of self-elevation through the mind. A person's own mind can either be their deliverer or their cause of degradation. When controlled, the mind acts as a supreme friend, but when uncontrolled, it becomes the greatest enemy.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| उद्धरेत् | उद्धार करना चाहिए |
+| आत्मना | अपने मन के द्वारा |
+| आत्मानम् | अपने आपको |
+| न | नहीं |
+| आत्मानम् | अपने आपको |
+| अवसादयेत् | अधोगति में डालना चाहिए |
+| आत्मा | मन |
+| एव | ही |
+| हि | निश्चय ही |
+| आत्मनः | जीवात्मा का |
+| बन्धुः | मित्र |
+| आत्मा | मन |
+| एव | ही |
+| रिपुः | शत्रु |
+| आत्मनः | जीवात्मा का |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| uddharet | one must elevate |
+| ātmanā | by the mind |
+| ātmānam | the self |
+| na | not |
+| ātmānam | the self |
+| avasādayet | degrade |
+| ātmā | the mind |
+| eva | indeed |
+| hi | certainly |
+| ātmanaḥ | of the conditioned soul |
+| bandhuḥ | friend |
+| ātmā | the mind |
+| eva | indeed |
+| ripuḥ | enemy |
+| ātmanaḥ | of the conditioned soul |
+

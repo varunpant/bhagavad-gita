@@ -33,3 +33,59 @@ and the sound was tremendous.
 
 ```
 
+
+### Transliteration
+```
+tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ
+sahasaivābhyahanyanta sa śabdastumulo'bhavat
+
+```
+
+### भावार्थ
+
+भीष्म पितामह द्वारा शंख बजाने के तुरंत बाद, कौरव सेना के शंख, नगाड़े, ढोल और नरसिंघे एक साथ अचानक बज उठे। इन सभी युद्ध-वाद्यों की सम्मिलित ध्वनि से एक अत्यंत भयंकर और कोलाहलपूर्ण शोर उत्पन्न हुआ। यह कौरवों की ओर से युद्ध के लिए उनकी तत्परता और उत्साह का प्रदर्शन था, जिसका उद्देश्य पांडव सेना में भय उत्पन्न करना था।
+
+### Meaning
+
+Following Bhishma's roaring conch shell, the Kaurava army erupted in a cacophony of musical instruments to signal their readiness for battle. The sudden, combined blast of conches, drums, and trumpets created a terrifying and deafening uproar. This psychological tactic was meant to intimidate the Pandava army and declare the imminent start of the war.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ततः | उसके बाद |
+| शङ्खाः | शंख |
+| च | और |
+| भेर्यः | नगाड़े |
+| च | और |
+| पणव | ढोल |
+| आनक | मृदंग |
+| गोमुखाः | नरसिंघे |
+| सहसा | अचानक |
+| एव | ही |
+| अभ्यहन्यन्त | बज उठे |
+| सः | वह |
+| शब्दः | ध्वनि |
+| तुमुलः | भयंकर |
+| अभवत् | हुआ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tataḥ | then |
+| śaṅkhāḥ | conches |
+| ca | and |
+| bheryaḥ | kettledrums |
+| ca | and |
+| paṇava | tabors |
+| ānaka | drums |
+| gomukhāḥ | cow-horn trumpets |
+| sahasā | suddenly |
+| eva | indeed |
+| abhyahanyanta | were sounded |
+| saḥ | that |
+| śabdaḥ | sound |
+| tumulaḥ | tumultuous |
+| abhavat | became |
+

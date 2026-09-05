@@ -31,3 +31,53 @@ position: 698
 
 ```
 
+
+### Transliteration
+```
+vyāsaprasādācchrutavānetadguhyamahaṃ param
+yogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र को बताते हैं कि महर्षि वेदव्यास की दिव्य दृष्टि प्रदान करने वाली कृपा के कारण ही वे कुरुक्षेत्र के युद्धक्षेत्र में भगवान श्रीकृष्ण और अर्जुन के बीच हुए इस अत्यंत गोपनीय संवाद को साक्षात् सुन पाए। वे इस बात पर बल देते हैं कि उन्होंने यह ज्ञान किसी परंपरा या माध्यम से नहीं, बल्कि स्वयं योगेश्वर श्रीकृष्ण के श्रीमुख से साक्षात् सुना है।
+
+### Meaning
+
+Sanjaya explains to Dhritarashtra that it was only by the grace of Sage Vyasa, who granted him divine vision, that he was able to hear this supreme and confidential dialogue. He emphasizes that he heard this sacred yoga directly from the lips of Krishna, the Lord of Yoga Himself, rather than through any secondary source.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| व्यास-प्रसादात् | व्यास जी की कृपा से |
+| श्रुतवान् | सुना है |
+| एतत् | इस |
+| गुह्यम् | गोपनीय |
+| अहम् | मैंने |
+| परम् | परम |
+| योगम् | योग को |
+| योग-ईश्वरात् | योगेश्वर से |
+| कृष्णात् | श्रीकृष्ण से |
+| साक्षात् | प्रत्यक्ष रूप से |
+| कथयतः | कहते हुए |
+| स्वयम् | स्वयं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vyāsa-prasādāt | by the grace of Vyasa |
+| śrutavān | have heard |
+| etat | this |
+| guhyam | confidential |
+| aham | I |
+| param | supreme |
+| yogam | yoga |
+| yoga-īśvarāt | from the Lord of Yoga |
+| kṛṣṇāt | from Krishna |
+| sākṣāt | directly |
+| kathayataḥ | speaking |
+| svayam | Himself |
+

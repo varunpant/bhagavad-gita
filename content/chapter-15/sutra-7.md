@@ -31,3 +31,49 @@ position: 558
 
 ```
 
+
+### Transliteration
+```
+mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ
+manaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि प्रत्येक जीवात्मा वास्तव में परमात्मा का ही एक शाश्वत अंश है। जब यह अंश भौतिक संसार में आता है, तो यह प्रकृति के अधीन होकर मन और पाँच ज्ञानेन्द्रियों के साथ संघर्ष करता है और उन्हें अपनी ओर खींचता है। यह आत्मा की दिव्य उत्पत्ति और भौतिक जगत में उसके बंधन को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that the individual soul (jiva) is an eternal fragment of His own Divine Self. Upon entering the material world, this divine spark conditions itself under material nature, struggling with and drawing to itself the five senses and the mind. This highlights the soul's divine origin and its entanglement in the material energy.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मम | मेरा |
+| एव | ही |
+| अंशः | अंश |
+| जीवलोके | जीवलोक में |
+| जीवभूतः | जीव बना हुआ |
+| सनातनः | सनातन (शाश्वत) |
+| मनः-षष्ठानि | मन है छठी जिनमें ऐसी |
+| इन्द्रियाणि | इन्द्रियों को |
+| प्रकृतिस्थानि | प्रकृति में स्थित |
+| कर्षति | खींचता है (आकर्षित करता है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mama | My |
+| eva | indeed |
+| aṃśaḥ | fragment / portion |
+| jīvaloke | in the world of life |
+| jīvabhūtaḥ | having become a living soul |
+| sanātanaḥ | eternal |
+| manaḥ-ṣaṣṭhāni | with mind as the sixth |
+| indriyāṇi | the senses |
+| prakṛtisthāni | abiding in material nature |
+| karṣati | attracts / struggles with |
+

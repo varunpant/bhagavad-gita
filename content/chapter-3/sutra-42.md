@@ -31,3 +31,59 @@ position: 161
 
 ```
 
+
+### Transliteration
+```
+indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ
+manasastu parā buddhiryo buddheḥ paratastu saḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को काम (वासना) पर विजय प्राप्त करने के लिए मानव शरीर के विभिन्न स्तरों का क्रम समझाते हैं। स्थूल शरीर से इन्द्रियाँ श्रेष्ठ हैं, इन्द्रियों से मन श्रेष्ठ है, और मन से बुद्धि श्रेष्ठ है। परन्तु जो बुद्धि से भी परे और सर्वोच्च है, वह हमारी वास्तविक पहचान यानी आत्मा है, जिसे जानकर सभी वासनाओं को नष्ट किया जा सकता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the hierarchy of the human faculties to help Arjuna conquer desire. The physical senses are superior to the gross body, the mind controls the senses, and the intellect guides the mind. However, the true Self (Atman) is supreme and transcends even the intellect, meaning that by realizing the Self, one can overcome all lower desires.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इन्द्रियाणि | इन्द्रियों को |
+| पराणि | श्रेष्ठ |
+| आहुः | कहते हैं |
+| इन्द्रियेभ्यः | इन्द्रियों से |
+| परम् | श्रेष्ठ |
+| मनः | मन |
+| मनसः | मन से |
+| तु | परन्तु |
+| परा | श्रेष्ठ |
+| बुद्धिः | बुद्धि |
+| यः | जो |
+| बुद्धेः | बुद्धि से |
+| परतः | परे (श्रेष्ठ) |
+| तु | और |
+| सः | वह (आत्मा) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| indriyāṇi | the senses |
+| parāṇi | superior |
+| āhuḥ | they say |
+| indriyebhyaḥ | than the senses |
+| param | superior |
+| manaḥ | the mind |
+| manasaḥ | than the mind |
+| tu | but |
+| parā | superior |
+| buddhiḥ | the intellect |
+| yaḥ | that which |
+| buddheḥ | than the intellect |
+| parataḥ | superior |
+| tu | and |
+| saḥ | He (the Self) |
+

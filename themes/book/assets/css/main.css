@@ -1140,3 +1140,107 @@ body {
 .verse-page p {
     font-size: calc(1em * var(--read-scale));
 }
+
+
+/* ---------- settings ---------- */
+
+.settings {
+    position: fixed;
+    z-index: 61;
+    top: 14px;
+    left: calc(var(--rail-width) + 14px);
+    width: min(320px, calc(100vw - var(--rail-width) - 28px));
+    padding: 16px 18px 12px;
+    border: 1px solid var(--rule);
+    border-radius: 16px;
+    background: var(--surface);
+    box-shadow: 0 18px 44px rgba(0, 0, 0, .18);
+}
+
+.settings__title {
+    font-size: .78rem;
+    font-weight: 600;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+}
+
+.settings__list {
+    margin: 10px 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+.settings__list li + li { margin-top: 2px; }
+
+.settings__list label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 7px 0;
+    font-size: .97rem;
+    color: var(--ink);
+    cursor: pointer;
+}
+
+.settings__list input {
+    width: 17px;
+    height: 17px;
+    accent-color: var(--accent-2);
+    cursor: pointer;
+}
+
+.settings__note {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--rule);
+    font-size: .8rem;
+    color: var(--ink-soft);
+}
+
+@media (max-width: 720px) {
+    .settings {
+        top: auto;
+        bottom: 68px;
+        left: 14px;
+        width: calc(100vw - 28px);
+    }
+}
+
+/* ---------- word-by-word ---------- */
+
+/* Pairs, so a table — it reads as two columns to a person and as a table to a
+   screen reader, where a fenced block reads as one long preformatted line. */
+.verse-page table {
+    width: 100%;
+    margin: 8px 0 4px;
+    border-collapse: collapse;
+    font-size: calc(1em * var(--read-scale));
+    line-height: 1.7;
+}
+
+.verse-page thead th {
+    padding: 6px 10px;
+    font-size: .78rem;
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    text-align: left;
+    color: var(--ink-soft);
+    border-bottom: 1px solid var(--rule);
+}
+
+.verse-page tbody td {
+    padding: 5px 10px;
+    vertical-align: top;
+    border-bottom: 1px solid var(--rule);
+}
+
+/* The Sanskrit word carries the weight; its gloss is the quieter half. */
+.verse-page tbody td:first-child {
+    width: 38%;
+    font-weight: 600;
+    color: var(--ink);
+}
+
+.verse-page tbody td:last-child { color: var(--ink-soft); }

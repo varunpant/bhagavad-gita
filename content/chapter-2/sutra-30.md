@@ -31,3 +31,57 @@ position: 77
 
 ```
 
+
+### Transliteration
+```
+dehī nityamavadhyo'yaṃ dehe sarvasya bhārata
+tasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण आत्मा की अमरता के विषय में अपने तर्कों का निष्कर्ष निकालते हैं। वे स्पष्ट करते हैं कि सभी प्राणियों के शरीर में निवास करने वाली आत्मा को कभी भी मारा नहीं जा सकता है। इसलिए, युद्ध में अपने स्वजनों की मृत्यु की आशंका से अर्जुन का शोक करना सर्वथा अनुचित है, क्योंकि उनका वास्तविक स्वरूप शाश्वत है।
+
+### Meaning
+
+Lord Krishna concludes his arguments regarding the immortality of the soul. He emphasizes that the soul dwelling within every physical body can never be slain. Therefore, Arjuna's grief over the impending death of his relatives in battle is unjustified, as their true essence is eternal.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| देही | शरीर का स्वामी (आत्मा) |
+| नित्यम् | सदा |
+| अवध्यः | अवध्य (जिसे मारा न जा सके) |
+| अयम् | यह |
+| देहे | शरीर में |
+| सर्वस्य | सबके |
+| भारत | हे भरतवंशी (अर्जुन) |
+| तस्मात् | इसलिए |
+| सर्वाणि | सभी |
+| भूतानि | प्राणियों के लिए |
+| न | नहीं |
+| त्वम् | तुम्हें |
+| शोचितुम् | शोक करना |
+| अर्हसि | योग्य हो (चाहिए) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dehī | embodied soul |
+| nityam | eternally |
+| avadhyaḥ | indestructible |
+| ayam | this |
+| dehe | in the body |
+| sarvasya | of everyone |
+| bhārata | O descendant of Bharata |
+| tasmāt | therefore |
+| sarvāṇi | all |
+| bhūtāni | living beings |
+| na | not |
+| tvam | you |
+| śocitum | to grieve |
+| arhasi | deserve (should) |
+

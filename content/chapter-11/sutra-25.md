@@ -31,3 +31,65 @@ position: 439
 
 ```
 
+
+### Transliteration
+```
+daṃṣṭrākarālāni ca te mukhāni
+dṛṣṭvaiva kālānalasannibhāni
+diśo na jāne na labhe ca śarma
+prasīda deveśa jagannivāsa
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के अत्यंत भयानक विश्वरूप को देखकर अपनी व्याकुलता प्रकट कर रहे हैं। भगवान के विकराल मुखों को देखकर अर्जुन भयभीत हो गए हैं और उन्हें दिशाओं का ज्ञान भी नहीं रह गया है। वे भगवान से अपने सौम्य रूप में लौटने और प्रसन्न होने की प्रार्थना करते हैं।
+
+### Meaning
+
+In this verse, Arjuna expresses his overwhelming fear and disorientation upon witnessing the terrifying aspect of Krishna's cosmic form. The sight of the Lord's destructive mouths, resembling the fire of dissolution, causes Arjuna to lose his bearings and inner peace. He desperately pleads for mercy and grace from the Supreme Lord who sustains the universe.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दंष्ट्रा-करालानि | दाढ़ों के कारण भयानक |
+| च | और |
+| ते | आपके |
+| मुखानि | मुखों को |
+| दृष्ट्वा | देखकर |
+| एव | ही |
+| काल-अनल-सन्निभानि | प्रलयकाल की अग्नि के समान |
+| दिशः | दिशाओं को |
+| ना | नहीं |
+| जाने | मैं जान पा रहा हूँ |
+| ना | नहीं |
+| लभै | मैं पा रहा हूँ |
+| च | और |
+| शर्म | सुख (शांति) |
+| प्रसीद | प्रसन्न होइए |
+| देव-ईश | हे देवों के स्वामी |
+| जगत्-निवास | हे ब्रह्मांड के आश्रय |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| daṃṣṭrā-karālāni | terrible with tusks |
+| ca | and |
+| te | Your |
+| mukhāni | mouths |
+| dṛṣṭvā | having seen |
+| eva | indeed |
+| kāla-anala-sannibhāni | resembling the fire of cosmic destruction |
+| diśaḥ | directions |
+| na | not |
+| jāne | I know |
+| na | not |
+| labhe | I find |
+| ca | and |
+| śarma | peace (comfort) |
+| prasīda | be pleased |
+| deva-īśa | O Lord of the gods |
+| jagat-nivāsa | O refuge of the universe |
+

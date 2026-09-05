@@ -31,3 +31,59 @@ position: 317
 
 ```
 
+
+### Transliteration
+```
+tasmāt sarveṣu kāleṣu mām anusmara yudhya ca
+mayy arpita-mano-buddhir mām evaiṣyasy asaṃśayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को कर्म और भक्ति के समन्वय का उपदेश दे रहे हैं। वे कहते हैं कि अपने कर्तव्य (युद्ध) का पालन करते हुए भी निरंतर ईश्वर का स्मरण किया जा सकता है। जब मनुष्य अपने मन और बुद्धि को परमात्मा में समर्पित कर देता है, तो वह संसार में रहते हुए भी अंततः परमात्मा को ही प्राप्त होता है।
+
+### Meaning
+
+In this verse, Lord Krishna teaches Arjuna the synthesis of action and devotion. He explains that it is possible to perform one's prescribed duty (fighting, in Arjuna's case) while constantly remembering God. By dedicating both mind and intellect to the Divine, a person remains spiritually connected and ultimately attains Him without any doubt.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| सर्वेषु | सब |
+| कालेषु | समयों में |
+| माम् | मुझको |
+| अनुस्मर | स्मरण करो |
+| युध्य | युद्ध करो |
+| च | और |
+| मयि | मुझमें |
+| अर्पित | अर्पण किए हुए |
+| मनः | मन |
+| बुद्धिः | और बुद्धि वाला (होकर) |
+| माम् | मुझको |
+| एव | ही |
+| एष्यसि | प्राप्त होगे |
+| असंशयम् | बिना किसी संशय के |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| sarveṣu | at all |
+| kāleṣu | times |
+| mām | Me |
+| anusmara | remember |
+| yudhya | fight |
+| ca | and |
+| mayi | in Me |
+| arpita | surrendered |
+| manaḥ | mind |
+| buddhiḥ | intellect |
+| mām | to Me |
+| eva | surely |
+| eṣyasi | you shall come |
+| asaṃśayam | without doubt |
+

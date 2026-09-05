@@ -31,3 +31,49 @@ position: 158
 
 ```
 
+
+### Transliteration
+```
+āvṛtaṃ jñānametena jñānino nityavairiṇā
+kāmarūpeṇa kaunteya duṣpūreṇānalena ca
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि काम (इच्छा) ज्ञानियों का भी नित्य शत्रु है। अज्ञानी लोग इच्छाओं की पूर्ति में सुख खोजते हैं, परंतु ज्ञानी जानते हैं कि यह एक कभी न बुझने वाली आग है। इसे जितना भी संतुष्ट करने का प्रयास किया जाए, यह उतनी ही भड़कती है और मनुष्य के वास्तविक ज्ञान को ढक देती है।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that desire is the eternal enemy even of the wise. While the ignorant might seek happiness in fulfilling desires, the wise recognize it as an insatiable fire. No matter how much one tries to satisfy it, desire only grows stronger and completely obscures true spiritual knowledge.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आवृतम् | ढका हुआ |
+| ज्ञानम् | ज्ञान |
+| एतेन | इस |
+| ज्ञानिनः | ज्ञानी का |
+| नित्यवैरिणा | नित्य शत्रु द्वारा |
+| कामरूपेण | काम के रूप में |
+| कौन्तेय | हे कुन्तीपुत्र |
+| दुष्पूरेण | कभी न तृप्त होने वाले |
+| अनलेन | अग्नि द्वारा |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āvṛtam | covered |
+| jñānam | knowledge |
+| etena | by this |
+| jñāninaḥ | of the wise |
+| nityavairiṇā | by the constant enemy |
+| kāmarūpeṇa | in the form of desire |
+| kaunteya | O son of Kunti |
+| duṣpūreṇa | insatiable |
+| analena | by the fire |
+| ca | and |
+

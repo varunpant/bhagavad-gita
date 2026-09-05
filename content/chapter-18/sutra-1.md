@@ -31,3 +31,54 @@ position: 624
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+saṃnyāsasya mahābāho tattvamicchāmi veditum
+tyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana
+
+```
+
+### भावार्थ
+
+यह अठारहवें अध्याय का पहला श्लोक है जहाँ अर्जुन भगवान कृष्ण से 'संन्यास' (कर्मों के स्वरूप से त्याग) और 'त्याग' (कर्मफलों के त्याग) के बीच के वास्तविक अंतर को स्पष्ट करने की प्रार्थना करते हैं। अर्जुन कृष्ण को 'महाबाहो', 'हृषीकेश' और 'केशिनीसूदन' जैसे विशेषणों से संबोधित करते हैं, जो उनके सामर्थ्य और इंद्रियों के नियंत्रण को दर्शाते हैं। यहाँ से गीता के उपदेश का उपसंहार और संक्षेप आरंभ होता है।
+
+### Meaning
+
+This is the opening verse of the eighteenth chapter, where Arjuna requests Lord Krishna to clarify the distinct meanings and essential truths of 'Sannyasa' (renunciation of actions) and 'Tyaga' (renunciation of the fruits of action). By addressing Krishna as Hrishikesha (master of the senses) and Keshinisudana (slayer of the Keshi demon), Arjuna expresses his faith in Krishna's power to dispel his doubts. This question sets the stage for the final summary of the Gita's teachings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | बोले |
+| संन्यासस्य | संन्यास का |
+| महाबाहो | हे महाबाहो (विशाल भुजाओं वाले) |
+| तत्त्वम् | तत्त्व (वास्तविक स्वरूप) |
+| इच्छामि | चाहता हूँ |
+| वेदितुम् | जानना |
+| त्यागस्य | त्याग का |
+| च | और |
+| हृषीकेश | हे हृषीकेश (इन्द्रियों के स्वामी) |
+| पृथक् | पृथक-पृथक (अलग से) |
+| केशि-निषूदन | हे केशिनीसूदन (केशी असुर का वध करने वाले) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| saṃnyāsasya | of renunciation (sannyasa) |
+| mahābāho | O mighty-armed one |
+| tattvam | the truth / essence |
+| icchāmi | I wish |
+| veditum | to know |
+| tyāgasya | of relinquishment (tyaga) |
+| ca | and |
+| hṛṣīkeśa | O Hrishikesha (master of the senses) |
+| pṛthak | distinctly / separately |
+| keśi-niṣūdana | O slayer of the Keshi demon |
+

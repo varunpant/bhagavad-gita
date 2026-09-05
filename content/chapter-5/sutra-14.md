@@ -31,3 +31,53 @@ position: 218
 
 ```
 
+
+### Transliteration
+```
+na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ
+na karmaphalasaṃyogaṃ svabhāvastu pravartate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि परमेश्वर किसी भी जीव के कर्मों, उसके कर्तापन के भाव या कर्मफलों के साथ उसके जुड़ाव का निर्माण नहीं करते हैं। वास्तव में, यह सब भौतिक प्रकृति (स्वभाव या त्रिगुणमयी माया) के कारण ही घटित होता है। अज्ञानवश जीव स्वयं को कर्ता मान लेता है, जबकि सभी कार्य प्रकृति के गुणों द्वारा ही संपन्न होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna clarifies the relationship between the Supreme Lord, the individual soul, and material nature. The Supreme Lord does not interfere with the individual's actions, their sense of doership, or the results they reap. Instead, it is the material nature (Prakriti) consisting of the three modes that carries out all activities and binds the living entity.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| कर्तृत्वम् | कर्तापन को |
+| न | न |
+| कर्माणि | कर्मों को |
+| लोकस्य | लोगों के |
+| सृजति | रचता है |
+| प्रभुः | परमेश्वर |
+| न | न ही |
+| कर्मफलसंयोगम् | कर्मफलों के संयोग को |
+| स्वभावः | स्वभाव (प्रकृति) |
+| तु | तो (बल्कि) |
+| प्रवर्तते | कार्य करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| kartṛtvam | doership |
+| na | nor |
+| karmāṇi | actions |
+| lokasya | of the people |
+| sṛjati | creates |
+| prabhuḥ | the Lord |
+| na | nor |
+| karmaphalasaṃyogam | connection with the fruits of actions |
+| svabhāvaḥ | nature |
+| tu | but |
+| pravartate | acts |
+

@@ -31,3 +31,51 @@ position: 261
 
 ```
 
+
+### Transliteration
+```
+yuñjannevaṃ sadā'tmānaṃ yogī vigatakalmaṣaḥ
+sukhena brahmasaṃsparśamatyantaṃ sukhamaśnute
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण निरंतर ध्यान के अभ्यास के अंतिम परिणाम का वर्णन करते हैं। जब साधक अपने मन को निरंतर परमात्मा में लीन रखता है, तो उसके सभी मानसिक विकार और पाप नष्ट हो जाते हैं। ऐसी शुद्ध अवस्था में, वह बिना किसी कठिनाई के ब्रह्म-साक्षात्कार के असीम और शाश्वत आनंद को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the ultimate result of constant meditative practice. By continuously aligning the self with the Divine, the practitioner becomes completely cleansed of all material contamination and sins. In this purified state, the yogi effortlessly experiences the boundless, transcendental ecstasy of direct contact with the Supreme Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| युञ्जन् | लगाते हुए (योग में) |
+| एवम् | इस प्रकार |
+| सदा | निरंतर |
+| आत्मानम् | अपने आप को / मन को |
+| योगी | योगी |
+| विगत-कल्मषः | पापों से सर्वथा मुक्त |
+| सुखेन | सहज ही / सुखपूर्वक |
+| ब्रह्म-संस्पर्शम् | परब्रह्म के स्पर्श रूप (साक्षात्कार) |
+| अत्यन्तम् | असीम / परम |
+| सुखम् | आनन्द को |
+| अश्नुते | भोगता है / प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yuñjan | engaging / uniting |
+| evam | thus |
+| sadā | constantly |
+| ātmānam | the self / the mind |
+| yogī | the yogi |
+| vigata-kalmaṣaḥ | freed from sins / purified |
+| sukhena | easily / happily |
+| brahma-saṃsparśam | contact with Brahman (the Supreme) |
+| atyantam | infinite / supreme |
+| sukham | bliss / happiness |
+| aśnute | attains / experiences |
+

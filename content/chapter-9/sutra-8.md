@@ -31,3 +31,53 @@ position: 346
 
 ```
 
+
+### Transliteration
+```
+prakṛtiṃ svām avaṣṭabhya visṛjāmi punaḥ punaḥ
+bhūtagrāmam imaṃ kṛtsnam avaśaṃ prakṛter vaśāt
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि वे अपनी त्रिगुणात्मक भौतिक प्रकृति (माया) को अपने नियंत्रण में रखकर सृष्टि की रचना करते हैं। सभी जीव अपने पूर्व कर्मों और प्रकृति के गुणों के अधीन होने के कारण परवश हैं। भगवान अपनी शक्ति से बार-बार इस सृष्टि चक्र का सृजन और संचालन करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains how He controls His own material nature (prakriti) to project the cosmos. The living entities, being bound by their past karma and the modes of nature, are helpless and subject to this cosmic cycle. Under His supervision, the entire multitude of beings is manifested again and again.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रकृतिम् | प्रकृति को |
+| स्वाम् | अपनी |
+| अवष्टभ्य | वश में करके (अधिष्ठित करके) |
+| विसृजामि | मैं रचता हूँ |
+| पुनः | बार-बार |
+| पुनः | बार-बार |
+| भूतग्रामम् | जीवों के समुदाय को |
+| इमम् | इस |
+| कृत्स्नम् | सम्पूर्ण |
+| अवशम् | परवश (असमर्थ) |
+| प्रकृतेः | प्रकृति के |
+| वशात् | वश में होने के कारण |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prakṛtim | material nature |
+| svām | My own |
+| avaṣṭabhya | entering into (presiding over) |
+| visṛjāmi | I send forth (create) |
+| punaḥ | again |
+| punaḥ | again |
+| bhūtagrāmam | multitude of beings |
+| imam | this |
+| kṛtsnam | entire |
+| avaśam | helpless (without free will) |
+| prakṛteḥ | of nature |
+| vaśāt | under the sway |
+

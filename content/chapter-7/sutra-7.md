@@ -31,3 +31,57 @@ position: 287
 
 ```
 
+
+### Transliteration
+```
+mattaḥ parataraṃ nānyatkiñcidasti dhanañjaya
+mayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अपनी सर्वोच्चता और सर्वव्यापकता समझा रहे हैं। वे बताते हैं कि वे ही इस सृष्टि के परम कारण और आधार हैं। जिस प्रकार एक धागा अदृश्य रहकर भी माला के सभी मोतियों को एक सूत्र में पिरोए रखता है, उसी प्रकार भगवान इस संपूर्ण ब्रह्मांड को धारण करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains His supreme position and all-pervading nature to Arjuna. He declares that He is the ultimate cause and support of everything in existence. Just as an unseen thread holds together all the beads in a necklace, the Lord sustains and permeates the entire universe.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मत्तः | मुझसे |
+| परतरम् | श्रेष्ठ / परे |
+| न | नहीं |
+| अन्यत् | दूसरा |
+| किञ्चित् | कोई भी |
+| अस्ति | है |
+| धनञ्जय | हे अर्जुन (धनंजय) |
+| मयि | मुझमें |
+| सर्वम् | सब कुछ |
+| इदम् | यह |
+| प्रोतम् | पिरोया हुआ |
+| सूत्रे | धागे में |
+| मणिगणाः | मणियों के समूह |
+| इव | की तरह |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mattaḥ | than Me |
+| parataram | superior |
+| na | not |
+| anyat | other |
+| kiñcit | anything |
+| asti | there is |
+| dhanañjaya | O Arjuna (conqueror of wealth) |
+| mayi | in Me |
+| sarvam | all |
+| idam | this |
+| protam | strung |
+| sūtre | on a thread |
+| maṇigaṇāḥ | groups of gems |
+| iva | like |
+

@@ -33,3 +33,51 @@ indeed, overcomes the whole family.
 
 ```
 
+
+### Transliteration
+```
+kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ
+dharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta
+
+```
+
+### भावार्थ
+
+अर्जुन युद्ध के सामाजिक और नैतिक परिणामों के बारे में अपनी गहरी चिंता व्यक्त करते हैं। उनका तर्क है कि परिवार के बड़ों और रक्षकों के नष्ट होने से प्राचीन परंपराएं और नैतिक मूल्य समाप्त हो जाएंगे। इन मार्गदर्शक सिद्धांतों के लुप्त हो जाने पर, बचा हुआ सम्पूर्ण परिवार अनिवार्य रूप से अधर्म और पाप के वशीभूत हो जाएगा।
+
+### Meaning
+
+Arjuna expresses his deep concern about the social and moral consequences of the war. He argues that destroying the elders and protectors of a family will lead to the loss of ancient traditions and moral codes. Once these guiding principles are lost, the entire remaining family will inevitably be consumed by irreligion and vice.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कुलक्षये | कुल के नाश होने पर |
+| प्रणश्यन्ति | नष्ट हो जाते हैं |
+| कुलधर्माः | कुल के धर्म |
+| सनातनाः | सनातन |
+| धर्मे | धर्म के |
+| नष्टे | नष्ट होने पर |
+| कुलम् | कुल को |
+| कृत्स्नम् | सम्पूर्ण |
+| अधर्मः | अधर्म |
+| अभिभवति | दबा लेता है |
+| उत | भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kulakṣaye | in the destruction of the family |
+| praṇaśyanti | are destroyed |
+| kuladharmāḥ | family traditions |
+| sanātanāḥ | eternal |
+| dharme | when religion |
+| naṣṭe | is destroyed |
+| kulam | the family |
+| kṛtsnam | entire |
+| adharmaḥ | irreligion |
+| abhibhavati | overcomes |
+| uta | also |
+

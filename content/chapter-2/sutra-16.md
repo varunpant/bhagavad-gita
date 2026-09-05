@@ -31,3 +31,59 @@ position: 63
 
 ```
 
+
+### Transliteration
+```
+nāsato vidyate bhāvo nābhāvo vidyate sataḥ
+ubhayorapi dṛṣṭo'ntastvanayostattvadarśibhiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को सत् (आत्मा) और असत् (भौतिक शरीर) के बीच का अंतर समझाते हैं। जो असत् है, जैसे कि यह भौतिक शरीर, उसका कोई स्थायी अस्तित्व नहीं है और वह नष्ट होने वाला है। वहीं जो सत् है, अर्थात् आत्मा, उसका कभी विनाश नहीं होता। तत्त्वज्ञानी महापुरुषों ने इस सत्य को भली-भांति जानकर यह निष्कर्ष निकाला है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna the fundamental difference between the real (the soul) and the unreal (the physical body). The unreal, such as the material body, has no permanent existence and is bound to perish. Conversely, the real, which is the eternal soul, can never cease to exist. The seers of truth have reached this definitive conclusion after studying the nature of both.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| असतः | असत् का |
+| विद्यते | होता है |
+| भावः | अस्तित्व |
+| न | नहीं |
+| अभावः | अभाव |
+| विद्यते | होता है |
+| सतः | सत् का |
+| उभयोः | दोनों का |
+| अपि | भी |
+| दृष्टः | देखा गया है |
+| अन्तः | निष्कर्ष |
+| तु | निश्चय ही |
+| अनयोः | इन |
+| तत्त्वदर्शिभिः | तत्त्वदर्शियों द्वारा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| asataḥ | of the non-existent |
+| vidyate | there is |
+| bhāvaḥ | existence |
+| na | not |
+| abhāvaḥ | non-existence |
+| vidyate | there is |
+| sataḥ | of the existent |
+| ubhayoḥ | of both |
+| api | also |
+| dṛṣṭaḥ | observed |
+| antaḥ | conclusion |
+| tu | indeed |
+| anayoḥ | of these |
+| tattvadarśibhiḥ | by the seers of truth |
+

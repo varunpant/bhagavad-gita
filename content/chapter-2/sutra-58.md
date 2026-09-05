@@ -31,3 +31,55 @@ position: 105
 
 ```
 
+
+### Transliteration
+```
+yadā saṃharate cāyaṃ kūrmo'ṅgānīva sarvaśaḥ
+indriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण एक स्थिर बुद्धि वाले व्यक्ति (स्थितप्रज्ञ) का लक्षण बताते हैं। जैसे कछुआ किसी खतरे का आभास होने पर अपने अंगों को खोल के भीतर खींच लेता है, वैसे ही एक आत्म-साक्षात्कारी व्यक्ति अपनी इन्द्रियों को सांसारिक विषयों से हटा लेता है। इन्द्रियों पर यह पूर्ण नियंत्रण ही स्थिर प्रज्ञा या सच्ची आध्यात्मिक जागरूकता की निशानी है।
+
+### Meaning
+
+In this verse, Lord Krishna explains a key characteristic of a person with steady wisdom (sthitaprajna). Just as a tortoise withdraws its limbs into its shell when sensing danger, a self-realized person withdraws their senses from worldly objects. This complete mastery over the senses is the hallmark of steady consciousness and true spiritual awareness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदा | जब |
+| संहरते | समेट लेता है |
+| च | और |
+| अयम् | यह |
+| कूर्मः | कछुआ |
+| अङ्गानि | अंगों को |
+| इव | समान |
+| सर्वशः | सब ओर से |
+| इन्द्रियाणि | इन्द्रियों को |
+| इन्द्रियार्थेभ्यः | इन्द्रियों के विषयों से |
+| तस्य | उसकी |
+| प्रज्ञा | बुद्धि |
+| प्रतिष्ठिता | स्थिर है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadā | when |
+| saṃharate | withdraws |
+| ca | and |
+| ayam | this |
+| kūrmaḥ | tortoise |
+| aṅgāni | limbs |
+| iva | like |
+| sarvaśaḥ | completely |
+| indriyāṇi | the senses |
+| indriyārthebhyaḥ | from the sense objects |
+| tasya | his |
+| prajñā | wisdom |
+| pratiṣṭhitā | is fixed |
+

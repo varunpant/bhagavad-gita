@@ -31,3 +31,57 @@ position: 222
 
 ```
 
+
+### Transliteration
+```
+vidyāvinayasaṃpanne brāhmaṇe gavi hastini
+śuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ
+
+```
+
+### भावार्थ
+
+सच्चा ज्ञान सभी जीवित प्राणियों के भीतर एक ही आध्यात्मिक तत्व को देखने में है, चाहे उनका बाहरी रूप या सामाजिक स्थिति कुछ भी हो। एक आत्म-साक्षात्कारी व्यक्ति भौतिक शरीरों के आधार पर भेदभाव नहीं करता है, और एक विद्वान ब्राह्मण, पशु या चाण्डाल में परमात्मा को समान रूप से देखता है।
+
+### Meaning
+
+True wisdom lies in perceiving the same spiritual essence within all living beings, regardless of their external forms or social conditioning. A self-realized soul does not differentiate based on physical bodies, seeing the Supreme Soul equally present in a learned scholar, an animal, or an outcaste.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| विद्या | विद्या |
+| विनय | विनय |
+| संपन्ने | से युक्त |
+| ब्राह्मणे | ब्राह्मण में |
+| गवि | गाय में |
+| हस्तिनि | हाथी में |
+| शुनि | कुत्ते में |
+| च | और |
+| एव | ही |
+| श्वपाके | चाण्डाल में |
+| च | तथा |
+| पण्डिताः | ज्ञानी जन |
+| सम | समान |
+| दर्शिनः | देखने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vidyā | knowledge |
+| vinaya | humility |
+| saṃpanne | endowed with |
+| brāhmaṇe | in a brahmana |
+| gavi | in a cow |
+| hastini | in an elephant |
+| śuni | in a dog |
+| ca | and |
+| eva | certainly |
+| śvapāke | in a dog-eater (outcaste) |
+| ca | and |
+| paṇḍitāḥ | the wise |
+| sama | equal |
+| darśinaḥ | seers |
+

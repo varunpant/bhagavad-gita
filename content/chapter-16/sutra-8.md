@@ -31,3 +31,51 @@ position: 579
 
 ```
 
+
+### Transliteration
+```
+asatyam apratiṣṭhaṃ te jagad āhur anīśvaram
+aparaspara-sambhūtaṃ kim anyat kāma-haitukam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आसुरी प्रवृत्ति के लोगों की नास्तिक और भौतिकवादी विचारधारा का वर्णन कर रहे हैं। ऐसे लोग मानते हैं कि सृष्टि का कोई नैतिक आधार या परम सत्य नहीं है और न ही इसका कोई नियंता ईश्वर है। उनके अनुसार, यह संसार केवल भौतिक तत्वों और काम-वासना के संयोग से स्वतः उत्पन्न हुआ है, जिसका कोई उच्च आध्यात्मिक उद्देश्य नहीं है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the materialistic and atheistic worldview of demonic natures. Such individuals believe that the universe has no moral foundation, no ultimate truth, and no governing God. They argue that existence is merely a product of physical union driven by lust, denying any higher spiritual purpose or divine creation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| असत्यम् | झूठा (सत्य-रहित) |
+| अप्रतिष्ठम् | बिना किसी आधार के |
+| ते | वे (आसुरी लोग) |
+| जगत् | संसार को |
+| आहुः | कहते हैं |
+| अनीश्वरम् | बिना ईश्वर के |
+| अपरस्पर | परस्पर (स्त्री-पुरुष के) संयोग से |
+| सम्भूतम् | उत्पन्न |
+| किम् | क्या |
+| अन्यत् | अन्य (दूसरा कारण) |
+| काम-हैतुकम् | केवल काम-वासना ही जिसका कारण है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| asatyam | untruthful (without truth) |
+| apratiṣṭham | without foundation |
+| te | they (the demonic) |
+| jagat | the universe |
+| āhuḥ | say |
+| anīśvaram | without a controller or God |
+| aparaspara | by mutual union (of male and female) |
+| sambhūtam | arisen |
+| kim | what |
+| anyat | other |
+| kāma-haitukam | having lust as its only cause |
+

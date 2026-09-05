@@ -31,3 +31,51 @@ position: 699
 
 ```
 
+
+### Transliteration
+```
+rājan saṃsmṛtya saṃsmṛtya saṃvādam imam adbhutam
+keśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र को संबोधित करते हुए अपनी आंतरिक प्रसन्नता व्यक्त कर रहे हैं। वे कहते हैं कि श्री कृष्ण और अर्जुन के बीच हुए इस परम पावन और विस्मयकारी संवाद का स्मरण करने मात्र से ही उनका हृदय बार-बार आनंद से भर उठता है। यह संवाद केवल ज्ञान का स्रोत नहीं है, बल्कि परम आनंद प्रदान करने वाला है।
+
+### Meaning
+
+Sanjaya expresses his inner ecstasy to King Dhritarashtra. He states that simply by recalling this sacred and astonishing dialogue between Lord Krishna and Arjuna, his heart is filled with joy repeatedly. This conversation is not just a source of supreme wisdom but also a source of divine bliss.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| राजन् | हे राजा (धृतराष्ट्र) |
+| संस्मृत्य | स्मरण करके |
+| संस्मृत्य | बार-बार स्मरण करके |
+| संवादम् | संवाद को |
+| इमम् | इस |
+| अद्भुतम् | अद्भुत |
+| केशव-अर्जुनयोः | श्रीकृष्ण और अर्जुन के |
+| पुण्यम् | पवित्र |
+| हृष्यामि | मैं हर्षित हो रहा हूँ |
+| च | और |
+| मुहुः-मुहुः | बार-बार |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rājan | O King |
+| saṃsmṛtya | remembering |
+| saṃsmṛtya | remembering repeatedly |
+| saṃvādam | dialogue |
+| imam | this |
+| adbhutam | wonderful |
+| keśava-arjunayoḥ | of Keshava and Arjuna |
+| puṇyam | sacred |
+| hṛṣyāmi | I rejoice |
+| ca | and |
+| muhurmuhuḥ | again and again |
+

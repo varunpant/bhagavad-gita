@@ -31,3 +31,55 @@ position: 187
 
 ```
 
+
+### Transliteration
+```
+daivamevāpare yajñaṃ yoginaḥ paryupāsate
+brahmāgnāvapare yajñaṃ yajñenaivopajuhvati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण साधकों द्वारा किए जाने वाले विभिन्न प्रकार के यज्ञों का वर्णन करते हैं। कुछ कर्म-योगी देवताओं को प्रसन्न करने के लिए यज्ञों का अनुष्ठान करते हैं। इसके विपरीत, ज्ञान-योगी परब्रह्म रूपी अग्नि में अपनी आत्मा को ही आहुति के रूप में अर्पित कर देते हैं, जिससे वे आत्मा और परमात्मा की एकता का अनुभव करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes different types of sacrifices performed by seekers. Karma-yogis perform sacrifices directed at celestial gods to attain material or spiritual elevation. In contrast, jnana-yogis offer their very own self into the fire of the Supreme Brahman, realizing the ultimate oneness of the individual soul and the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दैवम् | देवताओं के |
+| एव | ही |
+| अपरे | अन्य |
+| यज्ञम् | यज्ञ का |
+| योगिनः | योगी |
+| पर्युपासते | भली-भाँति अनुष्ठान करते हैं |
+| ब्रह्म | परब्रह्म रूपी |
+| अग्नौ | अग्नि में |
+| अपरे | अन्य |
+| यज्ञम् | यज्ञ को |
+| यज्ञेन | यज्ञ के द्वारा |
+| एव | ही |
+| उपजुह्वति | हवन करते हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| daivam | to the demigods |
+| eva | indeed |
+| apare | some others |
+| yajñam | sacrifice |
+| yoginaḥ | yogis |
+| paryupāsate | perform perfectly |
+| brahma | of the Supreme Brahman |
+| agnau | in the fire |
+| apare | others |
+| yajñam | the sacrifice |
+| yajñena | by the sacrifice |
+| eva | indeed |
+| upajuhvati | offer as sacrifice |
+

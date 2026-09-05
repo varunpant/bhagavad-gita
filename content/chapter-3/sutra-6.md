@@ -31,3 +31,51 @@ position: 125
 
 ```
 
+
+### Transliteration
+```
+karmendriyāṇi saṃyamya ya āste manasā smaran
+indriyārthānvimūḍhātmā mithyācāraḥ sa ucyate
+
+```
+
+### भावार्थ
+
+श्रीकृष्ण यहाँ झूठे संन्यास या पाखण्ड की निंदा करते हैं। जो व्यक्ति केवल बाहर से अपनी कर्मेन्द्रियों को रोक लेता है, लेकिन मन ही मन सांसारिक सुखों और विषयों के बारे में सोचता रहता है, वह सच्चा संन्यासी नहीं बल्कि पाखण्डी है। सच्ची साधना के लिए शरीर के साथ-साथ मन का नियंत्रण भी आवश्यक है।
+
+### Meaning
+
+Krishna warns against false renunciation and hypocrisy. Merely stopping physical actions while the mind continues to dwell on sense objects is not true detachment. True spiritual practice requires mastering the mind's desires, not just restraining the physical body.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्मेन्द्रियाणि | कर्मेन्द्रियों को |
+| संयम्य | नियंत्रित करके |
+| यः | जो |
+| आस्ते | बैठता है |
+| मनसा | मन से |
+| स्मरन् | स्मरण करता हुआ |
+| इन्द्रियार्थान् | इन्द्रियों के विषयों को |
+| विमूढात्मा | मूढ़ बुद्धि वाला |
+| मिथ्याचारः | मिथ्याचारी (पाखण्डी) |
+| सः | वह |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karmendriyāṇi | the organs of action |
+| saṃyamya | controlling |
+| yaḥ | who |
+| āste | sits |
+| manasā | by the mind |
+| smaran | remembering |
+| indriyārthān | sense objects |
+| vimūḍhātmā | deluded soul |
+| mithyācāraḥ | hypocrite |
+| saḥ | he |
+| ucyate | is called |
+

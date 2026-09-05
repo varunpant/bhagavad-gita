@@ -31,3 +31,57 @@ position: 564
 
 ```
 
+
+### Transliteration
+```
+gām āviśya ca bhūtāni dhārayāmy aham ojasā
+puṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापक शक्ति का वर्णन कर रहे हैं। वे बताते हैं कि वे ही पृथ्वी में प्रवेश करके अपनी गुरुत्वाकर्षण और धारण शक्ति से सभी चराचर प्राणियों को थामे रखते हैं। इसके अतिरिक्त, वे ही अमृतमय चन्द्रमा के रूप में समस्त वनस्पतियों, औषधियों और फसलों को पोषण प्रदान करते हैं जिससे उनमें स्वाद और जीवन-शक्ति आती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes His all-pervading energy that sustains life. He explains that He enters the earth and supports all living beings with His vital force (gravity and sustaining power). Furthermore, as the moisture-giving moon, He nourishes all vegetation, herbs, and crops, giving them their essential sap, flavor, and nutritional value.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| गाम् | पृथ्वी में |
+| आविश्य | प्रवेश करके |
+| च | और |
+| भूतानि | सब प्राणियों को |
+| धारयामि | धारण करता हूँ |
+| अहम् | मैं |
+| ओजसा | अपनी शक्ति से |
+| पुष्णामि | पुष्ट करता हूँ |
+| च | और |
+| औषधीः | औषधियों को (वनस्पतियों को) |
+| सर्वाः | समस्त |
+| सोमः | चन्द्रमा |
+| भूत्वा | बनकर |
+| रसात्मकः | रसयुक्त (अमृतमय) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| gām | the earth |
+| āviśya | entering |
+| ca | and |
+| bhūtāni | living beings |
+| dhārayāmi | sustain |
+| aham | I |
+| ojasā | by My energy |
+| puṣṇāmi | nourish |
+| ca | and |
+| auṣadhīḥ | herbs (vegetation) |
+| sarvāḥ | all |
+| somaḥ | the moon |
+| bhūtvā | becoming |
+| rasātmakaḥ | full of sap (juicy) |
+

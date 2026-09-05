@@ -31,3 +31,49 @@ position: 530
 
 ```
 
+
+### Transliteration
+```
+tatra sattvaṃ nirmalatvāt prakāśakam anāmayam
+sukhasaṅgena badhnāti jñānasaṅgena cānagha
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सत्त्वगुण के लक्षणों और उसके द्वारा जीवात्मा के बंधन की प्रक्रिया का वर्णन करते हैं। सत्त्वगुण अत्यंत पवित्र, प्रकाशमान और शांत होता है, जिससे मनुष्य में ज्ञान और सुख का उदय होता है। परंतु, यह गुण भी जीवात्मा को 'मैं सुखी हूँ' या 'मैं ज्ञानी हूँ' इस अहंकार और आसक्ति में बाँधकर संसार चक्र में फंसाए रखता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of Sattva-guna (the mode of goodness) and how it binds the soul. Sattva is pure, illuminating, and peaceful, leading to happiness and wisdom. However, it still binds the conditioned soul to the material world through attachment to the ego of being happy and knowledgeable.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत्र | उनमें (तीनों गुणों में) |
+| सत्त्वम् | सत्त्वगुण |
+| निर्मलत्वात् | निर्मल होने के कारण |
+| प्रकाशकम् | प्रकाश करने वाला |
+| अनामयम् | विकाररहित (स्वस्थ) |
+| सुख-सङ्गेन | सुख के सम्बन्ध से (आसक्ति से) |
+| बध्नाति | बाँधता है |
+| ज्ञान-सङ्गेन | ज्ञान के सम्बन्ध से (आसक्ति से) |
+| च | और |
+| अनघ | हे निष्पाप (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tatra | there (among those) |
+| sattvam | the mode of goodness |
+| nirmalatvāt | due to being pure |
+| prakāśakam | illuminating |
+| anāmayam | free from disease (healthy) |
+| sukha-saṅgena | by attachment to happiness |
+| badhnāti | binds |
+| jñāna-saṅgena | by attachment to knowledge |
+| ca | and |
+| anagha | O sinless one (Arjuna) |
+

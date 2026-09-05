@@ -31,3 +31,57 @@ position: 661
 
 ```
 
+
+### Transliteration
+```
+viṣayendriya-saṃyogād yat tad agre'mṛtopamam
+pariṇāme viṣam iva tat sukhaṃ rājasaṃ smṛtam
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण यहाँ राजस सुख की परिभाषा दे रहे हैं। ऐसा सुख जो इन्द्रियों के उनके विषयों के साथ तात्कालिक संपर्क से उत्पन्न होता है, वह शुरुआत में बहुत सुखद (अमृत के समान) लगता है। परन्तु, समय के साथ इसका परिणाम शारीरिक, मानसिक या आध्यात्मिक पतन के रूप में विष के समान दुखदायी होता है।
+
+### Meaning
+
+Lord Krishna defines the pleasure born of passion (rajas). This happiness arises from the immediate gratification of the senses interacting with material objects, which feels like nectar initially. However, because it is temporary and leads to attachment, depletion, and dependency, its ultimate result is painful, like poison.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| विषय | इन्द्रिय-विषयों |
+| इन्द्रिय | और इन्द्रियों के |
+| संयोगात् | संयोग से |
+| यत् | जो |
+| तत् | वह |
+| अग्रे | आरम्भ में |
+| अमृत-उपमम् | अमृत के समान |
+| परिणामे | अंत में (परिणाम में) |
+| विषम् | विष |
+| इव | की तरह |
+| तत् | वह |
+| सुखम् | सुख |
+| राजसम् | राजसी |
+| स्मृतम् | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| viṣaya | of sense objects |
+| indriya | and the senses |
+| saṃyogāt | from the contact |
+| yat | which |
+| tat | that |
+| agre | at first |
+| amṛta-upamam | like nectar |
+| pariṇāme | in the end |
+| viṣam | poison |
+| iva | like |
+| tat | that |
+| sukham | pleasure |
+| rājasam | in the mode of passion |
+| smṛtam | is said to be |
+

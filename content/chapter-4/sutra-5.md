@@ -31,3 +31,64 @@ position: 167
 
 ```
 
+
+### Transliteration
+```
+śrī bhagavānuvāca
+bahūni me vyatītāni janmāni tava cārjuna
+tānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन के इस संदेह को दूर करते हैं कि उन्होंने प्राचीन काल में सूर्यदेव को यह ज्ञान कैसे दिया था। वे बताते हैं कि उन दोनों के ही अतीत में अनगिनत जन्म हो चुके हैं। मुख्य अंतर यह है कि परमेश्वर होने के कारण कृष्ण को अपने सभी अवतारों का पूर्ण स्मरण है, जबकि एक साधारण जीव होने के कारण अर्जुन उन्हें भूल चुके हैं।
+
+### Meaning
+
+Lord Krishna addresses Arjuna's doubt about how Krishna could have taught the ancient sun god at the beginning of creation. He explains that both of them have had countless births in the past. The key difference is that Krishna, being the Supreme Lord, retains full memory and omniscience of all His past appearances, whereas a mortal soul like Arjuna forgets them.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| बहूनि | बहुत से |
+| मे | मेरे |
+| व्यतीतानि | व्यतीत हो चुके हैं |
+| जन्मानि | जन्म |
+| तव | तुम्हारे |
+| च | और |
+| अर्जुन | हे अर्जुन |
+| तानि | उन |
+| अहम् | मैं |
+| वेद | जानता हूँ |
+| सर्वाणि | सभी को |
+| न | नहीं |
+| त्वम् | तुम |
+| वेत्थ | जानते हो |
+| परन्तप | हे शत्रुओं को तपाने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī bhagavān | the Supreme Lord |
+| uvāca | said |
+| bahūni | many |
+| me | My |
+| vyatītāni | have passed |
+| janmāni | births |
+| tava | your |
+| ca | and |
+| arjuna | O Arjuna |
+| tāni | them |
+| aham | I |
+| veda | know |
+| sarvāṇi | all |
+| na | not |
+| tvam | you |
+| vettha | know |
+| parantapa | O scorcher of foes |
+

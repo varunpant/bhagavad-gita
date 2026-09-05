@@ -33,3 +33,57 @@ them for the sake of the earth.
 
 ```
 
+
+### Transliteration
+```
+etānna hantumicchāmi ghnato'pi madhusūdana
+api trailokyarājyasya hetoḥ kiṃ nu mahīkṛte
+
+```
+
+### भावार्थ
+
+अर्जुन अपनी गहरी निराशा और स्वजनों से युद्ध न करने की इच्छा व्यक्त करते हैं। वे श्रीकृष्ण से कहते हैं कि यदि उन्हें तीनों लोकों का राज्य भी मिल जाए, तो भी वे अपने सगे-संबंधियों का वध नहीं करना चाहते। केवल इस पृथ्वी के राज्य के लिए तो ऐसा घोर पाप करने का प्रश्न ही नहीं उठता।
+
+### Meaning
+
+Arjuna expresses his deep despair and unwillingness to fight his own relatives. He tells Krishna that the reward of ruling the entire earth, or even the three worlds, is meaningless if it requires killing his loved ones. He would rather be killed by them unresisting than commit such a sin for worldly gains.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एतान् | इन्हें |
+| न | नहीं |
+| हन्तुम् | मारना |
+| इच्छामि | मैं चाहता हूँ |
+| घ्नतः | मारते हुए (मुझे मारने पर) |
+| अपि | भी |
+| मधुसूदन | हे मधुसूदन |
+| अपि | भी |
+| त्रैलोक्य | तीनों लोकों के |
+| राज्यस्य | राज्य के |
+| हेतोः | लिए |
+| किम् | क्या |
+| नु | फिर |
+| महीकृते | पृथ्वी के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| etān | these |
+| na | not |
+| hantum | to kill |
+| icchāmi | I wish |
+| ghnataḥ | killing (me) |
+| api | even |
+| madhusūdana | O Madhusudana |
+| api | even |
+| trailokya | of the three worlds |
+| rājyasya | of the kingdom |
+| hetoḥ | for the sake of |
+| kim | what |
+| nu | then |
+| mahīkṛte | for the sake of the earth |
+

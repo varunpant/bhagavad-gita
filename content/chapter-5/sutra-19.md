@@ -31,3 +31,63 @@ position: 223
 
 ```
 
+
+### Transliteration
+```
+ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ
+nirdoṣaṃ hi samaṃ brahma tasmādbrahmaṇi te sthitāḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण समदृष्टि विकसित करने का गहरा परिणाम बताते हैं। जिन लोगों का मन सभी परिस्थितियों में समभाव में स्थित रहता है, उन्होंने इसी जीवन में जन्म-मृत्यु के चक्र को जीत लिया है। चूँकि परब्रह्म सर्वथा निर्दोष और सम है, इसलिए समता का आचरण करने वाले ऐसे ज्ञानी पुरुष ब्रह्म में ही स्थित माने जाते हैं।
+
+### Meaning
+
+Krishna explains the profound result of developing an equal vision. Those who maintain equanimity in all situations have already conquered the cycle of birth and death while still living in this world. Since the Supreme Brahman is perfectly equal and free from flaws, such individuals who embody equanimity are considered to be already situated in Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इह | यहाँ (इसी जीवन में) |
+| एव | ही |
+| तैः | उनके द्वारा |
+| जितः | जीत लिया गया है |
+| सर्गः | संसार (जन्म-मरण का चक्र) |
+| येषाम् | जिनका |
+| साम्ये | समभाव में |
+| स्थितम् | स्थित है |
+| मनः | मन |
+| निर्दोषम् | निर्दोष |
+| हि | क्योंकि (निश्चय ही) |
+| समम् | सम |
+| ब्रह्म | ब्रह्म |
+| तस्मात् | इसलिए |
+| ब्रह्मणि | ब्रह्म में |
+| ते | वे |
+| स्थिताः | स्थित हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| iha | here (in this life) |
+| eva | certainly |
+| taiḥ | by them |
+| jitaḥ | conquered |
+| sargaḥ | creation (cycle of birth and death) |
+| yeṣām | whose |
+| sāmye | in equanimity |
+| sthitam | situated |
+| manaḥ | mind |
+| nirdoṣam | flawless |
+| hi | certainly |
+| samam | equal |
+| brahma | the Supreme |
+| tasmāt | therefore |
+| brahmaṇi | in the Supreme |
+| te | they |
+| sthitāḥ | are situated |
+

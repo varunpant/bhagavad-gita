@@ -31,3 +31,49 @@ position: 260
 
 ```
 
+
+### Transliteration
+```
+praśāntamanasaṃ hyenaṃ yoginaṃ sukhamuttamam
+upaiti śāntarajasaṃ brahmabhūtamakalmaṣam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ध्यानयोग की पराकाष्ठा का वर्णन कर रहे हैं। जब साधक का मन पूरी तरह से स्थिर और शांत हो जाता है, तब उसके भीतर का रजोगुण (चंचलता और वासना) समाप्त हो जाता है। ऐसा निष्पाप योगी साक्षात ब्रह्म के साथ तादात्म्य अनुभव करता है और उसे परम आनंद की प्राप्ति होती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the ultimate state of meditation. When the practitioner's mind is completely stilled, the quality of passion (rajas) is quieted, and all impurities are washed away. Such a sinless yogi realizes their oneness with the Supreme Brahman and experiences the highest, uninterrupted bliss.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रशान्त-मनसम् | अत्यंत शांत मन वाले |
+| हि | निश्चय ही |
+| एनम् | इस |
+| योगिनम् | योगी को |
+| सुखम् | आनन्द |
+| उत्तमम् | सर्वोत्तम |
+| उपैति | प्राप्त होता है |
+| शान्त-रजसम् | जिसका रजोगुण शांत हो गया है |
+| ब्रह्म-भूतम् | ब्रह्मभाव को प्राप्त |
+| अकल्मषम् | पापरहित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| praśānta-manasam | whose mind is perfectly peaceful |
+| hi | certainly |
+| enam | this |
+| yoginam | yogi |
+| sukham | happiness |
+| uttamam | supreme |
+| upaiti | attains |
+| śānta-rajasam | whose passion is quieted |
+| brahma-bhūtam | who has become one with Brahman |
+| akalmaṣam | free from sin |
+

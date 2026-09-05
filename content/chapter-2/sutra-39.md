@@ -31,3 +31,59 @@ position: 86
 
 ```
 
+
+### Transliteration
+```
+eṣā te'bhihitā sāṃkhye buddhiryoge tvimāṃ śṛṇu
+buddhyāyukto yayā pārtha karmabandhaṃ prahāsyasi
+
+```
+
+### भावार्थ
+
+पिछले श्लोकों में भगवान कृष्ण ने आत्मा की अमरता और शरीर की नश्वरता का वर्णन किया, जो सांख्य दर्शन (ज्ञान योग) है। अब वे कर्म योग की ओर बढ़ते हैं, जो इस ज्ञान का व्यावहारिक रूप है। फल की आसक्ति के बिना कर्म करने से मनुष्य कर्मों के बंधन से मुक्त हो जाता है।
+
+### Meaning
+
+In the preceding verses, Lord Krishna explained the eternal nature of the soul and the temporary nature of the body, which constitutes Sankhya philosophy. Now, He transitions to Karma Yoga, the practical application of this knowledge through selfless action. By acting without attachment to the fruits of one's work, a person can break free from the cycle of karmic bondage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एषा | यह |
+| ते | तुम्हारे लिए |
+| अभिहिता | कही गई है |
+| सांख्ये | सांख्य दर्शन में |
+| बुद्धिः | ज्ञान |
+| योगे | कर्म योग में |
+| तु | अब |
+| इमाम् | इसे |
+| शृणु | सुनो |
+| बुद्ध्या | बुद्धि से |
+| युक्तः | युक्त होकर |
+| यया | जिससे |
+| पार्थ | हे पृथा पुत्र अर्जुन |
+| कर्मबन्धम् | कर्म के बंधन को |
+| प्रहास्यसि | तुम नष्ट कर दोगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| eṣā | this |
+| te | unto you |
+| abhihitā | described |
+| sāṃkhye | in analytical knowledge |
+| buddhiḥ | intelligence |
+| yoge | in Yoga (selfless action) |
+| tu | now |
+| imām | this |
+| śṛṇu | hear |
+| buddhyā | by intelligence |
+| yuktaḥ | endowed |
+| yayā | by which |
+| pārtha | O son of Pritha |
+| karmabandham | bondage of action |
+| prahāsyasi | you will cast off |
+

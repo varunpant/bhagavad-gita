@@ -31,3 +31,55 @@ position: 160
 
 ```
 
+
+### Transliteration
+```
+tasmāttvamindriyāṇyādau niyamya bharatarṣabha
+pāpmānaṃ prajahi hyenaṃ jñānavijñānanāśanam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को काम (वासना) पर विजय प्राप्त करने का व्यावहारिक उपाय बताते हैं। चूँकि काम का वास इन्द्रियों, मन और बुद्धि में होता है, इसलिए सबसे पहले इन्द्रियों को वश में करना आवश्यक है। ऐसा करके मनुष्य ज्ञान और विज्ञान का नाश करने वाले इस महान पापी शत्रु का वध कर सकता है।
+
+### Meaning
+
+In this verse, Lord Krishna advises Arjuna on the practical step to conquer lust. Since lust first occupies the senses, mind, and intelligence, one must begin by regulating the senses. By doing so, one can destroy this sinful enemy that obscures both theoretical knowledge and practical realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| त्वम् | तुम |
+| इन्द्रियाणि | इन्द्रियों को |
+| आदौ | सबसे पहले |
+| नियम्य | वश में करके |
+| भरतर्षभ | हे भरतश्रेष्ठ |
+| पाप्मानम् | पापी को |
+| प्रजहि | मार डालो |
+| हि | निश्चय ही |
+| एनम् | इस |
+| ज्ञान | ज्ञान |
+| विज्ञान | और विज्ञान के |
+| नाशनम् | नाश करने वाले को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| tvam | you |
+| indriyāṇi | the senses |
+| ādau | in the beginning |
+| niyamya | having controlled |
+| bharatarṣabha | O best of the Bharatas |
+| pāpmānam | the sinful |
+| prajahi | destroy |
+| hi | certainly |
+| enam | this |
+| jñāna | knowledge |
+| vijñāna | and realization |
+| nāśanam | the destroyer |
+

@@ -31,3 +31,61 @@ position: 585
 
 ```
 
+
+### Transliteration
+```
+asau mayā hataḥ śatrurhaniṣye cāparānapi
+īśvaro'hamahaṃ bhogī siddho'haṃ balavānsukhī
+
+```
+
+### भावार्थ
+
+इस श्लोक में आसुरी प्रवृत्ति वाले मनुष्यों की अहंकारयुक्त सोच का वर्णन किया गया है। वे अपने शत्रुओं का नाश करने में गर्व महसूस करते हैं और स्वयं को ही सर्वशक्तिमान, नियंता तथा समस्त सुखों का एकमात्र भोक्ता मानते हैं। वे अपनी शक्ति और सफलता के मद में चूर रहते हैं।
+
+### Meaning
+
+This verse describes the egotistical mindset of those with demonic tendencies. They take pride in destroying their enemies and falsely believe themselves to be the supreme controller, the enjoyer, and the most powerful, successful, and happy being.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| असौ | यह |
+| मया | मेरे द्वारा |
+| हतः | मारा गया |
+| शत्रुः | शत्रु |
+| हनिष्ये | मैं मार डालूँगा |
+| च | और |
+| अपरान् | दूसरों को |
+| अपि | भी |
+| ईश्वरः | ईश्वर (स्वामी) |
+| अहम् | मैं हूँ |
+| अहम् | मैं |
+| भोगी | भोग करने वाला |
+| सिद्धः | सिद्ध (सफल) |
+| अहम् | मैं हूँ |
+| बलवान् | बलवान |
+| सुखी | सुखी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| asau | this |
+| mayā | by me |
+| hataḥ | slain |
+| śatruḥ | enemy |
+| haniṣye | I shall destroy |
+| ca | and |
+| aparān | others |
+| api | also |
+| īśvaraḥ | the lord (controller) |
+| aham | I am |
+| aham | I |
+| bhogī | the enjoyer |
+| siddhaḥ | perfect (successful) |
+| aham | I am |
+| balavān | powerful |
+| sukhī | happy |
+

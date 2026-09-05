@@ -31,3 +31,57 @@ position: 488
 
 ```
 
+
+### Transliteration
+```
+tulya-nindā-stutir maunī santuṣṭo yena kenacit
+aniketaḥ sthira-matir bhaktimān me priyo naraḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस भक्त के आंतरिक गुणों का वर्णन करते हैं जो उन्हें अत्यंत प्रिय है। ऐसा भक्त मान-अपमान, निंदा-स्तुति में समभाव रखता है और अपनी वाणी पर नियंत्रण रखता है। वह भौतिक साधनों के प्रति आसक्त नहीं होता और उसका मन सदैव परमात्मा में स्थिर रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the inner qualities of a devotee who is extremely dear to Him. Such a devotee remains equanimous in both criticism and praise, practices silence, and is content with whatever comes his way. He is free from attachment to a permanent dwelling and possesses a steady intellect anchored in devotion.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तुल्य | समान |
+| निन्दा | निंदा |
+| स्तुतिः | और प्रशंसा में |
+| मौनी | मौन रहने वाला (मननशील) |
+| सन्तुष्टः | संतुष्ट |
+| येन | जिस |
+| केनचित् | किसी भी वस्तु से |
+| अनिकेतः | घर-बार से रहित (आसक्तिहीन) |
+| स्थिर | स्थिर |
+| मतिः | बुद्धि वाला |
+| भक्तिमान् | भक्ति से युक्त |
+| मे | मेरा |
+| प्रियः | प्रिय |
+| नरः | मनुष्य है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tulya | equal |
+| nindā | in blame |
+| stutiḥ | and praise |
+| maunī | silent (contemplative) |
+| santuṣṭaḥ | content |
+| yena | with whatever |
+| kenacit | something |
+| aniketaḥ | without a fixed home (unattached) |
+| sthira | steady |
+| matiḥ | mind/intellect |
+| bhaktimān | full of devotion |
+| me | to Me |
+| priyaḥ | dear |
+| naraḥ | that person |
+

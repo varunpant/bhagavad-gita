@@ -31,3 +31,75 @@ position: 463
 
 ```
 
+
+### Transliteration
+```
+mā te vyathā mā ca vimūḍhabhāvo
+dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam
+vyapetabhīḥ prītamanāḥ punastvaṃ
+tadeva me rūpamidaṃ prapasya
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को आश्वस्त कर रहे हैं कि उनके अत्यंत भयानक विश्वरूप को देखकर अर्जुन को भयभीत या भ्रमित होने की आवश्यकता नहीं है। वे अर्जुन को सांत्वना देते हुए अपने सौम्य, चतुर्भुज रूप को पुनः प्रकट करने का आश्वासन देते हैं। यह श्लोक भगवान की अपने भक्त के प्रति असीम करुणा और संवेदनशीलता को दर्शाता है।
+
+### Meaning
+
+Lord Krishna reassures Arjuna, who was terrified by the majestic yet fearsome cosmic vision. Krishna tells him to cast away his fear and confusion, promising to show His familiar, gentle form once again. This verse highlights the Lord's compassion and responsiveness to the emotional state of His devotee.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मा | मत / नहीं |
+| ते | तुम्हें |
+| व्यथा | पीड़ा / भय |
+| मा | न |
+| च | और |
+| विमूढभावः | मोह का भाव / व्याकुलता |
+| दृष्ट्वा | देखकर |
+| रूपम् | रूप को |
+| घोरम् | भयानक / विकराल |
+| ईदृक् | इस प्रकार के |
+| मम | मेरे |
+| इदम् | इस |
+| व्यपेतभीः | भय से रहित होकर |
+| प्रीतमनाः | प्रसन्न मन वाला होकर |
+| पुनः | फिर से |
+| त्वम् | तुम |
+| तत् | उस |
+| एव | ही |
+| मे | मेरे |
+| रूपम् | रूप को |
+| इदम् | इस |
+| प्रपश्य | भली-भांति देखो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mā | let there not be |
+| te | to you |
+| vyathā | fear / distress |
+| mā | not |
+| ca | and |
+| vimūḍhabhāvaḥ | bewildered state |
+| dṛṣṭvā | having seen |
+| rūpam | form |
+| ghoram | terrible / fierce |
+| īdṛk | such as this |
+| mama | of Mine |
+| idam | this |
+| vyapetabhīḥ | free from fear |
+| prītamanāḥ | with a pleased mind |
+| punaḥ | again |
+| tvam | you |
+| tat | that |
+| eva | indeed |
+| me | of Mine |
+| rūpam | form |
+| idam | this |
+| prapasya | behold |
+

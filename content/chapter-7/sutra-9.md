@@ -31,3 +31,57 @@ position: 289
 
 ```
 
+
+### Transliteration
+```
+puṇyo gandhaḥ pṛthivyāṃ ca tejaś cāsmi vibhāvasau
+jīvanaṃ sarvabhūteṣu tapaś cāsmi tapasviṣu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि वे सृष्टि के मूल तत्वों के सार हैं। पृथ्वी की स्वाभाविक और पवित्र सुगंध तथा अग्नि की ऊष्मा और प्रकाश उन्हीं का स्वरूप है। वे सभी जीवित प्राणियों की प्राण-शक्ति हैं और तपस्वियों द्वारा किए जाने वाले कठिन तप की शक्ति भी वही हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine manifestations as the essential essence of all things. He is the original, pure fragrance of the earth and the heat and light of fire. He is the life-force in all living entities and the inner strength and austerity of ascetics.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पुण्यः | पवित्र / मूल |
+| गन्धः | सुगंध |
+| पृथिव्याम् | पृथ्वी में |
+| च | और |
+| तेजः | तेज / प्रकाश |
+| च | और |
+| अस्मि | हूँ |
+| विभावसौ | अग्नि में |
+| जीवनम् | जीवन (प्राण) |
+| सर्वभूतेषु | सभी प्राणियों में |
+| तपः | तप |
+| च | और |
+| अस्मि | हूँ |
+| तपस्विषु | तपस्वियों में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| puṇyaḥ | pure / original |
+| gandhaḥ | fragrance |
+| pṛthivyām | in the earth |
+| ca | and |
+| tejaḥ | brilliance / heat |
+| ca | and |
+| asmi | I am |
+| vibhāvasau | in the fire |
+| jīvanam | life-force |
+| sarvabhūteṣu | in all living beings |
+| tapaḥ | penance / austerity |
+| ca | and |
+| asmi | I am |
+| tapasviṣu | in ascetics |
+

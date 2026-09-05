@@ -31,3 +31,47 @@ position: 262
 
 ```
 
+
+### Transliteration
+```
+sarvabhūtastham ātmānaṃ sarvabhūtāni cātmani
+īkṣate yogayuktātmā sarvatra samadarśanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण एक सिद्ध योगी के दृष्टिकोण का वर्णन करते हैं। जो व्यक्ति योग में स्थित हो चुका है, वह सभी प्राणियों में एक ही परमात्मा का वास देखता है और सभी को अपने भीतर देखता है। उसकी दृष्टि में सभी जीवों के प्रति समभाव स्थापित हो जाता है क्योंकि वह बाहरी भेदों से परे परम सत्य को देखता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the vision of a perfected yogi. One who is established in yoga perceives the same Divine Self residing in all living beings and sees all beings within the Self. Such a person develops an equal vision toward all, recognizing the underlying spiritual unity of existence beyond external differences.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वभूतस्थम् | सब भूतों में स्थित |
+| आत्मानम् | आत्मा को (अपने आप को) |
+| सर्वभूतानि | सब भूतों को |
+| च | और |
+| आत्मनि | आत्मा में (अपने आप में) |
+| ईक्षते | देखता है |
+| योगयुक्तात्मा | योग से युक्त अंतःकरण वाला |
+| सर्वत्र | सब जगह |
+| समदर्शनः | समान देखने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvabhūtastham | situated in all beings |
+| ātmānam | the Self |
+| sarvabhūtāni | all beings |
+| ca | and |
+| ātmani | in the Self |
+| īkṣate | sees |
+| yogayuktātmā | one whose mind is united in yoga |
+| sarvatra | everywhere |
+| samadarśanaḥ | seeing with equal vision |
+

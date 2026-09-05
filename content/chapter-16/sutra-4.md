@@ -31,3 +31,57 @@ position: 575
 
 ```
 
+
+### Transliteration
+```
+dambho darpo'bhimānaśca krodhaḥ pāruṣyameva ca
+ajñānaṃ cābhijātasya pārtha sampadamāsurīm
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आसुरी (राक्षसी) स्वभाव के मुख्य लक्षणों का वर्णन कर रहे हैं। पाखंड, घमंड, क्रोध और अज्ञान जैसे दुर्गुण व्यक्ति को पतन की ओर ले जाते हैं। अर्जुन को 'पार्थ' कहकर वे सचेत करते हैं कि इन अवगुणों को पहचानकर इनसे दूर रहना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna describes the primary traits of a person born with a demoniac (asuric) disposition. Qualities like hypocrisy, pride, anger, and ignorance lead to spiritual degradation. By addressing Arjuna as 'Partha', Krishna prepares him to distinguish these negative traits from divine virtues.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दम्भः | पाखंड (दिखावा) |
+| दर्पः | घमंड |
+| अभिमानः | अहंकार |
+| च | और |
+| क्रोधः | क्रोध |
+| पारुष्यम् | कठोरता |
+| एव | ही |
+| च | और |
+| अज्ञानम् | अज्ञान |
+| च | और |
+| अभिजातस्य | उत्पन्न हुए पुरुष के |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| सम्पदम् | सम्पदा को (लक्षणों को) |
+| आसुरीम् | आसुरी (राक्षसी) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dambhaḥ | hypocrisy |
+| darpaḥ | arrogance |
+| abhimānaḥ | self-conceit |
+| ca | and |
+| krodhaḥ | anger |
+| pāruṣyam | harshness |
+| eva | indeed |
+| ca | and |
+| ajñānam | ignorance |
+| ca | and |
+| abhijātasya | of one born to |
+| pārtha | O son of Pritha (Arjuna) |
+| sampadam | qualities / wealth |
+| āsurīm | demoniac |
+

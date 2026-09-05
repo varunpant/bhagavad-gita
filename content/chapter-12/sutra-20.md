@@ -31,3 +31,55 @@ position: 489
 
 ```
 
+
+### Transliteration
+```
+ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate
+śraddadhānā matparamā bhaktāste'tīva me priyāḥ
+
+```
+
+### भावार्थ
+
+यह श्लोक भक्ति योग के बारहवें अध्याय का उपसंहार है। यहाँ भगवान कृष्ण स्पष्ट करते हैं कि जो भक्त इस अध्याय में वर्णित कल्याणकारी और अमृतमय उपदेशों का पूर्ण श्रद्धा के साथ आचरण करते हैं, वे उन्हें अत्यंत प्रिय हैं। भक्ति मार्ग पर चलने वाले साधकों के लिए यह आश्वासन परम गति की प्राप्ति का मार्ग प्रशस्त करता है।
+
+### Meaning
+
+This verse concludes the twelfth chapter on Bhakti Yoga. Lord Krishna declares that those devotees who faithfully practice the immortal nectar of dharma described in the preceding verses, keeping Him as their ultimate goal, are dearest to Him. It serves as a reassuring promise of divine love for those who embody these spiritual virtues.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ये | जो |
+| तु | परन्तु |
+| धर्म्य-अमृतम् | धर्ममय अमृत को |
+| इदम् | इस |
+| यथा-उक्तम् | जैसा कहा गया है (वैसा) |
+| पर्युपासते | भली-भाँति सेवन करते हैं (अनुसरण करते हैं) |
+| श्रद्दधानाः | श्रद्धा रखने वाले |
+| मत्-परमाः | मेरे परायण (मुझे ही परम आश्रय मानने वाले) |
+| भक्ताः | भक्त |
+| ते | वे |
+| अतीव | अत्यंत |
+| मे | मेरे लिए |
+| प्रियाः | प्रिय हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ye | who |
+| tu | but |
+| dharmya-amṛtam | nectar of dharma |
+| idam | this |
+| yathā-uktam | as declared |
+| paryupāsate | follow / worship |
+| śraddadhānāḥ | endowed with faith |
+| mat-paramāḥ | holding Me as supreme |
+| bhaktāḥ | devotees |
+| te | they |
+| atīva | exceedingly |
+| me | to Me |
+| priyāḥ | dear |
+

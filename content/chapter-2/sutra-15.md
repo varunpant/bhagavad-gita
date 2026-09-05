@@ -33,3 +33,53 @@ position: 62
 
 ```
 
+
+### Transliteration
+```
+yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha
+samaduḥkhasukhaṃ dhīraṃ so'mṛtatvāya kalpate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण भौतिक संसार के द्वंद्वों को सहन करने का परिणाम बताते हैं। जो व्यक्ति सुख और दुःख के क्षणिक अनुभवों से विचलित नहीं होता, वह आध्यात्मिक रूप से परिपक्व हो जाता है। ऐसा स्थिर और धीर व्यक्ति ही मोक्ष या अमरता प्राप्त करने का अधिकारी बनता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the result of tolerating the dualities of the material world. A person who remains undisturbed by the fleeting experiences of happiness and distress becomes spiritually mature. Such a steady and wise individual attains the qualification for liberation or immortality.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यम् | जिसको |
+| हि | निश्चय ही |
+| न | नहीं |
+| व्यथयन्ति | विचलित करते हैं |
+| एते | ये |
+| पुरुषम् | पुरुष को |
+| पुरुषर्षभ | हे पुरुषों में श्रेष्ठ |
+| समदुःखसुखम् | सुख और दुःख में समान रहने वाले |
+| धीरम् | धीर व्यक्ति को |
+| सः | वह |
+| अमृतत्वाय | अमरता के लिए |
+| कल्पते | योग्य होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yam | whom |
+| hi | certainly |
+| na | not |
+| vyathayanti | disturb |
+| ete | these |
+| puruṣam | the person |
+| puruṣarṣabha | O best among men |
+| samaduḥkhasukham | steady in happiness and distress |
+| dhīram | the wise one |
+| saḥ | he |
+| amṛtatvāya | for immortality |
+| kalpate | becomes eligible |
+

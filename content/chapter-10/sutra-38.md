@@ -31,3 +31,57 @@ position: 410
 
 ```
 
+
+### Transliteration
+```
+daṇḍo damayatāmasmi nītirasmi jigīṣatām
+maunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए शासन, नीति, रहस्य और ज्ञान के सर्वोत्तम रूपों को स्वयं का स्वरूप बताते हैं। वे दमन करने वालों की दण्ड-शक्ति हैं जो न्याय और व्यवस्था बनाए रखती है। वे विजय की इच्छा रखने वालों की नीति (नैतिक मार्ग) हैं, गुप्त रखने योग्य विषयों में मौन हैं, और ज्ञानियों का वास्तविक ज्ञान हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine manifestations by identifying Himself with the core essence of governance, strategy, secrecy, and wisdom. He is the power of punishment that maintains order, the moral policy of those seeking victory, the silence that guards secrets, and the actual wisdom of the wise.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दण्डः | दण्ड (सजा देने की शक्ति) |
+| दमयताम् | दमन करने वालों का |
+| अस्मि | हूँ |
+| नीतिः | नीति (न्यायपूर्ण मार्ग) |
+| अस्मि | हूँ |
+| जिगीषताम् | विजय चाहने वालों की |
+| मौनम् | मौन |
+| च | और |
+| एव | ही |
+| अस्मि | हूँ |
+| गुह्यानाम् | रहस्यों का / गुप्त रखने योग्य बातों का |
+| ज्ञानम् | ज्ञान |
+| ज्ञानवताम् | ज्ञानियों का |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| daṇḍaḥ | punishment (the rod of chastisement) |
+| damayatām | of those who punish/subdue |
+| asmi | I am |
+| nītiḥ | morality/statesmanship |
+| asmi | I am |
+| jigīṣatām | of those who seek victory |
+| maunam | silence |
+| ca | and |
+| eva | indeed |
+| asmi | I am |
+| guhyānām | of secrets |
+| jñānam | the wisdom |
+| jñānavatām | of the wise |
+| aham | I |
+

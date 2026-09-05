@@ -31,3 +31,55 @@ position: 151
 
 ```
 
+
+### Transliteration
+```
+ye tvetadabhyasūyanto nānutiṣṭhanti me matam
+sarvajñānavimūḍhāṃstānviddhi naṣṭānacetasaḥ
+
+```
+
+### भावार्थ
+
+श्रीकृष्ण चेतावनी देते हैं कि जो लोग ईर्ष्या या अहंकार के कारण उनके उपदेशों को नकारते हैं, उनका क्या परिणाम होता है। ऐसे व्यक्ति पूरी तरह से भ्रमित हो जाते हैं और अपना सारा सच्चा ज्ञान तथा विवेक खो बैठते हैं। अंततः, परम सत्य से दूर हो जाने के कारण उनका आध्यात्मिक पतन हो जाता है।
+
+### Meaning
+
+Krishna warns about the consequences of rejecting His teachings out of envy or arrogance. Such individuals become completely deluded, losing all true knowledge and discrimination. Ultimately, their spiritual progress is ruined because they disconnect themselves from the supreme truth.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ये | जो |
+| तु | परन्तु |
+| एतत् | इस |
+| अभ्यसूयन्तः | दोष निकालते हुए (ईर्ष्या करते हुए) |
+| न | नहीं |
+| अनुतिष्ठन्ति | पालन करते हैं |
+| मे | मेरे |
+| मतम् | मत का (उपदेश का) |
+| सर्वज्ञानविमूढान् | सम्पूर्ण ज्ञानों में भ्रमित |
+| तान् | उनको |
+| विद्धि | जानो |
+| नष्टान् | नष्ट हुए |
+| अचेतसः | अविवेकी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ye | those who |
+| tu | but |
+| etat | this |
+| abhyasūyantaḥ | out of envy |
+| na | not |
+| anutiṣṭhanti | follow |
+| me | my |
+| matam | teaching |
+| sarvajñānavimūḍhān | bewildered in all knowledge |
+| tān | them |
+| viddhi | know |
+| naṣṭān | ruined |
+| acetasaḥ | devoid of discrimination |
+

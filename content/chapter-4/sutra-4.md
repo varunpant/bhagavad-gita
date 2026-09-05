@@ -31,3 +31,60 @@ position: 166
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+aparaṃ bhavato janma paraṃ janma vivasvataḥ
+katham etad vijānīyāṃ tvam ādau proktavān iti
+
+```
+
+### भावार्थ
+
+अर्जुन श्रीकृष्ण और सूर्यदेव की शारीरिक आयु के आधार पर एक स्वाभाविक संदेह व्यक्त करते हैं। चूँकि श्रीकृष्ण का जन्म हाल ही में हुआ है और विवस्वान का जन्म लाखों वर्ष पूर्व हुआ था, इसलिए अर्जुन यह नहीं समझ पा रहे हैं कि श्रीकृष्ण ने उन्हें यह ज्ञान कैसे दिया। यह प्रश्न श्रीकृष्ण को अपने दिव्य स्वरूप और अवतार के रहस्य को प्रकट करने का अवसर प्रदान करता है।
+
+### Meaning
+
+Arjuna expresses a logical doubt based on the apparent physical ages of Krishna and the Sun God. Since Krishna was born recently and Vivasvan was born millions of years ago, Arjuna cannot comprehend how Krishna could have instructed him. This question sets the stage for Krishna to reveal His divine nature and the concept of avatars.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| अपरम् | बाद का (अर्वाचीन) |
+| भवतः | आपका |
+| जन्म | जन्म |
+| परम् | पहले का (प्राचीन) |
+| जन्म | जन्म |
+| विवस्वतः | सूर्यदेव का |
+| कथम् | कैसे |
+| एतत् | यह |
+| विजानीयाम् | मैं समझूँ |
+| त्वम् | आपने |
+| आदौ | आदि में |
+| प्रोक्तवान् | कहा था |
+| इति | ऐसा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| aparam | recent |
+| bhavataḥ | Your |
+| janma | birth |
+| param | ancient |
+| janma | birth |
+| vivasvataḥ | of Vivasvan (the sun god) |
+| katham | how |
+| etat | this |
+| vijānīyām | am I to understand |
+| tvam | You |
+| ādau | in the beginning |
+| proktavān | instructed |
+| iti | thus |
+

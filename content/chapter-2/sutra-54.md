@@ -31,3 +31,58 @@ position: 101
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+sthitaprajñasya kā bhāṣā samādhisthasya keśava
+sthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन श्रीकृष्ण से एक आत्मज्ञानी (स्थितप्रज्ञ) पुरुष के लक्षणों के बारे में चार विशिष्ट प्रश्न पूछते हैं। वह जानना चाहते हैं कि समाधि में स्थित व्यक्ति को उसके दैनिक व्यवहार, बोलचाल और उठने-बैठने के तरीके से कैसे पहचाना जा सकता है। यह प्रश्न अध्याय के शेष भाग में श्रीकृष्ण द्वारा दिए गए आत्मज्ञानी के विस्तृत वर्णन की पृष्ठभूमि तैयार करता है।
+
+### Meaning
+
+In this verse, Arjuna asks Krishna four specific questions about the characteristics of an enlightened person (Sthitaprajna). He wants to know how such a person can be recognized in daily life through their speech, actions, and demeanor. This sets the stage for Krishna's detailed description of a realized soul in the remainder of the chapter.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन ने |
+| उवाच | कहा |
+| स्थितप्रज्ञस्य | स्थिर प्रज्ञा वाले पुरुष का |
+| का | क्या |
+| भाषा | लक्षण है |
+| समाधिस्थस्य | समाधि में स्थित |
+| केशव | हे केशव |
+| स्थितधीः | स्थिर बुद्धि वाला पुरुष |
+| किम् | कैसे |
+| प्रभाषेत | बोलता है |
+| किम् | कैसे |
+| आसीत | बैठता है |
+| व्रजेत | चलता है |
+| किम् | कैसे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| sthitaprajñasya | of one whose wisdom is steady |
+| kā | what |
+| bhāṣā | is the description |
+| samādhisthasya | of one situated in samadhi |
+| keśava | O Keshava |
+| sthitadhīḥ | the man of steady intelligence |
+| kim | how |
+| prabhāṣeta | does he speak |
+| kim | how |
+| āsīta | does he sit |
+| vrajeta | does he walk |
+| kim | how |
+

@@ -34,3 +34,49 @@ to Krishna, O Lord of the earth.
 
 ```
 
+
+### Transliteration
+```
+atha vyavasthitān dṛṣṭvā dhārtarāṣṭrānkapidhvajaḥ
+pravṛtte śastrasaṃpāte dhanurudyamya pāṇḍavaḥ
+
+```
+
+### भावार्थ
+
+यह श्लोक युद्ध शुरू होने से ठीक पहले के अत्यंत महत्वपूर्ण क्षण का वर्णन करता है। कपिध्वज (हनुमान जी के चिह्न वाली ध्वजा) वाले रथ पर विराजमान अर्जुन कौरव सेना को युद्ध के लिए पूरी तरह तैयार देखते हैं। वे अपना धनुष गांडीव उठाते हैं, जो उनके युद्ध के लिए सन्नद्ध होने का संकेत है, और इसके तुरंत बाद वे श्रीकृष्ण से रथ को दोनों सेनाओं के बीच ले जाने का अनुरोध करते हैं।
+
+### Meaning
+
+This verse marks the critical moment just before the great war commences. Arjuna, seated on his chariot with Hanuman on his flag, observes the Kaurava army fully prepared for battle. He raises his bow, Gandiva, signaling his readiness to fight, which immediately precedes his request to Krishna to move the chariot between the two armies.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अथ | इसके बाद |
+| व्यवस्थितान् | व्यवस्थित (खड़े हुए) |
+| दृष्ट्वा | देखकर |
+| धार्तराष्ट्रान् | धृतराष्ट्र के पुत्रों को |
+| कपिध्वजः | हनुमान के चिह्न वाली ध्वजा वाले |
+| प्रवृत्ते | शुरू होने ही वाले |
+| शस्त्रसंपाते | शस्त्रों के प्रहार (के समय) |
+| धनुः | धनुष को |
+| उद्यम्य | उठाकर |
+| पाण्डवः | पाण्डु पुत्र (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| atha | then |
+| vyavasthitān | arrayed |
+| dṛṣṭvā | having seen |
+| dhārtarāṣṭrān | the sons of Dhritarashtra |
+| kapidhvajaḥ | he whose banner bears the emblem of Hanuman |
+| pravṛtte | being about to begin |
+| śastrasaṃpāte | the clash of weapons |
+| dhanuḥ | bow |
+| udyamya | having taken up |
+| pāṇḍavaḥ | the son of Pandu (Arjuna) |
+

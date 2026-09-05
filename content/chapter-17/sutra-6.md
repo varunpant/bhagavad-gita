@@ -31,3 +31,53 @@ position: 601
 
 ```
 
+
+### Transliteration
+```
+karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ
+māṃ caivāntaḥśarīrasthaṃ tān viddhyāsuraniścayān
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन लोगों की निंदा करते हैं जो शास्त्रों के विरुद्ध घोर तपस्या करते हैं। वे अपने शरीर के पंचमहाभूतों को कष्ट देते हैं और अंतःकरण में स्थित परमात्मा (कृष्ण) को भी क्लेश पहुँचाते हैं। ऐसे हठयोगियों या तपस्वियों को आसुरी निश्चय वाला समझना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna condemns those who perform severe, non-scriptural austerities. By doing so, they torture the physical elements of their own bodies and, by extension, the Supreme Soul dwelling within them. Such individuals are declared to possess demonic resolves and attitudes.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्षयन्तः | कष्ट देते हुए / दुर्बल करते हुए |
+| शरीरस्थम् | शरीर में स्थित |
+| भूतग्रामम् | इन्द्रिय और पंचभूतों के समूह को |
+| अचेतसः | विवेकहीन / मूर्ख लोग |
+| माम् | मुझको |
+| च | और |
+| एव | भी / ही |
+| अन्तः | भीतर |
+| शरीरस्थम् | शरीर में स्थित |
+| तान् | उनको |
+| विद्धि | जानो |
+| आसुरनिश्चयान् | आसुरी निश्चय वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karṣayantaḥ | torturing / weakening |
+| śarīrastham | situated in the body |
+| bhūtagrāmam | the group of elements |
+| acetasaḥ | the senseless / foolish |
+| mām | Me |
+| ca | and |
+| eva | also / indeed |
+| antaḥ | within |
+| śarīrastham | situated in the body |
+| tān | them |
+| viddhi | know |
+| āsuraniścayān | to be of demonic resolves |
+

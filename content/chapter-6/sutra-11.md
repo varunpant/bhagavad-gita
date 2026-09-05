@@ -31,3 +31,61 @@ position: 244
 
 ```
 
+
+### Transliteration
+```
+śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ
+nātyucchritaṃ nātinīcaṃ cailājinakuśottaram
+
+```
+
+### भावार्थ
+
+इस श्लोक में ध्यान के अभ्यास के लिए उपयुक्त स्थान और आसन की तैयारी का वर्णन किया गया है। साधक को एक शांत और पवित्र स्थान चुनना चाहिए जहाँ मन एकाग्र हो सके। आसन की ऊँचाई मध्यम होनी चाहिए और उस पर क्रमशः कुशा घास, मृगछाला और वस्त्र बिछाना चाहिए ताकि वह आरामदायक और स्थिर हो।
+
+### Meaning
+
+This verse describes the preparation of the physical seat and environment necessary for meditation. The practitioner is advised to choose a clean, sacred spot to aid mental concentration. The seat should be of moderate height and layered with kusha grass, a deerskin, and a soft cloth to ensure stability and comfort.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| शुचौ | पवित्र |
+| देशे | स्थान में |
+| प्रतिष्ठाप्य | स्थापित करके |
+| स्थिरम् | स्थिर |
+| आसनम् | आसन को |
+| आत्मनः | अपने लिए |
+| न | नहीं |
+| अति | बहुत |
+| उच्छ्रितम् | ऊँचा |
+| न | नहीं |
+| अति | बहुत |
+| नीचम् | नीचा |
+| चैल | वस्त्र |
+| अजिन | मृगछाला |
+| कुश | और कुशा घास |
+| उत्तरम् | एक के ऊपर एक बिछा हुआ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śucau | in a clean / sacred |
+| deśe | place |
+| pratiṣṭhāpya | having established |
+| sthiram | firm / steady |
+| āsanam | seat |
+| ātmanaḥ | for oneself |
+| na | not |
+| ati | too |
+| ucchritam | high |
+| na | not |
+| ati | too |
+| nīcam | low |
+| caila | cloth |
+| ajina | deerskin |
+| kuśa | and kusha grass |
+| uttaram | placed one over the other |
+

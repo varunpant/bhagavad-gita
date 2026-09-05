@@ -31,3 +31,60 @@ position: 391
 
 ```
 
+
+### Transliteration
+```
+śrībhagavānuvāca
+hanta te kathayiṣyāmi divyā hyātmavibhūtayaḥ
+prādhānyataḥ kuruśreṣṭha nāstyanto vistarasya me
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन के प्रश्न का उत्तर देना आरम्भ करते हैं। वे कहते हैं कि उनकी दिव्य विभूतियाँ अनंत हैं और उनका पूर्ण वर्णन करना असंभव है। इसलिए, वे केवल उन मुख्य और महत्वपूर्ण विभूतियों का वर्णन करेंगे जो अर्जुन के लिए समझने योग्य हैं।
+
+### Meaning
+
+In this verse, Lord Krishna begins to answer Arjuna's request about His divine opulences. He explains that His manifestations are limitless and cannot be fully described. Therefore, He promises to reveal only His most prominent and essential glories.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रीभगवान् | श्री भगवान् |
+| उवाच | ने कहा |
+| हन्त | हाँ / अब |
+| ते | तुम्हारे लिए |
+| कथयिष्यामि | मैं वर्णन करूँगा |
+| दिव्याः | अलौकिक / दिव्य |
+| हि | निश्चय ही |
+| आत्म-विभूतयः | अपनी विभूतियों को |
+| प्राधान्यतः | मुख्य-मुख्य |
+| कुरुश्रेष्ठ | हे कुरुश्रेष्ठ (अर्जुन) |
+| न | नहीं |
+| अस्ति | है |
+| अन्तः | अंत |
+| विस्तरस्य | विस्तार का |
+| मे | मेरे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| hanta | yes / now |
+| te | unto you |
+| kathayiṣyāmi | I shall speak |
+| divyāḥ | divine |
+| hi | indeed |
+| ātma-vibhūtayaḥ | My own opulences |
+| prādhānyataḥ | principally / in terms of prominence |
+| kuru-śreṣṭha | O best of the Kurus |
+| na | not |
+| asti | there is |
+| antaḥ | limit / end |
+| vistarasya | of the extent |
+| me | of Mine |
+

@@ -31,3 +31,61 @@ position: 255
 
 ```
 
+
+### Transliteration
+```
+yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ
+yasmin sthito na duḥkhena guruṇāpi vicālyate
+
+```
+
+### भावार्थ
+
+यह श्लोक समाधि की उस अवस्था का वर्णन करता है जहाँ साधक को परम आनंद की प्राप्ति होती है। इस अवस्था को प्राप्त करने के बाद संसार का कोई भी भौतिक सुख या लाभ उससे बड़ा नहीं लगता। साथ ही, इस आत्म-साक्षात्कार की स्थिति में स्थित योगी जीवन के सबसे बड़े दुखों और कष्टों से भी विचलित नहीं होता है।
+
+### Meaning
+
+This verse describes the state of ultimate samadhi or self-realization. Once this supreme state is attained, no worldly gain or pleasure seems superior to it. Furthermore, established in this divine consciousness, a yogi remains completely undisturbed even by the greatest of worldly miseries and calamities.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यम् | जिसको |
+| लब्ध्वा | प्राप्त करके |
+| च | और |
+| अपरम् | अन्य किसी |
+| लाभम् | लाभ को |
+| मन्यते | मानता है |
+| न | नहीं |
+| अधिकम् | अधिक |
+| ततः | उससे |
+| यस्मिन् | जिसमें |
+| स्थितः | स्थित होकर |
+| न | नहीं |
+| दुःखेन | दुःख से |
+| गुरुणा | भारी से भारी |
+| अपि | भी |
+| विचाल्यते | विचलित होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yam | which |
+| labdhvā | having obtained |
+| ca | and |
+| aparam | other |
+| lābham | gain |
+| manyate | he considers |
+| na | not |
+| adhikam | greater |
+| tataḥ | than that |
+| yasmin | in which |
+| sthitaḥ | established |
+| na | not |
+| duḥkhena | by sorrow |
+| guruṇā | by heavy |
+| api | even |
+| vicālyate | is shaken |
+

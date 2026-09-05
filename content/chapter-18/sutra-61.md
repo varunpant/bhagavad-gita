@@ -31,3 +31,47 @@ position: 684
 
 ```
 
+
+### Transliteration
+```
+īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati
+bhrāmayansarvabhūtāni yantrārūḍhāni māyayā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि परमेश्वर प्रत्येक जीव के हृदय में निवास करते हैं। वे अपनी दिव्य माया शक्ति से सभी जीवों को उनके कर्मों के अनुसार संसार रूपी चक्र में घुमाते हैं, जैसे कोई कठपुतली या यंत्र पर आरूढ़ व्यक्ति घूमता है। इसलिए मनुष्य को अपने अहंकार को त्यागकर उस परमेश्वर की शरण में जाना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that the Supreme Lord resides within the heart of every living being. Using His material energy (maya), He directs the wanderings of all living entities, who are seated as on a machine made of material energy. This emphasizes the supreme control of God and the need for surrender, moving away from individual ego.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ईश्वरः | परमेश्वर |
+| सर्व-भूतानाम् | सभी प्राणियों के |
+| हृद्-देशे | हृदय रूपी स्थान में |
+| अर्जुन | हे अर्जुन |
+| तिष्ठति | स्थित है |
+| भ्रामयन् | भ्रमण कराते हुए |
+| सर्व-भूतानि | सभी प्राणियों को |
+| यन्त्र-आरूढानि | यन्त्र पर चढ़े हुओं को |
+| मायया | अपनी माया शक्ति से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| īśvaraḥ | the Supreme Lord |
+| sarva-bhūtānām | of all living beings |
+| hṛd-deśe | in the region of the heart |
+| arjuna | O Arjuna |
+| tiṣṭhati | resides |
+| bhrāmayan | causing to travel / spin |
+| sarva-bhūtāni | all living beings |
+| yantra-ārūḍhāni | mounted on a machine |
+| māyayā | by His illusory power |
+

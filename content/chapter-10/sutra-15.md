@@ -31,3 +31,51 @@ position: 387
 
 ```
 
+
+### Transliteration
+```
+svayam evātmanātmānaṃ vettha tvaṃ puruṣottama
+bhūtabhāvana bhūteśa devadeva jagatpate
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण की महिमा का गान करते हुए कहते हैं कि कोई भी अन्य जीव भगवान के वास्तविक स्वरूप को नहीं जान सकता। केवल भगवान कृष्ण ही अपनी अचिन्त्य शक्ति से स्वयं को पूर्णतः जानने में समर्थ हैं। अर्जुन उन्हें विभिन्न दिव्य संबोधनों से पुकारते हैं जो उनकी सर्वोच्चता को दर्शाते हैं।
+
+### Meaning
+
+In this verse, Arjuna glorifies Lord Krishna, acknowledging that no ordinary living being can comprehend the Supreme Lord's true nature. Only Krishna knows Himself through His own internal potency. Arjuna addresses Him with five magnificent titles, emphasizing His absolute supremacy over all creation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| स्वयम् | स्वयं |
+| एव | ही |
+| आत्मना | अपने द्वारा (अपनी बुद्धि से) |
+| आत्मानम् | अपने आपको |
+| वेत्थ | जानते हैं |
+| त्वम् | आप |
+| पुरुष-उत्तम | हे पुरुषों में उत्तम (पुरुषोत्तम) |
+| भूत-भावन | हे जीवों को उत्पन्न करने वाले |
+| भूत-ईश | हे जीवों के स्वामी |
+| देव-देव | हे देवों के देव |
+| जगत्-पते | हे ब्रह्मांड के स्वामी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| svayam | Yourself |
+| eva | indeed |
+| ātmanā | by Yourself |
+| ātmānam | Yourself |
+| vettha | know |
+| tvam | You |
+| puruṣa-uttama | O Supreme Person |
+| bhūta-bhāvana | O Creator of all beings |
+| bhūta-īśa | O Lord of all beings |
+| deva-deva | O God of gods |
+| jagat-pate | O Lord of the universe |
+

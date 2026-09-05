@@ -31,3 +31,57 @@ position: 691
 
 ```
 
+
+### Transliteration
+```
+ya imaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati
+bhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण गीता के ज्ञान के प्रचार-प्रसार की महिमा का वर्णन कर रहे हैं। जो व्यक्ति इस परम गोपनीय ज्ञान को भगवान के भक्तों के बीच श्रद्धापूर्वक साझा करता है, वह भगवान की सर्वोच्च भक्ति प्राप्त करता है। अंततः, ऐसा निष्काम प्रचारक बिना किसी संशय के भगवान के परम धाम को प्राप्त होता है।
+
+### Meaning
+
+In this verse, Lord Krishna declares the supreme merit of sharing and teaching the knowledge of the Bhagavad Gita. Anyone who explains this confidential and sacred dialogue to His devotees is considered to be performing the highest form of devotional service. Consequently, such a person will undoubtedly attain union with the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| इमम् | इस |
+| परमम् | परम |
+| गुह्यम् | गोपनीय रहस्य को |
+| मद्भक्तेषु | मेरे भक्तों में |
+| अभिधास्यति | उपदेश करेगा |
+| भक्तिम् | भक्ति को |
+| मयि | मेरे प्रति |
+| पराम् | परम |
+| कृत्वा | करके |
+| माम् | मुझको |
+| एव | ही |
+| एष्यति | प्राप्त होगा |
+| असंशयः | निःसंदेह |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| imam | this |
+| paramam | supreme |
+| guhyam | secret |
+| mad-bhakteṣu | among My devotees |
+| abhidhāsyati | will teach |
+| bhaktim | devotion |
+| mayi | unto Me |
+| parām | supreme |
+| kṛtvā | having performed |
+| mām | Me |
+| eva | alone |
+| eṣyati | will attain |
+| asaṃśayaḥ | without doubt |
+

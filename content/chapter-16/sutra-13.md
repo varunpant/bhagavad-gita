@@ -31,3 +31,59 @@ position: 584
 
 ```
 
+
+### Transliteration
+```
+idam adya mayā labdham imaṃ prāpsye manoratham
+idam astīdam api me bhaviṣyati punar dhanam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण आसुरी प्रवृत्ति वाले मनुष्यों की सोच का वर्णन कर रहे हैं। आसुरी स्वभाव के लोग सदैव अपनी सांसारिक उपलब्धियों और भविष्य की योजनाओं के अहंकार में डूबे रहते हैं। वे सोचते हैं कि आज उन्होंने बहुत कुछ हासिल कर लिया है और आगे भी अपनी सारी इच्छाएं पूरी कर लेंगे, तथा उनका धन निरंतर बढ़ता रहेगा।
+
+### Meaning
+
+In this verse, Lord Krishna describes the mindset of individuals with demoniac tendencies. Such people are constantly obsessed with their material acquisitions and future plans, driven by ego and greed. They falsely believe that they are the doers, boasting about what they have acquired today and how they will accumulate even more wealth and fulfill all their desires in the future.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इदम् | यह |
+| अद्य | आज |
+| मया | मेरे द्वारा |
+| लब्धम् | प्राप्त किया गया है |
+| इमम् | इस |
+| प्राप्स्ये | मैं प्राप्त करूँगा |
+| मनोरथम् | मनोकामना को |
+| इदम् | यह |
+| अस्ति | है |
+| इदम् | यह |
+| अपि | भी |
+| मे | मेरा |
+| भविष्यति | हो जाएगा |
+| पुनः | फिर से |
+| धनम् | धन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| idam | this |
+| adya | today |
+| mayā | by me |
+| labdham | has been gained |
+| imam | this |
+| prāpsye | I shall obtain |
+| manoratham | desire (of the mind) |
+| idam | this |
+| asti | is |
+| idam | this |
+| api | also |
+| me | mine |
+| bhaviṣyati | will be |
+| punaḥ | again |
+| dhanam | wealth |
+

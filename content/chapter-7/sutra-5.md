@@ -31,3 +31,59 @@ position: 285
 
 ```
 
+
+### Transliteration
+```
+apareyamitastvanyāṃ prakṛtiṃ viddhi me parām
+jīvabhūtāṃ mahābāho yayedaṃ dhāryate jagat
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी दो प्रकार की शक्तियों का वर्णन कर रहे हैं। पिछले श्लोक में बताई गई आठ प्रकार की प्रकृति (पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार) उनकी 'अपरा' यानी भौतिक और जड़ प्रकृति है। इस श्लोक में वे अर्जुन को अपनी 'परा' यानी आध्यात्मिक और चेतन प्रकृति के विषय में बता रहे हैं, जो कि जीवशक्ति है और जो इस भौतिक जगत् को क्रियाशील रखती है।
+
+### Meaning
+
+In this verse, Lord Krishna distinguishes between His two energies. Having described His lower, material nature (apara prakriti) consisting of eight elements in the previous verse, He now introduces His higher, spiritual nature (para prakriti). This higher energy consists of the living entities (jivas) who animate and sustain the material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अपरा | निम्न (जड़) |
+| इयम् | यह |
+| इतः | इससे |
+| तु | लेकिन |
+| अन्याम् | दूसरी (भिन्न) |
+| प्रकृतिम् | प्रकृति को |
+| विद्धि | जानो |
+| मे | मेरी |
+| पराम् | उच्च (परा) |
+| जीव-भूताम् | जीवस्वरूपा को |
+| महाबाहो | हे महाबाहो (अर्जुन) |
+| यया | जिसके द्वारा |
+| इदम् | यह |
+| धार्यते | धारण किया जाता है |
+| जगत् | जगत् |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aparā | inferior |
+| iyam | this |
+| itaḥ | from this |
+| tu | but |
+| anyām | another |
+| prakṛtim | energy |
+| viddhi | know |
+| me | My |
+| parām | superior |
+| jīva-bhūtām | comprising the living entities |
+| mahābāho | O mighty-armed one |
+| yayā | by which |
+| idam | this |
+| dhāryate | is sustained |
+| jagat | the universe |
+

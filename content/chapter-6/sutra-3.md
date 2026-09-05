@@ -31,3 +31,53 @@ position: 236
 
 ```
 
+
+### Transliteration
+```
+ārurukṣormuner yogaṃ karma kāraṇam ucyate
+yogārūḍhasya tasyaiva śamaḥ kāraṇam ucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण योग की साधना के दो चरणों का वर्णन करते हैं। जो साधक योग मार्ग पर अभी शुरुआत कर रहा है (आरुरुक्षु), उसके लिए निष्काम कर्म करना अत्यंत आवश्यक है क्योंकि कर्म से ही चित्त की शुद्धि होती है। इसके विपरीत, जो साधक योग की पराकाष्ठा पर पहुँच चुका है (योगारूढ़), उसके लिए ध्यान और मानसिक शांति (शम) ही आगे की प्रगति का साधन बनती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the two stages of spiritual progress on the path of Yoga. For an aspiring seeker who wishes to ascend the heights of Yoga, performing selfless action (Karma) is said to be the essential means for purifying the mind. However, for the advanced yogi who has already attained union (Yogarudha), tranquility, meditation, and the cessation of external activities become the means for deeper absorption.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आरुरुक्षोः | चढ़ने की इच्छा रखने वाले के लिए |
+| मुनेः | मननशील पुरुष (मुनि) के लिए |
+| योगम् | योग को |
+| कर्म | निष्काम कर्म |
+| कारणम् | साधन (कारण) |
+| उच्यते | कहा जाता है |
+| योग-आरूढस्य | योग में आरूढ़ हो चुके |
+| तस्य | उस |
+| एव | ही (पुरुष के लिए) |
+| शमः | शम (मानसिक शांति या कर्मों का उपशम) |
+| कारणम् | साधन |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ārurukṣoḥ | of one who wishes to ascend |
+| muneḥ | of the sage |
+| yogam | to Yoga |
+| karma | action |
+| kāraṇam | the cause / means |
+| ucyate | is said to be |
+| yoga-ārūḍhasya | of one who has ascended to Yoga |
+| tasya | of him |
+| eva | indeed |
+| śamaḥ | tranquility / cessation of action |
+| kāraṇam | the cause / means |
+| ucyate | is said to be |
+

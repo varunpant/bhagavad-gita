@@ -33,3 +33,57 @@ spoke this, sorrowfully filled with deep pity.
 
 ```
 
+
+### Transliteration
+```
+śvaśurān suhṛdaś caiva senayor ubhayor api
+tān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन द्वारा कुरुक्षेत्र के युद्ध के मैदान में अपने सगे-संबंधियों को देखने का वर्णन जारी है। वह दोनों पक्षों की सेनाओं में अपने ससुरों, मित्रों और अन्य सभी पारिवारिक सदस्यों को युद्ध के लिए तैयार खड़े देखते हैं। अपने ही प्रियजनों को इस प्रकार मृत्यु के मुख में खड़ा देखकर अर्जुन के मन में गहरी करुणा और विषाद उत्पन्न होने लगता है।
+
+### Meaning
+
+This verse continues the description of Arjuna observing his relatives on the battlefield of Kurukshetra. He sees his fathers-in-law, well-wishers, and all other family members stationed in the armies of both sides. Witnessing his own loved ones prepared for a deadly war sets the stage for the deep compassion and sorrow that soon overwhelms him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्वशुरान् | ससुरों को |
+| सुहृदः | मित्रों को |
+| च | और |
+| एव | भी |
+| सेनयोः | सेनाओं में |
+| उभयोः | दोनों |
+| अपि | भी |
+| तान् | उन |
+| समीक्ष्य | देखकर |
+| सः | वह |
+| कौन्तेयः | कुन्तीपुत्र (अर्जुन) |
+| सर्वान् | सभी |
+| बन्धून् | बन्धु-बान्धवों को |
+| अवस्थितान् | उपस्थित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śvaśurān | fathers-in-law |
+| suhṛdaḥ | well-wishers |
+| ca | and |
+| eva | also |
+| senayoḥ | in the armies |
+| ubhayoḥ | in both |
+| api | also |
+| tān | them |
+| samīkṣya | having seen |
+| saḥ | he |
+| kaunteyaḥ | son of Kunti (Arjuna) |
+| sarvān | all |
+| bandhūn | relatives |
+| avasthitān | situated |
+

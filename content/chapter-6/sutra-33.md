@@ -31,3 +31,62 @@ position: 266
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+yo'yaṃ yogastvayā proktaḥ sāmyena madhusūdana
+etasyāhaṃ na paśyāmi cañcalatvāt sthitiṃ sthirām
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के समक्ष अपनी व्यावहारिक कठिनाई को प्रकट करते हैं। कृष्ण ने जिस समत्व योग (मन की समता) का उपदेश दिया है, अर्जुन को लगता है कि मन की अत्यंत चंचल प्रकृति के कारण उसे स्थायी रूप से प्राप्त करना असंभव है। यह मानव मन की स्वाभाविक अस्थिरता को दर्शाता है जो आध्यात्मिक साधना में सबसे बड़ी बाधा है।
+
+### Meaning
+
+In this verse, Arjuna expresses his practical difficulty to Lord Krishna. He points out that the yoga of equanimity (samatva) described by Krishna seems impossible to maintain permanently because of the inherently restless and turbulent nature of the human mind. This highlights the universal struggle of spiritual seekers in controlling the mind.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| यः | जो |
+| अयम् | यह |
+| योगः | योग |
+| त्वया | आपके द्वारा |
+| प्रोक्तः | कहा गया है |
+| साम्येन | समभाव से |
+| मधुसूदन | हे मधुसूदन (कृष्ण) |
+| एतस्य | इसकी |
+| अहम् | मैं |
+| न | नहीं |
+| पश्यामि | देखता हूँ |
+| चञ्चलत्वात् | चंचलता के कारण |
+| स्थितिम् | स्थिति को |
+| स्थिराम् | स्थिर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| yaḥ | which |
+| ayam | this |
+| yogaḥ | system of yoga |
+| tvayā | by You |
+| proktaḥ | described |
+| sāmyena | by equanimity |
+| madhusūdana | O Madhusūdana (killer of the Madhu demon) |
+| etasya | of this |
+| aham | I |
+| na | not |
+| paśyāmi | see |
+| cañcalatvāt | due to restlessness |
+| sthitim | foundation / existence |
+| sthirām | stable / lasting |
+

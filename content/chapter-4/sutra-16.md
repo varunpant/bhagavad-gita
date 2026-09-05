@@ -31,3 +31,63 @@ position: 178
 
 ```
 
+
+### Transliteration
+```
+kiṃ karma kimakarmeti kavayo'pyatra mohitāḥ
+tatte karma pravakṣyāmi yajjñātvā mokṣyase'śubhāt
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को कर्म की गहनता समझा रहे हैं। वे कहते हैं कि कर्म और अकर्म का सही स्वरूप समझना इतना कठिन है कि बड़े-बड़े विद्वान भी इसमें भ्रमित हो जाते हैं। इसलिए, कृष्ण स्वयं उस कर्म के रहस्य को उजागर करने का वचन देते हैं, जिसे जानकर मनुष्य संसार के सभी अशुभ बंधनों से मुक्त हो सकता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the profound nature of action to Arjuna. He states that the true essence of action and inaction is so difficult to comprehend that even great scholars and wise men are bewildered by it. Therefore, Krishna promises to reveal the secret of action, knowing which one can be liberated from all the inauspicious bondage of the material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| किम् | क्या |
+| कर्म | कर्म |
+| किम् | क्या |
+| अकर्म | अकर्म |
+| इति | इस प्रकार |
+| कवयः | बुद्धिमान लोग |
+| अपि | भी |
+| अत्र | इस विषय में |
+| मोहिताः | मोहित हैं |
+| तत् | वह |
+| ते | तुम्हें |
+| कर्म | कर्म |
+| प्रवक्ष्यामि | मैं भलीभाँति कहूँगा |
+| यत् | जिसे |
+| ज्ञात्वा | जानकर |
+| मोक्ष्यसे | तुम मुक्त हो जाओगे |
+| अशुभात् | अशुभ से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kim | what |
+| karma | action |
+| kim | what |
+| akarma | inaction |
+| iti | thus |
+| kavayaḥ | the wise |
+| api | even |
+| atra | in this matter |
+| mohitāḥ | are deluded |
+| tat | that |
+| te | to you |
+| karma | action |
+| pravakṣyāmi | I shall explain |
+| yat | which |
+| jñātvā | having known |
+| mokṣyase | you will be liberated |
+| aśubhāt | from evil |
+

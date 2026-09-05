@@ -31,3 +31,65 @@ position: 55
 
 ```
 
+
+### Transliteration
+```
+na hi prapaśyāmi mamāpanudyā dyacchokamucchoṣaṇamindriyāṇām
+avāpya bhūmāvasapatnamṛddham rājyaṃ surāṇāmapi cādhipatyam
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण के समक्ष अपनी गहरी निराशा और असहायता व्यक्त करते हैं। उनका मानना है कि पृथ्वी पर एक निष्कंटक और समृद्ध राज्य या स्वर्ग में देवताओं का स्वामित्व प्राप्त करने के बाद भी उनका यह शोक दूर नहीं होगा जो उनकी इन्द्रियों को सुखा रहा है। यह श्लोक दर्शाता है कि अर्जुन को यह अहसास हो गया है कि भौतिक उपलब्धियाँ उनके नैतिक और आध्यात्मिक संकट का समाधान नहीं कर सकतीं।
+
+### Meaning
+
+Arjuna expresses his deep despair and helplessness to Lord Krishna. He feels that no material gain, not even an undisputed, prosperous kingdom on earth or the supreme power of the gods in heaven, can cure the profound grief that is paralyzing his senses. This highlights his realization that worldly achievements are insufficient to solve his moral and spiritual crisis.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| हि | निश्चय ही |
+| प्रपश्यामि | मैं देखता हूँ |
+| मम | मेरे |
+| अपनुद्यात् | दूर कर सके |
+| यत् | जो |
+| शोकम् | शोक को |
+| उच्छोषणम् | सुखाने वाले |
+| इन्द्रियाणाम् | इन्द्रियों को |
+| अवाप्य | प्राप्त करके |
+| भूमौ | पृथ्वी पर |
+| असपत्नम् | शत्रुरहित |
+| ऋद्धम् | समृद्ध |
+| राज्यम् | राज्य को |
+| सुराणाम् | देवताओं के |
+| अपि | भी |
+| च | और |
+| आधिपत्यम् | आधिपत्य को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| hi | certainly |
+| prapaśyāmi | I see |
+| mama | my |
+| apanudyāt | can drive away |
+| yat | that which |
+| śokam | sorrow |
+| ucchoṣaṇam | drying up |
+| indriyāṇām | of the senses |
+| avāpya | having obtained |
+| bhūmau | on the earth |
+| asapatnam | unrivaled |
+| ṛddham | prosperous |
+| rājyam | kingdom |
+| surāṇām | of the gods |
+| api | even |
+| ca | and |
+| ādhipatyam | sovereignty |
+

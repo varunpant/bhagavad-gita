@@ -31,3 +31,43 @@ position: 675
 
 ```
 
+
+### Transliteration
+```
+viviktasevī laghvāśī yatavākkāyamānasaḥ
+dhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में ज्ञाननिष्ठा की सिद्धि के लिए आवश्यक साधनों का वर्णन किया गया है। साधक को एकांतप्रिय होना चाहिए और अपनी शारीरिक आवश्यकताओं जैसे भोजन पर नियंत्रण रखना चाहिए। उसे अपने मन, वाणी और शरीर को संयमित रखकर निरंतर ध्यान योग में लीन रहना चाहिए तथा संसार के प्रति वैराग्य भाव को सुदृढ़ करना चाहिए।
+
+### Meaning
+
+This verse describes the essential disciplines required for establishing oneself in the path of knowledge. The seeker is advised to live in solitude, eat moderately, and master control over speech, body, and mind. By constantly practicing meditation and cultivating a deep sense of dispassion toward worldly objects, one prepares the mind for ultimate self-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| विविक्त-सेवी | एकांत स्थान का सेवन करने वाला |
+| लघु-आशी | अल्प भोजन करने वाला (मितहारी) |
+| यत-वाक-काय-मानसः | संयमित वाणी, शरीर और मन वाला |
+| ध्यान-योग-परः | ध्यान योग के परायण |
+| नित्यम् | निरंतर |
+| वैराग्यम् | वैराग्य को |
+| समुपाश्रितः | भली-भांति आश्रय लिए हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vivikta-sevī | resorting to solitary places |
+| laghu-āśī | eating lightly |
+| yata-vāk-kāya-mānasaḥ | controlling speech, body, and mind |
+| dhyāna-yoga-paraḥ | absorbed in the yoga of meditation |
+| nityam | constantly |
+| vairāgyam | dispassion |
+| samupāśritaḥ | having taken firm refuge in |
+

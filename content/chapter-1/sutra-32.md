@@ -32,3 +32,63 @@ Of what avail is dominion to us, O Krishna, or pleasures or even life?
 
 ```
 
+
+### Transliteration
+```
+na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca
+kiṃ no rājyena govinda kiṃ bhogairjīvitena vā
+
+```
+
+### भावार्थ
+
+अर्जुन युद्ध के परिणामों से अत्यंत विचलित हो जाते हैं और अपने स्वजनों को मारने के विचार से कांप उठते हैं। वह भगवान कृष्ण से कहते हैं कि उन्हें ऐसा राज्य, सुख या विजय नहीं चाहिए जो अपने ही गुरुजनों और संबंधियों के रक्त से सना हो।
+
+### Meaning
+
+Arjuna becomes deeply disturbed by the potential consequences of the war and shudders at the thought of killing his own kinsmen. He expresses to Lord Krishna that he has no desire for a kingdom, happiness, or victory that comes at the cost of the lives of his relatives and teachers.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| काङ्क्षे | चाहता हूँ |
+| विजयम् | विजय |
+| कृष्ण | हे कृष्ण |
+| न | न |
+| च | और |
+| राज्यम् | राज्य |
+| सुखानि | सुखों को |
+| च | तथा |
+| किम् | क्या प्रयोजन |
+| नः | हमें |
+| राज्येन | राज्य से |
+| गोविन्द | हे गोविन्द |
+| किम् | क्या लाभ |
+| भोगैः | भोगों से |
+| जीवितेन | जीवन से |
+| वा | अथवा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| kāṅkṣe | do I desire |
+| vijayam | victory |
+| kṛṣṇa | O Krishna |
+| na | nor |
+| ca | and |
+| rājyam | kingdom |
+| sukhāni | pleasures |
+| ca | also |
+| kim | what use |
+| naḥ | to us |
+| rājyena | with kingdom |
+| govinda | O Govinda |
+| kim | what |
+| bhogaiḥ | with pleasures |
+| jīvitena | with life |
+| vā | or |
+

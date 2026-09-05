@@ -31,3 +31,57 @@ position: 560
 
 ```
 
+
+### Transliteration
+```
+śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇam eva ca
+adhiṣṭhāya manaś cāyaṃ viṣayān upasevate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जीवात्मा शरीर बदलते समय अपने साथ मन और इन्द्रियों को ले जाता है। वह इन पाँच ज्ञानेन्द्रियों और मन के माध्यम से ही भौतिक संसार के शब्द, रूप, स्पर्श, रस और गंध आदि विषयों का भोग करता है। मन के बिना इन्द्रियाँ अपने विषयों को ग्रहण नहीं कर सकतीं, इसलिए मन को इन्द्रियों का राजा माना गया है।
+
+### Meaning
+
+In this verse, Lord Krishna explains how the individual soul (jiva) experiences the material world. By presiding over the five senses—hearing, sight, touch, taste, and smell—along with the mind, the soul interacts with and enjoys sensory objects. The mind acts as the central coordinator, without which the senses cannot function or perceive.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रोत्रम् | कान |
+| चक्षुः | आँख |
+| स्पर्शनम् | त्वचा (स्पर्श इन्द्रिय) |
+| च | और |
+| रसनम् | जीभ (रस इन्द्रिय) |
+| घ्राणम् | नाक (गंध इन्द्रिय) |
+| एव | भी |
+| च | और |
+| अधिष्ठाय | आश्रय लेकर (अधिष्ठित होकर) |
+| मनः | मन को |
+| च | और |
+| अयम् | यह (जीवात्मा) |
+| विषयान् | इन्द्रिय विषयों का |
+| उपसेवते | भोग करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrotram | the ear |
+| cakṣuḥ | the eye |
+| sparśanam | the sense of touch |
+| ca | and |
+| rasanam | the tongue (sense of taste) |
+| ghrāṇam | the nose (sense of smell) |
+| eva | indeed |
+| ca | and |
+| adhiṣṭhāya | presiding over |
+| manaḥ | the mind |
+| ca | and |
+| ayam | this (living entity) |
+| viṣayān | sense objects |
+| upasevate | experiences / enjoys |
+

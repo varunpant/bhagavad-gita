@@ -31,3 +31,55 @@ position: 84
 
 ```
 
+
+### Transliteration
+```
+hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm
+tasmāduttiṣṭha kaunteya yuddhāya kṛtaniścayaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को क्षत्रिय धर्म का पालन करने के दोनों संभावित परिणामों के लाभ बताते हैं। यदि वह युद्ध में वीरगति को प्राप्त होता है, तो उसे स्वर्ग मिलेगा, और यदि वह विजयी होता है, तो वह पृथ्वी के राज्य का आनंद लेगा। दोनों ही स्थितियों में उसका लाभ है, इसलिए उसे अपनी शंकाओं को त्याग कर युद्ध के लिए तत्पर होना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna the benefits of both possible outcomes of fulfilling his duty as a warrior. If he is killed in battle, he will attain heaven, and if he is victorious, he will enjoy the earthly kingdom. Since both scenarios are advantageous, he must cast aside his doubts and stand up with a firm determination to fight.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| हतः | मारे जाकर |
+| वा | या |
+| प्राप्स्यसि | प्राप्त करोगे |
+| स्वर्गम् | स्वर्ग को |
+| जित्वा | जीतकर |
+| वा | या |
+| भोक्ष्यसे | भोगोगे |
+| महीम् | पृथ्वी को |
+| तस्मात् | इसलिए |
+| उत्तिष्ठ | उठ खड़े हो |
+| कौन्तेय | हे कुन्तीपुत्र |
+| युद्धाय | युद्ध के लिए |
+| कृतनिश्चयः | दृढ़ निश्चय करके |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| hataḥ | slain |
+| vā | or |
+| prāpsyasi | you will attain |
+| svargam | heaven |
+| jitvā | having conquered |
+| vā | or |
+| bhokṣyase | you will enjoy |
+| mahīm | the earth |
+| tasmāt | therefore |
+| uttiṣṭha | arise |
+| kaunteya | O son of Kunti |
+| yuddhāya | for battle |
+| kṛtaniścayaḥ | with a firm resolve |
+

@@ -31,3 +31,51 @@ position: 96
 
 ```
 
+
+### Transliteration
+```
+dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya
+buddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सकाम कर्म (फल की इच्छा से किए गए कार्य) की तुलना में बुद्धियोग (समत्व भाव) की श्रेष्ठता बताते हैं। वे अर्जुन को सलाह देते हैं कि वह परिणामों की चिंता से मुक्त होकर समबुद्धि की शरण ले। जो लोग केवल कर्मफलों की लालसा से कार्य करते हैं, उन्हें 'कृपण' या अत्यंत दीन कहा गया है क्योंकि वे अपने अमूल्य मानव जीवन को तुच्छ भौतिक लाभों में व्यर्थ कर देते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the superiority of acting with equanimity (buddhi-yoga) over acting for material rewards. He advises Arjuna to take refuge in this balanced state of consciousness, free from the anxiety of results. Those who constantly crave the fruits of their actions are described as 'misers' or pitiable, because they waste their human potential on temporary gains rather than spiritual liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दूरेण | अत्यंत / बहुत दूर |
+| हि | निश्चय ही |
+| अवरम् | निम्न कोटि का / तुच्छ |
+| कर्म | सकाम कर्म |
+| बुद्धियोगात् | बुद्धियोग से / समत्व बुद्धि से |
+| धनञ्जय | हे अर्जुन |
+| बुद्धौ | समबुद्धि में |
+| शरणम् | आश्रय / शरण |
+| अन्विच्छ | खोजो / ग्रहण करो |
+| कृपणाः | कृपण / दीन |
+| फलहेतवः | फल के हेतु वाले / फल की इच्छा रखने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dūreṇa | by far |
+| hi | indeed |
+| avaram | inferior |
+| karma | action / fruitive work |
+| buddhiyogāt | than the yoga of intelligence / equanimity |
+| dhanañjaya | O conqueror of wealth |
+| buddhau | in intelligence / equanimity |
+| śaraṇam | refuge |
+| anviccha | seek |
+| kṛpaṇāḥ | misers / pitiable ones |
+| phalahetavaḥ | those motivated by fruits of action |
+

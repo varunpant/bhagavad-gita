@@ -31,3 +31,69 @@ position: 338
 
 ```
 
+
+### Transliteration
+```
+vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam
+atyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam
+
+```
+
+### भावार्थ
+
+इस अध्याय के अंत में भगवान कृष्ण अर्जुन को भक्ति मार्ग की महिमा बताते हैं। वे कहते हैं कि वेदों के अध्ययन, यज्ञ, तप और दान आदि से जो भी पुण्य फल प्राप्त होते हैं, वे सभी अनित्य हैं। परंतु जो योगी इस अध्याय में बताए गए परमेश्वर के रहस्य को जान लेता है, वह इन सभी फलों को लांघकर सीधे भगवान के परम सनातन धाम को प्राप्त करता है।
+
+### Meaning
+
+In this concluding verse of the eighth chapter, Lord Krishna highlights the supreme efficacy of spiritual knowledge and devotion. While Vedic studies, sacrifices, austerities, and charities yield meritorious results, they are temporary. The yogi who understands the truths of this chapter transcends all these finite rewards and directly attains the eternal, primeval abode of the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वेदेषु | वेदों के अध्ययन में |
+| यज्ञेषु | यज्ञों के अनुष्ठान में |
+| तपःसु | तपस्याओं में |
+| च | और |
+| एव | भी |
+| दानेषु | दानों में |
+| यत् | जो |
+| पुण्य-फलम् | पुण्य का फल |
+| प्रदिष्टम् | कहा गया है |
+| अत्येति | पार कर जाता है |
+| तत् | उस |
+| सर्वम् | सबको |
+| इदम् | इस (रहस्य) |
+| विदित्वा | जानकर |
+| योगी | योगी |
+| परम् | परम |
+| स्थानम् | धाम को |
+| उपैति | प्राप्त करता है |
+| च | और |
+| आद्यम् | आदि (सनातन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vedeṣu | in the study of the Vedas |
+| yajñeṣu | in the performances of sacrifices |
+| tapaḥsu | in the practices of austerities |
+| ca | and |
+| eva | indeed |
+| dāneṣu | in the giving of charities |
+| yat | which |
+| puṇya-phalam | fruit of merit |
+| pradiṣṭam | is declared |
+| atyeti | transcends |
+| tat | that |
+| sarvam | all |
+| idam | this |
+| viditvā | having known |
+| yogī | the yogi |
+| param | supreme |
+| sthānam | abode |
+| upaiti | attains |
+| ca | and |
+| ādyam | primeval |
+

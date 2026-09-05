@@ -31,3 +31,57 @@ position: 518
 
 ```
 
+
+### Transliteration
+```
+samaṃ paśyan hi sarvatra samavasthitam īśvaram
+na hinasty ātmanā'tmānaṃ tato yāti parāṃ gatim
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जो व्यक्ति सभी प्राणियों में एक ही परमात्मा को समान रूप से देखता है, वह कभी भी अज्ञानवश अपने वास्तविक स्वरूप (आत्मा) को हानि नहीं पहुँचाता। ऐसा समदर्शी पुरुष सांसारिक बंधनों से मुक्त होकर परम गति अर्थात् मोक्ष को प्राप्त करता है। आत्म-साक्षात्कार का यह मार्ग समता की दृष्टि से ही सुलभ होता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that a person who perceives the same Supreme Lord dwelling equally in all living beings does not degrade or destroy his own self through ignorance. Such a self-realized soul, possessing the vision of equality, transcends the material world and attains the ultimate spiritual destination, which is liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| समम् | समान रूप से |
+| पश्यन् | देखता हुआ |
+| हि | क्योंकि |
+| सर्वत्र | सब जगह |
+| समवस्थितम् | भली-भांति स्थित |
+| ईश्वरम् | परमेश्वर को |
+| न | नहीं |
+| हिनस्ति | नष्ट करता है |
+| आत्मना | अपने द्वारा |
+| आत्मानम् | अपने आप को (आत्मा को) |
+| ततः | उससे (इस कारण) |
+| याति | प्राप्त करता है |
+| पराम् | परम |
+| गतिम् | गति को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| samam | equally |
+| paśyan | seeing |
+| hi | because |
+| sarvatra | everywhere |
+| samavasthitam | equally situated |
+| īśvaram | the Supreme Lord |
+| na | not |
+| hinasti | destroys |
+| ātmanā | by the self |
+| ātmānam | the self |
+| tataḥ | thereby |
+| yāti | attains |
+| parām | the supreme |
+| gatim | destination |
+

@@ -31,3 +31,51 @@ position: 469
 
 ```
 
+
+### Transliteration
+```
+matkarmakṛnmatparamo madbhaktaḥ saṅgavarjitaḥ
+nirvairaḥ sarvabhūteṣu yaḥ sa māmeti pāṇḍava
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अपनी प्राप्ति का परम और सरल मार्ग बताते हैं। जो मनुष्य अपने सभी कर्मों को भगवान को समर्पित करता है, उन्हें ही अपना परम लक्ष्य मानता है, आसक्ति और द्वेष से मुक्त रहता है, वह अंततः परमात्मा में ही लीन हो जाता है। यह संपूर्ण गीता के व्यावहारिक उपदेशों का सार है।
+
+### Meaning
+
+In this verse, Lord Krishna summarizes the ultimate path to reach Him. He explains that a person who dedicates all actions to the Divine, regards the Divine as the supreme goal, remains free from worldly attachments, and harbors no ill-will toward any creature, will certainly attain Him. This is considered the essence of the entire Bhagavad Gita's teachings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मत्-कर्म-कृत् | मेरे लिए कर्म करने वाला |
+| मत्-परमः | मुझे ही परम मानने वाला |
+| मत्-भक्तः | मेरा भक्त |
+| सङ्ग-वर्जितः | आसक्ति से रहित |
+| निर्वैरः | वैर-भाव से रहित |
+| सर्व-भूतेषु | सभी प्राणियों में |
+| यः | जो |
+| सः | वह |
+| माम् | मुझको |
+| एति | प्राप्त होता है |
+| पाण्डव | हे पाण्डुपुत्र (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mat-karma-kṛt | doing actions for Me |
+| mat-paramaḥ | looking upon Me as the Supreme |
+| mat-bhaktaḥ | devoted to Me |
+| saṅga-varjitaḥ | free from attachment |
+| nirvairaḥ | without enmity |
+| sarva-bhūteṣu | towards all living beings |
+| yaḥ | who |
+| saḥ | he |
+| mām | to Me |
+| eti | comes |
+| pāṇḍava | O son of Pandu |
+

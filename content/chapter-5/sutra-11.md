@@ -31,3 +31,53 @@ position: 215
 
 ```
 
+
+### Transliteration
+```
+kāyena manasā buddhyā kevalairindriyairapi
+yoginaḥ karma kurvanti saṅgaṃ tyaktvā''tmaśuddhaye
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण एक सच्चे कर्मयोगी की मानसिकता का वर्णन करते हैं। ऐसे साधक कर्म के फलों के प्रति किसी भी प्रकार की स्वार्थपूर्ण आसक्ति के बिना अपने सभी कर्तव्य निभाते हैं। वे अपने शरीर, मन, बुद्धि और इन्द्रियों का उपयोग केवल उपकरण के रूप में करते हैं, और अपने सभी कर्मों को अंतःकरण की शुद्धि के लिए समर्पित कर देते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the mindset of a true Karma Yogi. Such practitioners perform all their daily duties and actions without any selfish attachment to the results. They use their body, mind, intellect, and senses merely as instruments, dedicating their actions entirely for inner purification and spiritual growth.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कायेन | शरीर से |
+| मनसा | मन से |
+| बुद्ध्या | बुद्धि से |
+| केवलैः | केवल (आसक्ति रहित) |
+| इन्द्रियैः | इन्द्रियों द्वारा |
+| अपि | भी |
+| योगिनः | योगी जन |
+| कर्म | कर्म |
+| कुर्वन्ति | करते हैं |
+| सङ्गम् | आसक्ति को |
+| त्यक्त्वा | त्यागकर |
+| आत्मशुद्धये | आत्म-शुद्धि के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kāyena | by the body |
+| manasā | by the mind |
+| buddhyā | by the intellect |
+| kevalaiḥ | only (purified) |
+| indriyaiḥ | by the senses |
+| api | even |
+| yoginaḥ | the yogis |
+| karma | action |
+| kurvanti | perform |
+| saṅgam | attachment |
+| tyaktvā | having abandoned |
+| ātmaśuddhaye | for self-purification |
+

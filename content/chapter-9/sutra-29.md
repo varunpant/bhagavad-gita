@@ -31,3 +31,69 @@ position: 367
 
 ```
 
+
+### Transliteration
+```
+samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ
+ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी समता और भक्तों के प्रति अपने विशेष संबंध को स्पष्ट करते हैं। वे कहते हैं कि परमात्मा के रूप में वे सभी प्राणियों के लिए समान हैं और किसी के प्रति उनका पक्षपात नहीं है। परन्तु जो अनन्य भक्ति से उनकी शरण लेते हैं, वे अपनी भक्ति के कारण भगवान के अत्यंत निकट आ जाते हैं, ठीक वैसे ही जैसे अग्नि के पास जाने वाले को ही उसकी गर्मी मिलती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains His impartiality toward all living beings and His special relationship with His devotees. He states that as the Supreme Lord, He is equal to all, harboring neither hatred nor favoritism toward anyone. However, those who worship Him with loving devotion naturally reside in Him, and He resides in them, much like how a fire provides warmth only to those who choose to sit near it.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| समः | समान |
+| अहम् | मैं |
+| सर्व-भूतेषु | सब प्राणियों में |
+| न | न |
+| मे | मेरा |
+| द्वेष्यः | द्वेष का पात्र (शत्रु) |
+| अस्ति | है |
+| न | न |
+| प्रियः | प्रिय (मित्र) |
+| ये | जो |
+| भजन्ति | भजते हैं |
+| तु | परन्तु |
+| माम् | मुझको |
+| भक्त्या | भक्ति से |
+| मयि | मुझमें |
+| ते | वे (हैं) |
+| तेषु | उनमें |
+| च | और |
+| अपि | भी |
+| अहम् | मैं (हूँ) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| samaḥ | equal |
+| aham | I |
+| sarva-bhūteṣu | in all living beings |
+| na | not |
+| me | to Me |
+| dveṣyaḥ | hateful |
+| asti | is |
+| na | nor |
+| priyaḥ | dear |
+| ye | who |
+| bhajanti | worship |
+| tu | but |
+| mām | Me |
+| bhaktyā | with devotion |
+| mayi | in Me |
+| te | they (are) |
+| teṣu | in them |
+| ca | and |
+| api | also |
+| aham | I (am) |
+

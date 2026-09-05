@@ -31,3 +31,49 @@ position: 149
 
 ```
 
+
+### Transliteration
+```
+mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā
+nirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को कर्मयोग का सर्वोच्च सिद्धांत बताते हैं। वे अर्जुन को निर्देश देते हैं कि वह अपने सभी कर्मों को भगवान को अर्पित कर दे और फल की इच्छा तथा स्वामित्व की भावना (ममता) को त्याग दे। परमात्मा में ध्यान लगाकर और मानसिक संताप या शोक से मुक्त होकर युद्ध करने से कर्म बंधन का कारण नहीं बनते, बल्कि आध्यात्मिक साधना बन जाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna gives Arjuna the ultimate formula for Karma Yoga. He instructs Arjuna to perform his duty without any personal desire for the outcome and without a sense of ownership over his actions. By dedicating all actions to the Supreme Lord and freeing his mind from grief and anxiety, Arjuna can fight as a spiritual offering rather than a worldly entanglement.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मयि | मुझमें |
+| सर्वाणि | सभी |
+| कर्माणि | कर्मों को |
+| संन्यस्य | समर्पित करके |
+| अध्यात्मचेतसा | आध्यात्मिक चेतना से |
+| निराशीः | आशारहित |
+| निर्ममः | ममतारहित |
+| भूत्वा | होकर |
+| युध्यस्व | युद्ध करो |
+| विगतज्वरः | संताप से मुक्त |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mayi | unto Me |
+| sarvāṇi | all |
+| karmāṇi | actions |
+| saṃnyasya | dedicating |
+| adhyātmacetasā | with a mind fixed on the Supreme Self |
+| nirāśīḥ | free from desire |
+| nirmamaḥ | free from the sense of ownership |
+| bhūtvā | having become |
+| yudhyasva | fight |
+| vigatajvaraḥ | free from mental fever |
+

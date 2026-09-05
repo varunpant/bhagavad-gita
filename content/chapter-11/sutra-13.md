@@ -31,3 +31,51 @@ position: 427
 
 ```
 
+
+### Transliteration
+```
+tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā
+apaśyaddevadevasya śarīre pāṇḍavastadā
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र को बताते हैं कि दिव्य दृष्टि प्राप्त करने के बाद अर्जुन ने भगवान कृष्ण के विश्वरूप में क्या देखा। अर्जुन ने देखा कि अनेक भागों में विभाजित यह सम्पूर्ण चराचर ब्रह्माण्ड भगवान के एक ही शरीर में समाया हुआ है। यह दृश्य भगवान की अनंत महिमा और उनकी सर्वव्यापकता को प्रकट करता है।
+
+### Meaning
+
+Sanjaya describes to Dhritarashtra what Arjuna witnessed after receiving the divine vision. Arjuna saw the entire cosmos, with all its diverse divisions and manifold creations, existing united in one single place within the universal body of Lord Krishna. This emphasizes the supreme nature of the Lord as the source and container of all existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत्र | वहाँ (उस शरीर में) |
+| एकस्थम् | एक स्थान पर स्थित |
+| जगत् | ब्रह्माण्ड को |
+| कृत्स्नम् | सम्पूर्ण |
+| प्रविभक्तम् | विभक्त (अनेक भागों में बँटा हुआ) |
+| अनेकधा | अनेक प्रकार से |
+| अपश्यत् | देखा |
+| देवदेवस्य | देवों के देव (श्रीकृष्ण) के |
+| शरीरे | शरीर में |
+| पाण्डवः | पाण्डुपुत्र अर्जुन ने |
+| तदा | तब (उस समय) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tatra | there |
+| ekastham | situated in one place |
+| jagat | the universe |
+| kṛtsnam | entire |
+| pravibhaktam | divided |
+| anekadhā | into many parts |
+| apaśyat | saw |
+| devadevasya | of the God of gods |
+| śarīre | in the body |
+| pāṇḍavaḥ | Arjuna (the son of Pandu) |
+| tadā | then |
+

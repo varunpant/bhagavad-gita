@@ -31,3 +31,57 @@ position: 655
 
 ```
 
+
+### Transliteration
+```
+adharmaṃ dharmamiti yā manyate tamasā''vṛtā
+sarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तामसी बुद्धि के लक्षणों का वर्णन करते हैं। तामसी बुद्धि अज्ञान और अंधकार से ढकी होती है, जिसके कारण मनुष्य सही और गलत का निर्णय नहीं कर पाता। वह अधर्म को ही धर्म समझने लगता है और जीवन के सभी मूल्यों तथा सत्यों को विपरीत रूप में देखता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a tamasic intellect. Enveloped in ignorance and darkness, such an intellect loses the capacity to discern right from wrong, mistaking irreligion for religion. It perceives everything in a distorted, inverted manner, leading to self-destruction and confusion.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अधर्मम् | अधर्म को |
+| धर्मम् | धर्म |
+| इति | इस प्रकार |
+| या | जो (बुद्धि) |
+| manyate | मानती है |
+| तमसा | अज्ञान (अंधकार) से |
+| आवृता | ढकी हुई |
+| सर्व-अर्थान् | सभी विषयों को |
+| विपरीतान् | विपरीत (उल्टा) |
+| च | और |
+| बुद्धिः | बुद्धि |
+| सा | वह |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| तामसी | तामसी है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adharmaṃ | irreligion |
+| dharmam | religion |
+| iti | as |
+| yā | which |
+| manyate | considers |
+| tamasā | by darkness (ignorance) |
+| āvṛtā | shrouded |
+| sarva-arthān | all things |
+| viparītān | perverted (distorted) |
+| ca | and |
+| buddhiḥ | intellect |
+| sā | that |
+| pārtha | O son of Pritha |
+| tāmasī | tamasic (in the mode of ignorance) |
+

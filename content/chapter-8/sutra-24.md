@@ -31,3 +31,53 @@ position: 334
 
 ```
 
+
+### Transliteration
+```
+agnirjyotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam
+tatra prayātā gacchanti brahma brahmavido janāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस मार्ग का वर्णन करते हैं जिससे जाने वाले योगी पुनः जन्म नहीं लेते। अग्नि, प्रकाश, दिन का समय, शुक्ल पक्ष और उत्तरायण के छह महीने ज्ञान और प्रकाश के प्रतीक हैं। इस मार्ग से शरीर त्यागने वाले ब्रह्मज्ञानी पुरुष सीधे परब्रह्म को प्राप्त होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the path of light from which a departing soul does not return to the cycle of rebirth. Fire, light, daytime, the waxing moon, and the northern solstice of the sun represent the path of illumination and knowledge. Those who have realized the Supreme Truth and depart during these auspicious times merge into the Supreme Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अग्निः | अग्नि |
+| ज्योतिः | प्रकाश |
+| अहः | दिन |
+| शुक्लः | शुक्ल पक्ष (चंद्रमा का बढ़ता हुआ पक्ष) |
+| षण्मासाः | छह महीने |
+| उत्तरायणम् | सूर्य का उत्तरायण काल |
+| तत्र | उस (मार्ग) में |
+| प्रयाताः | प्रयाण करने वाले (शरीर छोड़ने वाले) |
+| गच्छन्ति | प्राप्त होते हैं |
+| ब्रह्म | परब्रह्म को |
+| ब्रह्मविदः | ब्रह्म को जानने वाले |
+| जनाः | मनुष्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| agniḥ | fire |
+| jyotiḥ | light |
+| ahaḥ | daytime |
+| śuklaḥ | the bright fortnight of the moon |
+| ṣaṇ-māsāḥ | the six months |
+| uttarāyaṇam | the northern path of the sun |
+| tatra | there (on that path) |
+| prayātāḥ | those who have departed |
+| gacchanti | attain |
+| brahma | the Supreme Brahman |
+| brahma-vidaḥ | knowers of Brahman |
+| janāḥ | people |
+

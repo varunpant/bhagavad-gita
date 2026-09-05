@@ -31,3 +31,51 @@ position: 340
 
 ```
 
+
+### Transliteration
+```
+rājavidyā rājaguhyaṃ pavitramidamuttamam
+pratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को उस परम ज्ञान की महिमा बता रहे हैं जिसे वे प्रकट करने जा रहे हैं। वे इसे 'राजविद्या' (विद्याओं का राजा) और 'राजगुह्य' (रहस्यों का राजा) कहते हैं क्योंकि यह आत्मा और परमात्मा का परम सत्य है। यह ज्ञान न केवल पवित्र और अविनाशी है, बल्कि इसका अनुभव प्रत्यक्ष रूप से किया जा सकता है और इसका आचरण करना अत्यंत सरल है।
+
+### Meaning
+
+In this verse, Lord Krishna extols the glory of the supreme knowledge He is about to impart. He terms it the 'king of education' and the 'king of secrets' because it deals with the ultimate truth of the soul and God. This knowledge is described as the ultimate purifier, directly realizable, aligned with dharma, joyful to practice, and eternal in its results.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| राजविद्या | विद्याओं का राजा (परम ज्ञान) |
+| राजगुह्यम् | गोपनीय विषयों का राजा (परम रहस्य) |
+| पवित्रम् | पवित्र करने वाला |
+| इदम् | यह |
+| उत्तमम् | सर्वश्रेष्ठ |
+| प्रत्यक्ष | प्रत्यक्ष |
+| अवगमम् | अनुभव योग्य |
+| धर्म्यम् | धर्मयुक्त |
+| सुसुखम् | अत्यंत सुगम (आनंदपूर्वक) |
+| कर्तुम् | आचरण करने में |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rājavidyā | the king of education (supreme knowledge) |
+| rājaguhyam | the king of secrets |
+| pavitram | purifier |
+| idam | this |
+| uttamam | supreme |
+| pratyakṣa | by direct perception |
+| avagamam | understood |
+| dharmyam | righteous |
+| susukham | very easy / joyful |
+| kartum | to practice |
+| avyayam | imperishable |
+

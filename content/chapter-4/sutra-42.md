@@ -31,3 +31,53 @@ position: 204
 
 ```
 
+
+### Transliteration
+```
+tasmādajñānasaṃbhūtaṃ hṛtsthaṃ jñānāsinā''tmanaḥ
+chittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata
+
+```
+
+### भावार्थ
+
+चौथे अध्याय के इस अंतिम श्लोक में भगवान कृष्ण अर्जुन को आध्यात्मिक ज्ञान रूपी तलवार से अपने हृदय के संशयों को नष्ट करने की प्रेरणा देते हैं। वे उसे कर्मयोग का आश्रय लेकर अपने क्षत्रिय धर्म के पालन के लिए उठ खड़े होने का निर्देश देते हैं। यह श्लोक सैद्धांतिक ज्ञान को युद्धभूमि में व्यावहारिक कर्म में बदलने का एक सशक्त आह्वान है।
+
+### Meaning
+
+In this concluding verse of the fourth chapter, Lord Krishna urges Arjuna to destroy the doubts in his heart using the sword of spiritual knowledge. He advises him to practice Karma Yoga and rise to perform his duty as a warrior. This marks the transition from theoretical wisdom to practical action on the battlefield.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| अज्ञानसंभूतम् | अज्ञान से उत्पन्न |
+| हृत्स्थम् | हृदय में स्थित |
+| ज्ञान-असिना | ज्ञान रूपी तलवार से |
+| आत्मनः | अपने |
+| छित्त्वा | काटकर |
+| एनम् | इस |
+| संशयम् | संशय को |
+| योगम् | योग में |
+| आतिष्ठ | स्थित हो जाओ |
+| उत्तिष्ठ | उठ खड़े हो |
+| भारत | हे भरतवंशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| ajñānasaṃbhūtam | born of ignorance |
+| hṛtstham | situated in the heart |
+| jñāna-asinā | by the sword of knowledge |
+| ātmanaḥ | of the self |
+| chittvā | having cut |
+| enam | this |
+| saṃśayam | doubt |
+| yogam | in yoga |
+| ātiṣṭha | take refuge |
+| uttiṣṭha | arise |
+| bhārata | O descendant of Bharata |
+

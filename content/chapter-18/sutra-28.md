@@ -31,3 +31,53 @@ position: 651
 
 ```
 
+
+### Transliteration
+```
+ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ
+viṣādī dīrghasūtrī ca kartā tāmasa ucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तामसी कर्ता के लक्षणों का वर्णन करते हैं। ऐसा व्यक्ति असंयमी, अशिष्ट, घमंडी, दूसरों को धोखा देने वाला, दूसरों का अपमान करने वाला, आलसी, हमेशा दुखी रहने वाला और हर काम में अत्यधिक देरी करने वाला होता है। ये सभी गुण अज्ञान और अंधकार (तमस) से उत्पन्न होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a Tamasic agent (doer). Such a person is undisciplined, vulgar, stubborn, deceitful, malicious, lazy, chronically depressed, and a procrastinator. These traits stem from ignorance and darkness, leading to inaction or destructive action.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अयुक्तः | असंयमी (चंचल चित्त वाला) |
+| प्राकृतः | अशिष्ट (अशिक्षित या गँवार) |
+| स्तब्धः | घमंडी (जिद्दी) |
+| शठः | धूर्त (कपटी) |
+| नैष्कृतिकः | दूसरों का अपमान करने वाला (या दूसरों की आजीविका बिगाड़ने वाला) |
+| अलसः | आलसी |
+| विषादी | शोकयुक्त (उदास रहने वाला) |
+| दीर्घसूत्री | दीर्घसूत्री (काम को टालने वाला) |
+| च | और |
+| कर्ता | कर्ता |
+| तामसः | तामस |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ayuktaḥ | undisciplined |
+| prākṛtaḥ | vulgar (unrefined) |
+| stabdhaḥ | stubborn (obstinate) |
+| śaṭhaḥ | deceitful |
+| naiṣkṛtikaḥ | malicious (insulting others) |
+| alasaḥ | lazy |
+| viṣādī | despondent (morose) |
+| dīrghasūtrī | procrastinating (dilatory) |
+| ca | and |
+| kartā | doer (agent) |
+| tāmasaḥ | tamasic (characterized by ignorance) |
+| ucyate | is said to be |
+

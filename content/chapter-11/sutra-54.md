@@ -31,3 +31,57 @@ position: 468
 
 ```
 
+
+### Transliteration
+```
+bhaktyā tv ananyayā śakyam aham evaṃvidho 'rjuna
+jñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca paraṃtapa
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण अर्जुन को समझाते हैं कि उनके इस चतुर्भुज या विश्वरूप के दर्शन केवल वेदों के अध्ययन, तपस्या या दान से संभव नहीं हैं। इसे केवल अनन्य भक्ति (बिना किसी अन्य आश्रय के की जाने वाली भक्ति) के द्वारा ही प्राप्त किया जा सकता है। ऐसी भक्ति से ही साधक भगवान को तत्त्व से जान सकता है, उनके साक्षात् दर्शन कर सकता है और अंततः उनमें लीन हो सकता है।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that His supreme cosmic form cannot be perceived through mere Vedic study, penances, or charity. It is only through unswerving, single-minded devotion (ananya-bhakti) that a seeker can truly comprehend, behold, and enter into His divine essence. Devotion is established here as the ultimate path to complete union with the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भक्त्या | भक्ति के द्वारा |
+| तु | लेकिन / ही |
+| अनन्यया | अनन्य (बिना किसी अन्य के) |
+| शक्यः | संभव हूँ |
+| अहम् | मैं |
+| एवम्-विधः | इस प्रकार का |
+| अर्जुन | हे अर्जुन |
+| ज्ञातुम् | जानने के लिए |
+| द्रष्टुम् | देखने के लिए |
+| च | और |
+| तत्त्वेन | तत्त्व से (वास्तविकता में) |
+| प्रवेष्टुम् | प्रवेश करने के लिए |
+| च | और |
+| परंतप | हे शत्रुओं को तपाने वाले (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhaktyā | by devotion |
+| tu | but / indeed |
+| ananyayā | by unswerving / single-minded |
+| śakyaḥ | am possible |
+| aham | I |
+| evam-vidhaḥ | of this kind / in this form |
+| arjuna | O Arjuna |
+| jñātum | to be known |
+| draṣṭum | to be seen |
+| ca | and |
+| tattvena | in truth / in reality |
+| praveṣṭum | to be entered into |
+| ca | and |
+| paraṃtapa | O chastiser of foes |
+

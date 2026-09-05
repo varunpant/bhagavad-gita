@@ -31,3 +31,59 @@ position: 332
 
 ```
 
+
+### Transliteration
+```
+puruṣaḥ sa paraḥ pārtha bhaktyā labhyas-tv-ananyayā
+yasyāntaḥsthāni bhūtāni yena sarvam-idaṃ tatam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि परम पुरुष (परमात्मा) को केवल अनन्य भक्ति के द्वारा ही प्राप्त किया जा सकता है। वह परमात्मा सर्वव्यापी है; समस्त चराचर प्राणी उसी के भीतर स्थित हैं और उसी के द्वारा यह संपूर्ण ब्रह्मांड व्याप्त है। यह भक्ति मार्ग की सर्वोच्चता और ईश्वर की सर्वव्यापकता को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that the Supreme Divine Person (Purusha) can be attained only through unswerving, single-minded devotion. This Supreme Being is all-pervading; all living entities exist within Him, and the entire universe is permeated by Him. This highlights the path of devotion (bhakti) as the ultimate means to reach the omnipresent Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पुरुषः | परम पुरुष |
+| सः | वह |
+| परः | परम / श्रेष्ठ |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| भक्त्या | भक्ति के द्वारा |
+| लभ्यः | प्राप्त करने योग्य |
+| तु | तो / ही |
+| अनन्यया | अनन्य (बिना किसी अन्य के) |
+| यस्य | जिसके |
+| अन्तःस्थानि | भीतर स्थित हैं |
+| भूतानि | समस्त प्राणी |
+| येन | जिसके द्वारा |
+| सर्वम् | सब कुछ |
+| इदम् | यह (जगत) |
+| ततम् | व्याप्त है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| puruṣaḥ | the Supreme Person |
+| saḥ | He |
+| paraḥ | the Supreme |
+| pārtha | O son of Pritha (Arjuna) |
+| bhaktyā | by devotion |
+| labhyaḥ | is attainable |
+| tu | indeed |
+| ananyayā | by unswerving / exclusive |
+| yasya | within whom |
+| antaḥsthāni | situated inside |
+| bhūtāni | all living beings |
+| yena | by whom |
+| sarvam | all |
+| idam | this (universe) |
+| tatam | is pervaded |
+

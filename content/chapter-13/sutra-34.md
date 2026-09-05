@@ -32,3 +32,55 @@ illumines the whole field, O Arjuna.
 
 ```
 
+
+### Transliteration
+```
+yathā prakāśayatyekaḥ kṛtsnaṃ lokamimaṃ raviḥ
+kṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्मा और शरीर के संबंध को सूर्य और जगत के दृष्टांत से समझाते हैं। जैसे आकाश में स्थित एक ही सूर्य अपने प्रकाश से संपूर्ण जगत को प्रकाशित करता है, वैसे ही शरीर में स्थित एक ही चेतना (आत्मा) पूरे शरीर को सजीव और सचेत बनाती है। आत्मा स्वयं निर्लिप्त रहकर भी शरीर की सभी गतिविधियों को प्रकाशित और संचालित करती है।
+
+### Meaning
+
+In this verse, Lord Krishna uses the analogy of the sun and the world to explain the relationship between the soul and the body. Just as a single sun, remaining at one place, illuminates the entire universe with its light, the conscious soul illuminates the entire material body with consciousness. The soul remains detached and unaffected while giving life and awareness to the physical form.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यथा | जिस प्रकार |
+| प्रकाशयति | प्रकाशित करता है |
+| एकः | एक |
+| कृत्स्नम् | सम्पूर्ण |
+| लोकम् | जगत् को |
+| इमम् | इस |
+| रविः | सूर्य |
+| क्षेत्रम् | क्षेत्र (शरीर) को |
+| क्षेत्री | क्षेत्री (आत्मा) |
+| तथा | उसी प्रकार |
+| कृत्स्नम् | सम्पूर्ण |
+| प्रकाशयति | प्रकाशित करता है |
+| भारत | हे भरतवंशी (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yathā | just as |
+| prakāśayati | illuminates |
+| ekaḥ | one |
+| kṛtsnam | entire |
+| lokam | world |
+| imam | this |
+| raviḥ | sun |
+| kṣetram | the field (body) |
+| kṣetrī | the knower of the field (soul) |
+| tathā | so |
+| kṛtsnam | entire |
+| prakāśayati | illuminates |
+| bhārata | O descendant of Bharata |
+

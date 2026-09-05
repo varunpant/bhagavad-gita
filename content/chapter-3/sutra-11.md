@@ -31,3 +31,53 @@ position: 130
 
 ```
 
+
+### Transliteration
+```
+devānbhāvayatānena te devā bhāvayantu vaḥ
+parasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण यज्ञ के महत्व को समझाते हैं। वे कहते हैं कि यज्ञ के माध्यम से मनुष्य देवताओं को पुष्ट करते हैं और बदले में देवता वर्षा आदि के रूप में मनुष्यों का भरण-पोषण करते हैं। इस प्रकार परस्पर सहयोग से दोनों ही परम कल्याण को प्राप्त कर सकते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the importance of sacrifice (Yajna). He states that through Yajna, humans nourish the celestial gods, and in return, the gods provide for humans through rain and natural resources. By this mutual cooperation and nourishment, both can attain the highest good.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| देवान् | देवताओं को |
+| भावयत | प्रसन्न करो |
+| अनेन | इसके द्वारा |
+| ते | वे |
+| देवाः | देवता |
+| भावयन्तु | प्रसन्न करें |
+| वः | तुम लोगों को |
+| परस्परम् | एक-दूसरे को |
+| भावयन्तः | प्रसन्न करते हुए |
+| श्रेयः | कल्याण |
+| परम् | परम |
+| अवाप्स्यथ | प्राप्त करोगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| devān | the gods |
+| bhāvayata | nourish |
+| anena | by this |
+| te | those |
+| devāḥ | gods |
+| bhāvayantu | may nourish |
+| vaḥ | you |
+| parasparam | one another |
+| bhāvayantaḥ | nourishing |
+| śreyaḥ | good |
+| param | supreme |
+| avāpsyatha | you shall attain |
+

@@ -31,3 +31,57 @@ position: 271
 
 ```
 
+
+### Transliteration
+```
+kaccit nobhaya-vibhraṣṭaś
+chinnābhram iva naśyati
+apratiṣṭho mahābāho
+vimūḍho brahmaṇaḥ pathi
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन योग के मार्ग से विचलित हुए साधक की गति के विषय में अपनी शंका व्यक्त कर रहे हैं। वे पूछते हैं कि जो व्यक्ति संसार के भोगों को भी छोड़ चुका है और योग में भी पूर्णता प्राप्त नहीं कर पाया, क्या वह दोनों ओर से भ्रष्ट होकर नष्ट हो जाता है? जैसे आकाश में छिन्न-भिन्न हुआ बादल कहीं का नहीं रहता, क्या वैसी ही स्थिति उस साधक की भी होती है?
+
+### Meaning
+
+In this verse, Arjuna expresses his doubt regarding the fate of a seeker who falls from the path of Yoga. He asks whether such a person, having renounced worldly pleasures but failing to achieve spiritual perfection, perishes like a torn cloud. Arjuna fears that without a foothold in either the material or spiritual realm, the unsuccessful yogi is completely lost.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कच्चित् | क्या |
+| न | नहीं |
+| उभय | दोनों से (सांसारिक और आध्यात्मिक) |
+| विभ्रष्टः | भ्रष्ट हुआ |
+| छिन्न | छिन्न-भिन्न |
+| अभ्रम् | बादल की |
+| इव | भाँति |
+| नश्यति | नष्ट हो जाता है |
+| अप्रतिष्ठः | बिना किसी आश्रय के |
+| महाबाहो | हे महाबाहु (कृष्ण) |
+| विमूढः | मोहित / भ्रमित |
+| ब्रह्मणः | ब्रह्म के |
+| पथि | मार्ग में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kaccit | whether |
+| na | not |
+| ubhaya | from both |
+| vibhraṣṭaḥ | deviated / fallen |
+| chinna | torn / scattered |
+| abhram | cloud |
+| iva | like |
+| naśyati | perishes |
+| apratiṣṭhaḥ | without support / shelterless |
+| mahābāho | O mighty-armed one |
+| vimūḍhaḥ | bewildered |
+| brahmaṇaḥ | of Brahman |
+| pathi | on the path |
+

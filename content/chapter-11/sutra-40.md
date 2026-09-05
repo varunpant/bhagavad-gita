@@ -31,3 +31,69 @@ position: 454
 
 ```
 
+
+### Transliteration
+```
+namaḥ purastādatha pṛṣṭhataste
+namo'stu te sarvata eva sarva
+anantavīryāmitavikramastvaṃ
+sarvaṃ samāpnoṣi tato'si sarvaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप के प्रति अत्यंत विस्मय और श्रद्धा से भरकर उन्हें हर दिशा से नमन कर रहे हैं। वे स्वीकार करते हैं कि भगवान की शक्ति और पराक्रम की कोई सीमा नहीं है। चूंकि भगवान ही इस संपूर्ण सृष्टि में व्याप्त हैं, इसलिए वे ही सब कुछ हैं और उनके अतिरिक्त कुछ भी नहीं है।
+
+### Meaning
+
+In this verse, Arjuna, filled with awe and devotion, bows to Lord Krishna's universal form from all directions. He acknowledges that the Lord's power and prowess are limitless. Since the Supreme Lord pervades the entire cosmos, He is indeed everything, and nothing exists apart from Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| नमः | नमस्कार |
+| पुरस्तात् | सामने से |
+| अथ | और |
+| पृष्ठतः | पीछे से |
+| ते | आपको |
+| नमः | नमस्कार |
+| अस्तु | हो |
+| ते | आपको |
+| सर्वतः | सब ओर से |
+| एव | ही |
+| सर्व | हे सर्वस्वरूप |
+| अनन्त-वीर्य | अनन्त सामर्थ्य वाले |
+| अमित-विक्रमः | असीम पराक्रम वाले |
+| त्वम् | आप |
+| सर्वम् | सब कुछ |
+| समाप्नोषि | व्याप्त करते हैं |
+| ततः | इसलिए |
+| असि | आप हैं |
+| सर्वः | सब कुछ (सर्वरूप) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| namaḥ | salutations |
+| purastāt | from the front |
+| atha | and |
+| pṛṣṭhataḥ | from behind |
+| te | to You |
+| namaḥ | salutations |
+| astu | let there be |
+| te | to You |
+| sarvataḥ | from all sides |
+| eva | indeed |
+| sarva | O All |
+| ananta-vīrya | O You of infinite power |
+| amita-vikramaḥ | O You of immeasurable might |
+| tvam | You |
+| sarvam | everything |
+| samāpnoṣi | pervade |
+| tataḥ | therefore |
+| asi | You are |
+| sarvaḥ | everything |
+

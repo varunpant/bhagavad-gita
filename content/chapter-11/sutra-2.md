@@ -31,3 +31,53 @@ position: 416
 
 ```
 
+
+### Transliteration
+```
+bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā
+tvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण को 'कमलपत्राक्ष' (कमल के समान नेत्रों वाले) कहकर संबोधित करते हैं। वे स्वीकार करते हैं कि उन्होंने कृष्ण के मुख से सृष्टि के सभी जीवों की उत्पत्ति और प्रलय के रहस्य को विस्तार से समझ लिया है। इसके साथ ही, उन्होंने भगवान की अनंत और अविनाशी महिमा का भी श्रवण किया है, जिससे उनका मोह दूर हो रहा है।
+
+### Meaning
+
+In this verse, Arjuna addresses Lord Krishna as 'lotus-eyed' (Kamalapatraksha). He acknowledges that he has heard in detail from Krishna about the creation and dissolution of all living entities. Furthermore, he expresses that he has also understood the Lord's inexhaustible and imperishable greatness, which prepares him for the vision of the cosmic form.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भव-अप्ययौ | उत्पत्ति और प्रलय |
+| ही | निश्चय ही |
+| भूतानाम् | जीवों की |
+| श्रुतौ | सुने गए हैं |
+| विस्तरशः | विस्तारपूर्वक |
+| मया | मेरे द्वारा |
+| त्वत्तः | आपसे |
+| कमल-पत्र-अक्ष | हे कमल के पत्ते जैसे नेत्रों वाले (कृष्ण) |
+| माहात्म्यम् | महिमा को |
+| अपि | भी |
+| च | और |
+| अव्ययम् | अविनाशी / अनंत |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhava-apyayau | appearance and disappearance |
+| hi | indeed |
+| bhūtānām | of all living beings |
+| śrutau | have been heard |
+| vistaraśaḥ | in detail |
+| mayā | by me |
+| tvattaḥ | from You |
+| kamala-patra-akṣa | O lotus-petal-eyed one |
+| māhātmyam | greatness |
+| api | also |
+| ca | and |
+| avyayam | inexhaustible / imperishable |
+

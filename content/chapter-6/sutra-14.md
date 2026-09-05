@@ -31,3 +31,49 @@ position: 247
 
 ```
 
+
+### Transliteration
+```
+praśāntātmā vigatabhīr brahmacārivrate sthitaḥ
+manaḥ saṃyamya maccitto yukta āsīta matparaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में ध्यान योग की आंतरिक तैयारी का वर्णन किया गया है। साधक को मानसिक शांति, निर्भयता और ब्रह्मचर्य का पालन करते हुए अपने मन को पूरी तरह से नियंत्रित करना चाहिए। भगवान कृष्ण बताते हैं कि ध्यान की पराकाष्ठा तब होती है जब साधक का मन केवल ईश्वर में लीन हो जाता है और वह ईश्वर को ही अपना परम लक्ष्य मान लेता है।
+
+### Meaning
+
+This verse describes the internal state required for meditation. The practitioner must possess a peaceful mind, be free from fear, and remain firm in the vow of celibacy. Controlling the mind, the yogi must focus entirely on the Supreme Lord, making Him the ultimate goal of life.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रशान्त-आत्मा | शांत अंतःकरण वाला |
+| विगत-भीः | भयरहित (जिसका भय चला गया हो) |
+| ब्रह्मचारि-व्रते | ब्रह्मचर्य के व्रत में |
+| स्थितः | स्थित होकर |
+| मनः | मन को |
+| संयम्य | भली-भांति वश में करके |
+| मत्-चित्तः | मुझमें चित्त लगाने वाला |
+| युक्तः | एकाग्रचित्त होकर |
+| आसीत | बैठे |
+| मत्-परः | मेरे परायण (मुझे ही परम गति मानने वाला) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| praśānta-ātmā | one with a peaceful mind |
+| vigata-bhīḥ | free from fear |
+| brahmacāri-vrate | in the vow of celibacy |
+| sthitaḥ | situated |
+| manaḥ | the mind |
+| saṃyamya | restraining |
+| mat-cittaḥ | with mind fixed on Me |
+| yuktaḥ | disciplined / united |
+| āsīta | should sit |
+| mat-paraḥ | devoted to Me as the Supreme |
+

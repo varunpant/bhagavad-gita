@@ -31,3 +31,57 @@ position: 592
 
 ```
 
+
+### Transliteration
+```
+trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ
+kāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण आसुरी प्रवृत्तियों के मूल कारणों को स्पष्ट करते हैं। काम (वासना), क्रोध और लोभ को नरक के तीन मुख्य द्वार बताया गया है जो जीवात्मा के पतन का कारण बनते हैं। जो व्यक्ति अपने कल्याण की इच्छा रखता है, उसे इन तीनों विकारों का सर्वथा त्याग कर देना चाहिए क्योंकि ये बुद्धि और विवेक को नष्ट कर देते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna identifies the root causes of all demonic qualities. Lust, anger, and greed are described as the three gates leading to hell, which cause the degradation and ruin of the soul. Anyone who desires spiritual well-being must completely abandon these three vices, as they cloud judgment and lead to self-destruction.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| त्रिविधम् | तीन प्रकार का |
+| नरकस्य | नरक का |
+| इदम् | यह |
+| द्वारम् | द्वार |
+| नाशनम् | नाश करने वाला |
+| आत्मनः | आत्मा का |
+| कामः | काम (वासना) |
+| क्रोधः | क्रोध |
+| तथा | और |
+| लोभः | लोभ |
+| तस्मात् | इसलिए |
+| एतत् | इस |
+| त्रयम् | तीनों को |
+| त्यजेत् | त्याग देना चाहिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| trividham | threefold |
+| narakasya | of hell |
+| idam | this |
+| dvāram | gate |
+| nāśanam | destructive |
+| ātmanaḥ | of the self |
+| kāmaḥ | lust |
+| krodhaḥ | anger |
+| tathā | and |
+| lobhaḥ | greed |
+| tasmāt | therefore |
+| etat | this |
+| trayam | triad |
+| tyajet | one should abandon |
+

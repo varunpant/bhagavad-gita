@@ -31,3 +31,67 @@ position: 440
 
 ```
 
+
+### Transliteration
+```
+amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ
+sarve sahaivāvanipālasaṅghaiḥ
+bhīṣmo droṇaḥ sūtaputrastathā'sau
+sahāsmadīyairapi yodhamukhyaiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विराट रूप में कौरव पक्ष के सभी योद्धाओं को प्रवेश करते हुए देख रहे हैं। वे धृतराष्ट्र के पुत्रों, भीष्म, द्रोण और कर्ण जैसे महारथियों को काल के मुख की ओर बढ़ते हुए देख रहे हैं। इसके साथ ही, पांडव सेना के भी मुख्य योद्धा इस विनाशकारी दृश्य में समाहित होते दिखाई दे रहे हैं।
+
+### Meaning
+
+In this verse, Arjuna describes seeing all the sons of Dhritarashtra, along with allied kings, entering into the cosmic form of Lord Krishna. Great warriors like Bhishma, Drona, and Karna, who were considered invincible, are seen rushing towards their destruction. Even the prominent warriors from Arjuna's own side are depicted as being drawn into this cosmic dissolution.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अमी | वे सब |
+| च | और |
+| त्वां | आपमें |
+| धृतराष्ट्रस्य | धृतराष्ट्र के |
+| पुत्राः | पुत्र |
+| सर्वे | सभी |
+| सह | साथ |
+| एव | ही |
+| अवनिपाल-सङ्घैः | राजाओं के समूहों के |
+| भीष्मः | भीष्म |
+| द्रोणः | द्रोणाचार्य |
+| सूतपुत्रः | सूतपुत्र (कर्ण) |
+| तथा | तथा |
+| असौ | वह |
+| सह | साथ |
+| अस्मदीयैः | हमारे |
+| अपि | भी |
+| योधमुख्यैः | मुख्य योद्धाओं के |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| amī | these |
+| ca | and |
+| tvām | You |
+| dhṛtarāṣṭrasya | of Dhritarashtra |
+| putrāḥ | the sons |
+| sarve | all |
+| saha | along with |
+| eva | indeed |
+| avanipāla-saṅghaiḥ | with the assemblies of kings |
+| bhīṣmaḥ | Bhishma |
+| droṇaḥ | Drona |
+| sūtaputraḥ | the charioteer's son (Karna) |
+| tathā | and |
+| asau | that |
+| saha | with |
+| asmadīyaiḥ | our own |
+| api | also |
+| yodhamukhyaiḥ | chief warriors |
+

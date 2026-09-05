@@ -31,3 +31,61 @@ position: 69
 
 ```
 
+
+### Transliteration
+```
+vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi
+tathā śarīrāṇi vihāya jīrṇānyanyāni saṃyāti navāni dehī
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्मा के देहान्तरण (पुनर्जन्म) की प्रक्रिया को एक बहुत ही सरल और सटीक उदाहरण से समझाते हैं। जैसे हम फटे-पुराने कपड़ों को बदलकर नए कपड़े पहन लेते हैं, वैसे ही अजर-अमर आत्मा वृद्ध या अनुपयोगी हो चुके शरीर को छोड़कर नया शरीर धारण कर लेती है। इसलिए मृत्यु केवल शरीर का परिवर्तन है, आत्मा का अंत नहीं, अतः इसके लिए शोक करना व्यर्थ है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the process of reincarnation using a very simple and relatable analogy. Just as we discard old, torn clothes and put on new ones, the eternal soul discards a body that has become old or useless and takes on a new one. Therefore, death is merely a change of the physical body, not the end of the soul, and one should not grieve over it.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वासांसि | वस्त्रों को |
+| जीर्णानि | पुराने |
+| यथा | जैसे |
+| विहाय | त्याग कर |
+| नवानि | नए |
+| गृह्णाति | ग्रहण करता है |
+| नरः | मनुष्य |
+| अपराणि | दूसरे |
+| तथा | उसी प्रकार |
+| शरीराणि | शरीरों को |
+| विहाय | त्याग कर |
+| जीर्णानि | पुराने |
+| अन्यानि | दूसरे |
+| संयाति | प्राप्त करता है |
+| नवानि | नए |
+| देही | जीवात्मा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vāsāṃsi | garments |
+| jīrṇāni | old and worn out |
+| yathā | just as |
+| vihāya | giving up |
+| navāni | new |
+| gṛhṇāti | accepts |
+| naraḥ | a man |
+| aparāṇi | others |
+| tathā | in the same way |
+| śarīrāṇi | bodies |
+| vihāya | giving up |
+| jīrṇāni | old and worn out |
+| anyāni | different |
+| saṃyāti | accepts |
+| navāni | new |
+| dehī | the embodied soul |
+

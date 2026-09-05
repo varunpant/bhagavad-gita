@@ -31,3 +31,57 @@ position: 694
 
 ```
 
+
+### Transliteration
+```
+śraddhāvān anasūyaś ca śṛṇuyād api yo naraḥ
+so 'pi muktaḥ śubhāñ lokān prāpnuyāt puṇyakarmaṇām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण गीता के श्रवण मात्र की महिमा का वर्णन कर रहे हैं। वे कहते हैं कि यदि कोई मनुष्य इस ज्ञान को पूरी तरह समझ न भी पाए, परंतु केवल श्रद्धा और ईर्ष्या-रहित भाव से इसे सुनता है, तो भी वह पवित्र हो जाता है। ऐसा व्यक्ति मृत्यु के पश्चात उन उच्च और दिव्य लोकों को प्राप्त करता है जो पुण्य आत्माओं के लिए आरक्षित हैं।
+
+### Meaning
+
+In this verse, Lord Krishna declares the immense merit of merely listening to the sacred dialogue of the Gita. He states that even if a person cannot fully assimilate or practice the teachings, simply hearing them with faith and without envy purifies them. Such an individual is freed from negative reactions and attains the higher, auspicious realms reserved for virtuous souls.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रद्धावान् | श्रद्धावान् |
+| अनसूयः | दोष-दृष्टि से रहित (ईर्ष्या-रहित) |
+| च | और |
+| शृणुयात् | सुनेगा |
+| अपि | भी |
+| यः | जो |
+| नरः | मनुष्य |
+| सः | वह |
+| अपि | भी |
+| मुक्तः | मुक्त होकर |
+| शुभान् | शुभ (मंगलमय) |
+| लोकान् | लोकों को |
+| प्राप्नुयात् | प्राप्त करेगा |
+| पुण्य-कर्मणाम् | पुण्य कर्म करने वालों के |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śraddhāvān | full of faith |
+| anasūyaḥ | free from malice (envy) |
+| ca | and |
+| śṛṇuyāt | hears |
+| api | even |
+| yaḥ | who |
+| naraḥ | man |
+| saḥ | he |
+| api | also |
+| muktaḥ | liberated |
+| śubhān | auspicious |
+| lokān | worlds |
+| prāpnuyāt | shall attain |
+| puṇya-karmaṇām | of those who perform righteous deeds |
+

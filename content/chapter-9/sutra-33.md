@@ -31,3 +31,57 @@ position: 371
 
 ```
 
+
+### Transliteration
+```
+kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā
+anityamasukhaṃ lokamimaṃ prāpya bhajasva mām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि जब अत्यंत पापी व्यक्ति भी अनन्य भक्ति से परम गति पा सकते हैं, तो पवित्र आचरण वाले ब्राह्मणों और राजर्षियों के उद्धार में तो कोई संशय ही नहीं है। वे इस भौतिक संसार को क्षणभंगुर और दुखों का घर बताते हुए अर्जुन को केवल ईश्वर की भक्ति में मन लगाने की प्रेरणा देते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes that if even the most sinful can attain liberation through devotion, then the salvation of righteous priests and royal sages is absolutely certain. He describes this material world as temporary and full of misery, urging Arjuna to dedicate himself to divine worship.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| किम् | क्या |
+| पुनः | फिर (कहना ही क्या) |
+| ब्राह्मणाः | ब्राह्मण |
+| पुण्याः | पवित्र / पुण्यशाली |
+| भक्ताः | भक्त |
+| राजर्षयः | राजर्षि (राजा और ऋषि) |
+| तथा | तथा / और |
+| अनित्यम् | क्षणिक / अनित्य |
+| असुखम् | सुखरहित / दुखमय |
+| लोकम् | संसार को |
+| इमम् | इस |
+| प्राप्य | प्राप्त करके |
+| भजस्व | भजन करो |
+| माम् | मुझको |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kiṃ | what |
+| punaḥ | more / again (to say) |
+| brāhmaṇāḥ | the brāhmaṇas |
+| puṇyāḥ | holy / righteous |
+| bhaktāḥ | devotees |
+| rājarṣayaḥ | royal sages |
+| tathā | as well as / and |
+| anityam | temporary / transient |
+| asukham | joyless / miserable |
+| lokam | world |
+| imam | this |
+| prāpya | having attained |
+| bhajasva | worship / devote yourself |
+| mām | unto Me |
+

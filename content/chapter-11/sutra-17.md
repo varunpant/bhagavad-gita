@@ -32,3 +32,61 @@ everywhere, very hard to look at, blazing all round like burning fire and the su
 
 ```
 
+
+### Transliteration
+```
+kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvatodīptimantam
+paśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārkadyutimaprameyam
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विराट रूप के ऐश्वर्य और तेज का वर्णन कर रहे हैं। वे भगवान को दिव्य आभूषणों और अस्त्रों से सुसज्जित एक असीम प्रकाश पुंज के रूप में देखते हैं। यह तेज इतना तीव्र है कि सूर्य और अग्नि की भाँति इसे सीधे आँखों से देखना अत्यंत कठिन है।
+
+### Meaning
+
+In this verse, Arjuna describes the overwhelming majesty and effulgence of Lord Krishna's cosmic form. He perceives the Lord as a boundless mass of light, adorned with a crown, mace, and discus. This divine splendor is so intense, resembling blazing fire and the sun, that it is nearly impossible to look upon directly.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| किरीटिनम् | मुकुट धारण किए हुए को |
+| गदिनम् | गदा धारण किए हुए को |
+| चक्रिणम् | चक्र धारण किए हुए को |
+| च | और |
+| तेजोराशिम् | तेज के पुंज को |
+| सर्वतः | सब ओर से |
+| दीप्तिमन्तम् | प्रकाशमान |
+| पश्यामि | मैं देखता हूँ |
+| त्वाम् | आपको |
+| दुर्निरीक्ष्यम् | कठिनाई से देखने योग्य |
+| समन्तात् | चारों ओर से |
+| दीप्त | प्रज्वलित |
+| अनल | अग्नि |
+| अर्क | और सूर्य की |
+| द्युतिम् | कान्ति वाले |
+| अप्रमेयम् | अप्रमेय (असीम) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kirīṭinam | one wearing a crown |
+| gadinam | one holding a mace |
+| cakriṇam | one holding a discus |
+| ca | and |
+| tejorāśim | a mass of splendor |
+| sarvataḥ | everywhere |
+| dīptimantam | glowing |
+| paśyāmi | I see |
+| tvām | You |
+| durnirīkṣyam | difficult to look at |
+| samantāt | all around |
+| dīpta | blazing |
+| anala | fire |
+| arka | and sun |
+| dyutim | having the brilliance of |
+| aprameyam | immeasurable |
+

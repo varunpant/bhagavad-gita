@@ -31,3 +31,51 @@ position: 79
 
 ```
 
+
+### Transliteration
+```
+yadṛcchayā copapannaṃ svargadvāramapāvṛtam
+sukhinaḥ kṣatriyāḥ pārtha labhante yuddhamīdṛśam
+
+```
+
+### भावार्थ
+
+श्रीकृष्ण अर्जुन को उनके क्षत्रिय धर्म का स्मरण कराते हुए युद्ध के लिए प्रेरित कर रहे हैं। वे समझाते हैं कि बिना मांगे अपने आप प्राप्त हुआ धर्मयुद्ध एक दुर्लभ अवसर है, जो सीधे स्वर्ग के द्वार खोल देता है। इसलिए, केवल अत्यंत भाग्यशाली क्षत्रियों को ही ऐसे महान युद्ध में भाग लेने का अवसर मिलता है।
+
+### Meaning
+
+Krishna continues to persuade Arjuna to fight by appealing to his warrior duty. He explains that a righteous war, which arrives unsought, is a rare opportunity that directly opens the gates of heaven. Therefore, only the most fortunate warriors get the chance to participate in such a glorious battle.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदृच्छया | अपने आप (बिना मांगे) |
+| च | और |
+| उपपन्नम् | प्राप्त हुआ |
+| स्वर्गद्वारम् | स्वर्ग का द्वार |
+| अपावृतम् | खुला हुआ |
+| सुखिनः | भाग्यशाली |
+| क्षत्रियाः | क्षत्रिय |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| लभन्ते | प्राप्त करते हैं |
+| युद्धम् | युद्ध |
+| ईदृशम् | ऐसा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadṛcchayā | by its own accord |
+| ca | and |
+| upapannam | arrived |
+| svargadvāram | the door to heaven |
+| apāvṛtam | wide open |
+| sukhinaḥ | fortunate |
+| kṣatriyāḥ | warriors (kshatriyas) |
+| pārtha | O son of Pritha (Arjuna) |
+| labhante | obtain |
+| yuddham | war |
+| īdṛśam | such |
+

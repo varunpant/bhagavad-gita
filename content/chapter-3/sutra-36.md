@@ -31,3 +31,60 @@ position: 155
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+atha kena prayukto 'yaṃ pāpaṃ carati pūruṣaḥ
+anicchann api vārṣṇeya balād iva niyojitaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण से मानव स्वभाव की एक गहरी दुविधा के बारे में पूछते हैं। वह जानना चाहते हैं कि मनुष्य यह जानते हुए भी कि पाप गलत है, क्यों उसे करने के लिए विवश हो जाता है। ऐसा प्रतीत होता है जैसे कोई बाहरी शक्ति उसे उसकी इच्छा के विरुद्ध बलपूर्वक पाप कर्मों में धकेल रही हो।
+
+### Meaning
+
+In this verse, Arjuna asks Lord Krishna about a profound dilemma of human nature. He wants to know what forces a person to commit sinful acts, even when they know it is wrong and do not wish to do so. It appears as though some external force is compelling the individual to act against their own free will.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| अथ | तो फिर |
+| केन | किसके द्वारा |
+| प्रयुक्तः | प्रेरित होकर |
+| अयम् | यह |
+| पापम् | पाप |
+| चरति | करता है |
+| पूरुषः | मनुष्य |
+| अनिच्छन् | न चाहता हुआ |
+| अपि | भी |
+| वार्ष्णेय | हे वृष्णिवंशी (कृष्ण) |
+| बलात् | बलपूर्वक |
+| इव | मानो |
+| नियोजितः | लगाया गया |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| atha | then |
+| kena | by what |
+| prayuktaḥ | impelled |
+| ayam | this |
+| pāpam | sin |
+| carati | commits |
+| pūruṣaḥ | man |
+| anicchan | not wishing |
+| api | even |
+| vārṣṇeya | O descendant of Vrishni |
+| balāt | by force |
+| iva | as if |
+| niyojitaḥ | engaged |
+

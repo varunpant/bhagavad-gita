@@ -31,3 +31,53 @@ position: 304
 
 ```
 
+
+### Transliteration
+```
+avyaktaṃ vyaktimāpannaṃ manyante māmabuddhayaḥ
+paraṃ bhāvamajānanto mamāvyayamanuttamam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जो लोग अज्ञानी हैं, वे उनके वास्तविक दिव्य स्वरूप को नहीं पहचान पाते। वे सोचते हैं कि भगवान पहले निराकार थे और अब एक साधारण मनुष्य के रूप में प्रकट हुए हैं। वे कृष्ण के उस परम, अविनाशी और सर्वोत्तम स्वरूप से अनभिज्ञ हैं जो जन्म और मृत्यु से परे है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that those who lack deeper intelligence fail to recognize His true divine nature. They mistakenly believe that He was previously unmanifest and has now assumed a physical, human form. They remain ignorant of His supreme, imperishable, and unsurpassed transcendental existence which is beyond material limitations.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अव्यक्तम् | अव्यक्त (जो प्रकट नहीं है) |
+| व्यक्तिम् | व्यक्त भाव को (मनुष्य रूप को) |
+| आपन्नम् | प्राप्त हुए |
+| मन्यन्ते | मानते हैं |
+| माम् | मुझको |
+| अबुद्धयः | बुद्धिहीन लोग |
+| परम् | परम |
+| भावम् | भाव को (स्वरूप को) |
+| अजानन्तः | न जानते हुए |
+| मम | मेरे |
+| अव्ययम् | अविनाशी |
+| अनुत्तमम् | सर्वोत्तम (जिससे उत्तम कोई न हो) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| avyaktam | the unmanifested |
+| vyaktim | personality / manifestation |
+| āpannam | attained |
+| manyante | think |
+| mām | Me |
+| abuddhayaḥ | less intelligent people |
+| param | supreme |
+| bhāvam | nature / state of being |
+| ajānantaḥ | not knowing |
+| mama | My |
+| avyayam | imperishable |
+| anuttamam | unsurpassed / supreme |
+

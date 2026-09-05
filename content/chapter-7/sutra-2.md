@@ -31,3 +31,59 @@ position: 282
 
 ```
 
+
+### Transliteration
+```
+jñānaṃ te'haṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ
+yajjñātvā neha bhūyo'nyajjñātavyamavaśiṣyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को पूर्ण ज्ञान और विज्ञान (अनुभवजन्य ज्ञान) प्रदान करने की प्रतिज्ञा करते हैं। वे कहते हैं कि इस परम सत्य को जान लेने के बाद साधक के लिए कुछ भी जानना शेष नहीं रह जाता। यह ज्ञान आध्यात्मिक और भौतिक दोनों जगतों के वास्तविक स्वरूप को प्रकट करता है।
+
+### Meaning
+
+In this verse, Lord Krishna promises to impart to Arjuna both theoretical knowledge (jñāna) and experiential realization (vijñāna) in their entirety. He emphasizes the completeness of this divine wisdom, stating that once it is realized, there remains nothing else in this world to be known. This knowledge represents the ultimate truth of existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्ञानम् | ज्ञान को |
+| ते | तुम्हारे लिए |
+| अहम् | मैं |
+| सविज्ञानम् | विज्ञान (अनुभव) सहित |
+| इदम् | इस |
+| वक्ष्यामि | कहूँगा |
+| अशेषतः | पूर्ण रूप से |
+| यत् | जिसको |
+| ज्ञात्वा | जानकर |
+| न | नहीं |
+| इह | इस संसार में |
+| भूयः | फिर |
+| अन्यत् | दूसरा कुछ भी |
+| ज्ञातव्यम् | जानने योग्य |
+| अवशिष्यते | शेष बचता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jñānam | knowledge |
+| te | to you |
+| aham | I |
+| savijñānam | along with realized knowledge |
+| idam | this |
+| vakṣyāmi | shall declare |
+| aśeṣataḥ | completely |
+| yat | which |
+| jñātvā | having known |
+| na | not |
+| iha | in this world |
+| bhūyaḥ | further |
+| anyat | anything else |
+| jñātavyam | to be known |
+| avaśiṣyate | remains |
+

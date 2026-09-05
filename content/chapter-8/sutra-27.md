@@ -31,3 +31,57 @@ position: 337
 
 ```
 
+
+### Transliteration
+```
+naite sṛtī pārtha jānan yogī muhyati kaścana
+tasmāt sarveṣu kāleṣu yogayukto bhavārjuna
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि शुक्ल और कृष्ण मार्ग के रहस्य को जानने वाला योगी कभी भ्रमित नहीं होता। वह जानता है कि अनासक्त भाव से कर्म करने पर ही परम गति प्राप्त होती है। इसलिए वे अर्जुन को निरंतर योग में स्थित रहने की प्रेरणा देते हैं।
+
+### Meaning
+
+Lord Krishna explains that a yogi who understands the reality of these two paths (the bright and the dark paths) is never deluded. Such a knower does not seek temporary heavenly pleasures but strives for liberation. Therefore, Krishna urges Arjuna to remain steadfast in yoga at all times.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| एते | इन दोनों |
+| सृती | मार्गों को |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| जानन् | जानता हुआ |
+| योगी | योगी |
+| मुह्यति | मोहित होता है |
+| कश्चन | कोई भी |
+| तस्मात् | इसलिए |
+| सर्वेषु | सब |
+| कालेषु | समयों में |
+| योगयुक्तः | योग से युक्त |
+| भव | हो जाओ |
+| अर्जुन | हे अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| ete | these two |
+| sṛtī | paths |
+| pārtha | O Partha (Arjuna) |
+| jānan | knowing |
+| yogī | a yogi |
+| muhyati | is deluded |
+| kaścana | any |
+| tasmāt | therefore |
+| sarveṣu | at all |
+| kāleṣu | times |
+| yogayuktaḥ | established in yoga |
+| bhava | be |
+| arjuna | O Arjuna |
+

@@ -31,3 +31,61 @@ position: 136
 
 ```
 
+
+### Transliteration
+```
+yastvātmaratireva syādātmatṛptaśca mānavaḥ
+ātmanyeva ca santuṣṭastasya kāryaṃ na vidyate
+
+```
+
+### भावार्थ
+
+पिछले श्लोकों में भगवान ने यज्ञ और नियत कर्मों के पालन पर जोर दिया था। इस श्लोक में वे उस ज्ञानी पुरुष का वर्णन कर रहे हैं जो आत्म-साक्षात्कार प्राप्त कर चुका है। जो व्यक्ति अपनी आत्मा में ही पूर्ण आनंद और संतुष्टि प्राप्त कर लेता है, वह भौतिक इच्छाओं से मुक्त हो जाता है। ऐसे आत्मज्ञानी महापुरुष के लिए संसार में कोई भी सांसारिक या वैदिक कर्तव्य शेष नहीं रहता।
+
+### Meaning
+
+In previous verses, Lord Krishna emphasized the importance of performing prescribed duties and sacrifices. Here, He describes the self-realized soul who has transcended these obligations. A person who finds complete joy, satisfaction, and contentment within the Self is free from all material desires. For such an enlightened being, there are no remaining worldly or Vedic duties to fulfill.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| तु | परन्तु |
+| आत्मरतिः | आत्मा में ही रमण करने वाला |
+| एव | ही |
+| स्यात् | हो |
+| आत्मतृप्तः | आत्मा में ही तृप्त |
+| च | और |
+| मानवः | मनुष्य |
+| आत्मनि | आत्मा में |
+| एव | ही |
+| च | और |
+| सन्तुष्टः | पूर्णतः सन्तुष्ट |
+| तस्य | उसके लिए |
+| कार्यम् | कर्तव्य |
+| न | नहीं |
+| विद्यते | है (विद्यमान है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| tu | but |
+| ātmaratiḥ | taking pleasure in the Self |
+| eva | only |
+| syāt | is |
+| ātmatṛptaḥ | satisfied in the Self |
+| ca | and |
+| mānavaḥ | human being |
+| ātmani | in the Self |
+| eva | only |
+| ca | and |
+| santuṣṭaḥ | fully satisfied |
+| tasya | for him |
+| kāryam | duty |
+| na | not |
+| vidyate | exists |
+

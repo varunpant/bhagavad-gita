@@ -31,3 +31,59 @@ position: 68
 
 ```
 
+
+### Transliteration
+```
+vedāvināśinaṃ nityaṃ ya enamajamavyayam
+kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को आत्मा की अमरता के विषय में समझाते हैं। वे तर्क देते हैं कि जब कोई व्यक्ति यह भली-भांति जान लेता है कि आत्मा नित्य और अविनाशी है, तो किसी को मारने या मरवाने का विचार ही अज्ञानपूर्ण और तर्कहीन हो जाता है। इसलिए अर्जुन को अपने संबंधियों के भौतिक शरीरों के नष्ट होने के भय से शोक नहीं करना चाहिए।
+
+### Meaning
+
+Lord Krishna continues to explain the immortal nature of the soul to Arjuna. He argues that once a person truly realizes the soul is eternal and indestructible, the concepts of killing or being killed become illogical. Therefore, Arjuna should not grieve for the physical bodies of his relatives, as their true essence can never be destroyed.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वेद | जानता है |
+| अविनाशिनम् | अविनाशी |
+| नित्यम् | नित्य |
+| यः | जो |
+| एनम् | इसको |
+| अजम् | अजन्मा |
+| अव्ययम् | अव्यय |
+| कथम् | कैसे |
+| सः | वह |
+| पुरुषः | व्यक्ति |
+| पार्थ | हे पार्थ |
+| कम् | किसको |
+| घातयति | मरवाता है |
+| हन्ति | मारता है |
+| कम् | किसको |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| veda | knows |
+| avināśinam | indestructible |
+| nityam | eternal |
+| yaḥ | who |
+| enam | this |
+| ajam | unborn |
+| avyayam | immutable |
+| katham | how |
+| saḥ | that |
+| puruṣaḥ | person |
+| pārtha | O Partha |
+| kam | whom |
+| ghātayati | causes to be killed |
+| hanti | kills |
+| kam | whom |
+

@@ -31,3 +31,59 @@ position: 693
 
 ```
 
+
+### Transliteration
+```
+adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ
+jñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण यहाँ गीता के अध्ययन की महिमा बता रहे हैं। वे कहते हैं कि जो कोई भी अर्जुन और उनके बीच हुए इस पवित्र संवाद का श्रद्धापूर्वक अध्ययन करता है, वह वास्तव में ज्ञान के यज्ञ द्वारा भगवान की आराधना करता है। यह ज्ञानयज्ञ अन्य भौतिक यज्ञों से श्रेष्ठ माना गया है क्योंकि यह सीधे परमात्मा के स्वरूप का बोध कराता है।
+
+### Meaning
+
+Lord Krishna here declares the glory of studying the Bhagavad Gita. He states that anyone who studies this sacred conversation between Arjuna and Himself worships Him through the 'sacrifice of knowledge' (Jnana-Yajna). This form of worship is considered superior to material rituals as it leads directly to spiritual wisdom and union with the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अध्येष्यते | अध्ययन करेगा |
+| च | और |
+| यः | जो |
+| इमम् | इस |
+| धर्म्यम् | धर्ममय |
+| संवादम् | संवाद को |
+| आवयोः | हम दोनों के |
+| ज्ञानयज्ञेन | ज्ञानयज्ञ के द्वारा |
+| तेन | उस (मनुष्य) के द्वारा |
+| अहम् | मैं |
+| इष्टः | पूजित |
+| स्याम् | होऊँगा |
+| इति | ऐसा |
+| मे | मेरा |
+| मतिः | मत है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adhyeṣyate | shall study |
+| ca | and |
+| yaḥ | who |
+| imam | this |
+| dharmyam | sacred / righteous |
+| saṃvādam | dialogue |
+| āvayoḥ | of ours (between the two of us) |
+| jñānayajñena | by the sacrifice of knowledge |
+| tena | by him |
+| aham | I |
+| iṣṭaḥ | worshipped |
+| syām | shall be |
+| iti | thus |
+| me | My |
+| matiḥ | opinion |
+

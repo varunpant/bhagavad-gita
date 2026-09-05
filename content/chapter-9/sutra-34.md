@@ -31,3 +31,55 @@ position: 372
 
 ```
 
+
+### Transliteration
+```
+manmanā bhava madbhakto madyājī māṃ namaskuru
+māmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को परम कल्याण का मार्ग बताते हैं। वे मन, भक्ति, पूजा और नमस्कार को पूरी तरह से भगवान में समर्पित करने का निर्देश देते हैं। जब साधक अपने अंतःकरण को भगवान से युक्त कर लेता है और उन्हें ही अपना परम लक्ष्य मान लेता है, तो वह निश्चित रूप से भगवान को ही प्राप्त होता है।
+
+### Meaning
+
+In this verse, Lord Krishna provides the ultimate path to liberation and union with the Divine. He instructs Arjuna to engage his mind, devotion, worship, and reverence entirely in Him. By aligning the self with the Divine and making Him the supreme goal, the seeker is assured of reaching Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मन्मनाः | मुझमें मन वाला |
+| भव | हो |
+| मद्भक्तः | मेरा भक्त |
+| मद्याजी | मेरा पूजन करने वाला |
+| माम् | मुझको |
+| नमस्कुरु | नमस्कार कर |
+| माम् | मुझको |
+| एव | ही |
+| एष्यसि | प्राप्त होगा |
+| युक्त्वा | युक्त करके (लगाकर) |
+| एवम् | इस प्रकार |
+| आत्मानम् | अपने आप को |
+| मत्परायणः | मेरे परायण (आश्रित) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| manmanāḥ | with mind fixed on Me |
+| bhava | become |
+| madbhaktaḥ | My devotee |
+| madyājī | My worshipper |
+| māṃ | to Me |
+| namaskuru | bow down |
+| mām | to Me |
+| eva | surely |
+| eṣyasi | you shall come |
+| yuktvā | having disciplined / uniting |
+| evam | thus |
+| ātmānaṃ | the self |
+| matparāyaṇaḥ | having Me as the supreme goal |
+

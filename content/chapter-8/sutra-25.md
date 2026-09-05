@@ -31,3 +31,53 @@ position: 335
 
 ```
 
+
+### Transliteration
+```
+dhūmo rātris tathā kṛṣṇaḥ ṣaṇ-māsā dakṣiṇāyanam
+tatra cāndramasaṃ jyotir yogī prāpya nivartate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस मार्ग का वर्णन करते हैं जिसे 'धूम मार्ग' या 'पितृयान' कहा जाता है। जो योगी सकाम कर्मों में लगे रहते हैं और इस अंधकारमय मार्ग से शरीर त्यागते हैं, वे स्वर्गलोक या चंद्रलोक को प्राप्त करते हैं। वहाँ अपने पुण्यों का भोग करने के बाद, उन्हें पुनः इस मृत्युलोक में जन्म लेना पड़ता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the path of darkness, also known as the 'Dhuma-marga' or 'Pitriyana'. Yogis who depart from the world during these times of darkness (smoke, night, dark fortnight, or the southern solstice) reach the lunar sphere. After enjoying the fruits of their pious actions there, they are bound to return to the mortal world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| धूमः | धुआँ |
+| रात्रिः | रात्रि |
+| तथा | तथा |
+| कृष्णः | कृष्णपक्ष |
+| षण्मासाः | छह महीने |
+| दक्षिणायनम् | दक्षिणायन के |
+| तत्र | वहाँ (उस मार्ग में) |
+| चान्द्रमसम् | चन्द्रमा की |
+| ज्योतिः | ज्योति को |
+| योगी | योगी |
+| प्राप्य | प्राप्त करके |
+| निवर्तते | लौट आता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dhūmaḥ | smoke |
+| rātriḥ | night |
+| tathā | as well as |
+| kṛṣṇaḥ | the dark fortnight |
+| ṣaṇ-māsāḥ | the six months |
+| dakṣiṇāyanam | of the southern solstice |
+| tatra | there |
+| cāndramasam | lunar |
+| jyotiḥ | light |
+| yogī | the yogi |
+| prāpya | attaining |
+| nivartate | returns |
+

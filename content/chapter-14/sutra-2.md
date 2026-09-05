@@ -31,3 +31,57 @@ position: 526
 
 ```
 
+
+### Transliteration
+```
+idaṃ jñānamupāśritya mama sādharmyamāgatāḥ
+sarge'pi nopajāyante pralaye na vyathanti ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण उस परम ज्ञान की महिमा बता रहे हैं जिसे प्राप्त कर साधक जन्म और मरण के चक्र से सर्वथा मुक्त हो जाता है। ऐसा ज्ञानी पुरुष परमात्मा के दिव्य स्वभाव को प्राप्त कर लेता है। इसलिए, सृष्टि के आरंभ में उसका पुनर्जन्म नहीं होता और महाप्रलय के समय भी वह विचलित या नष्ट नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna explains the glory of the supreme knowledge that frees a seeker from the cycle of birth and death. By taking refuge in this wisdom, the soul attains qualitative oneness with the Divine. Consequently, they are not reborn at the beginning of creation, nor are they affected or distressed during the cosmic dissolution.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इदम् | इस |
+| ज्ञानम् | ज्ञान को |
+| उपाश्रित्य | आश्रय लेकर (अपनाकर) |
+| मम | मेरे |
+| साधर्म्यम् | समान स्वभाव को (परम स्वरूप को) |
+| आगताः | प्राप्त हुए पुरुष |
+| सर्गे | सृष्टि के आदि में |
+| अपि | भी |
+| न | नहीं |
+| उपजायन्ते | उत्पन्न होते हैं |
+| प्रलये | प्रलयकाल में |
+| न | न तो |
+| व्यथन्ति | व्याकुल होते हैं |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| idam | this |
+| jñānam | knowledge |
+| upāśritya | having taken refuge in |
+| mama | My |
+| sādharmyam | same nature (divine nature) |
+| āgatāḥ | having attained |
+| sarge | at the time of creation |
+| api | even |
+| na | not |
+| upajāyante | are born |
+| pralaye | at the time of dissolution |
+| na | nor |
+| vyathanti | are disturbed / distressed |
+| ca | and |
+

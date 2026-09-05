@@ -32,3 +32,51 @@ of families, learn to turn away from this sin, O Janardana (Krishna)?
 
 ```
 
+
+### Transliteration
+```
+kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum
+kulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण से तर्क करते हैं कि यद्यपि कौरव लोभ के कारण अंधे हो गए हैं, लेकिन पांडव ऐसा नहीं कर सकते। वे स्पष्ट रूप से देख सकते हैं कि परिवार और वंश का नाश करना एक महान पाप है। इसलिए, ज्ञान और विवेक होने के कारण, उन्हें इस विनाशकारी युद्ध से पीछे हटने के बारे में सोचना चाहिए।
+
+### Meaning
+
+Arjuna argues with Lord Krishna that even if the Kauravas are blinded by greed, the Pandavas cannot act in the same way. They can clearly see that destroying one's family and lineage is a great sin. Therefore, possessing this knowledge and wisdom, they must consider turning away from this destructive war.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कथम् | कैसे |
+| न | नहीं |
+| ज्ञेयम् | जानना चाहिए |
+| अस्माभिः | हमारे द्वारा |
+| पापात् | पाप से |
+| अस्मात् | इस |
+| निवर्तितुम् | निवृत्त होने के लिए |
+| कुलक्षयकृतम् | कुल के नाश से होने वाले |
+| दोषम् | दोष को |
+| प्रपश्यद्भिः | स्पष्ट देखने वालों के द्वारा |
+| जनार्दन | हे जनार्दन (कृष्ण) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| katham | why |
+| na | not |
+| jñeyam | should be known |
+| asmābhiḥ | by us |
+| pāpāt | from sin |
+| asmāt | this |
+| nivartitum | to turn away |
+| kulakṣayakṛtam | caused by the destruction of the family |
+| doṣam | the evil |
+| prapaśyadbhiḥ | by those who see clearly |
+| janārdana | O Janardana (Krishna) |
+

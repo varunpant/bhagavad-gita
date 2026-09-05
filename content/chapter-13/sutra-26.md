@@ -31,3 +31,59 @@ position: 515
 
 ```
 
+
+### Transliteration
+```
+anye tv evam ajānantaḥ
+śrutvānyebhya upāsate
+te 'pi cātitaranty eva
+mṛtyuṃ śrutiparāyaṇāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन लोगों के लिए कल्याण का मार्ग बताते हैं जो स्वयं ध्यान, ज्ञान या कर्म योग में निपुण नहीं हैं। ऐसे लोग जब महापुरुषों या गुरुओं से सत्य का श्रवण करते हैं और उस पर पूर्ण श्रद्धा रखते हैं, तो वे भी भवसागर से पार हो जाते हैं। यह श्रवण भक्ति और श्रद्धा की महिमा को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the path of liberation for those who are not spiritually advanced enough to practice meditation, knowledge, or action on their own. By sincerely listening to the teachings of self-realized souls and practicing accordingly with faith, they too can overcome the cycle of birth and death. This highlights the immense power of faithful hearing (shravanam) in spiritual life.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अन्ये | दूसरे लोग |
+| तु | परन्तु |
+| एवम् | इस प्रकार |
+| अजानन्तः | न जानते हुए |
+| श्रुत्वा | सुनकर |
+| अन्येभ्यः | दूसरों से (गुरुओं से) |
+| उपासते | उपासना करते हैं |
+| ते | वे |
+| अपि | भी |
+| च | और |
+| अतितरन्ति | पार कर जाते हैं |
+| एव | निश्चित ही |
+| मृत्युम् | मृत्यु को (संसार-सागर को) |
+| श्रुति-परायणाः | सुनने के परायण (श्रवण में निष्ठा रखने वाले) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| anye | others |
+| tu | but |
+| evam | thus |
+| ajānantaḥ | not knowing |
+| śrutvā | having heard |
+| anyebhyaḥ | from others |
+| upāsate | worship |
+| te | they |
+| api | also |
+| ca | and |
+| atitaranti | cross beyond |
+| eva | certainly |
+| mṛtyum | death |
+| śruti-parāyaṇāḥ | devoted to hearing (the truth) |
+

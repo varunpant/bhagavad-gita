@@ -31,3 +31,53 @@ position: 393
 
 ```
 
+
+### Transliteration
+```
+ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān
+marīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी दिव्य विभूतियों का वर्णन आरम्भ करते हैं। वे बताते हैं कि समस्त आदित्यों (अदिति के पुत्रों) में वे विष्णु हैं, जो सबसे प्रमुख हैं। प्रकाश देने वाले पिंडों में वे सूर्य हैं और वायु के देवताओं (मरुतों) में वे मरीचि हैं, तथा रात्रि के नक्षत्रों में वे चन्द्रमा हैं।
+
+### Meaning
+
+In this verse, Lord Kṛṣṇa begins describing His divine opulences. He identifies Himself as Viṣṇu among the twelve Ādityas, who is the most prominent among them. Among all luminous bodies, He is the radiant Sun, among the storm-gods (Maruts) He is Marīci, and among the night-stars He is the Moon.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आदित्यानाम् | आदित्यों में |
+| अहम् | मैं |
+| विष्णुः | विष्णु |
+| ज्योतिषाम् | ज्योतियों (प्रकाश करने वालों) में |
+| रविः | सूर्य |
+| अंशुमान् | किरणों वाला (तेजस्वी) |
+| मरीचिः | मरीचि |
+| मरुताम् | मरुतों (वायुदेवों) में |
+| अस्मि | हूँ |
+| नक्षत्राणाम् | नक्षत्रों में |
+| अहम् | मैं |
+| शशी | चन्द्रमा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ādityānām | of the Ādityas |
+| aham | I |
+| viṣṇuḥ | Viṣṇu |
+| jyotiṣām | of luminaries |
+| raviḥ | the sun |
+| aṃśumān | radiant |
+| marīciḥ | Marīci |
+| marutām | of the Maruts |
+| asmi | I am |
+| nakṣatrāṇām | of the stars |
+| aham | I |
+| śaśī | the moon |
+

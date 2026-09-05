@@ -31,3 +31,59 @@ position: 327
 
 ```
 
+
+### Transliteration
+```
+sahasrayugaparyantamaharyadbrahmaṇo viduḥ
+rātriṃ yugasahasrāntāṃ te'horātravido janāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण काल (समय) की विशालता का वर्णन कर रहे हैं। वे बताते हैं कि मानव गणना के अनुसार चार युगों (सत्य, त्रेता, द्वापर, कलि) का एक चक्र एक महायुग कहलाता है, और ऐसे एक हजार महायुग मिलकर ब्रह्मा का केवल एक दिन बनाते हैं। इतनी ही लंबी उनकी रात्रि भी होती है; जो ज्ञानी पुरुष इस काल-चक्र को समझते हैं, वे ही समय की वास्तविक सीमा को जानते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the vastness of cosmic time. He explains that one day of Brahmā lasts for one thousand mahā-yugas (great cosmic cycles), and his night is of equal duration. Those who understand this immense scale of time are the ones who truly comprehend the nature of day and night, realizing the temporary nature of even the highest material realms.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सहस्र | हजार |
+| युग | युगों की |
+| पर्यन्तम् | अवधि वाला |
+| अहः | दिन |
+| यत् | जो |
+| ब्रह्मणः | ब्रह्मा का |
+| विदुः | जानते हैं |
+| रात्रिम् | रात्रि को |
+| युग | युगों के |
+| सहस्र | हजार |
+| अन्ताम् | अंत वाली (अवधि वाली) |
+| ते | वे |
+| अहोरात्र | दिन और रात के |
+| विदः | ज्ञाता |
+| जनाः | मनुष्य (हैं) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sahasra | thousand |
+| yuga | ages (yugas) |
+| paryantam | comprising / lasting up to |
+| ahaḥ | day |
+| yat | which |
+| brahmaṇaḥ | of Brahmā |
+| viduḥ | they know |
+| rātrim | night |
+| yuga | ages |
+| sahasra | thousand |
+| antām | ending with / lasting |
+| te | they |
+| ahorātra | day and night |
+| vidaḥ | knowers of |
+| janāḥ | people |
+

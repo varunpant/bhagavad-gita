@@ -31,3 +31,61 @@ position: 359
 
 ```
 
+
+### Transliteration
+```
+te taṃ bhuktvā svargalokaṃ viśālaṃ
+kṣīṇe puṇye martyalokaṃ viśanti
+evaṃ trayīdharmamanuprapannā
+gatāgataṃ kāmakāmā labhante
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सकाम कर्मों के फल की अनित्यता को स्पष्ट कर रहे हैं। जो लोग स्वर्ग की इच्छा से वैदिक अनुष्ठान करते हैं, वे पुण्य अर्जित कर स्वर्ग तो जाते हैं, परंतु वहाँ का सुख स्थायी नहीं है। पुण्य समाप्त होते ही उन्हें पुनः इस नश्वर संसार में जन्म लेना पड़ता है, जिससे वे जन्म और मृत्यु के चक्र में फँसे रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the temporary nature of the rewards of fruitive activities. Those who perform Vedic rituals with the desire for heaven reach the celestial realms, but their enjoyment there is not permanent. Once their accumulated merits are exhausted, they must return to the mortal world, remaining trapped in the cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ते | वे |
+| तम् | उस |
+| भुक्त्वा | भोगकर |
+| स्वर्गलोकम् | स्वर्गलोक को |
+| विशालम् | विशाल |
+| क्षीणे | नष्ट होने पर |
+| पुण्ये | पुण्य के |
+| मर्त्यलोकम् | मृत्युलोक को |
+| विशन्ति | प्रवेश करते हैं |
+| एवम् | इस प्रकार |
+| त्रयी-धर्मम् | तीनों वेदों के धर्म का |
+| अनुप्रपन्नाः | शरण लेने वाले / पालन करने वाले |
+| गत-आगतम् | आने और जाने को (जन्म-मृत्यु को) |
+| काम-कामाः | भोगों की कामना करने वाले |
+| लभन्ते | प्राप्त करते हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| te | they |
+| tam | that |
+| bhuktvā | having enjoyed |
+| svarga-lokam | heavenly world |
+| viśālam | vast |
+| kṣīṇe | on being exhausted |
+| puṇye | merit |
+| martya-lokam | the mortal world |
+| viśanti | they enter |
+| evam | thus |
+| trayī-dharmam | the doctrine of the three Vedas |
+| anuprapannāḥ | following / conforming to |
+| gata-āgatam | going and coming (repeated birth and death) |
+| kāma-kāmāḥ | desirers of desires |
+| labhante | they obtain |
+

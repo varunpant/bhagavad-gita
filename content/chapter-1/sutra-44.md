@@ -33,3 +33,47 @@ practices have been destroyed.
 
 ```
 
+
+### Transliteration
+```
+utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana
+narake'niyataṃ vāso bhavatītyanuśuśruma
+
+```
+
+### भावार्थ
+
+अर्जुन युद्ध के विनाशकारी परिणामों को लेकर अपनी गहरी चिंता व्यक्त करना जारी रखते हैं। वे अपने पूर्वजों और गुरुओं से सुने हुए पारंपरिक ज्ञान का हवाला देते हुए कहते हैं कि कुल-धर्म के नष्ट होने से मनुष्य को अनिश्चित काल तक नरक की यातनाएं सहनी पड़ती हैं। यह कथन समाज की नैतिक व्यवस्था को भंग करने और पाप का भागी बनने के प्रति उनके गहरे भय को दर्शाता है।
+
+### Meaning
+
+Arjuna continues to express his deep anxiety about the catastrophic consequences of the war. Citing the traditional wisdom he has heard from his ancestors and teachers, he states that the destruction of family traditions inevitably leads to a prolonged stay in hell. This reflects his profound fear of incurring sin and disrupting the moral and spiritual order of society.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| उत्सन्नकुलधर्माणां | नष्ट हुए कुल-धर्म वाले |
+| मनुष्याणां | मनुष्यों का |
+| जनार्दन | हे जनार्दन |
+| नरके | नरक में |
+| अनियतं | अनिश्चित काल तक |
+| वासः | निवास |
+| भवति | होता है |
+| इति | ऐसा |
+| अनुशुश्रुम | हमने सुना है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| utsannakuladharmāṇām | of those whose family traditions are destroyed |
+| manuṣyāṇām | of men |
+| janārdana | O Janardana |
+| narake | in hell |
+| aniyatam | indefinitely |
+| vāsaḥ | residence |
+| bhavati | is |
+| iti | thus |
+| anuśuśruma | we have heard |
+

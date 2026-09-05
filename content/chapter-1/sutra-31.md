@@ -32,3 +32,53 @@ in killing my kinsmen in battle.
 
 ```
 
+
+### Transliteration
+```
+nimittāni ca paśyāmi viparītāni keśava
+na ca śreyo'nupaśyāmi hatvā svajanamāhave
+
+```
+
+### भावार्थ
+
+अर्जुन श्रीकृष्ण से अपनी गहरी चिंता व्यक्त करते हुए कहते हैं कि उन्हें युद्धभूमि में केवल अशुभ शकुन ही दिखाई दे रहे हैं। उनका मानना है कि इस युद्ध से केवल विनाश ही होगा। वे यह निष्कर्ष निकालते हैं कि राज्य के सुख के लिए अपने ही सगे-संबंधियों की हत्या करने में कोई वास्तविक कल्याण या भलाई नहीं है।
+
+### Meaning
+
+Arjuna continues to express his deep anxiety to Krishna, pointing out the inauspicious omens he sees on the battlefield. He believes that this war will only bring disaster and sorrow. He concludes that no true good or lasting happiness can come from slaughtering his own relatives for the sake of a kingdom.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| निमित्तानि | शकुनों को |
+| च | और |
+| पश्यामि | मैं देख रहा हूँ |
+| विपरीतानि | विपरीत/अशुभ |
+| केशव | हे कृष्ण |
+| न | नहीं |
+| च | तथा |
+| श्रेयः | कल्याण |
+| अनुपश्यामि | मैं देखता हूँ |
+| हत्वा | मारकर |
+| स्वजनम् | अपने परिजनों को |
+| आहवे | युद्ध में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| nimittāni | omens |
+| ca | and |
+| paśyāmi | I see |
+| viparītāni | adverse |
+| keśava | O Keshava |
+| na | not |
+| ca | and |
+| śreyaḥ | good |
+| anupaśyāmi | I foresee |
+| hatvā | having killed |
+| svajanam | own kinsmen |
+| āhave | in battle |
+

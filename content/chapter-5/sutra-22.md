@@ -31,3 +31,55 @@ position: 226
 
 ```
 
+
+### Transliteration
+```
+ye hi saṃsparśajā bhogā duḥkhayonaya eva te
+ādyantavantaḥ kaunteya na teṣu ramate budhaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि भौतिक सुख क्षणभंगुर और विनाशकारी होते हैं। इन्द्रियों और उनके विषयों के संयोग से उत्पन्न होने वाले भोग अंततः दुःख का कारण बनते हैं क्योंकि उनका आदि और अंत होता है। एक विवेकशील या बुद्धिमान व्यक्ति इन अनित्य सुखों की वास्तविकता को समझता है और इसलिए वह इनमें लिप्त नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that material pleasures are fleeting and ultimately lead to suffering. Pleasures derived from the contact of the senses with their objects have a beginning and an end, making them temporary. A wise and discerning person recognizes this transient nature of worldly enjoyments and therefore does not seek happiness in them.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ये | जो |
+| हि | निश्चय ही |
+| संस्पर्शजाः | इन्द्रिय-स्पर्श से उत्पन्न |
+| भोगाः | भोग |
+| दुःखयोनयः | दुःख के कारण |
+| एव | ही |
+| ते | वे |
+| आद्यन्तवन्तः | आदि और अन्त वाले |
+| कौन्तेय | हे कुन्तीपुत्र |
+| न | नहीं |
+| तेषु | उनमें |
+| रमते | रमण करता है |
+| बुधः | बुद्धिमान मनुष्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ye | which |
+| hi | indeed |
+| saṃsparśajāḥ | born of contact with the senses |
+| bhogāḥ | pleasures |
+| duḥkhayonayaḥ | sources of misery |
+| eva | only |
+| te | they |
+| ādyantavantaḥ | having a beginning and an end |
+| kaunteya | O son of Kunti |
+| na | not |
+| teṣu | in them |
+| ramate | rejoices |
+| budhaḥ | the wise person |
+

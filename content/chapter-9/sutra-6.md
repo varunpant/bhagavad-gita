@@ -31,3 +31,53 @@ position: 344
 
 ```
 
+
+### Transliteration
+```
+yathā'kāśasthito nityaṃ vāyuḥ sarvatrago mahān
+tathā sarvāṇi bhūtāni matsthānītyupadhāraya
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण एक सुंदर भौतिक उदाहरण के माध्यम से अपनी अचिन्त्य शक्ति को समझाते हैं। जैसे वायु का अस्तित्व आकाश के बिना संभव नहीं है और वह सदैव आकाश के भीतर ही रहती है, फिर भी वह आकाश को दूषित या प्रभावित नहीं करती, वैसे ही सभी जीव परमात्मा में स्थित हैं परंतु परमात्मा उनसे सर्वथा निर्लिप्त रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna uses a beautiful physical analogy to explain His inconceivable relationship with the creation. Just as the wind, despite its immense power and constant movement, is always contained within the space of the sky without affecting the sky itself, so do all living beings exist within the Supreme Lord without limiting or contaminating Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यथा | जिस प्रकार |
+| आकाश-स्थितः | आकाश में स्थित |
+| नित्यम् | सदैव |
+| वायुः | वायु |
+| सर्वत्र-गः | सर्वत्र विचरने वाली |
+| महान् | महान (विशाल) |
+| तथा | उसी प्रकार |
+| सर्वाणि | समस्त |
+| भूतानि | प्राणी |
+| मत्-स्थानि | मुझमें स्थित हैं |
+| इति | इस प्रकार |
+| उपधारय | तुम जानो (समझो) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yathā | just as |
+| ākāśa-sthitaḥ | situated in the sky |
+| nityam | always |
+| vāyuḥ | the wind |
+| sarvatra-gaḥ | moving everywhere |
+| mahān | mighty |
+| tathā | similarly |
+| sarvāṇi | all |
+| bhūtāni | created beings |
+| mat-sthāni | situated in Me |
+| iti | thus |
+| upadhāraya | know / understand |
+

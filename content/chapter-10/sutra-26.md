@@ -31,3 +31,49 @@ position: 398
 
 ```
 
+
+### Transliteration
+```
+aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ
+gandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए बताते हैं कि वे सभी वृक्षों में पवित्र अश्वत्थ (पीपल) वृक्ष हैं। वे देवर्षियों में परम ज्ञानी नारद मुनि हैं, गन्धर्वों में चित्ररथ हैं और सिद्ध पुरुषों में सांख्य दर्शन के प्रणेता कपिल मुनि हैं। ये सभी अपने-अपने क्षेत्रों में सर्वोत्तम और दिव्य गुणों से युक्त हैं, जो भगवान की ही महिमा को दर्शाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine manifestations, declaring Himself to be the sacred Ashvattha (Peepal) tree among all trees. Among the celestial sages, He is Narada, and among the celestial musicians (Gandharvas), He is Chitraratha. Among the perfected souls who possess natural spiritual accomplishments from birth, He is the great sage Kapila, the author of the Sankhya philosophy.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अश्वत्थः | पीपल का वृक्ष |
+| सर्व-वृक्षाणाम् | सब वृक्षों में |
+| देव-ऋषीणाम् | देवर्षियों में |
+| च | और |
+| नारदः | नारद मुनि |
+| गन्धर्वाणाम् | गन्धर्वों में |
+| चित्ररथः | चित्ररथ |
+| सिद्धाणाम् | सिद्धों में |
+| कपिलः | कपिल |
+| मुनिः | मुनि |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aśvatthaḥ | the Peepal tree |
+| sarva-vṛkṣāṇām | among all trees |
+| deva-ṛṣīṇām | among the divine sages |
+| ca | and |
+| nāradaḥ | Narada |
+| gandharvāṇām | among the Gandharvas |
+| citrarathaḥ | Chitraratha |
+| siddhānām | among the perfected beings |
+| kapilaḥ | Kapila |
+| muniḥ | the sage |
+

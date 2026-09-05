@@ -31,3 +31,55 @@ position: 659
 
 ```
 
+
+### Transliteration
+```
+sukhaṃ tv idānīṃ trividhaṃ śṛṇu me bharatarṣabha
+abhyāsād ramate yatra duḥkhāntaṃ ca nigacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को तीन प्रकार के सुखों के विषय में बताना आरम्भ कर रहे हैं। वे कहते हैं कि जिस सुख का अनुभव मनुष्य निरंतर अभ्यास या साधना के द्वारा करता है, वह अंततः सभी दुखों का नाश करने वाला होता है। यह सुख भौतिक इंद्रिय-भोगों से भिन्न है, जो क्षणिक होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna begins to describe the three kinds of happiness to Arjuna. He explains that the happiness which one learns to enjoy through long practice and discipline leads to the complete cessation of all sorrow. This is distinct from fleeting, sensory pleasures.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सुखम् | सुख को |
+| तु | तो |
+| इदानीम् | अब |
+| त्रिविधम् | तीन प्रकार के |
+| शृणु | सुनो |
+| मे | मुझसे |
+| भरतर्षभ | हे भरतश्रेष्ठ |
+| अभ्यासात् | अभ्यास से |
+| रमते | रमण करता है (आनन्द लेता है) |
+| यत्र | जिसमें |
+| दुःख-अन्तम् | दुखों के अंत को |
+| च | और |
+| निगच्छति | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sukham | happiness |
+| tu | indeed |
+| idānīm | now |
+| trividham | of three kinds |
+| śṛṇu | hear |
+| me | from Me |
+| bharatarṣabha | O best of the Bharatas |
+| abhyāsāt | by practice |
+| ramate | rejoices |
+| yatra | in which |
+| duḥkha-antam | the end of pain |
+| ca | and |
+| nigacchati | attains |
+

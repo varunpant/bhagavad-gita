@@ -31,3 +31,53 @@ position: 123
 
 ```
 
+
+### Transliteration
+```
+na karmaṇāmanārambhānnaiṣkarmyaṃ puruṣo'śnute
+na ca saṃnyasanādeva siddhiṃ samadhigacchati
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण स्पष्ट करते हैं कि केवल कर्मों को न करने से कोई व्यक्ति कर्म-बंधन से मुक्त नहीं हो सकता। सच्ची मुक्ति या सिद्धि केवल कर्मों के बाहरी त्याग (संन्यास) से नहीं मिलती। मनुष्य को अपने निर्धारित कर्तव्यों का पालन करते हुए कर्मफल के प्रति आसक्ति का त्याग करना चाहिए।
+
+### Meaning
+
+Lord Krishna explains that simply avoiding work does not lead to spiritual perfection or freedom from karmic reactions. True renunciation is not the physical abandonment of duties, but the detachment from the fruits of action. Therefore, one cannot achieve the ultimate goal of life merely by giving up prescribed duties.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| कर्मणाम् | कर्मों के |
+| अनारम्भात् | आरम्भ न करने से |
+| नैष्कर्म्यम् | कर्म-मुक्ति को |
+| पुरुषः | मनुष्य |
+| अश्नुते | प्राप्त करता है |
+| न | नहीं |
+| च | और |
+| संन्यसनात् | संन्यास से |
+| एव | केवल |
+| सिद्धिम् | सिद्धि को |
+| समधिगच्छति | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| karmaṇām | of actions |
+| anārambhāt | from non-commencement |
+| naiṣkarmyam | freedom from action |
+| puruṣaḥ | a person |
+| aśnute | attains |
+| na | not |
+| ca | and |
+| saṃnyasanāt | from renunciation |
+| eva | only |
+| siddhim | perfection |
+| samadhigacchati | attains |
+

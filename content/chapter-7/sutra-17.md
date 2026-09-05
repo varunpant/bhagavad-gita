@@ -31,3 +31,57 @@ position: 297
 
 ```
 
+
+### Transliteration
+```
+teṣāṃ jñānī nityayukta ekabhaktirviśiṣyate
+priyo hi jñānino'tyarthamahaṃ sa ca mama priyaḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण चार प्रकार के भक्तों (आर्त, जिज्ञासु, अर्थार्थी और ज्ञानी) में से ज्ञानी भक्त को सर्वश्रेष्ठ बताते हैं। ज्ञानी भक्त सदैव परमात्मा में लीन रहता है और उसकी भक्ति निष्काम तथा अनन्य होती है। भगवान और ज्ञानी भक्त के बीच का प्रेम परस्पर और अत्यंत प्रगाढ़ होता है।
+
+### Meaning
+
+Lord Krishna declares the wise devotee (jñānī) to be the foremost among the four types of seekers. Because the wise devotee is constantly established in divine consciousness and possesses single-minded devotion, they are dearest to the Lord. This verse highlights the reciprocal and profound bond of love between God and the self-realized soul.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तेषाम् | उनमें (चारों भक्तों में) |
+| ज्ञानी | ज्ञानवान् |
+| नित्य-युक्तः | सदा मुझमें स्थित |
+| एक-भक्तिः | एकमात्र मुझमें ही अनन्य भक्ति वाला |
+| विशिष्यते | अति उत्तम है |
+| प्रियः | अत्यंत प्रिय |
+| हि | क्योंकि |
+| ज्ञानिनः | ज्ञानी पुरुष को |
+| अत्यर्थम् | अत्यंत |
+| अहम् | मैं |
+| सः | वह |
+| च | और |
+| मम | मेरा |
+| प्रियः | प्रिय (है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| teṣām | of them |
+| jñānī | the wise one |
+| nitya-yuktaḥ | always united (with Me) |
+| eka-bhaktiḥ | having single-minded devotion |
+| viśiṣyate | is preeminent |
+| priyaḥ | dear |
+| hi | indeed |
+| jñāninaḥ | to the wise one |
+| atyartham | exceedingly |
+| aham | I |
+| saḥ | he |
+| ca | and |
+| mama | to Me |
+| priyaḥ | is dear |
+

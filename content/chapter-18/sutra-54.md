@@ -31,3 +31,53 @@ position: 677
 
 ```
 
+
+### Transliteration
+```
+brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati
+samaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस साधक की स्थिति का वर्णन करते हैं जो ब्रह्म-साक्षात्कार की अवस्था को प्राप्त कर चुका है। ऐसा व्यक्ति पूर्णतः संतुष्ट रहता है, सांसारिक लाभ-हानि से परे हो जाता है, और सभी प्राणियों को एक समान देखता है। इस परम शांति की अवस्था में ही उसे भगवान की वास्तविक पराभक्ति (परम प्रेम) प्राप्त होती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the state of a seeker who has attained Brahman-realization. Such a person is completely satisfied, rises above worldly grief and desires, and views all living beings with an equal eye. It is in this state of supreme peace and equanimity that one attains transcendental devotion to the Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ब्रह्म-भूतः | ब्रह्मभाव को प्राप्त हुआ |
+| प्रसन्न-आत्मा | प्रसन्न मन वाला |
+| न | न तो |
+| शोचति | शोक करता है |
+| न | न ही |
+| काङ्क्षति | आकांक्षा करता है |
+| समः | समान भाव वाला |
+| सर्वेषु | सब |
+| भूतेषु | प्राणियों में |
+| मत्-भक्तिम् | मेरी भक्ति को |
+| लभते | प्राप्त करता है |
+| पराम् | परम (परा) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| brahma-bhūtaḥ | having become one with Brahman |
+| prasanna-ātmā | cheerful-minded |
+| na | neither |
+| śocati | grieves |
+| na | nor |
+| kāṅkṣati | desires |
+| samaḥ | equal |
+| sarveṣu | to all |
+| bhūteṣu | living beings |
+| mad-bhaktim | devotion to Me |
+| labhate | attains |
+| parām | supreme |
+

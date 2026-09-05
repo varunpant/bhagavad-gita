@@ -31,3 +31,55 @@ position: 598
 
 ```
 
+
+### Transliteration
+```
+sattvānurūpā sarvasya śraddhā bhavati bhārata
+śraddhāmayo'yaṃ puruṣo yo yacchraddhaḥ sa eva saḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रत्येक व्यक्ति की श्रद्धा उसके अंतःकरण के सत्व (संस्कारों और स्वभाव) के अनुरूप होती है। मनुष्य का अस्तित्व उसकी श्रद्धा से ही निर्मित होता है। जिसकी जैसी श्रद्धा होती है, उसका व्यक्तित्व और गति भी वैसी ही हो जाती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that everyone's faith is shaped by their inner temperament and mental disposition. A human being is essentially characterized by their faith; whatever a person's faith is, that is what they truly become.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सत्त्व-अनुरूपा | अन्तःकरण के अनुरूप |
+| सर्वस्य | सभी की |
+| श्रद्धा | श्रद्धा |
+| भवति | होती है |
+| भारत | हे भरतवंशी अर्जुन |
+| श्रद्धामयः | श्रद्धा-प्रधान |
+| अयम् | यह |
+| पुरुषः | मनुष्य |
+| यः | जो |
+| यत्-श्रद्धः | जैसी श्रद्धा वाला है |
+| सः | वह |
+| एव | ही |
+| सः | वह (है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sattva-anurūpā | according to one's inherent nature |
+| sarvasya | of everyone |
+| śraddhā | faith |
+| bhavati | is |
+| bhārata | O descendant of Bharata |
+| śraddhā-mayaḥ | consisting of faith |
+| ayam | this |
+| puruṣaḥ | human being |
+| yaḥ | who |
+| yat-śraddhaḥ | whatever his faith is |
+| saḥ | he |
+| eva | indeed |
+| saḥ | that (is) |
+

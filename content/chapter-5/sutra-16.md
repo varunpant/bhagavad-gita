@@ -31,3 +31,55 @@ position: 220
 
 ```
 
+
+### Transliteration
+```
+jñānena tu tadajñānaṃ yeṣāṃ nāśitamātmanaḥ
+teṣāmādityavajjñānaṃ prakāśayati tatparam
+
+```
+
+### भावार्थ
+
+पिछले श्लोक में भगवान ने बताया था कि अज्ञान के कारण जीव मोहग्रस्त हो जाते हैं। इस श्लोक में वे कहते हैं कि जब आत्मज्ञान द्वारा वह अज्ञान नष्ट हो जाता है, तो परम सत्य प्रकट हो जाता है। जिस प्रकार सूर्य का उदय अंधकार को मिटाकर सब कुछ प्रकाशित कर देता है, उसी प्रकार ज्ञान अज्ञान के अंधकार को दूर करके परमेश्वर के स्वरूप को प्रकाशित कर देता है।
+
+### Meaning
+
+In the previous verse, Krishna explained how ignorance covers true knowledge, leading beings into delusion. Here, He states that when this ignorance is destroyed by the knowledge of the Self, the ultimate truth is revealed. Just as the rising sun dispels darkness and illuminates everything, spiritual wisdom dispels the darkness of ignorance and reveals the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्ञानेन | ज्ञान के द्वारा |
+| तु | परन्तु |
+| तत् | वह |
+| अज्ञानम् | अज्ञान |
+| येषाम् | जिनका |
+| नाशितम् | नष्ट कर दिया गया है |
+| आत्मनः | आत्मा का |
+| तेषाम् | उनका |
+| आदित्यवत् | सूर्य के समान |
+| ज्ञानम् | ज्ञान |
+| प्रकाशयति | प्रकाशित करता है |
+| तत् | उस |
+| परम् | परम (तत्त्व) को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jñānena | by knowledge |
+| tu | but |
+| tat | that |
+| ajñānam | ignorance |
+| yeṣām | whose |
+| nāśitam | is destroyed |
+| ātmanaḥ | of the self |
+| teṣām | their |
+| ādityavat | like the sun |
+| jñānam | knowledge |
+| prakāśayati | illuminates |
+| tat | that |
+| param | Supreme Reality |
+

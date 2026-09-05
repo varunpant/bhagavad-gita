@@ -31,3 +31,55 @@ position: 312
 
 ```
 
+
+### Transliteration
+```
+adhiyajñaḥ kathaṃ ko'tra dehe'sminmadhusūdana
+prayāṇakāle ca kathaṃ jñeyo'si niyatātmabhiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण से दो और प्रश्न पूछते हैं। वे जानना चाहते हैं कि इस मानव शरीर के भीतर यज्ञों का स्वामी (अधियज्ञ) कौन है और वह कैसे निवास करता है। इसके अतिरिक्त, वे यह भी पूछते हैं कि मृत्यु के समय संयमित मन वाले भक्त भगवान को किस प्रकार जान पाते हैं।
+
+### Meaning
+
+In this verse, Arjuna asks Krishna two more questions to complete his inquiry. He wants to know who the Lord of sacrifice (adhiyajña) is within this physical body and how He resides there. Furthermore, he asks how those with a disciplined mind can know and remember the Supreme Lord at the critical moment of death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अधियज्ञः | यज्ञ का स्वामी (अधियज्ञ) |
+| कथम् | कैसे |
+| कः | कौन |
+| अत्र | यहाँ |
+| देहे | शरीर में |
+| अस्मिन् | इस |
+| मधुसूदन | हे मधुसूदन (कृष्ण) |
+| प्रयाण-काले | मृत्यु के समय (प्रयाण काल में) |
+| च | और |
+| कथम् | कैसे |
+| ज्ञेयः | जानने योग्य |
+| असि | आप हैं |
+| नियत-आत्मभिः | संयमित चित्त वाले पुरुषों द्वारा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adhiyajñaḥ | the Lord of sacrifice |
+| katham | how |
+| kaḥ | who |
+| atra | here |
+| dehe | in the body |
+| asmin | this |
+| madhusūdana | O Madhusudana (killer of the Madhu demon) |
+| prayāṇa-kāle | at the time of death |
+| ca | and |
+| katham | how |
+| jñeyaḥ | to be known |
+| asi | are You |
+| niyata-ātmabhiḥ | by those of self-controlled mind |
+

@@ -34,3 +34,51 @@ and Kuntibhoja and Saibya, the best men.
 
 ```
 
+
+### Transliteration
+```
+dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān
+purujitkuntibhojaśca śaibyaśca narapuṅgavaḥ
+
+```
+
+### भावार्थ
+
+दुर्योधन द्रोणाचार्य को पाण्डव सेना के प्रमुख योद्धाओं के नाम बता रहा है। इस श्लोक में वह धृष्टकेतु, चेकितान, पराक्रमी काशिराज, पुरुजित, कुन्तिभोज और मनुष्यों में श्रेष्ठ शैब्य का उल्लेख करता है। ये सभी महारथी पाण्डवों की ओर से युद्ध करने के लिए एकत्र हुए हैं।
+
+### Meaning
+
+Duryodhana continues to list the prominent warriors in the Pandava army to his teacher, Dronacharya. In this verse, he mentions Dhrishtaketu, Chekitana, the heroic King of Kashi, Purujit, Kuntibhoja, and Shaibya, who is described as a bull among men. These great fighters have all assembled to fight on behalf of the Pandavas.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| धृष्टकेतुः | धृष्टकेतु |
+| चेकितानः | चेकितान |
+| काशिराजः | काशी के राजा |
+| च | और |
+| वीर्यवान् | बलवान |
+| पुरुजित् | पुरुजित |
+| कुन्तिभोजः | कुन्तिभोज |
+| च | और |
+| शैब्यः | शैब्य |
+| च | और |
+| नरपुङ्गवः | मनुष्यों में श्रेष्ठ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dhṛṣṭaketuḥ | Dhrishtaketu |
+| cekitānaḥ | Chekitana |
+| kāśirājaḥ | the King of Kashi |
+| ca | and |
+| vīryavān | valiant |
+| purujit | Purujit |
+| kuntibhojaḥ | Kuntibhoja |
+| ca | and |
+| śaibyaḥ | Shaibya |
+| ca | and |
+| narapuṅgavaḥ | the best among men |
+

@@ -31,3 +31,57 @@ position: 660
 
 ```
 
+
+### Transliteration
+```
+yat tad agre viṣam iva pariṇāme 'mṛtopamam
+tat sukhaṃ sāttvikaṃ proktam ātma-buddhi-prasādajam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक सुख की परिभाषा देते हैं। ऐसा सुख जो साधना के आरम्भ में कठिन और विष जैसा प्रतीत होता है, क्योंकि इसमें इन्द्रिय-संयम और अनुशासन की आवश्यकता होती है, वह अंत में परम कल्याणकारी और अमृत के समान होता है। यह सुख बुद्धि की निर्मलता और आत्म-साक्षात्कार से उत्पन्न होता है।
+
+### Meaning
+
+In this verse, Lord Krishna defines Sattvik (pure) happiness. Such happiness initially requires self-discipline and control of the senses, which may feel like poison at first, but ultimately leads to spiritual realization and tastes like nectar. It arises from the purification of one's own intellect and connection with the self.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| तत् | वह |
+| अग्रे | आरम्भ में |
+| विषम् | विष के |
+| इव | समान |
+| परिणामे | परिणाम में (अंत में) |
+| अमृत-उपमम् | अमृत के समान |
+| तत् | वह |
+| सुखम् | सुख |
+| सात्त्विकम् | सात्त्विक |
+| प्रोक्तम् | कहा गया है |
+| आत्म | अपने |
+| बुद्धि | बुद्धि की |
+| प्रसाद-जम् | प्रसन्नता से उत्पन्न |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | which |
+| tat | that |
+| agre | in the beginning |
+| viṣam | poison |
+| iva | like |
+| pariṇāme | in the transformation (end) |
+| amṛta-upamam | comparable to nectar |
+| tat | that |
+| sukham | happiness |
+| sāttvikam | Sattvik (pure) |
+| proktam | is declared |
+| ātma | of one's own |
+| buddhi | intellect |
+| prasāda-jam | born of the purity (or peace) |
+

@@ -31,3 +31,45 @@ position: 583
 
 ```
 
+
+### Transliteration
+```
+āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ
+īhante kāmabhogārthamanyāyenārthasañcayān
+
+```
+
+### भावार्थ
+
+इस श्लोक में आसुरी प्रवृत्ति वाले मनुष्यों के आचरण का वर्णन किया गया है। वे अनगिनत इच्छाओं और आशाओं के जाल में जकड़े रहते हैं और काम-क्रोध के वशीभूत होकर जीते हैं। अपनी इंद्रिय-तृप्ति के लिए वे किसी भी हद तक जा सकते हैं और अन्यायपूर्ण तरीकों से धन इकट्ठा करने में संकोच नहीं करते।
+
+### Meaning
+
+This verse describes the behavior of those with demoniac qualities. Bound by hundreds of desires and expectations, and completely dominated by lust and anger, they lose their moral compass. Consequently, they strive to amass wealth through illegal and unjust means solely to satisfy their sensory appetites.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आशा-पाश-शतैः | आशा रूपी फाँसियों के सैकड़ों (जालों) द्वारा |
+| बद्धाः | बंधे हुए |
+| काम-क्रोध | काम और क्रोध के |
+| परायणाः | परायण (आश्रित) |
+| ईहन्ते | चेष्टा करते हैं |
+| काम-भोग-अर्थम् | इंद्रिय-भोगों की तृप्ति के लिए |
+| अन्यायेन | अन्यायपूर्वक |
+| अर्थ-सञ्चयान् | धन के संग्रहों को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āśā-pāśa-śataiḥ | by hundreds of shackles of hope and desire |
+| baddhāḥ | bound |
+| kāma-krodha | to lust and anger |
+| parāyaṇāḥ | devoted |
+| īhante | they desire / strive |
+| kāma-bhoga-artham | for the purpose of gratifying desires |
+| anyāyena | by unjust means |
+| artha-sañcayān | accumulation of wealth |
+

@@ -31,3 +31,51 @@ position: 676
 
 ```
 
+
+### Transliteration
+```
+ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham
+vimucya nirmamaḥ śānto brahmabhūyāya kalpate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन गुणों का वर्णन कर रहे हैं जो एक साधक को ब्रह्मभाव (परमात्मा के साथ एकत्व) प्राप्त करने के योग्य बनाते हैं। साधक को अहंकार, शारीरिक बल का घमंड, वासना, क्रोध और अनावश्यक संग्रह की प्रवृत्ति को पूरी तरह छोड़ना होगा। जब मनुष्य ममता से रहित और आंतरिक रूप से शांत हो जाता है, तभी वह परम सत्य का अनुभव करने का अधिकारी बनता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the qualities that make a seeker fit for attaining the state of Brahman (oneness with the Supreme). The seeker must completely abandon egotism, pride of strength, arrogance, lust, anger, and the habit of acquiring possessions. Only when one becomes free from the sense of possessiveness and attains inner peace does one become eligible for self-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहङ्कारम् | अहंकार को |
+| बलम् | बल को |
+| दर्पम् | घमंड को |
+| कामम् | काम (कामना) को |
+| क्रोधम् | क्रोध को |
+| परिग्रहम् | परिग्रह (संग्रह) को |
+| विमुच्य | त्याग कर |
+| निर्ममः | ममता से रहित |
+| शान्तः | शांत |
+| ब्रह्मभूयाय | ब्रह्मभाव के लिए |
+| कल्पते | योग्य होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ahaṅkāram | egotism |
+| balam | strength (pride of power) |
+| darpam | arrogance |
+| kāmam | desire |
+| krodham | anger |
+| parigraham | possessiveness (or acquisitions) |
+| vimucya | having abandoned |
+| nirmamaḥ | free from the notion of 'mine' |
+| śāntaḥ | peaceful |
+| brahmabhūyāya | for becoming Brahman |
+| kalpate | is fit |
+

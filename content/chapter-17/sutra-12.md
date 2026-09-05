@@ -31,3 +31,57 @@ position: 607
 
 ```
 
+
+### Transliteration
+```
+abhisandhāya tu phalaṃ dambhārtham api caiva yat
+ijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण राजस यज्ञ के लक्षणों का वर्णन कर रहे हैं। जो यज्ञ किसी सांसारिक फल या पुरस्कार की इच्छा से अथवा समाज में अपनी प्रतिष्ठा और पाखंड दिखाने के लिए किया जाता है, वह राजस कहलाता है। ऐसे यज्ञ में निष्काम भावना या श्रद्धा का अभाव होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a Rajasika sacrifice. A sacrifice that is performed with a desire for material rewards or purely for show and ostentation is classified as Rajasika. Such actions lack selfless devotion and are driven by ego and desire.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अभिसंधाय | उद्देश्य बनाकर (फल की इच्छा रखकर) |
+| तु | परंतु |
+| फलम् | फल को |
+| दम्भ-अर्थम् | दिखावे या पाखंड के लिए |
+| अपि | भी |
+| च | और |
+| एव | ही |
+| यत् | जो |
+| इज्यते | किया जाता है |
+| भरतश्रेष्ठ | हे भरतवंशियों में श्रेष्ठ (अर्जुन) |
+| तम् | उस |
+| यज्ञम् | यज्ञ को |
+| विद्धि | जानो |
+| राजसम् | राजस |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| abhisandhāya | aiming at (desiring) |
+| tu | but |
+| phalam | the fruit |
+| dambha-artham | for the sake of ostentation |
+| api | also |
+| ca | and |
+| eva | indeed |
+| yat | which |
+| ijyate | is performed |
+| bharataśreṣṭha | O best of the Bharatas |
+| tam | that |
+| yajñam | sacrifice |
+| viddhi | know |
+| rājasam | Rajasika (passionate) |
+

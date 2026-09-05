@@ -31,3 +31,55 @@ position: 108
 
 ```
 
+
+### Transliteration
+```
+tāni sarvāṇi saṃyamya yukta āsīta matparaḥ
+vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण मन को स्थिर करने का व्यावहारिक उपाय बताते हैं। केवल इन्द्रियों को बलपूर्वक रोकना पर्याप्त नहीं है, बल्कि मन को परमेश्वर में लगाना आवश्यक है। जब इन्द्रियाँ पूरी तरह से नियंत्रण में होती हैं और मन भगवान में स्थित होता है, तभी मनुष्य की बुद्धि वास्तव में स्थिर होती है।
+
+### Meaning
+
+Krishna explains the practical method for achieving a steady mind. Mere suppression of the senses is not enough; one must actively focus their consciousness on the Supreme. Only when the senses are fully controlled and the mind is anchored in the Divine does one's wisdom become truly established.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तानि | उन |
+| सर्वाणि | सभी को |
+| संयम्य | नियंत्रित करके |
+| युक्तः | योगयुक्त होकर |
+| आसीत | स्थित होना चाहिए |
+| मत्परः | मेरे परायण होकर |
+| वशे | वश में |
+| हि | निश्चित रूप से |
+| यस्य | जिसकी |
+| इन्द्रियाणि | इन्द्रियाँ |
+| तस्य | उसकी |
+| प्रज्ञा | बुद्धि |
+| प्रतिष्ठिता | स्थिर है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tāni | them |
+| sarvāṇi | all |
+| saṃyamya | having controlled |
+| yuktaḥ | steadfast |
+| āsīta | should sit |
+| matparaḥ | intent on Me |
+| vaśe | in control |
+| hi | certainly |
+| yasya | whose |
+| indriyāṇi | senses |
+| tasya | his |
+| prajñā | wisdom |
+| pratiṣṭhitā | is steady |
+

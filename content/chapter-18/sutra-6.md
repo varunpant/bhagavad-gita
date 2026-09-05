@@ -31,3 +31,59 @@ position: 629
 
 ```
 
+
+### Transliteration
+```
+etāny api tu karmāṇi saṅgaṃ tyaktvā phalāni ca
+kartavyānīti me pārtha niścitaṃ matam uttamam
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण यहाँ स्पष्ट करते हैं कि यज्ञ, दान और तप जैसे पावन कर्मों का कभी त्याग नहीं करना चाहिए। इन्हें केवल कर्तव्य मानकर, बिना किसी फल की इच्छा या कर्तापन के अहंकार के किया जाना चाहिए। यही निष्काम कर्मयोग का वास्तविक सिद्धांत है और भगवान का परम मत है।
+
+### Meaning
+
+Lord Krishna clarifies that essential duties like sacrifice, charity, and penance should never be abandoned. They must be performed purely as a matter of duty, without any personal attachment or desire for their fruits. This is the core principle of Nishkama Karma Yoga and represents the Lord's supreme judgment.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एतानि | इन |
+| अपि | भी |
+| तु | तो |
+| कर्माणि | कर्मों को |
+| सङ्गम् | आसक्ति को |
+| त्यक्त्वा | त्यागकर |
+| फलानि | फलों को |
+| च | और |
+| कर्तव्यानि | करने योग्य हैं |
+| इति | इस प्रकार |
+| मे | मेरा |
+| पार्थ | हे अर्जुन (प्रथापुत्र) |
+| निश्चितम् | निश्चित किया हुआ |
+| मतम् | मत |
+| उत्तमम् | सर्वश्रेष्ठ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| etāni | these |
+| api | even |
+| tu | indeed |
+| karmāṇi | actions |
+| saṅgam | attachment |
+| tyaktvā | having given up |
+| phalāni | fruits |
+| ca | and |
+| kartavyāni | must be performed |
+| iti | thus |
+| me | My |
+| pārtha | O Partha (Arjuna) |
+| niścitam | definite |
+| matam | opinion |
+| uttamam | highest |
+

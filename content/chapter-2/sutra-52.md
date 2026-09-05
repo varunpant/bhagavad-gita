@@ -31,3 +31,51 @@ position: 99
 
 ```
 
+
+### Transliteration
+```
+yadā te mohakalilaṃ buddhirvyatitariṣyati
+tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आध्यात्मिक बुद्धि और वैराग्य के उदय का वर्णन करते हैं। जब मनुष्य की बुद्धि सांसारिक मोह और अज्ञान के दलदल को पार कर लेती है, तब उसमें स्वाभाविक रूप से वैराग्य उत्पन्न हो जाता है। उस अवस्था में पहुँचने पर, व्यक्ति इस लोक या परलोक के सुने हुए और सुनने योग्य सभी भोगों के प्रति पूरी तरह से उदासीन हो जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the result of spiritual intelligence and detachment. When a person's mind completely overcomes the confusion caused by material attachments, they naturally develop dispassion. At that stage, they are no longer influenced by Vedic rituals promising heavenly rewards or any worldly knowledge they have heard or are yet to hear.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदा | जब |
+| ते | तुम्हारी |
+| मोहकलिलम् | मोह रूपी दलदल को |
+| बुद्धिः | बुद्धि |
+| व्यतितरिष्यति | पार कर जाएगी |
+| तदा | तब |
+| गन्तासि | तुम प्राप्त होओगे |
+| निर्वेदम् | वैराग्य को |
+| श्रोतव्यस्य | सुनने योग्य के |
+| श्रुतस्य | सुने हुए के |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadā | when |
+| te | your |
+| mohakalilam | the mire of delusion |
+| buddhiḥ | intelligence |
+| vyatitariṣyati | will cross over |
+| tadā | then |
+| gantāsi | you shall attain |
+| nirvedam | indifference |
+| śrotavyasya | of what is to be heard |
+| śrutasya | of what has been heard |
+| ca | and |
+

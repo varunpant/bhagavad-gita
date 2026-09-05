@@ -31,3 +31,53 @@ position: 647
 
 ```
 
+
+### Transliteration
+```
+yat tu kāmepsunā karma sāhaṅkāreṇa vā punaḥ
+kriyate bahulāyāsaṃ tad rājasam udāhṛtam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण राजस कर्म के लक्षणों का वर्णन कर रहे हैं। राजस कर्म वह है जो वासनाओं या फलों की इच्छा से प्रेरित होकर, अहंकार के भाव के साथ और अत्यधिक शारीरिक या मानसिक श्रम के साथ किया जाता है। ऐसा कर्म कर्ता को थका देता है और उसे संसार के बंधनों में बांधता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of Rajasika action. Rajasika action is that which is driven by selfish desires for sensory enjoyment, performed with a strong sense of ego, and involves immense strain or effort. Such action leads to exhaustion and further binds the individual to the cycle of karma.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| तु | परंतु |
+| काम-ईप्सुना | भोगों की इच्छा रखने वाले के द्वारा |
+| कर्म | कर्म |
+| स-अहंकारेण | अहंकार से युक्त होकर |
+| वा | या |
+| पुनः | फिर |
+| क्रियते | किया जाता है |
+| बहुल-आयासम् | बहुत परिश्रम से युक्त |
+| तत् | वह |
+| राजसम् | राजस |
+| उदाहृतम् | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | which |
+| tu | but |
+| kāma-īpsunā | by one seeking desires |
+| karma | action |
+| sa-ahaṅkāreṇa | with egoism |
+| vā | or |
+| punaḥ | again |
+| kriyate | is performed |
+| bahula-āyāsam | with great effort |
+| tat | that |
+| rājasam | Rajasika |
+| udāhṛtam | is declared |
+

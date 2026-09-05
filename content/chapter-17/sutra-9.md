@@ -31,3 +31,57 @@ position: 604
 
 ```
 
+
+### Transliteration
+```
+kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ
+āhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण राजसी भोजन के लक्षणों का वर्णन कर रहे हैं। जो भोजन अति कड़वे, अति खट्टे, अति नमकीन, बहुत गर्म, तीखे, रूखे और शरीर में जलन पैदा करने वाले होते हैं, वे रजोगुणी मनुष्यों को प्रिय होते हैं। ऐसा भोजन तात्कालिक स्वाद तो दे सकता है, परंतु अंततः यह दुःख, मानसिक चिंता और शारीरिक रोगों को जन्म देता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of food in the mode of passion (rajas). Foods that are excessively bitter, sour, salty, hot, pungent, dry, and burning are preferred by rajasic individuals. Although such foods may appeal to the senses initially, they ultimately lead to discomfort, mental grief, and physical diseases.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कटु | कड़वे |
+| अम्ल | खट्टे |
+| लवण | नमकीन |
+| अति-उष्ण | अत्यधिक गर्म |
+| तीक्ष्ण | तीखे (मिर्च आदि) |
+| रूक्ष | रूखे (सूखे) |
+| विदाहिनः | जलन पैदा करने वाले |
+| आहाराः | भोजन |
+| राजसस्य | रजोगुणी पुरुष को |
+| इष्टाः | प्रिय होते हैं |
+| दुःख | दुःख |
+| शोक | शोक (चिंता) |
+| आमय | और रोग |
+| प्रदाः | प्रदान करने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kaṭu | bitter |
+| amla | sour |
+| lavaṇa | salty |
+| ati-uṣṇa | excessively hot |
+| tīkṣṇa | pungent |
+| rūkṣa | dry |
+| vidāhinaḥ | burning |
+| āhārāḥ | foods |
+| rājasasya | to one in the mode of passion |
+| iṣṭāḥ | are dear |
+| duḥkha | pain |
+| śoka | grief |
+| āmaya | disease |
+| pradāḥ | causing |
+

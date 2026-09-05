@@ -32,3 +32,55 @@ of forbidden (or unlawful) action, and of inaction; hard to understand is the na
 
 ```
 
+
+### Transliteration
+```
+karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ
+akarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण कर्म की जटिलता को समझाते हैं। मनुष्य को विहित कर्म, विकर्म (निषिद्ध कर्म) और अकर्म (कर्म न करना) के बीच का अंतर स्पष्ट रूप से समझना चाहिए। कर्म की गति और उसके परिणाम अत्यंत गूढ़ हैं, जिन्हें समझना साधारण मनुष्य के लिए बहुत कठिन है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the complexity of action. One must clearly distinguish between prescribed duties, forbidden actions, and inaction. The true nature and consequences of action are extremely deep and difficult for the ordinary mind to comprehend.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्मणः | कर्म का |
+| हि | निश्चित रूप से |
+| अपि | भी |
+| बोद्धव्यम् | जानना चाहिए |
+| बोद्धव्यम् | जानना चाहिए |
+| च | और |
+| विकर्मणः | विकर्म (निषिद्ध कर्म) का |
+| अकर्मणः | अकर्म का |
+| च | और |
+| बोद्धव्यम् | जानना चाहिए |
+| गहना | गहन (समझने में कठिन) |
+| कर्मणः | कर्म की |
+| गतिः | गति (रहस्य) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karmaṇaḥ | of action |
+| hi | certainly |
+| api | also |
+| boddhavyam | should be known |
+| boddhavyam | should be known |
+| ca | and |
+| vikarmaṇaḥ | of forbidden action |
+| akarmaṇaḥ | of inaction |
+| ca | and |
+| boddhavyam | should be known |
+| gahanā | profound |
+| karmaṇaḥ | of action |
+| gatiḥ | path |
+

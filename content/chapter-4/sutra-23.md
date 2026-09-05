@@ -31,3 +31,51 @@ position: 185
 
 ```
 
+
+### Transliteration
+```
+gatasaṅgasya muktasya jñānāvasthitacetasaḥ
+yajñāyācarataḥ karma samagraṃ pravilīyate
+
+```
+
+### भावार्थ
+
+यह श्लोक एक मुक्त पुरुष की अवस्था का वर्णन करता है जो भौतिक आसक्तियों से रहित होकर कर्म करता है। चूँकि उसका मन आध्यात्मिक ज्ञान में स्थिर होता है और वह केवल परमेश्वर (यज्ञ) को प्रसन्न करने के लिए कार्य करता है, इसलिए उसके कर्म कोई बंधन उत्पन्न नहीं करते। ऐसे व्यक्ति के सभी कर्म और उनके फल पूर्णतः विलीन हो जाते हैं, जिससे वह सदा मुक्त रहता है।
+
+### Meaning
+
+This verse explains the state of a liberated soul who performs actions without any material attachment. Because their mind is firmly established in spiritual knowledge and they act solely as an offering to the Supreme, their actions do not create any karmic bondage. Instead, all their actions and reactions completely dissolve, keeping them eternally free.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| गत | दूर हो गई है |
+| सङ्गस्य | जिसकी आसक्ति |
+| मुक्तस्य | मुक्त पुरुष के |
+| ज्ञान | ज्ञान में |
+| अवस्थित | स्थित |
+| चेतसः | चित्त वाले के |
+| यज्ञाय | यज्ञ के लिए |
+| आचरतः | कर्म करने वाले के |
+| कर्म | कर्म |
+| समग्रम् | सम्पूर्ण |
+| प्रविलीयते | विलीन हो जाते हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| gata | freed from |
+| saṅgasya | of attachment |
+| muktasya | of the liberated one |
+| jñāna | in knowledge |
+| avasthita | situated |
+| cetasaḥ | whose mind |
+| yajñāya | for the sake of sacrifice |
+| ācarataḥ | acting |
+| karma | action |
+| samagram | entirely |
+| pravilīyate | dissolves |
+

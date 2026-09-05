@@ -31,3 +31,53 @@ position: 375
 
 ```
 
+
+### Transliteration
+```
+yo mām ajam anādiṃ ca vetti lokamaheśvaram
+asammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी दिव्य प्रकृति का वर्णन कर रहे हैं। वे अजन्मा और अनादि हैं, क्योंकि वे ही सभी सृष्टि के मूल कारण हैं। जो मनुष्य इस सत्य को तत्व से जान लेता है, वह मोह से मुक्त होकर सभी पापों से छूट जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine nature as unborn and beginningless, being the ultimate source of everything. The person who realizes this truth is freed from delusion and is liberated from all accumulated sins.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| माम् | मुझको |
+| अजम् | अजन्मा (जन्म रहित) |
+| अनादिम् | अनादि (शुरुआत रहित) |
+| च | और |
+| वेत्ति | जानता है |
+| लोक-महा-ईश्वरम् | लोकों के महान ईश्वर के रूप में |
+| असम्मूढः | मोह-रहित (भ्रम से मुक्त) |
+| सः | वह |
+| मर्त्येषु | मनुष्यों में |
+| सर्व-पापैः | सभी पापों से |
+| प्रमुच्यते | मुक्त हो जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| mām | Me |
+| ajam | unborn |
+| anādim | beginningless |
+| ca | and |
+| vetti | knows |
+| loka-mahā-īśvaram | the great Lord of the worlds |
+| asammūḍhaḥ | undeluded |
+| saḥ | he |
+| martyeṣu | among mortals |
+| sarva-pāpaiḥ | from all sins |
+| pramucyate | is liberated |
+

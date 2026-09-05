@@ -31,3 +31,63 @@ position: 632
 
 ```
 
+
+### Transliteration
+```
+kāryam ity eva yat karma niyataṃ kriyate'rjuna
+saṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक त्याग की परिभाषा स्पष्ट कर रहे हैं। उनके अनुसार, कर्मों का स्वरूप से त्याग करना सच्चा त्याग नहीं है, बल्कि कर्म करते हुए उसके फल और कर्तापन के अहंकार (आसक्ति) को छोड़ देना ही वास्तविक सात्त्विक त्याग है। जब कोई व्यक्ति अपने नियत कर्तव्यों को केवल अपना कर्तव्य समझकर निष्काम भाव से करता है, तो वह सात्त्विक त्यागी कहलाता है।
+
+### Meaning
+
+In this verse, Lord Krishna defines the nature of sattvika (pure) renunciation. He explains that true renunciation does not mean abandoning prescribed duties physically, but rather performing them with a sense of duty while relinquishing attachment to the results and personal ownership. Doing one's duty simply because it is right to do so, without desiring reward, is considered the highest form of sacrifice.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कार्यम् | करना कर्तव्य है |
+| इति | इस प्रकार |
+| एव | ही |
+| यत् | जो |
+| कर्म | नियत कर्म |
+| नियतम् | शास्त्रसम्मत |
+| क्रियते | किया जाता है |
+| अर्जुन | हे अर्जुन |
+| सङ्गम् | आसक्ति को |
+| त्यक्त्वा | त्यागकर |
+| फलम् | फल को |
+| च | और |
+| एव | भी |
+| सः | वह |
+| त्यागः | त्याग |
+| सात्त्विकः | सात्त्विक |
+| मतः | माना गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kāryam | must be done (as duty) |
+| iti | thus |
+| eva | only |
+| yat | which |
+| karma | action |
+| niyatam | prescribed |
+| kriyate | is performed |
+| arjuna | O Arjuna |
+| saṅgam | attachment |
+| tyaktvā | giving up |
+| phalam | the fruit |
+| ca | and |
+| eva | also |
+| saḥ | that |
+| tyāgaḥ | renunciation |
+| sāttvikaḥ | in the mode of goodness (sattvika) |
+| mataḥ | is considered |
+

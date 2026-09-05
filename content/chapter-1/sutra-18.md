@@ -32,3 +32,53 @@ the son of Subhadra, the mighty-armed, blew their conches separately.
 
 ```
 
+
+### Transliteration
+```
+drupado draupadeyāśca sarvaśaḥ pṛthivīpate
+saubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र को 'पृथ्वीपति' कहकर सम्बोधित करते हैं और पाण्डव सेना के अन्य प्रमुख योद्धाओं का वर्णन करते हैं। राजा द्रुपद, द्रौपदी के पाँचों पुत्र और सुभद्रा के वीर पुत्र अभिमन्यु ने भी अपने-अपने शंख बजाए। यह भयंकर ध्वनि कौरव सेना के मनोबल को तोड़ने वाली थी और पाण्डवों की युद्ध के लिए पूर्ण तैयारी को दर्शाती थी।
+
+### Meaning
+
+Sanjaya addresses King Dhritarashtra as the 'Lord of the Earth' and continues listing the prominent warriors of the Pandava army. King Drupada, the five sons of Draupadi, and the mighty-armed Abhimanyu all blew their respective conches. This collective and deafening sound signified the Pandavas' absolute readiness for the impending war and served to shatter the morale of the Kaurava army.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| द्रुपदः | राजा द्रुपद |
+| द्रौपदेयाः | द्रौपदी के पुत्र |
+| च | और |
+| सर्वशः | सब ओर से |
+| पृथिवीपते | हे पृथ्वी के स्वामी |
+| सौभद्रः | सुभद्रा के पुत्र (अभिमन्यु) |
+| च | तथा |
+| महाबाहुः | विशाल भुजाओं वाले |
+| शङ्खान् | शंखों को |
+| दध्मुः | बजाया |
+| पृथक् | अलग |
+| पृथक् | अलग |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| drupadaḥ | King Drupada |
+| draupadeyāḥ | the sons of Draupadi |
+| ca | and |
+| sarvaśaḥ | from all sides |
+| pṛthivīpate | O Lord of the earth |
+| saubhadraḥ | the son of Subhadra (Abhimanyu) |
+| ca | and |
+| mahābāhuḥ | the mighty-armed |
+| śaṅkhān | conches |
+| dadhmuḥ | blew |
+| pṛthak | separately |
+| pṛthak | separately |
+

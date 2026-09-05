@@ -31,3 +31,55 @@ position: 551
 
 ```
 
+
+### Transliteration
+```
+brahmaṇo hi pratiṣṭhāham amṛtasyāvyayasya ca
+śāśvatasya ca dharmasya sukhasyaikāntikasya ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी दिव्य स्थिति को स्पष्ट करते हैं। वे बताते हैं कि निराकार ब्रह्म, जो कि अविनाशी और शाश्वत है, वास्तव में उनके ही स्वरूप पर आश्रित है। वे ही परम धर्म और परम आनंद के एकमात्र स्रोत हैं।
+
+### Meaning
+
+In this verse, Lord Krishna declares His supreme position as the ultimate source. He explains that the impersonal Brahman, which is immortal and immutable, rests upon Him. He is also the foundation of the eternal dharma and the absolute, unending bliss.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ब्रह्मणः | निराकार ब्रह्म का |
+| हि | क्योंकि |
+| प्रतिष्ठा | आश्रय / आधार |
+| अहम् | मैं (हूँ) |
+| अमृतस्य | अमृत स्वरूप का |
+| अव्ययस्य | अविनाशी का |
+| च | और |
+| शाश्वतस्य | सनातन का |
+| च | और |
+| धर्मस्य | धर्म का |
+| सुखस्य | आनंद का |
+| ऐकान्तिकस्य | अखंड / परम |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| brahmaṇaḥ | of the Brahman |
+| hi | certainly |
+| pratiṣṭhā | the foundation |
+| aham | I am |
+| amṛtasya | of the immortal |
+| avyayasya | of the imperishable |
+| ca | and |
+| śāśvatasya | of the eternal |
+| ca | and |
+| dharmasya | of the dharma (righteousness) |
+| sukhasya | of happiness |
+| aikāntikasya | of the ultimate / absolute |
+| ca | and |
+

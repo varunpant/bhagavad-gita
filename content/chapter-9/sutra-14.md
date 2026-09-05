@@ -31,3 +31,53 @@ position: 352
 
 ```
 
+
+### Transliteration
+```
+satataṃ kīrtayanto māṃ yatantaśca dṛḍhavratāḥ
+namasyantaśca māṃ bhaktyā nityayuktā upāsate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन महान आत्माओं (महात्माओं) के भक्ति आचरण का वर्णन करते हैं जो अनन्य भाव से उनकी शरण लेते हैं। वे भक्त निरंतर भगवान के नामों और गुणों का कीर्तन करते हैं, अपनी साधना में दृढ़ रहते हैं, और अत्यंत श्रद्धा के साथ भगवान की आराधना करते हैं। उनका मन और बुद्धि सदैव परमात्मा में ही लीन रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the devotional practices of the great souls (mahatmas) who take shelter of His divine nature. They constantly chant His glories, make sincere endeavors with firm determination, and offer obeisances with deep devotion. Their minds are perpetually absorbed in loving communion with the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सततम् | निरंतर / सदा |
+| कीर्तयन्तः | कीर्तन करते हुए / यश गाते हुए |
+| माम् | मुझको |
+| यतन्तः | प्रयत्न करते हुए |
+| च | और |
+| दृढ-व्रताः | दृढ़ संकल्प वाले |
+| नमस्यन्तः | नमस्कार करते हुए |
+| च | और |
+| माम् | मुझको |
+| भक्त्या | भक्ति से |
+| नित्य-युक्ताः | सदैव जुड़े हुए / नित्ययुक्त |
+| उपासते | उपासना करते हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| satatam | always / constantly |
+| kīrtayantaḥ | glorifying / chanting |
+| mām | Me |
+| yatantaḥ | striving / endeavoring |
+| ca | and |
+| dṛḍha-vratāḥ | with firm resolve / vows |
+| namasyantaḥ | bowing down / offering obeisances |
+| ca | and |
+| mām | Me |
+| bhaktyā | with devotion |
+| nitya-yuktāḥ | always united / perpetually engaged |
+| upāsate | worship |
+

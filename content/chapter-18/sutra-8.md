@@ -31,3 +31,59 @@ position: 631
 
 ```
 
+
+### Transliteration
+```
+duḥkham ity eva yat karma kāyakleśabhayāt tyajet
+sa kṛtvā rājasaṃ tyāgaṃ naiva tyāgaphalaṃ labhet
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण राजस त्याग की परिभाषा दे रहे हैं। जब कोई व्यक्ति अपने नियत कर्तव्यों को केवल इसलिए छोड़ देता है क्योंकि वे शारीरिक रूप से कष्टदायक या कठिन लगते हैं, तो ऐसा त्याग रजोगुण से प्रेरित होता है। इस प्रकार के त्याग से मनुष्य को वास्तविक त्याग (ज्ञान और शांति) का फल प्राप्त नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna defines the rajasika (passionate) form of renunciation. When someone abandons their prescribed duties simply because they seem physically painful or difficult, such renunciation is driven by the mode of passion. Such a person does not attain the true spiritual fruit of renunciation, which is peace and liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दुःखम् | दुःख रूप |
+| इति | इस प्रकार |
+| एव | ही |
+| यत् | जो |
+| कर्म | कर्तव्य कर्म को |
+| काय-क्लेश-भयात् | शारीरिक कष्ट के भय से |
+| त्यजेत् | त्याग दे |
+| सः | वह |
+| कृत्वा | करके |
+| राजसम् | राजस |
+| त्यागम् | त्याग को |
+| न | नहीं |
+| एव | ही |
+| त्याग-फलम् | त्याग के फल को |
+| लभेत् | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| duḥkham | painful |
+| iti | thus |
+| eva | only |
+| yat | which |
+| karma | duty |
+| kāya-kleśa-bhayāt | out of fear of bodily discomfort |
+| tyajet | one abandons |
+| saḥ | he |
+| kṛtvā | performing |
+| rājasam | rajasika (in the mode of passion) |
+| tyāgam | renunciation |
+| na | not |
+| eva | certainly |
+| tyāga-phalam | the fruit of renunciation |
+| labhet | obtains |
+

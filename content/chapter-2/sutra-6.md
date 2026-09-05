@@ -31,3 +31,75 @@ position: 53
 
 ```
 
+
+### Transliteration
+```
+na caitadvidmaḥ kataranno garīyo yadvā jayema yadi vā no jayeyuḥ
+yāneva hatvā na jijīviṣāmaste'vasthitāḥ pramukhe dhārtarāṣṭrāḥ
+
+```
+
+### भावार्थ
+
+अर्जुन अपने गहरे नैतिक संकट और युद्ध के परिणाम को लेकर अपनी दुविधा व्यक्त करते हैं। वह अनिश्चित हैं कि युद्ध जीतकर अपने ही स्वजनों को मारने का पाप लेना बेहतर है या उनसे हार जाना। उनका मानना है कि अपने ही चचेरे भाइयों, धृतराष्ट्र के पुत्रों, का वध करके प्राप्त किया गया जीवन व्यर्थ होगा और जीने योग्य नहीं रहेगा।
+
+### Meaning
+
+Arjuna expresses his deep moral dilemma and confusion about the outcome of the war. He is unsure whether it is better to win the battle and bear the guilt of killing his relatives, or to be defeated by them. He feels that a life won by slaughtering his own cousins, the sons of Dhritarashtra, would be meaningless and not worth living.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| च | और |
+| एतत् | यह |
+| विद्मः | हम जानते हैं |
+| कतरत् | कौन सा |
+| नः | हमारे लिए |
+| गरीयः | श्रेष्ठ |
+| यत् | कि |
+| वा | या |
+| जयेम | हम जीतें |
+| यदि | यदि |
+| वा | या |
+| नः | हमें |
+| जयेयुः | वे जीतें |
+| यान् | जिनको |
+| एव | ही |
+| हत्वा | मारकर |
+| न | नहीं |
+| जिजीविषामः | हम जीना चाहते हैं |
+| ते | वे |
+| अवस्थिताः | खड़े हैं |
+| प्रमुखे | सामने |
+| धार्तराष्ट्राः | धृतराष्ट्र के पुत्र |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| ca | and |
+| etat | this |
+| vidmaḥ | we know |
+| katarat | which |
+| naḥ | for us |
+| garīyaḥ | better |
+| yat | that |
+| vā | or |
+| jayema | we should conquer |
+| yadi | if |
+| vā | or |
+| naḥ | us |
+| jayeyuḥ | they should conquer |
+| yān | whom |
+| eva | certainly |
+| hatvā | having killed |
+| na | not |
+| jijīviṣāmaḥ | we wish to live |
+| te | they |
+| avasthitāḥ | are standing |
+| pramukhe | in front |
+| dhārtarāṣṭrāḥ | the sons of Dhritarashtra |
+

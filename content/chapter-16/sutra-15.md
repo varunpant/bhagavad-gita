@@ -31,3 +31,55 @@ position: 586
 
 ```
 
+
+### Transliteration
+```
+āḍhyo'bhijanavānasmi ko'nyo'sti sadṛśo mayā
+yakṣye dāsyāmi modiṣya ityajñānavimohitāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आसुरी प्रवृत्ति वाले मनुष्यों की मानसिक स्थिति का वर्णन कर रहे हैं। ऐसे लोग अत्यधिक अहंकार, धन और सामाजिक प्रतिष्ठा के मद में चूर रहते हैं। वे स्वयं को सर्वश्रेष्ठ मानते हैं और धार्मिक कार्यों (जैसे यज्ञ और दान) को भी केवल अपनी कीर्ति और अहंकार की संतुष्टि के लिए करते हैं, जो कि उनके गहरे अज्ञान को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the mindset of those possessing demoniac qualities. Such individuals are blinded by pride, wealth, and social status, believing themselves to be superior to everyone else. Even their religious acts, like performing sacrifices and giving charity, are driven by self-glorification and ego, reflecting their profound ignorance.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आढ्यः | धनवान |
+| अभिजनवान् | कुलीन (उच्च कुल में जन्मा) |
+| अस्मि | मैं हूँ |
+| कः | कौन |
+| अन्यः | दूसरा |
+| अस्ति | है |
+| सदृशः | समान |
+| मया | मेरे |
+| यक्ष्ये | मैं यज्ञ करूँगा |
+| दास्यामि | मैं दान दूँगा |
+| मोदिष्ये | मैं आनंद मनाऊँगा |
+| इति | इस प्रकार |
+| अज्ञान-विमोहिताः | अज्ञान से अत्यंत मोहित (लोग) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āḍhyaḥ | wealthy |
+| abhijanavān | well-born (of noble heritage) |
+| asmi | I am |
+| kaḥ | who |
+| anyaḥ | other |
+| asti | is |
+| sadṛśaḥ | equal |
+| mayā | to me |
+| yakṣye | I will sacrifice |
+| dāsyāmi | I will give charity |
+| modiṣye | I will rejoice |
+| iti | thus |
+| ajñāna-vimohitāḥ | deluded by ignorance |
+

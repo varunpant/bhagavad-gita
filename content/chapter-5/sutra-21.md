@@ -31,3 +31,51 @@ position: 225
 
 ```
 
+
+### Transliteration
+```
+bāhyasparśeṣvasaktātmā vindatyātmani yatsukham
+sa brahmayogayuktātmā sukhamakṣayamaśnute
+
+```
+
+### भावार्थ
+
+जो व्यक्ति सांसारिक और बाहरी सुखों के प्रति आकर्षित नहीं होता, वह अपने भीतर ही वास्तविक आनंद को खोज लेता है। जब उसका मन ध्यान और योग के माध्यम से परब्रह्म में लीन हो जाता है, तब वह ऐसे असीम और शाश्वत सुख का अनुभव करता है जो कभी समाप्त नहीं होता। यह श्लोक आत्म-साक्षात्कार और सच्ची खुशी के स्रोत को स्पष्ट करता है।
+
+### Meaning
+
+A person who is not attracted to worldly and external pleasures discovers true joy within himself. When his mind becomes completely absorbed in the Supreme Brahman through meditation and yoga, he experiences boundless and eternal happiness that never fades. This verse highlights that the source of true, imperishable joy lies in self-realization, not in material objects.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बाह्य-स्पर्शेषु | बाहरी विषयों के संपर्क में |
+| असक्त-आत्मा | अनासक्त मन वाला |
+| विन्दति | प्राप्त करता है |
+| आत्मनि | आत्मा में |
+| यत् | जो |
+| सुखम् | सुख |
+| सः | वह |
+| ब्रह्म-योग-युक्त-आत्मा | ब्रह्म के साथ योग में स्थित अंतःकरण वाला |
+| सुखम् | सुख को |
+| अक्षयम् | अविनाशी |
+| अश्नुते | भोगता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bāhya-sparśeṣu | in external sense contacts |
+| asakta-ātmā | whose mind is unattached |
+| vindati | finds |
+| ātmani | in the Self |
+| yat | which |
+| sukham | happiness |
+| saḥ | he |
+| brahma-yoga-yukta-ātmā | whose mind is united with Brahman through yoga |
+| sukham | happiness |
+| akṣayam | imperishable |
+| aśnute | enjoys |
+

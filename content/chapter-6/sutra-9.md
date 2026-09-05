@@ -31,3 +31,55 @@ position: 242
 
 ```
 
+
+### Transliteration
+```
+suhṛn-mitrāry-udāsīna-madhyastha-dveṣya-bandhuṣu
+sādhuṣv api ca pāpeṣu sama-buddhir viśiṣyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समत्व योग की पराकाष्ठा का वर्णन कर रहे हैं। जो साधक सभी प्रकार के मनुष्यों—चाहे वे हितैषी हों, मित्र हों, शत्रु हों, तटस्थ हों, मध्यस्थ हों, द्वेष के योग्य हों, सम्बन्धी हों, धर्मात्मा हों या पापी हों—सभी के प्रति राग-द्वेष से रहित होकर समान भाव रखता है, वह योगियों में परम श्रेष्ठ माना जाता है। यह समता ही वास्तविक आध्यात्मिक उन्नति की पहचान है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the pinnacle of equanimity in Yoga. A person who maintains an equal attitude toward all classes of people—whether they are natural well-wishers, friends, enemies, indifferent onlookers, mediators, the hateful, relatives, saints, or sinners—is considered highly distinguished. This universal impartiality is the hallmark of advanced spiritual realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सुहृत् | बिना किसी स्वार्थ के भलाई करने वाला (सुहृद्) |
+| मित्र | स्नेह रखने वाला मित्र |
+| अरि | शत्रु |
+| उदासीन | निष्पक्ष या तटस्थ व्यक्ति |
+| मध्यस्थ | दोनों पक्षों का भला चाहने वाला मध्यस्थ |
+| द्वेष्य | घृणा के योग्य व्यक्ति |
+| बन्धुषु | और सम्बन्धियों में |
+| साधुषु | सज्जनों (साधुओं) में |
+| अपि | भी |
+| च | तथा |
+| पापेषु | पापियों में |
+| सम-बुद्धिः | समान बुद्धि वाला (राग-द्वेष से रहित) |
+| विशिष्यते | श्रेष्ठ माना जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| suhṛt | a well-wisher (who helps without expecting return) |
+| mitra | a friend (bound by affection) |
+| ari | an enemy |
+| udāsīna | the indifferent or neutral person |
+| madhyastha | the mediator or arbitrator |
+| dveṣya | the hateful or detestable person |
+| bandhuṣu | and among relatives |
+| sādhuṣu | among the righteous (saints) |
+| api | even |
+| ca | and |
+| pāpeṣu | among the sinners |
+| sama-buddhiḥ | one who has equal-mindedness |
+| viśiṣyate | is distinguished (is superior) |
+

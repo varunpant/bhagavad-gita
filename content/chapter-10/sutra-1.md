@@ -31,3 +31,60 @@ position: 373
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+bhūya eva mahā-bāho śṛṇu me paramaṃ vacaḥ
+yat te 'haṃ prīyamāṇāya vakṣyāmi hita-kāmyayā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को पुनः अपने दिव्य ज्ञान को सुनने के लिए प्रेरित कर रहे हैं। वे अर्जुन को 'महाबाहो' कहकर संबोधित करते हैं और बताते हैं कि वे यह परम ज्ञान अर्जुन के प्रति अपने प्रेम और उसके परम कल्याण की इच्छा के कारण प्रकट कर रहे हैं। यह अध्याय १० (विभूति योग) का आरंभिक श्लोक है जहाँ भगवान अपनी दिव्य विभूतियों का वर्णन शुरू करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna encourages Arjuna to listen once again to His supreme words. Addressing Arjuna as the mighty-armed warrior, Krishna emphasizes that He is speaking this confidential knowledge out of love for Arjuna and for his ultimate benefit. This marks the beginning of Chapter 10 (Vibhuti Yoga), where the Lord describes His divine opulences.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | भगवान ने |
+| उवाच | कहा |
+| भूयः | फिर से |
+| एव | ही |
+| महा-बाहो | हे विशाल भुजाओं वाले (अर्जुन) |
+| शृणु | सुनो |
+| मे | मेरे |
+| परमम् | परम |
+| वचः | वचन को |
+| यत् | जिसे |
+| ते | तुमसे |
+| अहम् | मैं |
+| प्रीयमाणाय | अत्यंत प्रिय (मुझसे प्रेम करने वाले) के लिए |
+| वक्ष्यामि | कहूँगा |
+| हित-काम्यया | कल्याण की इच्छा से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| bhūyaḥ | again |
+| eva | indeed |
+| mahā-bāho | O mighty-armed one |
+| śṛṇu | hear |
+| me | My |
+| paramam | supreme |
+| vacaḥ | instruction / word |
+| yat | which |
+| te | unto you |
+| aham | I |
+| prīyamāṇāya | who are beloved / taking delight |
+| vakṣyāmi | shall speak |
+| hita-kāmyayā | wishing your welfare |
+

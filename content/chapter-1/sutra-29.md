@@ -32,3 +32,55 @@ my hair stands on end.
 
 ```
 
+
+### Transliteration
+```
+sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati
+vepathuśca śarīre me romaharṣaśca jāyate
+
+```
+
+### भावार्थ
+
+अर्जुन युद्ध के मैदान में अपने सगे-संबंधियों को देखकर उत्पन्न हुए गहरे मानसिक और भावनात्मक तनाव का वर्णन कर रहे हैं। इस अत्यधिक शोक और मोह के कारण उनके शरीर में कंपन हो रहा है, मुख सूख रहा है और रोंगटे खड़े हो रहे हैं। यह श्लोक अर्जुन के भीतर चल रहे धर्म और पारिवारिक मोह के बीच के तीव्र द्वंद्व को दर्शाता है।
+
+### Meaning
+
+Arjuna describes the intense physical symptoms of his emotional breakdown upon seeing his relatives arrayed for battle. His overwhelming grief and anxiety manifest as trembling, a dry mouth, and hair standing on end. This highlights the deep psychological conflict he faces between his duty as a warrior and his attachment to his family.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सीदन्ति | शिथिल हो रहे हैं |
+| मम | मेरे |
+| गात्राणि | अंग |
+| मुखम् | मुख |
+| च | और |
+| परिशुष्यति | सूख रहा है |
+| वेपथुः | कंपन |
+| च | और |
+| शरीरे | शरीर में |
+| मे | मेरे |
+| रोमहर्षः | रोंगटे खड़े होना |
+| च | और |
+| जायते | हो रहा है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sīdanti | are failing |
+| mama | my |
+| gātrāṇi | limbs |
+| mukham | mouth |
+| ca | and |
+| pariśuṣyati | is drying up |
+| vepathuḥ | trembling |
+| ca | and |
+| śarīre | in body |
+| me | my |
+| romaharṣaḥ | standing of hair on end |
+| ca | and |
+| jāyate | is arising |
+

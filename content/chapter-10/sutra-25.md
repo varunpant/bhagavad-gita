@@ -31,3 +31,53 @@ position: 397
 
 ```
 
+
+### Transliteration
+```
+maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram
+yajñānāṃ japayajño'smi sthāvarāṇāṃ himālayaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी दिव्य विभूतियों का वर्णन कर रहे हैं। वे बताते हैं कि ऋषियों में भृगु और शब्दों में प्रणव (ॐ) उन्हीं के स्वरूप हैं। सभी प्रकार के यज्ञों में जप-यज्ञ सर्वश्रेष्ठ है क्योंकि इसमें किसी हिंसा या बाहरी आडंबर की आवश्यकता नहीं होती, और यह भी भगवान का ही रूप है।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine manifestations. He identifies Himself with the most eminent among sages, words, sacrifices, and immovable structures. The silent chanting of the divine name (Japa) is highlighted as the highest form of sacrifice because of its purity and inward focus.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| महर्षीणाम् | महर्षियों में |
+| भृगुः | भृगु ऋषि |
+| अहम् | मैं |
+| गिराम् | वाणियों में |
+| अस्मि | हूँ |
+| एकम् | एक |
+| अक्षरम् | अक्षर (ॐकार) |
+| यज्ञानाम् | यज्ञों में |
+| जपयज्ञः | जप-यज्ञ |
+| अस्मि | हूँ |
+| स्थावराणाम् | स्थिर रहने वालों में |
+| हिमालयः | हिमालय पर्वत |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| maharṣīṇām | among the great sages |
+| bhṛguḥ | Bhrigu |
+| aham | I |
+| girām | of words |
+| asmi | am |
+| ekam | the one |
+| akṣaram | syllable (Om) |
+| yajñānām | of sacrifices |
+| japa-yajñaḥ | the sacrifice of chanting |
+| asmi | am |
+| sthāvarāṇām | of immovable things |
+| himālayaḥ | the Himalayas |
+

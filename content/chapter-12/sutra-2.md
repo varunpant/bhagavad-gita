@@ -31,3 +31,58 @@ position: 471
 
 ```
 
+
+### Transliteration
+```
+śrībhagavānuvāca
+mayyāveśya mano ye māṃ nityayuktā upāsate
+śraddhayā parayopetāste me yuktatamā matāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन के प्रश्न का उत्तर देते हैं कि सगुण और निर्गुण उपासकों में से कौन श्रेष्ठ है। वे स्पष्ट करते हैं कि जो भक्त अपने मन को पूरी तरह से भगवान में लीन रखते हैं और परम श्रद्धा के साथ उनकी निरंतर पूजा करते हैं, वे योगियों में सर्वश्रेष्ठ हैं। यह सगुण भक्ति मार्ग की सुगमता और श्रेष्ठता को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna answers Arjuna's question about who is more perfect in Yoga—those who worship the personal form or the impersonal absolute. He states that those who fix their minds on Him with supreme faith and constant devotion are considered the most perfect yogis. This highlights the path of personal devotion as highly effective and dear to Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मयि | मुझमें |
+| आवेश्य | एकाग्र करके |
+| मनः | मन को |
+| ये | जो |
+| माम् | मुझको |
+| नित्य-युक्ताः | नित्य युक्त होकर |
+| उपासते | उपासना करते हैं |
+| श्रद्धया | श्रद्धा से |
+| परया | परम |
+| उपेताः | युक्त |
+| ते | वे |
+| मे | मेरे द्वारा |
+| युक्ततमाः | सर्वश्रेष्ठ योगी |
+| मताः | माने गए हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mayi | in Me |
+| āveśya | fixing |
+| manaḥ | the mind |
+| ye | who |
+| mām | Me |
+| nitya-yuktāḥ | ever-steadfast |
+| upāsate | worship |
+| śraddhayā | with faith |
+| parayā | supreme |
+| upetāḥ | endowed |
+| te | they |
+| me | by Me |
+| yuktatamāḥ | most perfectly united |
+| matāḥ | are considered |
+

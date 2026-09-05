@@ -31,3 +31,57 @@ position: 666
 
 ```
 
+
+### Transliteration
+```
+śauryam tejo dhṛtir dākṣyam yuddhe cāpy apalāyanam
+dānam īśvarabhāvaś ca kṣātram karma svabhāvajam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण क्षत्रिय वर्ण के स्वाभाविक गुणों और कर्तव्यों का वर्णन करते हैं। एक क्षत्रिय में वीरता, तेजस्विता, धैर्य, प्रशासनिक दक्षता, युद्धभूमि से न भागने का संकल्प, दानशीलता और नेतृत्व की क्षमता स्वाभाविक रूप से होनी चाहिए। ये गुण उनके अंतर्निहित स्वभाव (गुण और कर्म) से उत्पन्न होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the natural qualities and duties of a Kshatriya (the warrior and administrator class). A Kshatriya naturally possesses heroism, splendor, fortitude, resourcefulness, courage in battle, generosity, and leadership. These duties and characteristics flow from their inherent nature and disposition.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| शौर्यम् | शूरवीरता |
+| तेजः | तेज (प्रभावशीलता) |
+| धृतिः | धैर्य (धारण शक्ति) |
+| दाक्ष्यम् | चतुरता (दक्षता) |
+| युद्धे | युद्ध में |
+| च | और |
+| अपि | भी |
+| अपलायनम् | न भागना |
+| दानम् | दान देना |
+| ईश्वरभावः | स्वामी-भाव (नेतृत्व) |
+| च | और |
+| क्षात्रम् | क्षत्रिय का |
+| कर्म | कर्म |
+| स्वभावजम् | स्वभाव से उत्पन्न |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śauryam | heroism |
+| tejaḥ | splendor |
+| dhṛtiḥ | fortitude |
+| dākṣyam | dexterity |
+| yuddhe | in battle |
+| ca | and |
+| api | also |
+| apalāyanam | not fleeing |
+| dānam | generosity |
+| īśvarabhāvaḥ | lordliness |
+| ca | and |
+| kṣātram | of a Kshatriya |
+| karma | duty |
+| svabhāvajam | born of one's own nature |
+

@@ -31,3 +31,49 @@ position: 115
 
 ```
 
+
+### Transliteration
+```
+tasmādyasya mahābāho nigṛhītāni sarvaśaḥ
+indriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि इन्द्रियों को वश में करना स्थिर बुद्धि के लिए अत्यंत आवश्यक है। जो व्यक्ति अपनी इन्द्रियों को सांसारिक विषयों से पूरी तरह हटा लेता है, वही सच्चा ज्ञानी है। ऐसे आत्म-संयमी व्यक्ति की प्रज्ञा (बुद्धि) परमात्मा में दृढ़ता से स्थित हो जाती है।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that controlling the senses is essential for attaining a steady mind. A person who completely withdraws their senses from worldly objects is a true person of wisdom. The consciousness of such a self-controlled individual becomes firmly established in the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| यस्य | जिसकी |
+| महाबाहो | हे महाबाहु |
+| निगृहीतानि | वश में की हुई हैं |
+| सर्वशः | सब प्रकार से |
+| इन्द्रियाणि | इन्द्रियाँ |
+| इन्द्रियार्थेभ्यः | इन्द्रियों के विषयों से |
+| तस्य | उसकी |
+| प्रज्ञा | बुद्धि |
+| प्रतिष्ठिता | स्थिर है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| yasya | whose |
+| mahābāho | O mighty-armed one |
+| nigṛhītāni | are restrained |
+| sarvaśaḥ | completely |
+| indriyāṇi | the senses |
+| indriyārthebhyaḥ | from the sense objects |
+| tasya | his |
+| prajñā | wisdom |
+| pratiṣṭhitā | is firmly established |
+

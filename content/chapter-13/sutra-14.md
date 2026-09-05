@@ -31,3 +31,57 @@ position: 503
 
 ```
 
+
+### Transliteration
+```
+sarvataḥ pāṇipādaṃ tat sarvato'kṣiśiromukham
+sarvataḥ śrutimal loke sarvam āvṛtya tiṣṭhati
+
+```
+
+### भावार्थ
+
+इस श्लोक में ज्ञेय ब्रह्म (परमात्मा) के सर्वव्यापी स्वरूप का वर्णन किया गया है। परमात्मा निराकार होते हुए भी सभी जीवों के अंगों के माध्यम से कार्य करता है, इसलिए उसके हाथ, पैर, आँखें और कान हर जगह कहे गए हैं। वह संपूर्ण ब्रह्मांड में व्याप्त होकर स्थित है।
+
+### Meaning
+
+This verse describes the all-pervading nature of the Supreme Brahman (the object of knowledge). Although formless, the Divine functions through the senses and limbs of all living beings, and is thus described as having hands, feet, eyes, and ears everywhere. It exists pervading the entire universe.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वतः | सब ओर |
+| पाणि | हाथ |
+| पादम् | और पैर वाला |
+| तत् | वह (परम तत्त्व) |
+| सर्वतः | सब ओर |
+| अक्षि | आँख |
+| शिरः | सिर |
+| मुखम् | और मुख वाला |
+| सर्वतः | सब ओर |
+| श्रुतिमत् | कान वाला |
+| लोके | संसार में |
+| सर्वम् | सबको |
+| आवृत्य | व्याप्त करके |
+| तिष्ठति | स्थित है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvataḥ | everywhere |
+| pāṇi | hands |
+| pādam | and feet |
+| tat | that (Brahman) |
+| sarvataḥ | everywhere |
+| akṣi | eyes |
+| śiraḥ | heads |
+| mukham | and faces |
+| sarvataḥ | everywhere |
+| śrutimat | having ears |
+| loke | in the world |
+| sarvam | everything |
+| āvṛtya | pervading |
+| tiṣṭhati | exists |
+

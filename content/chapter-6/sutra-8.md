@@ -31,3 +31,45 @@ position: 241
 
 ```
 
+
+### Transliteration
+```
+jñānavijñānatṛptātmā kūṭastho vijitendriyaḥ
+yukta ityucyate yogī samaloṣṭāśmakāñcanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में सिद्ध योगी के लक्षणों का वर्णन किया गया है। जिस व्यक्ति का अंतःकरण शास्त्रज्ञान और आत्मानुभूति दोनों से पूर्णतः संतुष्ट है, वह संसार के द्वंद्वों से विचलित नहीं होता। उसके लिए मिट्टी का ढेला, पत्थर और सोना सब एक समान मूल्य के हो जाते हैं क्योंकि वह भौतिक वस्तुओं से परे परम सत्य में स्थित हो चुका है।
+
+### Meaning
+
+This verse describes the characteristics of a self-realized yogi. One whose mind is fully satisfied by both theoretical knowledge (jñāna) and practical realization (vijñāna) remains undisturbed by the dualities of the world. Such a person views a clod of earth, a stone, and gold with an equal eye, having transcended material desires and established union with the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्ञान-विज्ञान-तृप्त-आत्मा | ज्ञान और विज्ञान से तृप्त अंतःकरण वाला |
+| कूटस्थः | अचल या विकाररहित |
+| विजित-इन्द्रियः | जीती हुई इन्द्रियों वाला |
+| युक्तः | योगयुक्त (भगवत्प्राप्त) |
+| इति | ऐसा |
+| उच्यते | कहा जाता है |
+| योगी | योगी |
+| सम-लोष्ट-अश्म-काञ्चनः | मिट्टी, पत्थर और सुवर्ण में समान भाव रखने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jñāna-vijñāna-tṛpta-ātmā | one whose soul is satisfied with scriptural knowledge and realization |
+| kūṭasthaḥ | unchanging (established at the summit) |
+| vijita-indriyaḥ | one who has conquered the senses |
+| yuktaḥ | united in yoga |
+| iti | thus |
+| ucyate | is said to be |
+| yogī | a yogi |
+| sama-loṣṭa-aśma-kāñcanaḥ | to whom a clod of earth, a stone, and gold are equal |
+

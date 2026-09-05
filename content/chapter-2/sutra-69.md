@@ -31,3 +31,55 @@ position: 116
 
 ```
 
+
+### Transliteration
+```
+yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī
+yasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ
+
+```
+
+### भावार्थ
+
+यह श्लोक दिन और रात के रूपक का उपयोग करके सांसारिक मनुष्य और आध्यात्मिक रूप से जाग्रत मुनि के बीच अंतर स्पष्ट करता है। जिसे सामान्य लोग वास्तविक मानते हैं और जिसके पीछे भागते हैं, वह मुनि के लिए अज्ञान की रात्रि के समान है। इसके विपरीत, जिस आध्यात्मिक सत्य के प्रति मुनि पूरी तरह से जाग्रत रहता है, वह सामान्य प्राणियों के लिए अंधकारमयी रात्रि के समान है।
+
+### Meaning
+
+This verse uses the metaphor of day and night to contrast the worldly person with the spiritually awakened sage. What ordinary people consider real and pursue eagerly is like a dark night of ignorance to the sage. Conversely, the spiritual reality that the sage is fully awake to is perceived as a dark, incomprehensible night by ordinary beings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| या | जो |
+| निशा | रात |
+| सर्वभूतानाम् | सब प्राणियों के लिए |
+| तस्याम् | उसमें |
+| जागर्ति | जागता है |
+| संयमी | संयमी मनुष्य |
+| यस्याम् | जिसमें |
+| जाग्रति | जागते हैं |
+| भूतानि | प्राणी |
+| सा | वह |
+| निशा | रात है |
+| पश्यतः | देखने वाले |
+| मुनेः | मुनि के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yā | what |
+| niśā | night |
+| sarvabhūtānām | of all beings |
+| tasyām | in that |
+| jāgarti | wakes |
+| saṃyamī | the self-controlled one |
+| yasyām | in which |
+| jāgrati | wake |
+| bhūtāni | beings |
+| sā | that |
+| niśā | night |
+| paśyataḥ | of the seeing |
+| muneḥ | sage |
+

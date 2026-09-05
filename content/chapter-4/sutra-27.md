@@ -31,3 +31,45 @@ position: 189
 
 ```
 
+
+### Transliteration
+```
+sarvāṇīndriyakarmāṇi prāṇakarmāṇi cāpare
+ātmasaṃyamayogāgnau juhvati jñānadīpite
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्मसंयम रूपी यज्ञ का वर्णन कर रहे हैं, जिसे ध्यान योग भी कहा जाता है। ऐसे योगी अपनी सभी इन्द्रियों और प्राणों की गतिविधियों को रोककर उन्हें आत्म-नियंत्रण की अग्नि में आहुति के रूप में अर्पित करते हैं। यह आत्मसंयम की अग्नि आत्मज्ञान द्वारा प्रज्वलित होती है, जिससे साधक को परम शांति और मोक्ष की प्राप्ति होती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the sacrifice of self-restraint, which is practiced by followers of Dhyana Yoga. These yogis withdraw their senses from worldly objects and control their life breaths, offering all these activities into the fire of self-control. This inner fire is illuminated by the clear knowledge of the self, ultimately leading the seeker to spiritual liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वाणि | सम्पूर्ण |
+| इन्द्रियकर्माणि | इन्द्रियों की क्रियाओं को |
+| प्राणकर्माणि | प्राणों की क्रियाओं को |
+| च | और |
+| अपरे | दूसरे |
+| आत्मसंयमयोगाग्नौ | आत्मसंयम रूप योग की अग्नि में |
+| जुह्वति | हवन करते हैं |
+| ज्ञानदीपिते | ज्ञान द्वारा प्रज्वलित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvāṇi | all |
+| indriyakarmāṇi | functions of the senses |
+| prāṇakarmāṇi | functions of the life breaths |
+| ca | and |
+| apare | others |
+| ātmasaṃyamayogāgnau | in the fire of the yoga of self-restraint |
+| juhvati | offer as sacrifice |
+| jñānadīpite | kindled by knowledge |
+

@@ -31,3 +31,53 @@ position: 132
 
 ```
 
+
+### Transliteration
+```
+yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ
+bhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण भोजन को ग्रहण करने से पहले उसे भगवान को अर्पित करने के आध्यात्मिक सिद्धांत को समझाते हैं। जो लोग यज्ञ (भगवान को अर्पण) के बाद बचे हुए शेष भाग को प्रसाद रूप में ग्रहण करते हैं, वे सभी पापों से मुक्त हो जाते हैं। इसके विपरीत, जो लोग स्वार्थवश केवल अपने लिए ही भोजन पकाते हैं, वे वास्तव में केवल पाप ही खाते हैं और कर्म-बंधन में फँसते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the spiritual principle of offering food to the Divine before consuming it. Those who eat the remnants of a sacrifice are purified and freed from all karmic reactions. Conversely, those who prepare food selfishly, only for their own enjoyment, incur sin and bind themselves further to material existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यज्ञशिष्टाशिनः | यज्ञ से बचे हुए अन्न को खाने वाले |
+| सन्तः | श्रेष्ठ पुरुष |
+| मुच्यन्ते | मुक्त हो जाते हैं |
+| सर्वकिल्बिषैः | सब पापों से |
+| भुञ्जते | खाते हैं |
+| ते | वे |
+| तु | परन्तु |
+| अघम् | पाप |
+| पापाः | पापी लोग |
+| ये | जो |
+| पचन्ति | पकाते हैं |
+| आत्मकारणात् | केवल अपने लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yajñaśiṣṭāśinaḥ | eaters of the remnants of sacrifice |
+| santaḥ | the virtuous |
+| mucyante | are freed |
+| sarvakilbiṣaiḥ | from all sins |
+| bhuñjate | eat |
+| te | they |
+| tu | but |
+| agham | sin |
+| pāpāḥ | sinners |
+| ye | who |
+| pacanti | cook |
+| ātmakāraṇāt | for their own sake |
+

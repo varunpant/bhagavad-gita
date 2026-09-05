@@ -31,3 +31,47 @@ position: 190
 
 ```
 
+
+### Transliteration
+```
+dravyayajñāstapoyajñā yogayajñāstathāpare
+svādhyāyajñānayajñāśca yatayaḥ saṃśitavratāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण विभिन्न प्रकार के यज्ञों का वर्णन कर रहे हैं जो साधकों द्वारा किए जाते हैं। कुछ लोग समाज कल्याण के लिए अपनी संपत्ति दान करते हैं, जबकि अन्य लोग शरीर और मन को शुद्ध करने के लिए कठोर तपस्या या अष्टांग योग का अभ्यास करते हैं। इसके अतिरिक्त, दृढ़ संकल्प वाले साधक शास्त्रों के अध्ययन और आत्मज्ञान की प्राप्ति को ही अपना यज्ञ मानते हैं। ये सभी निष्काम कर्म अंततः आध्यात्मिक उन्नति की ओर ले जाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes various types of sacrifices performed by spiritual seekers. Some individuals sacrifice their material wealth for the welfare of others, while some practice severe austerities or the eightfold path of yoga to purify themselves. Furthermore, determined ascetics consider the study of sacred scriptures and the pursuit of transcendental knowledge as their ultimate sacrifice. All these dedicated practices are valid paths leading to spiritual elevation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| द्रव्ययज्ञाः | द्रव्य (संपत्ति) का यज्ञ करने वाले |
+| तपःयज्ञाः | तपस्या का यज्ञ करने वाले |
+| योगयज्ञाः | योग का यज्ञ करने वाले |
+| तथा | तथा |
+| अपरे | अन्य लोग |
+| स्वाध्यायज्ञानयज्ञाः | स्वाध्याय और ज्ञान का यज्ञ करने वाले |
+| च | और |
+| यतयः | यत्नशील साधक |
+| संशितव्रताः | कठोर व्रतों का पालन करने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dravyayajñāḥ | those who offer wealth as sacrifice |
+| tapaḥyajñāḥ | those who offer austerities as sacrifice |
+| yogayajñāḥ | those who offer yoga as sacrifice |
+| tathā | similarly |
+| apare | others |
+| svādhyāyajñānayajñāḥ | those who offer the study of scriptures and knowledge as sacrifice |
+| ca | and |
+| yatayaḥ | ascetics |
+| saṃśitavratāḥ | observing strict vows |
+

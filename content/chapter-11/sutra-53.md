@@ -31,3 +31,63 @@ position: 467
 
 ```
 
+
+### Transliteration
+```
+nāhaṃ vedairna tapasā na dānena na cejyayā
+śakya evaṃvidho draṣṭuṃ dṛṣṭavānasi māṃ yathā
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि उनका यह चतुर्भुज या विश्वरूप अत्यंत दुर्लभ है। केवल वेदों के अध्ययन, कठोर तपस्या, दान या यज्ञों के अनुष्ठान मात्र से इस परम रूप के साक्षात दर्शन नहीं किए जा सकते। इसके लिए अनन्य भक्ति की आवश्यकता होती है, जो आगे के श्लोक में स्पष्ट की गई है।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that His supreme cosmic form cannot be perceived merely through the study of the Vedas, severe austerities, acts of charity, or Vedic rituals. These external spiritual practices, while beneficial, are insufficient on their own to grant the direct vision of the Divine. Only through undivided devotion can one truly realize and see Him in this form.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| अहम् | मैं |
+| वेदैः | वेदों के द्वारा |
+| न | न |
+| तपसा | तपस्या के द्वारा |
+| न | न |
+| दानेन | दान के द्वारा |
+| न | न |
+| च | और |
+| इज्यया | यज्ञ (पूजा) के द्वारा |
+| शक्यः | संभव हूँ |
+| एवम्-विधः | इस प्रकार के रूप वाला |
+| द्रष्टुम् | देखे जाने के लिए |
+| दृष्टवान् | देखा है |
+| असि | तुमने |
+| माम् | मुझको |
+| यथा | जिस प्रकार |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| aham | I |
+| vedaiḥ | by the Vedas |
+| na | nor |
+| tapasā | by penance |
+| na | nor |
+| dānena | by charity |
+| na | nor |
+| ca | and |
+| ijyayā | by worship (sacrifices) |
+| śakyaḥ | am possible |
+| evaṃ-vidhaḥ | of this kind (form) |
+| draṣṭum | to be seen |
+| dṛṣṭavān | seen |
+| asi | you have |
+| mām | Me |
+| yathā | as |
+

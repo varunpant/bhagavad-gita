@@ -31,3 +31,59 @@ position: 577
 
 ```
 
+
+### Transliteration
+```
+dvau bhūtasargau loke'smin daiva āsura eva ca
+daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि इस संसार में मनुष्यों के दो ही मुख्य स्वभाव या प्रवृत्तियाँ होती हैं - दैवी और आसुरी। दैवी गुणों का वर्णन पहले के श्लोकों में विस्तार से किया जा चुका है। अब कृष्ण अर्जुन को आसुरी स्वभाव के लक्षणों को ध्यान से सुनने के लिए कहते हैं ताकि वे उनसे बच सकें।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that there are only two types of natures among human beings in this world: the divine and the demoniac. Having already described the divine qualities in detail in the preceding verses, Krishna now urges Arjuna to listen about the characteristics of the demoniac nature so that one may recognize and avoid them.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| द्वौ | दो |
+| भूतसर्गौ | प्राणियों की सृष्टियाँ (स्वभाव) |
+| लोके | संसार में |
+| अस्मिन् | इस |
+| दैवः | दैवी |
+| आसुरः | आसुरी |
+| एव | ही |
+| च | और |
+| दैवः | दैवी स्वभाव |
+| विस्तरशः | विस्तारपूर्वक |
+| प्रोक्तः | कहा गया है |
+| आसुरम् | आसुरी स्वभाव के विषय में |
+| पार्थ | हे प्रथापुत्र (अर्जुन) |
+| मे | मुझसे |
+| शृणु | सुनो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dvau | two |
+| bhūtasargau | types of created beings |
+| loke | in the world |
+| asmin | this |
+| daivaḥ | the divine |
+| āsuraḥ | the demoniac |
+| eva | indeed |
+| ca | and |
+| daivaḥ | the divine |
+| vistaraśaḥ | at length |
+| proktaḥ | has been described |
+| āsuram | about the demoniac |
+| pārtha | O Partha (Arjuna) |
+| me | from Me |
+| śṛṇu | hear |
+

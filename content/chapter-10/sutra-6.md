@@ -31,3 +31,55 @@ position: 378
 
 ```
 
+
+### Transliteration
+```
+maharṣayaḥ sapta pūrve catvāro manavastathā
+madbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सृष्टि की उत्पत्ति का वर्णन कर रहे हैं। वे बताते हैं कि सप्तर्षि, उनसे पूर्व के चार सनकादि कुमार और चौदह मनु - ये सभी उनके ही मानस पुत्र हैं जो उनके संकल्प से उत्पन्न हुए हैं। इस संसार की समस्त प्रजाएँ इन्हीं पूर्वजों की संतानें हैं, जिससे सिद्ध होता है कि सब कुछ अंततः परमात्मा से ही उद्भूत है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the cosmic lineage and the origin of creation. He states that the seven great sages (Saptarshis), the four earlier Kumaras (Sanaka, Sanandana, Sanatana, and Sanatkumara), and the Manus are born from His mind and share His divine nature. All living beings in this world are descendants of these original progenitors, tracing everyone's ultimate origin back to the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| महर्षयः | महान ऋषिगण |
+| सप्त | सात |
+| पूर्वे | पूर्व के (पहले होने वाले) |
+| चत्वारः | चार (सनकादि) |
+| मनवः | मनुगण |
+| तथा | और भी |
+| मद्भावाः | मुझमें भाव रखने वाले (मेरे संकल्प से उत्पन्न) |
+| मानसाः | मन से |
+| जाताः | उत्पन्न हुए |
+| येषाम् | जिनकी |
+| लोके | संसार में |
+| इमाः | यह सब |
+| प्रजाः | सृष्टि / संतानें |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| maharṣayaḥ | the great sages |
+| sapta | seven |
+| pūrve | before / ancient |
+| catvāraḥ | four (Kumaras) |
+| manavaḥ | Manus |
+| tathā | as well as |
+| madbhāvāḥ | born of My nature / devoted to Me |
+| mānasāḥ | from the mind |
+| jātāḥ | born |
+| yeṣām | of whom |
+| loke | in the world |
+| imāḥ | these |
+| prajāḥ | creatures / progeny |
+

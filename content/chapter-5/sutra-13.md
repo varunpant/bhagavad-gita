@@ -31,3 +31,57 @@ position: 217
 
 ```
 
+
+### Transliteration
+```
+sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī
+navadvāre pure dehī naiva kurvanna kārayan
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण एक आत्मज्ञानी व्यक्ति की स्थिति का वर्णन करते हैं जिसने अपने मन और इन्द्रियों को वश में कर लिया है। ऐसा व्यक्ति मानसिक रूप से सभी कर्मों के कर्तापन का त्याग कर देता है और यह जान लेता है कि आत्मा शरीर से भिन्न है। वह इस भौतिक शरीर में, जिसे 'नौ द्वारों वाला नगर' कहा गया है, शांति और सुखपूर्वक रहता है, क्योंकि वह जानता है कि वह न तो कुछ करता है और न ही किसी से कुछ करवाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the state of an enlightened soul who has mastered their mind and senses. Such a person mentally renounces the sense of doership in all activities, realizing that the soul is distinct from the physical body. They live peacefully in the physical body, which is metaphorically called the 'city of nine gates,' knowing they are neither the doer nor the instigator of any action.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वकर्माणि | सभी कर्मों को |
+| मनसा | मन से |
+| संन्यस्य | त्याग करके |
+| आस्ते | रहता है |
+| सुखम् | सुखपूर्वक |
+| वशी | वश में करने वाला (जितेन्द्रिय) |
+| नवद्वारे | नौ द्वारों वाले |
+| पुरे | नगर में |
+| देही | देहधारी (आत्मा) |
+| न | नहीं |
+| एव | निश्चय ही |
+| कुर्वन् | करता हुआ |
+| न | न |
+| कारयन् | करवाता हुआ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvakarmāṇi | all actions |
+| manasā | by the mind |
+| saṃnyasya | having renounced |
+| āste | resides |
+| sukham | happily |
+| vaśī | one who has controlled (the senses) |
+| navadvāre | in the nine-gated |
+| pure | in the city |
+| dehī | the embodied soul |
+| na | not |
+| eva | certainly |
+| kurvan | doing |
+| na | nor |
+| kārayan | causing to be done |
+

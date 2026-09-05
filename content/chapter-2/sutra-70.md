@@ -31,3 +31,61 @@ position: 117
 
 ```
 
+
+### Transliteration
+```
+āpūryamāṇamacalapratiṣṭhaṃ samudramāpaḥ praviśanti yadvat
+tadvatkāmā yaṃ praviśanti sarve sa śāntimāpnoti na kāmakāmī
+
+```
+
+### भावार्थ
+
+यह श्लोक समुद्र के सुंदर उदाहरण के माध्यम से एक स्थितप्रज्ञ (ज्ञानी) पुरुष की मानसिक स्थिति का वर्णन करता है। जिस प्रकार अनगिनत नदियों का जल समाहित होने पर भी समुद्र अपनी मर्यादा नहीं छोड़ता और शांत रहता है, उसी प्रकार ज्ञानी पुरुष सांसारिक इच्छाओं और भोगों के आने पर भी विचलित नहीं होता। सच्ची शांति उसी को मिलती है जो इन इच्छाओं के प्रवाह में अडिग रहता है, न कि उसे जो अपनी इच्छाओं की पूर्ति के पीछे भागता रहता है।
+
+### Meaning
+
+This verse beautifully illustrates the state of an enlightened person using the metaphor of the ocean. Just as the ocean remains calm and undisturbed despite countless rivers flowing into it, a wise person remains peaceful despite the continuous flow of desires and sensory inputs. True peace is attained by one who is unbothered by these desires, not by someone who constantly chases after them to satisfy their cravings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आपूर्यमाणम् | सब ओर से भरे जाते हुए |
+| अचलप्रतिष्ठम् | अचल स्थिति वाले |
+| समुद्रम् | समुद्र में |
+| आपः | जल |
+| प्रविशन्ति | प्रवेश करते हैं |
+| यद्वत् | जिस प्रकार |
+| तद्वत् | उसी प्रकार |
+| कामाः | इच्छाएँ |
+| यम् | जिसमें |
+| प्रविशन्ति | प्रवेश करती हैं |
+| सर्वे | सभी |
+| सः | वह |
+| शान्तिम् | शांति को |
+| आप्नोति | प्राप्त करता है |
+| न | नहीं |
+| कामकामी | इच्छाओं की कामना करने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āpūryamāṇam | being filled from all sides |
+| acala-pratiṣṭham | steadily situated |
+| samudram | into the ocean |
+| āpaḥ | waters |
+| praviśanti | enter |
+| yadvat | as |
+| tadvat | similarly |
+| kāmāḥ | desires |
+| yam | whom |
+| praviśanti | enter |
+| sarve | all |
+| saḥ | he |
+| śāntim | peace |
+| āpnoti | attains |
+| na | not |
+| kāmakāmī | the desirer of desires |
+

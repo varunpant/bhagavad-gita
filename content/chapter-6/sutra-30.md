@@ -31,3 +31,63 @@ position: 263
 
 ```
 
+
+### Transliteration
+```
+yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati
+tasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस योगी की चेतना का वर्णन कर रहे हैं जिसने परमात्मा के साथ पूर्ण ऐक्य प्राप्त कर लिया है। ऐसा योगी सभी प्राणियों में ईश्वर की उपस्थिति का अनुभव करता है और ईश्वर में ही संपूर्ण सृष्टि को देखता है। इस परम अवस्था में, भक्त और भगवान के बीच का संबंध कभी नहीं टूटता।
+
+### Meaning
+
+In this verse, Lord Krishna describes the consciousness of a yogi who has attained complete union with the Divine. Such a yogi perceives the presence of God in all beings and sees the entire creation resting within God. At this supreme stage of realization, the eternal bond between the devotee and the Lord is never broken.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| माम् | मुझको |
+| पश्यति | देखता है |
+| सर्वत्र | सब जगह |
+| सर्वम् | सब कुछ |
+| च | और |
+| मयि | मुझमें |
+| पश्यति | देखता है |
+| तस्य | उसके लिए |
+| अहम् | मैं |
+| न | नहीं |
+| प्रणश्यामि | अदृश्य होता हूँ |
+| सः | वह |
+| च | और |
+| मे | मेरे लिए |
+| न | नहीं |
+| प्रणश्यति | अदृश्य होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| mām | Me |
+| paśyati | sees |
+| sarvatra | everywhere |
+| sarvam | everything |
+| ca | and |
+| mayi | in Me |
+| paśyati | sees |
+| tasya | for him |
+| aham | I |
+| na | not |
+| praṇaśyāmi | am lost |
+| saḥ | he |
+| ca | and |
+| me | to Me |
+| na | not |
+| praṇaśyati | is lost |
+

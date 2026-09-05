@@ -31,3 +31,55 @@ position: 208
 
 ```
 
+
+### Transliteration
+```
+sāṅkhyayogau pṛthagbālāḥ pravadanti na paṇḍitāḥ
+ekamapyāsthitaḥ samyagubhayorvindate phalam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि ज्ञान योग और कर्म योग का अंतिम लक्ष्य एक ही है। जो लोग अज्ञानी हैं, वे ही इन दोनों मार्गों को भिन्न मानते हैं। एक सच्चा विद्वान यह जानता है कि किसी भी एक मार्ग का निष्ठापूर्वक पालन करने से दोनों मार्गों का समान फल, अर्थात् आत्म-साक्षात्कार और मोक्ष, प्राप्त होता है।
+
+### Meaning
+
+In this verse, Lord Krishna clarifies that the ultimate goal of both the path of knowledge (Sankhya) and the path of action (Karma Yoga) is identical. Only the ignorant consider these two paths to be fundamentally different. A truly wise person knows that by strictly following either of these paths, one attains the same result of both, which is self-realization and liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सांख्ययोगौ | सांख्य (ज्ञान योग) और कर्म योग को |
+| पृथक् | अलग-अलग |
+| बालाः | अज्ञानी |
+| प्रवदन्ति | कहते हैं |
+| न | नहीं |
+| पण्डिताः | ज्ञानी जन |
+| एकम् | एक में |
+| अपि | भी |
+| आस्थितः | स्थित हुआ |
+| सम्यक् | भली-भाँति |
+| उभयोः | दोनों के |
+| विन्दते | प्राप्त करता है |
+| फलम् | फल को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sāṅkhyayogau | Sankhya (the path of knowledge) and Karma Yoga (the path of action) |
+| pṛthak | different |
+| bālāḥ | the ignorant |
+| pravadanti | say |
+| na | not |
+| paṇḍitāḥ | the wise |
+| ekam | in one |
+| api | even |
+| āsthitaḥ | situated |
+| samyak | properly |
+| ubhayoḥ | of both |
+| vindate | attains |
+| phalam | the result |
+

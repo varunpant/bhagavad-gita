@@ -31,3 +31,51 @@ position: 97
 
 ```
 
+
+### Transliteration
+```
+buddhiyukto jahātīha ubhe sukṛtaduṣkṛte
+tasmādyogāya yujyasva yogaḥ karmasu kauśalam
+
+```
+
+### भावार्थ
+
+जो मनुष्य समबुद्धि (समत्व) में स्थित होता है, वह इसी जन्म में पाप और पुण्य दोनों के बंधनों से मुक्त हो जाता है। फल की आसक्ति के बिना कर्म करने से मनुष्य नए कर्मफलों में नहीं बंधता। इसलिए भगवान कृष्ण अर्जुन को समत्व योग अपनाने की प्रेरणा देते हैं, क्योंकि कर्मों को बंधन रहित होकर करना ही सच्ची कुशलता है।
+
+### Meaning
+
+A person whose mind is established in equanimity transcends the dualities of good and bad karma in this very life. By acting without attachment to the results, one avoids accumulating new karmic reactions. Therefore, Lord Krishna urges Arjuna to practice this yoga of equanimity, as true skill in action lies in working without being bound by it.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बुद्धि-युक्तः | समबुद्धि से युक्त |
+| जहाति | त्याग देता है |
+| इह | इसी जन्म में |
+| उभे | दोनों को |
+| सुकृत-दुष्कृते | पुण्य और पाप |
+| तस्मात् | इसलिए |
+| योगाय | योग के लिए |
+| युज्यस्व | लग जाओ |
+| योगः | योग ही |
+| कर्मसु | कर्मों में |
+| कौशलम् | कुशलता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| buddhi-yuktaḥ | endowed with wisdom (equanimity) |
+| jahāti | casts off |
+| iha | in this life |
+| ubhe | both |
+| sukṛta-duṣkṛte | good and evil deeds |
+| tasmāt | therefore |
+| yogāya | for yoga |
+| yujyasva | engage yourself |
+| yogaḥ | yoga |
+| karmasu | in actions |
+| kauśalam | skill |
+

@@ -31,3 +31,53 @@ position: 126
 
 ```
 
+
+### Transliteration
+```
+yastvindriyāṇi manasā niyamyārabhate'rjuna
+karmendriyaiḥ karmayogamasaktaḥ sa viśiṣyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सच्चे कर्मयोगी की पहचान बताते हैं। जो व्यक्ति केवल बाहर से कर्मों का त्याग नहीं करता, बल्कि अपने मन से इन्द्रियों को नियंत्रित करता है और बिना किसी आसक्ति के अपने कर्तव्य निभाता है, वही श्रेष्ठ है। ऐसा व्यक्ति दिखावा नहीं करता, बल्कि अनासक्त भाव से समाज और ईश्वर के लिए कर्म करता है।
+
+### Meaning
+
+In this verse, Lord Krishna defines the true karma-yogi. A person who does not merely renounce actions externally, but controls their senses through the mind and performs their duties without attachment, is considered superior. Such a person avoids hypocrisy and acts selflessly for the greater good.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| तु | परन्तु |
+| इन्द्रियाणि | इन्द्रियों को |
+| मनसा | मन से |
+| नियम्य | नियंत्रित करके |
+| आरभते | आचरण करता है |
+| अर्जुन | हे अर्जुन |
+| कर्मेन्द्रियैः | कर्मेन्द्रियों द्वारा |
+| कर्मयोगम् | कर्मयोग का |
+| असक्तः | अनासक्त (बिना आसक्ति के) |
+| सः | वह |
+| विशिष्यते | श्रेष्ठ है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| tu | but |
+| indriyāṇi | the senses |
+| manasā | by the mind |
+| niyamya | controlling |
+| ārabhate | engages in |
+| arjuna | O Arjuna |
+| karmendriyaiḥ | by the organs of action |
+| karmayogam | karma-yoga |
+| asaktaḥ | unattached |
+| saḥ | he |
+| viśiṣyate | is superior |
+

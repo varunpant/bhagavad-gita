@@ -31,3 +31,56 @@ position: 51
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+kathaṃ bhīṣmamahaṃ saṃkhye droṇaṃ ca madhusūdana
+iṣubhiḥ pratiyotsyāmi pūjārhāvarisūdana
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के समक्ष अपनी दुविधा और शोक व्यक्त कर रहे हैं। वे कहते हैं कि भीष्म पितामह और गुरु द्रोणाचार्य उनके लिए अत्यंत पूजनीय हैं। ऐसे आदरणीय गुरुजनों और संबंधियों पर बाण चलाना उनके लिए नैतिक रूप से असंभव है, भले ही वे शत्रु पक्ष में क्यों न खड़े हों।
+
+### Meaning
+
+In this verse, Arjuna expresses his deep moral dilemma and grief to Lord Krishna. He points out that grandsire Bhishma and teacher Drona are highly venerable figures to him. He feels it is morally impossible to shoot arrows at such respected elders and teachers, even if they are standing on the enemy's side.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| कथम् | कैसे |
+| भीष्मम् | भीष्म के विरुद्ध |
+| अहम् | मैं |
+| संख्ये | युद्ध में |
+| द्रोणम् | द्रोण के विरुद्ध |
+| च | और |
+| मधुसूदन | हे मधुसूदन |
+| इषुभिः | बाणों से |
+| प्रतियोत्स्यामि | युद्ध करूँगा |
+| पूजार्हौ | पूजनीय |
+| अरिसूदन | हे शत्रुओं के नाशक |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| katham | how |
+| bhīṣmam | against Bhishma |
+| aham | I |
+| saṃkhye | in battle |
+| droṇam | against Drona |
+| ca | and |
+| madhusūdana | O Madhusudana |
+| iṣubhiḥ | with arrows |
+| pratiyotsyāmi | shall fight against |
+| pūjārhau | worthy of worship |
+| arisūdana | O destroyer of enemies |
+

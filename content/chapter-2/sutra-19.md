@@ -31,3 +31,65 @@ position: 66
 
 ```
 
+
+### Transliteration
+```
+ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam
+ubhau tau na vijānīto nāyaṃ hanti na hanyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को आत्मा की अमरता और अकर्ता भाव का ज्ञान दे रहे हैं। अज्ञान के कारण मनुष्य शरीर को ही सब कुछ मान लेता है और मृत्यु से भयभीत होता है। वास्तव में आत्मा शाश्वत है, वह न तो किसी की हत्या कर सकती है और न ही कोई अस्त्र-शस्त्र उसे नष्ट कर सकता है।
+
+### Meaning
+
+In this verse, Lord Krishna imparts the knowledge of the soul's immortality and non-doership to Arjuna. Out of ignorance, a person identifies with the physical body and fears death. In reality, the soul is eternal; it can neither slay anyone nor be destroyed by any weapon.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| एनम् | इसको (आत्मा को) |
+| वेत्ति | जानता है |
+| हन्तारम् | मारने वाला |
+| यः | जो |
+| च | और |
+| एनम् | इसको |
+| मन्यते | मानता है |
+| हतम् | मारा हुआ |
+| उभौ | दोनों |
+| तौ | वे |
+| न | नहीं |
+| विजानीतः | जानते हैं |
+| न | नहीं |
+| अयम् | यह |
+| हन्ति | मारता है |
+| न | नहीं |
+| हन्यते | मारा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| enam | this (soul) |
+| vetti | knows |
+| hantāram | the killer |
+| yaḥ | who |
+| ca | and |
+| enam | this |
+| manyate | thinks |
+| hatam | killed |
+| ubhau | both |
+| tau | they |
+| na | not |
+| vijānītaḥ | know |
+| na | neither |
+| ayam | this |
+| hanti | kills |
+| na | nor |
+| hanyate | is killed |
+

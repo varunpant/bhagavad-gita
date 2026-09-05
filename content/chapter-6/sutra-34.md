@@ -31,3 +31,57 @@ position: 267
 
 ```
 
+
+### Transliteration
+```
+cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham
+tasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन मन की चंचलता और उसकी अनियंत्रित प्रकृति के बारे में अपनी व्यावहारिक कठिनाई व्यक्त कर रहे हैं। वे मन की तुलना तीव्र आंधी या वायु से करते हैं, जिसे रोकना अत्यंत कठिन है। अर्जुन का यह प्रश्न मानव मन की सार्वभौमिक समस्या को दर्शाता है, जिसका समाधान आगे श्री कृष्ण देते हैं।
+
+### Meaning
+
+In this verse, Arjuna expresses his practical difficulty regarding the restless and uncontrollable nature of the mind. He compares the mind to a powerful wind, which is extremely difficult to curb or capture. Arjuna's query highlights a universal human struggle, for which Sri Krishna provides a solution in the subsequent verses.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| चञ्चलम् | चंचल |
+| ही | निश्चय ही |
+| मनः | मन |
+| कृष्ण | हे कृष्ण |
+| प्रमाथि | मथ डालने वाला (विचलित करने वाला) |
+| बलवत् | बलवान् |
+| दृढम् | दृढ़ (हठी) |
+| तस्य | उसका |
+| अहम् | मैं |
+| निग्रहम् | वश में करना (दमन) |
+| मन्ये | मानता हूँ |
+| वायोः | वायु को |
+| इव | की भाँति |
+| सु-दुष्करम् | अत्यंत कठिन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| cañcalam | restless |
+| hi | indeed |
+| manaḥ | the mind |
+| kṛṣṇa | O Krishna |
+| pramāthi | turbulent |
+| balavat | powerful |
+| dṛḍham | obstinate |
+| tasya | its |
+| aham | I |
+| nigraham | control |
+| manye | think |
+| vāyoḥ | of the wind |
+| iva | like |
+| su-duṣkaram | very difficult to do |
+

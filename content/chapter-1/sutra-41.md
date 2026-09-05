@@ -33,3 +33,53 @@ of Vrishni), there arises intermingling of castes.
 
 ```
 
+
+### Transliteration
+```
+adharmābhibhavāt kṛṣṇa praduṣyanti kulastriyaḥ
+strīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ
+
+```
+
+### भावार्थ
+
+अर्जुन यह भय व्यक्त करते हैं कि कुल के नाश से अधर्म बढ़ेगा, जिससे परिवार की स्त्रियाँ पथभ्रष्ट हो जाएँगी। स्त्रियों के दूषित होने से अवांछित संतानें (वर्णसंकर) उत्पन्न होंगी, जो समाज के पतन का कारण बनेंगी। यह श्लोक सामाजिक व्यवस्था और पारिवारिक परंपराओं के प्रति अर्जुन की गहरी चिंता को दर्शाता है।
+
+### Meaning
+
+Arjuna expresses his fear that the destruction of the family will lead to a rise in irreligion, which in turn will corrupt the women of the family. When the women are corrupted, it leads to unwanted progeny and the mixing of castes (varna-sankara), destroying the social and spiritual fabric of society. This highlights Arjuna's deep concern for social order and family traditions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अधर्म | अधर्म के |
+| अभिभवात् | हावी होने से |
+| कृष्ण | हे कृष्ण |
+| प्रदुष्यन्ति | दूषित हो जाती हैं |
+| कुल | कुल की |
+| स्त्रियः | स्त्रियाँ |
+| स्त्रीषु | स्त्रियों के |
+| दुष्टासु | दूषित हो जाने पर |
+| वार्ष्णेय | हे वृष्णिवंशी |
+| जायते | उत्पन्न होता है |
+| वर्ण | वर्णों का |
+| सङ्करः | अवांछित मिश्रण (संकर) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adharma | of irreligion |
+| abhibhavāt | due to the predominance |
+| kṛṣṇa | O Krishna |
+| praduṣyanti | become corrupt |
+| kula | of the family |
+| striyaḥ | women |
+| strīṣu | when women |
+| duṣṭāsu | become corrupted |
+| vārṣṇeya | O descendant of Vrishni |
+| jāyate | is born |
+| varṇa | of castes |
+| saṅkaraḥ | unwanted mixing |
+

@@ -31,3 +31,55 @@ position: 233
 
 ```
 
+
+### Transliteration
+```
+bhoktāraṃ yajñatapasāṃ sarvalokamaheśvaram
+suhṛdaṃ sarvabhūtānāṃ jñātvā māṃ śāntimṛcchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्वयं को परम भोक्ता, परम नियंता और सभी जीवों का निस्वार्थ मित्र घोषित करते हैं। जब साधक इस सत्य को जान लेता है कि सब कुछ ईश्वर का ही है और वे ही सबके सच्चे हितैषी हैं, तो वह सभी सांसारिक चिंताओं से मुक्त होकर परम शांति प्राप्त करता है। यह कर्मयोग और ज्ञानयोग की पराकाष्ठा है जहाँ भक्ति का समावेश होता है।
+
+### Meaning
+
+In this verse, Lord Krishna declares Himself to be the ultimate enjoyer, the supreme controller, and the selfless friend of all living entities. When a seeker realizes that everything belongs to the Divine and that He is the true well-wisher of all, they become free from worldly anxieties and attain supreme peace. This represents the synthesis of Karma Yoga and Jnana Yoga culminating in devotion.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भोक्तारम् | भोगने वाले को |
+| यज्ञ | यज्ञों |
+| तपसाम् | और तपस्याओं के |
+| सर्व | समस्त |
+| लोक | लोकों के |
+| महा-ईश्वरम् | महान ईश्वर को |
+| सुहृदम् | परम मित्र को |
+| सर्व | सभी |
+| भूतानाम् | प्राणियों के |
+| ज्ञात्वा | जानकर |
+| माम | मुझको |
+| शान्तिम् | शान्ति को |
+| ऋच्छति | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhoktāram | the enjoyer |
+| yajña | of sacrifices |
+| tapasām | and austerities |
+| sarva | all |
+| loka | worlds |
+| mahā-īśvaram | the great Lord |
+| suhṛdam | the benefactor / friend |
+| sarva | all |
+| bhūtānām | of living beings |
+| jñātvā | having known |
+| mām | Me |
+| śāntim | peace |
+| ṛcchati | attains |
+

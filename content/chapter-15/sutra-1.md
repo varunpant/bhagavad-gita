@@ -31,3 +31,60 @@ position: 552
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+ūrdhvamūlam adhaḥśākham aśvatthaṃ prāhur avyayam
+chandāṃsi yasya parṇāni yas taṃ veda sa vedavit
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण संसार की तुलना एक उल्टे पीपल के वृक्ष (अश्वत्थ) से करते हैं, जिसकी जड़ें ऊपर (परमेश्वर में) हैं और शाखाएं नीचे (संसार में) फैली हुई हैं। इसके पत्ते वैदिक मन्त्रों के समान हैं जो कर्मकांडों के माध्यम से जीव को इस संसार में बांधे रखते हैं। जो मनुष्य इस संसार रूपी वृक्ष के वास्तविक स्वरूप को समझ लेता है, वही वास्तव में वेदों के गूढ़ रहस्य को जानता है।
+
+### Meaning
+
+In this verse, Lord Krishna compares the material world to an inverted Ashvattha (banyan/peepal) tree, which has its roots facing upwards in the Supreme Divine and branches spreading downwards. The leaves of this tree represent the Vedic hymns that sustain material existence through ritualistic actions. One who understands the true nature of this cosmic tree and its source is considered to have understood the ultimate purpose of the Vedas.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | श्री भगवान् |
+| उवाच | ने कहा |
+| ऊर्ध्व-मूलम् | ऊपर की ओर जड़ों वाला |
+| अधः-शाखम् | नीचे की ओर शाखाओं वाला |
+| अश्वत्थम् | अश्वत्थ (पीपल) के वृक्ष को |
+| प्राहुः | कहते हैं |
+| अव्ययम् | अविनाशी |
+| छन्दांसि | वैदिक गीत (छन्द) |
+| यस्य | जिसके |
+| पर्णानि | पत्ते हैं |
+| यः | जो |
+| तम् | उस (वृक्ष) को |
+| वेद | जानता है |
+| सः | वह |
+| वेद-वित् | वेदों को जानने वाला है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| ūrdhva-mūlam | with roots above |
+| adhaḥ-śākham | with branches below |
+| aśvattham | the Ashvattha (sacred fig) tree |
+| prāhuḥ | they speak of |
+| avyayam | eternal / imperishable |
+| chandāṃsi | the Vedic hymns |
+| yasya | whose |
+| parṇāni | leaves |
+| yaḥ | who |
+| tam | that (tree) |
+| veda | knows |
+| saḥ | he |
+| veda-vit | is the knower of the Vedas |
+

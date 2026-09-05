@@ -31,3 +31,53 @@ position: 599
 
 ```
 
+
+### Transliteration
+```
+yajante sāttvikā devān yakṣarakṣāṃsi rājasāḥ
+pretān bhūtagaṇāṃś cānye yajante tāmasā janāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण श्रद्धा के त्रिविध वर्गीकरण के अनुसार मनुष्यों के पूज्य देवों का वर्णन कर रहे हैं। सात्त्विक प्रवृत्ति के लोग दिव्य गुणों से युक्त देवताओं की आराधना करते हैं। राजस लोग शक्ति और ऐश्वर्य के प्रतीक यक्षों और राक्षसों को पूजते हैं, जबकि तामस लोग अज्ञानवश भूत-प्रेतों की पूजा करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the objects of worship according to the three divisions of faith. Sattvic individuals worship the celestial gods who represent light and order. Rajasic individuals worship powerful and passionate beings like yakshas and rakshasas, while tamasic individuals worship lower spirits and ghosts due to ignorance.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यजन्ते | पूजते हैं |
+| सात्त्विकाः | सत्त्वगुणी लोग |
+| देवान् | देवताओं को |
+| यक्ष-रक्षांसि | यक्षों और राक्षसों को |
+| राजसाः | रजोगुणी लोग |
+| प्रेतान | प्रेतों को |
+| भूत-गणान् | भूतों के समूहों को |
+| च | और |
+| अन्ये | दूसरे |
+| यजन्ते | पूजते हैं |
+| तामसाः | तमोगुणी |
+| जनाः | लोग |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yajante | worship |
+| sāttvikāḥ | those in the mode of goodness |
+| devān | the demigods / gods |
+| yakṣa-rakṣāṃsi | the yakshas and rakshasas |
+| rājasāḥ | those in the mode of passion |
+| pretān | the spirits of the dead |
+| bhūta-gaṇān | the ghostly hordes |
+| ca | and |
+| anye | others |
+| yajante | worship |
+| tāmasāḥ | those in the mode of ignorance |
+| janāḥ | people |
+

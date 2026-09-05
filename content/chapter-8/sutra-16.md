@@ -31,3 +31,53 @@ position: 326
 
 ```
 
+
+### Transliteration
+```
+ābrahmabhuvanāllokāḥ punarāvartino'rjuna
+māmupetya tu kaunteya punarjanma na vidyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि ब्रह्मांड के सर्वोच्च लोक, ब्रह्मलोक तक जाने वाले जीवों को भी अपने पुण्यों के क्षीण होने पर पुनः मृत्युलोक में लौटना पड़ता है। भौतिक सृष्टि के सभी लोक नाशवान और पुनरावृत्ति के चक्र से बंधे हैं। इसके विपरीत, जो परमेश्वर के दिव्य धाम को प्राप्त कर लेता है, वह जन्म-मृत्यु के इस चक्र से सदा के लिए मुक्त हो जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that all realms within the material universe, up to the highest planet of Brahma, are temporary and subject to the cycle of rebirth. Even those who reach these higher heavens must return to the earthly plane once their merits are exhausted. However, those who attain the Supreme Lord's eternal abode transcend this cycle and are never reborn.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आ-ब्रह्म-भुवनात् | ब्रह्मलोक तक |
+| लोकाः | सभी लोक |
+| पुनः | फिर से |
+| आवर्तिनः | लौटने वाले स्वभाव वाले |
+| अर्जुन | हे अर्जुन |
+| माम् | मुझको |
+| उपेत्य | प्राप्त करके |
+| तु | परन्तु |
+| कौन्तेय | हे कुन्तीपुत्र |
+| पुनः-जन्म | पुनर्जन्म |
+| न | नहीं |
+| विद्यते | होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ā-brahma-bhuvanāt | up to the realm of Brahma |
+| lokāḥ | the worlds |
+| punaḥ | again |
+| āvartinaḥ | subject to return |
+| arjuna | O Arjuna |
+| mām | Me |
+| upetya | having attained |
+| tu | but |
+| kaunteya | O son of Kunti |
+| punaḥ-janma | rebirth |
+| na | not |
+| vidyate | exists |
+

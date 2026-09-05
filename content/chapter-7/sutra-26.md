@@ -31,3 +31,57 @@ position: 306
 
 ```
 
+
+### Transliteration
+```
+vedāhaṃ samatītāni vartamānāni cārjuna
+bhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी सर्वज्ञता और माया की शक्ति को प्रकट करते हैं। वे काल के तीनों विभागों—भूत, वर्तमान और भविष्य—के सभी प्राणियों को पूर्णतः जानते हैं। इसके विपरीत, साधारण मनुष्य उनकी योगमाया से मोहित होने के कारण उनके वास्तविक अविनाशी स्वरूप को नहीं जान पाते।
+
+### Meaning
+
+In this verse, Lord Krishna declares His omniscience and the power of His divine illusion (maya). He has complete knowledge of all living beings across the three divisions of time—past, present, and future. Conversely, ordinary human beings, bewildered by material nature, fail to comprehend His true, eternal, and transcendental nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वेद | जानता हूँ |
+| अहम् | मैं |
+| समतीतानि | बीते हुए (भूतकाल के) |
+| वर्तमानानि | वर्तमान के |
+| च | और |
+| अर्जुन | हे अर्जुन |
+| भविष्याणि | भविष्य के |
+| च | और |
+| भूतानि | प्राणियों को |
+| माम् | मुझको |
+| तु | परन्तु |
+| वेद | जानता है |
+| ना | नहीं |
+| कश्चन | कोई भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| veda | know |
+| aham | I |
+| samatītāni | the past |
+| vartamānāni | the present |
+| ca | and |
+| arjuna | O Arjuna |
+| bhaviṣyāṇi | the future |
+| ca | and |
+| bhūtāni | living beings |
+| mām | Me |
+| tu | but |
+| veda | knows |
+| na | not |
+| kaścana | anyone |
+

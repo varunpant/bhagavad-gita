@@ -31,3 +31,59 @@ position: 553
 
 ```
 
+
+### Transliteration
+```
+adhaś cordhvaṃ prasṛtās tasya śākhā
+guṇapravṛddhā viṣayapravālāḥ
+adhaś ca mūlāny anusantatāni
+karmānubandhīni manuṣyaloke
+
+```
+
+### भावार्थ
+
+इस श्लोक में संसार रूपी अश्वत्थ वृक्ष का और विस्तार से वर्णन किया गया है। इसकी शाखाएँ तीनों गुणों (सत्त्व, रज, तम) द्वारा पोषित होकर ऊपर (देवलोक आदि) और नीचे (पशु-पक्षी आदि योनियों) में फैली हुई हैं। इन्द्रियों के विषय इस वृक्ष की नई कोमल पत्तियाँ हैं, और मनुष्य लोक में कर्मों के अनुसार बाँधने वाली इसकी गौण जड़ें नीचे की ओर फैली हुई हैं जो जीव को सांसारिक बंधनों में जकड़े रखती हैं।
+
+### Meaning
+
+This verse further describes the metaphorical banyan tree of material existence. Its branches, nourished by the three modes of material nature (gunas), extend both upwards to higher planetary systems and downwards to lower species. The sense objects are the tender buds or twigs, and the secondary roots extend downwards into the human world, binding living entities to the cycle of karma (action and reaction).
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अधः | नीचे |
+| च | और |
+| ऊर्ध्वम् | ऊपर |
+| प्रसृताः | फैली हुई हैं |
+| तस्य | उसकी |
+| शाखाः | शाखाएँ |
+| गुण-प्रवृद्धाः | गुणों (प्रकृति के तीनों गुणों) द्वारा बढ़ाई हुई |
+| विषय-प्रवालाः | विषय-भोग रूपी कोंपलों वाली |
+| अधः | नीचे |
+| च | और |
+| मूलानि | जड़ें |
+| अनुसन्ततानि | लगातार फैली हुई हैं |
+| कर्म-अनुबन्धीनि | कर्मों के अनुसार बाँधने वाली |
+| मनुष्य-लोके | मनुष्य लोक में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adhaḥ | downwards |
+| ca | and |
+| ūrdhvam | upwards |
+| prasṛtāḥ | extended |
+| tasya | its |
+| śākhāḥ | branches |
+| guṇa-pravṛddhāḥ | nourished by the modes of nature |
+| viṣaya-pravālāḥ | having sense-objects as buds |
+| adhaḥ | downwards |
+| ca | and |
+| mūlāni | roots |
+| anusantatāni | stretched |
+| karma-anubandhīni | binding to action |
+| manuṣya-loke | in the world of humans |
+

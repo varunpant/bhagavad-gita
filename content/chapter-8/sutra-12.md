@@ -31,3 +31,53 @@ position: 322
 
 ```
 
+
+### Transliteration
+```
+sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca
+mūrdhnyādhāyātmanaḥ prāṇamāsthito yogadhāraṇām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अंतकाल में प्राण त्यागने की योगिक प्रक्रिया का वर्णन कर रहे हैं। साधक को अपनी सभी इंद्रियों (द्वारों) को बाहरी विषयों से समेटना होता है और मन को हृदय में स्थिर करना होता है। इसके बाद, प्राणवायु को मस्तक (आज्ञा चक्र या सहस्रार) में स्थापित करके योग-धारणा में लीन होना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna describes the yogic process of leaving the body at the time of death. The practitioner must close all the sensory gates of the body, withdraw the mind into the heart, and channel the life-force (prana) up to the head. This state of complete internal absorption is necessary for steady concentration on the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्व-द्वाराणि | सभी द्वारों (इंद्रियों) को |
+| संयम्य | वश में करके |
+| मनः | मन को |
+| हृदि | हृदय में |
+| निरुध्य | रोककर (निरुद्ध करके) |
+| च | और |
+| मूर्ध्नि | मस्तक में |
+| आधाय | स्थापित करके |
+| आत्मनः | अपने |
+| प्राणम् | प्राण को |
+| आस्थितः | स्थित होकर |
+| योग-धारणाम् | योग-धारणा में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarva-dvārāṇi | all the gates (senses) |
+| saṃyamya | controlling |
+| manaḥ | the mind |
+| hṛdi | in the heart |
+| nirudhya | confining |
+| ca | and |
+| mūrdhni | in the head |
+| ādhāya | placing |
+| ātmanaḥ | one's own |
+| prāṇam | life-breath |
+| āsthitaḥ | established |
+| yoga-dhāraṇām | in yogic concentration |
+

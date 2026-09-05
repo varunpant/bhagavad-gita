@@ -31,3 +31,53 @@ position: 164
 
 ```
 
+
+### Transliteration
+```
+evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ
+sa kāleneha mahatā yogo naṣṭaḥ parantapa
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को बताते हैं कि यह निष्काम कर्मयोग का ज्ञान एक गुरु-शिष्य परम्परा के माध्यम से आगे बढ़ा। प्राचीन काल के पवित्र और ज्ञानी राजाओं (राजर्षियों) ने इसी परम्परा से इसे समझा और अपने जीवन में उतारा। परन्तु समय के लम्बे अन्तराल में यह पवित्र ज्ञान इस संसार से लगभग लुप्त हो गया।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that this supreme science of yoga was passed down through a continuous disciplic succession. The saintly kings of ancient times understood and practiced it by receiving it through this unbroken chain. However, over a long period of time, this sacred knowledge was gradually lost to the world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एवम् | इस प्रकार |
+| परम्पराप्राप्तम् | परम्परा से प्राप्त |
+| इमम् | इस |
+| राजर्षयः | राजर्षियों ने |
+| विदुः | जाना |
+| सः | वह |
+| कालेन | समय के प्रभाव से |
+| इह | इस संसार में |
+| महता | महान (लम्बे) |
+| योगः | योग |
+| नष्टः | लुप्त हो गया |
+| परन्तप | हे शत्रुओं को तपाने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| evam | thus |
+| paramparāprāptam | received through disciplic succession |
+| imam | this |
+| rājarṣayaḥ | the saintly kings |
+| viduḥ | understood |
+| saḥ | that |
+| kālena | by the course of time |
+| iha | in this world |
+| mahatā | great |
+| yogaḥ | yoga |
+| naṣṭaḥ | lost |
+| parantapa | O subduer of enemies |
+

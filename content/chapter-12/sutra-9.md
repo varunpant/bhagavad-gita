@@ -31,3 +31,55 @@ position: 478
 
 ```
 
+
+### Transliteration
+```
+atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram
+abhyāsayogena tato māmicchāptuṃ dhanañjaya
+
+```
+
+### भावार्थ
+
+इस श्लोक में श्री कृष्ण अर्जुन को भक्ति का एक व्यावहारिक विकल्प प्रदान कर रहे हैं। यदि कोई साधक अपने मन को स्वाभाविक रूप से भगवान में पूरी तरह स्थिर नहीं कर पाता, तो उसे निराश नहीं होना चाहिए। निरंतर अभ्यास (अभ्यास योग) के द्वारा मन को बार-बार सांसारिक विषयों से हटाकर भगवान में लगाने का प्रयास करना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna offers a practical alternative for spiritual practice. If one is unable to naturally and steadily fix their mind on the Divine, they should not despair. Through the yoga of constant practice (abhyāsa-yoga), which involves repeatedly bringing the wandering mind back to God, one can gradually develop steady devotion.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अथ | यदि |
+| चित्तम् | मन को |
+| समाधातुम् | स्थिर करने के लिए |
+| न | नहीं |
+| शक्नोषि | तुम समर्थ हो |
+| मयि | मुझमें |
+| स्थिरम् | अचल रूप से |
+| अभ्यास-योगेन | अभ्यास के योग द्वारा |
+| ततः | तो |
+| माम् | मुझे |
+| इच्छ | इच्छा करो |
+| आप्तुम् | प्राप्त करने की |
+| धनञ्जय | हे अर्जुन (धनंजय) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| atha | if |
+| cittam | the mind |
+| samādhātum | to fix steadily |
+| na | not |
+| śaknoṣi | you are able |
+| mayi | on Me |
+| sthiram | unwaveringly |
+| abhyāsa-yogena | by the yoga of practice |
+| tataḥ | then |
+| mām | Me |
+| iccha | desire / seek |
+| āptum | to attain |
+| dhanañjaya | O Dhanañjaya (Arjuna) |
+

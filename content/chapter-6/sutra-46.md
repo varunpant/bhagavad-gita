@@ -31,3 +31,59 @@ position: 279
 
 ```
 
+
+### Transliteration
+```
+tapasvibhyo'dhiko yogī jñānibhyo'pi mato'dhikaḥ
+karmibhyaścādhiko yogī tasmādyogī bhavārjuna
+
+```
+
+### भावार्थ
+
+इस श्लोक में श्रीकृष्ण अर्जुन को योग मार्ग की सर्वोपरि श्रेष्ठता बता रहे हैं। वे कहते हैं कि केवल शारीरिक तपस्या करने वालों, केवल शास्त्रों का बौद्धिक ज्ञान रखने वालों और सकाम कर्म करने वालों की तुलना में वह योगी श्रेष्ठ है जो निष्काम भाव से परमात्मा से जुड़ा है। इसलिए वे अर्जुन को हर परिस्थिति में योगयुक्त होने की प्रेरणा देते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna establishes the supremacy of the path of Yoga over other spiritual disciplines. He explains that a yogi, who is united with the Divine, is superior to physical ascetics, intellectual scholars, and ritualistic performers. Therefore, He urges Arjuna to transcend these limited paths and become a true yogi.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तपस्विभ्यः | तपस्वियों से |
+| अधिकः | श्रेष्ठ |
+| योगी | योगी |
+| ज्ञानिभ्यः | ज्ञानियों से |
+| अपि | भी |
+| मतः | माना गया है |
+| अधिकः | श्रेष्ठ |
+| कर्मिभ्यः | सकाम कर्म करने वालों से |
+| च | और |
+| अधिकः | श्रेष्ठ |
+| योगी | योगी |
+| तस्मात् | इसलिए |
+| योगी | योगी |
+| भव | बनो |
+| अर्जुन | हे अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tapasvibhyaḥ | than the ascetics |
+| adhikaḥ | superior |
+| yogī | the yogi |
+| jñānibhyaḥ | than the wise (scholars) |
+| api | even |
+| mataḥ | is considered |
+| adhikaḥ | superior |
+| karmibhyaḥ | than the ritual workers |
+| ca | and |
+| adhikaḥ | superior |
+| yogī | the yogi |
+| tasmāt | therefore |
+| yogī | a yogi |
+| bhava | become |
+| arjuna | O Arjuna |
+

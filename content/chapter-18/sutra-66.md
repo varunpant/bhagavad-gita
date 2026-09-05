@@ -31,3 +31,53 @@ position: 689
 
 ```
 
+
+### Transliteration
+```
+sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja
+ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ
+
+```
+
+### भावार्थ
+
+यह भगवद्गीता का परम गोपनीय और अंतिम उपदेश है। यहाँ श्रीकृष्ण अर्जुन को सभी प्रकार के सांसारिक और नैतिक कर्तव्यों (धर्मों) की चिंता छोड़कर केवल ईश्वर की शरण में आने का निर्देश देते हैं। वे पूर्ण शरणागति के बदले भक्त को सभी पापों और बंधनों से मुक्त करने का आश्वासन देते हैं।
+
+### Meaning
+
+This is the ultimate and most confidential instruction of the Bhagavad Gita. Sri Krishna asks Arjuna to abandon all varieties of formal duties and sectarian religions, and simply surrender unto Him. He promises complete deliverance from all sinful reactions, assuring the devotee not to fear or grieve.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वधर्मान् | सभी धर्मों को (कर्तव्यों को) |
+| परित्यज्य | त्यागकर |
+| माम् | मेरी |
+| एकम् | केवल |
+| शरणम् | शरण में |
+| व्रज | आओ |
+| अहम् | मैं |
+| त्वा | तुम्हें |
+| सर्वपापेभ्यः | सभी पापों से |
+| मोक्षयिष्यामि | मुक्त कर दूँगा |
+| मा | मत |
+| शुचः | शोक करो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvadharmān | all duties / religions |
+| parityajya | abandoning |
+| mām | unto Me |
+| ekam | alone |
+| śaraṇam | for shelter |
+| vraja | go / surrender |
+| aham | I |
+| tvā | you |
+| sarvapāpebhyah | from all sins |
+| mokṣayiṣyāmi | will deliver / liberate |
+| mā | do not |
+| śucaḥ | grieve / worry |
+

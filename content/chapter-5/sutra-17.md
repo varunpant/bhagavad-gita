@@ -31,3 +31,55 @@ position: 221
 
 ```
 
+
+### Transliteration
+```
+tadbuddhayastadātmānastanniṣṭhāstatparāyaṇāḥ
+gacchantyapunarāvṛttiṃ jñānanirdhūtakalmaṣāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस अवस्था का वर्णन करते हैं जब व्यक्ति पूरी तरह से परमात्मा में लीन हो जाता है। जब किसी की बुद्धि, मन, निष्ठा और सर्वोच्च लक्ष्य केवल परमात्मा ही होते हैं, तो ज्ञान के द्वारा उसके सभी पाप और अशुद्धियाँ धुल जाती हैं। परिणामस्वरूप, ऐसे ज्ञानी पुरुष मोक्ष को प्राप्त करते हैं और जन्म-मृत्यु के इस चक्र में वापस नहीं लौटते।
+
+### Meaning
+
+In this verse, Lord Krishna explains the state of those who are fully absorbed in the Supreme. When a person's intellect, mind, faith, and ultimate goal are all directed towards the Divine, their material impurities are completely washed away by spiritual knowledge. Consequently, such enlightened souls attain liberation and never return to the cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत् | उस (परमात्मा) में |
+| बुद्धयः | बुद्धि वाले |
+| तत् | उस (परमात्मा) में |
+| आत्मानः | मन वाले |
+| तत् | उस (परमात्मा) में |
+| निष्ठाः | निष्ठा वाले |
+| तत् | उस (परमात्मा) के |
+| परायणाः | आश्रित |
+| गच्छन्ति | प्राप्त होते हैं |
+| अपुनरावृत्तिम् | मोक्ष को (जहाँ से लौटना नहीं पड़ता) |
+| ज्ञान | ज्ञान द्वारा |
+| निर्धूत | धुल गए हैं |
+| कल्मषाः | जिनके पाप |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tat | in That (Supreme) |
+| buddhayaḥ | whose intelligence |
+| tat | in That (Supreme) |
+| ātmānaḥ | whose mind |
+| tat | in That (Supreme) |
+| niṣṭhāḥ | whose steady faith |
+| tat | in That (Supreme) |
+| parāyaṇāḥ | who have as their supreme goal |
+| gacchanti | they go |
+| apunarāvṛttim | to non-return (liberation) |
+| jñāna | by knowledge |
+| nirdhūta | washed away |
+| kalmaṣāḥ | whose sins |
+

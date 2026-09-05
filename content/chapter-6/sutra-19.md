@@ -31,3 +31,55 @@ position: 252
 
 ```
 
+
+### Transliteration
+```
+yathā dīpo nivātastho neṅgate sopamā smṛtā
+yogino yatacittasya yuñjato yogamātmanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ध्यान की गहराई में स्थित मन की स्थिरता को समझाने के लिए एक सुंदर उपमा देते हैं। जैसे वायु रहित स्थान में दीपक की लौ बिना किसी कंपन के स्थिर जलती है, वैसे ही संयमित मन वाले योगी का चित्त परमात्मा के ध्यान में पूरी तरह अचल रहता है। यह बाहरी और आंतरिक विक्षेपों से रहित एकाग्रता की पराकाष्ठा को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna provides a beautiful metaphor to describe the absolute stillness of a mind absorbed in meditation. Just as the flame of a lamp remains perfectly steady and flickerless in a windless place, the disciplined mind of a yogi remains undisturbed and unwavering when focused on the Self. This represents the pinnacle of concentration, free from the winds of external desires and internal distractions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यथा | जिस प्रकार |
+| दीपः | दीपक |
+| निवात-स्थः | हवा से रहित स्थान में स्थित |
+| न | नहीं |
+| इङ्गते | हिलता-डुलता है |
+| सा | वह |
+| उपमा | उपमा (सादृश्य) |
+| स्मृता | कही गई है (मानी गई है) |
+| योगिनः | योगी की |
+| यत-चित्तस्य | संयमित चित्त वाले |
+| युञ्जतः | अभ्यास करते हुए |
+| योगम् | योग का |
+| आत्मनः | आत्मा के (परमात्मा के ध्यान में) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yathā | as |
+| dīpaḥ | a lamp |
+| nivāta-sthaḥ | placed in a windless place |
+| na | does not |
+| iṅgate | flicker |
+| sā | that |
+| upamā | comparison |
+| smṛtā | is considered |
+| yoginaḥ | of the yogi |
+| yata-cittasya | of controlled mind |
+| yuñjataḥ | practicing |
+| yogam | the yoga (meditation) |
+| ātmanaḥ | on the Self |
+

@@ -31,3 +31,53 @@ position: 681
 
 ```
 
+
+### Transliteration
+```
+maccittaḥ sarvadurgāṇi matprasādāttariṣyasi
+atha cettvamahaṅkārānna śroṣyasi vinaṅkṣyasi
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को आश्वस्त करते हैं कि यदि वह अपना मन परमात्मा में केंद्रित रखेगा, तो वह जीवन के सभी संकटों और युद्ध की कठिनाइयों को पार कर जाएगा। इसके विपरीत, यदि वह अहंकारवश भगवान के उपदेशों की उपेक्षा करेगा, तो उसका आध्यात्मिक और नैतिक पतन निश्चित है। यह श्लोक ईश्वर के प्रति पूर्ण समर्पण और अहंकार के त्याग के महत्व को दर्शाता है।
+
+### Meaning
+
+Lord Krishna assures Arjuna that by keeping his mind focused on the Divine, he will cross over all difficulties and obstacles through divine grace. Conversely, if Arjuna allows his ego to dictate his actions and ignores the divine counsel, he will face spiritual ruin. This verse emphasizes the necessity of surrendering the ego and trusting in divine guidance.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मच्चित्तः | मुझमें चित्त लगाने वाला |
+| सर्व | सभी |
+| दुर्गाणि | संकटों को |
+| मत्-प्रसादात् | मेरी कृपा से |
+| तरिष्यसि | तुम पार कर जाओगे |
+| अथ | और |
+| चेत् | यदि |
+| त्वम् | तुम |
+| अहङ्कारात् | अहंकार के कारण |
+| न | नहीं |
+| श्रोष्यसि | सुनोगे |
+| विनङ्क्ष्यसि | नष्ट हो जाओगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| maccittaḥ | with mind fixed on Me |
+| sarva | all |
+| durgāṇi | obstacles / difficulties |
+| mat-prasādāt | by My grace |
+| tariṣyasi | you will overcome |
+| atha | but |
+| cet | if |
+| tvam | you |
+| ahaṅkārāt | from egoism |
+| na | not |
+| śroṣyasi | will listen |
+| vinaṅkṣyasi | you will perish |
+

@@ -31,3 +31,69 @@ position: 457
 
 ```
 
+
+### Transliteration
+```
+pitāsi lokasya carācarasya
+tvamasya pūjyaśca gururgarīyān
+na tvatsamo'styabhyadhikaḥ kuto'nyo
+lokatraye'pyapratimapradhāva
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के विराट रूप की महिमा का गान कर रहे हैं। वे स्वीकार करते हैं कि कृष्ण ही संपूर्ण सृष्टि के आदि कारण (पिता) और परम गुरु हैं। उनकी शक्ति और महिमा अद्वितीय है, जिसके कारण तीनों लोकों में कोई भी उनके समकक्ष या उनसे श्रेष्ठ नहीं हो सकता।
+
+### Meaning
+
+In this verse, Arjuna praises the cosmic majesty of Lord Krishna. He acknowledges Krishna as the ultimate creator (father) and the supreme spiritual preceptor of the entire universe. Since the Lord's power is incomparable, no entity in the three worlds can equal Him, let alone surpass Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पिता | पिता |
+| असि | आप हैं |
+| लोकस्य | जगत के |
+| चर-अचरस्य | चर और अचर (सजीव और निर्जीव) के |
+| त्वम् | आप |
+| अस्य | इस (जगत) के |
+| पूज्यः | पूजनीय |
+| च | और |
+| गुरुः | गुरु |
+| गरीयान् | सबसे महान / गुरुतर |
+| न | नहीं |
+| त्वत्-समः | आपके समान |
+| अस्ति | है |
+| अभ्यधिकः | अधिक (श्रेष्ठ) |
+| कुतः | कहाँ से / कैसे |
+| अन्यः | दूसरा |
+| लोक-त्रये | तीनों लोकों में |
+| अपि | भी |
+| अप्रतिम-प्रभाव | हे अतुलनीय प्रभाव वाले! |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pitā | the father |
+| asi | You are |
+| lokasya | of the world |
+| cara-acarasya | of the moving and non-moving |
+| tvam | You |
+| asya | of this |
+| pūjyaḥ | worshipable |
+| ca | and |
+| guruḥ | spiritual master |
+| garīyān | glorious / greatest |
+| na | not |
+| tvat-samaḥ | equal to You |
+| asti | there is |
+| abhyadhikaḥ | greater |
+| kutaḥ | how |
+| anyaḥ | other |
+| loka-traye | in the three worlds |
+| api | even |
+| apratima-prabhāva | O You of immeasurable power |
+

@@ -31,3 +31,57 @@ position: 571
 
 ```
 
+
+### Transliteration
+```
+iti guhyatamaṃ śāstramidamuktaṃ mayā'nagha
+etadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata
+
+```
+
+### भावार्थ
+
+इस श्लोक में श्रीकृष्ण पंद्रहवें अध्याय के उपदेश का उपसंहार कर रहे हैं। वे इस ज्ञान को 'गुह्यतमम्' (अत्यंत गोपनीय) कहते हैं क्योंकि यह परम सत्य को प्रकट करता है। इसे समझने से मनुष्य को वास्तविक बुद्धि प्राप्त होती है और वह जीवन के परम लक्ष्य को प्राप्त कर कृतकृत्य हो जाता है।
+
+### Meaning
+
+In this concluding verse of the fifteenth chapter, Lord Krishna summarizes the value of the knowledge shared. He terms this teaching as the most confidential because it reveals the ultimate truth of existence. Realizing this wisdom makes a person truly intelligent and leads to the fulfillment of all spiritual duties.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इति | इस प्रकार |
+| गुह्य-तमम् | अति गोपनीय / रहस्यमय |
+| शास्त्रम् | शास्त्र |
+| इदम् | यह |
+| उक्तम् | कहा गया |
+| मया | मेरे द्वारा |
+| अनघ | हे निष्पाप (अर्जुन) |
+| एतत् | इसको |
+| बुद्ध्वा | जानकर |
+| बुद्धिमान् | बुद्धिमान |
+| स्यात् | हो जाता है |
+| कृतकृत्यः | कृतार्थ (जिसने अपने सारे कर्तव्य पूरे कर लिए हों) |
+| च | और |
+| भारत | हे भरतवंशी (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| iti | thus |
+| guhya-tamam | most confidential / secret |
+| śāstram | scripture |
+| idam | this |
+| uktam | spoken |
+| mayā | by Me |
+| anagha | O sinless one |
+| etat | this |
+| buddhvā | knowing / understanding |
+| buddhimān | wise |
+| syāt | becomes |
+| kṛtakṛtyaḥ | one who has accomplished all duties |
+| ca | and |
+| bhārata | O descendant of Bharata |
+

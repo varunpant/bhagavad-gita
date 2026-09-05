@@ -31,3 +31,55 @@ position: 527
 
 ```
 
+
+### Transliteration
+```
+mama yonir mahad brahma tasmin garbhaṃ dadhāmy aham
+sambhavaḥ sarvabhūtānāṃ tato bhavati bhārata
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सृष्टि की उत्पत्ति की प्रक्रिया को समझा रहे हैं। वे प्रकृति (महद्-ब्रह्म) को माता के रूप में और स्वयं को बीज प्रदाता पिता के रूप में प्रस्तुत करते हैं। इन दोनों के संयोग से ही चराचर जगत के सभी जीवों की उत्पत्ति संभव होती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the process of creation. He describes material nature (Mahad Brahma) as the womb and Himself as the seed-giving father. The union of this material nature and the spiritual seed results in the birth of all living entities.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मम | मेरी |
+| योनिः | योनि (गर्भ) |
+| महत् | महान् |
+| ब्रह्म | ब्रह्म (मूल प्रकृति) |
+| तस्मिन् | उसमें |
+| गर्भम् | गर्भ को (चेतन रूप बीज को) |
+| दधामि | स्थापित करता हूँ |
+| अहम् | मैं |
+| संभवः | उत्पत्ति |
+| सर्वभूतानाम् | सभी प्राणियों की |
+| ततः | उससे (उस संयोग से) |
+| भवति | होती है |
+| भारत | हे भरतवंशी अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mama | My |
+| yoniḥ | womb |
+| mahat | great |
+| brahma | Brahman (material nature) |
+| tasmin | in that |
+| garbham | pregnancy (seed of consciousness) |
+| dadhāmi | place |
+| aham | I |
+| sambhavaḥ | the birth |
+| sarvabhūtānām | of all living beings |
+| tato | therefrom |
+| bhavati | becomes (takes place) |
+| bhārata | O descendant of Bharata |
+

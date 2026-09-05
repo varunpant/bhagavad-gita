@@ -31,3 +31,51 @@ position: 195
 
 ```
 
+
+### Transliteration
+```
+śreyāndravyamayādyajñājjñānayajñaḥ parantapa
+sarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि भौतिक वस्तुओं से किए जाने वाले यज्ञ की तुलना में ज्ञान रूपी यज्ञ कहीं अधिक श्रेष्ठ है। इसका कारण यह है कि सभी प्रकार के कर्म और अनुष्ठान अंततः ज्ञान में ही अपनी पूर्णता को प्राप्त होते हैं। ज्ञान के बिना कर्म बंधन का कारण बनते हैं, परंतु ज्ञान के उदय होने पर वे मोक्ष की ओर ले जाते हैं।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that while material sacrifices are beneficial, the sacrifice of knowledge is far superior. This is because all actions and rituals ultimately find their highest fulfillment and culmination in transcendental knowledge. Without knowledge, actions bind the soul, but when performed with understanding, they lead to liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रेयान् | श्रेष्ठ है |
+| द्रव्यमयात् | द्रव्यमय (भौतिक) से |
+| यज्ञात् | यज्ञ की अपेक्षा |
+| ज्ञानयज्ञः | ज्ञान रूपी यज्ञ |
+| परन्तप | हे परन्तप (शत्रुओं को तपाने वाले) |
+| सर्वम् | सभी |
+| कर्म | कर्म |
+| अखिलम् | सम्पूर्ण |
+| पार्थ | हे पार्थ |
+| ज्ञाने | ज्ञान में |
+| परिसमाप्यते | पूर्णता को प्राप्त होते हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śreyān | superior |
+| dravyamayāt | than material |
+| yajñāt | than sacrifice |
+| jñānayajñaḥ | sacrifice of knowledge |
+| parantapa | O chastiser of enemies |
+| sarvam | all |
+| karma | action |
+| akhilam | in its entirety |
+| pārtha | O son of Pritha |
+| jñāne | in knowledge |
+| parisamāpyate | culminates |
+

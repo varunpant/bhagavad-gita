@@ -31,3 +31,49 @@ position: 582
 
 ```
 
+
+### Transliteration
+```
+cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ
+kāmopabhogaparamā etāvaditi niścītāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में आसुरी प्रवृत्ति के मनुष्यों की मानसिक स्थिति का वर्णन किया गया है। वे जीवन भर अनंत चिंताओं से घिरे रहते हैं जो केवल मृत्यु के साथ ही समाप्त होती हैं। उनके लिए इंद्रिय-तृप्ति ही जीवन का सर्वोच्च लक्ष्य होता है और वे मानते हैं कि इस भौतिक संसार के सुखों के अतिरिक्त और कुछ भी सत्य नहीं है।
+
+### Meaning
+
+This verse describes the mental state of those with demoniac qualities. They are burdened with endless anxieties that persist until their death. For them, the gratification of sensory desires is the ultimate goal of life, and they firmly believe that there is nothing beyond this material existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| चिन्ताम् | चिंता को |
+| अपरिमेयाम् | असीमित |
+| च | और |
+| प्रलय-अन्ताम् | मृत्यु के समय तक रहने वाली |
+| उपाश्रिताः | शरण लिए हुए |
+| काम-उपभोग | इंद्रिय-भोग को |
+| परमाः | परम लक्ष्य मानने वाले |
+| एतावत् | इतना ही (सब कुछ है) |
+| इति | ऐसा |
+| निश्चिताः | निश्चय किए हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| cintām | anxiety |
+| aparimeyām | immeasurable |
+| ca | and |
+| pralaya-antām | ending only with death |
+| upāśritāḥ | having taken refuge in |
+| kāma-upabhoga | gratification of desires |
+| paramāḥ | as the highest goal |
+| etāvat | this is all |
+| iti | thus |
+| niścitāḥ | convinced |
+

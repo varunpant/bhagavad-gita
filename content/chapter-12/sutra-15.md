@@ -31,3 +31,67 @@ position: 484
 
 ```
 
+
+### Transliteration
+```
+yasmān nodvijate loko lokān nodvijate ca yaḥ
+harṣāmarṣabhayodvegair mukto yaḥ sa ca me priyaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस भक्त के लक्षणों का वर्णन करते हैं जो उन्हें अत्यंत प्रिय है। ऐसा भक्त संसार में किसी के लिए भी अशांति या दुःख का कारण नहीं बनता और न ही वह स्वयं दूसरों के व्यवहार से विचलित होता है। वह सांसारिक द्वंद्वों जैसे अत्यधिक हर्ष, ईर्ष्या, भय और चिंता से सर्वथा मुक्त होकर मानसिक शांति में स्थित रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the qualities of a devotee who is very dear to Him. Such a devotee does not cause disturbance or distress to any living being, nor is he disturbed by the actions of others. He remains emotionally balanced and free from the dualities of worldly excitement, intolerance, fear, and anxiety.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यस्मात् | जिससे |
+| न | नहीं |
+| उद्विजते | उद्विग्न होता है (भयभीत या दुखी होता है) |
+| लोकः | संसार (कोई भी जीव) |
+| लोकात् | संसार से (किसी भी जीव से) |
+| न | नहीं |
+| उद्विजते | उद्विग्न होता है |
+| च | और |
+| यः | जो |
+| हर्ष | हर्ष (अत्यधिक प्रसन्नता) |
+| अमर्ष | अमर्ष (क्रोध या ईर्ष्या) |
+| भय | भय |
+| उद्वेगैः | और उद्वेगों से |
+| मुक्तः | मुक्त है |
+| यः | जो |
+| सः | वह |
+| च | भी |
+| मे | मेरा (मुझे) |
+| प्रियः | प्रिय है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yasmāt | from whom |
+| na | not |
+| udvijate | is agitated |
+| lokaḥ | the world (any living being) |
+| lokāt | from the world |
+| na | not |
+| udvijate | is agitated |
+| ca | and |
+| yaḥ | who |
+| harṣa | joy |
+| amarṣa | envy (anger) |
+| bhaya | fear |
+| udvegaiḥ | and anxiety |
+| muktaḥ | freed |
+| yaḥ | who |
+| saḥ | he |
+| ca | also |
+| me | to Me |
+| priyaḥ | dear |
+

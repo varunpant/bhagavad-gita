@@ -33,3 +33,51 @@ position: 91
 
 ```
 
+
+### Transliteration
+```
+bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām
+vyavasāyātmikā buddhiḥ samādhau na vidhīyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण भौतिक सुखों और शक्ति के प्रति अत्यधिक आसक्ति के परिणामों को समझाते हैं। जब किसी व्यक्ति का मन सांसारिक पुरस्कारों के लिए वेदों के पुष्पित वादों द्वारा मोहित हो जाता है, तो वह अपना आध्यात्मिक लक्ष्य खो देता है। परिणामस्वरूप, आत्म-साक्षात्कार या स्थिर ध्यान (समाधि) प्राप्त करने के लिए आवश्यक दृढ़ निश्चय उनके मन में स्थापित नहीं हो पाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the consequences of being overly attached to material pleasures and power. When a person's mind is captivated by the flowery promises of the Vedas for worldly rewards, they lose their spiritual focus. Consequently, they cannot develop the resolute determination required to attain self-realization or steady meditation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भोग | भोग |
+| ऐश्वर्य | ऐश्वर्य |
+| प्रसक्तानाम् | में आसक्त लोगों की |
+| तया | उस (वाणी) के द्वारा |
+| अपहृत | हर लिया गया है |
+| चेतसाम् | जिनका मन |
+| व्यवसायात्मिका | निश्चयात्मिका |
+| बुद्धिः | बुद्धि |
+| समाधौ | समाधि में |
+| न | नहीं |
+| विधीयते | स्थापित होती है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhoga | enjoyment |
+| aiśvarya | opulence |
+| prasaktānām | of those who are attached |
+| tayā | by that |
+| apahṛta | stolen away |
+| cetasām | of those whose minds |
+| vyavasāyātmikā | resolute |
+| buddhiḥ | intellect |
+| samādhau | in samadhi |
+| na | not |
+| vidhīyate | is established |
+

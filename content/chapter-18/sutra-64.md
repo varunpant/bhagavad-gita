@@ -31,3 +31,59 @@ position: 687
 
 ```
 
+
+### Transliteration
+```
+sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ
+iṣṭo'si me dṛḍhamiti tato vakṣyāmi te hitam
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण अर्जुन को गीता का अंतिम और सबसे महत्वपूर्ण उपदेश देने से पूर्व उसका ध्यान आकर्षित कर रहे हैं। वे अर्जुन को आश्वस्त करते हैं कि यह ज्ञान अत्यंत गोपनीय है, परंतु अर्जुन के प्रति उनके अगाध प्रेम के कारण वे इसे पुनः प्रकट कर रहे हैं। यह भगवान की अपने भक्त के प्रति परम अनुकम्पा को दर्शाता है।
+
+### Meaning
+
+Lord Krishna is drawing Arjuna's focused attention before delivering the ultimate and most confidential message of the Bhagavad Gita. He reassures Arjuna that because of their deep bond of love and friendship, He is revealing this supreme secret for Arjuna's ultimate spiritual well-being. This highlights the Lord's boundless compassion for His devoted devotee.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्व-गुह्य-तमम् | सब गुप्तों से भी परम गोपनीय |
+| भूयः | फिर से |
+| शृणु | सुनो |
+| मे | मेरा |
+| परमम् | परम |
+| वचः | वचन |
+| इष्टः | प्रिय |
+| असि | हो |
+| मे | मेरे |
+| दृढम् | अत्यंत / दृढ़तापूर्वक |
+| इति | इस प्रकार |
+| ततः | इसलिए |
+| वक्ष्यामि | मैं कहूँगा |
+| ते | तुम्हारे लिए |
+| हितम् | हित की बात |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarva-guhya-tamam | the most confidential of all |
+| bhūyaḥ | again |
+| śṛṇu | hear |
+| me | My |
+| paramam | supreme |
+| vacaḥ | instruction / word |
+| iṣṭaḥ | beloved |
+| asi | you are |
+| me | to Me |
+| dṛḍham | dearly / firmly |
+| iti | thus |
+| tataḥ | therefore |
+| vakṣyāmi | I shall speak |
+| te | to you |
+| hitam | beneficial |
+

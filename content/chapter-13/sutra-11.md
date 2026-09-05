@@ -31,3 +31,51 @@ position: 500
 
 ```
 
+
+### Transliteration
+```
+mayi cānanyayogena bhaktiravyabhicāriṇī
+viviktadeśasevitvamaratirjanasaṃsadi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण ज्ञान के लक्षणों को आगे बढ़ाते हुए कहते हैं कि परमेश्वर में अनन्य भाव से स्थिर रहने वाली भक्ति ही वास्तविक ज्ञान है। इसके साथ ही, साधना के अनुकूल एकांत और पवित्र स्थानों में रहने की रुचि तथा संसारी व विषयी लोगों की भीड़ से दूर रहने की प्रवृत्ति भी ज्ञान का अंग है। यह साधक को आत्म-चिन्तन में सहायक बनाती है।
+
+### Meaning
+
+In this verse, Lord Krishna continues listing the qualities of knowledge, emphasizing unswerving and exclusive devotion to the Supreme. He also highlights the importance of seeking solitary, pure environments conducive to spiritual practice, and maintaining a natural disinterest in the company of worldly-minded crowds.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मयि | मुझमें |
+| च | और |
+| अनन्य-योगेन | अनन्य योग के द्वारा (बिना किसी अन्य के आश्रय के) |
+| भक्तिः | भक्ति |
+| अव्यभिचारिणी | अव्यभिचारिणी (जो कभी विचलित न हो) |
+| विविक्त | एकांत और शुद्ध |
+| देश | स्थान का |
+| सेवित्वम् | सेवन करने का स्वभाव |
+| अरतिः | अरुचि (उदासीनता) |
+| जन-संसदि | साधारण मनुष्यों के समाज में |
+| इति | यह सब (ज्ञान कहा गया है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mayi | in Me |
+| ca | and |
+| ananya-yogena | by the yoga of exclusive devotion |
+| bhaktiḥ | devotion |
+| avyabhicāriṇī | unswerving / constant |
+| vivikta | solitary / pure |
+| deśa | places |
+| sevitvam | inclination to resort to |
+| aratiḥ | distaste / lack of interest |
+| jana-saṃsadi | in the society of worldly people |
+| iti | thus (is declared as knowledge) |
+

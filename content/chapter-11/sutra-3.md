@@ -31,3 +31,55 @@ position: 417
 
 ```
 
+
+### Transliteration
+```
+evam etad yathāttha tvam ātmānaṃ parameśvara
+draṣṭum icchāmi te rūpam aiśvaraṃ puruṣottama
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण के वचनों को पूर्णतः सत्य स्वीकार करते हैं, परंतु वे उनके विराट और ऐश्वर्यशाली रूप का प्रत्यक्ष अनुभव करना चाहते हैं। वे कृष्ण को 'परमेश्वर' और 'पुरुषोत्तम' कहकर संबोधित करते हैं, जो उनकी सर्वोच्च सत्ता को दर्शाता है। यह जिज्ञासा किसी संशय के कारण नहीं, बल्कि भगवान की महिमा को साक्षात् देखने की उत्कट इच्छा से उत्पन्न हुई है।
+
+### Meaning
+
+Arjuna accepts everything Krishna has said about Himself as absolute truth, yet he desires to perceive that divine majesty directly. By addressing Krishna as 'Parameśvara' (Supreme Lord) and 'Puruṣottama' (Supreme Person), Arjuna acknowledges His supreme status. This request is not born out of doubt, but from a longing to experience the Lord's cosmic, sovereign form.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एवम् | इस प्रकार / ऐसा ही |
+| एतत् | यह |
+| यथा | जैसे |
+| आत्थ | कहा है आपने |
+| त्वम् | आपने |
+| आत्मानम् | अपने विषय में |
+| परम-ईश्वर | हे परमेश्वर |
+| द्रष्टुम् | देखने के लिए |
+| इच्छामि | मैं इच्छा करता हूँ |
+| ते | आपका |
+| रूपम् | रूप |
+| ऐश्वरम् | ऐश्वर्ययुक्त / दिव्य |
+| पुरुष-उत्तम | हे पुरुषोत्तम |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| evam | thus / so |
+| etat | this |
+| yathā | as |
+| āttha | have said |
+| tvam | You |
+| ātmānam | Yourself |
+| parama-īśvara | O Supreme Lord |
+| draṣṭum | to see |
+| icchāmi | I wish |
+| te | Your |
+| rūpam | form |
+| aiśvaram | divine / sovereign |
+| puruṣa-uttama | O Supreme Person |
+

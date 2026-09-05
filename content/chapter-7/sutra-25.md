@@ -31,3 +31,55 @@ position: 305
 
 ```
 
+
+### Transliteration
+```
+nāhaṃ prakāśaḥ sarvasya yogamāyāsamāvṛtaḥ
+mūḍho'yaṃ nābhijānāti loko māmajamavyayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि वे अपनी दिव्य योगमाया शक्ति के पीछे छिपे रहते हैं, जिसके कारण वे साधारण मनुष्यों को प्रत्यक्ष दिखाई नहीं देते। अज्ञानी और संसारी लोग भौतिक दृष्टि से परे नहीं देख पाते और इसलिए वे भगवान के वास्तविक, अजन्मा और अविनाशी स्वरूप को नहीं पहचान पाते। केवल अनन्य भक्ति और ज्ञान के माध्यम से ही इस माया के आवरण को पार किया जा सकता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that He remains hidden behind His divine creative potency, yogamāyā, and is thus not visible to everyone. The deluded world, bound by material consciousness, fails to perceive His true transcendental nature. Consequently, they do not recognize Him as the unborn and imperishable Supreme Reality.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| अहम् | मैं |
+| प्रकाशः | प्रकट (प्रत्यक्ष) |
+| सर्वस्य | सबके लिए |
+| योगमाया-समावृतः | योगमाया से ढका हुआ |
+| मूढः | मूर्ख / अज्ञानी |
+| अयम् | यह |
+| न | नहीं |
+| अभिजानाति | जानता है |
+| लोकः | संसार |
+| माम् | मुझको |
+| अजम् | अजन्मा |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| aham | I |
+| prakāśaḥ | manifest |
+| sarvasya | to everyone |
+| yogamāyā-samāvṛtaḥ | veiled by yogamāyā (divine potency) |
+| mūḍhaḥ | deluded / foolish |
+| ayam | this |
+| na | not |
+| abhijānāti | knows / understands |
+| lokaḥ | world |
+| mām | Me |
+| ajam | unborn |
+| avyayam | imperishable |
+

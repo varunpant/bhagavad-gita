@@ -31,3 +31,55 @@ position: 674
 
 ```
 
+
+### Transliteration
+```
+buddhyā viśuddhayā yukto dhṛtyā'tmānaṃ niyamya ca
+śabdādīn viṣayāṃstyaktvā rāgadveṣau vyudasya ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस साधक के आंतरिक अनुशासन का वर्णन करते हैं जो ब्रह्म-भाव को प्राप्त करने के योग्य बनता है। साधक को अपनी बुद्धि को शुद्ध रखना चाहिए और दृढ़ संकल्प के साथ मन तथा इंद्रियों को वश में करना चाहिए। उसे सांसारिक विषयों के प्रति आसक्ति और द्वेष दोनों का त्याग करना होता है ताकि वह ध्यान में स्थिर हो सके।
+
+### Meaning
+
+In this verse, Lord Krishna describes the inner discipline of a seeker who is fit for attaining the state of Brahman. The seeker must possess a purified intellect and control the mind and senses with firm resolve. By abandoning the attraction to sensory objects and freeing oneself from both attachment and aversion, one achieves the mental peace necessary for deep meditation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बुद्ध्या | बुद्धि से |
+| विशुद्धया | विशुद्ध (पवित्र) |
+| युक्तः | युक्त होकर |
+| धृत्या | धैर्य के द्वारा |
+| आत्मानम् | मन को (स्वयं को) |
+| नियम्य | वश में करके |
+| च | और |
+| शब्दादीन् | शब्द आदि |
+| विषयान् | विषयों को |
+| त्यक्त्वा | त्याग कर |
+| रागद्वेषौ | राग और द्वेष को |
+| व्युदस्य | नष्ट करके (त्याग कर) |
+| च | भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| buddhyā | by intellect |
+| viśuddhayā | purified |
+| yuktaḥ | endowed |
+| dhṛtyā | by determination (resolve) |
+| ātmānam | the self (mind) |
+| niyamya | controlling |
+| ca | and |
+| śabdādīn | sound and other |
+| viṣayān | sense objects |
+| tyaktvā | abandoning |
+| rāgadveṣau | attachment and aversion |
+| vyudasya | casting aside |
+| ca | and |
+

@@ -31,3 +31,49 @@ position: 328
 
 ```
 
+
+### Transliteration
+```
+avyaktād vyaktayaḥ sarvāḥ prabhavanty aharāgame
+rātryāgame pralīyante tatraivāvyaktasaṃjñake
+
+```
+
+### भावार्थ
+
+इस श्लोक में सृष्टि और प्रलय के चक्र का वर्णन किया गया है। ब्रह्मा जी का दिन आरंभ होने पर सम्पूर्ण चराचर जगत अव्यक्त (सूक्ष्म रूप) से व्यक्त (स्थूल रूप) में प्रकट होता है। पुनः ब्रह्मा जी की रात्रि आने पर यह सम्पूर्ण सृष्टि उसी अव्यक्त में लीन हो जाती है।
+
+### Meaning
+
+This verse describes the cosmic cycle of creation and dissolution. At the dawn of Brahma's day, all living entities manifest from the unmanifested state into physical existence. Conversely, when Brahma's night falls, the entire creation dissolves back into that same unmanifested source.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अव्यक्तात् | अव्यक्त से (सूक्ष्म कारण से) |
+| व्यक्तयः | व्यक्त जीव (स्थूल रूप) |
+| सर्वाः | सभी |
+| प्रभवन्ति | उत्पन्न होते हैं |
+| अहः-आगमे | दिन के आगमन पर |
+| रात्रि-आगमे | रात्रि के आगमन पर |
+| प्रलीयन्ते | विलीन हो जाते हैं |
+| तत्र | उसमें |
+| एव | ही |
+| अव्यक्त-संज्ञके | अव्यक्त नाम वाले में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| avyaktāt | from the unmanifest |
+| vyaktayaḥ | the manifested beings |
+| sarvāḥ | all |
+| prabhavanti | emanate / manifest |
+| ahar-āgame | at the arrival of day |
+| rātri-āgame | at the arrival of night |
+| pralīyante | merge / dissolve |
+| tatra | there |
+| eva | indeed / only |
+| avyakta-saṃjñake | in that which is called the unmanifest |
+

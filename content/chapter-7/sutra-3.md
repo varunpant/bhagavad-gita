@@ -31,3 +31,53 @@ position: 283
 
 ```
 
+
+### Transliteration
+```
+manuṣyāṇāṃ sahasreṣu kaścidyatati siddhaye
+yatatāmapi siddhānāṃ kaścizmāṃ vetti tattvataḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण आत्म-साक्षात्कार के मार्ग की दुर्लभता को स्पष्ट करते हैं। वे बताते हैं कि आध्यात्मिक पूर्णता की खोज करने वाले लोग बहुत कम होते हैं। और जो लोग इस मार्ग पर चलते हैं, उनमें से भी अत्यंत विरले ही भगवान के वास्तविक स्वरूप को पूर्णतः समझ पाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna highlights the rarity of spiritual realization. He explains that out of thousands of human beings, only a few strive for spiritual perfection. Furthermore, among those rare souls who do strive and achieve some success, hardly anyone understands Him in His true, absolute nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मनुष्याणाम् | मनुष्यों के |
+| सहस्रेषु | हजारों में |
+| कश्चित् | कोई एक |
+| यतति | प्रयत्न करता है |
+| सिद्धये | सिद्धि के लिए |
+| यतताम् | प्रयत्न करने वालों में |
+| अपि | भी |
+| सिद्धानाम् | सिद्धों के |
+| कश्चित् | कोई एक |
+| माम् | मुझको |
+| वेत्ति | जानता है |
+| तत्त्वतः | तत्त्व से (वास्तव में) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| manuṣyāṇām | of men |
+| sahasreṣu | among thousands |
+| kaścit | someone |
+| yatati | strives |
+| siddhaye | for perfection |
+| yatatām | of those who strive |
+| api | even |
+| siddhānām | of those who have attained perfection |
+| kaścit | someone |
+| mām | Me |
+| vetti | knows |
+| tattvataḥ | in truth |
+

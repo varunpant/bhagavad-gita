@@ -31,3 +31,62 @@ position: 491
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+idaṃ śarīraṃ kaunteya kṣetram ity abhidhīyate
+etad yo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को प्रकृति और पुरुष, अथवा क्षेत्र और क्षेत्रज्ञ के भेद को समझाना आरम्भ करते हैं। वे स्पष्ट करते हैं कि हमारा यह भौतिक शरीर एक 'क्षेत्र' (कर्म-भूमि या खेत) की भाँति है। जो जीवात्मा इस शरीर को 'मेरा' या अपने से पृथक रूप में अनुभव करती है और इसके विकारों को जानती है, उसे 'क्षेत्रज्ञ' (शरीर का ज्ञाता) कहा जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna begins His explanation of the distinction between the field (kṣetra) and the knower of the field (kṣetrajña). He explains that the physical body is like a field of activity where the soul reaps the fruits of its past actions. The conscious entity within, which observes and knows this body, is recognized as the knower of the field by the realized sages.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | श्री भगवान |
+| उवाच | बोले |
+| इदम् | यह |
+| शरीरम् | शरीर |
+| कौन्तेय | हे कुन्तीपुत्र |
+| क्षेत्रम् | क्षेत्र (खेत) |
+| इति | इस प्रकार |
+| अभिधीयते | कहा जाता है |
+| एतत् | इसे |
+| यः | जो |
+| वेत्ति | जानता है |
+| तम् | उसे |
+| प्राहुः | कहते हैं |
+| क्षेत्रज्ञः | क्षेत्रज्ञ (क्षेत्र का ज्ञाता) |
+| इति | इस प्रकार |
+| तद्-विदः | उसके तत्त्व को जानने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| idam | this |
+| śarīram | body |
+| kaunteya | O son of Kuntī |
+| kṣetram | the field |
+| iti | thus |
+| abhidhīyate | is called |
+| etat | this |
+| yaḥ | who |
+| vetti | knows |
+| tam | him |
+| prāhuḥ | they call |
+| kṣetrajñaḥ | the knower of the field |
+| iti | thus |
+| tad-vidaḥ | those who know them |
+

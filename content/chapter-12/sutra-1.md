@@ -31,3 +31,62 @@ position: 470
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+evaṃ satatayuktā ye bhaktāstvāṃ paryupāsate
+ye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ
+
+```
+
+### भावार्थ
+
+यह बारहवें अध्याय का पहला श्लोक है, जहाँ से भक्ति योग का आरम्भ होता है। अर्जुन यहाँ भगवान कृष्ण से सगुण (साकार) और निर्गुण (निराकार) उपासकों की तुलनात्मक श्रेष्ठता के बारे में पूछ रहे हैं। वे जानना चाहते हैं कि साकार रूप में भगवान की निरंतर पूजा करने वाले भक्त और निराकार ब्रह्म की साधना करने वाले साधकों में से कौन योग का अधिक ज्ञाता है।
+
+### Meaning
+
+This is the opening verse of Chapter 12, which begins the Yoga of Devotion (Bhakti Yoga). Arjuna asks Lord Krishna to compare those who worship Him as a personal deity with those who meditate on the impersonal, unmanifest Brahman. He seeks to understand which of these two paths leads to a superior realization of yoga.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| एवम् | इस प्रकार |
+| सतत-युक्ताः | निरंतर लगे हुए |
+| ये | जो |
+| भक्ताः | भक्तगण |
+| त्वाम् | आपकी |
+| पर्युपासते | उपासना करते हैं |
+| ये | जो |
+| च | और |
+| अपि | भी |
+| अक्षरम् | अविनाशी को |
+| अव्यक्तम् | अव्यक्त (निराकार) को |
+| तेषाम् | उनमें से |
+| के | कौन |
+| योग-वित्तमाः | योगवेत्ताओं में श्रेष्ठ हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| evam | thus |
+| satata-yuktāḥ | always engaged/steadfast |
+| ye | those who |
+| bhaktāḥ | devotees |
+| tvām | You |
+| paryupāsate | worship |
+| ye | those who |
+| ca | and |
+| api | also |
+| akṣaram | the imperishable |
+| avyaktam | the unmanifested |
+| teṣām | of them |
+| ke | who |
+| yoga-vittamāḥ | the best knowers of yoga |
+

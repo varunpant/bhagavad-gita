@@ -31,3 +31,55 @@ position: 665
 
 ```
 
+
+### Transliteration
+```
+śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca
+jñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ब्राह्मण वर्ण के स्वाभाविक गुणों और कर्तव्यों का वर्णन करते हैं। ये गुण किसी व्यक्ति के जन्म से नहीं, बल्कि उसके अंतःकरण के स्वभाव और गुणों (मुख्यतः सत्त्व गुण) के आधार पर निर्धारित होते हैं। मन और इन्द्रियों पर नियंत्रण, पवित्रता, क्षमाशीलता और ईश्वर में विश्वास एक ब्राह्मण के स्वाभाविक लक्षण हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the natural qualities and duties of a Brahmana. These attributes are determined by one's inherent nature and qualities (predominantly Sattva guna) rather than mere birth. Inner peace, sensory control, purity, forgiveness, and faith in the divine are the spontaneous duties born of a Brahmana's nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| शमः | मन का निग्रह (शान्ति) |
+| दमः | इन्द्रियों का दमन |
+| तपः | तप (कर्तव्य पालन के लिए कष्ट सहना) |
+| शौचम् | बाहर-भीतर की शुद्धि |
+| क्षान्तिः | क्षमाभाव |
+| आर्जवम् | सरलता |
+| एव | ही |
+| च | और |
+| ज्ञानम् | शास्त्रों का ज्ञान |
+| विज्ञानम् | अनुभवजन्य ज्ञान (अनुभूति) |
+| आस्तिक्यम् | ईश्वर और परलोक में श्रद्धा |
+| ब्रह्म-कर्म | ब्राह्मण के कर्म |
+| स्वभाव-जम् | स्वभाव से उत्पन्न |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śamaḥ | serenity (control of the mind) |
+| damaḥ | self-control (control of the senses) |
+| tapaḥ | austerity |
+| śaucam | purity |
+| kṣāntiḥ | forbearance (forgiveness) |
+| ārjavam | uprightness (honesty) |
+| eva | indeed |
+| ca | and |
+| jñānam | knowledge (of scriptures) |
+| vijñānam | realization (wisdom) |
+| āstikyam | faith (belief in God and scriptures) |
+| brahma-karma | the duty of a Brahmana |
+| svabhāva-jam | born of one's own nature |
+

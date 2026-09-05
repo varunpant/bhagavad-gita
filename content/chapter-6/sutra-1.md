@@ -31,3 +31,66 @@ position: 234
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+anāśritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ
+sa saṁnyāsī ca yogī ca na niragnir na cākriyaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सच्चे संन्यास और योग की परिभाषा स्पष्ट करते हैं। केवल बाहरी रूप से अग्निहोत्र आदि कर्मों का त्याग करने से या शारीरिक रूप से निष्क्रिय हो जाने से कोई संन्यासी या योगी नहीं बनता। वास्तविक संन्यासी और योगी वह है जो अपने कर्तव्य कर्मों को बिना किसी व्यक्तिगत फल की आसक्ति के निष्काम भाव से करता है।
+
+### Meaning
+
+In this verse, Lord Krishna redefines the true meaning of renunciation (sannyasa) and yoga. He explains that true renunciation is not the outward abandonment of duties or rituals, but the inner detachment from the fruits of one's actions. One who performs their prescribed duties as an offering, without selfish desire, is both a true sannyasi and a yogi.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| अनाश्रितः | आश्रय न लेने वाला |
+| कर्म-फलम् | कर्म के फल का |
+| कार्यम् | करने योग्य (कर्तव्य) |
+| कर्म | कर्म को |
+| करोति | करता है |
+| यः | जो |
+| सः | वह |
+| संन्यासी | संन्यासी |
+| च | और |
+| योगी | योगी |
+| च | भी (है) |
+| न | नहीं (है) |
+| निः-अग्निः | अग्नि का त्याग करने वाला |
+| न | न |
+| च | और |
+| अक्रियः | क्रियाओं का त्याग करने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| anāśritaḥ | without depending on |
+| karma-phalam | the fruit of action |
+| kāryam | obligatory / bounden |
+| karma | duty / action |
+| karoti | performs |
+| yaḥ | who |
+| saḥ | he |
+| saṁnyāsī | a renouncer (sannyasi) |
+| ca | and |
+| yogī | a yogi |
+| ca | also |
+| na | not |
+| niragniḥ | one who maintains no sacred fire |
+| na | not |
+| ca | and |
+| akriyaḥ | one who performs no work |
+

@@ -31,3 +31,67 @@ position: 165
 
 ```
 
+
+### Transliteration
+```
+sa evāyaṃ mayā te'dya yogaḥ proktaḥ purātanaḥ
+bhakto'si me sakhā ceti rahasyaṃ hyetaduttamam
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को बताते हैं कि जो ज्ञान उन्होंने सृष्टि के आरंभ में सूर्यदेव को दिया था, वही प्राचीन योग वे आज अर्जुन को दे रहे हैं। इसका कारण यह है कि अर्जुन उनके अनन्य भक्त और प्रिय मित्र हैं। यह आध्यात्मिक ज्ञान एक परम रहस्य है, जिसे केवल भगवान के प्रति भक्ति और प्रेम के माध्यम से ही समझा जा सकता है।
+
+### Meaning
+
+Lord Krishna tells Arjuna that He is revealing the very same ancient science of yoga that He originally taught to the sun god. He chooses Arjuna to receive this knowledge because Arjuna is His devoted disciple and dear friend. This spiritual wisdom is a supreme secret, which can only be truly understood through devotion and a loving relationship with the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सः | वह |
+| एव | ही |
+| अयम् | यह |
+| मया | मेरे द्वारा |
+| ते | तुमसे |
+| अद्य | आज |
+| योगः | योग |
+| प्रोक्तः | कहा गया है |
+| पुरातनः | प्राचीन |
+| भक्तः | भक्त |
+| असि | हो |
+| मे | मेरे |
+| सखा | मित्र |
+| च | और |
+| इति | इसलिए |
+| रहस्यम् | रहस्य |
+| हि | निश्चय ही |
+| एतत् | यह |
+| उत्तमम् | उत्तम |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| saḥ | that |
+| eva | certainly |
+| ayam | this |
+| mayā | by Me |
+| te | to you |
+| adya | today |
+| yogaḥ | yoga |
+| proktaḥ | declared |
+| purātanaḥ | ancient |
+| bhaktaḥ | devotee |
+| asi | you are |
+| me | My |
+| sakhā | friend |
+| ca | and |
+| iti | thus |
+| rahasyam | secret |
+| hi | certainly |
+| etat | this |
+| uttamam | supreme |
+

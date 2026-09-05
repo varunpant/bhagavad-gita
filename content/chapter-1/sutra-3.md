@@ -32,3 +32,51 @@ arrayed by the son of Drupada, thy wise disciple.
 
 ```
 
+
+### Transliteration
+```
+paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm
+vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā
+
+```
+
+### भावार्थ
+
+दुर्योधन अपने गुरु द्रोणाचार्य के पास जाकर पाण्डवों की विशाल सेना की ओर उनका ध्यान आकर्षित करता है। वह विशेष रूप से द्रुपद के पुत्र धृष्टद्युम्न का उल्लेख करता है, जो द्रोणाचार्य का शिष्य था और जिसने पाण्डव सेना की व्यूह रचना की थी। इसके माध्यम से दुर्योधन अपने गुरु को उनकी पिछली भूल की याद दिलाना चाहता है और युद्ध के प्रति उन्हें सचेत कर रहा है।
+
+### Meaning
+
+Duryodhana approaches his teacher, Dronacharya, and draws his attention to the massive army of the Pandavas. He specifically points out that the army has been strategically arranged by Drupada's son, Dhrishtadyumna, who was Dronacharya's own intelligent disciple. Through this, Duryodhana subtly reminds his teacher of his past mistake in training his destined killer, aiming to make him alert and uncompromising in the impending battle.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पश्य | देखें |
+| एताम् | इस |
+| पाण्डुपुत्राणाम् | पाण्डु के पुत्रों की |
+| आचार्य | हे गुरुदेव |
+| महतीम् | विशाल |
+| चमूम् | सेना को |
+| व्यूढाम् | व्यूह रचना में व्यवस्थित |
+| द्रुपदपुत्रेण | द्रुपद के पुत्र द्वारा |
+| तव | आपके |
+| शिष्येण | शिष्य द्वारा |
+| धीमता | बुद्धिमान |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| paśya | behold |
+| etām | this |
+| pāṇḍuputrāṇām | of the sons of Pandu |
+| ācārya | O teacher |
+| mahatīm | great |
+| camūm | army |
+| vyūḍhām | arrayed |
+| drupadaputreṇa | by the son of Drupada |
+| tava | your |
+| śiṣyeṇa | by the disciple |
+| dhīmatā | intelligent |
+

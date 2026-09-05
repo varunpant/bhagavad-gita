@@ -31,3 +31,60 @@ position: 281
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+mayy āsakta-manāḥ pārtha yogaṃ yuñjan mad-āśrayaḥ
+asaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tac chṛṇu
+
+```
+
+### भावार्थ
+
+इस श्लोक से भगवद्गीता के सातवें अध्याय (ज्ञानविज्ञानयोग) का आरम्भ होता है। यहाँ भगवान कृष्ण अर्जुन को समझाते हैं कि किस प्रकार अनन्य भक्ति और योग के अभ्यास द्वारा ईश्वर के समग्र रूप को बिना किसी संशय के जाना जा सकता है। वे अर्जुन को इस परम ज्ञान को ध्यानपूर्वक सुनने के लिए प्रेरित करते हैं।
+
+### Meaning
+
+This verse marks the beginning of the seventh chapter of the Bhagavad Gita, which deals with wisdom and realization. Here, Lord Krishna instructs Arjuna on how, by fixing the mind on Him, practicing yoga, and taking shelter in Him, one can know the Divine completely and without any doubt. He invites Arjuna to listen attentively to this supreme knowledge.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| मयि | मुझमें |
+| आसक्त-मनाः | आसक्त मन वाला |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| योगम् | योग को |
+| युञ्जन् | अभ्यास करता हुआ |
+| मत्-आश्रयः | मेरे ही आश्रय होकर |
+| असंशयम् | संशयरहित होकर |
+| समग्रम् | पूर्ण रूप से |
+| माम् | मुझको |
+| यथा | जिस प्रकार |
+| ज्ञास्यसि | तू जानेगा |
+| तत् | उसको |
+| शृणु | सुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| mayi | in Me |
+| āsakta-manāḥ | with mind attached |
+| pārtha | O son of Pṛthā (Arjuna) |
+| yogam | yoga |
+| yuñjan | practicing |
+| mad-āśrayaḥ | taking refuge in Me |
+| asaṃśayam | without doubt |
+| samagram | completely |
+| mām | Me |
+| yathā | how |
+| jñāsyasi | you shall know |
+| tat | that |
+| śṛṇu | hear |
+

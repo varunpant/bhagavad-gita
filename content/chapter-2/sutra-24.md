@@ -31,3 +31,57 @@ position: 71
 
 ```
 
+
+### Transliteration
+```
+acchedyo'yamadāhyo'yamakledyo'śoṣya eva ca
+nityaḥ sarvagataḥ sthāṇuracalo'yaṃ sanātanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्मा की अमरता और उसके भौतिक विकारों से मुक्त होने का वर्णन करते हैं। आत्मा किसी भी भौतिक तत्व—शस्त्र, अग्नि, जल या वायु—से प्रभावित नहीं होती। यह सिद्ध करता है कि शरीर के नष्ट होने पर भी आत्मा सदैव सुरक्षित, स्थिर और अपरिवर्तित रहती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the immortality of the soul and its absolute immunity to physical elements. The soul cannot be affected by weapons, fire, water, or wind. This establishes that even when the physical body is destroyed, the soul remains eternally safe, fixed, and unchanged.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अच्छेद्यः | काटा न जा सकने वाला |
+| अयम् | यह (आत्मा) |
+| अदाह्यः | जलाया न जा सकने वाला |
+| अयम् | यह |
+| अक्लेद्यः | गीला न किया जा सकने वाला |
+| अशोष्यः | सुखाया न जा सकने वाला |
+| एव | निश्चित रूप से |
+| च | और |
+| नित्यः | शाश्वत |
+| सर्वगतः | सर्वव्यापी |
+| स्थाणुः | स्थिर |
+| अचलः | अचल |
+| अयम् | यह |
+| सनातनः | पुरातन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| acchedyaḥ | incapable of being cut |
+| ayam | this (soul) |
+| adāhyaḥ | incapable of being burned |
+| ayam | this |
+| akledyaḥ | incapable of being wetted |
+| aśoṣyaḥ | incapable of being dried |
+| eva | certainly |
+| ca | and |
+| nityaḥ | eternal |
+| sarvagataḥ | all-pervading |
+| sthāṇuḥ | unchangeable |
+| acalaḥ | immovable |
+| ayam | this |
+| sanātanaḥ | primeval |
+

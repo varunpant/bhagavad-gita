@@ -31,3 +31,61 @@ position: 239
 
 ```
 
+
+### Transliteration
+```
+bandhurātmā'tmanastasya yenātmaivātmanā jitaḥ
+anātmanastu śatrutve vartetātmaiva śatruvat
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण मन और इन्द्रियों को वश में करने के महत्व को समझाते हैं। जिसने अपने मन और बुद्धि को जीत लिया है, उसका मन उसका सबसे बड़ा मित्र बन जाता है और उसे उन्नति की ओर ले जाता है। इसके विपरीत, जो व्यक्ति अपने मन को वश में नहीं कर पाता, उसका मन ही उसका सबसे बड़ा शत्रु बनकर उसे पतन की ओर धकेलता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the importance of self-control and mastering the mind. For a person who has conquered their lower mind and senses through the higher Self, the mind acts as their greatest friend and ally. Conversely, for one who has failed to control the mind, it remains hostile and acts as their worst enemy, leading to spiritual downfall.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बन्धुः | मित्र |
+| आत्मा | जीवात्मा (स्वयं) |
+| आत्मनः | अपने आपका |
+| तस्य | उसका |
+| येन | जिसके द्वारा |
+| आत्मा | अपने आपको |
+| एव | ही |
+| आत्मना | अपने आप से |
+| जितः | जीत लिया गया है |
+| अनात्मनः | जिसने अपने आपको नहीं जीता है (अजितात्मा का) |
+| तु | परन्तु |
+| शत्रुत्वे | शत्रुता में |
+| वर्तेत | व्यवहार करे (बर्ते) |
+| आत्मा | अपना आप |
+| एव | ही |
+| शत्रुवत् | शत्रु के समान |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bandhuḥ | friend |
+| ātmā | the self |
+| ātmanaḥ | of the self |
+| tasya | of him |
+| yena | by whom |
+| ātmā | the self |
+| eva | indeed |
+| ātmanā | by the self |
+| jitaḥ | is conquered |
+| anātmanaḥ | of the unconquered self |
+| tu | but |
+| śatrutve | in hostility |
+| varteta | would behave |
+| ātmā | the self |
+| eva | indeed |
+| śatruvat | like an enemy |
+

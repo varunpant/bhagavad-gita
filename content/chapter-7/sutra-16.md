@@ -31,3 +31,53 @@ position: 296
 
 ```
 
+
+### Transliteration
+```
+caturvidhā bhajante māṃ janāḥ sukṛtino'rjuna
+ārto jijñāsurarthārthī jñānī ca bharatarṣabha
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन चार प्रकार के भक्तों का वर्णन करते हैं जो उनकी शरण लेते हैं। ये सभी पुण्यात्मा (सुकृतिनः) हैं क्योंकि वे अपनी आवश्यकताओं के लिए अन्य देवी-देवताओं या सांसारिक साधनों के बजाय परमेश्वर की ओर मुड़ते हैं। इनमें आर्त संकट से मुक्ति चाहता है, जिज्ञासु सत्य को जानना चाहता है, अर्थार्थी भौतिक सुख चाहता है, और ज्ञानी पहले से ही परम सत्य को जानता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the four types of virtuous people who turn to Him in devotion. They are all considered righteous because they direct their desires and needs toward the Supreme rather than worldly means. These include the distressed seeking relief, the inquisitive seeking knowledge, the wealth-seeker desiring material success, and the wise who already possess spiritual understanding.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| चतुर्विधाः | चार प्रकार के |
+| भजन्ते | भजते हैं |
+| माम् | मुझको |
+| जनाः | मनुष्य |
+| सुकृतिनः | पुण्यात्मा |
+| अर्जुन | हे अर्जुन |
+| आर्तः | दुःखी (संकटग्रस्त) |
+| जिज्ञासुः | जिज्ञासु (ज्ञान चाहने वाला) |
+| अर्थ-अर्थी | धन चाहने वाला |
+| ज्ञानी | ज्ञानी (तत्ववेत्ता) |
+| च | और |
+| भरत-ऋषभ | हे भरतश्रेष्ठ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| caturvidhāḥ | four kinds of |
+| bhajante | worship |
+| mām | Me |
+| janāḥ | people |
+| sukṛtinaḥ | virtuous |
+| arjuna | O Arjuna |
+| ārtaḥ | the distressed |
+| jijñāsuḥ | the seeker of knowledge |
+| artha-arthī | the seeker of wealth |
+| jñānī | the wise |
+| ca | and |
+| bharata-ṛṣabha | O best of the Bharatas |
+

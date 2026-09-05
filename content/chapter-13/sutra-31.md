@@ -31,3 +31,53 @@ position: 520
 
 ```
 
+
+### Transliteration
+```
+yadā bhūtapṛthagbhāvam ekastham anupaśyati
+tata eva ca vistāraṃ brahma sampadyate tadā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जब कोई साधक सभी प्राणियों की विविधता के पीछे छिपी एकता को देख लेता है, तो वह परम सत्य को जान जाता है। वह समझता है कि सभी जीव एक ही परमात्मा से उत्पन्न होते हैं और उसी में स्थित रहते हैं। इस प्रकार की समदर्शिता और अद्वैत दृष्टि प्राप्त होने पर मनुष्य ब्रह्म-भाव को प्राप्त कर लेता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that when a seeker perceives the underlying unity behind the diverse existence of all living entities, they realize the ultimate truth. They understand that all beings originate from and rest in the single Supreme Spirit. Achieving this vision of oneness and non-duality leads the individual to attain the state of Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदा | जब |
+| भूत | जीवों के |
+| पृथक्-भावम् | पृथक-पृथक अस्तित्व को |
+| एकस्थम् | एक (परमात्मा) में स्थित |
+| अनुपश्यति | शास्त्र के अनुसार देखता है |
+| ततः | उससे |
+| एव | ही |
+| च | और |
+| विस्तारम् | विस्तार को |
+| ब्रह्म | ब्रह्म को |
+| सम्पद्यते | प्राप्त होता है |
+| तदा | तब |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadā | when |
+| bhūta | of living beings |
+| pṛthag-bhāvam | the separated existence |
+| ekastham | situated in one |
+| anupaśyati | one sees according to authority |
+| tataḥ | from that |
+| eva | alone |
+| ca | and |
+| vistāram | the expansion |
+| brahma | Brahman |
+| sampadyate | he attains |
+| tadā | at that time |
+

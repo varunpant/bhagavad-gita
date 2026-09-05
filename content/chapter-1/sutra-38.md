@@ -32,3 +32,61 @@ no evil in the destruction of families, and no sin in hostility to friends,
 
 ```
 
+
+### Transliteration
+```
+yadyapyete na paśyanti lobhopahatacetasaḥ
+kulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam
+
+```
+
+### भावार्थ
+
+अर्जुन कहते हैं कि कौरव राज्य के लोभ में अंधे हो गए हैं। इस कारण उन्हें अपने ही कुल के नाश और मित्रों से द्रोह करने का भयंकर पाप दिखाई नहीं दे रहा है। वे तर्क देते हैं कि कौरवों की इस अज्ञानता के बावजूद, हम ज्ञानियों को ऐसा घोर पाप क्यों करना चाहिए।
+
+### Meaning
+
+Arjuna points out that the Kauravas, blinded by their greed for the kingdom, fail to see the disastrous consequences of their actions. They are ignorant of the sin involved in destroying their own family and betraying their friends. He argues that their ignorance does not justify participating in the same sinful destruction.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदि | यदि |
+| अपि | भी |
+| एते | ये |
+| न | नहीं |
+| पश्यन्ति | देखते हैं |
+| लोभ | लोभ से |
+| उपहत | भ्रष्ट |
+| चेतसः | चित्त वाले |
+| कुल | कुल के |
+| क्षय | नाश से |
+| कृतम् | उत्पन्न |
+| दोषम् | दोष को |
+| मित्र | मित्रों के साथ |
+| द्रोहे | द्रोह करने में |
+| च | और |
+| पातकम् | पाप को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadi | if |
+| api | even |
+| ete | these |
+| na | not |
+| paśyanti | see |
+| lobha | by greed |
+| upahata | overpowered |
+| cetasaḥ | minds |
+| kula | of the family |
+| kṣaya | destruction |
+| kṛtam | caused by |
+| doṣam | fault |
+| mitra | to friends |
+| drohe | in treachery |
+| ca | and |
+| pātakam | sin |
+

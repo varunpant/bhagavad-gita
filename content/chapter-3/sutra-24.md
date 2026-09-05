@@ -31,3 +31,59 @@ position: 143
 
 ```
 
+
+### Transliteration
+```
+utsīdeyurime lokā na kuryāṃ karma cedaham
+saṅkarasya ca kartā syāmupahanyāmimāḥ prajāḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि यदि वे अपने नियत कर्मों को त्याग दें, तो इसके कितने भयंकर परिणाम होंगे। उनके कर्म न करने से यह संपूर्ण विश्व नष्ट हो जाएगा और समाज में भारी अव्यवस्था फैल जाएगी। एक आदर्श प्रस्तुत न करके, वे वर्णसंकर और प्रजा के विनाश का कारण बन जाएंगे।
+
+### Meaning
+
+Krishna explains the catastrophic consequences that would follow if He were to abandon His duties. Without His continuous action, the universe would fall into ruin and cosmic order would be destroyed. By setting a bad example, He would cause confusion among the people, leading to the ultimate destruction of society.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| उत्सीदेयुः | नष्ट हो जाएँ |
+| इमे | ये |
+| लोकाः | लोक |
+| न | नहीं |
+| कुर्याम् | करूँ |
+| कर्म | कर्म |
+| चेत् | यदि |
+| अहम् | मैं |
+| सङ्करस्य | वर्णसंकर (अव्यवस्था) का |
+| च | और |
+| कर्ता | कर्ता (करने वाला) |
+| स्याम् | होऊँगा |
+| उपहन्याम् | मैं नष्ट करूँगा |
+| इमाः | इन |
+| प्रजाः | प्रजाओं को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| utsīdeyuḥ | would perish |
+| ime | these |
+| lokāḥ | worlds |
+| na | not |
+| kuryām | I would perform |
+| karma | action |
+| cet | if |
+| aham | I |
+| saṅkarasya | of confusion |
+| ca | and |
+| kartā | creator |
+| syām | I would be |
+| upahanyām | I would destroy |
+| imāḥ | these |
+| prajāḥ | people |
+

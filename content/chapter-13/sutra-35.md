@@ -31,3 +31,51 @@ position: 524
 
 ```
 
+
+### Transliteration
+```
+kṣetrakṣetrajñayorevamantaraṃ jñānacakṣuṣā
+bhūtaprakṛtimokṣaṃ ca ye viduryānti te param
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण क्षेत्र (शरीर) और क्षेत्रज्ञ (आत्मा) के विवेक का उपसंहार करते हैं। जो मनुष्य ज्ञान-चक्षु द्वारा इन दोनों के भेद को समझ लेते हैं और यह जान जाते हैं कि प्रकृति के बंधनों से कैसे मुक्त हुआ जाता है, वे परम सत्य को प्राप्त करते हैं। यह ज्ञान ही मोक्ष का मार्ग प्रशस्त करता है।
+
+### Meaning
+
+In this concluding verse of the chapter, Lord Krishna summarizes the distinction between the field (the body) and the knower of the field (the soul). Those who develop the vision of wisdom to discern this difference, and understand the process of liberation from material nature, reach the ultimate spiritual destination.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| क्षेत्र-क्षेत्रज्ञयोः | क्षेत्र और क्षेत्रज्ञ का |
+| एवम् | इस प्रकार |
+| अन्तरम् | अंतर को |
+| ज्ञान-चक्षुषा | ज्ञान रूपी नेत्रों द्वारा |
+| भूत-प्रकृति-मोक्षम् | प्राणियों की प्रकृति से मुक्ति को |
+| च | और |
+| ये | जो |
+| विदुः | जानते हैं |
+| यान्ति | प्राप्त होते हैं |
+| ते | वे |
+| परम् | परम पद को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kṣetra-kṣetrajñayoḥ | of the field and the knower of the field |
+| evam | thus |
+| antaram | the difference |
+| jñāna-cakṣuṣā | by the eye of wisdom |
+| bhūta-prakṛti-mokṣam | the liberation of living beings from material nature |
+| ca | and |
+| ye | who |
+| viduḥ | know |
+| yānti | attain |
+| te | they |
+| param | the Supreme |
+

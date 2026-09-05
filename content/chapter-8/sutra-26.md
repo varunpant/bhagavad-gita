@@ -31,3 +31,55 @@ position: 336
 
 ```
 
+
+### Transliteration
+```
+śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate
+ekayā yātyanāvṛttimanyayā'vartate punaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ब्रह्मांड के दो शाश्वत मार्गों, शुक्ल (प्रकाश का मार्ग) और कृष्ण (अंधकार का मार्ग) का वर्णन करते हैं। शुक्ल मार्ग ज्ञान और मुक्ति की ओर ले जाता है, जिससे जीव को पुनर्जन्म के चक्र से मुक्ति मिलती है। इसके विपरीत, कृष्ण मार्ग सकाम कर्मों और अज्ञान का मार्ग है, जो जीव को पुनः मृत्युलोक में वापस ले आता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the two eternal paths of the universe, the bright (shukla) and the dark (krishna). The path of light leads to liberation and non-return to the material world, whereas the path of darkness leads to rebirth and return to the cycle of samsara. These paths represent the spiritual journey of knowledge versus the ritualistic journey of material desires.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| शुक्ल-कृष्णे | शुक्ल (प्रकाशमय) और कृष्ण (अंधकारमय) |
+| गती | दो मार्ग |
+| हि | निश्चय ही |
+| एते | ये |
+| जगतः | जगत के |
+| शाश्वते | सनातन |
+| मते | माने गए हैं |
+| एकया | एक के द्वारा (शुक्ल मार्ग से) |
+| याति | जाता है |
+| अनावृत्तिम् | पुनः न लौटने की स्थिति को |
+| अन्यया | दूसरे के द्वारा (कृष्ण मार्ग से) |
+| आवर्तते | लौट आता है |
+| पुनः | फिर से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śukla-kṛṣṇe | the bright and the dark |
+| gatī | two paths |
+| hi | indeed |
+| ete | these |
+| jagataḥ | of the world |
+| śāśvate | eternal |
+| mate | are considered |
+| ekayā | by one |
+| yāti | one goes |
+| anāvṛttim | to non-return |
+| anyayā | by the other |
+| āvartate | returns |
+| punaḥ | again |
+

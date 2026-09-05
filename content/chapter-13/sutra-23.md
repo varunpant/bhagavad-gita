@@ -31,3 +31,59 @@ position: 512
 
 ```
 
+
+### Transliteration
+```
+upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ
+paramātmeti cāpyukto dehe'sminpuruṣaḥ paraḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण शरीर के भीतर स्थित जीवात्मा से परे परम सत्य (परमात्मा) के स्वरूप का वर्णन कर रहे हैं। यद्यपि वह इस भौतिक शरीर के भीतर निवास करता है, फिर भी वह प्रकृति के गुणों से लिप्त नहीं होता। वह केवल एक साक्षी (उपद्रष्टा) और अनुमति देने वाले (अनुमन्ता) के रूप में कार्य करता है, और वास्तव में वही सबका परम स्वामी और भरण-पोषण करने वाला है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the nature of the Supreme Soul (Paramatman) residing within the physical body. Although dwelling within the body alongside the individual soul, He remains unaffected by the material modes of nature. He acts as the ultimate observer (witness), permitter, supporter, and the supreme controller of all activities.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| उपद्रष्टा | साक्षी या देखने वाला |
+| अनुमन्ता | अनुमति देने वाला |
+| च | और |
+| भर्ता | भरण-पोषण करने वाला (स्वामी) |
+| भोक्ता | भोगने वाला (अनुभव करने वाला) |
+| महेश्वरः | महान ईश्वर (परमेश्वर) |
+| परमात्मा | परम आत्मा |
+| इति | इस प्रकार |
+| च | भी |
+| अपि | भी |
+| उक्तः | कहा गया है |
+| देहे | शरीर में |
+| अस्मिन् | इस |
+| पुरुषः | पुरुष (भोक्ता) |
+| परः | दिव्य या परम |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| upadraṣṭā | the witness |
+| anumantā | the permitter |
+| ca | and |
+| bhartā | the supporter |
+| bhoktā | the experiencer |
+| maheśvaraḥ | the great Lord |
+| paramātmā | the Supreme Self |
+| iti | thus |
+| ca | and |
+| api | also |
+| uktaḥ | is said |
+| dehe | in the body |
+| asmin | this |
+| puruṣaḥ | the enjoyer/purusha |
+| paraḥ | transcendental/supreme |
+

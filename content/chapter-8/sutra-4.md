@@ -31,3 +31,55 @@ position: 314
 
 ```
 
+
+### Transliteration
+```
+adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam
+adhiyajño'hamevātra dehe dehabhṛtāṃ vara
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन के प्रश्नों का उत्तर देते हुए अधिभूत, अधिदैव और अधियज्ञ को स्पष्ट कर रहे हैं। वे बताते हैं कि भौतिक जगत के सभी परिवर्तनशील और नाशवान पदार्थ 'अधिभूत' हैं। समष्टि बुद्धि के अभिमानी हिरण्यमय पुरुष 'अधिदैव' हैं, और इस मानव शरीर के भीतर यज्ञों के भोक्ता रूप में स्वयं भगवान ही 'अधियज्ञ' के रूप में स्थित हैं।
+
+### Meaning
+
+In this verse, Lord Krishna answers Arjuna's questions by defining Adhibhuta, Adhidaivata, and Adhiyajna. He explains that all perishable physical entities constitute Adhibhuta, the cosmic soul (Purusha) is Adhidaivata, and He Himself, residing within the body of living beings, is Adhiyajna, the lord of all sacrifices.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अधिभूतम् | अधिभूत (भौतिक जगत) |
+| क्षरः | नाशवान |
+| भावः | अस्तित्व / पदार्थ |
+| पुरुषः | परम पुरुष (हिरण्यगर्भ) |
+| च | और |
+| अधिदैवतम् | अधिदैव (दैवीय तत्व) |
+| अधियज्ञः | अधियज्ञ (यज्ञ का स्वामी) |
+| अहम् | मैं |
+| एव | ही |
+| अत्र | यहाँ |
+| देहे | शरीर में |
+| देहभृताम् | देहधारियों में |
+| वर | श्रेष्ठ (हे अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adhibhūtam | the physical manifestation |
+| kṣaraḥ | perishable |
+| bhāvaḥ | existence |
+| puruṣaḥ | the cosmic soul |
+| ca | and |
+| adhidaivatam | the divine principle |
+| adhiyajñaḥ | the lord of sacrifice |
+| aham | I |
+| eva | alone |
+| atra | here |
+| dehe | in the body |
+| dehabhṛtām | of the embodied beings |
+| vara | O best |
+

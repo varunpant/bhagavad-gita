@@ -31,3 +31,49 @@ position: 188
 
 ```
 
+
+### Transliteration
+```
+śrotrādīnīndriyāṇyanye saṃyamāgniṣu juhvati
+śabdādīnviṣayānanya indriyāgniṣu juhvati
+
+```
+
+### भावार्थ
+
+यह श्लोक आत्म-साक्षात्कार के लिए दो अलग-अलग प्रकार की योग साधनाओं का वर्णन करता है। कुछ योगी कठोर इन्द्रिय निग्रह का अभ्यास करते हैं और अपनी सुनने आदि की इन्द्रियों को संयम रूपी अग्नि में आहुति दे देते हैं, अर्थात् वे इन्द्रियों को बाहरी विषयों से पूरी तरह हटा लेते हैं। दूसरे प्रकार के योगी संसार में रहते हुए भी अनासक्त रहते हैं और वे शब्द आदि इन्द्रिय विषयों को ही अपनी इन्द्रियों रूपी अग्नि में हवन कर देते हैं, जिसका अर्थ है कि वे विषयों का उपभोग करते हुए भी उनमें लिप्त नहीं होते।
+
+### Meaning
+
+This verse describes two different types of yogic practices for self-realization. Some yogis practice strict sense control, completely withdrawing their senses like hearing from the external world and offering them into the fire of mental restraint. Others practice a different path where they engage with the world but remain detached, offering the sense objects themselves into the fire of purified senses without being affected or bound by them.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रोत्रादीनि | कान आदि |
+| इन्द्रियाणि | इन्द्रियों को |
+| अन्ये | अन्य (योगी) |
+| संयमाग्निषु | संयम रूपी अग्नियों में |
+| जुह्वति | हवन करते हैं |
+| शब्दादीन् | शब्द आदि |
+| विषयान् | विषयों को |
+| अन्ये | अन्य |
+| इन्द्रियाग्निषु | इन्द्रिय रूपी अग्नियों में |
+| जुह्वति | हवन करते हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrotrādīni | hearing and others |
+| indriyāṇi | senses |
+| anye | others |
+| saṃyamāgniṣu | in the fires of restraint |
+| juhvati | offer as sacrifice |
+| śabdādīn | sound and others |
+| viṣayān | sense objects |
+| anye | others |
+| indriyāgniṣu | in the fires of the senses |
+| juhvati | offer as sacrifice |
+

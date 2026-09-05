@@ -31,3 +31,49 @@ position: 501
 
 ```
 
+
+### Transliteration
+```
+adhyātmajñānanityatvaṃ tattvajñānārthadarśanam
+etajjñānamiti proktamajñānaṃ yadato'nyathā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ज्ञान के अंतिम दो लक्षणों का वर्णन करते हैं। आत्मा और परमात्मा के विषय में निरंतर चिंतन करना तथा सत्य के साक्षात्कार को ही परम लक्ष्य मानना वास्तविक ज्ञान है। इसके अतिरिक्त जो कुछ भी सांसारिक प्रपंच है, उसे अज्ञान की श्रेणी में रखा गया है।
+
+### Meaning
+
+In this verse, Lord Krishna concludes the description of the attributes of knowledge. Constancy in spiritual knowledge and keeping the realization of the ultimate truth as the goal are defined as true knowledge. Everything else that is contrary to this spiritual pursuit is classified as ignorance.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अध्यात्म-ज्ञान-नित्यत्वम् | अध्यात्म ज्ञान में नित्य स्थिति |
+| तत्त्व-ज्ञान-अर्थ-दर्शनम् | तत्त्वज्ञान के अर्थ (परमात्मा) का दर्शन |
+| एतत् | यह सब |
+| ज्ञानम् | ज्ञान |
+| इति | इस प्रकार |
+| प्रोक्तम् | कहा गया है |
+| अज्ञानम् | अज्ञान |
+| यत् | जो |
+| अतः | इससे |
+| अन्यथा | विपरीत है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adhyātma-jñāna-nityatvam | constancy in spiritual knowledge |
+| tattva-jñāna-artha-darśanam | perception of the object of true knowledge |
+| etat | this |
+| jñānam | knowledge |
+| iti | thus |
+| proktam | declared |
+| ajñānam | ignorance |
+| yat | which |
+| ataḥ | from this |
+| anyathā | otherwise / contrary |
+

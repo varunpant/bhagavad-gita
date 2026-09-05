@@ -31,3 +31,61 @@ position: 70
 
 ```
 
+
+### Transliteration
+```
+nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ
+na cainaṃ kledayantyāpo na śoṣayati mārutaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को आत्मा की अमर और अविनाशी प्रकृति के बारे में बताते हैं। वे स्पष्ट करते हैं कि भौतिक तत्त्व जैसे शस्त्र, अग्नि, जल और वायु इस शाश्वत आत्मा पर कोई प्रभाव नहीं डाल सकते। यह ज्ञान अर्जुन को अपने स्वजनों की मृत्यु के शोक से मुक्त करने के लिए दिया गया है, क्योंकि उनका वास्तविक स्वरूप कभी नष्ट नहीं हो सकता।
+
+### Meaning
+
+In this verse, Lord Krishna explains the immortal and indestructible nature of the soul to Arjuna. He emphasizes that the physical elements—weapons, fire, water, and air—have no effect on the eternal soul. This knowledge is meant to free Arjuna from the grief of potentially killing his relatives, as their true essence can never be destroyed.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| एनम् | इस (आत्मा) को |
+| छिन्दन्ति | काट सकते हैं |
+| शस्त्राणि | शस्त्र |
+| न | नहीं |
+| एनम् | इसको |
+| दहति | जलाती है |
+| पावकः | आग |
+| न | नहीं |
+| च | और |
+| एनम् | इसको |
+| क्लेदयन्ति | भिगोते हैं |
+| आपः | जल |
+| न | नहीं |
+| शोषयति | सुखाती है |
+| मारुतः | वायु |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| enam | this (soul) |
+| chindanti | can cut |
+| śastrāṇi | weapons |
+| na | not |
+| enam | this |
+| dahati | burns |
+| pāvakaḥ | fire |
+| na | not |
+| ca | and |
+| enam | this |
+| kledayanti | moisten |
+| āpaḥ | water |
+| na | not |
+| śoṣayati | dries |
+| mārutaḥ | wind |
+

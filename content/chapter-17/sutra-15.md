@@ -31,3 +31,53 @@ position: 610
 
 ```
 
+
+### Transliteration
+```
+anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat
+svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण वाणी की तपस्या (वाङ्मय तप) को परिभाषित करते हैं। वाणी का तप वह है जो दूसरों को उद्वेलित या दुखी न करे, जो सत्य हो, सुनने में प्रिय हो और अंततः कल्याणकारी हो। इसके साथ ही, पवित्र शास्त्रों का नियमित पाठ और अभ्यास भी वाणी की तपस्या के अंतर्गत आता है।
+
+### Meaning
+
+In this verse, Lord Krishna defines the austerity of speech (vāngmaya tapas). Speech is considered austere when it does not cause distress to others, is truthful, pleasing, and beneficial. Additionally, the regular recitation and study of sacred scriptures are also classified as the discipline of speech.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनुद्वेगकरम् | उद्वेग न पैदा करने वाला |
+| वाक्यम् | वचन (भाषण) |
+| सत्यम् | सत्य |
+| प्रिय-हितम् | प्रिय और हितकारी |
+| च | और |
+| यत् | जो |
+| स्वाध्याय-अभ्यसनम् | शास्त्रों का अध्ययन और अभ्यास |
+| च | और |
+| एव | ही |
+| वाङ्मयम् | वाणी का |
+| तपः | तप |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| anudvegakaram | not causing agitation |
+| vākyam | speech |
+| satyam | truthful |
+| priya-hitam | pleasant and beneficial |
+| ca | and |
+| yat | which |
+| svādhyāya-abhyasanam | the practice of study of scriptures |
+| ca | and |
+| eva | indeed |
+| vāṅmayam | of the speech |
+| tapaḥ | austerity |
+| ucyate | is said to be |
+

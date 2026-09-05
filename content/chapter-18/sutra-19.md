@@ -31,3 +31,57 @@ position: 642
 
 ```
 
+
+### Transliteration
+```
+jñānaṃ karma ca kartā ca tridhaiva guṇabhedataḥ
+procyate guṇasaṅkhyāne yathāvacchṛṇu tānyapi
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण अर्जुन को बताते हैं कि प्रकृति के तीन गुणों (सत्त्व, रज और तम) के प्रभाव के कारण ज्ञान, कर्म और कर्ता भी तीन-तीन प्रकार के होते हैं। सांख्य दर्शन में इसका विस्तार से वर्णन किया गया है। अब श्रीकृष्ण अर्जुन को इन तीनों के भेदों को विस्तार से समझाने जा रहे हैं ताकि वह इनके वास्तविक स्वरूप को समझ सके।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that knowledge, action, and the performer of action are each classified into three types based on the influence of the three modes of material nature (guṇas). This classification is detailed in the Saṅkhya philosophy, which analyzes the constituents of nature. Krishna invites Arjuna to listen carefully to the distinctions of these three elements.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्ञानम् | ज्ञान |
+| कर्म | कर्म |
+| च | और |
+| कर्ता | कर्ता (करने वाला) |
+| च | भी |
+| त्रिधा | तीन प्रकार का |
+| एव | ही |
+| गुण-भेदतः | गुणों के भेद से |
+| प्रोच्यते | कहा जाता है |
+| गुण-संख्याने | गुणों की संख्या करने वाले शास्त्र (सांख्य शास्त्र) में |
+| यथावत् | भलीभाँति / जैसा है वैसा ही |
+| शृणु | सुनो |
+| तानि | उनको |
+| अपि | भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jñānam | knowledge |
+| karma | action |
+| ca | and |
+| kartā | the doer |
+| ca | also |
+| tridhā | of three kinds |
+| eva | only |
+| guṇa-bhedataḥ | according to the distinction of the guṇas |
+| procyate | is declared |
+| guṇa-saṅkhyāne | in the science of the guṇas (Sankhya philosophy) |
+| yathāvat | as they are / duly |
+| śṛṇu | hear |
+| tāni | them |
+| api | also |
+

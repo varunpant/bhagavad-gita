@@ -31,3 +31,59 @@ position: 87
 
 ```
 
+
+### Transliteration
+```
+nehābhikramanāśo'sti pratyavāyo na vidyate
+svalpamapyasya dharmasya trāyate mahato bhayāt
+
+```
+
+### भावार्थ
+
+निष्काम कर्मयोग के मार्ग में किए गए किसी भी प्रयास का कभी नाश नहीं होता और अधूरा छूट जाने पर कोई पाप या दोष भी नहीं लगता। इस धर्म का थोड़ा सा भी पालन मनुष्य को जन्म-मृत्यु के महान भय से बचा लेता है।
+
+### Meaning
+
+In the path of selfless action (Karma Yoga), no effort is ever wasted, and there are no negative consequences for incomplete work. Even a small amount of practice in this discipline protects a person from the greatest fear, which is the cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| इह | इस मार्ग में |
+| अभिक्रम | आरंभिक प्रयास का |
+| नाशः | नाश |
+| अस्ति | है |
+| प्रत्यवायः | विपरीत परिणाम |
+| न | नहीं |
+| विद्यते | है |
+| स्वल्पम् | थोड़ा सा |
+| अपि | भी |
+| अस्य | इस |
+| धर्मस्य | धर्म का |
+| त्रायते | रक्षा करता है |
+| महतः | महान |
+| भयात् | भय से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| iha | in this path |
+| abhikrama | of initial effort |
+| nāśaḥ | loss |
+| asti | is |
+| pratyavāyaḥ | adverse effect |
+| na | not |
+| vidyate | exists |
+| svalpam | a little |
+| api | even |
+| asya | of this |
+| dharmasya | of dharma |
+| trāyate | protects |
+| mahataḥ | from great |
+| bhayāt | fear |
+

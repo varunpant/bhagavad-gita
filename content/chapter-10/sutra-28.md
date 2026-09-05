@@ -31,3 +31,55 @@ position: 400
 
 ```
 
+
+### Transliteration
+```
+āyudhānāmahaṃ vajraṃ dhenūnāmasmi kāmadhuk
+prajanaścāsmi kandarpaḥ sarpāṇāmasmi vāsukiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी दिव्य विभूतियों का वर्णन कर रहे हैं। वे बताते हैं कि अस्त्र-शस्त्रों में वे देवराज इन्द्र का अमोघ अस्त्र वज्र हैं, जो दधीचि की हड्डियों से बना है। वे दिव्य गौओं में कामधेनु हैं जो सभी इच्छाओं को पूर्ण करती हैं, सृष्टि की उत्पत्ति के कारक कामदेव हैं, और सर्पों के राजा वासुकि हैं।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine manifestations. He declares Himself to be the Vajra (thunderbolt) among weapons, which is associated with Indra and made from the bones of Sage Dadhichi. He is Kamadhuk (the wish-fulfilling cow) among cows, Kandarpa (the god of love) responsible for procreation, and Vasuki, the king of serpents.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आयुधानाम् | शस्त्रों में |
+| अहम् | मैं |
+| वज्रम् | वज्र |
+| धेनूनाम् | गौओं में |
+| अस्मि | हूँ |
+| कामधुक् | कामधेनु (इच्छा पूर्ण करने वाली गाय) |
+| प्रजनः | सन्तानोत्पत्ति का कारण |
+| च | और |
+| अस्मि | हूँ |
+| कन्दर्पः | कामदेव |
+| सर्पाणाम् | सर्पों में |
+| अस्मि | हूँ |
+| वासुकिः | वासुकि |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āyudhānām | among weapons |
+| aham | I |
+| vajram | the thunderbolt |
+| dhenūnām | among cows |
+| asmi | am |
+| kāmadhuk | the wish-fulfilling cow |
+| prajanaḥ | the progenitor (cause of offspring) |
+| ca | and |
+| asmi | am |
+| kandarpaḥ | Kamadeva (the god of love) |
+| sarpāṇām | among serpents |
+| asmi | am |
+| vāsukiḥ | Vasuki |
+

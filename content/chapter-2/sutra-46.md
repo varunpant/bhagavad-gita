@@ -31,3 +31,49 @@ position: 93
 
 ```
 
+
+### Transliteration
+```
+yāvānartha udapāne sarvataḥ saṃplutodake
+tāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण समझाते हैं कि वेदों में वर्णित कर्मकांड और उनके फल एक छोटे कुएं के समान हैं, जो सीमित आवश्यकताओं को पूरा करते हैं। इसके विपरीत, आत्मज्ञान या ब्रह्म का साक्षात्कार एक विशाल, लबालब भरे हुए जलाशय के समान है जो एक साथ सभी उद्देश्यों को पूरा कर देता है। इसलिए, जिस ज्ञानी पुरुष ने परम सत्य को जान लिया है, उसके लिए वेदों के सकाम कर्मों का कोई विशेष प्रयोजन नहीं रह जाता।
+
+### Meaning
+
+Lord Krishna explains that the rituals and rewards mentioned in the Vedas are like a small well, useful only for specific, limited purposes. However, self-realization or the knowledge of Brahman is like a vast, overflowing lake that fulfills all needs at once. Therefore, a realized soul who has attained the ultimate truth no longer depends on limited Vedic rituals, as their ultimate purpose has already been achieved.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यावान् | जितना |
+| अर्थः | प्रयोजन |
+| उदपाने | छोटे कुएं में |
+| सर्वतः | सब ओर से |
+| संप्लुतोदके | जल से भरे हुए विशाल जलाशय के होने पर |
+| तावान् | उतना ही |
+| सर्वेषु | सभी |
+| वेदेषु | वेदों में |
+| ब्राह्मणस्य | ब्रह्म को जानने वाले का |
+| विजानतः | तत्त्वज्ञानी का |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yāvān | as much |
+| arthaḥ | purpose |
+| udapāne | in a well |
+| sarvataḥ | everywhere |
+| samplutodake | in a great reservoir of water |
+| tāvān | that much |
+| sarveṣu | in all |
+| vedeṣu | in the Vedas |
+| brāhmaṇasya | of a Brahmana (knower of Brahman) |
+| vijānataḥ | of one who knows |
+

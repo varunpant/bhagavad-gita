@@ -31,3 +31,55 @@ position: 356
 
 ```
 
+
+### Transliteration
+```
+gatirbhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt
+prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījamavyayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी सर्वव्यापकता और परम आश्रय रूप का वर्णन कर रहे हैं। वे बताते हैं कि सृष्टि की उत्पत्ति, स्थिति और प्रलय के एकमात्र कारण वे ही हैं। प्रत्येक जीव का परम लक्ष्य, रक्षक और निस्वार्थ हितैषी भी वही परमेश्वर है।
+
+### Meaning
+
+In this verse, Lord Krishna describes His all-pervasive nature and His role as the ultimate refuge. He explains that He is the sole cause of the creation, maintenance, and dissolution of the universe. He is the ultimate goal, protector, and selfless friend of every living being.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| गतिः | परम लक्ष्य (गति) |
+| भर्ता | भरण-पोषण करने वाला (स्वामी) |
+| प्रभुः | नियंता (स्वामी) |
+| साक्षी | द्रष्टा (साक्षी) |
+| निवासः | रहने का स्थान (धाम) |
+| शरणम् | शरण लेने योग्य |
+| सुहृत् | निस्वार्थ मित्र |
+| प्रभवः | उत्पत्ति का कारण |
+| प्रलयः | विनाश (प्रलय) |
+| स्थानम् | स्थिति का आधार |
+| निधानम् | लय का स्थान (कोष) |
+| बीजम् | कारण रूप बीज |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| gatiḥ | the goal |
+| bhartā | the supporter |
+| prabhuḥ | the lord |
+| sākṣī | the witness |
+| nivāsaḥ | the abode |
+| śaraṇam | the refuge |
+| suhṛt | the dear friend |
+| prabhavaḥ | the origin |
+| pralayaḥ | the dissolution |
+| sthānam | the ground (substratum) |
+| nidhānam | the resting place (treasure-house) |
+| bījam | the seed |
+| avyayam | imperishable |
+

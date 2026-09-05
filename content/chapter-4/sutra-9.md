@@ -31,3 +31,67 @@ position: 171
 
 ```
 
+
+### Transliteration
+```
+janma karma ca me divyamevaṃ yo vetti tattvataḥ
+tyaktvā dehaṃ punarjanma naiti māmeti so'rjuna
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण अपने दिव्य स्वरूप को जानने का आध्यात्मिक फल बताते हैं। साधारण मनुष्यों की तरह भगवान का जन्म कर्म-बंधनों के कारण नहीं होता, बल्कि उनके जन्म और कर्म पूरी तरह से अलौकिक और दिव्य हैं। जो मनुष्य इस रहस्य को गहराई से समझ लेता है, वह मृत्यु के बाद संसार के जन्म-मरण के चक्र से मुक्त होकर सीधे परमात्मा को प्राप्त कर लेता है।
+
+### Meaning
+
+Lord Krishna explains the profound spiritual benefit of understanding His divine nature. Unlike ordinary beings forced into the cycle of rebirth by karma, Krishna's appearances and actions are transcendental and free from material entanglement. One who truly comprehends this divine mystery is liberated from the cycle of birth and death, attaining the Supreme Lord upon leaving their physical body.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| जन्म | जन्म |
+| कर्म | कर्म |
+| च | और |
+| मे | मेरे |
+| दिव्यम् | दिव्य |
+| एवम् | इस प्रकार |
+| यः | जो |
+| वेत्ति | जानता है |
+| तत्त्वतः | तत्त्व से |
+| त्यक्त्वा | त्याग कर |
+| देहम् | शरीर को |
+| पुनः | फिर से |
+| जन्म | जन्म |
+| न | नहीं |
+| एति | प्राप्त होता है |
+| माम् | मुझे |
+| एति | प्राप्त होता है |
+| सः | वह |
+| अर्जुन | हे अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| janma | birth |
+| karma | activities |
+| ca | and |
+| me | My |
+| divyam | divine |
+| evam | thus |
+| yaḥ | who |
+| vetti | knows |
+| tattvataḥ | in truth |
+| tyaktvā | having left |
+| deham | the body |
+| punaḥ | again |
+| janma | birth |
+| na | not |
+| eti | takes |
+| mām | to Me |
+| eti | comes |
+| saḥ | he |
+| arjuna | O Arjuna |
+

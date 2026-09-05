@@ -31,3 +31,47 @@ position: 341
 
 ```
 
+
+### Transliteration
+```
+aśraddadhānāḥ puruṣā dharmasyāsya parantapa
+aprāpya māṃ nivartante mṛtyusaṃsāravartmani
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि आध्यात्मिक मार्ग पर प्रगति के लिए श्रद्धा अत्यंत आवश्यक है। जो लोग इस परम सत्य और भक्ति मार्ग में विश्वास नहीं रखते, वे ईश्वर को प्राप्त करने का अवसर खो देते हैं। परिणामस्वरूप, वे जन्म और मृत्यु के अंतहीन चक्र में बार-बार लौटते रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes that faith is a vital prerequisite for spiritual progress. Those who lack faith in this sacred path of self-realization fail to attain the Divine. Consequently, they remain bound to the material world, repeatedly returning to the cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अश्रद्दधानाः | श्रद्धा रहित |
+| पुरुषाः | मनुष्य |
+| धर्मस्य | धर्म के |
+| अस्य | इस |
+| परन्तप | हे परंतप (अर्जुन) |
+| अप्राप्य | न प्राप्त करके |
+| माम् | मुझको |
+| निवर्तन्ते | लौट आते हैं |
+| मृत्युसंसारवर्त्मनि | मृत्यु रूपी संसार के मार्ग पर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aśraddadhānāḥ | those who are faithless |
+| puruṣāḥ | people |
+| dharmasya | of the dharma |
+| asya | of this |
+| parantapa | O chastiser of enemies (Arjuna) |
+| aprāpya | without attaining |
+| mām | Me |
+| nivartante | return |
+| mṛtyusaṃsāravartmani | on the path of the mortal world |
+

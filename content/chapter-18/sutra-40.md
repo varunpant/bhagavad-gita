@@ -31,3 +31,63 @@ position: 663
 
 ```
 
+
+### Transliteration
+```
+na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ
+sattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि भौतिक संसार में कोई भी प्राणी प्रकृति के तीन गुणों (सत्त्व, रज और तम) के प्रभाव से अछूता नहीं है। चाहे वह पृथ्वी का मनुष्य हो या स्वर्ग के देवता, सभी प्रकृति के इन नियमों के अधीन हैं। केवल वही जो गुणातीत (गुणों से परे) हो जाता है, वही इस बंधन से मुक्त हो पाता है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes that no entity in the material world is free from the influence of the three modes of nature (sattva, rajas, and tamas). Whether on earth or among the celestial beings in heaven, everyone is bound by these natural qualities. Only one who transcends these modes can attain true liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| तत् | वह |
+| अस्ति | है |
+| पृथिव्याम् | पृथ्वी पर |
+| वा | या |
+| दिवि | स्वर्ग में |
+| देवेषु | देवताओं में |
+| वा | या |
+| पुनः | फिर |
+| सत्त्वम् | अस्तित्व (प्राणी) |
+| प्रकृतिजैः | प्रकृति से उत्पन्न |
+| मुक्तम् | मुक्त |
+| यत् | जो |
+| एभिः | इन |
+| स्यात् | हो |
+| त्रिभिः | तीनों |
+| गुणैः | गुणों से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| tat | that |
+| asti | there is |
+| pṛthivyām | on earth |
+| vā | or |
+| divi | in heaven |
+| deveṣu | among the demigods |
+| vā | or |
+| punaḥ | again |
+| sattvam | being / existence |
+| prakṛtijaiḥ | born of material nature |
+| muktam | liberated / free |
+| yat | which |
+| ebhiḥ | from these |
+| syāt | would be |
+| tribhiḥ | three |
+| guṇaiḥ | modes / qualities |
+

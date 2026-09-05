@@ -54,3 +54,54 @@ his mind overwhelmed with sorrow.
 
 ```
 
+
+### Transliteration
+```
+sañjaya uvāca
+evamuktvā'rjunaḥ saṃkhye rathopastha upāviśat
+visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ
+
+```
+
+### भावार्थ
+
+पहले अध्याय का यह अंतिम श्लोक अर्जुन के भावनात्मक पतन का मार्मिक चित्रण करता है। अपने ही स्वजनों की हत्या के विचार से उत्पन्न शोक और करुणा से अभिभूत होकर, वह युद्ध करने की अपनी इच्छा पूरी तरह खो बैठते हैं। अपने हथियार डालकर रथ में बैठ जाना अर्जुन की गहरी निराशा को दर्शाता है, जो अगले अध्यायों में भगवान कृष्ण के गहन आध्यात्मिक उपदेशों के लिए पृष्ठभूमि तैयार करता है।
+
+### Meaning
+
+This concluding verse of the first chapter paints a poignant picture of Arjuna's emotional collapse. Overwhelmed by compassion and grief at the prospect of killing his own kinsmen, he completely loses his will to fight. By dropping his weapons and sinking into his chariot, Arjuna demonstrates a state of deep despair, setting the stage for Lord Krishna's profound spiritual teachings in the subsequent chapters.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सञ्जयः | संजय |
+| उवाच | ने कहा |
+| एवम् | इस प्रकार |
+| उक्त्वा | कहकर |
+| अर्जुनः | अर्जुन |
+| संख्ये | युद्धभूमि में |
+| रथोपस्थे | रथ के आसन पर |
+| उपाविशत् | बैठ गए |
+| विसृज्य | त्यागकर |
+| सशरम् | बाणों सहित |
+| चापम् | धनुष को |
+| शोकसंविग्नमानसः | शोक से उद्विग्न मन वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sañjayaḥ | Sanjaya |
+| uvāca | said |
+| evam | thus |
+| uktvā | having spoken |
+| arjunaḥ | Arjuna |
+| saṃkhye | in the battlefield |
+| rathopasthe | on the seat of the chariot |
+| upāviśat | sat down |
+| visṛjya | casting aside |
+| saśaram | along with arrows |
+| cāpam | the bow |
+| śokasaṃvignamānasaḥ | with a mind overwhelmed by grief |
+

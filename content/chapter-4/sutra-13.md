@@ -31,3 +31,51 @@ position: 175
 
 ```
 
+
+### Transliteration
+```
+cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ
+tasya kartāramapi māṃ viddhyakartāramavyayam
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण स्पष्ट करते हैं कि समाज में चार वर्णों (ब्राह्मण, क्षत्रिय, वैश्य, शूद्र) की व्यवस्था जन्म पर नहीं, बल्कि व्यक्ति के गुणों और कर्मों पर आधारित है। यद्यपि परमात्मा ने इस व्यवस्था की रचना की है, फिर भी वे इससे अलिप्त रहते हैं। इसलिए उन्हें इस कर्म का कर्ता होते हुए भी अकर्ता और अव्यय (अविनाशी) समझना चाहिए।
+
+### Meaning
+
+Lord Krishna clarifies that the fourfold social order (Brahmanas, Kshatriyas, Vaishyas, and Shudras) is based on an individual's qualities (gunas) and actions (karmas), not on birth. Although the Supreme Lord created this system, He remains completely unattached to it. Therefore, despite being the creator, He should be known as the non-doer and the imperishable.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| चातुर्वर्ण्यम् | चारों वर्णों की व्यवस्था |
+| मया | मेरे द्वारा |
+| सृष्टम् | रची गई |
+| गुणकर्मविभागशः | गुणों और कर्मों के विभाग के अनुसार |
+| तस्य | उसका |
+| कर्तारम् | कर्ता |
+| अपि | भी |
+| माम् | मुझे |
+| विद्धि | जानो |
+| अकर्तारम् | अकर्ता |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| cāturvarṇyam | the fourfold system of varnas |
+| mayā | by Me |
+| sṛṣṭam | created |
+| guṇakarmavibhāgaśaḥ | according to the division of qualities and actions |
+| tasya | of that |
+| kartāram | the creator |
+| api | although |
+| mām | Me |
+| viddhi | know |
+| akartāram | non-doer |
+| avyayam | imperishable |
+

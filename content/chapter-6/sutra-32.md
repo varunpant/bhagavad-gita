@@ -31,3 +31,59 @@ position: 265
 
 ```
 
+
+### Transliteration
+```
+ātmaupamyena sarvatra samaṃ paśyati yo'rjuna
+sukhaṃ vā yadi vā duḥkhaṃ saḥ yogī paramo mataḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में श्रीकृष्ण परम योगी के लक्षण बताते हैं। जो व्यक्ति दूसरों के सुख और दुःख को अपने ही सुख-दुःख के समान समझता है, वह आत्मौपम्य (सहानुभूति और आत्म-समानता) की पराकाष्ठा पर पहुँच जाता है। ऐसा योगी सभी प्राणियों में एक ही परमात्मा का दर्शन करता है और परम सिद्धि को प्राप्त होता है।
+
+### Meaning
+
+In this verse, Sri Krishna defines the highest yogi. One who measures the pleasure and pain of others by the same standard as their own is established in the realization of universal oneness. Such a yogi views all beings with perfect empathy, seeing the same divine self in everyone.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आत्म-औपम्येन | अपनी समानता से |
+| सर्वत्र | सब जगह |
+| समम् | समान रूप से |
+| पश्यति | देखता है |
+| यः | जो |
+| अर्जुन | हे अर्जुन |
+| सुखम् | सुख को |
+| वा | अथवा |
+| यदि | यदि |
+| वा | अथवा |
+| दुःखम् | दुःख को |
+| सः | वह |
+| योगी | योगी |
+| परमः | परम (सर्वश्रेष्ठ) |
+| मतः | माना गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ātma-aupamyena | by comparison with oneself |
+| sarvatra | everywhere |
+| samam | equally |
+| paśyati | sees |
+| yaḥ | who |
+| arjuna | O Arjuna |
+| sukham | pleasure |
+| vā | or |
+| yadi | if |
+| vā | or |
+| duḥkham | pain |
+| saḥ | he |
+| yogī | yogi |
+| paramaḥ | supreme |
+| mataḥ | is considered |
+

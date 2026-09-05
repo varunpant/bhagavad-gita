@@ -31,3 +31,55 @@ position: 83
 
 ```
 
+
+### Transliteration
+```
+avācyavādāṃśca bahūn vadiṣyanti tavāhitāḥ
+nindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim
+
+```
+
+### भावार्थ
+
+श्री कृष्ण अर्जुन को युद्ध से पीछे हटने के सामाजिक और व्यक्तिगत परिणामों के बारे में सचेत कर रहे हैं। वे कहते हैं कि यदि वह युद्ध नहीं करेगा, तो उसके शत्रु उसकी वीरता और क्षमता पर संदेह करेंगे और उसका उपहास उड़ाएंगे। एक शूरवीर के लिए अपने सामर्थ्य की निंदा सुनना मृत्यु से भी अधिक कष्टदायक होता है।
+
+### Meaning
+
+Lord Krishna warns Arjuna about the social and personal consequences of retreating from the battlefield. He explains that if Arjuna flees, his enemies will mock his valor and question his capabilities with unspeakable words. For a warrior, hearing his own competence scorned is more agonizing than death itself.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अवाच्यवादान् | न कहने योग्य वचन |
+| च | और |
+| बहून् | बहुत से |
+| वदिष्यन्ति | कहेंगे |
+| तव | तुम्हारे |
+| अहिताः | शत्रु |
+| निन्दन्तः | निन्दा करते हुए |
+| तव | तुम्हारी |
+| सामर्थ्यम् | सामर्थ्य की |
+| ततः | उससे |
+| दुःखतरम् | अधिक दुःखदायी |
+| नु | भला |
+| किम् | क्या |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| avācyavādān | unspeakable words |
+| ca | and |
+| bahūn | many |
+| vadiṣyanti | will speak |
+| tava | your |
+| ahitāḥ | enemies |
+| nindantaḥ | scorning |
+| tava | your |
+| sāmarthyam | ability |
+| tataḥ | than that |
+| duḥkhataram | more painful |
+| nu | indeed |
+| kim | what |
+

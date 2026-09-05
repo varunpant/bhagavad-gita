@@ -31,3 +31,57 @@ position: 562
 
 ```
 
+
+### Transliteration
+```
+yatanto yoginaś cainaṃ paśyanty ātmany avasthitam
+yatanto 'py akṛtātmāno nainaṃ paśyanty acetasaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि आत्म-साक्षात्कार के लिए केवल प्रयास ही पर्याप्त नहीं है, बल्कि अन्तःकरण की शुद्धि भी अनिवार्य है। जो योगी ध्यान और साधना के द्वारा अपने मन को वश में कर चुके हैं, वे अपने भीतर ही परमात्मा का अनुभव करते हैं। इसके विपरीत, जिनका मन अशुद्ध है और जो वासनाओं से घिरे हैं, वे लाख प्रयत्न करने पर भी उस परम तत्व को नहीं जान पाते।
+
+### Meaning
+
+In this verse, Lord Krishna explains that self-realization requires both effort and inner purification. Yogis who have disciplined their minds and purified their consciousness can perceive the Supreme Soul residing within themselves. Conversely, those who lack self-discipline and possess an impure mind fail to perceive the truth, despite making external efforts.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यतन्तः | प्रयत्न करते हुए |
+| योगिनः | योगी जन |
+| च | और |
+| एनम् | इस (परमात्मा) को |
+| पश्यन्ति | देखते हैं |
+| आत्मनि | अपने अन्तःकरण में |
+| अवस्थितम् | स्थित |
+| यतन्तः | प्रयत्न करते हुए |
+| अपि | भी |
+| अकृतात्मानः | अशुद्ध अन्तःकरण वाले (असंयमी) |
+| न | नहीं |
+| एनम् | इसको |
+| पश्यन्ति | देखते हैं |
+| अचेतसः | अज्ञानी लोग |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yatantaḥ | striving |
+| yoginaḥ | the yogis |
+| ca | and |
+| enam | this (the soul/Supreme) |
+| paśyanti | perceive |
+| ātmani | in the self |
+| avasthitam | situated |
+| yatantaḥ | striving |
+| api | even though |
+| akṛtātmānaḥ | those of unpurified mind |
+| na | not |
+| enam | this |
+| paśyanti | perceive |
+| acetasaḥ | the undisciplined/unintelligent |
+

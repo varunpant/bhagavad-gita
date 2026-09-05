@@ -32,3 +32,71 @@ forgive me, O God.
 
 ```
 
+
+### Transliteration
+```
+tasmāt praṇamya praṇidhāya kāyaṃ
+prasādaye tvām aham īśam īḍyam
+piteva putrasya sakheva sakhyuḥ
+priyaḥ priyāyārhasi deva soḍhum
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण के विश्वरूप के दर्शन करके अत्यंत विस्मित और भयभीत हैं। वे अपनी पूर्व की अनजाने में की गई भूलों के लिए क्षमा मांग रहे हैं। वे भगवान से प्रार्थना करते हैं कि वे उनके अपराधों को उसी प्रकार क्षमा कर दें जैसे एक पिता, मित्र या प्रेमी अपने प्रियजनों के अपराधों को सहज ही क्षमा कर देते हैं।
+
+### Meaning
+
+Arjuna is deeply awed and humbled after witnessing the cosmic form of Lord Krishna. He begs for forgiveness for any past familiarity or unintentional disrespect. He appeals to Krishna's grace, asking Him to tolerate his faults just as a father, a dear friend, or a lover forgives the mistakes of their loved ones.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| प्रणम्य | प्रणाम करके |
+| प्रणिधाय | दण्डवत झुकाकर |
+| कायम् | शरीर को |
+| प्रसादये | प्रसन्न करने की प्रार्थना करता हूँ |
+| त्वाम् | आपको |
+| अहम् | मैं |
+| ईशम् | ईश्वर को |
+| ईड्यम् | पूजनीय |
+| पिता | पिता |
+| इव | की भाँति |
+| पुत्रस्य | पुत्र के |
+| सखा | मित्र |
+| इव | की भाँति |
+| सख्युः | मित्र के |
+| प्रियः | प्रियतम |
+| प्रियायाः | प्रियतमा के |
+| अर्हसि | आप योग्य हैं |
+| देव | हे देव |
+| सोढुम् | सहन करने के |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| praṇamya | bowing down |
+| praṇidhāya | prostrating |
+| kāyam | the body |
+| prasādaye | I seek to please |
+| tvām | You |
+| aham | I |
+| īśam | the Lord |
+| īḍyam | adorable |
+| pitā | a father |
+| iva | as |
+| putrasya | of a son |
+| sakhā | a friend |
+| iva | as |
+| sakhyuḥ | of a friend |
+| priyaḥ | a lover |
+| priyāyāḥ | of the beloved |
+| arhasi | You ought |
+| deva | O Lord |
+| soḍhum | to forgive / tolerate |
+

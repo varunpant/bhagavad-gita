@@ -31,3 +31,49 @@ position: 428
 
 ```
 
+
+### Transliteration
+```
+tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ
+praṇamya śirasā devaṃ kṛtāñjalirabhāṣata
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण के अत्यंत अद्भुत और विराट रूप को देखकर अर्जुन पूरी तरह से आश्चर्यचकित हो गए। उनके शरीर के रोंगटे खड़े हो गए। उन्होंने अत्यंत श्रद्धापूर्वक भगवान के चरणों में सिर झुकाया और हाथ जोड़कर प्रार्थना करने लगे।
+
+### Meaning
+
+Upon beholding the magnificent and boundless cosmic form of Lord Krishna, Arjuna was overwhelmed with profound wonder. His hair stood on end in sheer ecstasy and awe. Bowing his head in deep reverence, he folded his hands and began to address the Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ततः | इसके बाद |
+| सः | वे |
+| विस्मय-आविष्टः | आश्चर्य से चकित |
+| हृष्ट-रोमा | रोमांचित शरीर वाले (खड़े रोंगटों वाले) |
+| धनञ्जयः | अर्जुन |
+| प्रणम्य | प्रणाम करके |
+| शिरसा | सिर से |
+| देवम् | परमेश्वर को |
+| कृत-अञ्जलिः | हाथ जोड़े हुए |
+| अभाषत | बोले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tataḥ | then |
+| saḥ | he |
+| vismaya-āviṣṭaḥ | filled with wonder |
+| hṛṣṭa-romā | whose hair was standing on end |
+| dhanañjayaḥ | Arjuna |
+| praṇamya | having bowed down |
+| śirasā | with his head |
+| devam | to the Lord |
+| kṛta-añjaliḥ | with folded hands |
+| abhāṣata | spoke |
+

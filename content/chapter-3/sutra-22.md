@@ -31,3 +31,59 @@ position: 141
 
 ```
 
+
+### Transliteration
+```
+na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana
+nānavāptamavāptavyaṃ varta eva ca karmaṇi
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि परमेश्वर होने के नाते वे पूर्ण हैं और उन्हें किसी भी वस्तु की कमी नहीं है। तीनों लोकों में उनके लिए कोई भी व्यक्तिगत कर्तव्य या कार्य शेष नहीं है। फिर भी, वे निरंतर निष्काम कर्म करते रहते हैं ताकि मनुष्य उनके आदर्श का अनुसरण कर सकें।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that as the Supreme Being, He is completely fulfilled and lacks nothing. He has no personal obligations or duties to perform in any of the three worlds. However, He still continuously engages in action to set an ideal example for humanity to follow.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| मे | मेरे लिए |
+| पार्थ | हे अर्जुन |
+| अस्ति | है |
+| कर्तव्यम् | कर्तव्य |
+| त्रिषु | तीनों |
+| लोकेषु | लोकों में |
+| किञ्चन | कुछ भी |
+| न | नहीं |
+| अनवाप्तम् | अप्राप्त |
+| अवाप्तव्यम् | प्राप्त करने योग्य |
+| वर्ते | लगा हुआ हूँ |
+| एव | ही |
+| च | और |
+| कर्मणि | कर्म में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| me | for me |
+| pārtha | O Arjuna |
+| asti | is |
+| kartavyam | duty |
+| triṣu | in the three |
+| lokeṣu | in the worlds |
+| kiñcana | anything |
+| na | nor |
+| anavāptam | unobtained |
+| avāptavyam | to be obtained |
+| varte | am engaged |
+| eva | certainly |
+| ca | and |
+| karmaṇi | in action |
+

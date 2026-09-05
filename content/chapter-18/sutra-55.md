@@ -31,3 +31,57 @@ position: 678
 
 ```
 
+
+### Transliteration
+```
+bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ
+tato māṃ tattvato jñātvā viśate tadanantaram
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण भक्ति की सर्वोच्चता को स्थापित करते हैं। केवल अनन्य भक्ति के द्वारा ही परमेश्वर के वास्तविक स्वरूप को समझा जा सकता है। जब साधक भगवान को तत्त्व से जान लेता है, तब वह माया के बंधनों से मुक्त होकर भगवान के दिव्य धाम में प्रवेश करता है और उनके साथ एकाकार हो जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the supreme power of devotion (bhakti). It is only through pure devotion that one can truly comprehend the essential nature and greatness of the Divine. Once a seeker realizes the Supreme Truth, they transcend material existence and enter into the divine union with Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भक्त्या | भक्ति के द्वारा |
+| माम् | मुझको |
+| अभिजानाति | वास्तव में जानता है |
+| यावान् | जितना (जो मेरा विस्तार है) |
+| यः | जो |
+| च | और |
+| अस्मि | मैं हूँ |
+| तत्त्वतः | तत्त्व से (वास्तव में) |
+| ततः | उसके बाद |
+| माम् | मुझको |
+| तत्त्वतः | तत्त्व से |
+| ज्ञात्वा | जानकर |
+| विशते | प्रवेश करता है |
+| तद्-अनन्तरम् | उसके पश्चात् |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhaktyā | by devotion |
+| mām | Me |
+| abhijānāti | he knows |
+| yāvān | how much (my extent) |
+| yaḥ | who |
+| ca | and |
+| asmi | I am |
+| tattvataḥ | in truth |
+| tataḥ | then |
+| mām | Me |
+| tattvataḥ | in truth |
+| jñātvā | having known |
+| viśate | he enters |
+| tad-anantaram | thereafter |
+

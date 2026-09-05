@@ -31,3 +31,60 @@ position: 415
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+madanugrahāya paramaṃ guhyam adhyātmasaṃjñitam
+yat tvayoktaṃ vacas tena moho 'yaṃ vigato mama
+
+```
+
+### भावार्थ
+
+इस अध्याय के आरम्भ में अर्जुन भगवान कृष्ण के प्रति अपनी कृतज्ञता व्यक्त करते हैं। वे स्वीकार करते हैं कि भगवान के गोपनीय उपदेशों को सुनकर उनका अज्ञान और मोह पूरी तरह से दूर हो गया है। यह कथन अर्जुन द्वारा भगवान के दिव्य विश्वरूप को देखने की इच्छा प्रकट करने की पृष्ठभूमि तैयार करता है।
+
+### Meaning
+
+At the beginning of this chapter, Arjuna expresses his deep gratitude to Lord Krishna. He admits that his delusion and ignorance have been completely dispelled after hearing the confidential spiritual instructions regarding the Self. This acknowledgment sets the stage for Arjuna's subsequent request to behold the Lord's cosmic form.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | बोले |
+| मत्-अनुग्रहाय | मुझ पर कृपा करने के लिए |
+| परमम् | परम |
+| गुह्यम् | गोपनीय |
+| अध्यात्म-संज्ञितम् | अध्यात्म नामक |
+| यत् | जो |
+| त्वया | आपके द्वारा |
+| उक्तम् | कहा गया |
+| वचः | वचन |
+| तेन | उससे |
+| मोहः | मोह |
+| अयम् | यह |
+| विगतः | नष्ट हो गया है |
+| मम | मेरा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| mat-anugrahāya | for the sake of showing favor to me |
+| paramam | supreme |
+| guhyam | confidential |
+| adhyātma-saṃjñitam | known as spiritual |
+| yat | which |
+| tvayā | by you |
+| uktam | spoken |
+| vacaḥ | words |
+| tena | by that |
+| mohaḥ | delusion |
+| ayam | this |
+| vigataḥ | is gone |
+| mama | my |
+

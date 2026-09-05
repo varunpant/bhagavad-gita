@@ -31,3 +31,45 @@ position: 229
 
 ```
 
+
+### Transliteration
+```
+labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ
+chinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन ऋषियों के लक्षणों का वर्णन करते हैं जो मोक्ष प्राप्त करते हैं। वे निष्पाप होते हैं, उनके सभी संशय ज्ञान द्वारा नष्ट हो चुके होते हैं, वे आत्म-संयमी होते हैं और वे केवल अपने कल्याण में नहीं, बल्कि सभी प्राणियों की भलाई में लगे रहते हैं। ऐसे निस्वार्थ और शुद्ध अन्तःकरण वाले पुरुष ही परम ब्रह्म को प्राप्त करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of the sages who attain liberation. They are free from sins, cleared of all doubts by spiritual knowledge, self-controlled, and dedicated to the welfare of all living beings. Such selfless and pure-hearted seekers attain the ultimate peace and liberation in Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| लभन्ते | प्राप्त करते हैं |
+| ब्रह्म-निर्वाणम् | ब्रह्म-निर्वाण (परम शान्ति) |
+| ऋषयः | ऋषिगण (सत्यद्रष्टा) |
+| क्षीण-कल्मषाः | जिनके पाप नष्ट हो गए हैं |
+| छिन्न-द्वैधाः | जिनके संशय छिन्न-भिन्न हो गए हैं |
+| यत-आत्मानः | जो मन और इन्द्रियों को वश में किए हुए हैं |
+| सर्व-भूत-हिते | समस्त प्राणियों के कल्याण में |
+| रताः | लगे हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| labhante | attain |
+| brahma-nirvāṇam | liberation in Brahman |
+| ṛṣayaḥ | the seers |
+| kṣīṇa-kalmaṣāḥ | whose sins are destroyed |
+| chinna-dvaidhāḥ | whose doubts are dispelled |
+| yata-ātmānaḥ | who are self-controlled |
+| sarva-bhūta-hite | in the welfare of all beings |
+| ratāḥ | actively engaged |
+

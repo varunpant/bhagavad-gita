@@ -31,3 +31,53 @@ position: 129
 
 ```
 
+
+### Transliteration
+```
+sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ
+anena prasaviṣyadhvameṣa vo'stviṣṭakāmadhuk
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण कर्मयोग के महत्व को समझाते हुए सृष्टि के आरम्भ का संदर्भ देते हैं। प्रजापति ब्रह्मा ने मनुष्यों को उनके कर्तव्यों (यज्ञ) के साथ उत्पन्न किया था। उन्होंने यह आशीर्वाद दिया कि निःस्वार्थ भाव से अपने कर्तव्यों का पालन करने से ही मनुष्य समाज की उन्नति होगी और उनकी सभी आवश्यकताएं पूरी होंगी।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the importance of Karma Yoga by referring to the beginning of creation. Prajapati (Brahma) created human beings along with their prescribed duties (Yajna). He blessed them, stating that by performing these selfless duties, mankind would prosper and all their material and spiritual needs would be fulfilled.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सहयज्ञाः | यज्ञ सहित |
+| प्रजाः | प्रजाओं को |
+| सृष्ट्वा | रचकर |
+| पुरा | सृष्टि के आरम्भ में |
+| उवाच | कहा |
+| प्रजापतिः | प्रजापति ने |
+| अनेन | इसके द्वारा |
+| प्रसविष्यध्वम् | तुम वृद्धि को प्राप्त हो |
+| एषः | यह |
+| वः | तुम्हारे लिए |
+| अस्तु | हो |
+| इष्टकामधुक् | इच्छित कामनाओं को पूर्ण करने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sahayajñāḥ | along with sacrifices |
+| prajāḥ | mankind |
+| sṛṣṭvā | having created |
+| purā | in the beginning |
+| uvāca | said |
+| prajāpatiḥ | the Lord of creatures |
+| anena | by this |
+| prasaviṣyadhvam | you shall prosper |
+| eṣaḥ | this |
+| vaḥ | for you |
+| astu | let it be |
+| iṣṭakāmadhuk | the bestower of desired enjoyments |
+

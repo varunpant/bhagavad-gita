@@ -31,3 +31,55 @@ position: 278
 
 ```
 
+
+### Transliteration
+```
+prayatnād yatamānas tu yogī saṃśuddha-kilbiṣaḥ
+aneka-janma-saṃsiddhas tato yāti parāṃ gatim
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को आश्वस्त करते हैं कि योग का अभ्यास कभी व्यर्थ नहीं जाता। यदि कोई साधक इस जन्म में पूर्णता प्राप्त नहीं कर पाता, तो भी वह अगले जन्मों में अपनी यात्रा जारी रखता है। अनेक जन्मों के संचित प्रयासों से अंततः वह सभी पापों से मुक्त होकर परम गति (मोक्ष) को प्राप्त कर लेता है।
+
+### Meaning
+
+In this verse, Lord Krishna reassures Arjuna that no effort in yoga is ever wasted. Even if a practitioner does not achieve perfection in one lifetime, the accumulated merits carry forward into subsequent births. Through the progressive purification over many lifetimes, the yogi eventually becomes completely free from sins and attains the supreme spiritual destination.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रयत्नात् | प्रयत्नपूर्वक (अत्यधिक प्रयास से) |
+| यतमानः | प्रयास करने वाला |
+| तु | परन्तु |
+| योगी | योगी |
+| संशुद्ध | भली-भांति शुद्ध हुआ |
+| किल्बिषः | पापों से |
+| अनेक | अनेक |
+| जन्म | जन्मों में |
+| संसिद्धः | पूर्णता को प्राप्त (सिद्ध) |
+| ततः | उसके बाद |
+| याति | प्राप्त करता है |
+| पराम् | परम |
+| गतिम् | गति को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prayatnāt | with assiduous effort |
+| yatamānaḥ | one who strives |
+| tu | but |
+| yogī | the yogi |
+| saṃśuddha | purified |
+| kilbiṣaḥ | of sins |
+| aneka | many |
+| janma | births |
+| saṃsiddhaḥ | perfected |
+| tataḥ | thereafter |
+| yāti | attains |
+| parām | the supreme |
+| gatim | destination |
+

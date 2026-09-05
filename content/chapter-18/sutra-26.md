@@ -31,3 +31,45 @@ position: 649
 
 ```
 
+
+### Transliteration
+```
+muktasaṅgo'nahamvādī dhṛtyutsāhasamanvitaḥ
+siddhyasiddhyornirvikāraḥ kartā sāttvika ucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक कर्ता के लक्षणों का वर्णन करते हैं। सात्त्विक कर्ता वह है जो कर्म के फलों या कर्तापन के अभिमान से आसक्त नहीं होता। वह धैर्य और उत्साह के साथ अपना कर्तव्य करता है, और कार्य सिद्ध हो या न हो, दोनों ही परिस्थितियों में समभाव रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a sattvica (pure) doer. Such a person performs actions without attachment to the results or egotistical pride. Endowed with patience and enthusiasm, they remain balanced and unaffected whether their efforts end in success or failure.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मुक्त-सङ्गः | आसक्ति से रहित |
+| अनहंवादी | अहंकार के वचन न बोलने वाला (अहंकार-रहित) |
+| धृति-उत्साह-समन्वितः | धैर्य और उत्साह से युक्त |
+| सिद्धि-असिद्धयोः | सफलता और असफलता में |
+| निर्विकारः | विकाररहित (हर्ष-शोक से मुक्त) |
+| कर्ता | कर्म करने वाला |
+| सात्त्विकः | सात्त्विक |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mukta-saṅgaḥ | free from attachment |
+| anaham-vādī | free from egotistic speech (without ego) |
+| dhṛti-utsāha-samanvitaḥ | endowed with fortitude and enthusiasm |
+| siddhi-asiddhyoḥ | in success and failure |
+| nirvikāraḥ | unaffected (without perturbation) |
+| kartā | the doer |
+| sāttvikaḥ | sattvica (pure) |
+| ucyate | is said to be |
+

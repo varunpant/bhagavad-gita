@@ -31,3 +31,59 @@ position: 94
 
 ```
 
+
+### Transliteration
+```
+karmaṇyevādhikāraste mā phaleṣu kadācana
+mā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi
+
+```
+
+### भावार्थ
+
+यह श्लोक निष्काम कर्मयोग का मूल सिद्धांत प्रस्तुत करता है। भगवान कृष्ण अर्जुन को समझाते हैं कि मनुष्य का नियंत्रण केवल उसके कर्मों पर है, उनके परिणामों पर नहीं। इसलिए, फल की इच्छा के बिना अपना कर्तव्य निभाना चाहिए और साथ ही कर्म से भागने की प्रवृत्ति से भी बचना चाहिए।
+
+### Meaning
+
+This verse presents the core principle of Nishkama Karma Yoga or selfless action. Lord Krishna explains to Arjuna that a person only has control over their actions, not the outcomes. Therefore, one should perform their duty without attachment to the results, while also avoiding the tendency to escape from action altogether.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्मणि | कर्म में |
+| एव | ही |
+| अधिकारः | अधिकार |
+| ते | तुम्हारा |
+| मा | नहीं |
+| फलेषु | फलों में |
+| कदाचन | कभी |
+| मा | मत |
+| कर्मफलहेतुः | कर्मों के फल का कारण |
+| भूः | हो |
+| मा | न |
+| ते | तुम्हारी |
+| सङ्गः | आसक्ति |
+| अस्तु | हो |
+| अकर्मणि | कर्म न करने में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karmaṇi | in prescribed duty |
+| eva | only |
+| adhikāraḥ | right |
+| te | your |
+| mā | never |
+| phaleṣu | in the fruits |
+| kadācana | at any time |
+| mā | never |
+| karmaphalahetuḥ | cause of the fruits of action |
+| bhūḥ | be |
+| mā | never |
+| te | your |
+| saṅgaḥ | attachment |
+| astu | let there be |
+| akarmaṇi | in inaction |
+

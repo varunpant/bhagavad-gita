@@ -31,3 +31,49 @@ position: 532
 
 ```
 
+
+### Transliteration
+```
+tamas tv ajñānajaṃ viddhi mohanaṃ sarvadehinām
+pramādālasyanidrābhis tan nibadhnāti bhārata
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तमोगुण के स्वरूप और उसके प्रभावों का वर्णन कर रहे हैं। तमोगुण अज्ञान से उत्पन्न होता है और यह सभी मनुष्यों को भ्रमित करता है। यह मनुष्य को कर्तव्य से विमुख (प्रमाद), अकर्मण्य (आलस्य) और अचेत (निद्रा) बनाकर संसार के बंधनों में जकड़ लेता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the nature and effects of tamas (the mode of ignorance). Tamas arises from ignorance and deludes all embodied souls. It binds the living entity to material existence through negligence, laziness, and excessive sleep, preventing spiritual progress.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तमः | तमोगुण को |
+| तु | लेकिन |
+| अज्ञानजम् | अज्ञान से उत्पन्न |
+| विद्धि | जानो |
+| मोहनम् | मोहित करने वाला |
+| सर्व-देहिनाम् | सभी देहधारियों को |
+| प्रमाद-आलस्य-निद्राभिः | प्रमाद, आलस्य और निद्रा के द्वारा |
+| तत् | वह (तमोगुण) |
+| निबध्नाति | बाँधता है |
+| भारत | हे भरतवंशी (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tamaḥ | the mode of ignorance |
+| tu | but |
+| ajñānajam | born of ignorance |
+| viddhi | know |
+| mohanam | the deluder |
+| sarva-dehinām | of all embodied beings |
+| pramāda-ālasya-nidrābhiḥ | by negligence, laziness, and sleep |
+| tat | that |
+| nibadhnāti | binds |
+| bhārata | O descendant of Bharata |
+

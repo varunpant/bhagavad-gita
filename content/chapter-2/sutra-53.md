@@ -31,3 +31,51 @@ position: 100
 
 ```
 
+
+### Transliteration
+```
+śrutivipratipannā te yadā sthāsyati niścalā
+samādhāvacalā buddhistadā yogamavāpsyasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आध्यात्मिक बुद्धि की परिणति को समझाते हैं। अर्जुन का मन वर्तमान में शास्त्रों में वर्णित विभिन्न सकाम कर्मों और मतभेदों को सुनकर भ्रमित है। कृष्ण उसे आश्वस्त करते हैं कि जब उसकी बुद्धि इन सबसे विरक्त होकर परमात्मा के ध्यान (समाधि) में पूरी तरह से स्थिर और अचल हो जाएगी, तब उसे वास्तविक योग या आत्म-साक्षात्कार की प्राप्ति होगी।
+
+### Meaning
+
+In this verse, Lord Krishna explains the culmination of spiritual intelligence. Arjuna's mind is currently confused by the various conflicting instructions and rituals mentioned in the scriptures. Krishna assures him that once his mind becomes completely focused and unwavering in divine consciousness (samadhi), he will achieve true yoga or union with the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रुतिविप्रतिपन्ना | वेदों को सुनने से विचलित |
+| ते | तुम्हारी |
+| यदा | जब |
+| स्थास्यति | स्थित होगी |
+| निश्चला | अचल |
+| समाधौ | समाधि में |
+| अचला | स्थिर |
+| बुद्धिः | बुद्धि |
+| तदा | तब |
+| योगम् | योग को |
+| अवाप्स्यसि | प्राप्त करोगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrutivipratipannā | bewildered by hearing |
+| te | your |
+| yadā | when |
+| sthāsyati | shall remain |
+| niścalā | unmoved |
+| samādhau | in divine consciousness |
+| acalā | unwavering |
+| buddhiḥ | intelligence |
+| tadā | then |
+| yogam | yoga (self-realization) |
+| avāpsyasi | you will attain |
+

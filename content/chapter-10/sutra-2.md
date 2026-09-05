@@ -31,3 +31,57 @@ position: 374
 
 ```
 
+
+### Transliteration
+```
+na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ
+ahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अपनी सर्वोपरि स्थिति और अनादि स्वरूप के बारे में बता रहे हैं। वे कहते हैं कि देवता और महान ऋषि भी उनकी उत्पत्ति के रहस्य को नहीं समझ सकते, क्योंकि वे स्वयं उन सभी के आदि कारण हैं। सृष्टि के सभी जीवों की बुद्धि और अस्तित्व भगवान से ही उत्पन्न होते हैं, इसलिए कोई भी अपनी सीमित बुद्धि से उनके पूर्ण स्वरूप को नहीं जान सकता।
+
+### Meaning
+
+In this verse, Lord Krishna explains His supreme position and beginningless nature to Arjuna. He states that neither the celestial demigods nor the great sages can comprehend His origin, because He is the primeval source of them all. Since the intellect and existence of all beings emanate from Him, no one can fully grasp His divine nature with limited understanding.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| मे | मेरी |
+| विदुः | जानते हैं |
+| सुर-गणाः | देवतागण |
+| प्रभवम् | उत्पत्ति को (या प्रभाव को) |
+| न | न ही |
+| महर्षयः | महान ऋषिगण |
+| अहम् | मैं |
+| आदिः | आदि कारण (शुरुआत) |
+| हि | क्योंकि |
+| देवानाम् | देवताओं का |
+| महर्षीणाम् | महर्षियों का |
+| च | और |
+| सर्वशः | सब प्रकार से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| me | My |
+| viduḥ | know |
+| sura-gaṇāḥ | the hosts of demigods |
+| prabhavam | origin (or power) |
+| na | nor |
+| maharṣayaḥ | the great sages |
+| aham | I |
+| ādiḥ | the origin (source) |
+| hi | because |
+| devānām | of the demigods |
+| maharṣīṇām | of the great sages |
+| ca | and |
+| sarvaśaḥ | in all respects |
+

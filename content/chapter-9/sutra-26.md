@@ -31,3 +31,55 @@ position: 364
 
 ```
 
+
+### Transliteration
+```
+patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati
+tadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण भक्ति की सुगमता और उसकी महिमा का वर्णन कर रहे हैं। भगवान को प्रसन्न करने के लिए किसी बहुमूल्य वस्तु की आवश्यकता नहीं है, बल्कि केवल सच्ची भक्ति और प्रेम की आवश्यकता है। यदि कोई अत्यंत साधारण वस्तु जैसे पत्ता, फूल, फल या केवल जल भी प्रेम से अर्पित करता है, तो भगवान उसे सहर्ष स्वीकार करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the simplicity and universality of devotion. He explains that He does not require expensive or elaborate offerings; rather, He values the love and devotion behind the offering. Even the simplest things like a leaf, flower, fruit, or water are accepted by Him with joy if offered with a pure and loving heart.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पत्रम् | पत्ता |
+| पुष्पम् | फूल |
+| फलम् | फल |
+| तोयम् | जल |
+| यः | जो |
+| मे | मुझे |
+| भक्त्या | भक्ति से / प्रेमपूर्वक |
+| प्रयच्छति | अर्पित करता है |
+| तत् | उस |
+| अहम् | मैं |
+| भक्ति-उपहृतम् | भक्तिपूर्वक भेंट किए गए उपहार को |
+| अश्नामि | ग्रहण करता हूँ / खाता हूँ |
+| प्रयत-आत्मनः | शुद्ध अंतःकरण वाले (भक्त) का |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| patram | a leaf |
+| puṣpam | a flower |
+| phalam | a fruit |
+| toyam | water |
+| yaḥ | whoever |
+| me | to Me |
+| bhaktyā | with devotion |
+| prayacchati | offers |
+| tat | that |
+| aham | I |
+| bhakti-upahṛtam | offered with devotion |
+| aśnāmi | accept / eat |
+| prayata-ātmanaḥ | of the pure-minded / self-controlled person |
+

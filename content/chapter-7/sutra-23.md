@@ -31,3 +31,57 @@ position: 303
 
 ```
 
+
+### Transliteration
+```
+antavattu phalaṃ teṣāṃ tadbhavatyalpamedhasām
+devāndevayajo yānti madbhaktā yānti māmapi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जो लोग भौतिक कामनाओं के लिए अन्य देवताओं की पूजा करते हैं, उन्हें मिलने वाला फल नाशवान और सीमित होता है। देवताओं की आराधना करने वाले उन्हीं देवलोकों को प्राप्त करते हैं जो स्वयं अनित्य हैं। इसके विपरीत, जो अनन्य भाव से परमेश्वर की भक्ति करते हैं, वे उनके अविनाशी परम धाम को प्राप्त करते हैं जहाँ से पुनः पतन नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna explains that the fruits obtained by those who worship other deities for material desires are temporary and perishable. The worshipers of these deities reach their respective celestial abodes, which are themselves transient. In contrast, those who worship the Supreme Lord with unalloyed devotion attain His eternal abode, from which there is no return to the cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अन्तवत् | नाशवान (अन्त वाला) |
+| तु | परन्तु |
+| फलम् | फल |
+| तेषाम् | उनका |
+| तत् | वह |
+| भवति | होता है |
+| अल्प-मेधसाम् | अल्प बुद्धि वालों का |
+| देवान् | देवताओं को |
+| देव-यजः | देवताओं के पूजक |
+| यान्ति | प्राप्त होते हैं |
+| मद्-भक्ताः | मेरे भक्त |
+| यान्ति | प्राप्त होते हैं |
+| माम् | मुझको |
+| अपि | भी / ही |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| antavat | perishable (having an end) |
+| tu | but |
+| phalam | the fruit |
+| teṣām | of theirs |
+| tat | that |
+| bhavati | becomes |
+| alpa-medhasām | of those of small intelligence |
+| devān | to the demigods |
+| deva-yajaḥ | the worshipers of the demigods |
+| yānti | go |
+| mad-bhaktāḥ | My devotees |
+| yānti | go |
+| mām | to Me |
+| api | also / indeed |
+

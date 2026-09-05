@@ -31,3 +31,51 @@ position: 308
 
 ```
 
+
+### Transliteration
+```
+yeṣāṃ tvantagataṃ pāpaṃ janānāṃ puṇyakarmaṇām
+te dvandvamohanirmuktā bhajante māṃ dṛḍhavratāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि कौन लोग उनकी अनन्य भक्ति करने के योग्य होते हैं। जिन मनुष्यों के पूर्व जन्मों और इस जन्म के पाप कर्म पूरी तरह समाप्त हो चुके हैं और जो केवल पुण्य कर्मों में लगे हैं, वे ही संसार के द्वन्द्वों (जैसे सुख-दुःख, राग-द्वेष) के मोह से मुक्त हो पाते हैं। ऐसे पवित्र चित्त वाले साधक ही दृढ़ निश्चय के साथ भगवान की शरण ग्रहण करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains who is eligible to perform undivided devotion to Him. Those individuals whose sins have been completely eradicated through virtuous deeds are freed from the delusion of dualities like pleasure and pain, or attraction and aversion. With a purified mind, they become steadfast in their resolve and engage in the worship of the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| येषाम् | जिनका |
+| तु | परन्तु |
+| अन्तगतम् | नष्ट हो गया है |
+| पापम् | पाप |
+| जनानाम् | मनुष्यों का |
+| पुण्यकर्मणाम् | पुण्य कर्म करने वालों का |
+| ते | वे |
+| द्वन्द्वमोहनिर्मुक्ताः | द्वन्द्व रूपी मोह से सर्वथा मुक्त |
+| भजन्ते | भजते हैं (भक्ति करते हैं) |
+| माम् | मुझको |
+| दृढव्रताः | दृढ़ निश्चय वाले होकर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yeṣām | of whom |
+| tu | but |
+| antagatam | has come to an end |
+| pāpam | sin |
+| janānām | of the persons |
+| puṇyakarmaṇām | whose deeds are meritorious |
+| te | they |
+| dvandvamohanirmuktāḥ | freed from the delusion of dualities |
+| bhajante | worship |
+| mām | Me |
+| dṛḍhavratāḥ | with firm determination |
+

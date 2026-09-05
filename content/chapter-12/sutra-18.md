@@ -31,3 +31,49 @@ position: 487
 
 ```
 
+
+### Transliteration
+```
+samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ
+śītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस भक्त के गुणों का वर्णन कर रहे हैं जो उन्हें अत्यंत प्रिय है। ऐसा व्यक्ति अनुकूल और प्रतिकूल दोनों परिस्थितियों में अपना मानसिक संतुलन बनाए रखता है। वह किसी के प्रति द्वेष या विशेष आसक्ति नहीं रखता और भौतिक द्वंद्वों से अप्रभावित रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the qualities of a devotee who is very dear to Him. Such a person maintains mental equanimity in both favorable and unfavorable circumstances. He does not harbor hatred or special attachment toward anyone and remains unaffected by material dualities.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| समः | समान |
+| शत्रौ | शत्रु में |
+| च | और |
+| मित्रे | मित्र में |
+| च | और |
+| तथा | तथा |
+| मान-अपमानयोः | मान और अपमान में |
+| शीत-उष्ण-सुख-दुःखेषु | सर्दी, गर्मी, सुख और दुःख में |
+| समः | समान (रहने वाला) |
+| सङ्ग-विवर्जितः | आसक्ति से सर्वथा रहित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| samaḥ | equal |
+| śatrau | to an enemy |
+| ca | and |
+| mitre | to a friend |
+| ca | and |
+| tathā | also |
+| māna-apamānayoḥ | in honor and dishonor |
+| śīta-uṣṇa-sukha-duḥkheṣu | in cold, heat, pleasure, and pain |
+| samaḥ | equanimous |
+| saṅga-vivarjitaḥ | free from attachment |
+

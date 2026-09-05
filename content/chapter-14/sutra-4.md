@@ -31,3 +31,51 @@ position: 528
 
 ```
 
+
+### Transliteration
+```
+sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ
+tāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि संसार की सभी योनियों में उत्पन्न होने वाले सभी जीवों की माता भौतिक प्रकृति (महत्-ब्रह्म) है। भगवान स्वयं उस प्रकृति रूपी गर्भ में चेतना का बीज स्थापित करने वाले परम पिता हैं। इस प्रकार, प्रकृति और पुरुष के संयोग से ही समस्त सृष्टि का सृजन होता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that material nature (mahat-brahma) acts as the womb or mother for all living entities born in various species. The Lord Himself is the supreme seed-giving father who injects the consciousness (the individual souls) into this material nature. Thus, the union of material nature and the spiritual seed results in the manifestation of all living beings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्व-योनिषु | सभी योनियों में |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| मूर्तयः | शरीर / आकृतियाँ |
+| सम्भवन्ति | उत्पन्न होती हैं |
+| याः | जो भी |
+| तासाम् | उन सब की |
+| ब्रह्म महत् | महत्-ब्रह्म (महान प्रकृति) |
+| योनिः | गर्भ (माता) |
+| अहम् | मैं |
+| बीज-प्रदः | बीज देने वाला |
+| पिता | पिता हूँ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarva-yoniṣu | in all wombs |
+| kaunteya | O son of Kunti |
+| mūrtayaḥ | forms / bodily manifestations |
+| sambhavanti | are born / produced |
+| yāḥ | which |
+| tāsām | of them |
+| brahma mahat | the great material nature |
+| yoniḥ | the womb |
+| aham | I |
+| bīja-pradaḥ | the seed-giving |
+| pitā | father |
+

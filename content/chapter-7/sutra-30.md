@@ -31,3 +31,55 @@ position: 310
 
 ```
 
+
+### Transliteration
+```
+sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ
+prayāṇakāle'pi ca māṃ te viduryuktacetasaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सातवें अध्याय का उपसंहार करते हैं। वे बताते हैं कि जो भक्त उन्हें भौतिक जगत (अधिभूत), देवताओं (अधिदैव) और यज्ञों (अधियज्ञ) के नियामक के रूप में समग्र रूप से जानते हैं, वे मृत्यु के समय भी विचलित नहीं होते। ऐसे स्थिर चित्त वाले पुरुष अंतकाल में भी भगवान के ही स्वरूप का स्मरण करते हुए परम गति को प्राप्त करते हैं।
+
+### Meaning
+
+In this concluding verse of the seventh chapter, Lord Krishna explains that those who comprehend Him as the underlying principle of the material realm (adhibhūta), the celestial realm (adhidaiva), and all sacrifices (adhiyajña) possess complete knowledge. Such steadfast souls, with their minds fully absorbed in the Divine, do not lose their awareness of Him even at the critical moment of death, thereby attaining Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| स-अधिभूत-अधिदैवम् | अधिभूत और अधिदैव के सहित |
+| माम् | मुझको |
+| स-अधियज्ञम् | अधियज्ञ के सहित |
+| च | और |
+| ये | जो |
+| विदुः | जानते हैं |
+| प्रयाण-काले | अंतकाल में / मृत्यु के समय |
+| अपि | भी |
+| च | और |
+| माम् | मुझको |
+| ते | वे |
+| विदुः | जानते हैं |
+| युक्त-चेतसः | स्थिर चित्त वाले (पुरुष) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sa-adhibhūta-adhidaivam | along with the material manifestation and the divine powers |
+| mām | Me |
+| sa-adhiyajñam | along with the lord of all sacrifices |
+| ca | and |
+| ye | those who |
+| viduḥ | know |
+| prayāṇa-kāle | at the time of death |
+| api | even |
+| ca | and |
+| mām | Me |
+| te | they |
+| viduḥ | know |
+| yukta-cetasaḥ | those of steadfast mind |
+

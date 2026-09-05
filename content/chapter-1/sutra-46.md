@@ -32,3 +32,53 @@ slay me in battle, unresisting and unarmed, that would be better for me.
 
 ```
 
+
+### Transliteration
+```
+yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ
+dhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन अपनी गहरी निराशा और वैराग्य को व्यक्त कर रहे हैं। वे मानते हैं कि अपने ही स्वजनों की हत्या करके राज्य प्राप्त करने से बेहतर है कि वे बिना कोई विरोध किए युद्धभूमि में मारे जाएं। यह उनके मन में चल रहे भारी नैतिक द्वंद्व और युद्ध के प्रति पूर्ण विरक्ति को दर्शाता है।
+
+### Meaning
+
+In this verse, Arjuna expresses his deep despair and despondency. He believes that it would be far better for him to be killed on the battlefield without offering any resistance than to acquire a kingdom by slaughtering his own kinsmen. This highlights his intense moral conflict and complete aversion to the impending war.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदि | यदि |
+| माम् | मुझ |
+| अप्रतीकारम् | प्रतिकार न करने वाले को |
+| अशस्त्रम् | शस्त्ररहित को |
+| शस्त्रपाणयः | हाथ में शस्त्र लिए हुए |
+| धार्तराष्ट्राः | धृतराष्ट्र के पुत्र |
+| रणे | युद्ध में |
+| हन्युः | मार डालें |
+| तत् | वह |
+| मे | मेरे लिए |
+| क्षेमतरम् | अधिक कल्याणकारी |
+| भवेत् | होगा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadi | if |
+| mām | me |
+| apratīkāram | unresisting |
+| aśastram | unarmed |
+| śastrapāṇayaḥ | with weapons in hand |
+| dhārtarāṣṭrāḥ | the sons of Dhritarashtra |
+| raṇe | in battle |
+| hanyuḥ | should kill |
+| tat | that |
+| me | for me |
+| kṣemataram | better |
+| bhavet | would be |
+

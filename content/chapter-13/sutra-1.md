@@ -31,3 +31,64 @@ position: 490
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+prakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñameva ca
+etadveditumicchāmi jñānaṃ jñeyaṃ ca keśava
+
+```
+
+### भावार्थ
+
+यह श्लोक भगवद्गीता के तेरहवें अध्याय का प्रारंभ करता है, जहाँ अर्जुन भगवान कृष्ण से छह महत्वपूर्ण दार्शनिक तत्वों के बारे में प्रश्न पूछते हैं। ये तत्व हैं: प्रकृति (भौतिक जगत), पुरुष (चेतन आत्मा), क्षेत्र (शरीर या कर्मक्षेत्र), क्षेत्रज्ञ (आत्मा या ज्ञाता), ज्ञान (सच्ची समझ), और ज्ञेय (जानने योग्य परम सत्य)। कृष्ण इन प्रश्नों का उत्तर देकर ज्ञानयोग का उपदेश देते हैं।
+
+### Meaning
+
+This verse marks the beginning of the thirteenth chapter of the Bhagavad Gita, where Arjuna asks Lord Krishna about six key philosophical concepts. These are prakriti (matter), purusha (spirit), kshetra (the field of activity/body), kshetrajna (the knower of the field/soul), jnana (knowledge), and jneya (the object of knowledge). Krishna addresses these inquiries to explain the path of knowledge (Jnana Yoga).
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| प्रकृतिम् | प्रकृति को |
+| पुरुषम् | पुरुष को |
+| च | और |
+| एव | भी |
+| क्षेत्रम् | क्षेत्र (शरीर) को |
+| क्षेत्रज्ञम् | क्षेत्रज्ञ (आत्मा) को |
+| एव | ही |
+| च | और |
+| एतत् | यह सब |
+| वेदितुम् | जानने के लिए |
+| इच्छामि | मैं चाहता हूँ |
+| ज्ञानम् | ज्ञान को |
+| ज्ञेयम् | जानने योग्य को |
+| च | और |
+| केशव | हे केशव |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| prakṛtim | nature (matter) |
+| puruṣam | the enjoyer (spirit) |
+| ca | and |
+| eva | also |
+| kṣetram | the field (the body) |
+| kṣetrajñam | the knower of the field (the soul) |
+| eva | indeed |
+| ca | and |
+| etat | this |
+| veditum | to know |
+| icchāmi | I wish |
+| jñānam | knowledge |
+| jñeyam | the object of knowledge |
+| ca | and |
+| keśava | O Keshava |
+

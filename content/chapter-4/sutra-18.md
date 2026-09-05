@@ -31,3 +31,57 @@ position: 180
 
 ```
 
+
+### Transliteration
+```
+karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ
+sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt
+
+```
+
+### भावार्थ
+
+यह श्लोक कर्म और अकर्म के वास्तविक स्वरूप को स्पष्ट करता है। जो मनुष्य यह समझता है कि अनासक्त भाव से किया गया कर्म वास्तव में अकर्म है क्योंकि वह बंधन का कारण नहीं बनता, वही सच्चा ज्ञानी है। इसके विपरीत, जो शारीरिक रूप से कर्म छोड़ देता है लेकिन मन से विषयों में लिप्त रहता है, उसका वह अकर्म भी कर्म ही है। ऐसा समदर्शी व्यक्ति ही मनुष्यों में बुद्धिमान और सच्चा योगी है।
+
+### Meaning
+
+This verse clarifies the true nature of action and inaction. A wise person understands that work performed without attachment does not bind the soul, making it spiritual inaction. Conversely, merely renouncing physical activities while the mind dwells on worldly desires is actually binding action. One who realizes this profound truth is a true yogi and the most intelligent among human beings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्मणि | कर्म में |
+| अकर्म | अकर्म को |
+| यः | जो |
+| पश्येत् | देखता है |
+| अकर्मणि | अकर्म में |
+| च | और |
+| कर्म | कर्म को |
+| यः | जो |
+| सः | वह |
+| बुद्धिमान् | बुद्धिमान है |
+| मनुष्येषु | मनुष्यों में |
+| सः | वह |
+| युक्तः | योगी है |
+| कृत्स्नकर्मकृत् | सम्पूर्ण कर्मों को करने वाला है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karmaṇi | in action |
+| akarma | inaction |
+| yaḥ | who |
+| paśyet | sees |
+| akarmaṇi | in inaction |
+| ca | and |
+| karma | action |
+| yaḥ | who |
+| saḥ | he |
+| buddhimān | wise |
+| manuṣyeṣu | among men |
+| saḥ | he |
+| yuktaḥ | yogi |
+| kṛtsnakarmakṛt | performer of all actions |
+

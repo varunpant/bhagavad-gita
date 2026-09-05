@@ -31,3 +31,61 @@ position: 700
 
 ```
 
+
+### Transliteration
+```
+tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ
+vismayo me mahān rājan hṛṣyāmi ca punaḥ punaḥ
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र से कहते हैं कि भगवान कृष्ण के उस अत्यंत अलौकिक और विराट रूप का स्मरण करके वे विस्मय से भर जाते हैं। यह अलौकिक अनुभव उन्हें केवल आश्चर्यचकित ही नहीं करता, बल्कि उनके हृदय को परम आनंद और रोमांच से भी भर देता है। वे इस दिव्य दर्शन के प्रभाव को बार-बार महसूस कर रहे हैं।
+
+### Meaning
+
+Sanjaya expresses to Dhritarashtra his profound awe upon recalling the cosmic, wondrous form of Lord Krishna. This divine memory not only leaves him utterly amazed but also fills his heart with repeated waves of spiritual ecstasy. He is deeply moved by the privilege of having witnessed such a supreme manifestation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत् | उस |
+| च | और |
+| संस्मृत्य | स्मरण करके |
+| संस्मृत्य | बार-बार स्मरण करके |
+| रूपम् | रूप को |
+| अति | अत्यंत |
+| अद्भुतम् | अद्भुत |
+| हरेः | श्रीहरि के |
+| विस्मयः | आश्चर्य |
+| मे | मेरा / मुझे |
+| महान् | महान |
+| राजन् | हे राजन (धृतराष्ट्र) |
+| हृष्यामि | मैं हर्षित हो रहा हूँ |
+| च | और |
+| पुनः | बार-बार |
+| पुनः | फिर से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tat | that |
+| ca | and |
+| saṃsmṛtya | remembering |
+| saṃsmṛtya | remembering repeatedly |
+| rūpam | form |
+| ati | extremely |
+| adbhutam | wonderful |
+| hareḥ | of Lord Hari (Krishna) |
+| vismayaḥ | wonder / amazement |
+| me | my / to me |
+| mahān | great |
+| rājan | O King |
+| hṛṣyāmi | I rejoice |
+| ca | and |
+| punaḥ | again |
+| punaḥ | again |
+

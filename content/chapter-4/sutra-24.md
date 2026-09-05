@@ -31,3 +31,55 @@ position: 186
 
 ```
 
+
+### Transliteration
+```
+brahmārpaṇaṃ brahmahavirbrahmāgnau brahmaṇā hutam
+brahmaiva tena gantavyaṃ brahmakarmasamādhinā
+
+```
+
+### भावार्थ
+
+यह श्लोक उस ज्ञानी पुरुष की आध्यात्मिक दृष्टि का वर्णन करता है जिसे परम ज्ञान प्राप्त हो चुका है। ऐसे व्यक्ति के लिए कर्म का हर पहलू—यज्ञ का पात्र, आहुति, अग्नि, कर्ता और कर्म—परम ब्रह्म का ही स्वरूप है। इस प्रकार ईश्वर की चेतना में पूरी तरह लीन होकर कर्म करने से मनुष्य अंततः ब्रह्म को ही प्राप्त करता है।
+
+### Meaning
+
+This verse explains the spiritual vision of a person who has attained supreme knowledge. For such a person, every aspect of an action—the instruments, the offering, the fire, the doer, and the act itself—is seen as a manifestation of the Supreme Brahman. By performing duties with this complete absorption in God consciousness, one ultimately attains Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ब्रह्म | ब्रह्म |
+| अर्पणम् | अर्पण (यज्ञ का साधन) |
+| ब्रह्म | ब्रह्म |
+| हविः | आहुति |
+| ब्रह्म | ब्रह्म की |
+| अग्नौ | अग्नि में |
+| ब्रह्मणा | ब्रह्म के द्वारा |
+| हुतम् | हवन किया गया |
+| ब्रह्म | ब्रह्म |
+| एव | ही |
+| तेन | उसके द्वारा |
+| गन्तव्यम् | प्राप्त करने योग्य |
+| ब्रह्मकर्मसमाधिना | ब्रह्म रूपी कर्म में समाहित व्यक्ति द्वारा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| brahma | Brahman |
+| arpaṇam | the instrument of offering |
+| brahma | Brahman |
+| haviḥ | the oblation |
+| brahma | of Brahman |
+| agnau | in the fire |
+| brahmaṇā | by Brahman |
+| hutam | offered |
+| brahma | Brahman |
+| eva | indeed |
+| tena | by him |
+| gantavyam | to be attained |
+| brahmakarmasamādhinā | by the one who is fully absorbed in action that is Brahman |
+

@@ -31,3 +31,55 @@ position: 231
 
 ```
 
+
+### Transliteration
+```
+sparśān kṛtvā bahir bāhyāṃś cakṣuś caivāntare bhruvoḥ
+prāṇāpānau samau kṛtvā nāsābhyantara-cāriṇau
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ध्यान योग (अष्टांग योग) की व्यावहारिक विधि का वर्णन कर रहे हैं। मन को एकाग्र करने के लिए बाहरी इंद्रिय विषयों के विचारों को बाहर ही छोड़ना पड़ता है। आँखों को आधा खुला रखकर दृष्टि को भ्रूमध्य में स्थिर किया जाता है और प्राणायाम के द्वारा श्वास-प्रश्वास की गति को सम किया जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the practical technique of Dhyana Yoga (meditation). To concentrate the mind, one must exclude external sensory distractions. By fixing the gaze between the eyebrows and regulating the incoming and outgoing breaths (Prana and Apana) through the nostrils, the mind is brought into a state of equilibrium.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| स्पर्शान् | बाहरी स्पर्शों (विषयों) को |
+| कृत्वा | करके |
+| बहिः | बाहर |
+| बाह्यान् | बाहरी |
+| चक्षुः | नेत्रों को |
+| च | और |
+| एव | ही |
+| अन्तरे | बीच में |
+| भ्रुवोः | दोनों भौंहों के |
+| प्राण-अपानौ | प्राण और अपान वायु को |
+| समौ | समान |
+| कृत्वा | करके |
+| नासा-अभ्यन्तर-चारिणौ | नासिका के भीतर विचरने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sparśān | external sense objects |
+| kṛtvā | making / keeping |
+| bahiḥ | outside |
+| bāhyān | external |
+| cakṣuḥ | the eyes |
+| ca | and |
+| eva | indeed |
+| antare | between |
+| bhruvoḥ | the two eyebrows |
+| prāṇa-apānau | the incoming and outgoing breaths |
+| samau | equal |
+| kṛtvā | making |
+| nāsā-abhyantara-cāriṇau | moving within the nostrils |
+

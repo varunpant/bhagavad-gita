@@ -31,3 +31,51 @@ position: 517
 
 ```
 
+
+### Transliteration
+```
+samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram
+vinaśyatsvavinaśyantaṃ yaḥ paśyati sa paśyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण वास्तविक दृष्टि की परिभाषा देते हैं। भौतिक शरीर नाशवान हैं, परंतु उनके भीतर वास करने वाली परमात्मा की सत्ता अमर और अविनाशी है। जो व्यक्ति इस सत्य को समझकर सभी प्राणियों में एक ही ईश्वर को समान रूप से देखता है, वही ज्ञानी है और उसी की दृष्टि सत्य है।
+
+### Meaning
+
+In this verse, Lord Krishna defines true vision. While physical bodies are subject to destruction, the Supreme Lord dwelling within them is eternal and imperishable. One who perceives this underlying spiritual unity across all diverse and perishable beings possesses the true, spiritual vision.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| समम् | समान रूप से |
+| सर्वेषु | सभी |
+| भूतेषु | जीवों में |
+| तिष्ठन्तम् | स्थित |
+| परम-ईश्वरम् | परमेश्वर को |
+| विनाश्यत्सु | नष्ट होने वालों में |
+| अविनाश्यन्तम् | अविनाशी को |
+| यः | जो |
+| पश्यति | देखता है |
+| सः | वह |
+| पश्यति | वास्तव में देखता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| samam | equally |
+| sarveṣu | in all |
+| bhūteṣu | beings |
+| tiṣṭhantam | dwelling |
+| parama-īśvaram | the Supreme Lord |
+| vinaśyatsu | among the perishable |
+| avinaśyantam | the imperishable |
+| yaḥ | who |
+| paśyati | sees |
+| saḥ | he |
+| paśyati | truly sees |
+

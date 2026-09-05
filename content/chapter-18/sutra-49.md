@@ -31,3 +31,45 @@ position: 672
 
 ```
 
+
+### Transliteration
+```
+asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ
+naiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण निष्काम कर्मयोग और संन्यास की पराकाष्ठा का वर्णन कर रहे हैं। जब साधक की बुद्धि संसार के किसी भी विषय में आसक्त नहीं रहती, वह अपने मन और इन्द्रियों पर पूर्ण विजय प्राप्त कर लेता है और उसकी सभी भौतिक कामनाएँ समाप्त हो जाती हैं, तब वह नैष्कर्म्य-सिद्धि को प्राप्त होता है। यह वह अवस्था है जहाँ कर्म करते हुए भी मनुष्य कर्म के बन्धन से सर्वथा मुक्त रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the pinnacle of self-realization and renunciation. When a seeker's intellect is completely unattached to worldly objects, when they have mastered their mind and senses, and are entirely free from desires, they attain the state of actionlessness (naishkarmya-siddhi). This is the supreme state where, even while performing actions, one remains entirely free from the bondage of karma.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| असक्त-बुद्धिः | आसक्ति-रहित बुद्धि वाला |
+| सर्वत्र | सब जगह (सभी विषयों में) |
+| जित-आत्मा | जीता हुआ मन और इन्द्रियों वाला |
+| विगत-स्पृहः | चली गई है स्पृहा (कामना) जिसकी ऐसा |
+| नैष्कर्म्य-सिद्धिम् | नैष्कर्म्य-सिद्धि को (कर्म-बन्धन से मुक्ति को) |
+| परमाम् | परम |
+| संन्यासेन | संन्यास (त्याग) के द्वारा |
+| अधिगच्छति | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| asakta-buddhiḥ | one whose intellect is unattached |
+| sarvatra | everywhere |
+| jita-ātmā | one who has controlled the mind and senses |
+| vigata-spṛhaḥ | one who is free from desires |
+| naiṣkarmya-siddhim | the perfection of actionlessness |
+| paramām | supreme |
+| saṃnyāsena | by renunciation |
+| adhigacchati | attains |
+

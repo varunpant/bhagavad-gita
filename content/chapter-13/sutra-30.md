@@ -31,3 +31,55 @@ position: 519
 
 ```
 
+
+### Transliteration
+```
+prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ
+yaḥ paśyati tathātmānamakartāraṃ sa paśyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि संसार के सभी कर्म प्रकृति के गुणों द्वारा संचालित होते हैं। जीवात्मा अज्ञानवश स्वयं को कर्ता मान लेता है। जो व्यक्ति इस सत्य को जान लेता है कि शुद्ध आत्मा निष्क्रिय और निर्लिप्त है, वही यथार्थ दृष्टि रखता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that all activities in the material world are carried out by material nature (prakriti). The true self (atman) is transcendental and does not perform any action. One who realizes this distinction between the active nature and the inactive self possesses true spiritual vision.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रकृत्या | प्रकृति के द्वारा |
+| एव | ही |
+| च | और |
+| कर्माणि | कर्मों को |
+| क्रियमाणानि | किये जाते हुए |
+| सर्वशः | सब प्रकार से |
+| यः | जो |
+| पश्यति | देखता है |
+| तथा | तथा |
+| आत्मानम् | आत्मा को |
+| अकर्तारम् | अकर्ता (न करने वाला) |
+| सः | वह |
+| पश्यति | वास्तव में देखता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prakṛtyā | by nature |
+| eva | alone |
+| ca | and |
+| karmāṇi | actions |
+| kriyamāṇāni | being performed |
+| sarvaśaḥ | all-around / in all respects |
+| yaḥ | who |
+| paśyati | sees |
+| tathā | and also |
+| ātmānam | the self |
+| akartāram | as the non-doer |
+| saḥ | he |
+| paśyati | actually sees |
+

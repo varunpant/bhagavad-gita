@@ -31,3 +31,53 @@ position: 182
 
 ```
 
+
+### Transliteration
+```
+tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ
+karmaṇyabhipravṛtto'pi naiva kiñcitkaroti saḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण निष्काम कर्मयोग की अवस्था का वर्णन कर रहे हैं। जो व्यक्ति अपने कर्मों के फल की इच्छा को पूरी तरह से छोड़ देता है, वह भीतर से हमेशा संतुष्ट और स्वतंत्र रहता है। ऐसा ज्ञानी पुरुष संसार के सभी कार्यों में सक्रिय रूप से भाग लेते हुए भी वास्तव में कोई कर्म नहीं करता, क्योंकि उसके कर्म उसे किसी बंधन में नहीं डालते।
+
+### Meaning
+
+In this verse, Lord Krishna describes the state of a perfect Karma Yogi. A person who has completely given up attachment to the results of their actions remains eternally satisfied and independent within. Even while being fully engaged in all worldly activities, such an enlightened person actually does nothing, as their actions do not create any karmic bondage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| त्यक्त्वा | त्याग कर |
+| कर्मफलासङ्गम् | कर्म के फलों की आसक्ति को |
+| नित्यतृप्तः | हमेशा संतुष्ट |
+| निराश्रयः | आश्रय रहित |
+| कर्मणि | कर्म में |
+| अभिप्रवृत्तः | पूरी तरह लगा हुआ |
+| अपि | भी |
+| न | नहीं |
+| एव | निश्चय ही |
+| किञ्चित् | कुछ भी |
+| करोति | करता है |
+| सः | वह |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tyaktvā | having abandoned |
+| karmaphalāsaṅgam | attachment to the fruits of action |
+| nityatṛptaḥ | always satisfied |
+| nirāśrayaḥ | without dependence |
+| karmaṇi | in action |
+| abhipravṛttaḥ | fully engaged |
+| api | even though |
+| na | not |
+| eva | certainly |
+| kiñcit | anything |
+| karoti | does |
+| saḥ | he |
+

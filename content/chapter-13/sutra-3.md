@@ -31,3 +31,57 @@ position: 492
 
 ```
 
+
+### Transliteration
+```
+kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata
+kṣetrakṣetrajñayorjñānaṃ yattajjñānaṃ mataṃ mama
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रत्येक शरीर (क्षेत्र) में जो जीवात्मा है, वह तो क्षेत्रज्ञ है ही, परंतु उन सभी शरीरों में परमात्मा रूप से स्थित वे स्वयं भी क्षेत्रज्ञ हैं। भौतिक शरीर और उसमें वास करने वाली आत्मा तथा परमात्मा के इस भेद और संबंध को जानना ही वास्तविक ज्ञान है। अन्य सभी सांसारिक विद्याएँ इस आध्यात्मिक ज्ञान के समक्ष गौण हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that He is the ultimate Knower (Ksetrajna) residing within all individual bodies (Ksetras) as the Supersoul. True knowledge, according to Krishna, consists of understanding the distinction between the physical body, the individual soul, and the Supreme Soul. Any understanding that excludes this spiritual relationship is considered incomplete.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| क्षेत्रज्ञम् | क्षेत्रज्ञ को (ज्ञाता को) |
+| च | और |
+| अपि | भी |
+| माम् | मुझको |
+| विद्धि | जानो |
+| सर्व-क्षेत्रेषु | सब क्षेत्रों में |
+| भारत | हे भरतवंशी अर्जुन |
+| क्षेत्र-क्षेत्रज्ञयोः | क्षेत्र और क्षेत्रज्ञ का |
+| ज्ञानम् | ज्ञान |
+| यत् | जो |
+| तत् | वह |
+| ज्ञानम् | ज्ञान |
+| मतम् | मत (विचार) |
+| मम | मेरा है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kṣetrajñam | the knower of the field |
+| ca | and |
+| api | also |
+| mām | Me |
+| viddhi | know |
+| sarva-kṣetreṣu | in all fields |
+| bhārata | O descendant of Bharata |
+| kṣetra-kṣetrajñayoḥ | of the field and the knower of the field |
+| jñānam | knowledge |
+| yat | which |
+| tat | that |
+| jñānam | knowledge |
+| matam | opinion |
+| mama | My |
+

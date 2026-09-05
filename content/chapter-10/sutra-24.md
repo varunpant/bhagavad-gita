@@ -32,3 +32,55 @@ position: 396
 
 ```
 
+
+### Transliteration
+```
+purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim
+senānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अपनी विभूतियों का वर्णन करते हुए बताते हैं कि वे पुरोहितों में सबसे श्रेष्ठ देवगुरु बृहस्पति हैं। वे सेनापतियों में कार्तिकेय (स्कन्द) हैं, जो देवसेना के सेनापति हैं। स्थिर जलाशयों में वे विशाल और अगाध समुद्र हैं, जो उनकी अनंतता को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine opulences to Arjuna, identifying Himself as Brihaspati, the chief priest of the demigods. Among military commanders, He is Skanda (Kartikeya), the general of the celestial army. Among reservoirs of water, He is the vast and deep ocean, representing His boundless nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पुरोधसाम् | पुरोहितों में |
+| च | और |
+| मुख्यम् | मुख्य (प्रधान) |
+| माम् | मुझको |
+| विद्धि | जानो |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| बृहस्पतिम् | बृहस्पति |
+| सेनानीनाम् | सेनापतियों में |
+| अहम् | मैं |
+| स्कन्दः | स्कन्द (कार्तिकेय) |
+| सरसाम् | जलाशयों में |
+| अस्मि | हूँ |
+| सागरः | समुद्र |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| purodhasām | of priests |
+| ca | and |
+| mukhyaṃ | the chief |
+| māṃ | me |
+| viddhi | know |
+| pārtha | O Partha (son of Pritha) |
+| bṛhaspatim | Brihaspati |
+| senānīnām | of generals |
+| ahaṃ | I am |
+| skandaḥ | Skanda (Kartikeya) |
+| sarasām | of reservoirs of water |
+| asmi | I am |
+| sāgaraḥ | the ocean |
+

@@ -32,3 +32,59 @@ in war, Asvatthama, Vikarna, and also Bhurisrava, the son of Somadatta.
 
 ```
 
+
+### Transliteration
+```
+bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ
+aśvatthāmā vikarṇaśca saumadattistathaiva ca
+
+```
+
+### भावार्थ
+
+दुर्योधन अपने गुरु द्रोणाचार्य को अपनी सेना के प्रमुख योद्धाओं के नाम गिनाना जारी रखता है। वह स्वयं द्रोणाचार्य, पितामह भीष्म, कर्ण और कृपाचार्य जैसे अजेय महारथियों का उल्लेख करता है। इन महान शूरवीरों का नाम लेकर दुर्योधन अपना आत्मविश्वास बढ़ाने और अपनी सेना की श्रेष्ठता सिद्ध करने का प्रयास कर रहा है।
+
+### Meaning
+
+Duryodhana continues to list the principal warriors of his own army to his preceptor Dronacharya. He highlights the most formidable commanders, starting with Drona himself, followed by the grandsire Bhishma, Karna, and Kripa. By naming these invincible heroes, Duryodhana attempts to boost his own confidence and assure his teacher of their military superiority.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भवान् | आप |
+| भीष्मः | भीष्म |
+| च | और |
+| कर्णः | कर्ण |
+| च | और |
+| कृपः | कृपाचार्य |
+| च | और |
+| समितिञ्जयः | युद्ध में विजयी |
+| अश्वत्थामा | अश्वत्थामा |
+| विकर्णः | विकर्ण |
+| च | और |
+| सौमदत्तिः | सोमदत्त के पुत्र भूरिश्रवा |
+| तथा | तथा |
+| एव | ही |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhavān | you |
+| bhīṣmaḥ | Bhishma |
+| ca | and |
+| karṇaḥ | Karna |
+| ca | and |
+| kṛpaḥ | Kripa |
+| ca | and |
+| samitiñjayaḥ | victorious in battle |
+| aśvatthāmā | Ashvatthama |
+| vikarṇaḥ | Vikarna |
+| ca | and |
+| saumadattiḥ | the son of Somadatta |
+| tathā | as well as |
+| eva | certainly |
+| ca | and |
+

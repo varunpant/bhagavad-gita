@@ -31,3 +31,53 @@ position: 258
 
 ```
 
+
+### Transliteration
+```
+śanaiḥ śanair uparamed buddhyā dhṛtigṛhītayā
+ātmasaṃsthaṃ manaḥ kṛtvā na kiñcid api cintayet
+
+```
+
+### भावार्थ
+
+इस श्लोक में ध्यान योग की अभ्यास विधि बताई गई है। साधक को चाहिए कि वह धैर्यपूर्वक बुद्धि के सहारे मन को धीरे-धीरे संसार से हटाए। जब मन पूर्णतः आत्मा में लीन हो जाए, तब किसी अन्य सांसारिक वस्तु का विचार नहीं करना चाहिए।
+
+### Meaning
+
+This verse describes the practical method of meditation. The practitioner is advised to gradually withdraw the mind from external objects using an intellect sustained by fortitude. Once the mind is firmly established in the Self, one should remain in that state of silence without harboring any other thoughts.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| शनैः | धीरे-धीरे |
+| शनैः | धीरे-धीरे |
+| उपरमेत् | उपरत (स्थिर) होना चाहिए |
+| बुद्ध्या | बुद्धि के द्वारा |
+| धृति-गृहीतया | धैर्यपूर्वक धारण की हुई |
+| आत्म-संस्थम् | आत्मा में स्थित |
+| मनः | मन को |
+| कृत्वा | करके |
+| ना | नहीं |
+| किञ्चित् | कुछ भी |
+| अपि | भी |
+| चिन्तयेत् | चिन्तन करना चाहिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śanaiḥ | gradually |
+| śanaiḥ | gradually |
+| uparamet | one should attain tranquility |
+| buddhyā | by the intellect |
+| dhṛti-gṛhītayā | held with fortitude |
+| ātma-saṃstham | established in the Self |
+| manaḥ | the mind |
+| kṛtvā | having made |
+| na | not |
+| kiñcit | anything |
+| api | even |
+| cintayet | should think |
+

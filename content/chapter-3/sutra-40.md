@@ -31,3 +31,53 @@ position: 159
 
 ```
 
+
+### Transliteration
+```
+indriyāṇi mano buddhirasyādhiṣṭhānamucyate
+etairvimohayatyeṣa jñānamāvṛtya dehinam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण बताते हैं कि काम (वासना) मनुष्य के भीतर कहाँ निवास करता है। इन्द्रियाँ, मन और बुद्धि इस काम के मुख्य निवास स्थान हैं। इन स्थानों पर कब्ज़ा करके काम मनुष्य के वास्तविक ज्ञान को ढक देता है और जीवात्मा को मोह में डाल देता है।
+
+### Meaning
+
+In this verse, Lord Krishna identifies the strategic locations where lust resides within the human body. By occupying the senses, mind, and intelligence, lust clouds a person's true knowledge. Once the discriminative power is covered, it easily deludes the embodied soul into material entanglement.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इन्द्रियाणि | इन्द्रियाँ |
+| मनः | मन |
+| बुद्धिः | बुद्धि |
+| अस्य | इसका |
+| अधिष्ठानम् | निवास स्थान |
+| उच्यते | कहा जाता है |
+| एतैः | इनके द्वारा |
+| विमोहयति | मोहित करता है |
+| एषः | यह |
+| ज्ञानम् | ज्ञान को |
+| आवृत्य | ढककर |
+| देहिनम् | देहधारी को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| indriyāṇi | the senses |
+| manaḥ | the mind |
+| buddhiḥ | the intelligence |
+| asya | of this |
+| adhiṣṭhānam | sitting place |
+| ucyate | is called |
+| etaiḥ | by these |
+| vimohayati | deludes |
+| eṣaḥ | this |
+| jñānam | knowledge |
+| āvṛtya | covering |
+| dehinam | the embodied soul |
+

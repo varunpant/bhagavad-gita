@@ -31,3 +31,47 @@ position: 256
 
 ```
 
+
+### Transliteration
+```
+taṃ vidyād duḥkhasaṃyogaviyogaṃ yogasaṃjñitam
+sa niścayena yoktavyo yogo'nirviṇṇacetasā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण योग की वास्तविक परिभाषा बताते हैं, जो कि दुखों के संयोग से सर्वथा मुक्ति (वियोग) है। इस परम स्थिति को प्राप्त करने के लिए मनुष्य को बिना निराश हुए, पूर्ण संकल्प और उत्साह के साथ निरंतर ध्यान का अभ्यास करना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna defines Yoga as the state of complete dissociation from the contact of pain. To achieve this state of equanimity, one must practice meditation with firm determination and a mind free from despondency or depression.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तम् | उसको |
+| विद्यात् | जानना चाहिए |
+| दुःख-संयोग-वियोगम् | दुःख के संयोग के वियोग रूप को |
+| योग-संज्ञितम् | योग नाम से पुकारे जाने वाले |
+| सः | वह |
+| निश्चयेन | निश्चयपूर्वक |
+| योक्तव्यः | अभ्यास किया जाना चाहिए |
+| योगः | योग |
+| अनिर्विण्ण-चेतसा | बिना उद्वेग (उदास) हुए चित्त से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tam | that |
+| vidyāt | one should know |
+| duḥkha-saṃyoga-viyogaṃ | the severance of union with pain |
+| yoga-saṃjñitam | known by the name of Yoga |
+| saḥ | that |
+| niścayena | with determination |
+| yoktavyaḥ | should be practiced |
+| yogaḥ | Yoga |
+| anirviṇṇa-cetasā | with an undesponding mind |
+

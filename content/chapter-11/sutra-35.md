@@ -31,3 +31,64 @@ position: 449
 
 ```
 
+
+### Transliteration
+```
+sañjaya uvāca
+etacchrutvā vacanaṃ keśavasya kṛtāñjalirvepamānaḥ kirīṭī
+namaskṛtā bhūya evāha kṛṣṇaṃ sagadgadaṃ bhītabhītaḥ praṇamya
+
+```
+
+### भावार्थ
+
+इस श्लोक में संजय धृतराष्ट्र को युद्धभूमि की स्थिति बता रहे हैं। भगवान कृष्ण के विश्वरूप और उनके वचनों को सुनकर अर्जुन अत्यंत विस्मित और भयभीत हो गए हैं। वे अत्यंत आदर और भय के मिश्रित भाव से काँपते हुए भगवान कृष्ण के सम्मुख नतमस्तक होते हैं और प्रार्थना करने के लिए उद्यत होते हैं।
+
+### Meaning
+
+In this verse, Sanjaya describes Arjuna's reaction to Dhritarashtra. Having witnessed the cosmic form and heard the words of Lord Krishna, Arjuna is filled with awe and fear. Trembling and with folded hands, he bows down repeatedly and prepares to speak in a choked, emotional voice.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सञ्जयः | संजय |
+| उवाच | ने कहा |
+| एतत् | इस |
+| श्रुत्वा | सुनकर |
+| वचनम् | वचन को |
+| केशवस्य | केशव के |
+| कृत-अञ्जलिः | हाथ जोड़े हुए |
+| वेपमानः | काँपते हुए |
+| किरीटी | मुकुटधारी (अर्जुन) |
+| नमस्कृत्वा | नमस्कार करके |
+| भूयः | फिर से |
+| एव | ही |
+| आह | बोले |
+| कृष्णम् | कृष्ण से |
+| स-गद्गदम् | गद्गद वाणी के साथ |
+| भीत-भीतः | अत्यंत भयभीत होकर |
+| प्रणम्य | प्रणाम करके |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sañjayaḥ | Sanjaya |
+| uvāca | said |
+| etat | this |
+| śrutvā | having heard |
+| vacanam | speech |
+| keśavasya | of Keshava |
+| kṛta-añjaliḥ | with folded hands |
+| vepamānaḥ | trembling |
+| kirīṭī | the crowned one (Arjuna) |
+| namaskṛtvā | having bowed down |
+| bhūyaḥ | again |
+| eva | indeed |
+| āha | spoke |
+| kṛṣṇam | to Krishna |
+| sa-gadgadam | with a faltering voice |
+| bhīta-bhītaḥ | overwhelmed with fear |
+| praṇamya | having prostrated |
+

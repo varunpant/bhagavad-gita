@@ -31,3 +31,57 @@ position: 224
 
 ```
 
+
+### Transliteration
+```
+na prahṛṣyetpriyaṃ prāpya nodvijetprāpya cāpriyam
+sthirabuddhirasammūḍho brahmavidbrahmaṇi sthitaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण एक आत्म-साक्षात्कारी और ब्रह्म में स्थित व्यक्ति के लक्षणों का वर्णन करते हैं। ऐसा व्यक्ति अनुकूल परिस्थितियों के आने पर न तो अत्यधिक प्रसन्न होता है और न ही प्रतिकूल परिस्थितियों में दुखी या विचलित होता है। उसकी बुद्धि स्थिर और मोहरहित होती है, जिसके कारण वह निरंतर परब्रह्म के साथ अपने वास्तविक स्वरूप का अनुभव करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a self-realized soul who is situated in transcendence. Such a person remains perfectly equanimous in all situations, neither elated by favorable events nor depressed by unfavorable ones. Because their intellect is steady and free from delusion, they constantly experience their true spiritual identity in connection with the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| प्रहृष्येत् | हर्षित हो |
+| प्रियम् | प्रिय को |
+| प्राप्य | प्राप्त करके |
+| न | नहीं |
+| उद्विजेत् | उद्विग्न हो |
+| प्राप्य | प्राप्त करके |
+| च | और |
+| अप्रियम् | अप्रिय को |
+| स्थिरबुद्धिः | स्थिर बुद्धि वाला |
+| असम्मूढः | मोहरहित |
+| ब्रह्मवित् | ब्रह्म को जानने वाला |
+| ब्रह्मणि | ब्रह्म में |
+| स्थितः | स्थित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| prahṛṣyet | should rejoice |
+| priyam | the pleasant |
+| prāpya | having obtained |
+| na | not |
+| udvijet | should be agitated |
+| prāpya | having obtained |
+| ca | and |
+| apriyam | the unpleasant |
+| sthirabuddhiḥ | one with steady intelligence |
+| asammūḍhaḥ | unbewildered |
+| brahmavit | knower of Brahman |
+| brahmaṇi | in Brahman |
+| sthitaḥ | situated |
+

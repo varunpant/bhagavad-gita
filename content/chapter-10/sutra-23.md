@@ -31,3 +31,55 @@ position: 395
 
 ```
 
+
+### Transliteration
+```
+rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām
+vasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए बताते हैं कि वे रुद्रों में कल्याणकारी शिव (शंकर) हैं। वे यक्षों और राक्षसों में धन के स्वामी कुबेर हैं। आठ वसुओं में वे पवित्र करने वाली अग्नि हैं और सभी ऊंचे शिखरों वाले पर्वतों में वे सुमेरु पर्वत हैं।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine opulences, identifying Himself with the most prominent entities in various categories. Among the Rudras, He is Shankara (Shiva); among the Yakshas and Rakshasas, He is Kubera (the lord of wealth). Among the eight Vasus, He is Agni (fire); and among the peaked mountains, He is Mount Meru.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| रुद्राणाम् | रुद्रों में |
+| शङ्करः | शंकर (शिव) |
+| च | और |
+| अस्मि | हूँ |
+| वित्तेशः | धन का स्वामी (कुबेर) |
+| यक्ष-रक्षसाम् | यक्षों और राक्षसों में |
+| वसूनामम् | वसुओं में |
+| पावकः | अग्नि |
+| च | और |
+| अस्मि | हूँ |
+| मेरुः | सुमेरु पर्वत |
+| शिखरिणाम् | शिखरवाले पर्वतों में |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rudrāṇām | of the Rudras |
+| śaṅkaraḥ | Shankara (Shiva) |
+| ca | and |
+| asmi | I am |
+| vitteśaḥ | the lord of wealth (Kubera) |
+| yakṣa-rakṣasām | of the Yakshas and Rakshasas |
+| vasūnām | of the Vasus |
+| pāvakaḥ | fire (Agni) |
+| ca | and |
+| asmi | I am |
+| meruḥ | Meru |
+| śikhariṇām | of the peaked mountains |
+| aham | I |
+

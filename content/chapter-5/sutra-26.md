@@ -31,3 +31,43 @@ position: 230
 
 ```
 
+
+### Transliteration
+```
+kāmakrodhaviyuktānāṃ yatīnāṃ yatacetasām
+abhito brahmanirvāṇaṃ vartate viditātmanām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन संन्यासियों की स्थिति का वर्णन करते हैं जिन्होंने काम और क्रोध पर पूर्ण विजय प्राप्त कर ली है। ऐसे संयमित चित्त वाले और आत्मज्ञानी पुरुषों के लिए जीवित रहते हुए भी और शरीर छूटने के बाद भी, सब ओर केवल परमानन्द स्वरूप ब्रह्मनिर्वाण ही विद्यमान रहता है। यह कर्मयोग और ज्ञानयोग की चरम परिणति है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the state of those ascetics who have completely freed themselves from lust and anger. For these self-controlled and self-realized souls, the supreme peace of liberation in Brahman is present everywhere, both in this life and the next. This represents the ultimate culmination of spiritual discipline and self-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| काम-क्रोध-वियुक्तानाम् | काम और क्रोध से सर्वथा मुक्त |
+| यतीनाम् | प्रयत्नशील संन्यासियों के लिए |
+| यत-चेतसाम् | वश में किए हुए चित्त वाले |
+| अभितः | सब ओर से / दोनों ओर (जीवित और मृत अवस्था में) |
+| ब्रह्म-निर्वाणम् | परम शांति रूप ब्रह्मनिर्वाण |
+| वर्तते | विद्यमान रहता है |
+| विदित-आत्मनाम् | आत्मज्ञानी पुरुषों के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kāma-krodha-viyuktānām | of those who are free from desire and anger |
+| yatīnām | of the self-controlled ascetics |
+| yata-cetasām | of those who have controlled their minds |
+| abhitaḥ | everywhere / on all sides |
+| brahma-nirvāṇam | liberation in Brahman / supreme peace |
+| vartate | exists / is present |
+| vidita-ātmanām | of those who have realized the Self |
+

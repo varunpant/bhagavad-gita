@@ -31,3 +31,69 @@ position: 445
 
 ```
 
+
+### Transliteration
+```
+ākhyāhi me ko bhavānugrarūpo
+namo'stu te devavara prasīda
+vijñātumiacchāmi bhavantamādyaṃ
+na hi prajānāmi tava pravṛttim
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण के अत्यंत भयानक विश्वरूप को देखकर अर्जुन भयभीत हो जाते हैं और उनसे प्रार्थना करते हैं। वे भगवान से उनके इस संहारक रूप का रहस्य और उनके वास्तविक प्रयोजन को प्रकट करने की याचना कर रहे हैं। अर्जुन यह समझने में असमर्थ हैं कि इस महाविनाशकारी रूप के पीछे भगवान की क्या लीला है।
+
+### Meaning
+
+Terrified by the fierce, all-devouring cosmic form of Lord Krishna, Arjuna pleads for an explanation. He bows down to the Supreme Lord, asking Him to reveal His true identity and the purpose behind this destructive manifestation. Arjuna confesses his inability to comprehend the divine plan and activities of the Primal Being in this terrifying aspect.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आख्याहि | बताइए |
+| मे | मुझे |
+| कः | कौन |
+| भवान् | आप |
+| उग्र-रूपः | उग्र रूप वाले |
+| नमः | नमस्कार |
+| अस्तु | हो |
+| ते | आपको |
+| देव-वर | हे देवश्रेष्ठ |
+| प्रसीद | प्रसन्न होइए |
+| विज्ञातुम् | विशेष रूप से जानने के लिए |
+| इच्छामि | चाहता हूँ |
+| भवन्तम् | आपको |
+| आद्यम् | आदिपुरुष को |
+| न | नहीं |
+| हि | क्योंकि |
+| प्रजानामि | मैं भली-भांति जानता हूँ |
+| तव | आपकी |
+| प्रवृत्तिम् | चेष्टा को या प्रवृत्ति को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ākhyāhi | tell |
+| me | to me |
+| kaḥ | who |
+| bhavān | you |
+| ugra-rūpaḥ | of fierce form |
+| namaḥ | salutations |
+| astu | let there be |
+| te | unto you |
+| deva-vara | O best of gods |
+| prasīda | be gracious |
+| vijñātum | to know |
+| icchāmi | I wish |
+| bhavantam | you |
+| ādyam | the primal one |
+| na | not |
+| hi | indeed |
+| prajānāmi | I understand |
+| tava | your |
+| pravṛttim | activity or purpose |
+

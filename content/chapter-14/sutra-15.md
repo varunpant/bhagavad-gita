@@ -31,3 +31,49 @@ position: 539
 
 ```
 
+
+### Transliteration
+```
+rajasi pralayaṃ gatvā karmasaṅgiṣu jāyate
+tathā pralīnastamasi mūḍhayoniṣu jāyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण बताते हैं कि मृत्यु के समय व्यक्ति के भीतर जिस गुण की प्रधानता होती है, उसी के अनुसार उसकी अगली गति निर्धारित होती है। यदि कोई व्यक्ति रजोगुण की प्रधानता के समय शरीर त्यागता है, तो वह सकाम कर्म करने वाले मनुष्यों के बीच जन्म लेता है। वहीं, यदि तमोगुण की प्रधानता में मृत्यु होती है, तो जीवात्मा पशु-पक्षी या अन्य अज्ञानी योनियों में जन्म पाती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains how the dominant mode (guna) at the time of death determines the soul's next destination. If a person dies when the mode of passion (rajas) is predominant, they are reborn among humans who are attached to fruitive activities. Conversely, if one dies when the mode of ignorance (tamas) prevails, they are reborn in the animal kingdom or other lower, deluded species.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| रजसि | रजोगुण में |
+| प्रलयम् | मृत्यु को |
+| गत्वा | प्राप्त होकर |
+| कर्म-सङ्गिषु | कर्मों में आसक्ति वालों में |
+| जायते | जन्म लेता है |
+| तथा | वैसे ही |
+| प्रलीनः | मरा हुआ (लीन हुआ) |
+| तमसि | तमोगुण में |
+| मूढ-योनिषु | अज्ञानी (पशु आदि) योनियों में |
+| जायते | जन्म लेता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rajasi | in the mode of passion |
+| pralayam | dissolution / death |
+| gatvā | having attained |
+| karma-saṅgiṣu | among those attached to action |
+| jāyate | is born |
+| tathā | likewise |
+| pralīnaḥ | one who dies |
+| tamasi | in the mode of ignorance |
+| mūḍha-yoniṣu | in the wombs of the deluded / ignorant |
+| jāyate | is born |
+

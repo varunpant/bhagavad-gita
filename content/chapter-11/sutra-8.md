@@ -31,3 +31,61 @@ position: 422
 
 ```
 
+
+### Transliteration
+```
+na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā
+divyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि उनकी प्राकृत आँखें उनके विराट रूप को देखने में असमर्थ हैं। इसलिए, वे अर्जुन को अलौकिक या दिव्य दृष्टि प्रदान करते हैं। इस दिव्य दृष्टि के माध्यम से ही अर्जुन भगवान के परम ऐश्वर्य और योगशक्ति का दर्शन कर सकते हैं।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that his physical eyes are incapable of beholding the cosmic form. Therefore, He bestows upon Arjuna divine vision or spiritual eyes. Only through this supernatural sight can Arjuna perceive the supreme majesty and mystic power of the Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| तु | परन्तु |
+| माम् | मुझको |
+| शक्यसे | तुम समर्थ हो |
+| द्रष्टुम् | देखने के लिए |
+| अनेन | इस |
+| एव | ही |
+| स्वचक्षुषा | अपनी आँखों से |
+| दिव्यम् | अलौकिक / दिव्य |
+| ददामि | मैं देता हूँ |
+| ते | तुम्हें |
+| चक्षुः | दृष्टि / आँखें |
+| पश्य | देखो |
+| मे | मेरे |
+| योगम् | योगशक्ति को |
+| ऐश्वरम् | ईश्वरीय / ऐश्वर्यमय |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| tu | but |
+| mām | Me |
+| śakyase | you are able |
+| draṣṭum | to see |
+| anena | with this |
+| eva | indeed |
+| svacakṣuṣā | your own eyes |
+| divyam | divine |
+| dadāmi | I give |
+| te | to you |
+| cakṣuḥ | vision / eyes |
+| paśya | behold |
+| me | My |
+| yogam | mystic power |
+| aiśvaram | majestic / divine |
+

@@ -33,3 +33,57 @@ these I name to thee for thy information.
 
 ```
 
+
+### Transliteration
+```
+asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama
+nāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te
+
+```
+
+### भावार्थ
+
+दुर्योधन अपने गुरु द्रोणाचार्य का ध्यान अपनी सेना के प्रमुख योद्धाओं की ओर आकर्षित कर रहा है। पांडवों की सेना का वर्णन करने के बाद, वह अपनी सेना की शक्ति का बखान करना चाहता है। इसका मुख्य उद्देश्य गुरु द्रोणाचार्य को अपनी सेना की मजबूती का अहसास कराना और उनका उत्साह बढ़ाना है।
+
+### Meaning
+
+Duryodhana now draws the attention of his teacher, Dronacharya, to the principal warriors of his own army. After describing the Pandava forces, he wants to highlight the strength of his own side. His intention is to reassure Dronacharya of their military might and to boost the morale of his commanders.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अस्माकम् | हमारे |
+| तु | किन्तु |
+| विशिष्टाः | प्रमुख |
+| ये | जो |
+| तान् | उनको |
+| निबोध | जान लीजिए |
+| द्विजोत्तम | हे ब्राह्मण श्रेष्ठ |
+| नायकाः | सेनापति |
+| मम | मेरी |
+| सैन्यस्य | सेना के |
+| संज्ञार्थम् | जानकारी के लिए |
+| तान् | उन्हें |
+| ब्रवीमि | बताता हूँ |
+| ते | आपको |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| asmākam | our |
+| tu | but |
+| viśiṣṭāḥ | principal |
+| ye | who |
+| tān | them |
+| nibodha | know |
+| dvijottama | O best of Brahmanas |
+| nāyakāḥ | commanders |
+| mama | my |
+| sainyasya | of the army |
+| saṃjñārtham | for information |
+| tān | them |
+| bravīmi | I tell |
+| te | to you |
+

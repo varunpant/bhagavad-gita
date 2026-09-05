@@ -31,3 +31,51 @@ position: 184
 
 ```
 
+
+### Transliteration
+```
+yadṛcchālābhasantuṣṭo dvandvātīto vimatsaraḥ
+samaḥ siddhāvasiddhau ca kṛtvāpi na nibadhyate
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण एक मुक्त पुरुष की मानसिकता का वर्णन करते हैं जो बिना किसी आसक्ति के कर्म करता है। ऐसा व्यक्ति स्वाभाविक रूप से जो कुछ भी प्राप्त होता है, उसी में संतुष्ट रहता है और सुख-दुख जैसे द्वंद्वों तथा ईर्ष्या से मुक्त होता है। सफलता और विफलता दोनों में समान भाव रखने के कारण, वह कर्म करते हुए भी कर्मबंधनों में नहीं बंधता।
+
+### Meaning
+
+Krishna describes the mindset of a truly liberated person who performs actions without attachment. Such a person accepts whatever comes naturally without excessive striving, remains unaffected by dualities like joy and sorrow, and harbors no envy. Because they maintain equanimity in both success and failure, their actions do not create karmic bondage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदृच्छालाभसन्तुष्टः | अपने आप प्राप्त होने वाले लाभ से संतुष्ट |
+| द्वन्द्वातीतः | द्वंद्वों से मुक्त |
+| विमत्सरः | ईर्ष्या से रहित |
+| समः | समान |
+| सिद्धौ | सफलता में |
+| असिद्धौ | असफलता में |
+| च | और |
+| कृत्वा | कर्म करके |
+| अपि | भी |
+| न | नहीं |
+| निबध्यते | बंधता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadṛcchālābhasantuṣṭaḥ | satisfied with gain coming of its own accord |
+| dvandvātītaḥ | transcended dualities |
+| vimatsaraḥ | free from envy |
+| samaḥ | steady |
+| siddhau | in success |
+| asiddhau | in failure |
+| ca | and |
+| kṛtvā | having acted |
+| api | even |
+| na | never |
+| nibadhyate | is bound |
+

@@ -31,3 +31,55 @@ position: 621
 
 ```
 
+
+### Transliteration
+```
+sadbhāve sādhubhāve ca sadityetatprayujyate
+praśaste karmaṇi tathā sacchabdaḥ pārtha yujyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण 'ॐ तत् सत्' महामंत्र के 'सत्' शब्द की व्याख्या कर रहे हैं। 'सत्' शब्द का प्रयोग परम सत्य या अस्तित्व (सद्भाव) और श्रेष्ठता या साधुता (साधुभाव) को दर्शाने के लिए किया जाता है। इसके अतिरिक्त, समाज और धर्म के कल्याण के लिए किए जाने वाले किसी भी प्रशंसनीय या मांगलिक कार्य के लिए भी 'सत्' शब्द का प्रयोग किया जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the significance of the word 'Sat' from the sacred threefold designation 'Om Tat Sat'. 'Sat' is employed to indicate eternal reality (existence) and goodness (virtue). Furthermore, any auspicious, noble, or praiseworthy action performed in accordance with the scriptures is also designated as 'Sat'.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सद्भावे | अस्तित्व के भाव में (सत्यता में) |
+| साधुभावे | श्रेष्ठता के भाव में (अच्छाई में) |
+| च | और |
+| सत् | 'सत्' |
+| इति | इस प्रकार |
+| एतत् | यह |
+| प्रयुज्यते | प्रयोग किया जाता है |
+| प्रशस्ते | प्रशंसनीय (कल्याणकारी) |
+| कर्मणि | कर्म में |
+| तथा | तथा |
+| सच्छब्दः | 'सत्' शब्द |
+| पार्थ | हे अर्जुन (प्रथा के पुत्र) |
+| युज्यते | जोड़ा जाता है (प्रयोग किया जाता है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sadbhāve | in the sense of existence (reality) |
+| sādhubhāve | in the sense of goodness (virtue) |
+| ca | and |
+| sat | 'Sat' |
+| iti | thus |
+| etat | this |
+| prayujyate | is used |
+| praśaste | in auspicious (praiseworthy) |
+| karmaṇi | action |
+| tathā | likewise |
+| sacchabdaḥ | the word 'Sat' |
+| pārtha | O Partha (Arjuna) |
+| yujyate | is applied |
+

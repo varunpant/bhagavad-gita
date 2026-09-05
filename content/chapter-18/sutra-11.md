@@ -31,3 +31,57 @@ position: 634
 
 ```
 
+
+### Transliteration
+```
+na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ
+yastu karmaphalatyāgī sa tyāgītyabhidhīyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि जब तक मनुष्य के पास भौतिक शरीर है, तब तक पूर्ण रूप से कर्मों का त्याग करना असंभव है, क्योंकि जीवन जीने के लिए भी कुछ न कुछ कर्म करने ही पड़ते हैं। इसलिए, वास्तविक संन्यास या त्याग कर्मों को छोड़ने में नहीं, बल्कि उनके फलों के प्रति आसक्ति को छोड़ने में है। जो व्यक्ति अपने कर्मों के परिणामों की इच्छा का त्याग कर देता है, वही सच्चा त्यागी माना जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that as long as one possesses a physical body, it is impossible to abandon all actions entirely, as even basic survival requires action. Therefore, true renunciation does not mean giving up action itself, but rather giving up attachment to the fruits of those actions. One who performs their duty without desiring the results is considered a genuine renouncer.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| हि | निश्चय ही |
+| देहभृता | शरीरधारी के द्वारा |
+| शक्यम् | सम्भव है |
+| त्यक्तुम् | त्याग करना |
+| कर्माणि | कर्मों का |
+| अशेषतः | पूर्ण रूप से |
+| यः | जो |
+| तु | परन्तु |
+| कर्मफलत्यागी | कर्म के फल का त्यागी है |
+| सः | वह |
+| त्यागी | त्यागी |
+| इति | ऐसा |
+| अभिधीयते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| hi | indeed |
+| dehabhṛtā | by an embodied being |
+| śakyam | is possible |
+| tyaktum | to renounce |
+| karmāṇi | actions |
+| aśeṣataḥ | entirely |
+| yaḥ | who |
+| tu | but |
+| karmaphalatyāgī | renouncer of the fruits of action |
+| saḥ | he |
+| tyāgī | a renouncer |
+| iti | thus |
+| abhidhīyate | is called |
+

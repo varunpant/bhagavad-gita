@@ -31,3 +31,59 @@ position: 323
 
 ```
 
+
+### Transliteration
+```
+om ity ekākṣaraṃ brahma vyāharan mām anusmaran
+yaḥ prayāti tyajan dehaṃ sa yāti paramāṃ gatim
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अंतकाल में प्राण त्यागने की विधि और उसके फल का वर्णन कर रहे हैं। जो साधक इंद्रियों को वश में करके, मन को हृदय में स्थिर कर, 'ॐ' नाम का उच्चारण करते हुए और परमात्मा का स्मरण करते हुए शरीर छोड़ता है, वह परम गति (मोक्ष) को प्राप्त करता है। यह अभ्यास जीवन भर के निरंतर ध्यान का परिणाम होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the method of departure at the time of death and its ultimate result. The seeker who restrains the senses, fixes the mind on the divine, utters the sacred syllable 'Om' (representing the absolute Brahman), and remembers the Supreme Lord while leaving the body, attains the highest spiritual destination. This state of final absorption is the culmination of lifelong practice and devotion.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ओम् | ॐ (प्रणव) |
+| इति | इस प्रकार |
+| एक-अक्षरम् | एक अक्षर रूप |
+| ब्रह्म | ब्रह्म को |
+| व्याहरन् | उच्चारण करता हुआ |
+| माम् | मुझको (परमात्मा को) |
+| अनुस्मरन् | निरन्तर स्मरण करता हुआ |
+| यः | जो |
+| प्रयाति | प्रयाण करता है (शरीर से बाहर जाता है) |
+| त्यजन् | त्यागता हुआ |
+| देहम् | शरीर को |
+| सः | वह |
+| याति | प्राप्त होता है |
+| परमाम् | परम |
+| गतिम् | गति को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| om | the sacred syllable Om |
+| iti | thus |
+| eka-akṣaram | the single syllable |
+| brahma | Brahman (the Absolute) |
+| vyāharan | uttering |
+| mām | Me |
+| anusmaran | remembering |
+| yaḥ | who |
+| prayāti | departs |
+| tyajan | leaving |
+| deham | the body |
+| saḥ | he |
+| yāti | attains |
+| paramām | the supreme |
+| gatim | destination |
+

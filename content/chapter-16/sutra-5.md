@@ -31,3 +31,55 @@ position: 576
 
 ```
 
+
+### Transliteration
+```
+daivī sampadvimokṣāya nibandhāyāsurī matā
+mā śucaḥ sampadaṃ daivīmabhijāto'si pāṇḍava
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को आश्वस्त करते हैं कि दैवी गुण मनुष्य को मुक्ति की ओर ले जाते हैं, जबकि आसुरी गुण उसे संसार के बन्धन में बाँधते हैं। अर्जुन को युद्ध के इस धर्मसंकट में व्याकुल देखकर कृष्ण कहते हैं कि उसे शोक करने की आवश्यकता नहीं है क्योंकि वह जन्म से ही दैवी गुणों से युक्त है। यह आश्वासन अर्जुन के भीतर के संशय और शोक को दूर करने के लिए दिया गया है।
+
+### Meaning
+
+In this verse, Lord Krishna reassures Arjuna that divine qualities lead to liberation, whereas demonic qualities lead to bondage. Seeing Arjuna in grief and dilemma, Krishna comforts him by stating that he need not worry as he is born with divine virtues. This assurance is meant to dispel Arjuna's anxiety about his duty and spiritual standing.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दैवी | दैवी (दिव्य) |
+| सम्पत् | सम्पदा (गुण) |
+| विमोक्षाय | मुक्ति के लिए |
+| निबन्धाय | बन्धन के लिए |
+| आसुरी | आसुरी सम्पदा |
+| मता | मानी गई है |
+| मा | मत |
+| शुचः | शोक करो |
+| सम्पदम् | सम्पदा को |
+| दैवीम् | दैवी |
+| अभिजातः | उत्पन्न (युक्त) |
+| असि | तुम हो |
+| पाण्डव | हे पाण्डव (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| daivī | the divine |
+| sampat | wealth (qualities) |
+| vimokṣāya | for liberation |
+| nibandhāya | for bondage |
+| āsurī | the demonic |
+| matā | is considered |
+| mā | do not |
+| śucaḥ | grieve |
+| sampadaṃ | qualities |
+| daivīm | divine |
+| abhijātaḥ | born with |
+| asi | you are |
+| pāṇḍava | O son of Pandu |
+

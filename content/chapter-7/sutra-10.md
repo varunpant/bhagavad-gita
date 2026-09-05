@@ -31,3 +31,53 @@ position: 290
 
 ```
 
+
+### Transliteration
+```
+bījaṃ māṃ sarvabhūtānāṃ viddhi pārtha sanātanam
+buddhir buddhimatām asmi tejas tejasvinām aham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि वे ही सृष्टि के समस्त चराचर प्राणियों के सनातन और अविनाशी कारण (बीज) हैं। इसके अतिरिक्त, वे बुद्धिमानों में विद्यमान विवेक-शक्ति और तेजस्वियों के ओज व प्रभाव के रूप में भी स्वयं को प्रकट करते हैं। इसका अर्थ है कि संसार में जो कुछ भी मूल, बुद्धि और तेज है, वह सब ईश्वर की ही अभिव्यक्ति है।
+
+### Meaning
+
+In this verse, Lord Krishna declares to Arjuna that He is the eternal, primeval seed of all existences. He is the source from which everything manifests and to which everything returns. Furthermore, He identifies Himself as the intellect of the intelligent and the brilliance of the glorious, emphasizing that all exceptional qualities in creation originate from Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बीजम् | बीज (मूल कारण) |
+| माम् | मुझको |
+| सर्व-भूतानाम् | समस्त प्राणियों का |
+| विद्धि | जानो |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| सनातनम् | सनातन (अनादि) |
+| बुद्धिः | बुद्धि |
+| बुद्धिमताम् | बुद्धिमानों की |
+| अस्मि | हूँ |
+| तेजः | तेज |
+| तेजस्विनाम् | तेजस्वियों का |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bījam | the seed (prime cause) |
+| mām | Me |
+| sarva-bhūtānām | of all living beings |
+| viddhi | know |
+| pārtha | O son of Pritha (Arjuna) |
+| sanātanam | eternal |
+| buddhiḥ | the intelligence |
+| buddhimatām | of the intelligent |
+| asmi | I am |
+| tejaḥ | the splendor |
+| tejasvinām | of the splendid |
+| aham | I |
+

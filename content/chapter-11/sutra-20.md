@@ -31,3 +31,69 @@ position: 434
 
 ```
 
+
+### Transliteration
+```
+dyāvāpṛthivyoridamantaraṃ hi
+vyāptaṃ tvayaikena diśaśca sarvāḥ
+dṛṣṭvā'dbhutaṃ rūpamugraṃ tavedaṃ
+lokatrayaṃ pravyathitaṃ mahātman
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप की सर्वव्यापकता और उसके प्रभाव का वर्णन कर रहे हैं। वे देखते हैं कि भगवान का यह विराट रूप स्वर्ग, पृथ्वी और सभी दिशाओं में फैला हुआ है। इस अत्यंत उग्र और विस्मयकारी रूप को देखकर तीनों लोकों के प्राणी भय से व्याकुल हो रहे हैं।
+
+### Meaning
+
+In this verse, Arjuna describes the all-pervading nature of Lord Krishna's cosmic form and its impact. He observes that this divine form fills the entire space between heaven and earth, as well as all directions. Seeing this terrifying yet wondrous manifestation, all the three worlds are trembling with fear and awe.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| द्यावापृथिव्योः | स्वर्ग और पृथ्वी के |
+| इदम् | यह |
+| अन्तरम् | बीच का स्थान (अंतराल) |
+| हि | निश्चय ही |
+| व्याप्तम् | व्याप्त है |
+| त्वया | आपके द्वारा |
+| एकेन | अकेले |
+| दिशः | दिशाएँ |
+| च | और |
+| सर्वाः | सभी |
+| दृष्ट्वा | देखकर |
+| अद्भुतम् | अद्भुत |
+| रूपम् | रूप को |
+| उग्रम् | उग्र (भयानक) |
+| तव | आपका |
+| इदम् | यह |
+| लोकत्रयम् | तीनों लोक |
+| प्रव्यथितम् | अत्यंत भयभीत (व्याकुल) |
+| महात्मन् | हे महात्मन् (महान आत्मा वाले) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dyāvāpṛthivyoḥ | of heaven and earth |
+| idam | this |
+| antaram | space between |
+| hi | indeed |
+| vyāptam | is pervaded |
+| tvayā | by You |
+| ekena | alone |
+| diśaḥ | directions |
+| ca | and |
+| sarvāḥ | all |
+| dṛṣṭvā | seeing |
+| adbhutam | wondrous |
+| rūpam | form |
+| ugram | terrible |
+| tava | Your |
+| idam | this |
+| lokatrayam | the three worlds |
+| pravyathitam | are trembling with fear |
+| mahātman | O Great Soul |
+

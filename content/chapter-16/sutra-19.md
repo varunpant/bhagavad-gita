@@ -31,3 +31,53 @@ position: 590
 
 ```
 
+
+### Transliteration
+```
+tān ahaṃ dviṣataḥ krūrān saṃsāreṣu narādhamān
+kṣipāmy ajasram aśubhān āsurīṣv eva yoniṣu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आसुरी स्वभाव वाले मनुष्यों के अंतिम परिणाम का वर्णन कर रहे हैं। जो लोग दूसरों से द्वेष करते हैं, क्रूर कर्मों में लिप्त रहते हैं और अधर्मी हैं, वे मानव जाति में सबसे अधम माने जाते हैं। भगवान उन्हें बार-बार संसार चक्र में आसुरी और नीच योनियों (जैसे पशु, पक्षी या क्रूर मनुष्यों के रूप में) में ही भेजते हैं ताकि वे अपने कर्मों का फल भोग सकें।
+
+### Meaning
+
+In this verse, Lord Krishna describes the ultimate fate of those possessing a demoniac nature. Those who are envious, cruel, and impure are considered the lowest among human beings. The Lord perpetually casts these degraded souls into demoniac and lower species of life within the cycle of material existence, where they continue to reap the fruits of their sinful actions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तान् | उन |
+| अहम् | मैं |
+| द्विषतः | द्वेष करने वालों को |
+| क्रूरान् | क्रूरों को |
+| संसारेषु | संसार चक्रों में |
+| नराधमान् | मनुष्यों में नीच |
+| क्षिपामि | फेंकता हूँ (गिराता हूँ) |
+| अजस्रम् | निरंतर |
+| अशुभान् | अशुभ (अपवित्र) लोगों को |
+| आसुरीषु | आसुरी |
+| एव | ही |
+| योनिषु | योनियों में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tān | those |
+| aham | I |
+| dviṣataḥ | the envious |
+| krūrān | the cruel |
+| saṃsāreṣu | in the cycles of material existence |
+| narādhamān | the lowest of mankind |
+| kṣipāmi | I cast |
+| ajasram | perpetually |
+| aśubhān | the impure / inauspicious |
+| āsurīṣu | into demoniac |
+| eva | certainly |
+| yoniṣu | wombs |
+

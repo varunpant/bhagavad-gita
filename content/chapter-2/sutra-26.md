@@ -31,3 +31,61 @@ position: 73
 
 ```
 
+
+### Transliteration
+```
+atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam
+tathāpi tvaṃ mahābāho naivaṃ śocitumarhasi
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन के समक्ष एक वैकल्पिक दृष्टिकोण प्रस्तुत करते हैं। यदि कोई यह मान ले कि आत्मा नित्य जन्म लेती है और नित्य मरती है, तो भी शोक करना अनुचित है। जन्म और मृत्यु एक अपरिहार्य प्राकृतिक प्रक्रिया है, इसलिए इस पर विलाप करना व्यर्थ है।
+
+### Meaning
+
+Lord Krishna presents an alternative perspective to Arjuna. Even if one accepts the premise that the soul is constantly born and constantly dies, grief is still unjustified. Birth and death are inevitable natural processes, making mourning pointless.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अथ | और यदि |
+| च | तथा |
+| एनम् | इसको |
+| नित्यजातम् | सदा जन्मने वाला |
+| नित्यम् | सदा |
+| वा | अथवा |
+| मन्यसे | मानते हो |
+| मृतम् | मरने वाला |
+| तथा | तो |
+| अपि | भी |
+| त्वम् | तुम |
+| महाबाहो | हे महाबाहु |
+| न | नहीं |
+| एवम् | इस प्रकार |
+| शोचितुम् | शोक करने |
+| अर्हसि | योग्य हो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| atha | if however |
+| ca | and |
+| enam | this |
+| nityajātam | constantly born |
+| nityam | constantly |
+| vā | or |
+| manyase | you think |
+| mṛtam | dead |
+| tathā | then |
+| api | even |
+| tvam | you |
+| mahābāho | O mighty-armed one |
+| na | not |
+| evam | thus |
+| śocitum | to grieve |
+| arhasi | you should |
+

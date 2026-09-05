@@ -31,3 +31,55 @@ position: 174
 
 ```
 
+
+### Transliteration
+```
+kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ
+kṣipraṃ hi mānuṣe loke siddhirbhavati karmajā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण बताते हैं कि लोग सकाम कर्मों में क्यों लगे रहते हैं। भौतिक इच्छाओं की पूर्ति और कार्यों में शीघ्र सफलता पाने के लिए मनुष्य विभिन्न देवताओं की पूजा करते हैं। इस मनुष्य लोक में भौतिक कर्मों का फल बहुत जल्दी प्राप्त होता है, इसलिए लोग भगवान की अनन्य भक्ति के बजाय देवताओं की ओर आकर्षित होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains why people engage in fruitive activities. Desiring quick fulfillment of material desires and success in their endeavors, humans worship various demigods. Because the results of material actions are attained very quickly in this human world, people are drawn to such worship rather than the unalloyed devotion to the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| काङ्क्षन्तः | चाहने वाले |
+| कर्मणाम् | कर्मों की |
+| सिद्धिम् | सफलता को |
+| यजन्ते | पूजा करते हैं |
+| इह | यहाँ (इस संसार में) |
+| देवताः | देवताओं की |
+| क्षिप्रम् | शीघ्र |
+| हि | निश्चित रूप से |
+| मानुषे | मनुष्य |
+| लोके | लोक में |
+| सिद्धिः | सफलता |
+| भवति | होती है |
+| कर्मजा | कर्म से उत्पन्न |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kāṅkṣantaḥ | desiring |
+| karmaṇām | of actions |
+| siddhim | success |
+| yajante | worship |
+| iha | here (in this world) |
+| devatāḥ | the demigods |
+| kṣipram | quickly |
+| hi | certainly |
+| mānuṣe | in human |
+| loke | world |
+| siddhiḥ | success |
+| bhavati | comes |
+| karmajā | born of action |
+

@@ -31,3 +31,47 @@ position: 650
 
 ```
 
+
+### Transliteration
+```
+rāgī karmaphalaprepsurlubdho hiṃsātmako'śuciḥ
+harṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण राजस कर्ता के लक्षणों का वर्णन कर रहे हैं। ऐसा व्यक्ति अपने कर्मों और उनके फलों से अत्यधिक आसक्त रहता है, उसमें लोभ की प्रधानता होती है, और वह अपने स्वार्थ के लिए दूसरों को हानि पहुँचाने से भी नहीं हिचकिचाता। वह मानसिक रूप से अपवित्र रहता है और सफलता-विफलता में अत्यधिक हर्ष तथा शोक का अनुभव करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a Rajasika (passionate) doer. Such a person is deeply attached to the actions and their fruits, driven by greed, and prone to causing harm to others for personal gain. Lacking internal purity, they are constantly tossed between the extremes of joy in success and grief in failure.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| रागी | आसक्ति युक्त |
+| कर्म-फल-प्रेप्सुः | कर्मों के फल को चाहने वाला |
+| लुब्धः | लोभी |
+| हिंसा-आत्मकः | दूसरों को कष्ट देने के स्वभाव वाला |
+| अशुचिः | अपवित्र |
+| हर्ष-शोक-अन्वितः | हर्ष और शोक से युक्त |
+| कर्ता | कर्ता |
+| राजसः | राजस |
+| परिकीर्तितः | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rāgī | attached |
+| karma-phala-prepsuḥ | desirous of the fruits of action |
+| lubdhaḥ | greedy |
+| hiṃsā-ātmakaḥ | harmful by nature |
+| aśuciḥ | impure |
+| harṣa-śoka-anvitaḥ | swayed by joy and sorrow |
+| kartā | doer |
+| rājasaḥ | passionate (rajasika) |
+| parikīrtitaḥ | is declared to be |
+

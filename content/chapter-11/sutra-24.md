@@ -31,3 +31,61 @@ position: 438
 
 ```
 
+
+### Transliteration
+```
+nabhaḥspṛśaṃ dīptamanekavarṇaṃ
+vyāttānanaṃ dīptaviśālanetram
+dṛṣṭvā hi tvāṃ pravyathitāntarātmā
+dhṛtiṃ na vindāmi śamaṃ ca viṣṇo
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के अत्यंत भयानक और विराट रूप को देखकर अपनी व्याकुलता व्यक्त कर रहे हैं। भगवान का यह रूप आकाश को छू रहा है और उनके अनेक मुख तथा विशाल नेत्र धधक रहे हैं। इस दृश्य को देखकर अर्जुन का हृदय भय से काँप उठता है और वे अपना मानसिक संतुलन तथा धैर्य खो बैठते हैं।
+
+### Meaning
+
+In this verse, Arjuna expresses his deep distress and terror upon witnessing the cosmic form of Lord Krishna. The form is so immense that it touches the sky, with blazing colors, gaping mouths, and huge, fiery eyes. Overwhelmed by this awe-inspiring and terrifying sight, Arjuna loses his inner composure, courage, and peace of mind.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| नभः-स्पृशम् | आकाश को छूने वाले |
+| दीप्तम् | देदीप्यमान (चमकते हुए) |
+| अनेक-वर्णम् | अनेक रंगों वाले |
+| व्यात्त-आननम् | खुले हुए मुखों वाले |
+| दीप्त-विशाल-नेत्रम् | चमकती हुई बड़ी आँखों वाले |
+| दृष्ट्वा | देखकर |
+| हि | निश्चय ही |
+| त्वाम् | आपको |
+| प्रव्यथित-अन्तरात्मा | भयभीत अन्तःकरण वाला (मैं) |
+| धृतिम् | धैर्य को |
+| न | नहीं |
+| विन्दामि | प्राप्त कर रहा हूँ |
+| शमम् | शान्ति को |
+| च | और |
+| विष्णो | हे विष्णु |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| nabhaḥ-spṛśam | touching the sky |
+| dīptam | glowing |
+| aneka-varṇam | multi-colored |
+| vyātta-ānanam | with wide-open mouths |
+| dīpta-viśāla-netram | with blazing large eyes |
+| dṛṣṭvā | seeing |
+| hi | indeed |
+| tvām | You |
+| pravyathita-antarātmā | my terrified innermost soul |
+| dhṛtim | courage |
+| na | not |
+| vindāmi | I find |
+| śamam | peace |
+| ca | and |
+| viṣṇo | O Vishnu |
+

@@ -31,3 +31,53 @@ position: 228
 
 ```
 
+
+### Transliteration
+```
+yo'ntaḥsukho'ntarārāmastathāntarjyotireva yaḥ
+sa yogī brahmanirvāṇaṃ brahmabhūto'dhigacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस योगी के लक्षणों का वर्णन करते हैं जो पूर्णतः अंतर्मुखी हो चुका है। ऐसा व्यक्ति बाहरी भौतिक विषयों में सुख नहीं ढूंढता, बल्कि अपने भीतर ही आनंद, शांति और ज्ञान का अनुभव करता है। वह जीवित रहते हुए ही ब्रह्म के साथ तादात्म्य स्थापित कर लेता है और अंततः मोक्ष (ब्रह्मनिर्वाण) को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a yogi who has become completely inward-looking. Such a person does not seek happiness in external material objects, but finds joy, peace, and illumination within the self. Having realized his spiritual identity, he becomes one with the Supreme and attains liberation in Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| अन्तःसुखः | भीतर ही सुख वाला है |
+| अन्तरारामः | भीतर ही रमण करने वाला है |
+| तथा | और |
+| अन्तर्ज्योतिः | भीतर ही ज्ञान की ज्योति वाला है |
+| एव | ही |
+| यः | जो |
+| सः | वह |
+| योगी | योगी |
+| ब्रह्मनिर्वाणम् | ब्रह्म-निर्वाण (परम शांति) को |
+| ब्रह्मभूतः | ब्रह्मरूप हुआ |
+| अधिगच्छति | प्राप्त होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| antaḥ-sukhaḥ | happy within |
+| antar-ārāmaḥ | rejoicing within |
+| tathā | and |
+| antar-jyotiḥ | illuminated within |
+| eva | only |
+| yaḥ | who |
+| saḥ | that |
+| yogī | yogi |
+| brahma-nirvāṇam | liberation in Brahman |
+| brahma-bhūtaḥ | having become Brahman |
+| adhigacchati | attains |
+

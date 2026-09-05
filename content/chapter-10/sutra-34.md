@@ -31,3 +31,61 @@ position: 406
 
 ```
 
+
+### Transliteration
+```
+mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām
+kīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि वे सब कुछ नष्ट करने वाली मृत्यु हैं। वे भविष्य में उत्पन्न होने वाले सभी प्राणियों की उत्पत्ति के स्रोत भी हैं। इसके अतिरिक्त, वे स्त्रियों में सात दिव्य गुणों—कीर्ति, लक्ष्मी (श्री), वाणी, स्मृति, बुद्धि (मेधा), धैर्य (धृति) और क्षमा के रूप में वास करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine manifestations, declaring Himself to be all-devouring Death, which ends everything. He is also the source of generation for all future beings. Furthermore, among feminine qualities, He represents the seven virtues: fame, fortune, fine speech, memory, intelligence, steadfastness, and forgiveness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मृत्युः | मृत्यु |
+| सर्वहरः | सबका हरण करने वाली |
+| च | और |
+| अहम् | मैं |
+| उद्भवः | उत्पत्ति का कारण |
+| च | और |
+| भविष्यताम् | भविष्य में होने वालों का |
+| कीर्तिः | कीर्ति (यश) |
+| श्रीः | श्री (लक्ष्मी/शोभा) |
+| वाक् | वाणी |
+| च | और |
+| नारीणाम् | स्त्रियों में |
+| स्मृतिः | स्मृति (याददाश्त) |
+| मेधा | मेधा (बुद्धि) |
+| धृतिः | धृति (धैर्य) |
+| क्षमा | क्षमा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mṛtyuḥ | death |
+| sarvaharaḥ | all-devouring |
+| ca | and |
+| aham | I am |
+| udbhavaḥ | the origin |
+| ca | and |
+| bhaviṣyatām | of those things that are to be |
+| kīrtiḥ | fame |
+| śrīḥ | prosperity / beauty |
+| vāk | speech |
+| ca | and |
+| nārīṇām | among women (or feminine qualities) |
+| smṛtiḥ | memory |
+| medhā | intelligence |
+| dhṛtiḥ | firmness / patience |
+| kṣamā | forgiveness |
+

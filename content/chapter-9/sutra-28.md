@@ -31,3 +31,45 @@ position: 366
 
 ```
 
+
+### Transliteration
+```
+śubhāśubhaphalairevaṃ mokṣyase karmabandhanaiḥ
+saṃnyāsayogayuktātmā vimukto māmupaiṣyasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को निष्काम कर्मयोग का फल बताते हैं। जब मनुष्य अपने सभी कर्मों को भगवान को समर्पित कर देता है, तो वह कर्मों के अच्छे और बुरे फलों के बंधन से मुक्त हो जाता है। इस प्रकार का समर्पण ही वास्तविक संन्यास है, जो साधक को अंततः परमात्मा से मिला देता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the fruit of dedicating all actions to Him. By offering everything to the Divine, a person becomes free from the binding reactions of both good and bad deeds. This state of complete surrender is true renunciation (sannyasa), which ultimately leads the seeker to union with God.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| शुभ-अशुभ-फलैः | अच्छे और बुरे फलों से |
+| एवम् | इस प्रकार |
+| मोक्ष्यसे | तुम मुक्त हो जाओगे |
+| कर्म-बन्धनैः | कर्म के बंधनों से |
+| संन्यास-योग-युक्त-आत्मा | संन्यास योग में युक्त मन वाला |
+| विमुक्तः | मुक्त होकर |
+| माम् | मुझको |
+| उपैष्यसि | तुम प्राप्त करोगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śubha-aśubha-phalaiḥ | from auspicious and inauspicious results |
+| evam | thus |
+| mokṣyase | you will be freed |
+| karma-bandhanaiḥ | from the bonds of action |
+| saṃnyāsa-yoga-yukta-ātmā | one whose mind is disciplined by the yoga of renunciation |
+| vimuktaḥ | liberated |
+| mām | to Me |
+| upaiṣyasi | you will attain |
+

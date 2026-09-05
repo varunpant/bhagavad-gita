@@ -31,3 +31,71 @@ position: 452
 
 ```
 
+
+### Transliteration
+```
+tvamādidevaḥ puruṣaḥ purāṇa-
+stvamasya viśvasya paraṁ nidhānam
+vettāsi vedyaṁ ca paraṁ ca dhāma
+tvayā tataṁ viśvamanantarūpa
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के विराट रूप की स्तुति करते हुए उन्हें सृष्टि का आदि कारण और परम आश्रय बताते हैं। वे कृष्ण को सर्वज्ञ (जानने वाला) और परम प्राप्य लक्ष्य (जानने योग्य) के रूप में स्वीकार करते हैं। अर्जुन यह अनुभव करते हैं कि यह अनंत रूपों वाला संसार पूर्णतः भगवान से ही व्याप्त और संचालित है।
+
+### Meaning
+
+In this verse, Arjuna praises Lord Krishna's cosmic form, recognizing Him as the original deity and the primeval soul. He acknowledges Krishna as the ultimate refuge of the universe, the knower of all, the object of all knowledge, and the supreme destination. Arjuna realizes that the entire cosmos, with its infinite forms, is pervaded by the Lord's divine presence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| त्वम् | आप |
+| आदिदेवः | प्रथम देवता (आदिदेव) |
+| पुरुषः | पुरुष |
+| पुराणः | सनातन / प्राचीन |
+| त्वम् | आप |
+| अस्य | इस |
+| विश्वस्य | संसार के |
+| परम् | परम |
+| निधानम् | आश्रयस्थान |
+| वेत्ता | जानने वाले |
+| असि | हैं |
+| वेद्यम् | जानने योग्य |
+| च | और |
+| परम् | परम |
+| च | और |
+| धाम | धाम (स्थान) |
+| त्वया | आपके द्वारा |
+| ततम् | व्याप्त है |
+| विश्वम् | संसार |
+| अनन्तरूप | हे अनंत रूपों वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tvam | you |
+| ādidevaḥ | the primal God |
+| puruṣaḥ | the personality / soul |
+| purāṇaḥ | ancient |
+| tvam | you |
+| asya | of this |
+| viśvasya | universe |
+| param | supreme |
+| nidhānam | refuge / resting place |
+| vettā | the knower |
+| asi | you are |
+| vedyam | the knowable (what is to be known) |
+| ca | and |
+| param | the supreme |
+| ca | and |
+| dhāma | abode |
+| tvayā | by you |
+| tatam | pervaded |
+| viśvam | the universe |
+| anantarūpa | O Lord of infinite forms |
+

@@ -31,3 +31,57 @@ position: 361
 
 ```
 
+
+### Transliteration
+```
+ye 'py anyadevatā bhaktā yajante śraddhayānvitāḥ
+te 'pi mām eva kaunteya yajanty avidhipūrvakam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि परम सत्य केवल एक ही है। जो लोग अन्य देवी-देवताओं की श्रद्धापूर्वक पूजा करते हैं, वे भी परोक्ष रूप से परमेश्वर की ही पूजा कर रहे होते हैं क्योंकि सभी शक्तियां उन्हीं से आती हैं। परन्तु, क्योंकि वे इस परम सत्य को सीधे नहीं जानते, इसलिए उनकी यह पूजा अविधिपूर्वक अर्थात् अज्ञान और गलत विधि से की गई मानी जाती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the ultimate unity of worship. Those who worship other deities with faith are indirectly worshipping the Supreme Lord Himself, as all powers emanate from Him. However, because they lack the direct knowledge of the Supreme Source, their worship is considered 'avidhi-purvakam'—done without following the proper, direct method of realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ये | जो |
+| अपि | भी |
+| अन्य-देवताः | अन्य देवताओं के |
+| भक्ताः | भक्त |
+| यजन्ते | पूजन करते हैं |
+| श्रद्धया | श्रद्धा से |
+| अन्विताः | युक्त होकर |
+| ते | वे |
+| अपि | भी |
+| माम् | मेरा |
+| एव | ही |
+| कौन्तेय | हे कुन्तीपुत्र अर्जुन |
+| यजन्ति | पूजन करते हैं |
+| अविधि-पूर्वकम् | अविधिपूर्वक (अज्ञानवश) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ye | who |
+| api | even |
+| anya-devatāḥ | of other deities |
+| bhaktāḥ | devotees |
+| yajante | worship |
+| śraddhayā | with faith |
+| anvitāḥ | endowed |
+| te | they |
+| api | also |
+| mām | Me |
+| eva | alone |
+| kaunteya | O son of Kunti |
+| yajanti | worship |
+| avidhi-pūrvakam | by an improper method |
+

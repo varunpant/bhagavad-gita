@@ -32,3 +32,55 @@ faces in all directions.
 
 ```
 
+
+### Transliteration
+```
+akṣarāṇāmakāro'smi dvandvaḥ sāmāsikasya ca
+ahamevākṣayaḥ kālo dhātā'haṃ viśvatomukhaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि वे वर्णमाला के सभी अक्षरों में प्रथम और मुख्य अक्षर 'अ' हैं। व्याकरण के समासों में वे 'द्वन्द्व' समास हैं, जिसमें दोनों पदों की प्रधानता होती है। वे कभी नष्ट न होने वाले महाकाल हैं और सृष्टि का पोषण करने वाले सर्वव्यापी विधाता हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine manifestations, declaring Himself to be the letter 'A', which is the source and primary sound of all letters. Among grammatical compounds, He is the 'Dvandva' (dual compound) where both elements retain equal importance. He is also eternal, inexhaustible Time and the all-pervading creator and sustainer whose faces are turned everywhere.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अक्षराणाम् | अक्षरों में |
+| अकारः | अकार (अ अक्षर) |
+| अस्मि | हूँ |
+| द्वन्द्वः | द्वन्द्व समास |
+| सामासिकस्य | समासों में |
+| च | और |
+| अहम् | मैं |
+| एव | ही |
+| अक्षयः | अविनाशी / कभी नष्ट न होने वाला |
+| कालः | काल (समय) |
+| धाता | पोषण करने वाला / विधाता |
+| अहम् | मैं |
+| विश्वतोमुखः | सब ओर मुख वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| akṣarāṇām | of letters |
+| akāraḥ | the letter A |
+| asmi | I am |
+| dvandvaḥ | the dual compound |
+| sāmāsikasya | of compounds |
+| ca | and |
+| aham | I |
+| eva | indeed |
+| akṣayaḥ | imperishable / eternal |
+| kālaḥ | time |
+| dhātā | the creator / sustainer |
+| aham | I |
+| viśvatomukhaḥ | facing all directions |
+

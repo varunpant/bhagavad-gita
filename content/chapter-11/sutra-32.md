@@ -31,3 +31,70 @@ position: 446
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+kālo'smi lokakṣayakṛt pravṛddho
+lokān samāhartum iha pravṛttaḥ
+ṛte'pi tvāṁ na bhaviṣyanti sarve
+ye'vasthitāḥ pratyanīkeṣu yodhāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अपने विश्वरूप के भयानक संहारक रूप का परिचय देते हैं। वे स्पष्ट करते हैं कि वे काल (समय) हैं जो सब कुछ नष्ट कर देता है। अर्जुन युद्ध करे या न करे, विपक्ष की सेना में खड़े सभी योद्धाओं की मृत्यु पहले ही निश्चित हो चुकी है।
+
+### Meaning
+
+In this verse, Lord Krishna reveals His identity as all-destroying Time (Kala) in His cosmic form. He explains that the destruction of the warriors assembled on the battlefield is already predestined by cosmic order. Even if Arjuna chooses not to fight, none of the soldiers in the opposing armies will escape death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| śrī-bhagavān uvāca | श्री भगवान ने कहा |
+| kālaḥ | काल (समय/मृत्यु) |
+| asmi | मैं हूँ |
+| loka-kṣaya-kṛt | लोकों का नाश करने वाला |
+| pravṛddhaḥ | अत्यंत बढ़ा हुआ (महाकाल) |
+| lokān | लोकों को |
+| samāhartum | नष्ट करने के लिए |
+| iha | इस संसार में |
+| pravṛttaḥ | प्रवृत्त हुआ हूँ |
+| ṛte | बिना |
+| api | भी |
+| tvām | तुम्हारे |
+| na | नहीं |
+| bhaviṣyanti | जीवित रहेंगे |
+| sarve | सभी |
+| ye | जो |
+| avasthitāḥ | खड़े हैं |
+| pratyanīkeṣu | विपक्षी सेनाओं में |
+| yodhāḥ | योद्धा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān uvāca | the Supreme Lord said |
+| kālaḥ | time |
+| asmi | I am |
+| loka-kṣaya-kṛt | the destroyer of the worlds |
+| pravṛddhaḥ | mighty / grown great |
+| lokān | the worlds |
+| samāhartum | to destroy / to swallow up |
+| iha | here |
+| pravṛttaḥ | engaged |
+| ṛte | without |
+| api | even |
+| tvām | you |
+| na | not |
+| bhaviṣyanti | will remain / will survive |
+| sarve | all |
+| ye | who |
+| avasthitāḥ | arrayed / stationed |
+| pratyanīkeṣu | in the opposing armies |
+| yodhāḥ | warriors |
+

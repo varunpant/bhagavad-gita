@@ -31,3 +31,60 @@ position: 163
 
 ```
 
+
+### Transliteration
+```
+śrī bhagavānuvāca
+imaṃ vivasvate yogaṃ proktavānahamavyayam
+vivasvān manave prāha manurikṣvākave'bravīt
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण भगवद्गीता के ज्ञान की प्राचीनता और प्रामाणिकता को स्थापित करते हैं। वे बताते हैं कि यह अविनाशी योग कोई नया दर्शन नहीं है, बल्कि सृष्टि के आरंभ में उन्होंने स्वयं इसे सूर्यदेव विवस्वान को सिखाया था। वहाँ से यह ज्ञान मनु और इक्ष्वाकु जैसे राजर्षियों की पवित्र परंपरा के माध्यम से आगे बढ़ा, ताकि मानव जाति के कल्याण के लिए इसे सुरक्षित रखा जा सके।
+
+### Meaning
+
+In this verse, Lord Krishna establishes the antiquity and supreme authority of the Bhagavad Gita's teachings. He explains that this eternal science of yoga is not a new philosophy, but was originally imparted by Him to the sun-god, Vivasvan, at the beginning of creation. From there, it was passed down through a sacred lineage of royal sages, starting with Manu and Ikshvaku, ensuring its preservation for the benefit of humanity.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री | श्री |
+| भगवान् | भगवान |
+| उवाच | ने कहा |
+| इमम् | इस |
+| विवस्वते | विवस्वान को |
+| योगम् | योग को |
+| प्रोक्तवान् | कहा था |
+| अहम् | मैंने |
+| अव्ययम् | अविनाशी |
+| विवस्वान् | विवस्वान ने |
+| मनवे | मनु से |
+| प्राह | कहा |
+| मनुः | मनु ने |
+| इक्ष्वाकवे | इक्ष्वाकु से |
+| अब्रवीत् | कहा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī | Sri / venerable |
+| bhagavān | the Supreme Lord |
+| uvāca | said |
+| imam | this |
+| vivasvate | unto Vivasvan |
+| yogam | science of yoga |
+| proktavān | instructed |
+| aham | I |
+| avyayam | imperishable |
+| vivasvān | Vivasvan |
+| manave | unto Manu |
+| prāha | told |
+| manuḥ | Manu |
+| ikṣvākave | unto Ikshvaku |
+| abravīt | said |
+

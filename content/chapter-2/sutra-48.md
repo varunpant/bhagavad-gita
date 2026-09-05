@@ -31,3 +31,53 @@ position: 95
 
 ```
 
+
+### Transliteration
+```
+yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya
+siddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को कर्मयोग का मूल सिद्धांत समझाते हैं। वे कहते हैं कि कर्म करते समय फल की आसक्ति नहीं होनी चाहिए, चाहे कार्य में सफलता मिले या विफलता। मन की इसी समता और स्थिरता को ही वास्तविक 'योग' कहा गया है।
+
+### Meaning
+
+Lord Krishna explains the fundamental principle of Karma Yoga to Arjuna. He advises performing one's duties without attachment to the results, remaining unperturbed by success or failure. This very equanimity and stability of mind is defined as true 'yoga'.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| योगस्थः | योग में स्थित होकर |
+| कुरु | करो |
+| कर्माणि | कर्मों को |
+| सङ्गम् | आसक्ति को |
+| त्यक्त्वा | त्याग कर |
+| धनञ्जय | हे धनंजय (अर्जुन) |
+| सिद्धि-असिद्ध्योः | सफलता और विफलता में |
+| समः | समान |
+| भूत्वा | होकर |
+| समत्वम् | समभाव (समानता) |
+| योगः | योग |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yogasthaḥ | steadfast in yoga |
+| kuru | perform |
+| karmāṇi | duties |
+| saṅgam | attachment |
+| tyaktvā | having abandoned |
+| dhanañjaya | O Dhananjaya (Arjuna) |
+| siddhi-asiddhyoḥ | in success and failure |
+| samaḥ | equal |
+| bhūtvā | having become |
+| samatvam | evenness of mind |
+| yogaḥ | yoga |
+| ucyate | is called |
+

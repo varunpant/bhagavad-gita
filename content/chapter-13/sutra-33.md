@@ -31,3 +31,55 @@ position: 522
 
 ```
 
+
+### Transliteration
+```
+yathā sarvagataṃ saukṣmyādākāśaṃ nopalipyate
+sarvatrāvasthito dehe tathā'tmā nopalipyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्मा की निर्लिप्तता को समझाने के लिए आकाश का उदाहरण देते हैं। जैसे आकाश सब कुछ अपने भीतर समेटे हुए भी अपनी सूक्ष्मता के कारण किसी भी वस्तु के गुणों या दोषों से अछूता रहता है, वैसे ही आत्मा पूरे शरीर में व्याप्त होने पर भी शरीर के विकारों और कर्मों से सर्वथा निर्लिप्त रहती है।
+
+### Meaning
+
+In this verse, Lord Krishna uses the analogy of space (ether) to explain the untainted nature of the soul. Just as space pervades everything but remains unaffected and unsoiled due to its subtle nature, the soul, although pervading the entire physical body, remains completely untouched by the body's changes, actions, and impurities.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यथा | जिस प्रकार |
+| सर्वगतम् | सर्वत्र व्याप्त |
+| सौक्ष्म्यात् | सूक्ष्मता के कारण |
+| आकाशम् | आकाश |
+| न | नहीं |
+| उपलिप्यते | लिप्त होता है |
+| सर्वत्र | सब जगह |
+| अवस्थितः | स्थित |
+| देहे | शरीर में |
+| तथा | उसी प्रकार |
+| आत्मा | आत्मा |
+| न | नहीं |
+| उपलिप्यते | लिप्त होती है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yathā | as |
+| sarva-gatam | all-pervading |
+| saukṣmyāt | due to subtlety |
+| ākāśam | the sky/ether |
+| na | not |
+| upalipyate | is contaminated |
+| sarvatra | everywhere |
+| avasthitaḥ | situated |
+| dehe | in the body |
+| tathā | so |
+| ātmā | the soul |
+| na | not |
+| upalipyate | is contaminated |
+

@@ -31,3 +31,55 @@ position: 394
 
 ```
 
+
+### Transliteration
+```
+vedānāṃ sāmavedo'smi devānāmasmi vāsavaḥ
+indriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अपनी दिव्य विभूतियों का वर्णन कर रहे हैं। वे बताते हैं कि वेदों में वे संगीत और उपासना प्रधान सामवेद हैं, और देवताओं में उनके राजा इन्द्र (वासव) हैं। इसी प्रकार, ग्यारह इन्द्रियों में वे सबसे प्रधान 'मन' हैं, और सभी जीवित प्राणियों में जीवन का मुख्य लक्षण 'चेतना' (प्राण-शक्ति) हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine opulences to Arjuna. He explains that among the Vedas, He is the Sama Veda, which is rich in musical melody and devotion; among the demigods, He is Indra, their king. Furthermore, among the senses, He is the mind, which directs them, and in all living beings, He is consciousness, the very force of life.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वेदानाम् | वेदों में |
+| सामवेदः | सामवेद |
+| अस्मि | हूँ |
+| देवानाम् | देवताओं में |
+| अस्मि | हूँ |
+| वासवः | इन्द्र (वासव) |
+| इन्द्रियाणाम् | इन्द्रियों में |
+| मनः | मन |
+| च | और |
+| अस्मि | हूँ |
+| भूतानाम् | जीवों में |
+| अस्मि | हूँ |
+| चेतना | चेतना (जीवन-शक्ति) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vedānām | of the Vedas |
+| sāmavedaḥ | the Sama Veda |
+| asmi | I am |
+| devānām | of the demigods |
+| asmi | I am |
+| vāsavaḥ | Indra (Vasava) |
+| indriyāṇām | of the senses |
+| manaḥ | the mind |
+| ca | and |
+| asmi | I am |
+| bhūtānām | of living beings |
+| asmi | I am |
+| cetanā | consciousness |
+

@@ -31,3 +31,53 @@ position: 510
 
 ```
 
+
+### Transliteration
+```
+kāryakāraṇakartṛtve hetuḥ prakṛtirucyate
+puruṣaḥ sukhaduḥkhānāṃ bhoktṛtve heturucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण प्रकृति (जड़ तत्व) और पुरुष (चेतन तत्व) के भिन्न-भिन्न कार्यों को स्पष्ट करते हैं। शरीर और इन्द्रियों द्वारा होने वाली समस्त क्रियाओं का कारण प्रकृति को माना गया है। इसके विपरीत, उन क्रियाओं के परिणामस्वरूप उत्पन्न होने वाले सुख और दुःख का अनुभव करने वाला पुरुष (जीवात्मा) है।
+
+### Meaning
+
+In this verse, Lord Krishna distinguishes the roles of Prakriti (matter) and Purusha (spirit). Prakriti is responsible for the physical body, senses, and all material actions and effects. On the other hand, the Purusha (the conscious soul) is the experiencer of the resulting pleasures and pains due to its identification with the material body.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कार्य | कार्य (शरीर) |
+| कारण | और करण (इन्द्रियों) |
+| कर्तृत्वे | के कर्तापन में |
+| हेतुः | कारण |
+| प्रकृतिः | प्रकृति |
+| उच्यते | कही जाती है |
+| पुरुषः | पुरुष (जीवात्मा) |
+| सुख | सुख |
+| दुःखानाम् | और दुखों के |
+| भोक्तृत्वे | भोक्तापन (अनुभव करने) में |
+| हेतुः | कारण |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kārya | of the effect (the body) |
+| kāraṇa | and the instrument (the senses) |
+| kartṛtve | in the matter of being the agent |
+| hetuḥ | the cause |
+| prakṛtiḥ | material nature |
+| ucyate | is said to be |
+| puruṣaḥ | the conscious soul |
+| sukha | of happiness |
+| duḥkhānām | and of distress |
+| bhoktṛtve | in the experiencing |
+| hetuḥ | the cause |
+| ucyate | is said to be |
+

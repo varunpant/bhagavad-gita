@@ -31,3 +31,57 @@ position: 637
 
 ```
 
+
+### Transliteration
+```
+adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham
+vividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण किसी भी कर्म की सिद्धि के लिए पाँच आवश्यक कारणों का वर्णन कर रहे हैं। ये पाँच कारण हैं: शरीर (अधिष्ठान), कर्ता (जीवात्मा), विभिन्न इन्द्रियाँ (करण), अनेक प्रकार की चेष्टाएँ (प्रयास), और अंत में दैव (परमात्मा की इच्छा या प्रारब्ध)। इन पाँचों के बिना कोई भी कर्म संपन्न नहीं हो सकता।
+
+### Meaning
+
+In this verse, Lord Krishna describes the five factors that are responsible for the accomplishment of any action. These five factors are: the seat of action (the body), the doer (the soul), the various instruments (the senses), the many different kinds of endeavors, and ultimately, divine providence (the Supreme Will). No action can be performed without the combination of these five.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अधिष्ठानम् | अधिष्ठान (शरीर) |
+| तथा | तथा |
+| कर्ता | कर्ता (जीवात्मा) |
+| करणम् | करण (इन्द्रियाँ) |
+| च | और |
+| पृथक्-विधम् | विभिन्न प्रकार के |
+| विविधाः | विविध प्रकार की |
+| च | और |
+| पृथक्-चेष्टाः | पृथक चेष्टाएँ (प्रयास) |
+| दैवम् | दैव (परमात्मा) |
+| च | और |
+| एव | ही |
+| अत्र | यहाँ (इनमें) |
+| पञ्चमम् | पाँचवाँ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adhiṣṭhānam | the seat of action (the body) |
+| tathā | and |
+| kartā | the doer |
+| karaṇam | the instruments (senses) |
+| ca | and |
+| pṛthag-vidham | of various kinds |
+| vividhāḥ | manifold |
+| ca | and |
+| pṛthak-ceṣṭāḥ | distinct endeavors |
+| daivam | divine providence |
+| ca | and |
+| eva | indeed |
+| atra | herein |
+| pañcamam | the fifth |
+

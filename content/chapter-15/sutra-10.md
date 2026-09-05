@@ -31,3 +31,53 @@ position: 561
 
 ```
 
+
+### Transliteration
+```
+utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam
+vimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जीवात्मा किस प्रकार एक शरीर से दूसरे शरीर में जाती है या शरीर में रहकर विषयों का भोग करती है। जो लोग अज्ञानी हैं और भौतिक संसार के मोह में फंसे हैं, वे इस सूक्ष्म प्रक्रिया को नहीं देख पाते। केवल वे ही इसे देख पाते हैं जिनके पास विवेक और ज्ञान रूपी नेत्र हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains that the deluded cannot perceive the soul as it departs the body, dwells within it, or experiences life under the influence of the material modes. Only those who have developed the eyes of wisdom and spiritual discrimination can perceive the presence and movement of the soul.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| उत्क्रामन्तम् | शरीर से बाहर जाते हुए को |
+| स्थितम् | शरीर में स्थित हुए को |
+| वा | अथवा |
+| अपि | भी |
+| भुञ्जानम् | भोगते हुए को |
+| वा | अथवा |
+| गुण-अन्वितम् | गुणों से युक्त को |
+| विमूढाः | मूर्ख / अज्ञानी लोग |
+| न | नहीं |
+| अनुपश्यन्ति | देख पाते हैं |
+| पश्यन्ति | देखते हैं |
+| ज्ञान-चक्षुषः | ज्ञान रूपी नेत्रों वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| utkrāmantam | departing (the body) |
+| sthitam | staying (in the body) |
+| vā | or |
+| api | even |
+| bhuñjānam | enjoying / experiencing |
+| vā | or |
+| guṇa-anvitam | associated with the modes of nature |
+| vimūḍhāḥ | the deluded ones |
+| na | not |
+| anupaśyanti | do perceive |
+| paśyanti | do see |
+| jñāna-cakṣuṣaḥ | those with the eyes of knowledge |
+

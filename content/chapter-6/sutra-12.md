@@ -31,3 +31,49 @@ position: 245
 
 ```
 
+
+### Transliteration
+```
+tatraikāgraṃ manaḥ kṛtvā yatacittendriyakriyaḥ
+upaviśyāsane yuñjyādyogamātmaviśuddhaye
+
+```
+
+### भावार्थ
+
+इस श्लोक में ध्यान (योग) की व्यावहारिक विधि का वर्णन किया गया है। साधक को पूर्व श्लोक में बताए गए आसन पर बैठकर अपने मन को बाहरी विषयों से हटाकर एक लक्ष्य पर केंद्रित करना चाहिए। मन और इन्द्रियों की चंचलता को नियंत्रित करके ही आत्म-शुद्धि संभव है, जो योग का मुख्य उद्देश्य है।
+
+### Meaning
+
+This verse describes the practical method of meditation. Having established a proper seat as mentioned in the previous verse, the practitioner must focus the mind on a single point. By controlling the restless activities of the mind and senses, one achieves the purification of the inner self, which is the ultimate goal of yoga.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत्र | वहाँ (उस आसन पर) |
+| एकाग्रम् | एकाग्र (एक लक्ष्य पर स्थित) |
+| मनः | मन को |
+| कृत्वा | करके |
+| यत-चित्त-इन्द्रिय-क्रियः | चित्त और इन्द्रियों की क्रियाओं को नियंत्रित करने वाला |
+| उपविश्य | बैठकर |
+| आसने | आसन पर |
+| युञ्ज्यात् | अभ्यास करना चाहिए |
+| योगम् | योग का |
+| आत्म-विशुद्धये | अन्तःकरण की शुद्धि के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tatra | there (on that seat) |
+| ekāgram | one-pointed |
+| manaḥ | the mind |
+| kṛtvā | having made |
+| yata-citta-indriya-kriyaḥ | one who has controlled the activities of the mind and senses |
+| upaviśya | having seated |
+| āsane | on the seat |
+| yuñjyāt | should practice |
+| yogam | yoga |
+| ātma-viśuddhaye | for the purification of the self |
+

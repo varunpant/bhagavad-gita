@@ -31,3 +31,51 @@ position: 353
 
 ```
 
+
+### Transliteration
+```
+jñānayajñena cāpyanye yajanto māmupāsate
+ekatvena pṛthaktvena bahudhā viśvatomukham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन साधकों का वर्णन कर रहे हैं जो ज्ञान मार्ग का आश्रय लेते हैं। वे साधक ज्ञानयज्ञ के माध्यम से परमात्मा की उपासना करते हैं। कुछ साधक अभेद भाव (एकत्व) से, कुछ भेद भाव (पृथक्त्व) से और कुछ भगवान के विराट विश्वरूप (बहुधा) की उपासना करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the seekers who follow the path of knowledge (Jnana). They worship the Supreme Divine through the sacrifice of wisdom. Some worship Him as one with themselves (non-dualism), some as distinct from themselves (dualism), and others worship Him in His cosmic, multi-faceted form (pantheism).
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्ञानयज्ञेन | ज्ञान रूपी यज्ञ के द्वारा |
+| च | और |
+| अपि | भी |
+| अन्ये | दूसरे लोग |
+| यजंतः | पूजन करते हुए |
+| माम् | मुझको |
+| उपासते | उपासना करते हैं |
+| एकत्वेन | एकत्व भाव से (अभेद रूप से) |
+| पृथक्त्वेन | पृथक् भाव से (भेद रूप से) |
+| बहुधा | अनेक प्रकार से |
+| विश्वतोमुखम् | विश्वरूप में स्थित (सब ओर मुख वाले को) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jñānayajñena | by the sacrifice of knowledge |
+| ca | and |
+| api | also |
+| anye | others |
+| yajantaḥ | worshipping |
+| mām | Me |
+| upāsate | worship |
+| ekatvena | as one (in non-duality) |
+| pṛthaktvena | as separate (in duality) |
+| bahudhā | in various ways |
+| viśvatomukham | the all-faced (cosmic form) |
+

@@ -31,3 +31,63 @@ position: 622
 
 ```
 
+
+### Transliteration
+```
+yajñe tapasi dāne ca sthitiḥ saditi cocyate
+karma caiva tadarthīyaṃ sadityevābhidhīyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि यज्ञ, तपस्या और दान के कार्यों में जो निष्ठा या स्थिरता होती है, उसे 'सत्' कहा जाता है। इसके अतिरिक्त, परमात्मा की प्रसन्नता के लिए किए जाने वाले सभी कर्म भी 'सत्' कहलाते हैं। यह 'सत्' शब्द की महिमा और उसके व्यावहारिक अनुप्रयोग को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that steadfastness or established state in sacrifice, penance, and charity is called 'Sat'. Furthermore, any action performed for the sake of the Supreme Lord is also designated as 'Sat'. This highlights how the word 'Sat' sanctifies and spiritualizes righteous actions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यज्ञे | यज्ञ में |
+| तपसि | तप में |
+| दाने | दान में |
+| च | और |
+| स्थितिः | स्थिति (दृढ़ता) |
+| सत् | 'सत्' |
+| इति | इस प्रकार |
+| च | और |
+| उच्यते | कही जाती है |
+| कर्म | कर्म |
+| च | और |
+| एव | ही |
+| तद्-अर्थीयम् | उस (परमात्मा) के लिए |
+| सत् | 'सत्' |
+| इति | इस प्रकार |
+| एव | ही |
+| अभिधीयते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yajñe | in sacrifice |
+| tapasi | in penance |
+| dāne | in charity |
+| ca | and |
+| sthitiḥ | steadfastness |
+| sat | 'Sat' |
+| iti | thus |
+| ca | and |
+| ucyate | is called |
+| karma | action |
+| ca | and |
+| eva | indeed |
+| tad-arthīyam | for the sake of That (the Supreme) |
+| sat | 'Sat' |
+| iti | thus |
+| eva | only |
+| abhidhīyate | is designated |
+

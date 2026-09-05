@@ -31,3 +31,63 @@ position: 302
 
 ```
 
+
+### Transliteration
+```
+sa tayā śraddhayā yuktas
+tasyārādhanam īhate
+labhate ca tataḥ kāmān
+mayaiva vihitān hi tān
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण समझाते हैं कि जब कोई भक्त किसी अन्य देवी-देवता की श्रद्धापूर्वक पूजा करता है, तो उसे फल तो मिलता है, परंतु वह फल भी अंततः परमेश्वर द्वारा ही स्वीकृत और प्रदान किया जाता है। अल्पबुद्धि लोग देवताओं को ही फल का स्वतंत्र दाता मान लेते हैं, जबकि देवता केवल भगवान की व्यवस्था के अंतर्गत ही फल दे सकते हैं।
+
+### Meaning
+
+Lord Krishna explains that when a devotee worships other deities with faith, they do receive their desired fruits. However, these benefits are ultimately sanctioned and granted by the Supreme Lord Himself, as the demigods do not have independent power to bestow blessings outside the cosmic order established by Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सः | वह (भक्त) |
+| तया | उस |
+| श्रद्धया | श्रद्धा से |
+| युक्तः | युक्त होकर |
+| तस्य | उस (देवता) की |
+| आराधनम् | पूजा / आराधना की |
+| ईहते | चेष्टा करता है |
+| लभते | प्राप्त करता है |
+| च | और |
+| ततः | उससे (उस देवता से) |
+| कामान् | इच्छित भोगों को |
+| मया | मेरे द्वारा |
+| एव | ही |
+| विहितान् | विधान किए गए / नियत किए गए |
+| हि | निश्चय ही |
+| तान् | उन (भोगों को) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| saḥ | he (that devotee) |
+| tayā | with that |
+| śraddhayā | faith |
+| yuktaḥ | endowed |
+| tasya | of that (deity) |
+| ārādhanam | worship |
+| īhate | aspires / performs |
+| labhate | obtains |
+| ca | and |
+| tataḥ | from that |
+| kāmān | desires / benefits |
+| mayā | by Me |
+| eva | alone |
+| vihitān | ordained / arranged |
+| hi | indeed |
+| tān | those |
+

@@ -31,3 +31,71 @@ position: 67
 
 ```
 
+
+### Transliteration
+```
+na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ
+ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्मा की अमरता और शाश्वत प्रकृति का वर्णन करते हैं। आत्मा जन्म और मृत्यु के चक्र से पूरी तरह मुक्त है, यह कभी नष्ट नहीं होती। शरीर नश्वर है और समय के साथ नष्ट हो जाता है, लेकिन आत्मा हमेशा एक समान, अजन्मा और अविनाशी रहती है। यह ज्ञान अर्जुन के शोक को दूर करने के लिए दिया गया है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the immortality and eternal nature of the soul. The soul is completely free from the cycle of birth and death, and it is never destroyed. While the physical body is mortal and perishes over time, the soul remains ever-constant, unborn, and indestructible. This knowledge is imparted to dispel Arjuna's grief over the impending death of his relatives.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| जायते | जनमता है |
+| म्रियते | मरता है |
+| वा | अथवा |
+| कदाचित् | किसी भी समय |
+| न | नहीं |
+| अयम् | यह (आत्मा) |
+| भूत्वा | उत्पन्न होकर |
+| भविता | होने वाला है |
+| वा | अथवा |
+| न | नहीं |
+| भूयः | फिर |
+| अजः | अजन्मा |
+| नित्यः | नित्य |
+| शाश्वतः | शाश्वत |
+| अयम् | यह |
+| पुराणः | पुरातन |
+| न | नहीं |
+| हन्यते | मारा जाता है |
+| हन्यमाने | मारे जाने पर |
+| शरीरे | शरीर के |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| jāyate | is born |
+| mriyate | dies |
+| vā | or |
+| kadācit | at any time |
+| na | not |
+| ayam | this (soul) |
+| bhūtvā | having come into being |
+| bhavitā | will be |
+| vā | or |
+| na | not |
+| bhūyaḥ | again |
+| ajaḥ | unborn |
+| nityaḥ | eternal |
+| śāśvataḥ | permanent |
+| ayam | this |
+| purāṇaḥ | the oldest |
+| na | not |
+| hanyate | is killed |
+| hanyamāne | being killed |
+| śarīre | in the body |
+

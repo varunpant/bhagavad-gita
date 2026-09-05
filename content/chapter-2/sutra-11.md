@@ -31,3 +31,58 @@ position: 58
 
 ```
 
+
+### Transliteration
+```
+śrī bhagavānuvāca
+aśocyānanvaśocastvaṃ prajñāvādāṃśca bhāṣase
+gatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अपना उपदेश देना आरम्भ करते हैं और उसके शोक के मूल कारण, अज्ञानता, पर प्रहार करते हैं। वे अर्जुन के व्यवहार में विरोधाभास दिखाते हैं कि वह ज्ञानियों जैसी बातें तो कर रहा है, लेकिन उन शरीरों के लिए शोक कर रहा है जो नाशवान हैं। कृष्ण यह मूलभूत आध्यात्मिक सत्य स्थापित करते हैं कि जो वास्तव में ज्ञानी हैं, वे आत्मा की अमरता को जानते हैं और इसलिए जीवित या मृत किसी के लिए भी शोक नहीं करते।
+
+### Meaning
+
+In this verse, Lord Krishna begins His formal teachings to Arjuna by addressing the root cause of his sorrow: ignorance. He points out the contradiction in Arjuna's behavior; while speaking like a learned man, he is mourning for the physical bodies of his relatives. Krishna establishes the fundamental spiritual truth that the wise, who understand the eternal nature of the soul, do not grieve for either the living or the dead.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री भगवान् | भगवान |
+| उवाच | बोले |
+| अशोच्यान् | जो शोक करने योग्य नहीं हैं उनके लिए |
+| अन्वशोचः | शोक कर रहे हो |
+| त्वम् | तुम |
+| प्रज्ञावादान् | ज्ञानियों जैसी बातें |
+| च | और |
+| भाषसे | बोल रहे हो |
+| गतासून् | जिनके प्राण चले गए हैं (मृत) |
+| अगतासून् | जिनके प्राण नहीं गए हैं (जीवित) |
+| च | और |
+| न | नहीं |
+| अनुशोचन्ति | शोक करते हैं |
+| पण्डिताः | ज्ञानी जन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī bhagavān | the Supreme Lord |
+| uvāca | said |
+| aśocyān | for those not worthy of grief |
+| anvaśocaḥ | you are mourning |
+| tvam | you |
+| prajñāvādān | words of wisdom |
+| ca | and |
+| bhāṣase | are speaking |
+| gatāsūn | the dead (whose life breath has gone) |
+| agatāsūn | the living (whose life breath has not gone) |
+| ca | and |
+| na | not |
+| anuśocanti | lament |
+| paṇḍitāḥ | the wise |
+

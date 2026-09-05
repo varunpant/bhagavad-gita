@@ -31,3 +31,53 @@ position: 538
 
 ```
 
+
+### Transliteration
+```
+yadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt
+tadottamavidāṃ lokānamalānpratipadyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण बताते हैं कि मृत्यु के समय मनुष्य की मानसिक स्थिति और गुणों की प्रधानता उसके अगले जन्म की गति को निर्धारित करती है। यदि कोई व्यक्ति सत्त्वगुण की प्रधानता के समय शरीर त्यागता है, तो वह पवित्र और उच्च लोकों को प्राप्त करता है जहाँ ज्ञानी पुरुष निवास करते हैं। यह दर्शाता है कि जीवन भर सत्त्वगुण का अभ्यास अंत समय में भी सहायक होता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains how the dominance of a particular guna at the time of death determines the soul's destination. If a person dies when sattva (the mode of goodness) is predominant, they ascend to the pure, stainless realms of the wise and saintly. This emphasizes the importance of cultivating goodness throughout one's life to ensure a higher spiritual transition.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदा | जब |
+| सत्त्वे | सत्त्वगुण में |
+| प्रवृद्धे | वृद्धि होने पर |
+| तु | तो / ही |
+| प्रलयम् | मृत्यु को |
+| याति | प्राप्त होता है |
+| देहभृत् | शरीरधारी (जीवात्मा) |
+| तदा | तब |
+| उत्तम-विदाम् | उत्तम तत्त्व को जानने वालों के |
+| लोकान् | लोकों को |
+| अमलान् | निर्मल / पवित्र |
+| प्रतिपद्यते | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadā | when |
+| sattve | the mode of goodness |
+| pravṛddhe | having become predominant |
+| tu | indeed |
+| pralayam | death / dissolution |
+| yāti | attains |
+| dehabhṛt | the embodied soul |
+| tadā | then |
+| uttama-vidām | of the knowers of the highest (truth) |
+| lokān | the worlds |
+| amalān | stainless / pure |
+| pratipadyate | attains |
+

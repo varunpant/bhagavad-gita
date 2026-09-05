@@ -31,3 +31,53 @@ position: 425
 
 ```
 
+
+### Transliteration
+```
+divyamālyāmbaradharaṃ divyagandhānulepanam
+sarvāścaryamayaṃ devamanantaṃ viśvatomukham
+
+```
+
+### भावार्थ
+
+इस श्लोक में संजय धृतराष्ट्र को भगवान कृष्ण के परम विराट रूप की अद्भुत महिमा का वर्णन कर रहे हैं। अर्जुन ने जिस विश्वरूप के दर्शन किए, वह दिव्य आभूषणों, मालाओं और सुगंधों से सुसज्जित था। वह रूप असीम था, जिसका कोई अंत नहीं था, और वह सभी दिशाओं में देख रहा था अर्थात् सर्वव्यापी था।
+
+### Meaning
+
+In this verse, Sanjaya describes the awe-inspiring cosmic form of Lord Krishna to Dhritarashtra. The universal form witnessed by Arjuna was adorned with celestial ornaments, garlands, and divine fragrances. It was limitless, infinite, and possessed faces looking in all directions, representing the omnipresence of the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दिव्य | अलौकिक / दिव्य |
+| माल्य | मालाओं को |
+| अम्बर | और वस्त्रों को |
+| धरम् | धारण किए हुए |
+| दिव्य | दिव्य |
+| गन्ध | सुगंधियों का |
+| अनुलेपनम् | लेप किए हुए |
+| सर्व | सब प्रकार के |
+| आश्चर्य-मयम् | आश्चर्यों से युक्त |
+| देवम् | प्रकाशमान / परमेश्वर को |
+| अनन्तम् | अन्तहीन / असीम |
+| विश्वतः-मुखम् | सब ओर मुख वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| divya | divine |
+| mālya | garlands |
+| ambara | and garments |
+| dharam | wearing |
+| divya | divine |
+| gandha | fragrances |
+| anulepanam | anointed with |
+| sarva | all |
+| āścarya-mayam | full of wonders |
+| devam | the resplendent Lord |
+| anantam | infinite |
+| viśvataḥ-mukham | facing in all directions |
+

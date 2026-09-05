@@ -31,3 +31,47 @@ position: 111
 
 ```
 
+
+### Transliteration
+```
+rāgadveṣaviyuktaistu viṣayānindriyaiścaran
+ātmavaśyairvidheyātmā prasādamadhigacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण एक आत्म-संयमी व्यक्ति की स्थिति का वर्णन करते हैं। जो व्यक्ति राग और द्वेष से मुक्त होकर, अपने वश में की गई इन्द्रियों से विषयों का अनुभव करता है, वह कभी उनमें लिप्त नहीं होता। ऐसा स्वाधीन और संयमित मन वाला मनुष्य परम शान्ति और ईश्वर की कृपा को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the state of a self-controlled person. Even while moving among sense objects, a person whose mind is regulated and whose senses are free from attachment and aversion does not get entangled. Such a disciplined individual attains profound peace and the grace of the Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| रागद्वेषवियुक्तैः | राग और द्वेष से मुक्त |
+| तु | परन्तु |
+| विषयान् | विषयों में |
+| इन्द्रियैः | इन्द्रियों के द्वारा |
+| चरन् | विचरता हुआ |
+| आत्मवश्यैः | अपने वश में की हुई |
+| विधेयात्मा | वश में किए हुए मन वाला |
+| प्रसादम् | शान्ति को |
+| अधिगच्छति | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rāgadveṣaviyuktaiḥ | free from attachment and aversion |
+| tu | but |
+| viṣayān | sense objects |
+| indriyaiḥ | by the senses |
+| caran | moving among |
+| ātmavaśyaiḥ | controlled by the self |
+| vidheyātmā | one with a regulated mind |
+| prasādam | tranquility |
+| adhigacchati | attains |
+

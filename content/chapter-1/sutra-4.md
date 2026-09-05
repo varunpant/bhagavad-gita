@@ -33,3 +33,51 @@ warriors).
 
 ```
 
+
+### Transliteration
+```
+atra śūrā maheṣvāsā bhīmārjunasamā yudhi
+yuyudhāno virāṭaśca drupadaśca mahārathaḥ
+
+```
+
+### भावार्थ
+
+दुर्योधन द्रोणाचार्य को पाण्डव सेना के प्रमुख योद्धाओं के बारे में बता रहा है। वह विपक्षी सेना की शक्ति को स्वीकार करते हुए उनकी तुलना भीम और अर्जुन जैसे महान योद्धाओं से करता है। सात्यकि, विराट और द्रुपद जैसे महारथियों का नाम लेकर वह यह स्पष्ट करता है कि पाण्डवों की सेना कितनी शक्तिशाली और अजेय है।
+
+### Meaning
+
+Duryodhana continues to assess the Pandava army, pointing out its key warriors to Dronacharya. He acknowledges the formidable strength of the opposition by comparing them to the mighty Bhima and Arjuna. By naming specific great warriors like Satyaki, Virata, and Drupada, he highlights the serious threat they pose on the battlefield.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अत्र | यहाँ (इस सेना में) |
+| शूराः | शूरवीर |
+| महेष्वासाः | महान धनुर्धर |
+| भीमार्जुनसमाः | भीम और अर्जुन के समान |
+| युधि | युद्ध में |
+| युयुधानः | युयुधान (सात्यकि) |
+| विराटः | विराट |
+| च | और |
+| द्रुपदः | द्रुपद |
+| च | तथा |
+| महारथः | महारथी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| atra | here |
+| śūrāḥ | heroes |
+| maheṣvāsāḥ | mighty bowmen |
+| bhīmārjunasamāḥ | equal to Bhima and Arjuna |
+| yudhi | in battle |
+| yuyudhānaḥ | Yuyudhana (Satyaki) |
+| virāṭaḥ | Virata |
+| ca | and |
+| drupadaḥ | Drupada |
+| ca | and |
+| mahārathaḥ | great chariot warrior |
+

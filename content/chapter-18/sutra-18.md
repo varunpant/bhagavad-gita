@@ -31,3 +31,51 @@ position: 641
 
 ```
 
+
+### Transliteration
+```
+jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā
+karaṇaṃ karma karteti trividhaḥ karmasaṅgrahaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण कर्म के मनोवैज्ञानिक और भौतिक घटकों का विश्लेषण करते हैं। कर्म की प्रेरणा के तीन मानसिक घटक हैं: ज्ञान (जानने की क्रिया), ज्ञेय (जानने योग्य विषय), और परिज्ञाता (जानने वाला)। जब कर्म भौतिक रूप में परिणत होता है, तो उसके तीन घटक होते हैं: करण (इन्द्रियाँ या साधन), कर्म (क्रिया), और कर्ता (करने वाला)।
+
+### Meaning
+
+In this verse, Lord Krishna analyzes the psychological and physical components of action. The impulse to act has three mental components: knowledge, the object of knowledge, and the knower. When action manifests physically, it consists of three constituents: the instrument, the action itself, and the doer.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्ञानम् | ज्ञान |
+| ज्ञेयम् | ज्ञेय (जानने योग्य) |
+| परिज्ञाता | ज्ञाता (जानने वाला) |
+| त्रिविधा | तीन प्रकार की |
+| कर्म-चोदना | कर्म की प्रेरणा |
+| करणम् | करण (साधन) |
+| कर्म | कर्म (क्रिया) |
+| कर्ता | कर्ता (करने वाला) |
+| इति | इस प्रकार |
+| त्रिविधः | तीन प्रकार का |
+| कर्म-संग्रहः | कर्म का आश्रय (संग्रह) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jñānam | knowledge |
+| jñeyam | the object of knowledge |
+| parijñātā | the knower |
+| trividhā | of three kinds |
+| karma-codanā | the impulse to action |
+| karaṇam | the instrument |
+| karma | the action |
+| kartā | the doer |
+| iti | thus |
+| trividhaḥ | of three kinds |
+| karma-saṅgrahaḥ | the accumulation or basis of action |
+

@@ -31,3 +31,60 @@ position: 48
 
 ```
 
+
+### Transliteration
+```
+sañjaya uvāca
+taṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam
+viṣīdantamidaṃ vākyamuvāca madhusūdanaḥ
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र को कुरुक्षेत्र के युद्ध के मैदान का दृश्य बता रहे हैं। अर्जुन अपने सगे-संबंधियों को देखकर गहरे शोक और करुणा में डूब गए हैं। उनकी इस दयनीय और व्याकुल स्थिति को देखकर भगवान कृष्ण अब उन्हें उपदेश देना आरंभ करेंगे।
+
+### Meaning
+
+Sanjaya is describing the scene on the battlefield of Kurukshetra to Dhritarashtra. Arjuna is overwhelmed with deep sorrow and compassion upon seeing his relatives arrayed for battle. Seeing his pitiful and agitated state, Lord Krishna is now about to begin His teachings to dispel Arjuna's ignorance.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सञ्जयः | संजय |
+| उवाच | ने कहा |
+| तम् | उस (अर्जुन) को |
+| तथा | इस प्रकार |
+| कृपया | करुणा से |
+| आविष्टम् | व्याप्त |
+| अश्रु | आंसुओं से |
+| पूर्ण | भरे हुए |
+| आकुल | व्याकुल |
+| ईक्षणम् | नेत्रों वाले |
+| विषीदन्तम् | शोक करते हुए |
+| इदम् | यह |
+| वाक्यम् | वचन |
+| उवाच | कहा |
+| मधुसूदनः | मधुसूदन (कृष्ण) ने |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sañjayaḥ | Sanjaya |
+| uvāca | said |
+| tam | to him (Arjuna) |
+| tathā | thus |
+| kṛpayā | by compassion |
+| āviṣṭam | overwhelmed |
+| aśru | with tears |
+| pūrṇa | filled |
+| ākula | agitated |
+| īkṣaṇam | eyes |
+| viṣīdantam | lamenting |
+| idam | this |
+| vākyam | word |
+| uvāca | spoke |
+| madhusūdanaḥ | Madhusudana (Krishna) |
+

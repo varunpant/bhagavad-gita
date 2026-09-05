@@ -31,3 +31,55 @@ position: 194
 
 ```
 
+
+### Transliteration
+```
+evaṃ bahuvidhā yajñā vitatā brahmaṇo mukhe
+karmajānviddhi tānsarvānevaṃ jñātvā vimokṣyase
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण विभिन्न यज्ञों के वर्णन का समापन करते हुए कहते हैं कि ये सभी यज्ञ वेदों द्वारा प्रमाणित हैं। वे स्पष्ट करते हैं कि ये सभी यज्ञ शारीरिक, मानसिक या वाचिक कर्मों से ही उत्पन्न होते हैं। जब मनुष्य यह जान लेता है कि आत्मा इन कर्मों से परे है, तो वह इस ज्ञान के माध्यम से जन्म-मृत्यु के बंधन से मुक्त हो जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna concludes the description of various sacrifices by stating that they are all authorized by the Vedas. He emphasizes that all these sacrifices involve some form of action, whether physical, mental, or vocal. By understanding that the true self is distinct from these actions, one attains liberation from the cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एवम् | इस प्रकार |
+| बहुविधाः | बहुत प्रकार के |
+| यज्ञाः | यज्ञ |
+| वितताः | विस्तार से बताए गए हैं |
+| ब्रह्मणः | वेद के |
+| मुखे | मुख में (वाणी में) |
+| कर्मजान् | कर्म से उत्पन्न |
+| विद्धि | जानो |
+| तान् | उन |
+| सर्वान् | सभी को |
+| एवम् | इस प्रकार |
+| ज्ञात्वा | जानकर |
+| विमोक्ष्यसे | तुम मुक्त हो जाओगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| evam | thus |
+| bahuvidhāḥ | of various kinds |
+| yajñāḥ | sacrifices |
+| vitatāḥ | are spread out (manifested) |
+| brahmaṇaḥ | of the Vedas |
+| mukhe | in the mouth (words) |
+| karmajān | born of action |
+| viddhi | know |
+| tān | them |
+| sarvān | all |
+| evam | thus |
+| jñātvā | having known |
+| vimokṣyase | you will be liberated |
+

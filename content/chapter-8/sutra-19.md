@@ -31,3 +31,53 @@ position: 329
 
 ```
 
+
+### Transliteration
+```
+bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate
+rātryāgame'vaśaḥ pārtha prabhavatyaharāgame
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सृष्टि के चक्र का वर्णन कर रहे हैं। ब्रह्मा के दिन के समय सभी जीव प्रकट होते हैं और उनकी रात्रि के समय वे पुनः अव्यक्त में विलीन हो जाते हैं। यह चक्र प्रकृति के नियमों के अधीन जीवों की विवशता को दर्शाता है, जो बार-बार जन्म और प्रलय के चक्र में घूमते रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the cyclic nature of creation and dissolution. All living beings manifest during Brahma's day and are helplessly dissolved back into the unmanifest state during his night. This cycle highlights the bondage of living entities under the laws of material nature, repeatedly undergoing birth and dissolution.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भूतग्रामः | जीवों का समुदाय |
+| सः | वही |
+| एव | ही |
+| अयम् | यह |
+| भूत्वा | उत्पन्न होकर |
+| भूत्वा | बार-बार उत्पन्न होकर |
+| प्रलीयते | लीन हो जाता है |
+| रात्रि-आगमे | रात्रि के आगमन पर |
+| अवशः | विवश होकर (प्रकृति के अधीन) |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| प्रभवति | प्रकट होता है |
+| अहः-आगमे | दिन के आगमन पर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhūtagrāmaḥ | the multitude of living beings |
+| saḥ | that |
+| eva | indeed |
+| ayam | this |
+| bhūtvā | having been born |
+| bhūtvā | repeatedly being born |
+| pralīyate | is dissolved |
+| rātri-āgame | at the arrival of night |
+| avaśaḥ | helplessly (under the influence of nature) |
+| pārtha | O Partha (Arjuna) |
+| prabhavati | manifests |
+| ahaḥ-āgame | at the arrival of day |
+

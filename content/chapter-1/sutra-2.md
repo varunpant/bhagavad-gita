@@ -32,3 +32,56 @@ King Duryodhana then approached his teacher (Drona) and spoke these words.
 
 ```
 
+
+### Transliteration
+```
+sañjaya uvāca
+dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā
+ācāryamupasaṅgamya rājā vacanamabravīt
+
+```
+
+### भावार्थ
+
+सञ्जय अंधे राजा धृतराष्ट्र को युद्धभूमि का दृश्य बताते हुए अपना वर्णन आरंभ करते हैं। पाण्डवों की सेना को रणनीतिक रूप से व्यवस्थित देखकर, राजा दुर्योधन अपने सैन्य गुरु द्रोणाचार्य के पास जाते हैं। यह दर्शाता है कि एक बड़ी सेना होने के बावजूद दुर्योधन के भीतर कहीं न कहीं भय और चिंता थी, जिसके कारण वह अपने सेनापति से बात करने गया।
+
+### Meaning
+
+Sanjaya begins his narration by describing the battlefield scene to the blind King Dhritarashtra. Seeing the Pandava army strategically arranged, King Duryodhana approaches his military preceptor, Dronacharya. This highlights Duryodhana's inner apprehension despite having a larger army, prompting him to seek reassurance from his commander.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सञ्जयः | सञ्जय ने |
+| उवाच | कहा |
+| दृष्ट्वा | देखकर |
+| तु | तो |
+| पाण्डवानीकम् | पाण्डवों की सेना को |
+| व्यूढम् | व्यूह रचना में |
+| दुर्योधनः | दुर्योधन ने |
+| तदा | उस समय |
+| आचार्यम् | आचार्य (द्रोण) के |
+| उपसङ्गम्य | पास जाकर |
+| राजा | राजा |
+| वचनम् | वचन |
+| अब्रवीत् | कहा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sañjayaḥ | Sanjaya |
+| uvāca | said |
+| dṛṣṭvā | having seen |
+| tu | but |
+| pāṇḍavānīkam | the army of the Pandavas |
+| vyūḍham | arranged in a military formation |
+| duryodhanaḥ | Duryodhana |
+| tadā | at that time |
+| ācāryam | the teacher |
+| upasaṅgamya | having approached |
+| rājā | the king |
+| vacanam | words |
+| abravīt | spoke |
+

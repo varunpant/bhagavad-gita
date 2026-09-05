@@ -31,3 +31,61 @@ position: 557
 
 ```
 
+
+### Transliteration
+```
+na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ
+yad gatvā na nivartante tad dhāma paramaṃ mama
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपने परम धाम के स्वरूप का वर्णन कर रहे हैं। वह धाम भौतिक प्रकाश के स्रोतों जैसे सूर्य, चन्द्रमा या अग्नि पर निर्भर नहीं है क्योंकि वह स्वयं-प्रकाशित है। जो जीवात्मा उस परम पद को प्राप्त कर लेती है, वह पुनः इस दुःखमय संसार के जन्म-मरण के चक्र में वापस नहीं आती।
+
+### Meaning
+
+In this verse, Lord Krishna describes the nature of His supreme abode. That spiritual realm does not require any material source of light like the sun, moon, or fire, as it is self-luminous. Once a soul reaches that supreme destination, they never return to this temporary, miserable material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| तत् | उसको |
+| भासयते | प्रकाशित करता है |
+| सूर्यः | सूर्य |
+| न | न |
+| शशाङ्कः | चन्द्रमा |
+| न | न |
+| पावकः | अग्नि |
+| यत् | जहाँ |
+| गत्वा | जाकर |
+| न | नहीं |
+| निवर्तन्ते | लौटते हैं |
+| तत् | वह |
+| धाम | धाम |
+| परमम् | परम |
+| मम | मेरा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| tat | that |
+| bhāsayate | illuminates |
+| sūryaḥ | the sun |
+| na | nor |
+| śaśāṅkaḥ | the moon |
+| na | nor |
+| pāvakaḥ | fire |
+| yat | where |
+| gatvā | having gone |
+| na | not |
+| nivartante | they return |
+| tat | that |
+| dhāma | abode |
+| paramam | supreme |
+| mama | My |
+

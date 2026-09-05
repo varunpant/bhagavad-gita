@@ -31,3 +31,61 @@ position: 176
 
 ```
 
+
+### Transliteration
+```
+na māṃ karmāṇi limpanti na me karmaphale spṛhā
+iti māṃ yo'bhijānāti karmabhirna sa badhyate
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण स्पष्ट करते हैं कि यद्यपि वे सृष्टि की रचना और संचालन जैसे महान कर्म करते हैं, फिर भी वे उन कर्मों से बंधते नहीं हैं। इसका कारण यह है कि उन्हें अपने कर्मों के फलों की कोई लालसा नहीं है। जो मनुष्य भगवान के इस दिव्य स्वभाव को समझ लेता है और उसी निष्काम भाव को अपनाता है, वह भी सांसारिक कर्मों के बंधन से मुक्त हो जाता है।
+
+### Meaning
+
+Lord Krishna clarifies that although He performs cosmic actions like the creation and maintenance of the universe, He is never entangled by them. This is because He has no attachment to or desire for the results of His actions. A person who truly understands this divine nature of the Lord and adopts the same spirit of detachment is also freed from the bondage of karma.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| माम् | मुझे |
+| कर्माणि | कर्म |
+| लिम्पन्ति | लिप्त करते हैं |
+| न | नहीं |
+| मे | मेरी |
+| कर्मफले | कर्म के फल में |
+| स्पृहा | इच्छा |
+| इति | इस प्रकार |
+| माम् | मुझे |
+| यः | जो |
+| अभिजानाति | भली-भांति जानता है |
+| कर्मभिः | कर्मों के द्वारा |
+| न | नहीं |
+| सः | वह |
+| बध्यते | बंधता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| mām | me |
+| karmāṇi | actions |
+| limpanti | taint |
+| na | not |
+| me | my |
+| karmaphale | in the fruit of action |
+| spṛhā | desire |
+| iti | thus |
+| mām | me |
+| yaḥ | who |
+| abhijānāti | knows |
+| karmabhiḥ | by actions |
+| na | not |
+| saḥ | he |
+| badhyate | is bound |
+

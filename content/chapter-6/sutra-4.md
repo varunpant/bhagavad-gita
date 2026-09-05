@@ -31,3 +31,53 @@ position: 237
 
 ```
 
+
+### Transliteration
+```
+yadā hi nendriyārtheṣu na karmasvanuṣajjate
+sarvasaṅkalpasannyāsī yogārūḍhastadocyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण योगारूढ़ (योग की पराकाष्ठा पर पहुँचे हुए) पुरुष के लक्षण बताते हैं। जब साधक की इन्द्रिय-विषयों और सांसारिक कर्मों में आसक्ति पूरी तरह समाप्त हो जाती है, और वह सभी प्रकार की कामनाओं व संकल्पों का त्याग कर देता है, तब उसे वास्तविक रूप से योग में स्थित माना जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna defines the state of being established in Yoga (yogārūḍha). A person is said to have attained this height of spiritual practice when they are completely free from attachment to sense objects and actions, having renounced all mental projections and desires.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदा | जब |
+| ही | निश्चय ही |
+| न | नहीं |
+| इन्द्रिय-अर्थेषु | इन्द्रियों के विषयों में |
+| न | न ही |
+| कर्मसु | कर्मों में |
+| अनुषज्जते | आसक्त होता है |
+| सर्व-सङ्कल्प | समस्त संकल्पों का |
+| संन्यासी | त्याग करने वाला |
+| योग-आरूढ़ः | योगारूढ़ (योग में स्थित) |
+| तदा | तब |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadā | when |
+| hi | certainly |
+| na | not |
+| indriya-artheṣu | in the objects of the senses |
+| na | nor |
+| karmasu | in actions |
+| anuṣajjate | is attached |
+| sarva-saṅkalpa | of all desires/mental plans |
+| sannyāsī | the renouncer |
+| yoga-ārūḍhaḥ | one who has ascended to Yoga |
+| tadā | then |
+| ucyate | is said to be |
+

@@ -31,3 +31,51 @@ position: 617
 
 ```
 
+
+### Transliteration
+```
+adeśakāle yaddānamapātrebhyaśca dīyate
+asatkṛtamavajñātaṃ tattāmasamudāhṛtam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तामसिक दान के लक्षणों का वर्णन करते हैं। ऐसा दान जो बिना सोचे-समझे, गलत समय और स्थान पर, अपात्र व्यक्तियों को दिया जाता है, वह तामसिक कहलाता है। इसके अतिरिक्त, यदि दान देते समय आदर का भाव न हो और प्राप्तकर्ता का अपमान किया जाए, तो वह दान अपनी सात्त्विकता खोकर तामस श्रेणी में आ जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of charity in the mode of ignorance (tamas). Charity that is given at an inappropriate place and time, to unworthy recipients, is considered tamasik. Furthermore, even if given, if it is performed without proper respect and with a contemptuous attitude, it loses all spiritual merit and is classified as dark or ignorant.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अदेश-काले | अपवित्र या अयोग्य स्थान और समय में |
+| यत् | जो |
+| दानम् | दान |
+| अपात्रेभ्यः | अयोग्य पात्रों को |
+| च | और |
+| दीयते | दिया जाता है |
+| असत्-कृतम् | बिना सत्कार के (अनादरपूर्वक) |
+| अवज्ञातम् | तिरस्कारपूर्वक |
+| तत् | वह |
+| तामसम् | तामसिक |
+| उदाहृतम् | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adeśa-kāle | at an improper place and time |
+| yat | which |
+| dānam | charity |
+| apātrebhyaḥ | to unworthy persons |
+| ca | and |
+| dīyate | is given |
+| asat-kṛtam | without respect |
+| avajñātam | with contempt |
+| tat | that |
+| tāmasam | in the mode of ignorance |
+| udāhṛtam | is declared to be |
+

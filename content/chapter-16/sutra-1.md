@@ -31,3 +31,56 @@ position: 572
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+abhayaṃ sattvasaṃśuddhiḥ jñānayogavyavasthitiḥ
+dānaṃ damaśca yajñaśca svādhyāyastapa ārjavam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण दैवी सम्पदा (दिव्य गुणों) का वर्णन आरम्भ करते हैं। ये गुण मनुष्य को मुक्ति की ओर ले जाते हैं। इनमें भयहीनता और अन्तःकरण की शुद्धि को सर्वोपरि स्थान दिया गया है, जो आध्यात्मिक प्रगति के लिए अनिवार्य हैं।
+
+### Meaning
+
+In this verse, Lord Krishna begins describing the divine qualities (daivi sampada) that elevate a human being toward liberation. Fearlessness and purity of mind are placed at the forefront, as they form the essential foundation for any spiritual progress.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| अभयम् | भय का सर्वथा अभाव (निर्भयता) |
+| सत्त्व-संशुद्धिः | अन्तःकरण की भलीभांति शुद्धि |
+| ज्ञान-योग-व्यवस्थितिः | ज्ञान और योग में दृढ़ स्थिति |
+| दानम् | दान |
+| दमः | इन्द्रियों का दमन |
+| च | और |
+| यज्ञः | यज्ञ (कर्तव्य कर्मों का यज्ञ रूप में आचरण) |
+| च | और |
+| स्वाध्यायः | शास्त्रों का अध्ययन (स्वाध्याय) |
+| तपः | तप (कष्ट सहना) |
+| आर्जवम् | मन-वाणी-शरीर की सरलता |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| abhayam | fearlessness |
+| sattva-saṃśuddhiḥ | purity of mind or existence |
+| jñāna-yoga-vyavasthitiḥ | steadfastness in the cultivation of knowledge and yoga |
+| dānam | charity |
+| damaḥ | control of the senses |
+| ca | and |
+| yajñaḥ | performance of sacrifice |
+| ca | and |
+| svādhyāyaḥ | study of sacred scriptures |
+| tapaḥ | austerity |
+| ārjavam | simplicity or straightforwardness |
+

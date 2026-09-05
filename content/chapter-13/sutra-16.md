@@ -31,3 +31,61 @@ position: 505
 
 ```
 
+
+### Transliteration
+```
+bahir antaś ca bhūtānām acaraṃ caram eva ca
+sūkṣmatvāt tad avijñeyaṃ dūrasthaṃ cāntike ca tat
+
+```
+
+### भावार्थ
+
+इस श्लोक में परमात्मा की सर्वव्यापकता और उनकी अचिन्त्य प्रकृति का वर्णन किया गया है। परमात्मा सभी प्राणियों के भीतर आत्मा रूप में और बाहर भी व्याप्त हैं। वे सूक्ष्म होने के कारण इंद्रियों और बुद्धि की साधारण समझ से परे हैं। अज्ञानी के लिए वे अत्यंत दूर हैं, परंतु ज्ञानी के लिए वे अपने ही हृदय में अत्यंत निकट हैं।
+
+### Meaning
+
+This verse describes the omnipresence and the inconceivable nature of the Supreme Truth. The Divine exists both inside and outside of all living entities, pervading everything as the moving and the unmoving. Due to His extreme subtlety, He cannot be perceived by the material senses. To the ignorant, He seems infinitely far away, but to the self-realized, He is closest of all, residing within their own hearts.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बहिः | बाहर |
+| अन्तः | भीतर |
+| च | और |
+| भूतानाम् | समस्त प्राणियों के |
+| अचरम् | अचर (न चलने वाला) |
+| चरम् | चर (चलने वाला) |
+| एव | ही |
+| च | भी |
+| सूक्ष्मत्वात् | अत्यंत सूक्ष्म होने के कारण |
+| तत् | वह (परमात्मा) |
+| अविज्ञेयम् | अविज्ञेय (न जानने योग्य) |
+| दूरस्थम् | अत्यंत दूर स्थित |
+| च | और |
+| अन्तिके | समीप में |
+| च | भी |
+| तत् | वह |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bahiḥ | outside |
+| antaḥ | inside |
+| ca | and |
+| bhūtānām | of all living beings |
+| acaram | the unmoving |
+| caram | the moving |
+| eva | indeed |
+| ca | also |
+| sūkṣmatvāt | due to being subtle |
+| tat | that (Supreme) |
+| avijñeyam | incomprehensible |
+| dūrastham | situated far away |
+| ca | and |
+| antike | near |
+| ca | also |
+| tat | that |
+

@@ -31,3 +31,59 @@ position: 80
 
 ```
 
+
+### Transliteration
+```
+atha cait tvam imaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi
+tataḥ svadharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को युद्ध न करने के परिणामों के बारे में चेतावनी दे रहे हैं। एक क्षत्रिय के रूप में धर्म की रक्षा के लिए युद्ध करना अर्जुन का परम कर्तव्य है। यदि वह इस कर्तव्य से पीछे हटता है, तो वह न केवल अपना सम्मान और यश खो देगा, बल्कि उसे पाप भी लगेगा।
+
+### Meaning
+
+In this verse, Lord Krishna warns Arjuna about the consequences of refusing to fight. As a warrior, it is Arjuna's supreme duty to fight for righteousness. If he shrinks from this duty, he will not only lose his honor and fame but will also incur sin.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अथ | किन्तु |
+| चेत् | यदि |
+| त्वम् | तुम |
+| इमम् | इस |
+| धर्म्यम् | धर्मयुक्त |
+| संग्रामम् | युद्ध को |
+| न | नहीं |
+| करिष्यसि | करोगे |
+| ततः | तो |
+| स्वधर्मम् | अपने धर्म को |
+| कीर्तिम् | कीर्ति को |
+| च | और |
+| हित्वा | खोकर |
+| पापम् | पाप को |
+| अवाप्स्यसि | प्राप्त होओगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| atha | but |
+| cet | if |
+| tvam | you |
+| imam | this |
+| dharmyam | righteous |
+| saṃgrāmam | war |
+| na | not |
+| kariṣyasi | will do (fight) |
+| tataḥ | then |
+| svadharmam | own duty |
+| kīrtim | glory |
+| ca | and |
+| hitvā | having abandoned |
+| pāpam | sin |
+| avāpsyasi | will incur |
+

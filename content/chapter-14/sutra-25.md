@@ -31,3 +31,45 @@ position: 549
 
 ```
 
+
+### Transliteration
+```
+mānāpamānayos tulyas tulyo mitrāripakṣayoḥ
+sarvārambhaparityāgī guṇātītaḥ sa ucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण गुणातीत व्यक्ति के सामाजिक और व्यावहारिक लक्षणों का वर्णन करते हैं। ऐसा व्यक्ति आदर और अनादर में विचलित नहीं होता और न ही वह मित्र या शत्रु के प्रति पक्षपात करता है। वह कर्तापन के अहंकार से मुक्त होकर नए सकाम कर्मों का आरम्भ नहीं करता, इसलिए उसे त्रिगुणातीत कहा जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the social and practical characteristics of one who has transcended the three gunas. Such a person remains undisturbed by honor or dishonor and maintains equanimity toward friends and foes alike. Having abandoned the ego of doership, they do not initiate new selfish undertakings, and are thus called transcendental.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मान-अपमानयोः | मान और अपमान में |
+| तुल्यः | समान |
+| तुल्यः | समान |
+| मित्र-अरि-पक्षयोः | मित्र और शत्रु के पक्षों में |
+| सर्व-आरम्भ-परित्यागी | सभी (सकाम) आरम्भों का परित्याग करने वाला |
+| गुण-अतीतः | गुणों से अतीत (परे) |
+| सः | वह |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| māna-apamānayoḥ | in honor and dishonor |
+| tulyaḥ | equal |
+| tulyaḥ | equal |
+| mitra-ari-pakṣayoḥ | to the parties of friend and foe |
+| sarva-ārambha-parityāgī | renouncer of all undertakings |
+| guṇa-atītaḥ | transcended the gunas |
+| saḥ | he |
+| ucyate | is said |
+

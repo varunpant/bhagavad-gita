@@ -31,3 +31,55 @@ position: 388
 
 ```
 
+
+### Transliteration
+```
+vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ
+yābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण से प्रार्थना कर रहे हैं कि वे अपनी अलौकिक और दिव्य शक्तियों (विभूतियों) का विस्तार से वर्णन करें। अर्जुन यह जानना चाहते हैं कि भगवान किस प्रकार इस संपूर्ण ब्रह्मांड में व्याप्त हैं। चूंकि भगवान की शक्तियों को पूरी तरह से केवल वे स्वयं ही जानते हैं, इसलिए अर्जुन उन्हीं से इसका वर्णन करने का अनुरोध करते हैं।
+
+### Meaning
+
+Arjuna requests Lord Krishna to describe in detail His own divine opulences and manifestations. He desires to know how the Supreme Lord pervades and sustains all the worlds. Since only the Lord Himself can fully comprehend His own divine nature, Arjuna appeals directly to Him for this knowledge.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वक्तुम् | कहने के लिए |
+| अर्हसि | आप योग्य हैं (समर्थ हैं) |
+| अशेषेण | पूर्ण रूप से (बिना कुछ छोड़े) |
+| दिव्याः | अलौकिक (दिव्य) |
+| हि | निश्चय ही |
+| आत्म-विभूतयः | अपनी विभूतियों को |
+| याभिः | जिनके द्वारा |
+| विभूतिभिः | विभूतियों से |
+| लोकान् | लोकों को |
+| इमान् | इन सब |
+| त्वम् | आप |
+| व्याप्य | व्याप्त करके |
+| तिष्ठसि | स्थित हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vaktum | to speak |
+| arhasi | you deserve (are able) |
+| aśeṣeṇa | fully (without omission) |
+| divyāḥ | divine |
+| hi | indeed |
+| ātma-vibhūtayaḥ | your own opulences |
+| yābhiḥ | by which |
+| vibhūtibhiḥ | by opulences |
+| lokān | worlds |
+| imān | these |
+| tvam | you |
+| vyāpya | pervading |
+| tiṣṭhasi | remain |
+

@@ -31,3 +31,59 @@ position: 113
 
 ```
 
+
+### Transliteration
+```
+nāsti buddhirayuktasya na cāyuktasya bhāvanā
+na cābhāvayataḥ śāntiraśāntasya kutaḥ sukham
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अनियंत्रित मन के परिणामों को स्पष्ट करते हैं। जिस व्यक्ति की इंद्रियां वश में नहीं हैं, उसमें आध्यात्मिक बुद्धि और परमात्मा का ध्यान करने की क्षमता नहीं होती। एकाग्रता और ध्यान के बिना मन को शांति नहीं मिल सकती, और शांति के बिना सच्चे सुख की प्राप्ति असंभव है।
+
+### Meaning
+
+Lord Krishna explains the consequences of an uncontrolled mind. A person who cannot control their senses lacks spiritual intelligence and the ability to meditate on the Supreme. Without such focus and meditation, there is no inner peace, and without peace, true happiness is impossible to attain.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| अस्ति | है |
+| बुद्धिः | बुद्धि |
+| अयुक्तस्य | अयुक्त (जिसका मन वश में नहीं है) पुरुष की |
+| न | नहीं |
+| च | और |
+| अयुक्तस्य | अयुक्त पुरुष की |
+| भावना | भावना (ध्यान या एकाग्रता) |
+| न | नहीं |
+| च | और |
+| अभावयतः | भावनाहीन (ध्यान न करने वाले) पुरुष के लिए |
+| शान्तिः | शान्ति |
+| अशान्तस्य | अशान्त पुरुष को |
+| कुतः | कहाँ से |
+| सुखम् | सुख |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| asti | there is |
+| buddhiḥ | intelligence |
+| ayuktasya | of one who is not connected (uncontrolled) |
+| na | not |
+| ca | and |
+| ayuktasya | of one who is not connected |
+| bhāvanā | concentration/meditation |
+| na | not |
+| ca | and |
+| abhāvayataḥ | for one who is not concentrating |
+| śāntiḥ | peace |
+| aśāntasya | for the unpeaceful |
+| kutaḥ | where is |
+| sukham | happiness |
+

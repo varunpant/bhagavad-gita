@@ -31,3 +31,59 @@ position: 513
 
 ```
 
+
+### Transliteration
+```
+ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha
+sarvathā vartamāno'pi na sa bhūyo'bhijāyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्म-ज्ञान के फल का वर्णन कर रहे हैं। जो व्यक्ति पुरुष (चेतना) और प्रकृति (भौतिक जगत) के वास्तविक स्वरूप को उनके गुणों सहित जान लेता है, वह जन्म-मरण के चक्र से मुक्त हो जाता है। ऐसा ज्ञानी पुरुष वर्तमान में किसी भी परिस्थिति या कर्तव्य कर्म में स्थित होने पर भी पुनः संसार में जन्म नहीं लेता।
+
+### Meaning
+
+In this verse, Lord Krishna describes the fruit of self-realization. One who understands the true nature of Purusha (the soul) and Prakriti (material nature) along with its modes (Gunas) is liberated from the cycle of rebirth. Regardless of their current lifestyle or external activities, such a realized soul is never bound to be born again in the material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| एवम् | इस प्रकार |
+| वेत्ति | जानता है |
+| पुरुषम् | पुरुष (जीवात्मा) को |
+| प्रकृतिम् | प्रकृति को |
+| च | और |
+| गुणैः | गुणों के |
+| सह | साथ |
+| सर्वथा | सब प्रकार से |
+| वर्तमानः | व्यवहार करता हुआ / स्थित |
+| अपि | भी |
+| न | नहीं |
+| सः | वह |
+| भूयः | पुनः |
+| अभिजायते | जन्म लेता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| evam | thus |
+| vetti | knows |
+| puruṣam | the Purusha (Spirit) |
+| prakṛtim | Prakriti (Nature) |
+| ca | and |
+| guṇaiḥ | with the Gunas (modes) |
+| saha | along |
+| sarvathā | in all ways |
+| vartamānaḥ | acting / existing |
+| api | even |
+| na | not |
+| saḥ | he |
+| bhūyaḥ | again |
+| abhijāyate | is born |
+

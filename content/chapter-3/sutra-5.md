@@ -31,3 +31,59 @@ position: 124
 
 ```
 
+
+### Transliteration
+```
+na hi kaścit kṣaṇam api jātu tiṣṭhaty akarmakṛt
+kāryate hy avaśaḥ karma sarvaḥ prakṛtijair guṇaiḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण स्पष्ट करते हैं कि कोई भी प्राणी कभी भी पूर्ण रूप से कर्महीन नहीं हो सकता। मनुष्य का शरीर और मन निरंतर प्रकृति के तीन गुणों (सत्त्व, रजस और तमस) के प्रभाव में कार्य करते रहते हैं। इसलिए, कृत्रिम रूप से कर्मों का त्याग करने के बजाय, मनुष्य को अनासक्त भाव से अपने नियत कर्तव्यों का पालन करना चाहिए।
+
+### Meaning
+
+Lord Krishna explains that absolute inaction is impossible for any embodied being. The physical and mental body is constantly driven by the three modes of material nature (Sattva, Rajas, and Tamas). Therefore, instead of artificially renouncing action, one should engage in righteous duties without attachment.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| हि | निश्चय ही |
+| कश्चित् | कोई भी |
+| क्षणम् | एक क्षण |
+| अपि | भी |
+| जातु | किसी भी समय |
+| तिष्ठति | रहता है |
+| अकर्मकृत् | बिना कर्म किए |
+| कार्यते | बाध्य किया जाता है |
+| हि | निश्चय ही |
+| अवशः | विवश होकर |
+| कर्म | कर्म |
+| सर्वः | सब |
+| प्रकृतिजैः | प्रकृति से उत्पन्न |
+| गुणैः | गुणों द्वारा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| hi | certainly |
+| kaścit | anyone |
+| kṣaṇam | a moment |
+| api | even |
+| jātu | at any time |
+| tiṣṭhati | remains |
+| akarmakṛt | without doing action |
+| kāryate | is forced to do |
+| hi | certainly |
+| avaśaḥ | helplessly |
+| karma | action |
+| sarvaḥ | everyone |
+| prakṛtijaiḥ | born of material nature |
+| guṇaiḥ | by the modes |
+

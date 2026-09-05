@@ -31,3 +31,43 @@ position: 499
 
 ```
 
+
+### Transliteration
+```
+asaktir anabhiṣvaṅgaḥ putra-dāra-gṛhādiṣu
+nityaṃ ca sama-cittatvam iṣṭāniṣṭopapattiṣu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ज्ञान के लक्षणों का वर्णन जारी रखते हुए अनासक्ति और समभाव पर बल देते हैं। अपने परिवार और गृहस्थी के प्रति अत्यधिक मोह या ममता का त्याग करना आवश्यक है। इसके साथ ही, अनुकूल (प्रिय) या प्रतिकूल (अप्रिय) परिस्थितियों के आने पर मन को सदा संतुलित रखना ही सच्चा ज्ञान है।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe the qualities of knowledge, emphasizing detachment and equanimity. One must practice non-attachment and avoid intense possessiveness toward family, home, and possessions. Furthermore, maintaining a constant, balanced mind in both favorable (desirable) and unfavorable (undesirable) circumstances is a key attribute of wisdom.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| असक्तिः | आसक्ति का न होना (अनासक्ति) |
+| अनभिष्वङ्गः | ममता या अत्यधिक मोह का न होना |
+| पुत्र-दार-गृह-आदिषु | पुत्र, स्त्री, घर आदि में |
+| नित्यम् | सदा / निरंतर |
+| च | और |
+| सम-चित्तत्वम् | समचित्तता (चित्त की समता) |
+| इष्ट-अनिष्ट-उपपत्तिषु | प्रिय और अप्रिय की प्राप्ति में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| asaktiḥ | absence of attachment |
+| anabhiṣvaṅgaḥ | absence of intense clinging or possessiveness |
+| putra-dāra-gṛha-ādiṣu | towards son, wife, home, and so on |
+| nityam | constantly |
+| ca | and |
+| sama-cittatvam | even-mindedness |
+| iṣṭa-aniṣṭa-upapattiṣu | upon the attainment of the desirable and the undesirable |
+

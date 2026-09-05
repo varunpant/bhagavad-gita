@@ -31,3 +31,53 @@ position: 324
 
 ```
 
+
+### Transliteration
+```
+ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ
+tasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण भक्ति योग की सुगमता का वर्णन कर रहे हैं। वे कहते हैं कि जो भक्त बिना किसी अन्य सांसारिक विषय में मन लगाए निरंतर केवल उनका ही स्मरण करता है, उसे भगवान की प्राप्ति अत्यंत सुगमता से हो जाती है। ऐसे नित्य-युक्त योगी के लिए परमात्मा दूर नहीं हैं।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the ease of attaining Him through undivided devotion. He states that for a yogi who is constantly absorbed in His contemplation without any distraction, the Supreme Lord is easily accessible. Continuous remembrance and single-minded devotion are highlighted as the key to God-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनन्यचेताः | अनन्य चित्त वाला (बिना किसी अन्य विषय के) |
+| सततम् | सदा / निरंतर |
+| यः | जो |
+| माम् | मुझको |
+| स्मरति | स्मरण करता है |
+| नित्यशः | नित्य / प्रतिदिन |
+| तस्य | उसके लिए |
+| अहम् | मैं |
+| सुलभः | सुलभ (आसानी से प्राप्त होने वाला) |
+| पार्थ | हे पार्थ (अर्जुन) |
+| नित्ययुक्तस्य | नित्य निरंतर मुझमें युक्त रहने वाले |
+| योगिनः | योगी के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ananyacetāḥ | with undivided mind |
+| satatam | always |
+| yaḥ | who |
+| mām | Me |
+| smarati | remembers |
+| nityaśaḥ | regularly / daily |
+| tasya | for him |
+| aham | I |
+| sulabhaḥ | easily attainable |
+| pārtha | O Partha (Arjuna) |
+| nityayuktasya | of the ever-united |
+| yoginaḥ | yogi |
+

@@ -31,3 +31,57 @@ position: 368
 
 ```
 
+
+### Transliteration
+```
+api cet sudurācāro bhajate mām ananyabhāk
+sādhur eva sa mantavyaḥ samyag vyavasito hi saḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण भक्ति की परम पावनकारी शक्ति का वर्णन कर रहे हैं। वे कहते हैं कि यदि कोई घोर पापी भी अन्य किसी का आश्रय न लेकर केवल मेरी शरण में आ जाता है, तो उसे परम पवित्र साधु ही समझना चाहिए। ऐसा इसलिए है क्योंकि उसने अपने जीवन का सर्वोत्तम और सही निर्णय ले लिया है कि ईश्वर की भक्ति ही एकमात्र सत्य है।
+
+### Meaning
+
+In this verse, Lord Krishna highlights the purifying power of exclusive devotion. He states that even if a person with a highly sinful past turns to Him with single-minded devotion, they should be considered saintly. This is because they have made the supreme and correct resolve to dedicate their life to the Divine, which will naturally reform them.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अपि | भी |
+| चेत् | यदि |
+| सु-दुराचारः | अत्यंत दुराचारी व्यक्ति |
+| भजते | भजता है / आराधना करता है |
+| माम् | मुझको |
+| अनन्य-भाक् | अनन्य भाव से (बिना किसी अन्य के) |
+| साधुः | साधु / सज्जन |
+| एव | ही |
+| सः | वह |
+| मन्तव्यः | मानने योग्य है |
+| सम्यक् | भली-भांति / सही |
+| व्यवसितः | निश्चय किया हुआ |
+| हि | क्योंकि |
+| सः | वह |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| api | even |
+| cet | if |
+| su-durācāraḥ | a person of very bad conduct |
+| bhajate | worships |
+| mām | Me |
+| ananya-bhāk | with single-minded devotion |
+| sādhuḥ | righteous / a saint |
+| eva | certainly |
+| saḥ | he |
+| mantavyaḥ | should be considered |
+| samyak | rightly |
+| vyavasitaḥ | resolved |
+| hi | because |
+| saḥ | he |
+

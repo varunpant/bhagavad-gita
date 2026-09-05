@@ -31,3 +31,59 @@ position: 486
 
 ```
 
+
+### Transliteration
+```
+yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati
+śubhāśubhaparityāgī bhaktimān yaḥ sa me priyaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस भक्त के लक्षणों का वर्णन कर रहे हैं जो उन्हें अत्यंत प्रिय है। वह सांसारिक सुखों में हर्षित नहीं होता और न ही अप्रिय परिस्थितियों में द्वेष या शोक करता है। वह शुभ और अशुभ दोनों प्रकार के कर्मों के फलों का त्याग कर समभाव में स्थित रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the qualities of a devotee who is very dear to Him. Such a person remains undisturbed by worldly pleasures and is free from hatred, grief, and selfish desires. By renouncing the fruits of both auspicious and inauspicious actions, they maintain equanimity in all situations.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| न | न तो |
+| हृष्यति | हर्षित होता है |
+| न | न |
+| द्वेष्टि | द्वेष करता है |
+| न | न |
+| शोचति | शोक करता है |
+| न | न |
+| काङ्क्षति | आकांक्षा करता है |
+| शुभ-अशुभ-परित्यागी | शुभ और अशुभ का परित्याग करने वाला |
+| भक्तिमान् | भक्ति से युक्त |
+| यः | जो |
+| सः | वह |
+| मे | मुझे |
+| प्रियः | प्रिय है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| na | neither |
+| hṛṣyati | rejoices |
+| na | nor |
+| dveṣṭi | grieves/hates |
+| na | nor |
+| śocati | laments |
+| na | nor |
+| kāṅkṣati | desires |
+| śubha-aśubha-parityāgī | renouncer of both the auspicious and inauspicious |
+| bhaktimān | full of devotion |
+| yaḥ | who |
+| saḥ | he |
+| me | to Me |
+| priyaḥ | is dear |
+

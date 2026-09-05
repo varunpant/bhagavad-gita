@@ -31,3 +31,53 @@ position: 433
 
 ```
 
+
+### Transliteration
+```
+anādimadhyāntamanantavīryam
+anantabāhuṃ śaśisūryanetram
+paśyāmi tvāṃ dīptahutāśavaktram
+svatejasā viśvamidaṃ tapantam
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विराट रूप का अत्यंत विस्मयकारी वर्णन कर रहे हैं। वे देखते हैं कि इस परम रूप की न तो कोई शुरुआत है, न मध्य और न ही कोई अंत। भगवान का तेज इतना प्रचंड है कि वह संपूर्ण ब्रह्मांड को तपा रहा है, जो उनकी असीम शक्ति और सर्वव्यापकता को दर्शाता है।
+
+### Meaning
+
+In this verse, Arjuna describes the awe-inspiring cosmic form of Lord Krishna. He perceives this supreme form as having no beginning, middle, or end, symbolizing eternity. The intense radiance emanating from the Lord is described as heating the entire universe, highlighting His limitless power and omnipresence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनादि-मध्य-अन्तम् | आदि, मध्य और अंत से रहित |
+| अनन्त-वीर्यम् | अनंत पराक्रम वाले |
+| अनन्त-बाहुम् | अनंत भुजाओं वाले |
+| शशि-सूर्य-नेत्रम् | चन्द्रमा और सूर्य रूपी नेत्रों वाले |
+| पश्यामि | मैं देखता हूँ |
+| त्वाम् | आपको |
+| दीप्त-हुताश-वक्त्रम् | प्रज्वलित अग्नि के समान मुख वाले |
+| स्व-तेजसा | अपने तेज से |
+| विश्वम् | जगत को |
+| इदम् | इस |
+| तपन्तम् | तपाते हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| anādi-madhya-antam | without beginning, middle, or end |
+| ananta-vīryam | of infinite power |
+| ananta-bāhum | with infinite arms |
+| śaśi-sūrya-netram | having the moon and sun as eyes |
+| paśyāmi | I see |
+| tvām | You |
+| dīpta-hutāśa-vaktram | having a mouth like blazing fire |
+| sva-tejasā | by Your own radiance |
+| viśvam | the universe |
+| idam | this |
+| tapantam | heating |
+

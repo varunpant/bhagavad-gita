@@ -32,3 +32,59 @@ Lord, art Thou to be thought of by me?
 
 ```
 
+
+### Transliteration
+```
+kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan
+keṣu keṣu ca bhāveṣu cintyo'si bhagavanmayā
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण से पूछते हैं कि वे निरंतर ध्यान करते हुए उनके दिव्य स्वरूप को कैसे समझ सकते हैं। वे उन विशिष्ट रूपों, विभूतियों या भावों के बारे में जानना चाहते हैं जिनमें मन को एकाग्र करके भगवान का स्मरण किया जा सके। यह जिज्ञासा भगवान की सर्वव्यापकता को व्यावहारिक रूप से समझने के लिए है।
+
+### Meaning
+
+In this verse, Arjuna asks Lord Krishna how he can constantly meditate upon Him and comprehend His divine nature. He inquires about the specific forms, aspects, or manifestations in which the Lord should be contemplated. This question sets the stage for Krishna to describe His divine glories (vibhutis) in the subsequent verses.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कथम् | कैसे / किस प्रकार |
+| विद्याम् | जानूँ |
+| अहम् | मैं |
+| योगिन् | हे योगेश्वर / हे योगी |
+| त्वाम् | आपको |
+| सदा | निरन्तर / सदा |
+| परिचिन्तयन् | चिन्तन करता हुआ |
+| केषु | किन |
+| केषु | किन (विभिन्न) |
+| च | और |
+| भावेषु | भावों में / रूपों में |
+| चिन्त्यः | चिन्तन करने योग्य |
+| असि | हैं |
+| भगवन् | हे भगवान |
+| मया | मेरे द्वारा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| katham | how |
+| vidyām | may I know |
+| aham | I |
+| yogin | O Yogi (Lord of Yoga) |
+| tvām | You |
+| sadā | always |
+| paricintayan | meditating / thinking |
+| keṣu | in which |
+| keṣu | in which (various) |
+| ca | and |
+| bhāveṣu | aspects / states of being |
+| cintyaḥ | to be contemplated |
+| asi | are You |
+| bhagavan | O Supreme Lord |
+| mayā | by me |
+

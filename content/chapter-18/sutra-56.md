@@ -31,3 +31,51 @@ position: 679
 
 ```
 
+
+### Transliteration
+```
+sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ
+matprasādādavāpnoti śāśvataṃ padamavyayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण भक्ति की महिमा का वर्णन कर रहे हैं। जो भक्त अपने सभी कर्मों को भगवान को समर्पित कर देता है और केवल उन्हीं की शरण में रहता है, वह कर्मों के बंधन से मुक्त हो जाता है। भगवान की अहैतुकी कृपा से ऐसा साधक परम धाम को प्राप्त करता है, जो कभी नष्ट नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the power of absolute surrender and devotion. A devotee who performs all duties while being completely surrendered to the Supreme Lord is not bound by the reactions of those actions. By the Lord's divine grace, such a person attains the eternal, imperishable spiritual realm.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्व | सब प्रकार के |
+| कर्माणि | कर्मों को |
+| अपि | भी |
+| सदा | सदा |
+| कुर्वाणः | करता हुआ |
+| मत्-व्यपाश्रयः | मेरे आश्रित रहने वाला |
+| मत्-प्रसादात् | मेरी कृपा से |
+| अवाप्नोति | प्राप्त करता है |
+| शाश्वतम् | सनातन |
+| पदम् | पद को |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarva | all |
+| karmāṇi | activities |
+| api | even |
+| sadā | always |
+| kurvāṇaḥ | performing |
+| mad-vyapāśrayaḥ | one under My protection |
+| mat-prasādāt | by My grace |
+| avāpnoti | attains |
+| śāśvataṃ | the eternal |
+| padam | abode |
+| avyayam | imperishable |
+

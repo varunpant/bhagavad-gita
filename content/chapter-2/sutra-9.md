@@ -31,3 +31,60 @@ position: 56
 
 ```
 
+
+### Transliteration
+```
+sañjaya uvāca
+evamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapa
+na yotsya iti govindamuktvā tūṣṇīṃ babhūva ha
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र को बताते हैं कि अर्जुन ने युद्धभूमि में अपना अंतिम निर्णय सुना दिया है। शोक और भ्रम से घिरे हुए अर्जुन ने श्रीकृष्ण से स्पष्ट कह दिया कि वे युद्ध नहीं करेंगे और फिर चुप हो गए। अर्जुन की यह चुप्पी ही उस महान गीता के उपदेश की पृष्ठभूमि तैयार करती है, जिसे भगवान श्रीकृष्ण अब आरंभ करेंगे।
+
+### Meaning
+
+Sanjaya describes Arjuna's final declaration before falling silent on the battlefield. Overwhelmed by grief and confusion, Arjuna explicitly tells Krishna that he will not fight. This sets the stage for Krishna to begin his profound spiritual discourse, the Bhagavad Gita, to dispel Arjuna's ignorance.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सञ्जयः | संजय |
+| उवाच | ने कहा |
+| एवम् | इस प्रकार |
+| उक्त्वा | कहकर |
+| हृषीकेशम् | हृषीकेश (कृष्ण) से |
+| गुडाकेशः | गुडाकेश (अर्जुन) ने |
+| परन्तप | हे शत्रुओं को संताप देने वाले (धृतराष्ट्र) |
+| न | नहीं |
+| योत्स्ये | युद्ध करूँगा |
+| इति | ऐसा |
+| गोविन्दम् | गोविन्द (कृष्ण) से |
+| उक्त्वा | कहकर |
+| तूष्णीम् | चुप |
+| बभूव | हो गए |
+| ह | निश्चय ही |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sañjayaḥ | Sanjaya |
+| uvāca | said |
+| evam | thus |
+| uktvā | having spoken |
+| hṛṣīkeśam | unto Hrishikesha (Krishna) |
+| guḍākeśaḥ | Gudakesha (Arjuna) |
+| parantapa | O chastiser of enemies (Dhritarashtra) |
+| na | not |
+| yotsye | I shall fight |
+| iti | thus |
+| govindam | unto Govinda (Krishna) |
+| uktvā | having said |
+| tūṣṇīm | silent |
+| babhūva | became |
+| ha | certainly |
+

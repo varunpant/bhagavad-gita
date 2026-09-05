@@ -31,3 +31,57 @@ position: 639
 
 ```
 
+
+### Transliteration
+```
+tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ
+paśyatyakṛtabuddhitvānna sa paśyati durmatiḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण स्पष्ट करते हैं कि कर्म के सिद्ध होने में पाँच कारण (अधिष्ठान, कर्ता, करण, चेष्टा और दैव) होते हैं। इसके बावजूद, जो व्यक्ति आत्म-साक्षात्कार या विवेक-बुद्धि के अभाव के कारण केवल अपनी आत्मा को ही एकमात्र कर्ता मानता है, वह अज्ञानी है। उसकी बुद्धि शुद्ध नहीं है, इसलिए वह सत्य को नहीं देख पाता।
+
+### Meaning
+
+Sri Krishna explains that since five factors (the body, the doer, the senses, the endeavors, and destiny) are responsible for the accomplishment of all actions, the soul alone is not the doer. Anyone who, due to an unrefined intellect, considers the pure Self to be the sole agent of action is ignorant. Such a person has a distorted vision and does not perceive the truth of reality.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत्र | वहाँ (उस विषय में) |
+| एवम् | इस प्रकार |
+| सति | होने पर |
+| कर्तारम् | कर्ता |
+| आत्मानम् | आत्मा को |
+| केवलम् | केवल / एकमात्र |
+| तु | लेकिन |
+| यः | जो |
+| पश्यति | देखता है |
+| अकृत-बुद्धित्वात् | अशुद्ध बुद्धि होने के कारण |
+| न | नहीं |
+| सः | वह |
+| पश्यति | देखता है |
+| दुर्मतिः | दुर्बुद्धि मनुष्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tatra | there (in that matter) |
+| evam | thus |
+| sati | being |
+| kartāram | the doer |
+| ātmānam | the self |
+| kevalam | alone / only |
+| tu | but |
+| yaḥ | who |
+| paśyati | sees |
+| akṛta-buddhitvāt | due to an unrefined intellect |
+| na | not |
+| saḥ | he |
+| paśyati | sees |
+| durmatiḥ | the foolish person / of perverted intelligence |
+

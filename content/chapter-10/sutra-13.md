@@ -31,3 +31,59 @@ position: 385
 
 ```
 
+
+### Transliteration
+```
+āhus tvām ṛṣayaḥ sarve devarṣir nāradas tathā
+asito devalo vyāsaḥ svayaṃ caiva bravīṣi me
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण की परम दिव्यता को स्वीकार करते हैं। वे कहते हैं कि केवल वे ही नहीं, बल्कि भूतकाल के महानतम ऋषि-मुनि भी कृष्ण को परम सत्य मानते आए हैं। अब स्वयं कृष्ण भी अपने मुख से इस सत्य की पुष्टि कर रहे हैं, जिससे अर्जुन का विश्वास पूर्णतः सुदृढ़ हो जाता है।
+
+### Meaning
+
+In this verse, Arjuna accepts and confirms Krishna's supreme divine status. He points out that it is not just his personal opinion, but the consensus of all the great Vedic authorities and sages of the past. Now, Krishna Himself is directly confirming this ultimate truth, leaving no room for doubt.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आहुः | कहते हैं |
+| त्वाम् | आपको |
+| ऋषयः | ऋषिगण |
+| सर्वे | सभी |
+| देवर्षिः | देवर्षि |
+| नारदः | नारद |
+| तथा | तथा |
+| असितः | असित |
+| देवलः | देवल |
+| व्यासः | व्यास |
+| स्वयम् | स्वयं |
+| च | और |
+| एव | ही |
+| ब्रवीषि | कह रहे हैं |
+| मे | मुझसे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āhuḥ | say |
+| tvām | of You |
+| ṛṣayaḥ | the sages |
+| sarve | all |
+| devarṣiḥ | the celestial sage |
+| nāradaḥ | Nārada |
+| tathā | as well as |
+| asitaḥ | Asita |
+| devalaḥ | Devala |
+| vyāsaḥ | Vyāsa |
+| svayam | Yourself |
+| ca | and |
+| eva | indeed |
+| bravīṣi | You are speaking |
+| me | to me |
+

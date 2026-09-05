@@ -31,3 +31,57 @@ position: 301
 
 ```
 
+
+### Transliteration
+```
+yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitumicchati
+tasya tasyācalāṃ śraddhāṃ tāmeva vidadhāmyaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि वे सभी प्राणियों के हृदय में परमात्मा रूप में स्थित हैं। जब कोई भक्त किसी अन्य देवी-देवता की पूजा श्रद्धापूर्वक करना चाहता है, तो भगवान उसकी उस श्रद्धा को उसी रूप में सुदृढ़ कर देते हैं। यह ईश्वर की परम उदारता और सर्वव्यापकता को दर्शाता है, जहाँ वे प्रत्येक जीव की इच्छा का सम्मान करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains that He dwells in the hearts of all beings as the Supersoul. When a devotee desires to worship a particular demigod or deity with faith, the Lord strengthens and stabilizes that faith in that specific form. This highlights the supreme tolerance and omnipresence of the Divine, who facilitates the spiritual journey of every soul according to their inclination.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः यः | जो-जो |
+| याम् याम् | जिस-जिस |
+| तनुम् | शरीर को / देवता के स्वरूप को |
+| भक्तः | भक्त |
+| श्रद्धया | श्रद्धा से |
+| अर्चितुम् | पूजना |
+| इच्छति | चाहता है |
+| तस्य तस्य | उस-उस (भक्त) की |
+| अचलाम् | स्थिर / अडिग |
+| श्रद्धाम् | श्रद्धा को |
+| ताम् | उस |
+| एव | ही को |
+| विदधामि | दृढ़ करता हूँ |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ yaḥ | whoever |
+| yām yām | whichever |
+| tanum | form / deity |
+| bhaktaḥ | devotee |
+| śraddhayā | with faith |
+| arcitum | to worship |
+| icchati | desires |
+| tasya tasya | of that particular |
+| acalām | unwavering / steady |
+| śraddhām | faith |
+| tām | that |
+| eva | surely / only |
+| vidadhāmi | bestow / make |
+| aham | I |
+

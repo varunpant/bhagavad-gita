@@ -31,3 +31,57 @@ position: 591
 
 ```
 
+
+### Transliteration
+```
+āsurīṃ yonimāpannā mūḍhā janmani janmani
+māmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आसुरी स्वभाव वाले मनुष्यों के अंतिम पतन का वर्णन कर रहे हैं। वे बताते हैं कि जो लोग द्वेष और अहंकार से भरे होते हैं, वे बार-बार पशु, पक्षी या क्रूर मनुष्यों जैसी नीच योनियों में जन्म लेते हैं। ईश्वर की प्राप्ति के मार्ग से पूरी तरह भटक जाने के कारण, उनका निरंतर आध्यात्मिक पतन होता रहता है और वे अंततः घोर अंधकारमय गतियों को प्राप्त होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the ultimate downfall of those possessing demonic qualities. He explains that due to their hatred and ego, these deluded souls are repeatedly reborn into lower, animalistic, or degraded species. Failing to attain the path toward God, they sink progressively lower into the darkest regions of existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आसुरीम् | आसुरी (राक्षसी) |
+| योनिम् | योनि को |
+| आपन्नाः | प्राप्त हुए |
+| मूढाः | मूर्ख लोग |
+| जन्मनि | जन्म में |
+| जन्मनि | जन्म में |
+| माम् | मुझको |
+| अप्राप्य | न पाकर |
+| एव | ही |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| ततः | उससे (भी) |
+| यान्ति | प्राप्त होते हैं |
+| अधमाम् | अत्यंत नीच |
+| गतिम् | गति को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āsurīm | demonic |
+| yonim | womb / species |
+| āpannāḥ | having attained |
+| mūḍhāḥ | the deluded ones |
+| janmani | in birth |
+| janmani | in birth |
+| mām | Me |
+| aprāpya | without attaining |
+| eva | indeed |
+| kaunteya | O son of Kunti |
+| tataḥ | than that |
+| yānti | they go to |
+| adhamām | the lowest |
+| gatim | destination / state |
+

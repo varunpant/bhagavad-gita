@@ -31,3 +31,55 @@ position: 533
 
 ```
 
+
+### Transliteration
+```
+sattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata
+jñānam āvṛtya tu tamaḥ pramāde sañjayaty uta
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तीनों गुणों के प्रभाव का संक्षेप में वर्णन करते हैं। सत्त्वगुण मनुष्य को सुख और संतोष का अनुभव कराता है, रजोगुण उसे सकाम कर्मों की ओर धकेलता है, और तमोगुण मनुष्य के विवेक को ढककर उसे आलस्य, प्रमाद और अज्ञान के वश में कर देता है।
+
+### Meaning
+
+In this verse, Lord Krishna summarizes the binding effects of the three modes of material nature. Sattva binds the soul to happiness and peace, Rajas drives the individual toward fruitive actions and desires, and Tamas covers the living entity's wisdom, binding them to laziness, delusion, and negligence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सत्त्वम् | सत्त्वगुण |
+| सुखे | सुख में |
+| सञ्जयति | लगाता है |
+| रजः | रजोगुण |
+| कर्मणि | कर्म में |
+| भारत | हे भरतवंशी अर्जुन |
+| ज्ञानम् | ज्ञान को |
+| आवृत्य | ढककर |
+| तु | लेकिन |
+| तमः | तमोगुण |
+| प्रमादे | प्रमाद (असावधानी) में |
+| सञ्जयति | लगाता है |
+| उत | भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sattvam | the mode of goodness |
+| sukhe | to happiness |
+| sañjayati | binds |
+| rajaḥ | the mode of passion |
+| karmaṇi | to action |
+| bhārata | O descendant of Bharata |
+| jñānam | knowledge |
+| āvṛtya | covering |
+| tu | but |
+| tamaḥ | the mode of ignorance |
+| pramāde | to negligence |
+| sañjayati | binds |
+| uta | also |
+

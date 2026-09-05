@@ -31,3 +31,55 @@ position: 277
 
 ```
 
+
+### Transliteration
+```
+pūrvābhyāsena tenaiva hriyate hyavaśo'pi saḥ
+jijñāsurapi yogasya śabdabrahmātivartate
+
+```
+
+### भावार्थ
+
+इस श्लोक में श्रीकृष्ण समझाते हैं कि जो साधक अपने पिछले जन्म में योग से विचलित हो गया था, वह अपने पूर्व जन्म के संस्कारों और अभ्यास के बल पर स्वतः ही इस जन्म में योग की ओर खिंचा चला आता है। उसकी यह आध्यात्मिक प्रगति कभी नष्ट नहीं होती। यहाँ तक कि योग का केवल जिज्ञासु भी वेदों में वर्णित सकाम कर्मों और अनुष्ठानों के फलों से ऊपर उठ जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that a yogi who fell from the path in a past life is automatically drawn back to spiritual practice by the latent impressions (samskaras) of their previous efforts. Their spiritual momentum is never lost, and they are carried forward almost effortlessly. Even a novice who merely desires to know Yoga transcends the fruits of Vedic ritualistic ceremonies.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पूर्व-अभ्यासेन | पूर्व जन्म के अभ्यास से |
+| तेन | उस |
+| एव | ही (कारण) |
+| ह्रियते | आकर्षित किया जाता है |
+| हि | निश्चय ही |
+| अवशः | विवश (न चाहते हुए भी) |
+| अपि | भी |
+| सः | वह |
+| जिज्ञासुः | जिज्ञासु |
+| अपि | भी |
+| योगस्य | योग का |
+| शब्द-ब्रह्म | वेदों के सकाम कर्मों के विधान को |
+| अतिवर्तते | पार कर जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pūrva-abhyāsena | by the practice of the previous life |
+| tena | by that |
+| eva | indeed |
+| hriyate | is attracted / carried away |
+| hi | certainly |
+| avaśaḥ | helpless / without volition |
+| api | even |
+| saḥ | he |
+| jijñāsuḥ | an inquisitive seeker |
+| api | even |
+| yogasya | of Yoga |
+| śabda-brahma | the ritualistic principles of scriptures |
+| ativartate | transcends |
+

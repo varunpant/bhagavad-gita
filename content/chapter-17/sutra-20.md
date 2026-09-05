@@ -31,3 +31,59 @@ position: 615
 
 ```
 
+
+### Transliteration
+```
+dātavyam iti yad dānaṃ dīyate 'nupakāriṇe
+deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक दान के लक्षणों का वर्णन करते हैं। सात्त्विक दान वह है जो बिना किसी प्रत्युपकार की आशा के, केवल कर्तव्य भावना से दिया जाता है। इसके लिए उपयुक्त स्थान, सही समय और सुपात्र व्यक्ति का होना भी आवश्यक माना गया है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of sattvik (pure) charity. True charity is performed out of a sense of duty, without expecting anything in return. It must also be given at the right place, at the right time, and to a deserving recipient.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दातव्यम् | देना कर्तव्य है |
+| इति | इस प्रकार |
+| यत् | जो |
+| दानम् | दान |
+| दीयते | दिया जाता है |
+| अनुपकारिणे | उपकार न करने वाले के प्रति |
+| देशे | योग्य स्थान में |
+| काले | योग्य समय में |
+| च | और |
+| पात्रे | योग्य पात्र के प्रति |
+| च | और |
+| तत् | वह |
+| दानम् | दान |
+| सात्त्विकम् | सात्त्विक |
+| स्मृतम् | माना गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dātavyam | ought to be given |
+| iti | thus (with this attitude) |
+| yat | which |
+| dānam | charity |
+| dīyate | is given |
+| anupakāriṇe | to one who does no return favor |
+| deśe | in a proper place |
+| kāle | at a proper time |
+| ca | and |
+| pātre | to a worthy recipient |
+| ca | and |
+| tad | that |
+| dānam | charity |
+| sāttvikam | sattvik (pure) |
+| smṛtam | is considered |
+

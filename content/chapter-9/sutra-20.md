@@ -31,3 +31,63 @@ position: 358
 
 ```
 
+
+### Transliteration
+```
+traividyā māṃ somapāḥ pūtapāpā
+yajñair iṣṭvā svargatiṃ prārthayante
+te puṇyam āsādya surendraloka
+maśnanti divyān divi devabhogān
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन सकाम भक्तों का वर्णन कर रहे हैं जो वेदों के कर्मकाण्ड में विश्वास रखते हैं। वे यज्ञों के माध्यम से भगवान की आराधना तो करते हैं, परंतु उनका उद्देश्य केवल स्वर्ग के सुखों को प्राप्त करना होता है। यद्यपि वे अपने पुण्यों के कारण स्वर्ग लोक (इन्द्रलोक) पहुँच जाते हैं और वहाँ दिव्य भोग भोगते हैं, परंतु यह सुख अस्थायी होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the path of those ritualistic worshippers who follow the karma-kanda section of the Vedas. By performing sacrifices and drinking the Soma juice, they purify themselves of sins and seek entry into the heavenly planets. While they successfully reach the realm of Indra and enjoy celestial pleasures, this attainment is temporary and does not lead to ultimate liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| त्रैविद्याः | तीनों वेदों के ज्ञाता |
+| माम् | मुझको |
+| सोमपाः | सोम रस पीने वाले |
+| पूतपापाः | पापों से पवित्र हुए |
+| यज्ञैः | यज्ञों के द्वारा |
+| इष्ट्वा | पूजकर |
+| स्वर्गतिम् | स्वर्ग की गति को |
+| प्रार्थयन्ते | प्रार्थना करते हैं |
+| ते | वे |
+| पुण्यम् | पुण्यमय |
+| आसाद्य | प्राप्त करके |
+| सुरेन्द्रलोकम् | इन्द्र के लोक को |
+| अश्नन्ति | भोगते हैं |
+| दिव्यान् | दिव्य |
+| दिवि | स्वर्ग में |
+| देवभोगान् | देवताओं के भोगों को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| traividyāḥ | knowers of the three Vedas |
+| mām | Me |
+| somapāḥ | drinkers of the Soma juice |
+| pūtapāpāḥ | purified of sins |
+| yajñaiḥ | by sacrifices |
+| iṣṭvā | worshipping |
+| svargatim | passage to heaven |
+| prārthayante | pray for |
+| te | they |
+| puṇyam | pious / holy |
+| āsādya | attaining |
+| surendralokam | the world of the king of gods (Indra) |
+| aśnanti | enjoy / partake of |
+| divyān | divine |
+| divi | in heaven |
+| devabhogān | the pleasures of the gods |
+

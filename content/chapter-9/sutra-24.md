@@ -31,3 +31,61 @@ position: 362
 
 ```
 
+
+### Transliteration
+```
+ahaṃ hi sarvayajñānāṃ bhoktā ca prabhureva ca
+na tu māmabhijānanti tattvenātaścyavanti te
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि सभी वैदिक यज्ञों और अनुष्ठानों के अंतिम प्राप्तकर्ता और स्वामी वही हैं। जो लोग देवताओं की पूजा करते हैं, वे अनजाने में कृष्ण की ही पूजा कर रहे होते हैं, लेकिन वे इस परम सत्य को नहीं जानते। इस अज्ञानता के कारण, वे केवल अस्थायी स्वर्गिक लोकों को प्राप्त करते हैं और पुण्य क्षीण होने पर पुनः जन्म-मृत्यु के चक्र में गिर जाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna declares that He is the ultimate enjoyer and Lord of all sacrifices. Those who worship demigods are indirectly worshiping Him, but because they do not recognize His supreme position in truth, their worship remains indirect and limited. Consequently, they only attain temporary heavenly planets and must return to the cycle of birth and death once their merits are exhausted.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहम् | मैं |
+| ही | निश्चय ही |
+| सर्व-यज्ञानाम् | समस्त यज्ञों का |
+| भोक्ता | भोक्ता / उपभोग करने वाला |
+| च | और |
+| प्रभुः | स्वामी |
+| एव | ही |
+| च | भी |
+| न | नहीं |
+| तु | परन्तु |
+| माम् | मुझको |
+| अभिजानन्ति | जानते हैं |
+| तत्त्वेन | तत्त्व से / वास्तविक रूप में |
+| अतः | इसलिए |
+| च्यवन्ति | पतित होते हैं / गिरते हैं |
+| ते | वे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aham | I |
+| hi | surely |
+| sarva-yajñānām | of all sacrifices |
+| bhoktā | the enjoyer |
+| ca | and |
+| prabhuḥ | the Lord |
+| eva | only |
+| ca | and |
+| na | not |
+| tu | but |
+| mām | Me |
+| abhijānanti | they know |
+| tattvena | in truth |
+| ataḥ | therefore |
+| cyavanti | they fall |
+| te | they |
+

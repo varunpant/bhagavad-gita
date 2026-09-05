@@ -31,3 +31,53 @@ position: 479
 
 ```
 
+
+### Transliteration
+```
+abhyāse'pyasamartho'si matkarmaparamo bhava
+madarthamapi karmāṇi kurvan siddhimavāpsyasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को भक्ति का एक और सरल मार्ग बताते हैं। यदि कोई साधक मन को स्थिर करने के अभ्यास (अभ्यास योग) में भी असमर्थ है, तो उसे अपने सभी कर्म भगवान को समर्पित कर देने चाहिए। भगवान के निमित्त नि:स्वार्थ भाव से कर्म करने से भी अंततः चित्त शुद्धि होती है और परम सिद्धि प्राप्त होती है।
+
+### Meaning
+
+In this verse, Lord Krishna offers an alternative path of devotion for those who find the practice of meditation and mind-control difficult. If one is unable to practice constant remembrance, they should perform all their duties and actions for the sake of the Divine. By dedicating all actions to God without personal attachment, one purifies the mind and eventually attains spiritual perfection.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अभ्यासे | अभ्यास में |
+| अपि | भी |
+| असमर्थः | असमर्थ |
+| असि | तुम हो |
+| मत्-कर्म-परमः | मेरे लिए कर्म करने के परायण |
+| भव | हो जाओ |
+| मद्-अर्थम् | मेरे निमित्त (मेरे लिए) |
+| अपि | भी |
+| कर्माणि | कर्मों को |
+| कुर्वन् | करते हुए |
+| सिद्धिम् | सिद्धि को |
+| अवाप्स्यसि | तुम प्राप्त करोगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| abhyāse | in practice |
+| api | even |
+| asamarthaḥ | unable |
+| asi | you are |
+| mat-karma-paramaḥ | intent on performing actions for Me |
+| bhava | become |
+| mad-artham | for My sake |
+| api | even |
+| karmāṇi | actions |
+| kurvan | performing |
+| siddhim | perfection |
+| avāpsyasi | you will attain |
+

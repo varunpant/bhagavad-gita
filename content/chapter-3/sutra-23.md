@@ -31,3 +31,57 @@ position: 142
 
 ```
 
+
+### Transliteration
+```
+yadi hyahaṃ na varteyaṃ jātu karmaṇyatandritaḥ
+mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझा रहे हैं कि समाज के नेता या श्रेष्ठ पुरुष का आचरण कैसा होना चाहिए। यदि कृष्ण स्वयं कर्म करना छोड़ दें, तो सामान्य मनुष्य भी उन्हीं का अनुसरण करते हुए अकर्मण्य हो जाएंगे। इसलिए, लोकसंग्रह और समाज को सही दिशा दिखाने के लिए भगवान निरंतर निष्काम भाव से कर्म करते रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna the profound impact a leader's actions have on society. If Krishna were to stop performing his duties, ordinary people would follow his example and fall into inaction. Therefore, to set the right precedent and maintain the world order, the Lord continuously engages in action without any laziness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदि | यदि |
+| हि | क्योंकि |
+| अहम् | मैं |
+| न | नहीं |
+| वर्तेयम् | प्रवृत्त होऊँ |
+| जातु | कभी |
+| कर्मणि | कर्म में |
+| अतन्द्रितः | आलस्य रहित होकर |
+| मम | मेरे |
+| वर्त्म | मार्ग का |
+| अनुवर्तन्ते | अनुसरण करते हैं |
+| मनुष्याः | मनुष्य |
+| पार्थ | हे पार्थ (अर्जुन) |
+| सर्वशः | सब प्रकार से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadi | if |
+| hi | certainly / because |
+| aham | I |
+| na | not |
+| varteyam | should engage |
+| jātu | ever |
+| karmaṇi | in action |
+| atandritaḥ | without laziness |
+| mama | my |
+| vartma | path |
+| anuvartante | follow |
+| manuṣyāḥ | men |
+| pārtha | O Partha (Arjuna) |
+| sarvaśaḥ | in all respects |
+

@@ -31,3 +31,59 @@ position: 104
 
 ```
 
+
+### Transliteration
+```
+yaḥ sarvatrānabhisnehastattatprāpya śubhāśubham
+nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति के लक्षण बताते हैं। ऐसा व्यक्ति सांसारिक वस्तुओं और परिस्थितियों के प्रति किसी भी प्रकार का मोह या आसक्ति नहीं रखता। चाहे उसके जीवन में अनुकूल (शुभ) परिस्थितियाँ आएं या प्रतिकूल (अशुभ), वह न तो अत्यधिक हर्षित होता है और न ही शोक या द्वेष करता है। इसी समभाव के कारण उसकी बुद्धि परमात्मा में स्थिर रहती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a person with steady wisdom (Sthitaprajna). Such a person is completely free from worldly attachments and affections. Whether they encounter favorable (good) or unfavorable (bad) situations, they neither rejoice in success nor despair in failure. Because of this equanimity, their consciousness remains firmly established in the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| सर्वत्र | सब जगह |
+| अनभिस्नेहः | स्नेहरहित है |
+| तत् | उस |
+| तत् | उस |
+| प्राप्य | प्राप्त करके |
+| शुभम् | शुभ को |
+| अशुभम् | अशुभ को |
+| न | न तो |
+| अभिनन्दति | प्रसन्न होता है |
+| न | न ही |
+| द्वेष्टि | द्वेष करता है |
+| तस्य | उसकी |
+| प्रज्ञा | बुद्धि |
+| प्रतिष्ठिता | स्थिर है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| sarvatra | everywhere |
+| anabhisnehaḥ | without affection |
+| tat | that |
+| tat | that |
+| prāpya | having obtained |
+| śubham | good |
+| aśubham | evil |
+| na | not |
+| abhinandati | rejoices |
+| na | nor |
+| dveṣṭi | hates |
+| tasya | his |
+| prajñā | wisdom |
+| pratiṣṭhitā | is established |
+

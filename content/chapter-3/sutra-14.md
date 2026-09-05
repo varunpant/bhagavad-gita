@@ -31,3 +31,49 @@ position: 133
 
 ```
 
+
+### Transliteration
+```
+annādbhavanti bhūtāni parjanyādannasambhavaḥ
+yajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण सृष्टि के चक्र और उसके पालन-पोषण की प्रक्रिया को समझाते हैं। सभी प्राणी अन्न पर जीवित रहते हैं, और अन्न वर्षा से उत्पन्न होता है। वर्षा निस्वार्थ भाव से किए गए यज्ञों का परिणाम है, और यज्ञ विहित कर्मों के पालन से सम्पन्न होता है। यह श्लोक प्रकृति और मनुष्य के कर्तव्यों के बीच के गहरे संबंध को दर्शाता है।
+
+### Meaning
+
+Krishna explains the cycle of creation and sustenance in the universe. Living beings survive on food, which grows due to rain. Rain is the result of performing selfless sacrifices (Yajna), and Yajna itself is executed through prescribed duties or actions. This highlights the interconnectedness of nature and human duty.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अन्नात् | अन्न से |
+| भवन्ति | उत्पन्न होते हैं |
+| भूतानि | प्राणी |
+| पर्जन्यात् | वर्षा से |
+| अन्नसम्भवः | अन्न की उत्पत्ति |
+| यज्ञात् | यज्ञ से |
+| भवति | होती है |
+| पर्जन्यः | वर्षा |
+| यज्ञः | यज्ञ |
+| कर्मसमुद्भवः | कर्म से उत्पन्न |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| annāt | from food |
+| bhavanti | are born |
+| bhūtāni | living beings |
+| parjanyāt | from rain |
+| annasambhavaḥ | production of food |
+| yajñāt | from sacrifice |
+| bhavati | is produced |
+| parjanyaḥ | rain |
+| yajñaḥ | sacrifice |
+| karmasamudbhavaḥ | born of prescribed action |
+

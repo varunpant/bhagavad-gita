@@ -31,3 +31,49 @@ position: 257
 
 ```
 
+
+### Transliteration
+```
+saṅkalpaprabhavān kāmāṁs tyaktvā sarvān aśeṣataḥ
+manasaivendriyagrāmaṁ viniyamya samantataḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ध्यान योग की साधना के लिए आवश्यक मानसिक नियंत्रण का वर्णन कर रहे हैं। साधक को चाहिए कि वह संकल्प (सांसारिक विचारों और कल्पनाओं) से उत्पन्न होने वाली सभी इच्छाओं का पूरी तरह से त्याग कर दे। इसके बाद, बुद्धि से युक्त मन के द्वारा अपनी सभी ज्ञानेंद्रियों और कर्मेंद्रियों को उनके विषयों से पूरी तरह समेट ले।
+
+### Meaning
+
+In this verse, Lord Krishna describes the mental discipline required for the practice of Dhyana Yoga. The practitioner must completely abandon all desires that arise from mental speculation and resolve. Following this, one must use the mind to thoroughly restrain the entire assembly of senses from their respective sense objects in all directions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सङ्कल्प-प्रभवान् | संकल्प (मानसिक कल्पना) से उत्पन्न होने वाली |
+| कामान् | कामनाओं को |
+| त्यक्त्वा | त्यागकर |
+| सर्वान् | सभी को |
+| अशेषतः | पूर्ण रूप से (बिना कुछ छोड़े) |
+| मनसा | मन के द्वारा |
+| एव | ही |
+| इन्द्रिय-ग्रामम् | इन्द्रियों के समूह को |
+| विनियम्य | भलीभांति वश में करके |
+| समन्ततः | सब ओर से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| saṅkalpa-prabhavān | born of mental speculation or resolve |
+| kāmān | desires |
+| tyaktvā | abandoning |
+| sarvān | all |
+| aśeṣataḥ | completely (without remainder) |
+| manasā | by the mind |
+| eva | indeed |
+| indriya-grāmam | the group of senses |
+| viniyamya | restraining |
+| samantataḥ | from all sides |
+

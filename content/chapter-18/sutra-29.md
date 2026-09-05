@@ -31,3 +31,53 @@ position: 652
 
 ```
 
+
+### Transliteration
+```
+buddher bhedaṃ dhṛteś caiva guṇatas trividhaṃ śṛṇu
+procyamānam aśeṣeṇa pṛthaktvena dhanañjaya
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को बुद्धि और धृति (धैर्य) के तीन प्रकार के भेदों को सुनने के लिए कह रहे हैं। ये भेद प्रकृति के तीन गुणों (सत्त्व, रज और तम) के आधार पर वर्गीकृत किए गए हैं। श्रीकृष्ण इन भेदों को बिना किसी संक्षेप के, विस्तारपूर्वक और स्पष्ट रूप से समझाने की प्रतिज्ञा करते हैं ताकि अर्जुन कर्म के विज्ञान को पूरी तरह समझ सकें।
+
+### Meaning
+
+In this verse, Lord Krishna invites Arjuna to listen to the threefold classification of intellect (buddhi) and fortitude (dhriti) based on the three gunas (sattva, rajas, and tamas). Krishna promises to explain these divisions exhaustively and distinctively. This analysis helps in understanding how human understanding and determination are shaped by the modes of material nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बुद्धेः | बुद्धि का |
+| भेदम् | भेद (विभाजन) |
+| धृतेः | धैर्य (धृति) का |
+| च | और |
+| एव | भी |
+| गुणतः | गुणों के अनुसार |
+| त्रिविधम् | तीन प्रकार का |
+| शृणु | सुनो |
+| प्रोच्यमानम् | कहे जाने वाले को |
+| अशेषेण | पूर्ण रूप से (बिना कुछ छोड़े) |
+| पृथक्त्वेन | अलग-अलग करके |
+| धनञ्जय | हे धनंजय (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| buddheḥ | of intellect |
+| bhedam | the division |
+| dhṛteḥ | of fortitude (determination) |
+| ca | and |
+| eva | also |
+| guṇataḥ | according to the gunas (modes of nature) |
+| trividham | threefold |
+| śṛṇu | hear |
+| procyamānam | as declared |
+| aśeṣeṇa | exhaustively |
+| pṛthaktvena | individually (distinctly) |
+| dhanañjaya | O Dhananjaya (conqueror of wealth) |
+

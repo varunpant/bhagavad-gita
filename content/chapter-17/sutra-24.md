@@ -31,3 +31,47 @@ position: 619
 
 ```
 
+
+### Transliteration
+```
+tasmād om ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ
+pravartante vidhānoktāḥ satataṃ brahmavādinām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि वैदिक अनुष्ठानों में 'ॐ' (ओम्) का क्या महत्व है। ब्रह्मवादी अर्थात् परमात्मा को खोजने वाले लोग किसी भी यज्ञ, दान या तप की क्रिया को शुरू करने से पहले 'ॐ' का उच्चारण करते हैं। ऐसा करने से वह कर्म परमात्मा को समर्पित हो जाता है और उसकी पवित्रता सुनिश्चित होती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the significance of the syllable 'Om' in Vedic rituals. The seekers of the Supreme (Brahmavadis) always begin their prescribed acts of sacrifice, charity, and austerity by uttering 'Om'. This practice sanctifies the action and aligns it with the ultimate spiritual goal.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| ॐ | 'ॐ' (प्रणव) |
+| इति | इस प्रकार |
+| उदाहृत्य | उच्चारण करके |
+| यज्ञ-दान-तपः-क्रियाः | यज्ञ, दान और तप रूप क्रियाएँ |
+| प्रवर्तन्ते | आरम्भ होती हैं |
+| विधान-उक्ताः | शास्त्रविधि में कही हुई |
+| सततम् | सदा |
+| ब्रह्म-वादिनाम् | ब्रह्मवादियों की (परमात्मा को मानने वालों की) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| om | the sacred syllable Om |
+| iti | thus |
+| udāhṛtya | uttering |
+| yajña-dāna-tapaḥ-kriyāḥ | acts of sacrifice, charity, and penance |
+| pravartante | begin |
+| vidhāna-uktāḥ | prescribed by the scriptures |
+| satatam | always |
+| brahma-vādinām | of the seekers of Brahman (the Supreme) |
+

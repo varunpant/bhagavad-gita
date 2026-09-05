@@ -31,3 +31,57 @@ position: 682
 
 ```
 
+
+### Transliteration
+```
+yad ahaṅkāram āśritya na yotsya iti manyase
+mithyaiṣa vyavasāyas te prakṛtis tvāṃ niyokṣyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि उनका युद्ध न करने का निर्णय उनके अहंकार पर आधारित है और वह व्यर्थ है। अर्जुन का क्षत्रिय स्वभाव (प्रकृति) उन्हें शांत बैठने नहीं देगा। अंततः उनकी आंतरिक प्रकृति उन्हें युद्ध करने के लिए विवश कर देगी, इसलिए स्वेच्छा से कर्तव्य का पालन करना ही श्रेयस्कर है।
+
+### Meaning
+
+In this verse, Lord Krishna warns Arjuna that his decision not to fight is born of ego and is ultimately futile. Arjuna's inherent Kshatriya nature (prakriti) will eventually compel him to act and engage in battle. It is therefore wiser to perform one's duty willingly rather than being forced by one's own nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| yat | यदि |
+| ahaṅkāram | अहंकार को |
+| āśritya | आश्रय लेकर |
+| na | नहीं |
+| yotsye | मैं युद्ध करूँगा |
+| iti | ऐसा |
+| manyase | तुम सोचते हो |
+| mithyā | झूठा / व्यर्थ |
+| eṣaḥ | यह |
+| vyavasāyaḥ | निश्चय |
+| te | तुम्हारा |
+| prakṛtiḥ | प्रकृति (क्षत्रिय स्वभाव) |
+| tvām | तुम्हें |
+| niyokṣyati | नियुक्त करेगी (विवश करेगी) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | if |
+| ahaṅkāram | egotism |
+| āśritya | taking shelter of |
+| na | not |
+| yotsye | I will fight |
+| iti | thus |
+| manyase | you think |
+| mithyā | vain / false |
+| eṣaḥ | this |
+| vyavasāyaḥ | resolve |
+| te | your |
+| prakṛtiḥ | material nature |
+| tvām | you |
+| niyokṣyati | will compel |
+

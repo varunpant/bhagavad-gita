@@ -31,3 +31,57 @@ position: 412
 
 ```
 
+
+### Transliteration
+```
+nānto'sti mama divyānāṃ vibhūtīnāṃ paraṃtapa
+eṣa tūddeśataḥ prokto vibhūtervistaro mayā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को समझाते हैं कि उनकी दिव्य विभूतियों और ऐश्वर्यों की कोई सीमा नहीं है, क्योंकि वे अनंत हैं। अर्जुन ने उनसे उनकी विभूतियों के बारे में विस्तार से पूछा था, जिसके उत्तर में कृष्ण ने कुछ मुख्य विभूतियों का वर्णन किया। अंत में वे स्पष्ट करते हैं कि यह वर्णन केवल एक संक्षिप्त संकेत मात्र है, क्योंकि उनके अनंत स्वरूप को पूरी तरह से शब्दों में समेटना असंभव है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that there is no limit to His divine glories and manifestations, as He is infinite. Having described some of His prominent opulences in response to Arjuna's query, Krishna concludes by stating that this description is merely a brief indication. It is impossible to fully describe or comprehend the boundless nature of the Supreme Lord's manifestations.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| अन्तः | अंत |
+| अस्ति | है |
+| मम | मेरी |
+| दिव्यानाम् | दिव्य |
+| विभूतीनाम् | विभूतियों का |
+| परंतप | हे शत्रुओं को तपाने वाले (अर्जुन) |
+| एषः | यह |
+| तु | तो |
+| उद्देशतः | संक्षेप में (उदाहरण मात्र) |
+| प्रोक्तः | कहा गया है |
+| विभूतेः | विभूति का |
+| विस्तरः | विस्तार |
+| मया | मेरे द्वारा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| antaḥ | end |
+| asti | there is |
+| mama | of My |
+| divyānām | divine |
+| vibhūtīnām | glories / manifestations |
+| paraṃtapa | O chastiser of enemies (Arjuna) |
+| eṣaḥ | this |
+| tu | but / indeed |
+| uddeśataḥ | briefly / as a mere indication |
+| proktaḥ | declared / spoken |
+| vibhūteḥ | of glory |
+| vistaraḥ | the expansion |
+| mayā | by Me |
+

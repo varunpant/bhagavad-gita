@@ -31,3 +31,47 @@ position: 291
 
 ```
 
+
+### Transliteration
+```
+balaṃ balavatāmasmi kāmarāgavivarjitam
+dharmāviruddho bhūteṣu kāmo'smi bharatarṣabha
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी दिव्य विभूतियों का वर्णन करते हुए कहते हैं कि बलवानों में जो बल स्वार्थ, वासना और आसक्ति से रहित होता है, वह उनका ही स्वरूप है। इसके अतिरिक्त, वे सभी प्राणियों में धर्म की मर्यादा के भीतर रहने वाली कामना (जैसे संतानोत्पत्ति या धर्मसम्मत इच्छाएँ) के रूप में वास करते हैं। यह दर्शाता है कि संसार की सकारात्मक और धर्मानुकूल शक्तियाँ ईश्वर की ही अभिव्यक्ति हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine manifestations, stating that He is the strength of the strong when it is free from selfish desire and attachment. Furthermore, He is the desire within all living beings that is in harmony with dharma (righteousness/cosmic order). This highlights that constructive, righteous, and selfless aspects of human nature are direct expressions of the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| बलम् | बल (शक्ति) |
+| बलवताम् | बलवानों का |
+| अस्मि | मैं हूँ |
+| काम-राग-विवर्जितम् | कामना और आसक्ति से रहित |
+| धर्म-अविरुद्धः | धर्म के अनुकूल (जो धर्म के विरुद्ध न हो) |
+| भूतेषु | प्राणियों में |
+| कामः | काम (इच्छा) |
+| अस्मि | मैं हूँ |
+| भरतर्षभ | हे भरतश्रेष्ठ (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| balam | strength |
+| balavatām | of the strong |
+| asmi | I am |
+| kāma-rāga-vivarjitam | devoid of passion and attachment |
+| dharma-aviruddhaḥ | not opposed to righteousness |
+| bhūteṣu | in living beings |
+| kāmaḥ | desire |
+| asmi | I am |
+| bharatarṣabha | O best of the Bharatas |
+

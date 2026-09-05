@@ -31,3 +31,53 @@ position: 614
 
 ```
 
+
+### Transliteration
+```
+mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ
+parasyotsādanārthaṃ vā tattāmasamudāhṛtam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तामस तप के लक्षणों का वर्णन करते हैं। जब कोई व्यक्ति बिना किसी विवेक के, केवल हठवश अपने शरीर को कष्ट देकर या दूसरों का अहित करने की इच्छा से तपस्या करता है, तो वह तामसिक श्रेणी में आती है। ऐसा तप आध्यात्मिक उन्नति के स्थान पर पतन का कारण बनता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of Tamasic penance. When austerity is performed out of foolish ignorance, causing self-torture, or with the malicious intent to harm or destroy others, it is classified as Tamasic. Such penance leads to degradation rather than spiritual elevation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मूढ-ग्राहेण | मूर्खतापूर्ण हठ से |
+| आत्मनः | अपने आपको |
+| यत् | जो |
+| पीडया | पीड़ा के साथ |
+| क्रियते | किया जाता है |
+| तपः | तप |
+| परस्य | दूसरों के |
+| उत्सादन-अर्थम् | विनाश या हानि के उद्देश्य से |
+| वा | अथवा |
+| तत् | वह |
+| तामसम | तामस |
+| उदाहृतम् | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mūḍha-grāheṇa | by foolish obstinacy |
+| ātmanaḥ | of oneself |
+| yat | which |
+| pīḍayā | with torture |
+| kriyate | is performed |
+| tapaḥ | penance |
+| parasya | of others |
+| utsādana-artham | for the purpose of destroying |
+| vā | or |
+| tat | that |
+| tāmasam | Tamasic |
+| udāhṛtam | is declared |
+

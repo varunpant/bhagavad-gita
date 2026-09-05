@@ -31,3 +31,57 @@ position: 365
 
 ```
 
+
+### Transliteration
+```
+yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat
+yat tapasyasi kaunteya tat kuruṣva mad-arpaṇam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को निष्काम कर्मयोग का सबसे सरल मार्ग बताते हैं। वे कहते हैं कि मनुष्य को अपने दैनिक जीवन के सभी कार्यों, भोजन, यज्ञ, दान और तप को भगवान को समर्पित कर देना चाहिए। ऐसा करने से कर्म के बंधन समाप्त हो जाते हैं और भक्त का जीवन पूरी तरह से ईश्वरोन्मुख हो जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the simplest path of devotion and selfless action to Arjuna. He instructs that whatever actions one performs in daily life, including eating, performing sacrifices, charity, and penance, should be dedicated to Him. This practice of offering everything to the Supreme frees the devotee from the bondage of karma.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो कुछ |
+| करोषि | तुम करते हो |
+| यत् | जो कुछ |
+| अश्नासि | तुम खाते हो |
+| यत् | जो कुछ |
+| जुहोषि | तुम हवन करते हो |
+| ददासि | तुम दान देते हो |
+| यत् | जो |
+| यत् | जो कुछ |
+| तपस्यसि | तुम तपस्या करते हो |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| तत् | वह सब |
+| कुरुष्व | करो |
+| मद्-अर्पणम् | मुझे समर्पित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | whatever |
+| karoṣi | you do |
+| yat | whatever |
+| aśnāsi | you eat |
+| yat | whatever |
+| juhoṣi | you offer in sacrifice |
+| dadāsi | you give away |
+| yat | which |
+| yat | whatever |
+| tapasyasi | austerities you perform |
+| kaunteya | O son of Kunti |
+| tat | that |
+| kuruṣva | do |
+| mad-arpaṇam | as an offering unto Me |
+

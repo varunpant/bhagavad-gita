@@ -31,3 +31,61 @@ position: 442
 
 ```
 
+
+### Transliteration
+```
+yathā nadīnāṃ bahavo'mbuvegāḥ
+samudramevābhimukhāḥ dravanti
+tathā tavāmī naralokavīrā
+viśanti vaktrāṇyabhivijvalanti
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विश्वरूप के भयानक संहारक रूप का वर्णन कर रहे हैं। जिस प्रकार नदियाँ अपने वेग से बहती हुई अंततः समुद्र में ही विलीन हो जाती हैं, उसी प्रकार पृथ्वी के सभी महान योद्धा काल रूपी भगवान के मुख में समाते जा रहे हैं। यह दृश्य संसार की नश्वरता और काल की सर्वग्राही शक्ति को दर्शाता है।
+
+### Meaning
+
+In this verse, Arjuna describes the terrifying, destructive aspect of Lord Krishna's cosmic form. Just as rivers naturally and inevitably rush towards the ocean to merge into it, all the great warriors of the earth are helplessly drawn into the blazing mouths of the Lord. This metaphor illustrates the transient nature of human existence and the all-consuming power of time.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यथा | जैसे |
+| नदीनाम् | नदियों के |
+| बहवः | बहुत से |
+| अम्बु-वेगाः | जल के प्रवाह |
+| समुद्रम् | समुद्र की ओर |
+| एव | ही |
+| अभिमुखाः | सामने मुख किए हुए |
+| द्रवन्ति | दौड़ते हैं / बहते हैं |
+| तथा | वैसे ही |
+| तव | आपके |
+| अमी | ये |
+| नर-लोक-वीराः | मनुष्यलोक के वीर योद्धा |
+| विशन्ति | प्रवेश कर रहे हैं |
+| वक्त्राणि | मुखों में |
+| अभिविज्वलन्ति | सब ओर से प्रज्वलित होते हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yathā | just as |
+| nadīnām | of the rivers |
+| bahavaḥ | many |
+| ambu-vegāḥ | currents of water |
+| samudram | towards the ocean |
+| eva | certainly |
+| abhimukhāḥ | facing towards |
+| dravanti | flow / glide |
+| tathā | similarly |
+| tava | Your |
+| amī | these |
+| nara-loka-vīrāḥ | heroes of the human world |
+| viśanti | are entering |
+| vaktrāṇi | mouths |
+| abhivijvalanti | blazing on all sides |
+

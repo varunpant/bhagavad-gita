@@ -31,3 +31,62 @@ position: 525
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+paraṁ bhūyaḥ pravakṣyāmi jñānānāṁ jñānam uttamam
+yaj jñātvā munayaḥ sarve parāṁ siddhim ito gatāḥ
+
+```
+
+### भावार्थ
+
+इस अध्याय के आरम्भ में भगवान कृष्ण अर्जुन को पुनः उस परम ज्ञान का उपदेश दे रहे हैं जो सभी प्रकार के लौकिक और आध्यात्मिक ज्ञानों में श्रेष्ठ है। इस ज्ञान की महिमा यह है कि इसे जानकर भूतकाल में अनेक ऋषियों और मुनियों ने परम सिद्धि अर्थात् मोक्ष प्राप्त किया है। यह ज्ञान आत्मा और प्रकृति के सम्बन्ध को स्पष्ट करता है।
+
+### Meaning
+
+At the beginning of this chapter, Lord Krishna promises to reveal once again the ultimate spiritual wisdom which surpasses all other forms of knowledge. The significance of this knowledge is highlighted by the fact that sages in the past have achieved the highest state of liberation by understanding it. This sets the stage for the detailed exposition of the three gunas (modes of nature).
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रीभगवान् | श्री भगवान् |
+| उवाच | ने कहा |
+| परम् | परम / सर्वश्रेष्ठ |
+| भूयः | फिर से |
+| प्रवक्ष्यामि | भलीभांति कहूँगा |
+| ज्ञानानाम् | ज्ञानों में |
+| ज्ञानम् | ज्ञान को |
+| उत्तमम् | उत्तम / श्रेष्ठ |
+| यत् | जिसको |
+| ज्ञात्वा | जानकर |
+| मुनयः | मुनिजन |
+| सर्वे | सभी |
+| पराम् | परम |
+| सिद्धिम् | सिद्धि को |
+| इतः | इस संसार से / यहाँ से |
+| गताः | प्राप्त हो गए हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| param | supreme |
+| bhūyaḥ | again |
+| pravakṣyāmi | I shall declare |
+| jñānānām | of all knowledge |
+| jñānam | knowledge |
+| uttamam | the best |
+| yat | which |
+| jñātvā | having known |
+| munayaḥ | the sages |
+| sarve | all |
+| parām | supreme |
+| siddhim | perfection |
+| itaḥ | from this world |
+| gatāḥ | have attained |
+

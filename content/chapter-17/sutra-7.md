@@ -31,3 +31,61 @@ position: 602
 
 ```
 
+
+### Transliteration
+```
+āhāras tv api sarvasya
+trividho bhavati priyaḥ
+yajñas tapas tathā dānaṃ
+teṣāṃ bhedam imaṃ śṛṇu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि प्रत्येक व्यक्ति की प्रकृति के अनुसार उसकी रुचि भिन्न होती है। भोजन, यज्ञ, तपस्या और दान—ये सभी मनुष्य के स्वभाव (सत्त्व, रज, तम) के अनुसार तीन प्रकार के होते हैं। कृष्ण अर्जुन को इन भेदों को विस्तार से सुनने के लिए आमंत्रित करते हैं ताकि वह अपने भीतर के गुणों को पहचान सके।
+
+### Meaning
+
+In this verse, Lord Krishna explains that even the food people prefer is of three kinds, corresponding to the three modes of material nature (sattva, rajas, and tamas). Similarly, sacrifices, austerities, and charity are also of three distinct types. Krishna invites Arjuna to hear the differences between them so that he can understand how these qualities influence human behavior.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आहारः | भोजन |
+| तु | भी |
+| अपि | भी |
+| सर्वस्य | सबका / सभी को |
+| त्रिविधः | तीन प्रकार का |
+| भवति | होता है |
+| प्रियः | प्रिय |
+| यज्ञः | यज्ञ |
+| तपः | तप |
+| तथा | और वैसे ही |
+| दानम् | दान |
+| तेषाम् | उनका |
+| भेदम् | भेद / अंतर |
+| इमम् | इस |
+| शृणु | सुनो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āhāraḥ | food |
+| tu | indeed |
+| api | also |
+| sarvasya | of everyone |
+| trividhaḥ | of three kinds |
+| bhavati | is |
+| priyaḥ | dear |
+| yajñaḥ | sacrifice |
+| tapaḥ | austerity |
+| tathā | and also |
+| dānam | charity |
+| teṣām | of them |
+| bhedam | the distinction |
+| imam | this |
+| śṛṇu | hear |
+

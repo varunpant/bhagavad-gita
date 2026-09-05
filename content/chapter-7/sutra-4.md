@@ -31,3 +31,61 @@ position: 284
 
 ```
 
+
+### Transliteration
+```
+bhūmir-āpo'nalo vāyuḥ khaṃ mano buddhir-eva ca
+ahaṅkāra itīyaṃ me bhinnā prakṛtir-aṣṭadhā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी भौतिक प्रकृति (अपरा प्रकृति) के आठ तत्वों का वर्णन करते हैं। इनमें पांच स्थूल तत्व (पृथ्वी, जल, अग्नि, वायु और आकाश) तथा तीन सूक्ष्म तत्व (मन, बुद्धि और अहंकार) शामिल हैं। यह संपूर्ण दृश्य जगत इन्हीं आठ तत्वों के विभिन्न रूपों से निर्मित है।
+
+### Meaning
+
+In this verse, Lord Krishna describes His material energy (apara prakriti) which is divided into eight elements. These consist of the five gross elements (earth, water, fire, air, and ether) and the three subtle elements (mind, intellect, and ego). The entire physical universe is composed of these eight aspects of His energy.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भूमिः | पृथ्वी |
+| आपः | जल |
+| अनलः | अग्नि |
+| वायुः | वायु |
+| खम् | आकाश |
+| मनः | मन |
+| बुद्धिः | बुद्धि |
+| एव | ही |
+| च | और |
+| अहङ्कारः | अहंकार |
+| इति | इस प्रकार |
+| इयम् | यह |
+| मे | मेरी |
+| भिन्ना | विभाजित |
+| प्रकृतिः | प्रकृति |
+| अष्टधा | आठ प्रकार की |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhūmiḥ | earth |
+| āpaḥ | water |
+| analaḥ | fire |
+| vāyuḥ | air |
+| kham | ether |
+| manaḥ | mind |
+| buddhiḥ | intellect |
+| eva | certainly |
+| ca | and |
+| ahaṅkāraḥ | egoism |
+| iti | thus |
+| iyam | this |
+| me | My |
+| bhinnā | divided |
+| prakṛtiḥ | energy |
+| aṣṭadhā | eightfold |
+

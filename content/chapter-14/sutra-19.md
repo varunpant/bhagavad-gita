@@ -31,3 +31,57 @@ position: 543
 
 ```
 
+
+### Transliteration
+```
+nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati
+guṇebhyaśca paraṃ vetti madbhāvaṃ so'dhigacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जब एक विवेकशील मनुष्य यह जान लेता है कि संसार के सभी कर्म केवल प्रकृति के तीन गुणों (सत्त्व, रज, तम) की परस्पर क्रिया द्वारा ही किए जा रहे हैं और आत्मा अकर्ता है, तब वह कर्तापन के अहंकार से मुक्त हो जाता है। इसके साथ ही, जब वह गुणों से परे परमात्मा के वास्तविक स्वरूप को पहचान लेता है, तो वह भगवान के दिव्य भाव (मद्भाव) को प्राप्त कर लेता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that when a discerning observer realizes that all actions in the world are performed solely by the interplay of the three modes of nature (gunas) and that the soul is a non-doer, they are freed from the ego of doership. Furthermore, by knowing the Supreme Self which is beyond these modes, the seeker transcends material nature and attains the divine nature of the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| अन्यम् | दूसरे को |
+| गुणेभ्यः | गुणों से |
+| कर्तारम् | कर्ता |
+| यदा | जब |
+| द्रष्टा | द्रष्टा (देखने वाला) |
+| अनुपश्यति | देखता है |
+| गुणेभ्यः | गुणों से |
+| च | और |
+| परम् | परे (श्रेष्ठ) |
+| वेत्ति | जानता है |
+| मद्भावम् | मेरे भाव (स्वरूप) को |
+| सः | वह |
+| अधिगच्छति | प्राप्त होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| anyam | other |
+| guṇebhyaḥ | than the gunas (modes of nature) |
+| kartāram | doer |
+| yadā | when |
+| draṣṭā | the seer |
+| anupaśyati | beholds |
+| guṇebhyaḥ | than the gunas |
+| ca | and |
+| param | the higher (beyond) |
+| vetti | knows |
+| madbhāvam | My state of being |
+| saḥ | he |
+| adhigacchati | attains |
+

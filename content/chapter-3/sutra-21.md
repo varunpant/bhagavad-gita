@@ -31,3 +31,61 @@ position: 140
 
 ```
 
+
+### Transliteration
+```
+yadyadācarati śreṣṭhastattadevetaro janaḥ
+sa yatpramāṇaṃ kurute lokastadanuvartate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को नेतृत्व और आदर्श प्रस्तुत करने का महत्त्व समझा रहे हैं। समाज हमेशा अपने श्रेष्ठ और ज्ञानी लोगों के आचरण का अनुसरण करता है। इसलिए, समाज को सही दिशा दिखाने के लिए महापुरुषों को निष्काम भाव से अपने नियत कर्म करते रहना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna the importance of leadership and setting a good example. Society naturally follows the behavior and standards set by its great and wise leaders. Therefore, to guide the masses in the right direction, enlightened individuals must continue to perform their prescribed duties selflessly.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| यत् | जो |
+| आचरति | आचरण करता है |
+| श्रेष्ठः | श्रेष्ठ पुरुष |
+| तत् | वह |
+| तत् | वह |
+| एव | ही |
+| इतरः | अन्य |
+| जनः | लोग |
+| सः | वह |
+| यत् | जो |
+| प्रमाणम् | प्रमाण |
+| कुरुते | स्थापित करता है |
+| लोकः | संसार |
+| तत् | उसका |
+| अनुवर्तते | अनुसरण करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | whatever |
+| yat | whatever |
+| ācarati | performs |
+| śreṣṭhaḥ | a great man |
+| tat | that |
+| tat | that |
+| eva | certainly |
+| itaraḥ | other |
+| janaḥ | people |
+| saḥ | he |
+| yat | whatever |
+| pramāṇam | standard |
+| kurute | sets |
+| lokaḥ | the world |
+| tat | that |
+| anuvartate | follows |
+

@@ -31,3 +31,49 @@ position: 145
 
 ```
 
+
+### Transliteration
+```
+na buddhibhedaṃ janayedajñānāṃ karmasaṅginām
+joṣayetsarvakarmāṇi vidvān yuktaḥ samācaran
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण ज्ञानी पुरुषों को निर्देश देते हैं कि वे कर्मों में आसक्त अज्ञानियों को अचानक कर्म छोड़ने के लिए कहकर भ्रमित न करें। इसके विपरीत, एक ज्ञानी व्यक्ति को स्वयं अनासक्त भाव से अपने सभी कर्तव्य करते हुए एक आदर्श प्रस्तुत करना चाहिए। ऐसा करने से अज्ञानी लोग भी प्रेरित होते हैं और धीरे-धीरे निष्काम कर्म की ओर बढ़ते हैं।
+
+### Meaning
+
+Krishna advises the wise not to disturb the minds of the ignorant by abruptly asking them to stop their activities. Instead, an enlightened person should set a good example by performing their own duties diligently without attachment. By doing so, they inspire the ignorant to continue working while gradually guiding them toward selflessness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| बुद्धिभेदम् | बुद्धि में भ्रम |
+| जनयेत् | उत्पन्न करना चाहिए |
+| अज्ञानाम् | अज्ञानियों की |
+| कर्मसङ्गिनाम् | कर्मों में आसक्त लोगों की |
+| जोषयेत् | (उन्हें) प्रवृत्त करना चाहिए |
+| सर्वकर्माणि | सभी कर्मों में |
+| विद्वान् | ज्ञानी पुरुष |
+| युक्तः | योगयुक्त होकर |
+| समाचरन् | भली-भांति आचरण करता हुआ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| buddhi-bhedam | disruption of intelligence |
+| janayet | should generate |
+| ajñānām | of the ignorant |
+| karma-saṅginām | of those attached to fruitive actions |
+| joṣayet | should engage |
+| sarva-karmāṇi | all activities |
+| vidvān | the wise person |
+| yuktaḥ | steadfast |
+| samācaran | performing well |
+

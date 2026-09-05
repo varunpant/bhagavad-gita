@@ -31,3 +31,59 @@ position: 563
 
 ```
 
+
+### Transliteration
+```
+yadādityagataṃ tejo jagadbhāsayate'khilam
+yaccandramasi yaccāgnau tattejo viddhi māmakam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी सर्वव्यापकता और ऐश्वर्य का वर्णन कर रहे हैं। वे अर्जुन को बताते हैं कि संसार को प्रकाशित करने वाली समस्त ऊर्जा और प्रकाश—चाहे वह सूर्य का हो, चन्द्रमा का हो या अग्नि का—वह सब उन्हीं का दिव्य तेज है। इसके माध्यम से वे यह स्पष्ट करते हैं कि जगत के जीवन और प्रकाश के मूल स्रोत वे स्वयं ही हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His all-pervading power and glory. He explains to Arjuna that the light and energy which illuminate the entire universe—whether from the sun, the moon, or fire—originate from Him. Through this, He reveals Himself as the ultimate source of all light and life in the cosmos.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| आदित्य-गतम् | सूर्य में स्थित |
+| तेजः | तेज |
+| जगत् | जगत को |
+| भासयते | प्रकाशित करता है |
+| अखिलम् | संपूर्ण |
+| यत् | जो |
+| चन्द्रमसि | चन्द्रमा में है |
+| यत् | जो |
+| च | और |
+| अग्नौ | अग्नि में है |
+| तत् | उस |
+| तेजः | तेज को |
+| विद्धि | जानो |
+| मामकम् | मेरा ही |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | which |
+| āditya-gatam | situated in the sun |
+| tejaḥ | splendor |
+| jagat | the universe |
+| bhāsayate | illumines |
+| akhilam | entire |
+| yat | which |
+| candramasi | in the moon |
+| yat | which |
+| ca | and |
+| agnau | in the fire |
+| tat | that |
+| tejaḥ | splendor |
+| viddhi | know |
+| māmakam | as Mine |
+

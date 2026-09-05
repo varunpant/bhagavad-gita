@@ -31,3 +31,49 @@ position: 112
 
 ```
 
+
+### Transliteration
+```
+prasāde sarvaduḥkhānāṃ hānirasyopajāyate
+prasannacetaso hyāśu buddhiḥ paryavatiṣṭhate
+
+```
+
+### भावार्थ
+
+जब मनुष्य अपनी इन्द्रियों को वश में करके अन्तःकरण की शान्ति प्राप्त कर लेता है, तब उसके जीवन के सभी दुःखों का अन्त हो जाता है। ऐसे शान्त और प्रसन्न चित्त वाले व्यक्ति की बुद्धि शीघ्र ही परमात्मा में स्थिर हो जाती है। यह श्लोक स्पष्ट करता है कि आध्यात्मिक प्रगति और आत्मज्ञान के लिए मन की शान्ति अनिवार्य है।
+
+### Meaning
+
+When a person attains tranquility by controlling the senses, all their sorrows come to an end. The intellect of such a peaceful and joyful person quickly becomes firmly established in the Divine. This verse emphasizes that a calm mind is the essential foundation for spiritual progress and steadfast wisdom.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रसादे | प्रसन्नता प्राप्त होने पर |
+| सर्वदुःखानाम् | सम्पूर्ण दुःखों का |
+| हानिः | नाश |
+| अस्य | इसका |
+| उपजायते | हो जाता है |
+| प्रसन्नचेतसः | प्रसन्न चित्त वाले का |
+| हि | क्योंकि |
+| आशु | शीघ्र ही |
+| बुद्धिः | बुद्धि |
+| पर्यवतिष्ठते | स्थिर हो जाती है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prasāde | on attaining tranquility |
+| sarvaduḥkhānām | of all sorrows |
+| hāniḥ | destruction |
+| asya | his |
+| upajāyate | takes place |
+| prasannacetasaḥ | of the tranquil-minded |
+| hi | certainly |
+| āśu | soon |
+| buddhiḥ | intelligence |
+| paryavatiṣṭhate | becomes firmly established |
+

@@ -31,3 +31,66 @@ position: 273
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+pārtha naiveha nāmutra vināśastasya vidyate
+na hi kalyāṇakṛt kaścid durgatiṃ tāta gacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि योग के मार्ग से भटका हुआ साधक कभी नष्ट नहीं होता। शुभ कर्मों और आत्म-साक्षात्कार के प्रयास का फल कभी व्यर्थ नहीं जाता। ऐसे व्यक्ति को इस जन्म में या अगले जन्म में कभी भी पतन का सामना नहीं करना पड़ता, बल्कि उसे प्रगति ही मिलती है।
+
+### Meaning
+
+In this verse, Lord Krishna reassures Arjuna that a seeker who falls from the path of Yoga is never destroyed. The merits of spiritual endeavors and righteous deeds are never lost. Such an individual never meets with a downward fate, either in this life or in the hereafter, but is eventually guided toward progress.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | भगवान ने |
+| उवाच | कहा |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| न | नहीं |
+| एव | ही |
+| इह | इस लोक में |
+| न | न |
+| अमुत्र | परलोक में |
+| विनाशः | विनाश |
+| तस्य | उसका |
+| विद्यते | होता है |
+| न | नहीं |
+| हि | निश्चित रूप से |
+| कल्याण-कृत् | कल्याणकारी कार्य करने वाला |
+| कश्चित् | कोई भी |
+| दुर्गतिम् | दुर्गति को |
+| तात | हे प्रिय मित्र |
+| गच्छति | प्राप्त होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| pārtha | O son of Pṛthā |
+| na | not |
+| eva | indeed |
+| iha | in this world |
+| na | nor |
+| amutra | in the next world |
+| vināśaḥ | destruction |
+| tasya | for him |
+| vidyate | exists |
+| na | not |
+| hi | certainly |
+| kalyāṇa-kṛt | one who performs good deeds |
+| kaścit | anyone |
+| durgatim | to a bad end |
+| tāta | my dear friend |
+| gacchati | goes |
+

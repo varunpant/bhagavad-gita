@@ -31,3 +31,53 @@ position: 480
 
 ```
 
+
+### Transliteration
+```
+athaitadapyasakto'si kartuṃ madyogamāśritaḥ
+sarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को भक्ति मार्ग के विभिन्न स्तर बता रहे हैं। यदि कोई निरंतर स्मरण (अभ्यास) करने में असमर्थ है, तो उसे अपने कर्मों के फलों को भगवान को समर्पित कर देना चाहिए। अपने मन और इंद्रियों को वश में रखकर निष्काम कर्म करना भी परम गति को प्राप्त करने का एक साधन है।
+
+### Meaning
+
+Lord Krishna outlines alternative paths of devotion for those of varying capacities. If one is unable to perform constant remembrance or practice, the next step is to perform actions without attachment to their results, dedicating the fruits to the Divine. This path of selfless action with self-control leads to mental purification and eventual liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अथ | यदि |
+| एतत् | यह |
+| अपि | भी |
+| अशक्तः | असमर्थ |
+| असि | तुम हो |
+| कर्तुम् | करने में |
+| मद्योगम् | मेरी शरण रूप योग को |
+| आश्रितः | आश्रय लेकर |
+| सर्व-कर्म-फल-त्यागम् | सभी कर्मों के फलों का त्याग |
+| ततः | तो |
+| कुरु | करो |
+| यत-आत्मवान् | संयत मन और बुद्धि वाला होकर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| atha | if |
+| etat | this |
+| api | even |
+| aśaktaḥ | unable |
+| asi | you are |
+| kartum | to do |
+| mad-yogam | refuge in My yoga |
+| āśritaḥ | taking |
+| sarva-karma-phala-tyāgam | renunciation of the fruits of all actions |
+| tataḥ | then |
+| kuru | do |
+| yata-ātmavān | self-controlled |
+

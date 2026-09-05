@@ -31,3 +31,55 @@ position: 656
 
 ```
 
+
+### Transliteration
+```
+dhṛtyā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ
+yogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक धृति (धैर्य या संकल्प-शक्ति) की परिभाषा देते हैं। सात्त्विक धृति वह है जो योग के माध्यम से मन, प्राण और इन्द्रियों की चंचल क्रियाओं को नियंत्रित और अनुशासित रखती है। ऐसी संकल्प-शक्ति में कोई भटकाव या स्वार्थ नहीं होता, और यह मनुष्य को आत्म-साक्षात्कार के मार्ग पर अडिग रखती है।
+
+### Meaning
+
+In this verse, Lord Krishna defines the sattvika (pure) resolve or determination. Sattvika determination is that which, through the practice of yoga, regulates and controls the activities of the mind, life-forces, and senses. Such unwavering resolve is free from selfish distractions and keeps an individual firmly on the path of self-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| धृत्या | धैर्य या संकल्प-शक्ति के द्वारा |
+| यया | जिसके द्वारा |
+| धारयते | धारण करता है (नियंत्रित करता है) |
+| मनः | मन की |
+| प्राण | प्राणों की |
+| इन्द्रिय | और इन्द्रियों की |
+| क्रियाः | क्रियाओं को |
+| योगेन | योग के द्वारा |
+| अव्यभिचारिण्या | अव्यभिचारिणी (अविचलित या एकाग्र) |
+| धृतिः | वह धृति (संकल्प) |
+| सा | वह |
+| पार्थ | हे अर्जुन (प्रथापुत्र) |
+| सात्त्विकी | सात्त्विकी है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dhṛtyā | by the determination |
+| yayā | by which |
+| dhārayate | one sustains or controls |
+| manaḥ | of the mind |
+| prāṇa | of the life-breaths |
+| indriya | and of the senses |
+| kriyāḥ | the activities |
+| yogena | by yoga (concentration) |
+| avyabhicāriṇyā | unswerving / unwavering |
+| dhṛtiḥ | determination |
+| sā | that |
+| pārtha | O Partha (Arjuna) |
+| sāttvikī | is of the nature of goodness (sattvika) |
+

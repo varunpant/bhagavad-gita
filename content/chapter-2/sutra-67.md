@@ -31,3 +31,57 @@ position: 114
 
 ```
 
+
+### Transliteration
+```
+indriyāṇāṃ hi caratāṃ yanmano'nuvidhīyate
+tadasya harati prajñāṃ vāyurnāvamivāmbhasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण इन्द्रियों के वश में होने के खतरे को समझा रहे हैं। जैसे पानी में तैरती हुई नाव को तेज हवा अपने रास्ते से भटका देती है, वैसे ही यदि मन किसी एक भी विषय-भोग में भटकती इन्द्रिय का अनुसरण करने लगे, तो वह मनुष्य की सारी बुद्धि और विवेक को नष्ट कर देता है। इसलिए इन्द्रिय-निग्रह आध्यात्मिक प्रगति के लिए अत्यंत आवश्यक है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the danger of being controlled by the senses. Just as a strong wind sweeps a boat off its course on the water, even a single wandering sense that the mind follows can carry away a person's intellect and discrimination. Therefore, controlling the senses is absolutely essential for spiritual progress and maintaining inner stability.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इन्द्रियाणाम् | इन्द्रियों के |
+| हि | निश्चय ही |
+| चरताम् | विचरते हुए |
+| यत् | जिस |
+| मनः | मन |
+| अनुविधीयते | अनुसरण करता है |
+| तत् | वह |
+| अस्य | इसकी |
+| हरति | हर लेता है |
+| प्रज्ञाम् | बुद्धि को |
+| वायुः | वायु |
+| नावम् | नाव को |
+| इव | समान |
+| अम्भसि | जल में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| indriyāṇām | of the senses |
+| hi | certainly |
+| caratām | while roaming |
+| yat | which |
+| manaḥ | mind |
+| anuvidhīyate | follows |
+| tat | that |
+| asya | his |
+| harati | carries away |
+| prajñām | intelligence |
+| vāyuḥ | wind |
+| nāvam | boat |
+| iva | like |
+| ambhasi | on the water |
+

@@ -31,3 +31,53 @@ position: 351
 
 ```
 
+
+### Transliteration
+```
+mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ
+bhajanty ananyamanaso jñātvā bhūtādim avyayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि जो लोग आसुरी स्वभाव से मुक्त हैं और दैवी प्रकृति के आश्रित हैं, वे महापुरुष कहलाते हैं। वे कृष्ण को समस्त सृष्टि का आदि कारण और अविनाशी परमेश्वर जानकर अनन्य भाव से उनकी भक्ति करते हैं। उनका मन कभी भी भगवान से विचलित नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna describes the great souls (mahatmas) who are free from delusional, demoniac natures and are sheltered in the divine nature. Knowing Krishna as the primeval, imperishable source of all creation, they worship Him with undivided attention and single-minded devotion.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| महात्मानः | महापुरुष |
+| तु | लेकिन |
+| माम् | मुझको |
+| पार्थ | हे अर्जुन |
+| दैवीम् | दैवी |
+| प्रकृतिम् | प्रकृति का |
+| आश्रिताः | आश्रय लिए हुए |
+| भजन्ति | भजते हैं |
+| अनन्यमनसः | अनन्य मन से |
+| ज्ञात्वा | जानकर |
+| भूतादिम् | भूतों का आदि कारण |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mahātmānaḥ | the great souls |
+| tu | but |
+| mām | Me |
+| pārtha | O Partha (Arjuna) |
+| daivīm | divine |
+| prakṛtim | nature |
+| āśritāḥ | having taken shelter of |
+| bhajanti | worship |
+| ananya-manasaḥ | with undivided mind |
+| jñātvā | knowing |
+| bhūtādim | the source of all beings |
+| avyayam | imperishable |
+

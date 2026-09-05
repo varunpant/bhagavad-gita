@@ -31,3 +31,55 @@ position: 264
 
 ```
 
+
+### Transliteration
+```
+sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ
+sarvathā vartamāno'pi sa yogī mayi vartate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्मज्ञान की पराकाष्ठा का वर्णन कर रहे हैं। जब योगी सभी प्राणियों में एक ही परमात्मा का दर्शन करता है और उस अद्वैत भाव में स्थित हो जाता है, तब उसका हर कर्म परमात्मा की सेवा बन जाता है। ऐसा सिद्ध योगी बाह्य रूप से चाहे किसी भी परिस्थिति में कार्य कर रहा हो, वह सदा आंतरिक रूप से भगवान में ही लीन रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the pinnacle of spiritual realization. When a yogi perceives the single Divine presence in all living beings and remains established in this oneness, all their actions become an offering. Such an enlightened soul, regardless of their external activities or circumstances, remains eternally anchored in the Divine consciousness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्व-भूत-स्थितम् | सभी प्राणियों में स्थित |
+| यः | जो |
+| माम् | मुझको |
+| भजति | भजता है |
+| एकत्वम् | एकत्व में (एकता भाव में) |
+| आस्थितः | स्थित होकर |
+| सर्वथा | सब प्रकार से |
+| वर्तमानः | व्यवहार करता हुआ (कार्य करता हुआ) |
+| अपि | भी |
+| सः | वह |
+| योगी | योगी |
+| मयि | मुझमें |
+| वर्तते | निवास करता है (वर्तता है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarva-bhūta-sthitam | dwelling in all beings |
+| yaḥ | who |
+| mām | Me |
+| bhajati | worships |
+| ekatvam | in oneness |
+| āsthitaḥ | established |
+| sarvathā | in all ways |
+| vartamānaḥ | acting / remaining |
+| api | even |
+| saḥ | he |
+| yogī | the yogi |
+| mayi | in Me |
+| vartate | abides |
+

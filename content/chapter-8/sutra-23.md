@@ -31,3 +31,57 @@ position: 333
 
 ```
 
+
+### Transliteration
+```
+yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ
+prayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को उन दो मार्गों या कालों के विषय में बताना शुरू कर रहे हैं, जिनसे होकर मृत्यु के बाद योगी परम गति या पुनर्जन्म को प्राप्त होते हैं। यहाँ 'काल' शब्द का तात्पर्य केवल समय से नहीं, बल्कि उस समय के अधिष्ठाता देवों और उनके द्वारा प्रकाशित मार्गों से भी है। यह अगले श्लोकों में वर्णित होने वाले उत्तरायण और दक्षिणायन मार्गों की भूमिका है।
+
+### Meaning
+
+In this verse, Lord Krishna begins to explain the two paths or times of departure, traveling along which yogis either attain liberation (non-return) or rebirth (return). The word 'kala' (time) here refers not just to chronological time, but also to the presiding deities of those times who guide the soul. This serves as an introduction to the paths of the sun's northern and southern courses described in the subsequent verses.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत्र | जिस |
+| काले | काल में |
+| तु | तो |
+| अनावृत्तिम् | न लौटने वाली गति को |
+| आवृत्तिम् | लौटने वाली गति को |
+| च | और |
+| एव | ही |
+| योगिनः | योगी जन |
+| प्रयाताः | शरीर छोड़कर गए हुए |
+| यान्ति | प्राप्त होते हैं |
+| तम् | उस |
+| कालम् | काल को |
+| वक्ष्यामि | मैं कहूँगा |
+| भरतर्षभ | हे भरतश्रेष्ठ (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yatra | in which |
+| kāle | time |
+| tu | indeed |
+| anāvṛttim | non-return (liberation) |
+| āvṛttim | return (rebirth) |
+| ca | and |
+| eva | also |
+| yoginaḥ | the yogis |
+| prayātāḥ | having departed |
+| yānti | attain |
+| tam | that |
+| kālam | time (path) |
+| vakṣyāmi | I shall describe |
+| bharatarṣabha | O best of the Bharatas |
+

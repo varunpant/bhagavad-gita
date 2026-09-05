@@ -31,3 +31,49 @@ position: 646
 
 ```
 
+
+### Transliteration
+```
+niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam
+aphala-prepsunā karma yat tat sāttvikam ucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक कर्म के लक्षणों को परिभाषित करते हैं। सात्त्विक कर्म वह है जो कर्तव्य समझकर, बिना किसी व्यक्तिगत राग-द्वेष के और बिना फल की आकांक्षा के किया जाता है। ऐसा कर्म कर्ता को बंधन में नहीं डालता बल्कि उसे आध्यात्मिक उन्नति की ओर ले जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna defines the characteristics of a Sattvik (pure) action. An action is considered Sattvik when it is performed as a prescribed duty, without personal attachment, without likes or dislikes, and with no desire for its fruits. Such action does not bind the doer but leads to spiritual elevation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| नियतम् | शास्त्र द्वारा नियत किया हुआ |
+| सङ्ग-रहितम् | आसक्ति से रहित |
+| अराग-द्वेषतः | राग और द्वेष के बिना |
+| कृतम् | किया गया |
+| अफल-प्रेप्सुना | फल की इच्छा न रखने वाले पुरुष द्वारा |
+| कर्म | कर्म |
+| यत् | जो |
+| तत् | वह |
+| सात्त्विकम् | सात्त्विक |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| niyatam | ordained by scriptures |
+| saṅga-rahitam | free from attachment |
+| arāga-dveṣataḥ | without attachment or aversion |
+| kṛtam | done |
+| aphala-prepsunā | by one who does not desire the fruit |
+| karma | action |
+| yat | which |
+| tat | that |
+| sāttvikam | sattvik (in the mode of goodness) |
+| ucyate | is said to be |
+

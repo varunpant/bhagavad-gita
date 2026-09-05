@@ -33,3 +33,57 @@ water (libations).
 
 ```
 
+
+### Transliteration
+```
+saṅkaro narakāyaiva kulaghnānāṃ kulasya ca
+patanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ
+
+```
+
+### भावार्थ
+
+अर्जुन श्रीकृष्ण को युद्ध के भयंकर परिणामों के बारे में बता रहे हैं। वे कहते हैं कि जब कुल का नाश होता है, तो वर्णसंकर संतानें उत्पन्न होती हैं, जो पूरे परिवार और उसे नष्ट करने वालों को नरक की ओर ले जाती हैं। इसके परिणामस्वरूप, पूर्वजों को दिए जाने वाले पिण्ड और जल दान की परंपराएं समाप्त हो जाती हैं, जिससे पितरों का भी पतन हो जाता है।
+
+### Meaning
+
+Arjuna continues to explain the disastrous consequences of war to Lord Krishna. He argues that the destruction of the family leads to unwanted progeny, which drags both the family and its destroyers into hell. Consequently, the traditional offerings of food and water to the ancestors cease, causing the ancestors themselves to fall from their heavenly abodes.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सङ्करः | वर्णसंकर |
+| नरकाय | नरक के लिए |
+| एव | ही |
+| कुलघ्नानाम् | कुल का नाश करने वालों के |
+| कुलस्य | कुल के |
+| च | और |
+| पतन्ति | गिर जाते हैं |
+| पितरः | पूर्वज |
+| हि | निश्चय ही |
+| एषाम् | इनके |
+| लुप्त | लुप्त हो जाने से |
+| पिण्ड | पिण्ड |
+| उदक | और जल की |
+| क्रियाः | क्रियाएं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| saṅkaraḥ | unwanted progeny |
+| narakāya | for hell |
+| eva | certainly |
+| kulaghnānām | of the destroyers of the family |
+| kulasya | of the family |
+| ca | and |
+| patanti | fall |
+| pitaraḥ | ancestors |
+| hi | certainly |
+| eṣām | of them |
+| lupta | deprived of |
+| piṇḍa | offerings of food |
+| udaka | water |
+| kriyāḥ | performances |
+

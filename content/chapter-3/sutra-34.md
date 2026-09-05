@@ -31,3 +31,55 @@ position: 153
 
 ```
 
+
+### Transliteration
+```
+indriyasyendriyasyārthe rāgadveṣau vyavasthitau
+tayorna vaśamāgacchettau hyasya paripanthinau
+
+```
+
+### भावार्थ
+
+प्रत्येक इन्द्रिय का अपने विषयों के प्रति स्वाभाविक आकर्षण (राग) या विकर्षण (द्वेष) होता है। परन्तु साधक को इन दोनों के अधीन नहीं होना चाहिए। भगवान कृष्ण अर्जुन को सचेत करते हैं कि राग और द्वेष आध्यात्मिक मार्ग के दो बड़े शत्रु हैं, जो मनुष्य को उसके कल्याण के मार्ग से भटका देते हैं।
+
+### Meaning
+
+Every sense naturally experiences attachment to pleasant objects and aversion to unpleasant ones. However, a seeker must not be controlled by these dualities. Krishna warns Arjuna that attachment and aversion are the two great enemies on the spiritual path, obstructing one's progress toward self-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इन्द्रियस्य | इन्द्रिय के |
+| इन्द्रियस्य | प्रत्येक इन्द्रिय के |
+| अर्थे | विषय में |
+| रागद्वेषौ | राग और द्वेष |
+| व्यवस्थितौ | स्थित हैं |
+| तयोः | उन दोनों के |
+| न | नहीं |
+| वशम् | अधीन |
+| आगच्छेत् | आना चाहिए |
+| तौ | वे दोनों |
+| हि | निश्चय ही |
+| अस्य | इस (मनुष्य) के |
+| परिपन्थिनौ | शत्रु हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| indriyasya | of the sense |
+| indriyasya | of the sense |
+| arthe | in the object |
+| rāgadveṣau | attachment and aversion |
+| vyavasthitau | situated |
+| tayoḥ | of them both |
+| na | not |
+| vaśam | control |
+| āgacchet | one should come |
+| tau | those two |
+| hi | certainly |
+| asya | his |
+| paripanthinau | enemies |
+

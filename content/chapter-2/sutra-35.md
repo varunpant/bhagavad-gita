@@ -31,3 +31,55 @@ position: 82
 
 ```
 
+
+### Transliteration
+```
+bhayād raṇād uparataṃ maṃsyante tvāṃ mahārathāḥ
+yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam
+
+```
+
+### भावार्थ
+
+श्रीकृष्ण अर्जुन को उनके यश के नाश के प्रति सचेत करते हैं। भीष्म और द्रोण जैसे महारथी, जो अभी तक अर्जुन का बहुत सम्मान करते हैं, यह नहीं मानेंगे कि उसने दयावश युद्ध छोड़ा है। वे यही सोचेंगे कि अर्जुन डर कर भाग गया है, जिससे उसे भारी अपमान का सामना करना पड़ेगा।
+
+### Meaning
+
+Krishna warns Arjuna about the loss of his hard-earned reputation. The great generals who currently hold him in high regard will not think he left the battle out of compassion. Instead, they will assume he fled out of cowardice, leading to his immense disgrace.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भयात् | भय से |
+| रणात् | युद्ध से |
+| उपरतम् | हटा हुआ |
+| मंस्यन्ते | मानेंगे |
+| त्वाम् | तुमको |
+| महारथाः | महारथी लोग |
+| येषाम् | जिनके |
+| च | और |
+| त्वम् | तुम |
+| बहुमतः | बहुत सम्मानित |
+| भूत्वा | होकर |
+| यास्यसि | प्राप्त होओगे |
+| लाघवम् | तुच्छता को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhayāt | out of fear |
+| raṇāt | from the battlefield |
+| uparatam | withdrawn |
+| maṃsyante | will consider |
+| tvām | you |
+| mahārathāḥ | the great chariot warriors |
+| yeṣām | of whom |
+| ca | and |
+| tvam | you |
+| bahumataḥ | highly esteemed |
+| bhūtvā | having been |
+| yāsyasi | you will attain |
+| lāghavam | insignificance |
+

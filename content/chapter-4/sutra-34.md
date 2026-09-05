@@ -31,3 +31,49 @@ position: 196
 
 ```
 
+
+### Transliteration
+```
+tadviddhi praṇipātena paripraśnena sevayā
+upadekṣyanti te jñānaṃ jñāninastattvadarśinaḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को दिव्य ज्ञान प्राप्त करने की विधि बताते हैं। इसके लिए व्यक्ति को एक प्रामाणिक गुरु के पास जाकर विनम्रतापूर्वक प्रणाम करना चाहिए, उनसे प्रश्न पूछने चाहिए और उनकी सेवा करनी चाहिए। केवल वे आत्मसाक्षात्कारी महापुरुष ही इस ज्ञान का उपदेश दे सकते हैं, जिन्होंने सत्य के दर्शन किए हैं।
+
+### Meaning
+
+Lord Krishna advises Arjuna on how to acquire transcendental knowledge. One must approach a bona fide spiritual master with humility, inquire submissively, and render service to them. Only self-realized souls who have seen the ultimate truth can impart this divine knowledge.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत् | उस (ज्ञान को) |
+| विद्धि | जानो |
+| प्रणिपातेन | प्रणाम करने से |
+| परिप्रश्नेन | प्रश्न पूछने से |
+| सेवया | सेवा करने से |
+| उपदेक्ष्यन्ति | उपदेश देंगे |
+| ते | तुम्हें |
+| ज्ञानम् | ज्ञान का |
+| ज्ञानिनः | ज्ञानी पुरुष |
+| तत्त्वदर्शिनः | तत्त्व को जानने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tat | that (knowledge) |
+| viddhi | know |
+| praṇipātena | by prostrating |
+| paripraśnena | by questioning |
+| sevayā | by service |
+| upadekṣyanti | they will impart |
+| te | unto you |
+| jñānam | knowledge |
+| jñāninaḥ | the wise |
+| tattvadarśinaḥ | those who have seen the truth |
+

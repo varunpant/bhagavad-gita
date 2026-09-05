@@ -31,3 +31,55 @@ position: 626
 
 ```
 
+
+### Transliteration
+```
+tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ
+yajñadānatapaḥkarma na tyājyamiti cāpare
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण संन्यास और त्याग के विषय में विभिन्न विचारकों के मतों को प्रस्तुत कर रहे हैं। सांख्य दर्शन के अनुयायी सभी कर्मों को दोषयुक्त मानकर उनके पूर्ण त्याग की वकालत करते हैं, क्योंकि हर कर्म में कुछ न कुछ त्रुटि या बंधन होता है। इसके विपरीत, मीमांसक और अन्य विचारक मानते हैं कि यज्ञ, दान और तप जैसे पवित्र कर्मों को कभी नहीं छोड़ना चाहिए क्योंकि ये मनुष्य को शुद्ध करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna presents the differing opinions of learned scholars regarding renunciation. Some thinkers, particularly of the Sankhya school, argue that all actions contain some inherent flaw and should therefore be abandoned entirely. On the other hand, other sages maintain that essential duties like sacrifice, charity, and penance purify the mind and must never be given up.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| त्याज्यम् | त्यागने योग्य |
+| दोष-वत् | दोषयुक्त की तरह |
+| इति | इस प्रकार |
+| एके | कुछ (विद्वान) |
+| कर्म | कर्म को |
+| प्राहुः | कहते हैं |
+| मनीषिणः | बुद्धिमान लोग |
+| यज्ञ-दान-तपः-कर्म | यज्ञ, दान और तप रूपी कर्म |
+| न | नहीं |
+| त्याज्यम् | त्यागने योग्य है |
+| इति | इस प्रकार |
+| च | और |
+| अपरे | दूसरे (विद्वान) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tyājyam | should be abandoned |
+| doṣa-vat | as an evil / full of defects |
+| iti | thus |
+| eke | some (philosophers) |
+| karma | action |
+| prāhuḥ | declare |
+| manīṣiṇaḥ | wise men |
+| yajña-dāna-tapaḥ-karma | acts of sacrifice, charity, and penance |
+| na | not |
+| tyājyam | should be abandoned |
+| iti | thus |
+| ca | and |
+| apare | others |
+

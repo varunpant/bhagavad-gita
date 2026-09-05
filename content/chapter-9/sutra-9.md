@@ -31,3 +31,53 @@ position: 347
 
 ```
 
+
+### Transliteration
+```
+na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya
+udāsīnavadāsīnamasaktaṃ teṣu karmasu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि यद्यपि वे सृष्टि की रचना, पालन और संहार आदि सभी कर्म करते हैं, फिर भी वे इन कर्मों के बंधन में नहीं बंधते। इसका कारण यह है कि वे इन सभी कार्यों को पूर्णतः अनासक्त और एक तटस्थ साक्षी की भाँति करते हैं। यह मनुष्यों के लिए भी एक आदर्श है कि निष्काम भाव से कर्म करने पर कर्म बंधनकारक नहीं होते।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that although He performs all the cosmic activities of creation, maintenance, and dissolution, these actions do not bind Him. The reason is His absolute detachment and neutrality, as He remains situated like an unconcerned observer. This serves as a lesson for human beings that actions performed without attachment and ego do not create karmic bondage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| च | और |
+| माम् | मुझको |
+| तानि | वे |
+| कर्माणि | कर्म |
+| निबध्नन्ति | बाँधते हैं |
+| धनञ्जय | हे धनंजय |
+| उदासीन-वत् | उदासीन की भाँति |
+| आसीनम् | स्थित |
+| असक्तम् | अनासक्त |
+| तेषु | उन |
+| कर्मसु | कर्मों में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| ca | and |
+| mām | Me |
+| tāni | those |
+| karmāṇi | actions |
+| nibadhnanti | bind |
+| dhanañjaya | O Dhananjaya |
+| udāsīna-vat | like one unconcerned |
+| āsīnam | seated |
+| asaktam | unattached |
+| teṣu | to those |
+| karmasu | actions |
+

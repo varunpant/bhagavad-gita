@@ -31,3 +31,51 @@ position: 382
 
 ```
 
+
+### Transliteration
+```
+teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam
+dadāmi buddhiyogaṃ taṃ yena māmupayānti te
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण बताते हैं कि जो भक्त निरंतर उनके ध्यान में मग्न रहते हैं और प्रेमपूर्वक उनकी सेवा करते हैं, उन्हें वे स्वयं दिव्य बुद्धि प्रदान करते हैं। यह बुद्धियोग कोई सांसारिक ज्ञान नहीं है, बल्कि वह आध्यात्मिक विवेक है जो साधक को परमात्मा से जोड़ता है। इसी आंतरिक प्रेरणा और ज्ञान के प्रकाश से भक्त अंततः भगवान को प्राप्त कर लेता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that to those devotees who are constantly absorbed in Him and worship Him with pure love, He personally bestows the yoga of discrimination (buddhi-yoga). This divine intellect is not mere worldly knowledge, but the spiritual wisdom that guides them from within. Through this grace, they are able to overcome all obstacles and ultimately attain union with the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तेषाम् | उनका (उन लोगों को) |
+| सतत-युक्तानाम् | जो निरंतर मुझसे जुड़े हुए हैं |
+| भजताम् | भजन करने वालों को |
+| प्रीति-पूर्वकम् | प्रेमपूर्वक |
+| ददामि | मैं देता हूँ |
+| बुद्धि-योगम् | बुद्धि का योग (विवेक) |
+| तम् | वह |
+| येन | जिसके द्वारा |
+| माम् | मुझको |
+| उपयान्ति | प्राप्त करते हैं |
+| ते | वे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| teṣām | of them |
+| satata-yuktānām | who are constantly united/devoted |
+| bhajatām | of those who worship |
+| prīti-pūrvakam | with love / lovingly |
+| dadāmi | I give |
+| buddhi-yogam | the yoga of understanding / intellect |
+| tam | that |
+| yena | by which |
+| mām | to Me |
+| upayānti | they come / attain |
+| te | they |
+

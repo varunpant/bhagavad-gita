@@ -31,3 +31,55 @@ position: 342
 
 ```
 
+
+### Transliteration
+```
+mayā tatamidaṃ sarvaṃ jagadavyaktamūrtinā
+matsthāni sarvabhūtāni na cāhaṃ teṣvavasthitaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापकता और अनासक्ति का वर्णन करते हैं। वे समझाते हैं कि यद्यपि सम्पूर्ण सृष्टि उनके अव्यक्त रूप से व्याप्त है और सभी प्राणी उन्हीं के आश्रित हैं, फिर भी वे स्वयं इन भौतिक विकारों और प्राणियों से सर्वथा परे और निर्लेप हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains His omnipresence and transcendence. He states that while the entire universe is pervaded by His unmanifest aspect and all living beings exist within Him, He remains detached and independent of them, unaffected by material nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मया | मेरे द्वारा |
+| ततम् | व्याप्त है |
+| इदम् | यह |
+| सर्वम् | सम्पूर्ण |
+| जगत् | जगत् |
+| अव्यक्त-मूर्तिना | अव्यक्त रूप वाले (मेरे) द्वारा |
+| मत्-स्थानि | मुझमें स्थित हैं |
+| सर्व-भूतानि | सभी प्राणी |
+| न | नहीं |
+| च | और |
+| अहम् | मैं |
+| तेषु | उनमें |
+| अवस्थितः | स्थित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mayā | by Me |
+| tatam | pervaded |
+| idam | this |
+| sarvam | all |
+| jagat | universe |
+| avyakta-mūrtinā | by the unmanifested form |
+| mat-sthāni | situated in Me |
+| sarva-bhūtāni | all living beings |
+| na | not |
+| ca | and |
+| aham | I |
+| teṣu | in them |
+| avasthitaḥ | situated |
+

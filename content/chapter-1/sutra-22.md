@@ -33,3 +33,53 @@ and know with whom I must fight, when the battle is about to commence.
 
 ```
 
+
+### Transliteration
+```
+yāvadetānnirīkṣe'haṃ yoddhukāmānavasthitān
+kairmayā saha yoddhavyamasminraṇasamudyame
+
+```
+
+### भावार्थ
+
+अर्जुन श्रीकृष्ण से रथ को दोनों सेनाओं के बीच में खड़ा करने का अनुरोध करते हैं ताकि वे शत्रु पक्ष का भली-भांति अवलोकन कर सकें। वे यह देखना चाहते हैं कि दुर्बुद्धि दुर्योधन का साथ देने के लिए युद्धभूमि में कौन-कौन उपस्थित हैं। यह श्लोक युद्ध से पूर्व विपक्ष के योद्धाओं का आकलन करने की अर्जुन की इच्छा को दर्शाता है।
+
+### Meaning
+
+Arjuna asks Krishna to place the chariot between the two armies so he can properly assess the enemy forces. He wants to see exactly who has assembled to fight for the evil-minded Duryodhana. This verse demonstrates Arjuna's initial confidence and his desire to evaluate the opposition before the war begins.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यावत् | जिससे कि |
+| एतान् | इन |
+| निरीक्षे | देख सकूँ |
+| अहम् | मैं |
+| योद्धुकामान् | युद्ध की इच्छा वाले |
+| अवस्थितान् | खड़े हुओं को |
+| कैः | किनके |
+| मया | मेरे द्वारा (मुझे) |
+| सह | साथ |
+| योद्धव्यम् | युद्ध करना चाहिए |
+| अस्मिन् | इस |
+| रणसमुद्यमे | युद्ध के व्यापार में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yāvat | so that |
+| etān | these |
+| nirīkṣe | I may observe |
+| aham | I |
+| yoddhukāmān | desirous of battle |
+| avasthitān | standing |
+| kaiḥ | with whom |
+| mayā | by me |
+| saha | together |
+| yoddhavyam | must be fought |
+| asmin | in this |
+| raṇasamudyame | enterprise of war |
+

@@ -31,3 +31,57 @@ position: 547
 
 ```
 
+
+### Transliteration
+```
+udāsīnavadāsīno guṇairyo na vicālyate
+guṇā vartanta ityeva yo'vatiṣṭhati neṅgate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण गुणातीत (तीनों गुणों से परे गए) पुरुष के लक्षणों का वर्णन कर रहे हैं। ऐसा व्यक्ति संसार के द्वंद्वों और गुणों के विकारों से अप्रभावित रहता है। वह साक्षी भाव में स्थित रहता है, यह जानते हुए कि सभी क्रियाएं केवल प्रकृति के गुणों के परस्पर व्यवहार के कारण हो रही हैं, न कि उसकी आत्मा के द्वारा।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a person who has transcended the three modes of material nature (guṇātīta). Such a person remains as a neutral observer, undisturbed by the dualities of the world. He stays firmly established in the self, understanding that all actions are merely the modes of nature interacting with one another, and not the work of the true Self.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| उदासीन-वत् | उदासीन के समान |
+| आसीनः | स्थित / बैठा हुआ |
+| गुणैः | गुणों के द्वारा |
+| यः | जो |
+| न | नहीं |
+| विचाल्यते | विचलित किया जाता है |
+| गुणाः | गुण ही |
+| वर्तन्ते | कार्य कर रहे हैं |
+| इति | इस प्रकार |
+| एव | ही |
+| यः | जो |
+| अवतिष्ठति | दृढ़ रहता है |
+| न | नहीं |
+| इङ्गते | विचलित होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| udāsīna-vat | like an unconcerned witness |
+| āsīnaḥ | seated |
+| guṇaiḥ | by the modes of nature |
+| yaḥ | who |
+| na | not |
+| vicālyate | is agitated |
+| guṇāḥ | the modes |
+| vartante | are acting |
+| iti | thus |
+| eva | only |
+| yaḥ | who |
+| avatiṣṭhati | remains established |
+| na | not |
+| iṅgate | wavers |
+

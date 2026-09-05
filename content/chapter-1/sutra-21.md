@@ -33,3 +33,60 @@ and know with whom I must fight, when the battle is about to commence.
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+hṛṣīkeśaṃ tadā vākyamidamāha mahīpate
+senayorubhayormadhye rathaṃ sthāpaya me'cyuta
+
+```
+
+### भावार्थ
+
+इस श्लोक में संजय धृतराष्ट्र को बताते हैं कि युद्ध शुरू होने से ठीक पहले अर्जुन ने श्रीकृष्ण से क्या कहा। अर्जुन अपने सारथी श्रीकृष्ण से अनुरोध करते हैं कि वे उनके रथ को कौरव और पांडव सेनाओं के ठीक बीच में ले जाकर खड़ा करें। इससे अर्जुन यह देखना चाहते थे कि युद्धभूमि में उनके विरुद्ध कौन-कौन लड़ने के लिए उपस्थित हैं।
+
+### Meaning
+
+In this verse, Sanjaya informs Dhritarashtra about what Arjuna said to Lord Krishna just before the battle began. Arjuna requests his charioteer, Krishna, to place his chariot exactly in the middle of the Kaurava and Pandava armies. He wishes to observe the opposing forces and see who has assembled to fight against him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुन | अर्जुन ने |
+| उवाच | कहा |
+| हृषीकेशम् | हृषीकेश (श्रीकृष्ण) से |
+| तदा | तब |
+| वाक्यम् | वचन |
+| इदम् | यह |
+| आह | कहा |
+| महीपते | हे पृथ्वीपति (धृतराष्ट्र) |
+| सेनयोः | सेनाओं के |
+| उभयोः | दोनों |
+| मध्ये | बीच में |
+| रथम् | रथ को |
+| स्थापय | खड़ा करें |
+| मे | मेरे |
+| अच्युत | हे अच्युत (श्रीकृष्ण) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjuna | Arjuna |
+| uvāca | said |
+| hṛṣīkeśam | unto Hrishikesha (Krishna) |
+| tadā | then |
+| vākyam | words |
+| idam | this |
+| āha | spoke |
+| mahīpate | O Lord of the earth (Dhritarashtra) |
+| senayoḥ | of the armies |
+| ubhayoḥ | of both |
+| madhye | in the middle |
+| ratham | chariot |
+| sthāpaya | please place |
+| me | my |
+| acyuta | O Infallible One (Krishna) |
+

@@ -32,3 +32,53 @@ in the several divisions of the army, protect Bhishma alone."
 
 ```
 
+
+### Transliteration
+```
+ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ
+bhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi
+
+```
+
+### भावार्थ
+
+दुर्योधन अपनी सेना के सेनापतियों को निर्देश दे रहा है कि वे अपने-अपने मोर्चों पर डटे रहें। उसे भय है कि कहीं अन्य योद्धाओं से युद्ध करते समय भीष्म अकेले न पड़ जाएँ। इसलिए वह सभी से आग्रह करता है कि वे हर ओर से केवल भीष्म की ही रक्षा करें, क्योंकि कौरव सेना की विजय उन्हीं पर निर्भर है।
+
+### Meaning
+
+Duryodhana instructs his army commanders to remain steadfast at their respective strategic positions. He is anxious that Bhishma might be left vulnerable while fighting other warriors. Therefore, he urges everyone to protect Bhishma from all sides, knowing that the Kaurava army's victory depends entirely on him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अयनेषु | मोर्चों पर |
+| च | और |
+| सर्वेषु | सभी |
+| यथाभागम् | अपने-अपने मोर्चों के अनुसार |
+| अवस्थिताः | स्थित रहते हुए |
+| भीष्मम् | भीष्म की |
+| एव | ही |
+| अभिरक्षन्तु | रक्षा करें |
+| भवन्तः | आप |
+| सर्वे | सभी |
+| एव | ही |
+| हि | निश्चय ही |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ayaneṣu | at the strategic points |
+| ca | and |
+| sarveṣu | all |
+| yathābhāgam | according to respective positions |
+| avasthitāḥ | situated |
+| bhīṣmam | Bhishma |
+| eva | only |
+| abhirakṣantu | must protect |
+| bhavantaḥ | you |
+| sarve | all |
+| eva | certainly |
+| hi | indeed |
+

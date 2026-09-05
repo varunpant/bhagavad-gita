@@ -31,3 +31,56 @@ position: 697
 
 ```
 
+
+### Transliteration
+```
+sañjaya uvāca
+ityahaṃ vāsudevasya pārthasya ca mahātmanaḥ
+saṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam
+
+```
+
+### भावार्थ
+
+यह भगवद्गीता का उपसंहार भाग है जहाँ संजय धृतराष्ट्र को अपना अनुभव बता रहे हैं। संजय व्यास देव की कृपा से प्राप्त दिव्य दृष्टि के माध्यम से इस संवाद को प्रत्यक्ष सुन पाए थे। वे इस संवाद को अत्यंत विस्मयकारी और रोमांच उत्पन्न करने वाला बताते हैं।
+
+### Meaning
+
+This is the concluding section of the Bhagavad Gita where Sanjaya shares his personal experience with Dhritarashtra. Through the divine vision granted by Vyasadeva, Sanjaya was able to hear this dialogue directly. He describes the conversation as wondrous and so thrilling that it makes his hair stand on end.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सञ्जयः | संजय |
+| उवाच | ने कहा |
+| इति | इस प्रकार |
+| अहम् | मैंने |
+| वासुदेवस्य | वासुदेव (श्रीकृष्ण) का |
+| पार्थस्य | पार्थ (अर्जुन) का |
+| च | और |
+| महा-आत्मनः | महात्मा (उच्च विचार वाले) |
+| संवादम् | संवाद को |
+| इमम् | इस |
+| अश्रौषम् | सुना |
+| अद्भुतम् | अद्भुत |
+| रोम-हर्षणम् | रोमांचकारी (रोंगटे खड़े कर देने वाला) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sañjayaḥ | Sanjaya |
+| uvāca | said |
+| iti | thus |
+| aham | I |
+| vāsudevasya | of Vāsudeva (Krishna) |
+| pārthasya | of Pārtha (Arjuna) |
+| ca | and |
+| mahā-ātmanaḥ | of the high-souled |
+| saṃvādam | conversation |
+| imam | this |
+| aśrauṣam | have heard |
+| adbhutam | wonderful |
+| roma-harṣaṇam | hair-raising |
+

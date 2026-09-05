@@ -31,3 +31,51 @@ position: 210
 
 ```
 
+
+### Transliteration
+```
+saṃnyāsastu mahābāho duḥkhamāptumayogataḥ
+yogayukto munirbrahma nacireṇādhigacchati
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि कर्मयोग के बिना केवल कर्मों का त्याग करना दुःखदायी है और इसे निभाना कठिन है। सच्चे संन्यास के लिए मन की शुद्धि आवश्यक है, जो निष्काम कर्म से ही संभव है। जो मुनि कर्मयोग का आचरण करता है, वह शीघ्र ही परब्रह्म को प्राप्त कर लेता है।
+
+### Meaning
+
+Krishna explains to Arjuna that merely renouncing actions without practicing Karma Yoga leads to distress and is difficult to sustain. True renunciation requires a purified mind, which is achieved through selfless action. A sage who diligently practices Karma Yoga quickly attains the Supreme Brahman.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| संन्यासः | संन्यास |
+| तु | परन्तु |
+| महाबाहो | हे महाबाहु |
+| दुःखम् | दुःखदायी |
+| आप्तुम् | प्राप्त करने के लिए |
+| अयोगतः | कर्मयोग के बिना |
+| योगयुक्तः | कर्मयोग से युक्त |
+| मुनिः | मुनि |
+| ब्रह्म | परब्रह्म को |
+| नचिरेण | शीघ्र ही |
+| अधिगच्छति | प्राप्त कर लेता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| saṃnyāsaḥ | renunciation |
+| tu | but |
+| mahābāho | O mighty-armed one |
+| duḥkham | distress |
+| āptum | to attain |
+| ayogataḥ | without yoga |
+| yogayuktaḥ | one engaged in yoga |
+| muniḥ | a sage |
+| brahma | Brahman |
+| nacireṇa | without delay |
+| adhigacchati | attains |
+

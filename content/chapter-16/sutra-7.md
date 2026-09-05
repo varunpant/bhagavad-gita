@@ -31,3 +31,65 @@ position: 578
 
 ```
 
+
+### Transliteration
+```
+pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ
+na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण आसुरी प्रवृत्ति के मनुष्यों के लक्षणों का वर्णन कर रहे हैं। ऐसे लोगों को धर्मानुकूल कर्मों में प्रवृत्त होने और अधर्मयुक्त कर्मों से निवृत्त होने का ज्ञान नहीं होता। उनके जीवन में आंतरिक और बाह्य पवित्रता, उत्तम आचरण तथा सत्य भाषण का सर्वथा अभाव होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of those with a demonic nature. Such individuals lack the discrimination to understand what actions are righteous (to be embraced) and what are unrighteous (to be avoided). Consequently, they lack internal and external cleanliness, proper behavior, and truthfulness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रवृत्तिम् | कर्तव्य कर्म में प्रवृत्ति को |
+| च | और |
+| निवृत्तिम् | अकर्तव्य कर्म से निवृत्ति को |
+| च | और |
+| जनाः | मनुष्य |
+| न | नहीं |
+| विदुः | जानते हैं |
+| आसुराः | आसुरी स्वभाव वाले |
+| न | न |
+| शौचम् | पवित्रता |
+| न | न |
+| अपि | भी |
+| च | और |
+| आचारः | सदाचार |
+| न | न |
+| सत्यम् | सत्य |
+| तेषु | उनमें |
+| विद्यते | विद्यमान होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pravṛttim | right action (what to do) |
+| ca | and |
+| nivṛttim | wrong action (what to refrain from) |
+| ca | and |
+| janāḥ | persons |
+| na | not |
+| viduḥ | know |
+| āsurāḥ | those of demonic nature |
+| na | neither |
+| śaucam | purity |
+| na | nor |
+| api | also |
+| ca | and |
+| ācāraḥ | good conduct |
+| na | nor |
+| satyam | truthfulness |
+| teṣu | in them |
+| vidyate | is found |
+

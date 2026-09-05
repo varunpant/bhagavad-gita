@@ -31,3 +31,51 @@ position: 88
 
 ```
 
+
+### Transliteration
+```
+vyavasāyātmikā buddhirekeha kurunandana
+bahuśākhā hyanantāśca buddhayo'vyavasāyinām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आध्यात्मिक मार्ग पर एकाग्र मन की महत्ता को समझाते हैं। दृढ़ निश्चय वाले व्यक्ति का एक ही अटल लक्ष्य होता है, जो उसे योग में सफलता दिलाता है। इसके विपरीत, जिन लोगों में दृढ़ संकल्प की कमी होती है, वे सांसारिक इच्छाओं से विचलित होते हैं, जिससे उनका मन अनन्त दिशाओं में भटकता रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the importance of a focused mind on the spiritual path. A person with resolute determination has a single, unwavering goal, which leads to success in yoga. In contrast, those who lack firm resolve are distracted by endless worldly desires, causing their minds to wander in countless directions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| व्यवसायात्मिका | निश्चयात्मिका |
+| बुद्धिः | बुद्धि |
+| एका | एक ही |
+| इह | इस मार्ग में |
+| कुरुनन्दन | हे कुरुनन्दन |
+| बहुशाखाः | बहुत सी शाखाओं वाली |
+| हि | निश्चय ही |
+| अनन्ताः | अनन्त |
+| च | और |
+| बुद्धयः | बुद्धियाँ |
+| अव्यवसायिनाम् | अनिश्चयी पुरुषों की |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vyavasāyātmikā | resolute |
+| buddhiḥ | intelligence |
+| ekā | one |
+| iha | here (on this path) |
+| kurunandana | O descendant of Kuru |
+| bahuśākhāḥ | many-branched |
+| hi | indeed |
+| anantāḥ | endless |
+| ca | and |
+| buddhayaḥ | intelligences |
+| avyavasāyinām | of the irresolute |
+

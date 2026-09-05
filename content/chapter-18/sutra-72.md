@@ -31,3 +31,53 @@ position: 695
 
 ```
 
+
+### Transliteration
+```
+kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā
+kaccidajñānasaṃmohaḥ pranaṣṭaste dhanañjaya
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन से पूछते हैं कि क्या उन्होंने इस परम गोपनीय ज्ञान को पूरी एकाग्रता के साथ सुना है। वे यह भी जानना चाहते हैं कि क्या अर्जुन का अज्ञान और उससे उत्पन्न मोह अब पूरी तरह से समाप्त हो गया है। यह गुरु द्वारा शिष्य की समझ और मानसिक स्थिति की पुष्टि करने का एक सुंदर उदाहरण है।
+
+### Meaning
+
+In this verse, Lord Krishna asks Arjuna if he has listened to this supreme knowledge with undivided attention. He also inquires whether Arjuna's delusion, which arose from ignorance, has now been completely destroyed. This represents a compassionate teacher ensuring that the disciple has fully understood the teachings before the dialogue concludes.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कच्चित् | क्या |
+| एतत् | यह |
+| श्रुतम् | सुना गया |
+| पार्थ | हे कुन्तीपुत्र (अर्जुन) |
+| त्वया | तुम्हारे द्वारा |
+| एकाग्रेण | एकाग्र |
+| चेतसा | चित्त से |
+| कच्चित् | क्या |
+| अज्ञान-संमोहः | अज्ञान जनित मोह |
+| प्रनष्टः | नष्ट हो गया है |
+| ते | तुम्हारा |
+| धनञ्जय | हे धनंजय (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kaccit | whether |
+| etat | this |
+| śrutam | heard |
+| pārtha | O Partha (Arjuna) |
+| tvayā | by you |
+| ekāgreṇa | with one-pointed / attentive |
+| cetasā | mind |
+| kaccit | whether |
+| ajñāna-saṃmohaḥ | delusion born of ignorance |
+| pranaṣṭaḥ | destroyed |
+| te | your |
+| dhanañjaya | O Dhananjaya (conqueror of wealth) |
+

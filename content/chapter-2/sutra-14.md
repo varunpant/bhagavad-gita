@@ -31,3 +31,47 @@ position: 61
 
 ```
 
+
+### Transliteration
+```
+mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ
+āgamāpāyino'nityāstāṃstitikṣasva bhārata
+
+```
+
+### भावार्थ
+
+श्रीकृष्ण अर्जुन को समझाते हैं कि सर्दी-गर्मी और सुख-दुःख जैसी शारीरिक और मानसिक अनुभूतियाँ केवल इन्द्रियों के उनके विषयों के साथ संपर्क का परिणाम हैं। चूँकि इन अनुभवों की उत्पत्ति और अंत होता है, इसलिए ये अस्थायी और निरंतर बदलने वाले हैं। अतः एक बुद्धिमान व्यक्ति को विचलित हुए बिना इन्हें सहन करना सीखना चाहिए और हर परिस्थिति में समभाव बनाए रखना चाहिए।
+
+### Meaning
+
+Krishna explains to Arjuna that physical and emotional sensations like heat, cold, pleasure, and pain are merely the result of the senses interacting with the material world. Because these experiences have a beginning and an end, they are temporary and constantly changing. Therefore, a wise person should learn to tolerate them without becoming disturbed, maintaining equanimity in all situations.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मात्रास्पर्शाः | इन्द्रियों के विषयों से संपर्क |
+| तु | तो |
+| कौन्तेय | हे कुन्तीपुत्र |
+| शीतोष्णसुखदुःखदाः | सर्दी-गर्मी और सुख-दुःख देने वाले |
+| आगमापायिनः | आने-जाने वाले |
+| अनित्याः | अनित्य |
+| तान् | उनको |
+| तितिक्षस्व | सहन करो |
+| भारत | हे भरतवंशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mātrāsparśāḥ | contacts of the senses |
+| tu | but |
+| kaunteya | O son of Kunti |
+| śītoṣṇasukhaduḥkhadāḥ | giving cold, heat, pleasure, and pain |
+| āgamāpāyinaḥ | coming and going |
+| anityāḥ | temporary |
+| tān | them |
+| titikṣasva | endure |
+| bhārata | O descendant of Bharata |
+

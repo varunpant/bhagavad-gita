@@ -31,3 +31,57 @@ position: 483
 
 ```
 
+
+### Transliteration
+```
+santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ
+mayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस भक्त के आंतरिक गुणों का वर्णन करते हैं जो उन्हें अत्यंत प्रिय है। वह भक्त हर परिस्थिति में संतुष्ट रहता है, अपनी इंद्रियों और मन पर नियंत्रण रखता है, और उसका ईश्वर में अटूट विश्वास होता है। अपने मन और बुद्धि को भगवान में विलीन करके वह पूर्ण भक्ति का अनुभव करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the inner qualities of a devotee who is extremely dear to Him. Such a practitioner is always content regardless of external circumstances, maintains self-control, and possesses unwavering determination. By dedicating both mind and intellect to the Divine, the devotee attains a state of constant union and peace.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सन्तुष्टः | संतुष्ट |
+| सततम् | निरंतर |
+| योगी | योगी (मुझसे जुड़ा हुआ) |
+| यत-आत्मा | संयमित शरीर और मन वाला |
+| दृढ-निश्चयः | दृढ़ निश्चय वाला |
+| मयि | मुझमें |
+| अर्पित | समर्पित |
+| मनः | मन |
+| बुद्धिः | और बुद्धि वाला |
+| यः | जो |
+| मद्-भक्तः | मेरा भक्त |
+| सः | वह |
+| मे | मुझे |
+| प्रियः | प्रिय है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| santuṣṭaḥ | contented |
+| satatam | always |
+| yogī | the yogi (one united with the Divine) |
+| yata-ātmā | self-controlled |
+| dṛḍha-niścayaḥ | possessed of firm conviction |
+| mayi | in Me |
+| arpita | dedicated |
+| manaḥ | mind |
+| buddhiḥ | and intellect |
+| yaḥ | who |
+| mad-bhaktaḥ | My devotee |
+| saḥ | he |
+| me | to Me |
+| priyaḥ | is dear |
+

@@ -31,3 +31,59 @@ position: 121
 
 ```
 
+
+### Transliteration
+```
+vyāmiśreṇeva vākyena buddhiṃ mohayasīva me
+tadekaṃ vada niścitya yena śreyo'hamāpnuyām
+
+```
+
+### भावार्थ
+
+अर्जुन श्रीकृष्ण के पिछले उपदेशों से भ्रमित महसूस कर रहे हैं, क्योंकि उन्हें ज्ञान और कर्म दोनों के मार्ग परस्पर विरोधी लग रहे हैं। उन्हें लगता है कि इन अनेकार्थक वचनों से उनकी बुद्धि चकरा रही है। इसलिए वे श्रीकृष्ण से प्रार्थना करते हैं कि वे निश्चित करके कोई एक ऐसा स्पष्ट मार्ग बताएँ जिससे उनका परम कल्याण हो सके।
+
+### Meaning
+
+Arjuna expresses his confusion over Krishna's previous teachings, which seemed to praise both the path of knowledge and the path of action. He feels that these seemingly contradictory statements are bewildering his mind. Therefore, he requests Krishna to clearly and decisively instruct him on the single best path to achieve the ultimate good.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| व्यामिश्रेण | मिले-जुले |
+| इव | मानो |
+| वाक्येन | वचनों से |
+| बुद्धिम् | बुद्धि को |
+| मोहयसि | मोहित कर रहे हैं |
+| इव | मानो |
+| मे | मेरी |
+| तत् | इसलिए |
+| एकम् | एक |
+| वद | कहिए |
+| निश्चित्य | निश्चित करके |
+| येन | जिससे |
+| श्रेयः | परम कल्याण |
+| अहम् | मैं |
+| आप्नुयाम् | प्राप्त कर सकूँ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vyāmiśreṇa | by mixed |
+| iva | as if |
+| vākyena | by words |
+| buddhim | intellect |
+| mohayasi | you are bewildering |
+| iva | as if |
+| me | my |
+| tat | therefore |
+| ekam | one |
+| vada | please tell |
+| niścitya | decisively |
+| yena | by which |
+| śreyaḥ | the highest good |
+| aham | I |
+| āpnuyām | may attain |
+

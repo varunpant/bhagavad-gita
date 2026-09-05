@@ -31,3 +31,59 @@ position: 390
 
 ```
 
+
+### Transliteration
+```
+vistareṇātmano yogaṃ vibhūtiṃ ca janārdana
+bhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me'mṛtam
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण से उनकी दिव्य विभूतियों और योगशक्ति का पुनः विस्तार से वर्णन करने की प्रार्थना कर रहे हैं। अर्जुन कहते हैं कि भगवान के अमृत के समान वचनों को सुनते हुए उनका मन कभी तृप्त नहीं होता और वे और अधिक सुनना चाहते हैं। यह भक्त की भगवान की महिमा सुनने की असीम पिपासा को दर्शाता है।
+
+### Meaning
+
+In this verse, Arjuna requests Lord Krishna to describe His divine opulences and mystic powers once again in detail. Arjuna expresses that he is never satiated by hearing the nectar-like words of the Lord. This highlights a devotee's endless desire to hear and contemplate the glories of the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| विस्तरेण | विस्तारपूर्वक |
+| आत्मनः | अपनी |
+| योगम् | योगशक्ति को |
+| विभूतिम् | ऐश्वर्य को |
+| च | और |
+| जनार्दन | हे जनार्दन (कृष्ण) |
+| भूयः | पुनः / फिर से |
+| कथय | कहिए |
+| तृप्तिः | तृप्ति / संतोष |
+| ही | क्योंकि |
+| शृण्वतः | सुनते हुए |
+| न | नहीं |
+| अस्ति | है |
+| मे | मेरी |
+| अमृतम् | अमृतमयी वचनों से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vistareṇa | in detail |
+| ātmanaḥ | Your own |
+| yogam | mystic power |
+| vibhūtim | opulence |
+| ca | and |
+| janārdana | O Janardana (Krishna) |
+| bhūyaḥ | again |
+| kathaya | describe |
+| tṛptiḥ | satiation |
+| hi | for / indeed |
+| śṛṇvataḥ | hearing |
+| na | not |
+| asti | there is |
+| me | my |
+| amṛtam | nectar-like words |
+

@@ -31,3 +31,64 @@ position: 545
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+kair liṅgais trīn guṇān etān atīto bhavati prabho
+kimācāraḥ kathaṃ caitāṃs trīn guṇān ativartate
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण से गुणातीत पुरुष (जो तीनों गुणों से ऊपर उठ चुका है) के विषय में तीन प्रश्न पूछते हैं। पहला प्रश्न उसके लक्षणों के बारे में है, दूसरा उसके आचरण या व्यवहार के बारे में है, और तीसरा प्रश्न उस साधन या विधि के बारे में है जिसके द्वारा वह इन गुणों को पार करता है। यह प्रश्न आगे के श्लोकों में कृष्ण द्वारा दिए जाने वाले विस्तृत उपदेश की पृष्ठभूमि तैयार करता है।
+
+### Meaning
+
+In this verse, Arjuna asks Lord Krishna three questions regarding a person who has transcended the three modes of material nature (guṇātīta). First, he asks about the characteristics or symptoms of such a person; second, about his conduct and behavior; and third, about the method by which he transcends these three modes. This inquiry sets the stage for Krishna's detailed explanation in the subsequent verses.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| कैः | किन |
+| लिङ्गैः | लक्षणों से |
+| त्रीन् | तीनों |
+| गुणान् | गुणों को |
+| एतान् | इन |
+| अतीतः | पार किया हुआ (अतीत) |
+| भवति | होता है |
+| प्रभो | हे प्रभु |
+| किम्-आचारः | कैसा आचरण करने वाला |
+| कथम् | किस प्रकार |
+| च | और |
+| एतान् | इन |
+| त्रीन् | तीनों |
+| गुणान् | गुणों को |
+| अतिवर्तते | पार कर जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| kaiḥ | by what |
+| liṅgaiḥ | symptoms / characteristics |
+| trīn | three |
+| guṇān | modes / qualities |
+| etān | these |
+| atītaḥ | transcended |
+| bhavati | becomes |
+| prabho | O Lord |
+| kim-ācāraḥ | what conduct |
+| katham | how |
+| ca | and |
+| etān | these |
+| trīn | three |
+| guṇān | modes |
+| ativartate | transcends |
+

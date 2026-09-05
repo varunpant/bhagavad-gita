@@ -31,3 +31,55 @@ position: 200
 
 ```
 
+
+### Transliteration
+```
+na hi jñānena sadṛśaṃ pavitramiha vidyate
+tatsvayaṃ yogasaṃsiddhaḥ kālenātmani vindati
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि आध्यात्मिक ज्ञान से बढ़कर इस संसार में कुछ भी पवित्र नहीं है। यह ज्ञान सभी पापों और अज्ञान को नष्ट कर देता है। जो व्यक्ति निष्काम कर्मयोग का निरंतर अभ्यास करके सिद्धि प्राप्त कर लेता है, वह उचित समय आने पर स्वतः ही अपनी आत्मा में इस दिव्य ज्ञान का अनुभव करता है।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that there is nothing in this world as purifying as spiritual knowledge. This knowledge destroys all sins and ignorance. A person who achieves perfection through the continuous practice of karma yoga automatically realizes this divine knowledge within their own self in due course of time.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| हि | निश्चय ही |
+| ज्ञानेन | ज्ञान के |
+| सदृशम् | समान |
+| पवित्रम् | पवित्र करने वाला |
+| इह | इस संसार में |
+| विद्यते | है (विद्यमान है) |
+| तत् | उस (ज्ञान) को |
+| स्वयम् | अपने आप |
+| योगसंसिद्धः | योग में सिद्ध हुआ मनुष्य |
+| कालेन | समय के साथ |
+| आत्मनि | अपने भीतर (आत्मा में) |
+| विन्दति | प्राप्त कर लेता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| hi | certainly |
+| jñānena | to knowledge |
+| sadṛśam | equal |
+| pavitram | purifying |
+| iha | in this world |
+| vidyate | exists |
+| tat | that |
+| svayam | himself |
+| yogasaṃsiddhaḥ | one who is perfected in yoga |
+| kālena | in due course of time |
+| ātmani | within himself |
+| vindati | finds |
+

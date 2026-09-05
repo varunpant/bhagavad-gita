@@ -31,3 +31,53 @@ position: 269
 
 ```
 
+
+### Transliteration
+```
+asaṃyatātmanā yogo duṣprāpa iti me matiḥ
+vaśyātmanā tu yatatā śakyo'vāptumupāyataḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन के संशय का समाधान करते हुए कहते हैं कि असंयमित मन वाले व्यक्ति के लिए योग की प्राप्ति अत्यंत कठिन है। इसके विपरीत, जो व्यक्ति निरंतर अभ्यास और वैराग्य के उपायों द्वारा अपने मन को वश में कर लेता है, वह पुरुषार्थ और सही साधना से योग को अवश्य प्राप्त कर सकता है। मन का निग्रह ही योग की सफलता की कुंजी है।
+
+### Meaning
+
+In this verse, Lord Krishna addresses Arjuna's doubt by stating that yoga is indeed difficult to achieve for someone with an undisciplined mind. However, for one who has learned to control the mind through constant practice and detachment, success in yoga is attainable by employing the correct methods. Mind control is thus established as the essential prerequisite for spiritual realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| असंयत-आत्मना | असंयमित मन वाले पुरुष द्वारा |
+| योगः | योग (समत्व रूप) |
+| दुष्प्रापः | कठिनता से प्राप्त होने योग्य |
+| इति | ऐसा |
+| मे | मेरा |
+| मतिः | मत है |
+| वश्य-आत्मना | वश में किए हुए मन वाले के द्वारा |
+| तु | परंतु |
+| यतता | प्रयत्न करने वाले के द्वारा |
+| शक्यः | संभव है |
+| अवाप्तुम् | प्राप्त करना |
+| उपायतः | उपाय से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| asaṃyata-ātmanā | by one of uncontrolled mind |
+| yogaḥ | yoga |
+| duṣprāpaḥ | difficult to attain |
+| iti | thus |
+| me | My |
+| matiḥ | opinion |
+| vaśya-ātmanā | by one of controlled mind |
+| tu | but |
+| yatatā | by the striving one |
+| śakyaḥ | is possible |
+| avāptum | to attain |
+| upāyataḥ | by proper means |
+

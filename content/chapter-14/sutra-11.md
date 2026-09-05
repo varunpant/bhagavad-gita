@@ -31,3 +31,55 @@ position: 535
 
 ```
 
+
+### Transliteration
+```
+sarvadvāreṣu dehe'sminprakāśa upajāyate
+jñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सत्त्वगुण की वृद्धि के लक्षण बताते हैं। जब मनुष्य की सभी इन्द्रियाँ (ज्ञान के द्वार) विवेक और ज्ञान से आलोकित हो जाती हैं, तब सत्त्वगुण की प्रधानता समझनी चाहिए। इस अवस्था में बुद्धि स्पष्ट और मन शांत रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the symptoms of the predominance of the mode of goodness (sattva). When all the senses (referred to as the gates of the body) are illuminated with the light of wisdom and discrimination, one should understand that sattva has increased. In this state, the intellect is clear and the mind is serene.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वद्वारेषु | सभी द्वारों में (इन्द्रियों में) |
+| देहे | शरीर में |
+| अस्मिन् | इस |
+| प्रकाशः | प्रकाश |
+| उपजायते | उत्पन्न होता है |
+| ज्ञानम् | ज्ञान |
+| यदा | जब |
+| तदा | तब |
+| विद्यात् | जानना चाहिए |
+| विवृद्धम् | बढ़ा हुआ |
+| सत्त्वम् | सत्त्वगुण |
+| इति | ऐसा |
+| उत | भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvadvāreṣu | in all the gates (senses) |
+| dehe | in the body |
+| asmin | this |
+| prakāśaḥ | light |
+| upajāyate | arises |
+| jñānam | knowledge |
+| yadā | when |
+| tadā | then |
+| vidyāt | one should know |
+| vivṛddham | increased |
+| sattvam | the mode of goodness |
+| iti | thus |
+| uta | also |
+

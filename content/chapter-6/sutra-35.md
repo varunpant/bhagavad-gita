@@ -31,3 +31,56 @@ position: 268
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+asaṁśayaṁ mahā-bāho mano durnigrahaṁ calam
+abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन की इस शंका का समाधान करते हैं कि मन को वश में करना अत्यंत कठिन है। वे स्वीकार करते हैं कि मन स्वभाव से चंचल और नियंत्रण से परे है, लेकिन वे दो अचूक उपाय बताते हैं: निरंतर अभ्यास और वैराग्य। इन दोनों के समन्वय से अत्यंत चंचल मन को भी धीरे-धीरे वश में किया जा सकता है।
+
+### Meaning
+
+In this verse, Lord Krishna addresses Arjuna's concern about the mind being extremely difficult to control. He agrees that the mind is indeed restless and obstinate, but provides two practical solutions: constant practice (abhyasa) and detachment (vairagya). Through persistent effort and dispassion toward worldly desires, even the most turbulent mind can be brought under control.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री-भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| असंशयम् | निःसंदेह / बिना किसी संशय के |
+| महा-बाहो | हे विशाल भुजाओं वाले (अर्जुन) |
+| मनः | मन |
+| दुर्निग्रहम् | कठिनता से वश में होने वाला |
+| चलम् | चंचल |
+| अभ्यासेन | अभ्यास के द्वारा |
+| तु | परन्तु |
+| कौन्तेय | हे कुन्तीपुत्र |
+| वैराग्येण | वैराग्य (अनासक्ति) के द्वारा |
+| च | और |
+| गृह्यते | वश में किया जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| asaṁśayam | without doubt |
+| mahā-bāho | O mighty-armed one |
+| manaḥ | the mind |
+| durnigraham | difficult to curb |
+| calam | restless |
+| abhyāsena | by practice |
+| tu | but |
+| kaunteya | O son of Kuntī |
+| vairāgyeṇa | by detachment |
+| ca | and |
+| gṛhyate | is restrained |
+

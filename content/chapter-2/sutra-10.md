@@ -31,3 +31,53 @@ position: 57
 
 ```
 
+
+### Transliteration
+```
+tam uvāca hṛṣīkeśaḥ prahasann iva bhārata
+senayor ubhayor madhye viṣīdantam idaṃ vacaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में संजय राजा धृतराष्ट्र को युद्धभूमि का दृश्य बता रहे हैं। दोनों सेनाओं के बीच अर्जुन को शोक और मोह से ग्रस्त देखकर भगवान श्रीकृष्ण मुस्कुराते हैं। उनकी यह मुस्कान उनके ईश्वरीय आत्मविश्वास को दर्शाती है और यहीं से भगवद्गीता के महान आध्यात्मिक उपदेश का आरंभ होता है।
+
+### Meaning
+
+In this verse, Sanjaya describes the scene to King Dhritarashtra. Seeing Arjuna overwhelmed with grief and confusion between the two massive armies, Lord Krishna smiles affectionately. This smile signifies Krishna's divine confidence and sets the stage for the profound spiritual teachings of the Bhagavad Gita that are about to follow.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तम् | उस (अर्जुन) को |
+| उवाच | कहा |
+| हृषीकेशः | हृषीकेश (श्रीकृष्ण) ने |
+| प्रहसन् | हँसते हुए |
+| इव | मानो |
+| भारत | हे भरतवंशी (धृतराष्ट्र) |
+| सेनयोः | सेनाओं के |
+| उभयोः | दोनों |
+| मध्ये | बीच में |
+| विषीदन्तम् | शोक करते हुए |
+| इदम् | यह |
+| वचः | वचन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tam | to him (Arjuna) |
+| uvāca | spoke |
+| hṛṣīkeśaḥ | Hrishikesha (Krishna) |
+| prahasan | smiling |
+| iva | as if |
+| bhārata | O descendant of Bharata (Dhritarashtra) |
+| senayoḥ | of the armies |
+| ubhayoḥ | of both |
+| madhye | in the middle |
+| viṣīdantam | lamenting |
+| idam | this |
+| vacaḥ | word |
+

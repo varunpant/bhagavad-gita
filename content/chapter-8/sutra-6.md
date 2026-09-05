@@ -31,3 +31,55 @@ position: 316
 
 ```
 
+
+### Transliteration
+```
+yaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram
+taṃ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण मृत्यु के समय मन की स्थिति के महत्व को समझाते हैं। जीवन भर मनुष्य जिस विचार या भाव में लीन रहता है, अंत समय में भी उसे उसी का स्मरण होता है। वही अंतिम विचार जीवात्मा की अगली गति और शरीर का निर्धारण करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the critical importance of the state of mind at the moment of death. Whatever thoughts or state of being a person is constantly absorbed in throughout life will naturally arise at the time of death. This final consciousness determines the soul's next destination and embodiment.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यम् यम् | जिस-जिस |
+| वा अपि | भी या |
+| स्मरन् | स्मरण करता हुआ |
+| भावम् | भाव को (अस्तित्व को) |
+| त्यजति | त्यागता है |
+| अन्ते | अन्तकाल में |
+| कलेवरम् | शरीर को |
+| तम् तम् | उसी-उसी को |
+| एव | ही |
+| एति | प्राप्त होता है |
+| कौन्तेय | हे कुन्तीपुत्र |
+| सदा | हमेशा |
+| तद्-भाव-भावितः | उसी भाव में भावित (लीन) रहने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yam yam | whatever |
+| vā api | or even |
+| smaran | remembering |
+| bhāvam | state of being |
+| tyajati | quits |
+| ante | at the end |
+| kalevaram | the body |
+| tam tam | to that very |
+| eva | certainly |
+| eti | attains |
+| kaunteya | O son of Kunti |
+| sadā | always |
+| tad-bhāva-bhāvitaḥ | absorbed in that state of being |
+

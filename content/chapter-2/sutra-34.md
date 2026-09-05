@@ -31,3 +31,53 @@ position: 81
 
 ```
 
+
+### Transliteration
+```
+akīrtiṃ cāpi bhūtāni kathayiṣyanti te'vyayām
+saṃbhāvitasya cākīrtirmaraṇādatiricyate
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को युद्धभूमि से भागने के सामाजिक परिणामों के बारे में चेतावनी देते हैं। वे समझाते हैं कि लोग हमेशा उसकी कायरता और अपयश की चर्चा करेंगे। एक ऐसे योद्धा के लिए जिसे हमेशा बहुत सम्मान मिला हो, यह स्थायी कलंक मृत्यु से भी अधिक कष्टदायक होता है।
+
+### Meaning
+
+Lord Krishna warns Arjuna about the social consequences of fleeing the battlefield. He explains that people will forever recount his cowardice and loss of honor. For a warrior who has always been highly respected, such lasting disgrace is far more painful than death itself.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अकीर्तिम् | अपकीर्ति का |
+| च | और |
+| अपि | भी |
+| भूतानि | लोग |
+| कथयिष्यन्ति | वर्णन करेंगे |
+| ते | तुम्हारी |
+| अव्ययाम् | शाश्वत |
+| संभावितस्य | सम्मानित व्यक्ति के लिए |
+| च | और |
+| अकीर्तिः | अपकीर्ति |
+| मरणात् | मृत्यु से |
+| अतिरिच्यते | बढ़कर है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| akīrtim | infamy |
+| ca | and |
+| api | also |
+| bhūtāni | people |
+| kathayiṣyanti | will speak of |
+| te | your |
+| avyayām | unending |
+| saṃbhāvitasya | for a respectable person |
+| ca | and |
+| akīrtiḥ | infamy |
+| maraṇāt | than death |
+| atiricyate | is worse |
+

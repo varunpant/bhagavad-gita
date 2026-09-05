@@ -31,3 +31,63 @@ position: 354
 
 ```
 
+
+### Transliteration
+```
+ahaṃ kraturahaṃ yajñaḥ svadhā'hamahamauṣadham
+mantro'hamahamevājyamahamagnirahaṃ hutam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अपनी सर्वव्यापकता का बोध करा रहे हैं। वे समझाते हैं कि सृष्टि में होने वाले सभी वैदिक और तांत्रिक अनुष्ठान, यज्ञ, और उनमें दी जाने वाली आहुतियाँ उन्हीं के स्वरूप हैं। यहाँ तक कि मंत्र, हविष्य (घी), अग्नि और हवन की संपूर्ण प्रक्रिया भी परमात्मा से भिन्न नहीं है।
+
+### Meaning
+
+In this verse, Lord Krishna explains His omnipresence to Arjuna by identifying Himself with all aspects of Vedic rituals. He states that He is the ritual, the sacrifice, the offering, the healing herb, the mantra, the clarified butter, the fire, and the act of offering itself. This emphasizes that everything in the cosmos, especially the sacred rites, is a manifestation of the Supreme Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहम् | मैं |
+| क्रतुः | वैदिक यज्ञ (क्रतु) |
+| अहम् | मैं |
+| यज्ञः | पंचमहायज्ञ (स्मार्त यज्ञ) |
+| स्वधा | पितरों को दिया जाने वाला अन्न (स्वधा) |
+| अहम् | मैं |
+| अहम् | मैं |
+| औषधम् | जड़ी-बूटी या अन्न (औषधि) |
+| मन्त्रः | वैदिक मंत्र |
+| अहम् | मैं |
+| अहम् | मैं |
+| एव | ही |
+| आज्यम् | घृत (घी) |
+| अहम् | मैं |
+| अग्निः | हवन की अग्नि |
+| अहम् | मैं |
+| हुतम् | हवन की क्रिया (आहुति) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aham | I |
+| kratuḥ | the Vedic ritual |
+| aham | I |
+| yajñaḥ | the sacrifice |
+| svadhā | the oblation to the ancestors |
+| aham | I |
+| aham | I |
+| auṣadham | the healing herb or food |
+| mantraḥ | the sacred chant |
+| aham | I |
+| aham | I |
+| eva | indeed |
+| ājyam | the clarified butter (ghee) |
+| aham | I |
+| agniḥ | the sacrificial fire |
+| aham | I |
+| hutam | the act of offering (oblation) |
+

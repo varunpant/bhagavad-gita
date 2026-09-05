@@ -31,3 +31,49 @@ position: 680
 
 ```
 
+
+### Transliteration
+```
+cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ
+buddhiyogamupāśritya maccittaḥ satataṃ bhava
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को कर्मयोग और भक्तियोग के समन्वय का उपदेश दे रहे हैं। वे अर्जुन से कहते हैं कि अपने सभी कर्मों को मानसिक रूप से ईश्वर को समर्पित कर दें और बुद्धि को स्थिर रखकर निरंतर परमात्मा का ही चिंतन करें। ऐसा करने से मनुष्य कर्मों के बंधन से मुक्त होकर परम शांति को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna advises Arjuna to integrate karma yoga with bhakti yoga. He instructs Arjuna to mentally surrender all actions to the Supreme, make Him the ultimate goal, and keep the intellect anchored in divine consciousness. By doing so, one remains constantly absorbed in the thought of God and is freed from the bondage of actions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| चेतसा | चेतना या मन के द्वारा |
+| सर्व-कर्माणि | सभी कर्मों को |
+| मयि | मुझमें |
+| संन्यस्य | अर्पण करके (त्याग करके) |
+| मत्-परः | मेरे परायण होकर |
+| बुद्धि-योगम् | बुद्धियोग का |
+| उपाश्रित्य | आश्रय लेकर |
+| मत्-चित्तः | मुझमें चित्तवाला |
+| सततम् | निरंतर |
+| भव | हो जाओ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| cetasā | by the mind |
+| sarva-karmāṇi | all activities |
+| mayi | unto Me |
+| saṃnyasya | resigning |
+| mat-paraḥ | having Me as the supreme goal |
+| buddhi-yogam | the yoga of intellect |
+| upāśritya | taking shelter of |
+| mat-cittaḥ | with mind fixed on Me |
+| satatam | constantly |
+| bhava | become |
+

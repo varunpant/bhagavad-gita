@@ -31,3 +31,49 @@ position: 191
 
 ```
 
+
+### Transliteration
+```
+apāne juhvati prāṇaṃ prāṇe 'pānaṃ tathā 'pare
+prāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण प्राणायाम के माध्यम से किए जाने वाले यज्ञ का वर्णन कर रहे हैं। कुछ योगी पूरक और रेचक के द्वारा श्वास-प्रश्वास को नियंत्रित करते हैं, जबकि अन्य कुम्भक का अभ्यास करके प्राण और अपान दोनों की गति को पूरी तरह रोक देते हैं। यह श्वास नियंत्रण मन को स्थिर करने और आध्यात्मिक उन्नति के लिए एक यज्ञ के रूप में किया जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the sacrifice performed through Pranayama (breath control). Some yogis control their inhalation and exhalation, while others practice Kumbhaka (retention) to completely stop the movement of both incoming and outgoing breaths. This regulation of breath is performed as a sacrifice to steady the mind and achieve spiritual elevation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अपाने | अपान वायु में |
+| जुह्वति | हवन करते हैं |
+| प्राणम् | प्राण वायु का |
+| प्राणे | प्राण वायु में |
+| अपानम् | अपान वायु का |
+| तथा | तथा |
+| अपरे | अन्य |
+| प्राण-अपान-गती | प्राण और अपान की गति को |
+| रुद्ध्वा | रोककर |
+| प्राणायाम-परायणाः | प्राणायाम के परायण |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| apāne | into the outgoing breath |
+| juhvati | offer as sacrifice |
+| prāṇam | the incoming breath |
+| prāṇe | into the incoming breath |
+| apānam | the outgoing breath |
+| tathā | also |
+| apare | others |
+| prāṇa-apāna-gatī | the movement of incoming and outgoing breaths |
+| ruddhvā | having restrained |
+| prāṇāyāma-parāyaṇāḥ | devoted to breath control |
+

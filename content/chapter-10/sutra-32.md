@@ -31,3 +31,57 @@ position: 404
 
 ```
 
+
+### Transliteration
+```
+sargāṇāmādirantaśca madhyaṃ caivāhamarjuna
+adhyātmavidyā vidyānāṃ vādaḥ pravadatāmaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अपनी विभूतियों का वर्णन करते हुए बताते हैं कि वे ही समस्त सृष्टियों के उत्पत्ति, स्थिति और प्रलय के कारण हैं। विद्याओं में वे सबसे श्रेष्ठ 'अध्यात्मविद्या' हैं जो मनुष्य को जन्म-मृत्यु के चक्र से मुक्त करती है। इसके अतिरिक्त, वाद-विवाद में वे 'वाद' हैं, जिसका उद्देश्य सत्य की खोज करना होता है, न कि केवल जीत हासिल करना।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine manifestations to Arjuna, declaring Himself to be the origin, middle, and end of all creation. Among all branches of knowledge, He is spiritual knowledge (the science of the soul), which leads to liberation. Furthermore, among various forms of debate, He is 'vada', the constructive and logical discussion aimed at discovering the ultimate truth.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्गाणाम् | सृष्टियों का |
+| आदिः | प्रारंभ (उत्पत्ति) |
+| अन्तः | अंत (प्रलय) |
+| च | और |
+| मध्यम् | मध्य (स्थिति) |
+| च | और |
+| एव | ही |
+| अहम् | मैं |
+| अर्जुन | हे अर्जुन |
+| अध्यात्मविद्या | अध्यात्मविद्या (आत्मज्ञान) |
+| विद्यानाम् | विद्याओं में |
+| वादः | तत्व-निर्णय के लिए किया जाने वाला वाद |
+| प्रवदताम् | प्रवचन करने वालों का (परस्पर चर्चा करने वालों का) |
+| अहम् | मैं हूँ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sargāṇām | of creations |
+| ādiḥ | the beginning |
+| antaḥ | the end |
+| ca | and |
+| madhyam | the middle |
+| ca | and |
+| eva | indeed |
+| aham | I |
+| arjuna | O Arjuna |
+| adhyātma-vidyā | spiritual knowledge |
+| vidyānām | of all sciences |
+| vādaḥ | the logical argument (seeking truth) |
+| pravadatām | of those who debate |
+| aham | I am |
+

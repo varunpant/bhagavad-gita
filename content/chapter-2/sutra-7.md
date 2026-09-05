@@ -31,3 +31,65 @@ position: 54
 
 ```
 
+
+### Transliteration
+```
+kārpaṇyadoṣopahatasvabhāvaḥ pṛcchāmi tvāṃ dharmasaṃmūḍhacetāḥ
+yacchreyaḥ syānniścitaṃ brūhi tanme śiṣyaste'haṃ śādhi māṃ tvāṃ prapannam
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन पूरी तरह से भगवान कृष्ण के समक्ष आत्मसमर्पण कर देते हैं। युद्ध के मैदान में अपने सगे-संबंधियों को देखकर अर्जुन का मन मोह और कायरता से भर गया था, जिससे वे अपने क्षत्रिय धर्म को भूल गए थे। अपनी इस भ्रमित स्थिति को स्वीकार करते हुए, वे कृष्ण को अपना गुरु मानते हैं और उनसे सही मार्ग दर्शन की प्रार्थना करते हैं।
+
+### Meaning
+
+In this verse, Arjuna completely surrenders to Lord Krishna. Overcome by attachment and faint-heartedness upon seeing his relatives on the battlefield, he has lost sight of his duty as a warrior. Acknowledging his bewildered state, he accepts Krishna as his spiritual master and begs for decisive guidance on the right path.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कार्पण्य-दोष-उपहत-स्वभावः | कायरता रूपी दोष से नष्ट हुए स्वभाव वाला |
+| पृच्छामि | मैं पूछता हूँ |
+| त्वाम् | आपसे |
+| धर्म-संमूढ-चेताः | धर्म के विषय में भ्रमित चित्त वाला |
+| यत् | जो |
+| श्रेयः | कल्याणकारी |
+| स्यात् | हो |
+| निश्चितम् | निश्चित रूप से |
+| ब्रूहि | कहें |
+| तत् | वह |
+| मे | मेरे लिए |
+| शिष्यः | शिष्य |
+| ते | आपका |
+| अहम् | मैं |
+| शाधि | शिक्षा दें |
+| माम् | मुझे |
+| त्वाम् | आपकी |
+| प्रपन्नम् | शरण में आया हुआ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kārpaṇya-doṣa-upahata-svabhāvaḥ | having a nature afflicted by the fault of faint-heartedness |
+| pṛcchāmi | I am asking |
+| tvām | you |
+| dharma-saṃmūḍha-cetāḥ | bewildered in mind about duty |
+| yat | what |
+| śreyaḥ | ultimate good |
+| syāt | may be |
+| niścitam | decisively |
+| brūhi | tell |
+| tat | that |
+| me | to me |
+| śiṣyaḥ | disciple |
+| te | your |
+| aham | I am |
+| śādhi | instruct |
+| mām | me |
+| tvām | unto you |
+| prapannam | surrendered |
+

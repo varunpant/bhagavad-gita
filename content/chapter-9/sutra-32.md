@@ -31,3 +31,63 @@ position: 370
 
 ```
 
+
+### Transliteration
+```
+māṃ hi pārtha vyapāśritya ye'pi syuḥ pāpayonayaḥ
+striyo vaiśyāstathā śūdrāste'pi yānti parāṃ gatim
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण भक्ति की सार्वभौमिकता और सुलभता को स्पष्ट करते हैं। वे घोषणा करते हैं कि सामाजिक या जन्मगत स्थिति चाहे जो भी हो, जो कोई भी अनन्य भाव से उनकी शरण में आता है, वह परम कल्याण का अधिकारी बन जाता है। भक्ति मार्ग में किसी भी प्रकार का भेदभाव नहीं है और यह सभी के लिए मोक्ष का द्वार खोलता है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the universality and accessibility of the path of devotion (bhakti). He declares that regardless of social status, gender, or circumstances of birth, anyone who takes absolute refuge in Him can attain the ultimate spiritual goal. The path of devotion is open to all without discrimination, ensuring liberation for every sincere seeker.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| माम् | मेरी |
+| हि | निश्चय ही |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| व्यपाश्रित्य | पूर्ण रूप से शरण लेकर |
+| ये | जो |
+| अपि | भी |
+| स्युः | हों |
+| पाप-योनयः | पापयोनि (नीच कुल में उत्पन्न) |
+| स्त्रियः | स्त्रियाँ |
+| वैश्याः | वैश्य (व्यापारी वर्ग) |
+| तथा | और |
+| शूद्राः | शूद्र (सेवक वर्ग) |
+| ते | वे |
+| अपि | भी |
+| यान्ति | प्राप्त करते हैं |
+| पराम् | परम |
+| गतिम् | गति को (गंतव्य को) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mām | Me |
+| hi | certainly |
+| pārtha | O son of Pṛthā (Arjuna) |
+| vyapāśritya | taking shelter fully |
+| ye | who |
+| api | even |
+| syuḥ | may be |
+| pāpa-yonayaḥ | of sinful birth |
+| striyaḥ | women |
+| vaiśyāḥ | merchants |
+| tathā | and |
+| śūdrāḥ | laborers |
+| te | they |
+| api | also |
+| yānti | attain |
+| parām | the supreme |
+| gatim | destination |
+

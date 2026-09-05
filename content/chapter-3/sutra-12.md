@@ -31,3 +31,61 @@ position: 131
 
 ```
 
+
+### Transliteration
+```
+iṣṭān bhogān hi vo devā dāsyante yajñabhāvitāḥ
+tair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण मनुष्यों और देवताओं के बीच के परस्पर निर्भर संबंध को स्पष्ट करते हैं। देवता प्रकृति के उन तत्वों को नियंत्रित करते हैं जो जीवन के लिए आवश्यक हैं, और वे मनुष्यों द्वारा किए गए यज्ञों से पुष्ट होते हैं। इसलिए, जो कोई भी देवताओं को कृतज्ञता अर्पित किए बिना या अपने निर्धारित कर्तव्यों का पालन किए बिना प्रकृति के उपहारों का उपभोग करता है, उसे चोर माना गया है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the interdependent relationship between humans and the celestial beings (devas). The devas control the natural elements necessary for survival, and they are nourished by the sacrifices performed by humans. Therefore, anyone who enjoys the bounties of nature without offering gratitude or performing their prescribed duties is considered a thief.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इष्टान् | इच्छित |
+| भोगान् | भोगों को |
+| हि | निश्चय ही |
+| वः | तुम्हें |
+| देवाः | देवता |
+| दास्यन्ते | प्रदान करेंगे |
+| यज्ञभाविताः | यज्ञ द्वारा प्रसन्न हुए |
+| तैः | उनके द्वारा |
+| दत्तान् | दी गई वस्तुओं को |
+| अप्रदाय | बिना अर्पित किए |
+| एभ्यः | उन्हें |
+| यः | जो |
+| भुङ्क्ते | भोगता है |
+| स्तेनः | चोर |
+| एव | ही |
+| सः | वह |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| iṣṭān | desired |
+| bhogān | enjoyments |
+| hi | certainly |
+| vaḥ | unto you |
+| devāḥ | the gods |
+| dāsyante | will give |
+| yajñabhāvitāḥ | pleased by sacrifices |
+| taiḥ | by them |
+| dattān | things given |
+| apradāya | without offering |
+| ebhyaḥ | to them |
+| yaḥ | who |
+| bhuṅkte | enjoys |
+| stenaḥ | thief |
+| eva | certainly |
+| saḥ | he |
+

@@ -31,3 +31,59 @@ position: 272
 
 ```
 
+
+### Transliteration
+```
+etanme saṃśayaṃ kṛṣṇa chettumarhasyaśeṣataḥ
+tvadanyaḥ saṃśayasyāsya chettā na hyupapadyate
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण से प्रार्थना कर रहे हैं कि वे उनके मन में उठने वाले इस संशय को पूरी तरह से मिटा दें। अर्जुन का मानना है कि भूत, वर्तमान और भविष्य के ज्ञाता होने के कारण केवल कृष्ण ही इस परम रहस्य को स्पष्ट कर सकते हैं। उनके अतिरिक्त कोई भी अन्य गुरु या ऋषि इस संशय का पूर्ण समाधान करने में समर्थ नहीं है।
+
+### Meaning
+
+Arjuna appeals to Krishna to completely dispel his doubt regarding the fate of a failed yogi. He acknowledges Krishna's supreme nature, believing that no one else in the universe possesses the absolute knowledge required to resolve such a fundamental spiritual dilemma. This highlights Arjuna's complete surrender and faith in Krishna as the ultimate spiritual guide.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एतत् | इस |
+| मे | मेरे |
+| संशयम् | संशय को |
+| कृष्ण | हे कृष्ण |
+| छेत्तुम् | नष्ट करने के लिए |
+| अर्हसि | आप योग्य हैं |
+| अशेषतः | पूर्ण रूप से |
+| त्वत् | आपसे |
+| अन्यः | भिन्न / दूसरा |
+| संशयस्य | संशय का |
+| अस्य | इस |
+| छेत्ता | नष्ट करने वाला |
+| ना | नहीं |
+| हि | क्योंकि |
+| उपपद्यते | मिलना संभव है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| etat | this |
+| me | my |
+| saṃśayam | doubt |
+| kṛṣṇa | O Krishna |
+| chettum | to dispel |
+| arhasi | you deserve (are able) |
+| aśeṣataḥ | completely |
+| tvat | than you |
+| anyaḥ | other |
+| saṃśayasya | of doubt |
+| asya | of this |
+| chettā | dispeller |
+| na | not |
+| hi | indeed |
+| upapadyate | is fit to be found |
+

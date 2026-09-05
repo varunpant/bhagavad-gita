@@ -31,3 +31,47 @@ position: 531
 
 ```
 
+
+### Transliteration
+```
+rajo rāgātmakama viddhi tṛṣṇāsaṅgasamudbhavam
+tannibadhnāti kaunteya karmasaṅgena dehinam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को रजोगुण के स्वभाव और उसके बंधनकारी प्रभाव के बारे में बता रहे हैं। रजोगुण मुख्य रूप से तीव्र इच्छाओं, कामनाओं और सांसारिक वस्तुओं के प्रति आसक्ति से उत्पन्न होता है। यह मनुष्य को निरंतर कर्म करने और उनके फलों की लालसा में व्यस्त रखता है, जिससे वह संसार चक्र में बंधा रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the nature and binding effect of the mode of passion (rajas) to Arjuna. Rajas is characterized by intense desires, longings, and attachment to worldly objects. It binds the embodied soul by driving it towards constant action and the craving for the fruits of those actions, keeping it entangled in the material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| रजः | रजोगुण को |
+| राग-आत्मकम् | राग रूप (कामनाओं से युक्त) |
+| विद्धि | जानो |
+| तृष्णा-सङ्ग-समुद्भवम् | लालसा और आसक्ति से उत्पन्न होने वाला |
+| तत् | वह (रजोगुण) |
+| निबध्नाति | बाँधता है |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| कर्म-सङ्गेन | कर्मों की आसक्ति से |
+| देहिनम् | शरीरधारी जीवात्मा को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rajaḥ | the mode of passion |
+| rāga-ātmakam | of the nature of desire |
+| viddhi | know |
+| tṛṣṇā-saṅga-samudbhavam | born of longing and attachment |
+| tat | that |
+| nibadhnāti | binds |
+| kaunteya | O son of Kuntī |
+| karma-saṅgena | by attachment to action |
+| dehinam | the embodied soul |
+

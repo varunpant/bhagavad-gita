@@ -31,3 +31,51 @@ position: 240
 
 ```
 
+
+### Transliteration
+```
+jitātmanaḥ praśāntasya paramātmā samāhitaḥ
+śītoṣṇasuxaduḥkheṣu tathā mānāpamānayoḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्म-संयम के लाभों का वर्णन कर रहे हैं। जिसने अपने मन और इन्द्रियों पर विजय प्राप्त कर ली है, वह पूर्णतः शान्त हो जाता है। ऐसा व्यक्ति अनुकूल और प्रतिकूल परिस्थितियों जैसे सर्दी-गर्मी, सुख-दुःख और मान-अपमान में भी विचलित नहीं होता और उसका अन्तःकरण सदैव परमात्मा में लीन रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the state of a self-controlled person. One who has conquered the mind and senses attains perfect tranquility. Such a person remains undisturbed by dualities like heat and cold, pleasure and pain, or honor and dishonor, and their consciousness remains constantly absorbed in the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| जित-आत्मनः | जिसने अपने मन और इन्द्रियों को जीत लिया है उस पुरुष के |
+| प्रशान्तस्य | परम शान्त पुरुष के |
+| परमात्मा | परमात्मा (परम आत्मा) |
+| समाहितः | भली-भांति स्थित (समाधिस्थ) रहता है |
+| शीत | सर्दी |
+| उष्ण | गर्मी |
+| सुख | सुख |
+| दुःखेषु | और दुःखों में |
+| तथा | तथा |
+| मान | मान |
+| अपमानयोः | और अपमान में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jita-ātmanaḥ | of one who has conquered the mind |
+| praśāntasya | of the peaceful one |
+| paramātmā | the Supreme Soul |
+| samāhitaḥ | is fully situated (in samadhi) |
+| śīta | cold |
+| uṣṇa | heat |
+| sukha | pleasure |
+| duḥkheṣu | and in pain |
+| tathā | as well as |
+| māna | honor |
+| apamānayoḥ | and dishonor |
+

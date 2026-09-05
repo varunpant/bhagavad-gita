@@ -33,3 +33,51 @@ position: 198
 
 ```
 
+
+### Transliteration
+```
+api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ
+sarvaṁ jñānaplavenaiva vṛjinaṁ santariṣyasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आध्यात्मिक ज्ञान की परम पावन शक्ति पर बल देते हैं। वे अर्जुन को आश्वस्त करते हैं कि किसी व्यक्ति का अतीत चाहे कितना भी पापपूर्ण क्यों न रहा हो, दिव्य ज्ञान प्राप्त होते ही वह अपने सभी पापों के फलों से मुक्त हो जाता है। ज्ञान एक ऐसी नौका के समान है जो मनुष्य को भौतिक अस्तित्व और पाप के अशांत सागर से सुरक्षित पार ले जाती है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the supreme purifying power of spiritual knowledge. He assures Arjuna that no matter how sinful a person's past may have been, the moment they attain divine wisdom, they are instantly liberated from the reactions of their past actions. Knowledge acts as a boat that safely carries a person across the turbulent ocean of material existence and sin.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अपि | भी |
+| चेत् | यदि |
+| असि | तुम हो |
+| पापेभ्यः | पापियों में |
+| सर्वेभ्यः | सब |
+| पापकृत्तमः | सबसे बड़ा पापी |
+| सर्वम् | संपूर्ण |
+| ज्ञानप्लवेन | ज्ञान रूपी नौका से |
+| एव | ही |
+| वृजिनम् | पाप-समुद्र को |
+| सन्तरिष्यसि | तुम भली-भांति पार कर जाओगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| api | even |
+| cet | if |
+| asi | you are |
+| pāpebhyaḥ | of sinners |
+| sarvebhyaḥ | of all |
+| pāpakṛttamaḥ | the most sinful |
+| sarvam | all |
+| jñānaplavena | by the boat of knowledge |
+| eva | certainly |
+| vṛjinam | the ocean of sins |
+| santariṣyasi | you will cross over |
+

@@ -31,3 +31,63 @@ position: 209
 
 ```
 
+
+### Transliteration
+```
+yat sāṅkhyaiḥ prāpyate sthānaṃ tad yogair api gamyate
+ekaṃ sāṅkhyaṃ ca yogaṃ ca yaḥ paśyati sa paśyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि ज्ञान योग (सांख्य) और निष्काम कर्म योग दोनों का अंतिम लक्ष्य एक ही है। यद्यपि उनके साधन अलग-अलग प्रतीत होते हैं, फिर भी वे दोनों एक ही आध्यात्मिक मुक्ति की अवस्था तक ले जाते हैं। इसलिए, जो सच्चा ज्ञानी है, वह इन दोनों मार्गों को मूल रूप से एक ही मानता है।
+
+### Meaning
+
+In this verse, Lord Krishna clarifies that the ultimate goal of both the path of knowledge (Sankhya) and the path of selfless action (Karma Yoga) is identical. Though their methods appear different, they both lead to the same state of spiritual liberation. Therefore, a truly wise person understands that these two paths are fundamentally one.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| सांख्यैः | ज्ञान योगियों द्वारा |
+| प्राप्यते | प्राप्त किया जाता है |
+| स्थानम् | स्थान |
+| तत् | वह |
+| योगैः | कर्म योगियों द्वारा |
+| अपि | भी |
+| गम्यते | प्राप्त किया जाता है |
+| एकम् | एक |
+| सांख्यम् | ज्ञान योग को |
+| च | और |
+| योगम् | कर्म योग को |
+| च | तथा |
+| यः | जो |
+| पश्यति | देखता है |
+| सः | वह |
+| पश्यति | यथार्थ देखता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | which |
+| sāṅkhyaiḥ | by the followers of Sankhya |
+| prāpyate | is attained |
+| sthānam | place |
+| tat | that |
+| yogaiḥ | by the followers of Yoga |
+| api | also |
+| gamyate | is reached |
+| ekam | one |
+| sāṅkhyam | Sankhya |
+| ca | and |
+| yogam | Yoga |
+| ca | and |
+| yaḥ | who |
+| paśyati | sees |
+| saḥ | he |
+| paśyati | sees truly |
+

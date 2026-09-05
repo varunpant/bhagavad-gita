@@ -31,3 +31,55 @@ position: 426
 
 ```
 
+
+### Transliteration
+```
+divi sūryasahasrasya bhavedyugapadutthitā
+yadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में संजय धृतराष्ट्र को भगवान कृष्ण के विश्वरूप के असीम और दिव्य तेज का वर्णन कर रहे हैं। वे कहते हैं कि यदि आकाश में एक साथ हजारों सूर्य उदित हो जाएं, तो भी उनका सम्मिलित प्रकाश उस परमेश्वर के विराट रूप के तेज की बराबरी नहीं कर सकता। यह भगवान के ऐश्वर्य की अनंतता को दर्शाने के लिए एक अत्यंत भव्य उपमा है।
+
+### Meaning
+
+In this verse, Sanjaya describes the indescribable and boundless effulgence of Lord Krishna's cosmic form to Dhritarashtra. He uses the grand metaphor of a thousand suns rising simultaneously in the sky to convey the sheer brilliance of the Lord's divine manifestation, suggesting that even such immense light would barely compare to His glory.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दिवि | आकाश में |
+| सूर्य-सहस्रस्य | हजार सूर्यों का |
+| भवेत् | होवे |
+| युगपत् | एक साथ |
+| उत्थिता | उदित हुआ |
+| यदि | यदि |
+| भाः | प्रकाश |
+| सदृशी | समान |
+| सा | वह |
+| स्यात् | हो |
+| भासः | तेज के |
+| तस्य | उस |
+| महा-आत्मनः | महात्मा (परमात्मा) के |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| divi | in the sky |
+| sūrya-sahasrasya | of a thousand suns |
+| bhavet | there were |
+| yugapat | simultaneously |
+| utthitā | arisen |
+| yadi | if |
+| bhāḥ | splendor |
+| sadṛśī | like |
+| sā | that |
+| syāt | might be |
+| bhāsaḥ | to the splendor |
+| tasya | of that |
+| mahā-ātmanaḥ | great soul (the Supreme Lord) |
+

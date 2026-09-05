@@ -31,3 +31,53 @@ position: 516
 
 ```
 
+
+### Transliteration
+```
+yāvat sañjāyate kiñcit sattvaṃ sthāvara-jaṅgamam
+kṣetra-kṣetrajña-saṃyogāt tad viddhi bharatarṣabha
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि संसार में जो भी चर और अचर प्राणी अस्तित्व में आते हैं, वे प्रकृति (क्षेत्र) और पुरुष (क्षेत्रज्ञ) के परस्पर संयोग का ही परिणाम हैं। इन दोनों के बिना किसी भी जीव की उत्पत्ति संभव नहीं है। यह ज्ञान साधक को भौतिक जगत और चेतन तत्व के अंतर को समझने में मदद करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that any existence, whether animate or inanimate, comes into being only through the union of the field (matter) and the knower of the field (spirit). Nothing can exist in the material world without the combination of these two principles. This understanding helps the seeker distinguish between the temporary physical body and the eternal soul.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यावत् | जो कुछ भी |
+| सञ्जायते | उत्पन्न होता है |
+| किञ्चित् | कोई भी |
+| सत्त्वम् | प्राणी / अस्तित्व |
+| स्थावर | अचल (स्थावर) |
+| जङ्गमम् | और चल (जङ्गम) |
+| क्षेत्र | क्षेत्र (शरीर) |
+| क्षेत्रज्ञ | और क्षेत्रज्ञ (आत्मा) |
+| संयोगात् | के संयोग से |
+| तत् | उसको |
+| विद्धि | तुम जानो |
+| भरतर्षभ | हे भरतवंशियों में श्रेष्ठ (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yāvat | whatever |
+| sañjāyate | is born |
+| kiñcit | any |
+| sattvam | being |
+| sthāvara | unmoving |
+| jaṅgamam | and moving |
+| kṣetra | of the field |
+| kṣetrajña | and the knower of the field |
+| saṃyogāt | from the union |
+| tat | that |
+| viddhi | know |
+| bharatarṣabha | O best of the Bharatas |
+

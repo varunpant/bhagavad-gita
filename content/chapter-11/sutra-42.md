@@ -31,3 +31,67 @@ position: 456
 
 ```
 
+
+### Transliteration
+```
+yaccāvahāsārthamasatkṛto'si vihāraśayyāsanabhojaneṣu
+eko'thavāpyacyuta tatsamakṣaṃ tatkṣāmaye tvāmahamaprameyam
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण के विराट रूप को देखकर भयभीत और विस्मित हैं। वे अतीत में अपनी अज्ञानतावश की गई गलतियों के लिए क्षमा याचना कर रहे हैं, जब उन्होंने कृष्ण को केवल एक साधारण मित्र मानकर उनके साथ हँसी-मजाक किया था या उनका अनादर किया था।
+
+### Meaning
+
+Arjuna, overwhelmed by the majestic and terrifying cosmic form of Lord Krishna, seeks forgiveness for his past familiar behavior. He regrets treating the Supreme Lord as a mere human friend and asks for pardon for any disrespect shown during casual moments of recreation, resting, sitting, or dining.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| च | और |
+| अवहास-अर्थम् | परिहास या मजाक के लिए |
+| असत्कृतः | अनादृत (तिरस्कृत) |
+| असि | आप हुए हैं |
+| विहार | विहार (खेलने-घूमने) |
+| शय्या | शय्या (सोने) |
+| आसन | आसन (बैठने) |
+| भोजनेषु | और भोजन के समय में |
+| एकः | अकेले में |
+| अथवा | या |
+| अपि | भी |
+| अच्युत | हे अच्युत (अविनाशी) |
+| तत्-समक्षम् | उन (मित्रों) के सामने |
+| तत् | उस सबके लिए |
+| क्षामये | क्षमा माँगता हूँ |
+| त्वाम् | आपसे |
+| अहम् | मैं |
+| अप्रमेयम् | अचिन्त्य प्रभाव वाले (अप्रमेय) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | whatever |
+| ca | and |
+| avahāsa-artham | for the purpose of joke |
+| asatkṛtaḥ | dishonored |
+| asi | you have been |
+| vihāra | in sporting |
+| śayyā | in resting |
+| āsana | in sitting |
+| bhojaneṣu | or in dining |
+| ekaḥ | alone |
+| athavā | or |
+| api | even |
+| acyuta | O Infallible One |
+| tat-samakṣam | in the presence of those (friends) |
+| tat | for all that |
+| kṣāmaye | ask forgiveness |
+| tvām | from You |
+| aham | I |
+| aprameyam | who are immeasurable |
+

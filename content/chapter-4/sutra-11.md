@@ -31,3 +31,59 @@ position: 173
 
 ```
 
+
+### Transliteration
+```
+ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham
+mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि वे सभी के प्रति समभाव रखते हैं। जो भक्त जिस इच्छा या भाव से भगवान की उपासना करता है, भगवान उसे उसी रूप में स्वीकार कर फल प्रदान करते हैं। अंततः, चाहे कोई किसी भी मार्ग या देवता का अनुसरण करे, वह परोक्ष या अपरोक्ष रूप से परमात्मा के ही मार्ग पर चल रहा होता है।
+
+### Meaning
+
+In this verse, Lord Krishna declares his absolute impartiality and perfect reciprocation with all souls. He explains that he rewards devotees exactly according to the nature and degree of their surrender to him. Ultimately, everyone is seeking the Supreme, and all paths of spiritual pursuit or material desire are simply different ways of following His universal path.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ये | जो |
+| यथा | जिस प्रकार |
+| माम् | मेरी |
+| प्रपद्यन्ते | शरण लेते हैं |
+| तान् | उनको |
+| तथा | उसी प्रकार |
+| एव | ही |
+| भजामि | भजता हूँ |
+| अहम् | मैं |
+| मम | मेरे |
+| वर्त्म | मार्ग का |
+| अनुवर्तन्ते | अनुसरण करते हैं |
+| मनुष्याः | मनुष्य |
+| पार्थ | हे पार्थ |
+| सर्वशः | सब प्रकार से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ye | who |
+| yathā | in whatever way |
+| mām | me |
+| prapadyante | surrender |
+| tān | them |
+| tathā | in that way |
+| eva | certainly |
+| bhajāmi | reward |
+| aham | I |
+| mama | my |
+| vartma | path |
+| anuvartante | follow |
+| manuṣyāḥ | human beings |
+| pārtha | O Partha |
+| sarvaśaḥ | in all respects |
+

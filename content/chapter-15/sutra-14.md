@@ -31,3 +31,51 @@ position: 565
 
 ```
 
+
+### Transliteration
+```
+ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ
+prāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापकता और जीवन को बनाए रखने वाली शक्ति का वर्णन कर रहे हैं। वे बताते हैं कि वे ही प्रत्येक जीव के भीतर जठराग्नि के रूप में स्थित हैं जो भोजन को पचाती है। प्राण और अपान वायु के संतुलन से यह पाचन क्रिया संपन्न होती है, जिससे शरीर को ऊर्जा मिलती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes His immanent presence and life-sustaining power. He explains that He Himself becomes the digestive fire (Vaishvanara) within the bodies of all living entities. Working in harmony with the vital life-breaths (prana and apana), He digests the four types of food, sustaining physical life.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहम् | मैं |
+| वैश्वानरः | जठराग्नि (वैश्वानर नामक अग्नि) |
+| भूत्वा | होकर |
+| प्राणिनाम् | प्राणियों के |
+| देहम् | शरीर में |
+| आश्रितः | स्थित (आश्रय लिए हुए) |
+| प्राण-अपान | प्राण और अपान वायु से |
+| समायुक्तः | भली-भाँति संयुक्त |
+| पचामि | पचाता हूँ |
+| अन्नम् | अन्न को |
+| चतुर्विधम् | चार प्रकार के |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aham | I |
+| vaiśvānaraḥ | the fire of digestion |
+| bhūtvā | becoming |
+| prāṇinām | of the living beings |
+| deham | the body |
+| āśritaḥ | abiding in |
+| prāṇa-apāna | with the outgoing and incoming breaths |
+| samāyuktaḥ | associated |
+| pacāmi | I digest |
+| annam | food |
+| caturvidham | of four kinds |
+

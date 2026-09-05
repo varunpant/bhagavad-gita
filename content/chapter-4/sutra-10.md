@@ -33,3 +33,47 @@ position: 172
 
 ```
 
+
+### Transliteration
+```
+vītarāgabhayakrodhā manmayā māmupāśritāḥ
+bahavo jñānatapasā pūtā madbhāvamāgatāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण बताते हैं कि उन्हें प्राप्त करना कोई नया या असंभव मार्ग नहीं है। अतीत में भी ऐसे अनेक साधक हुए हैं जिन्होंने स्वयं को सांसारिक आसक्ति, भय और क्रोध से मुक्त कर लिया और पूर्ण रूप से भगवान की शरण ग्रहण की। ज्ञान रूपी तपस्या से अपने अंतःकरण को शुद्ध करके उन्होंने भगवान के दिव्य स्वरूप और सर्वोच्च प्रेम को प्राप्त किया है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that attaining Him is not a new or impossible path. Throughout history, many seekers who freed themselves from worldly attachments, fear, and anger have taken complete refuge in Him. By purifying their consciousness through the fire of spiritual knowledge, they have successfully attained His divine nature and supreme love.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वीतरागभयक्रोधाः | आसक्ति, भय और क्रोध से मुक्त |
+| मन्मयाः | मुझमें तल्लीन |
+| माम् | मेरी |
+| उपाश्रिताः | शरण में आए हुए |
+| बहवः | बहुत से |
+| ज्ञानतपसा | ज्ञान रूपी तपस्या से |
+| पूताः | पवित्र होकर |
+| मद्भावम् | मेरे दिव्य भाव को |
+| आगताः | प्राप्त हुए हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vītarāgabhayakrodhāḥ | freed from attachment, fear, and anger |
+| manmayāḥ | fully absorbed in Me |
+| mām | Me |
+| upāśritāḥ | taking refuge |
+| bahavaḥ | many |
+| jñānatapasā | by the penance of knowledge |
+| pūtāḥ | purified |
+| madbhāvam | My transcendental nature |
+| āgatāḥ | have attained |
+

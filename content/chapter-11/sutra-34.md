@@ -31,3 +31,71 @@ position: 448
 
 ```
 
+
+### Transliteration
+```
+droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathā'nyānapi yodhavīrān
+mayā hatāṃstvaṃ jahi mā vyathiṣṭhā yudhyasva jetāsi raṇe sapatnān
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को आश्वस्त करते हैं कि द्रोण, भीष्म और कर्ण जैसे महान योद्धा, जिन्हें अर्जुन अजेय समझ रहा था, काल रूपी भगवान द्वारा पहले ही नष्ट किए जा चुके हैं। अर्जुन को केवल निमित्त मात्र बनकर अपना कर्तव्य निभाना है। इस युद्ध में उसकी विजय निश्चित है, इसलिए उसे किसी भी प्रकार का संकोच या भय नहीं करना चाहिए।
+
+### Meaning
+
+Lord Krishna assures Arjuna that great warriors like Drona, Bhishma, and Karna, whom Arjuna deemed invincible, have already been destroyed by the Lord in His cosmic form as Time. Arjuna is merely to act as an instrument (nimitta) of the divine will. His victory in the battle is already destined, so he should fight without any hesitation or fear.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| द्रोणम् | द्रोणाचार्य को |
+| च | और |
+| भीष्मम् | भीष्म पितामह को |
+| च | और |
+| जयद्रथम् | जयद्रथ को |
+| च | और |
+| कर्णम् | कर्ण को |
+| तथा | तथा |
+| अन्यान् | अन्य |
+| अपि | भी |
+| योध-वीरान् | वीर योद्धाओं को |
+| मया | मेरे द्वारा |
+| हतान् | मारे गए लोगों को |
+| त्वम् | तुम |
+| जहि | मारो |
+| मा | मत |
+| व्यथिष्ठाः | भयभीत हो (व्यथित हो) |
+| युध्यस्व | युद्ध करो |
+| जेतासि | तुम जीतोगे |
+| रणे | युद्ध में |
+| सपत्नान् | शत्रुओं को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| droṇam | Drona |
+| ca | and |
+| bhīṣmam | Bhishma |
+| ca | and |
+| jayadratham | Jayadratha |
+| ca | and |
+| karṇam | Karna |
+| tathā | as well as |
+| anyān | others |
+| api | also |
+| yodha-vīrān | brave warriors |
+| mayā | by me |
+| hatān | slain |
+| tvam | you |
+| jahi | slay |
+| mā | do not |
+| vyathiṣṭhāḥ | be distressed |
+| yudhyasva | fight |
+| jetāsi | you will conquer |
+| raṇe | in battle |
+| sapatnān | enemies |
+

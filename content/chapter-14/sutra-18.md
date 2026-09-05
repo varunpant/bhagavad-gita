@@ -31,3 +31,49 @@ position: 542
 
 ```
 
+
+### Transliteration
+```
+ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ
+jaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तीनों गुणों के प्रभाव से होने वाली गतियों का वर्णन कर रहे हैं। सत्त्वगुणी व्यक्ति अपनी पवित्रता के कारण उच्च दिव्य लोकों को प्राप्त करते हैं। रजोगुणी व्यक्ति अपनी सांसारिक इच्छाओं के कारण पुनः मृत्युलोक में जन्म लेते हैं, जबकि तमोगुणी व्यक्ति अपने अज्ञान और आलस्य के कारण पशु योनियों या नरक जैसे निम्न स्तरों में गिर जाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the destinations reached by individuals under the influence of the three modes of nature. Those established in Sattva-guna ascend to higher, celestial realms due to their purity. Those dominated by Raja-guna remain in the middle, taking birth again in the human world, while those steeped in Tama-guna sink to lower levels of existence, such as animal life or hellish realms.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ऊर्ध्वम् | ऊपर की ओर |
+| गच्छन्ति | जाते हैं |
+| सत्त्वस्थाः | सत्त्वगुण में स्थित लोग |
+| मध्ये | मध्य में (मनुष्य लोक में) |
+| तिष्ठन्ति | रहते हैं |
+| राजसाः | रजोगुणी लोग |
+| जघन्य-गुण-वृत्ति-स्थाः | निकृष्ट तमोगुण की वृत्तियों में स्थित |
+| अधः | नीचे की ओर |
+| गच्छन्ति | जाते हैं |
+| तामसाः | तामसी लोग |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ūrdhvam | upwards |
+| gacchanti | go |
+| sattvasthāḥ | those situated in the mode of goodness |
+| madhye | in the middle |
+| tiṣṭhanti | stay / remain |
+| rājasāḥ | those in the mode of passion |
+| jaghanya-guṇa-vṛtti-sthāḥ | situated in the functions of the lowest mode (ignorance) |
+| adhaḥ | downwards |
+| gacchanti | go |
+| tāmasāḥ | those in the mode of ignorance |
+

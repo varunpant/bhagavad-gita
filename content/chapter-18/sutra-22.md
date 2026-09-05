@@ -31,3 +31,55 @@ position: 645
 
 ```
 
+
+### Transliteration
+```
+yat tu kṛtsnavad ekasmin kārye saktam ahaitukam
+atattvārthavad alpaṃ ca tat tāmasam udāhṛtam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तामसी ज्ञान के लक्षणों का वर्णन कर रहे हैं। ऐसा ज्ञान अत्यंत संकुचित होता है, जहाँ मनुष्य किसी एक सीमित वस्तु या शरीर को ही सब कुछ मान बैठता है। इसमें कोई तार्किक आधार या आध्यात्मिक सत्य नहीं होता, और यह अत्यंत तुच्छ तथा अज्ञानता से भरा होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of Tamasic (dark/ignorant) knowledge. Such knowledge is extremely narrow and dogmatic, where one clings to a single, limited object or body as if it were the ultimate reality. It lacks logical reasoning, is devoid of spiritual truth, and is trivial in nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| तु | परंतु |
+| कृत्स्न-वत् | संपूर्ण के समान |
+| एकस्मिन् | एक |
+| कार्ये | कार्य में (जैसे शरीर या मूर्ति में) |
+| सक्तम् | आसक्त |
+| अहैतुकम् | बिना किसी कारण के (तर्कहीन) |
+| अतत्त्व-अर्थ-वत् | वास्तविक सत्य से रहित |
+| अल्पम् | तुच्छ (सीमित) |
+| च | और |
+| तत् | वह |
+| तामसम् | तामस |
+| उदाहृतम् | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | which |
+| tu | but |
+| kṛtsna-vat | as if it were the whole |
+| ekasmin | to one single |
+| kārye | effect (or object) |
+| saktam | attached |
+| ahaitukam | without reason |
+| atattva-artha-vat | without foundation in truth |
+| alpam | trivial (or small) |
+| ca | and |
+| tat | that |
+| tāmasam | Tamasic (in the mode of ignorance) |
+| udāhṛtam | is declared to be |
+

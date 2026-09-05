@@ -31,3 +31,55 @@ position: 135
 
 ```
 
+
+### Transliteration
+```
+evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ
+aghāyurindriyārāmo moghaṃ pārtha sa jīvati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण यज्ञ और सृष्टि के चक्र की महत्ता समझा रहे हैं। जो व्यक्ति अपने कर्तव्यों का पालन नहीं करता और केवल अपनी इंद्रियों की संतुष्टि में लगा रहता है, उसका जीवन पापमय होता है। ऐसा स्वार्थी व्यक्ति समाज या प्रकृति के प्रति अपना ऋण नहीं चुकाता, इसलिए उसका जीवन पूरी तरह से व्यर्थ है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the importance of the cosmic cycle of sacrifice and duty. A person who neglects their prescribed duties and lives only for sensory pleasures leads a sinful life. Because such a selfish individual fails to repay their debts to nature and society, their existence is considered entirely useless.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एवं | इस प्रकार |
+| प्रवर्तितं | चलाए गए |
+| चक्रं | चक्र का |
+| न | नहीं |
+| अनुवर्तयति | अनुसरण करता है |
+| इह | इस लोक में |
+| यः | जो |
+| अघायुः | पापमय जीवन वाला |
+| इन्द्रियारामः | इंद्रियों के सुखों में रमण करने वाला |
+| मोघं | व्यर्थ |
+| पार्थ | हे पार्थ |
+| सः | वह |
+| जीवति | जीता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| evam | thus |
+| pravartitam | set in motion |
+| cakram | the wheel |
+| na | not |
+| anuvartayati | follows |
+| iha | here (in this world) |
+| yaḥ | who |
+| aghāyuḥ | whose life is sinful |
+| indriyārāmaḥ | delighting in the senses |
+| mogham | in vain |
+| pārtha | O son of Pritha |
+| saḥ | he |
+| jīvati | lives |
+

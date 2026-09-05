@@ -33,3 +33,57 @@ conches.
 
 ```
 
+
+### Transliteration
+```
+tataḥ śvetairhayairyukte mahati syandane sthitau
+mādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ
+
+```
+
+### भावार्थ
+
+यह श्लोक युद्धभूमि में एक महत्वपूर्ण मोड़ को दर्शाता है जहाँ पाण्डव पक्ष कौरवों की शंखध्वनि का उत्तर देता है। श्रीकृष्ण और अर्जुन द्वारा अपने दिव्य शंखों को बजाना धर्मयुद्ध के लिए उनकी तत्परता को सिद्ध करता है। सफेद घोड़ों वाले विशाल रथ का वर्णन उनके ईश्वरीय समर्थन और निश्चित विजय का संकेत देता है।
+
+### Meaning
+
+This verse marks a turning point in the battlefield as the Pandava side responds to the Kauravas. Krishna and Arjuna blowing their divine conches signifies their readiness for the righteous war. The mention of the magnificent chariot with white horses highlights their divine backing and impending victory.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ततः | तदनन्तर |
+| श्वेतैः | सफेद |
+| हयैः | घोड़ों से |
+| युक्ते | जुते हुए |
+| महति | विशाल |
+| स्यन्दने | रथ पर |
+| स्थितौ | बैठे हुए |
+| माधवः | माधव (श्रीकृष्ण) |
+| पाण्डवः | पाण्डव (अर्जुन) |
+| च | और |
+| एव | निश्चय ही |
+| दिव्यौ | दिव्य |
+| शङ्खौ | शंखों को |
+| प्रदध्मतुः | बजाया |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tataḥ | then |
+| śvetaiḥ | with white |
+| hayaiḥ | horses |
+| yukte | yoked |
+| mahati | magnificent |
+| syandane | in the chariot |
+| sthitau | seated |
+| mādhavaḥ | Krishna |
+| pāṇḍavaḥ | Arjuna |
+| ca | and |
+| eva | certainly |
+| divyau | divine |
+| śaṅkhau | conches |
+| pradadhmatuḥ | blew |
+

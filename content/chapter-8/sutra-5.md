@@ -31,3 +31,61 @@ position: 315
 
 ```
 
+
+### Transliteration
+```
+antakāle ca mām eva smaran muktvā kalevaram
+yaḥ prayāti sa madbhāvaṃ yāti nāsty atra saṃśayaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण मृत्यु के समय की मानसिक स्थिति के महत्व को स्पष्ट करते हैं। वे कहते हैं कि जीवन के अंतिम क्षण में मनुष्य जिस भाव या स्वरूप का स्मरण करता है, वह उसी को प्राप्त होता है। यदि कोई निरंतर अभ्यास द्वारा अंतकाल में केवल ईश्वर का स्मरण करता है, तो वह निश्चित रूप से परमधाम को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the critical importance of one's state of mind at the moment of death. He explains that whatever a person thinks of at the last moment determines their next destination. One who leaves the body while remembering Him alone is guaranteed to attain His divine nature, without any doubt.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अन्तकाले | अंतकाल में (मृत्यु के समय) |
+| च | और |
+| माम् | मुझको |
+| एव | ही |
+| स्मरन् | स्मरण करते हुए |
+| मुक्त्वा | त्यागकर |
+| कलेवरम् | शरीर को |
+| यः | जो |
+| प्रयाति | जाता है (प्रयाण करता है) |
+| सः | वह |
+| मद्भावम् | मेरे भाव को (मेरे स्वरूप को) |
+| याति | प्राप्त होता है |
+| न | नहीं |
+| अस्ति | है |
+| अत्र | यहाँ (इस विषय में) |
+| संशयः | संदेह |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| antakāle | at the time of death |
+| ca | and |
+| mām | Me |
+| eva | alone |
+| smaran | remembering |
+| muktvā | leaving |
+| kalevaram | the body |
+| yaḥ | who |
+| prayāti | goes forth |
+| saḥ | he |
+| madbhāvam | My nature |
+| yāti | attains |
+| na | not |
+| asti | there is |
+| atra | here (in this matter) |
+| saṃśayaḥ | doubt |
+

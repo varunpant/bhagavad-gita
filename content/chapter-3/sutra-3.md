@@ -31,3 +31,58 @@ position: 122
 
 ```
 
+
+### Transliteration
+```
+śrī bhagavānuvāca
+loke'smindvividhā niṣṭhā purā proktā mayānagha
+jñānayogena sāṃkhyānāṃ karmayogena yoginām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन के इस भ्रम को दूर करते हैं कि ज्ञान और कर्म में से कौन श्रेष्ठ है। वे बताते हैं कि सृष्टि के आरंभ से ही उन्होंने आत्म-साक्षात्कार के दो मार्ग निर्धारित किए हैं। चिंतनशील प्रवृत्ति वालों के लिए ज्ञानयोग और सक्रिय कर्तव्य पालन करने वालों के लिए कर्मयोग का विधान है। अंततः दोनों ही मार्ग एक ही लक्ष्य की ओर ले जाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna clarifies Arjuna's confusion about whether knowledge or action is superior. He explains that since the beginning of creation, He has established two paths for spiritual realization. The path of knowledge (Jnana Yoga) is for those inclined toward contemplation, while the path of action (Karma Yoga) is for those inclined toward active duty. Both paths ultimately lead to the same goal of self-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| लोके | लोक में |
+| अस्मिन् | इस |
+| द्विविधा | दो प्रकार की |
+| निष्ठा | निष्ठा (मार्ग) |
+| पुरा | प्राचीन काल में |
+| प्रोक्ता | कही गई है |
+| मया | मेरे द्वारा |
+| अनघ | हे निष्पाप |
+| ज्ञानयोगेन | ज्ञानयोग से |
+| सांख्यानाम् | सांख्यवादियों के लिए |
+| कर्मयोगेन | कर्मयोग से |
+| योगिनाम् | योगियों के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī bhagavān | the Supreme Lord |
+| uvāca | said |
+| loke | in the world |
+| asmin | in this |
+| dvividhā | twofold |
+| niṣṭhā | path of devotion |
+| purā | in the past |
+| proktā | was declared |
+| mayā | by Me |
+| anagha | O sinless one |
+| jñānayogena | by the path of knowledge |
+| sāṃkhyānām | for the contemplative ones |
+| karmayogena | by the path of action |
+| yoginām | for the yogis |
+

@@ -32,3 +32,61 @@ all over; I am unable even to stand and my mind is reeling, as it were.
 
 ```
 
+
+### Transliteration
+```
+gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate
+na ca śaknomyavasthātuṃ bhramatīva ca me manaḥ
+
+```
+
+### भावार्थ
+
+अर्जुन युद्ध के मैदान में अपने स्वजनों को देखकर अपनी गंभीर शारीरिक और मानसिक पीड़ा का वर्णन कर रहे हैं। उनके हाथ से दिव्य धनुष गाण्डीव का गिरना उनकी इच्छाशक्ति और युद्ध के संकल्प के पूरी तरह से नष्ट होने का प्रतीक है। यह श्लोक दर्शाता है कि अत्यधिक शोक और मोह बड़े-बड़े योद्धाओं को भी कैसे पंगु बना सकता है।
+
+### Meaning
+
+Arjuna continues to describe his severe physical and mental distress upon seeing his relatives arrayed for battle. The slipping of his divine bow, Gandiva, symbolizes his complete loss of willpower and martial resolve. This verse highlights the paralyzing effect of overwhelming grief and attachment on even the greatest of warriors.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| गाण्डीवम् | गाण्डीव धनुष |
+| स्रंसते | गिर रहा है |
+| हस्तात् | हाथ से |
+| त्वक् | त्वचा |
+| च | और |
+| एव | निश्चय ही |
+| परिदह्यते | जल रही है |
+| न | नहीं |
+| च | और |
+| शक्नोमि | समर्थ हूँ |
+| अवस्थातुम् | खड़ा रहने में |
+| भ्रमति | भ्रमित हो रहा है |
+| इव | मानो |
+| च | और |
+| मे | मेरा |
+| मनः | मन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| gāṇḍīvam | the Gandiva bow |
+| sraṃsate | is slipping |
+| hastāt | from the hand |
+| tvak | skin |
+| ca | and |
+| eva | certainly |
+| paridahyate | is burning |
+| na | not |
+| ca | and |
+| śaknomi | am I able |
+| avasthātum | to stand |
+| bhramati | is whirling |
+| iva | as if |
+| ca | and |
+| me | my |
+| manaḥ | mind |
+

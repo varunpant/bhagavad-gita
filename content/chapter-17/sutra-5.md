@@ -31,3 +31,45 @@ position: 600
 
 ```
 
+
+### Transliteration
+```
+aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ
+dambhāhaṅkārasaṃyuktāḥ kāmarāgabalānvitāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आसुरी स्वभाव वाले मनुष्यों के तप का वर्णन कर रहे हैं। वे लोग जो शास्त्रों के नियमों की उपेक्षा करके केवल दिखावे और अहंकार के लिए घोर तपस्या करते हैं, वे वास्तव में तामसी और आसुरी प्रवृत्ति के होते हैं। उनका तप दूसरों को कष्ट देने वाला और स्वयं के शरीर को सुखाने वाला होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the austerities performed by those of demonic nature. People who perform severe penances not authorized by the scriptures, driven by vanity, ego, lust, and attachment, do so for self-glorification. Such misguided austerities do not lead to spiritual progress but rather cause harm.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अशास्त्रविहितम् | शास्त्र की विधि से रहित |
+| घोरम् | भयानक / घोर |
+| तप्यन्ते | तपते हैं / करते हैं |
+| ये | जो |
+| तपः | तप को |
+| जनाः | मनुष्य |
+| दम्भ-अहङ्कार-संयुक्ताः | दम्भ और अहंकार से युक्त |
+| काम-राग-बल-अन्विताः | कामना, आसक्ति और बल के अभिमान से युक्त |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aśāstra-vihitam | not enjoined by the scriptures |
+| ghoram | severe / terrible |
+| tapyante | perform / undergo |
+| ye | who |
+| tapaḥ | austerity |
+| janāḥ | people |
+| dambha-ahaṅkāra-saṃyuktāḥ | endowed with hypocrisy and egotism |
+| kāma-rāga-bala-anvitāḥ | impelled by the force of desire and attachment |
+

@@ -31,3 +31,55 @@ position: 280
 
 ```
 
+
+### Transliteration
+```
+yoginām api sarveṣāṃ mad-gatenāntar-ātmanā
+śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण छठे अध्याय का उपसंहार करते हुए भक्तिमार्ग की श्रेष्ठता स्थापित करते हैं। वे स्पष्ट करते हैं कि अष्टांग योग आदि का अभ्यास करने वाले सभी योगियों में वह योगी सर्वश्रेष्ठ है जो अनन्य श्रद्धा के साथ अपने मन और बुद्धि को भगवान में विलीन कर देता है। यह भक्ति योग की पराकाष्ठा को दर्शाता है।
+
+### Meaning
+
+In this concluding verse of the sixth chapter, Lord Krishna establishes the supremacy of Bhakti Yoga. He declares that among all types of yogis, the one who worships Him with absolute faith and whose mind is completely absorbed in Him is the most intimately united with Him. This highlights devotion as the highest path of yoga.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| योगिनाम् | योगियों में |
+| अपि | भी |
+| सर्वेषाम् | सब |
+| मद्-गतेन | मुझमें लीन हुए |
+| अन्तः-आत्मना | अन्तःकरण से |
+| श्रद्धावान् | श्रद्धावान् पुरुष |
+| भजते | भजता है |
+| यः | जो |
+| माम् | मुझको |
+| सः | वह |
+| मे | मेरे द्वारा |
+| युक्ततमः | परम श्रेष्ठ योगी |
+| मतः | माना गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yoginām | of yogis |
+| api | even |
+| sarveṣām | of all |
+| mad-gatena | merged in Me |
+| antaḥ-ātmanā | with the inner self |
+| śraddhāvān | endowed with faith |
+| bhajate | worships |
+| yaḥ | who |
+| mām | Me |
+| saḥ | he |
+| me | by Me |
+| yuktatamaḥ | the most united / greatest yogi |
+| mataḥ | is considered |
+

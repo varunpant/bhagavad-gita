@@ -32,3 +32,51 @@ wishing to please in battle the evil-minded Duryodhana (the son of Dhritarashtra
 
 ```
 
+
+### Transliteration
+```
+yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ
+dhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ
+
+```
+
+### भावार्थ
+
+अर्जुन श्रीकृष्ण से रथ को दोनों सेनाओं के बीच खड़ा करने के लिए कहते हैं ताकि वे शत्रु पक्ष के योद्धाओं को देख सकें। वे यह देखना चाहते हैं कि कौन-कौन से राजा दुर्बुद्धि दुर्योधन को प्रसन्न करने के लिए इस युद्ध में उसका साथ देने आए हैं। इससे युद्ध से ठीक पहले अर्जुन की स्थिति का आकलन करने की इच्छा प्रकट होती है।
+
+### Meaning
+
+Arjuna asks Krishna to position the chariot so he can observe the enemy commanders and warriors. He wants to see those who have chosen to side with the evil-minded Duryodhana. This shows Arjuna's initial confidence and desire to assess the opposition before the battle begins.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| योत्स्यमानान् | युद्ध करने की इच्छा वालों को |
+| अवेक्षे | देखूँ |
+| अहम् | मैं |
+| ये | जो |
+| एते | ये |
+| अत्र | यहाँ |
+| समागताः | इकट्ठे हुए हैं |
+| धार्तराष्ट्रस्य | धृतराष्ट्र के पुत्र के |
+| दुर्बुद्धेः | दुर्बुद्धि के |
+| युद्धे | युद्ध में |
+| प्रियचिकीर्षवः | भला चाहने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yotsyamānān | those wishing to fight |
+| avekṣe | let me see |
+| aham | I |
+| ye | who |
+| ete | these |
+| atra | here |
+| samāgatāḥ | assembled |
+| dhārtarāṣṭrasya | of the son of Dhritarashtra |
+| durbuddheḥ | of the evil-minded |
+| yuddhe | in the battle |
+| priyacikīrṣavaḥ | wishing to please |
+

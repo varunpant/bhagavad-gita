@@ -31,3 +31,59 @@ position: 509
 
 ```
 
+
+### Transliteration
+```
+prakṛtiṃ puruṣaṃ caiva viddhyanādī ubhāvapi
+vikārāṃśca guṇāṃścaiva viddhi prakṛtisambhavān
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रकृति (भौतिक जगत) और पुरुष (चेतन आत्मा) दोनों ही अनादि हैं, अर्थात् इनका कोई आदि नहीं है। शरीर और इन्द्रियों के विकार (जैसे सुख, दुःख, राग, द्वेष) तथा त्रिगुण (सत्त्व, रज, तम) सभी प्रकृति से ही उत्पन्न होते हैं। आत्मा इन विकारों से परे है, परन्तु प्रकृति के साथ तादात्म्य के कारण वह इनका अनुभव करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that both Prakriti (material nature) and Purusha (the conscious soul) are beginningless. All physical modifications, emotions, and the three gunas (modes of nature) arise from Prakriti alone. The soul itself is changeless, but experiences these modifications due to its association with material nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रकृतिम् | प्रकृति को |
+| पुरुषम् | पुरुष (जीवात्मा) को |
+| च | और |
+| एव | ही |
+| विद्धि | जानो |
+| अनादी | अनादि (शुरुआत रहित) |
+| उभौ | दोनों को |
+| अपि | भी |
+| विकारान् | विकारों (परिवर्तनों) को |
+| च | और |
+| गुणाम् | गुणों (सत्त्व, रज, तम) को |
+| च | और |
+| एव | ही |
+| विद्धि | जानो |
+| प्रकृति-संभवान् | प्रकृति से उत्पन्न |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prakṛtim | material nature |
+| puruṣam | the individual soul |
+| ca | and |
+| eva | certainly |
+| viddhi | know |
+| anādī | without beginning |
+| ubhau | both |
+| api | also |
+| vikārān | modifications |
+| ca | and |
+| guṇān | qualities (modes of nature) |
+| ca | and |
+| eva | indeed |
+| viddhi | know |
+| prakṛti-sambhavān | produced by material nature |
+

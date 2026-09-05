@@ -31,3 +31,47 @@ position: 170
 
 ```
 
+
+### Transliteration
+```
+paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām
+dharmasaṃsthāpanārthāya saṃbhavāmi yuge yuge
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपने अवतार का मुख्य उद्देश्य स्पष्ट करते हैं। वे बताते हैं कि जब भी संसार में सज्जनों पर संकट आता है और दुष्टों का अत्याचार बढ़ता है, तब वे स्वयं आते हैं। धर्म की पुनर्स्थापना और समाज में संतुलन बनाए रखने के लिए वे हर युग में अवतार लेते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna reveals the primary purpose of His divine incarnations. He explains that He descends to protect the virtuous and annihilate the evil-doers. To firmly re-establish the principles of dharma and restore cosmic balance, He manifests Himself in every age.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| परित्राणाय | रक्षा के लिए |
+| साधूनाम् | सज्जनों की |
+| विनाशाय | विनाश के लिए |
+| च | और |
+| दुष्कृताम् | दुष्टों के |
+| धर्मसंस्थापनार्थाय | धर्म की स्थापना करने के लिए |
+| संभवामि | मैं प्रकट होता हूँ |
+| युगे | युग |
+| युगे | युग में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| paritrāṇāya | for the protection |
+| sādhūnām | of the righteous |
+| vināśāya | for the destruction |
+| ca | and |
+| duṣkṛtām | of the wicked |
+| dharmasaṃsthāpanārthāya | for the establishment of righteousness |
+| saṃbhavāmi | I manifest |
+| yuge | age |
+| yuge | after age |
+

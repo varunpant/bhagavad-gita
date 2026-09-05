@@ -31,3 +31,57 @@ position: 506
 
 ```
 
+
+### Transliteration
+```
+avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitam
+bhūtabhartṛ ca tajjñeyaṃ grasiṣṇu prabhaviṣṇu ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में ज्ञेय ब्रह्म (परमात्मा) के सर्वव्यापी और सर्वशक्तिमान स्वरूप का वर्णन किया गया है। यद्यपि परमात्मा एक और अखंड है, फिर भी वह प्रत्येक जीव में अलग-अलग आत्मा के रूप में विभाजित प्रतीत होता है। वही सृष्टि का कर्ता, भर्ता (पालक) और हर्ता (संहारक) है।
+
+### Meaning
+
+This verse describes the all-pervading and omnipotent nature of the Supreme Subject (Brahman). Although the Supreme Truth is one and indivisible, It appears divided as individual souls in different living entities. It is the ultimate source of creation, sustenance, and dissolution of the entire universe.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अविभक्तम् | अविभाजित (अखंड) |
+| च | और |
+| भूतेषु | समस्त प्राणियों में |
+| विभक्तम् | विभाजित (पृथक) |
+| इव | की भाँति |
+| च | भी |
+| स्थितम् | स्थित |
+| भूतभर्तृ | प्राणियों का पालन करने वाला |
+| च | और |
+| तत् | वह |
+| ज्ञेयम् | जानने योग्य है |
+| ग्रसिष्णु | ग्रास करने वाला (संहारकर्ता) |
+| प्रभविष्णु | उत्पन्न करने वाला (सृष्टिकर्ता) |
+| च | तथा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| avibhaktam | undivided |
+| ca | and |
+| bhūteṣu | among living beings |
+| vibhaktam | divided |
+| iva | as if |
+| ca | also |
+| sthitam | situated |
+| bhūtabhartṛ | the sustainer of beings |
+| ca | and |
+| tat | that |
+| jñeyam | to be known |
+| grasiṣṇu | devouring (annihilating) |
+| prabhaviṣṇu | generating (creating) |
+| ca | and |
+

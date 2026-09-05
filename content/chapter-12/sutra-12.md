@@ -31,3 +31,53 @@ position: 481
 
 ```
 
+
+### Transliteration
+```
+śreyo hi jñānam abhyāsāj jñānād dhyānaṃ viśiṣyate
+dhyānāt karma-phala-tyāgas tyāgāc chāntir anantaram
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण साधना के विभिन्न स्तरों की तुलना कर रहे हैं। वे बताते हैं कि केवल यांत्रिक अभ्यास की तुलना में ज्ञान श्रेष्ठ है, और कोरे ज्ञान से ध्यान श्रेष्ठ है। अंततः, कर्मों के फलों का त्याग (निष्काम कर्म) सबसे श्रेष्ठ है क्योंकि यह साधक को तुरंत मानसिक शांति और आसक्ति से मुक्ति प्रदान करता है।
+
+### Meaning
+
+In this verse, Lord Krishna compares different stages of spiritual practice. He explains that knowledge with understanding is better than mere mechanical practice, and meditation is superior to theoretical knowledge. Ultimately, the renunciation of the fruits of action (karma-phala-tyaga) is praised as the highest because it immediately leads to inner peace by destroying anxiety and attachment.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रेयः | श्रेष्ठ |
+| हि | निश्चय ही |
+| ज्ञानम् | ज्ञान |
+| अभ्यासात् | अभ्यास की अपेक्षा |
+| ज्ञानात | ज्ञान की अपेक्षा |
+| ध्यानम् | ध्यान |
+| विशिष्यते | उत्कृष्ट माना जाता है |
+| ध्यानात् | ध्यान की अपेक्षा |
+| कर्म-फल-त्यागः | कर्मों के फल का त्याग |
+| त्यागात् | त्याग से |
+| शान्तिः | शान्ति |
+| अनन्तरम् | तत्काल ही (प्राप्त होती है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śreyaḥ | better |
+| hi | indeed |
+| jñānam | knowledge |
+| abhyāsāt | than practice |
+| jñānāt | than knowledge |
+| dhyānam | meditation |
+| viśiṣyate | is considered better |
+| dhyānāt | than meditation |
+| karma-phala-tyāgaḥ | renunciation of the fruits of action |
+| tyāgāt | from renunciation |
+| śāntiḥ | peace |
+| anantaram | immediately follows |
+

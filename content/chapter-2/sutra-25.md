@@ -31,3 +31,57 @@ position: 72
 
 ```
 
+
+### Transliteration
+```
+avyakto'yamacintyo'yamavikāryo'yamucyate
+tasmādevaṃ viditvainaṃ nānuśocitumarhasi
+
+```
+
+### भावार्थ
+
+श्री कृष्ण अर्जुन को आत्मा के स्वरूप के बारे में समझाते हुए कहते हैं कि आत्मा को भौतिक इंद्रियों से नहीं देखा जा सकता, इसलिए यह अव्यक्त है। यह मन की कल्पना से परे है, इसलिए अचिन्त्य है, और इसमें कोई विकार या परिवर्तन नहीं होता, इसलिए यह अविकारी है। आत्मा की इस अमर और अपरिवर्तनीय प्रकृति को समझकर, अर्जुन को किसी की मृत्यु पर शोक नहीं करना चाहिए।
+
+### Meaning
+
+Lord Krishna explains the nature of the soul to Arjuna, stating that it cannot be perceived by the physical senses, making it unmanifest. It is beyond the comprehension of the mind, thus inconceivable, and it never undergoes any physical changes, making it immutable. By understanding this eternal and unchangeable nature of the soul, Arjuna should not grieve for the physical death of anyone.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अव्यक्तः | अव्यक्त (अप्रकट) |
+| अयम् | यह (आत्मा) |
+| अचिन्त्यः | अचिन्त्य (कल्पना से परे) |
+| अयम् | यह |
+| अविकार्यः | अविकारी (परिवर्तन रहित) |
+| अयम् | यह |
+| उच्यते | कहा जाता है |
+| तस्मात् | इसलिए |
+| एवम् | इस प्रकार |
+| विदित्वा | जानकर |
+| एनम् | इसको |
+| न | नहीं |
+| अनुशोचितुम् | शोक करने |
+| अर्हसि | योग्य हो (तुम्हें चाहिए) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| avyaktaḥ | unmanifested |
+| ayam | this (soul) |
+| acintyaḥ | inconceivable |
+| ayam | this |
+| avikāryaḥ | unchangeable |
+| ayam | this |
+| ucyate | is said |
+| tasmāt | therefore |
+| evam | thus |
+| viditvā | knowing |
+| enam | this |
+| na | not |
+| anuśocitum | to grieve |
+| arhasi | you ought |
+

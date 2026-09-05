@@ -31,3 +31,58 @@ position: 339
 
 ```
 
+
+### Transliteration
+```
+śrībhagavānuvāca
+idaṃ tu te guhyatamaṃ pravakṣyāmyanasūyave
+jñānaṃ vijñānasahitaṃ yajjñātvā mokṣyase'śubhāt
+
+```
+
+### भावार्थ
+
+इस अध्याय के आरम्भ में भगवान कृष्ण अर्जुन को सबसे गोपनीय ज्ञान प्रदान करने की प्रतिज्ञा करते हैं। वे अर्जुन को 'अनसूयु' अर्थात् ईर्ष्या-रहित कहकर संबोधित करते हैं, क्योंकि केवल श्रद्धावान और द्वेष-रहित साधक ही इस परम सत्य को ग्रहण कर सकता है। यह ज्ञान केवल सैद्धांतिक नहीं है, बल्कि अनुभवजन्य विज्ञान से युक्त है, जो साधक को संसार के सभी दुखों और बंधनों से मुक्त कर देता है।
+
+### Meaning
+
+At the beginning of the ninth chapter, Lord Krishna promises to impart the most confidential knowledge to Arjuna. He addresses Arjuna as 'anasūyu' (one who is non-envious), indicating that only a seeker free from malice and full of faith is qualified to receive this supreme truth. This knowledge is not merely theoretical but is combined with direct realization (vijñāna), which ultimately liberates the soul from the miseries of material existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रीभगवान् | श्री भगवान् |
+| उवाच | बोले |
+| इदम् | इस |
+| तु | तो |
+| ते | तुम्हारे लिए |
+| गुह्यतमम् | अत्यंत गोपनीय |
+| प्रवक्ष्यामि | मैं कहूँगा |
+| अनसूयवे | ईर्ष्या-रहित के लिए |
+| ज्ञानम् | ज्ञान को |
+| विज्ञान-सहितम् | अनुभवजन्य ज्ञान (विज्ञान) सहित |
+| यत् | जिसे |
+| ज्ञात्वा | जानकर |
+| मोक्ष्यसे | तुम मुक्त हो जाओगे |
+| अशुभात् | अमंगल (संसार-बंधन) से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| idam | this |
+| tu | indeed |
+| te | unto you |
+| guhyatamam | most confidential |
+| pravakṣyāmi | I shall declare |
+| anasūyave | to one who is non-envious |
+| jñānam | knowledge |
+| vijñāna-sahitam | combined with realized knowledge |
+| yat | which |
+| jñātvā | knowing |
+| mokṣyase | you will be released |
+| aśubhāt | from the inauspicious (material existence) |
+

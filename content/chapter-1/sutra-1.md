@@ -37,3 +37,56 @@ together eager for battle on the holy plain of Kurukshetra, O Sanjaya.
 
 ```
 
+
+### Transliteration
+```
+dhṛtarāṣṭra uvāca
+dharmakṣetre kurukṣetre samavetā yuyutsavaḥ
+māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya
+
+```
+
+### भावार्थ
+
+यह भगवद्गीता का पहला श्लोक है जहाँ अंधे राजा धृतराष्ट्र अपने मंत्री संजय से कुरुक्षेत्र के युद्ध के बारे में पूछते हैं। वे कुरुक्षेत्र को 'धर्मक्षेत्र' कहते हैं, जो यह दर्शाता है कि इस युद्ध में धर्म और अधर्म के बीच निर्णय होना है। धृतराष्ट्र का अपने पुत्रों ('मामकाः') और पाण्डु के पुत्रों के बीच का भेद उनके मोह और पक्षपात को उजागर करता है।
+
+### Meaning
+
+This is the opening verse of the Bhagavad Gita, where the blind King Dhritarashtra asks his minister Sanjaya about the events on the battlefield. He refers to Kurukshetra as 'Dharmakshetra' (the field of righteousness), indicating that this war will decide the fate of dharma. Dhritarashtra's distinction between his own sons and the sons of Pandu reveals his deep attachment and partisan mindset.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| धृतराष्ट्रः | धृतराष्ट्र ने |
+| उवाच | कहा |
+| धर्मक्षेत्रे | धर्मभूमि में |
+| कुरुक्षेत्रे | कुरुक्षेत्र में |
+| समवेताः | एकत्रित हुए |
+| युयुत्सवः | युद्ध की इच्छा वाले |
+| मामकाः | मेरे पुत्रों ने |
+| पाण्डवाः | पाण्डु के पुत्रों ने |
+| च | और |
+| एव | ही |
+| किम् | क्या |
+| अकुर्वत | किया |
+| सञ्जय | हे संजय |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dhṛtarāṣṭraḥ | Dhritarashtra |
+| uvāca | said |
+| dharmakṣetre | in the place of pilgrimage |
+| kurukṣetre | in the place named Kurukshetra |
+| samavetāḥ | assembled |
+| yuyutsavaḥ | desiring to fight |
+| māmakāḥ | my party (sons) |
+| pāṇḍavāḥ | the sons of Pandu |
+| ca | and |
+| eva | certainly |
+| kim | what |
+| akurvata | did they do |
+| sañjaya | O Sanjaya |
+

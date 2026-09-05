@@ -31,3 +31,71 @@ position: 430
 
 ```
 
+
+### Transliteration
+```
+anekabāhūdaravaktranetraṃ
+paśyāmi tvāṃ sarvato'nantarūpam
+nāntaṃ na madhyaṃ na punastavādiṃ
+paśyāmi viśveśvara viśvarūpa
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण के विराट रूप का दर्शन करते हुए विस्मय और भय से भर गए हैं। वे देखते हैं कि भगवान का यह रूप असीम है, जिसकी कोई सीमा नहीं है। इस विराट स्वरूप में न तो कोई शुरुआत दिखाई देती है, न मध्य और न ही कोई अंत, क्योंकि वे स्वयं ही संपूर्ण ब्रह्मांड हैं।
+
+### Meaning
+
+Arjuna is filled with awe and wonder upon beholding the cosmic form of Lord Krishna. He observes that this divine manifestation is boundless, stretching infinitely in all directions without a discernible beginning, middle, or end. Krishna is addressed here as the Lord of the universe, embodying the entire creation within Himself.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनेक | अनेक |
+| बाहु | भुजाओं |
+| उदर | पेटों |
+| वक्त्र | मुखों |
+| नेत्रम् | और नेत्रों से युक्त |
+| पश्यामि | मैं देखता हूँ |
+| त्वाम् | आपको |
+| सर्वतः | सब ओर से |
+| अनन्त-रूपम् | अनन्त रूपों वाले |
+| न | न तो |
+| अन्तम् | अन्त को |
+| न | न |
+| मध्यम् | मध्य को |
+| न | न ही |
+| पुनः | फिर |
+| तव | आपकी |
+| आदिम् | शुरुआत (आदि) को |
+| पश्यामि | मैं देखता हूँ |
+| विश्व-ईश्वर | हे ब्रह्मांड के स्वामी |
+| विश्व-रूप | हे विश्वरूप |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aneka | many |
+| bāhu | arms |
+| udara | bellies |
+| vaktra | mouths |
+| netram | and eyes |
+| paśyāmi | I see |
+| tvām | You |
+| sarvataḥ | on all sides |
+| ananta-rūpam | of infinite form |
+| na | not |
+| antam | the end |
+| na | not |
+| madhyam | the middle |
+| na | not |
+| punaḥ | again |
+| tava | Your |
+| ādim | beginning |
+| paśyāmi | I see |
+| viśva-īśvara | O Lord of the universe |
+| viśva-rūpa | O cosmic form |
+

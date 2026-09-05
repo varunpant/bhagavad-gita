@@ -31,3 +31,56 @@ position: 423
 
 ```
 
+
+### Transliteration
+```
+sañjaya uvāca
+evam uktvā tato rājan mahā-yogeśvaro hariḥ
+darśayāmāsa pārthāya paramaṃ rūpam aiśvaram
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र को युद्धभूमि का वृत्तांत सुनाते हुए कहते हैं कि भगवान कृष्ण ने अर्जुन को अपना विराट रूप दिखाने से पूर्व यह वचन कहे। इसके पश्चात, योग के परम स्वामी श्रीहरि ने अर्जुन के समक्ष अपने अत्यंत दिव्य और ऐश्वर्यशाली विश्वरूप को प्रकट किया। यह रूप सामान्य चर्मचक्षुओं से परे और केवल दिव्य दृष्टि द्वारा ही देखा जा सकता था।
+
+### Meaning
+
+Sanjaya narrates the events of the battlefield to Dhritarashtra, explaining that after speaking those words, Krishna revealed His cosmic form. As the supreme Lord of all mystic power, Hari manifested His divine, majestic, and limitless form to Arjuna. This supreme form represents the totality of the universe, which Arjuna was now empowered to see with his newly granted divine vision.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सञ्जयः | संजय ने |
+| उवाच | कहा |
+| एवम् | इस प्रकार |
+| उक्त्वा | कहकर |
+| ततः | उसके बाद |
+| राजन् | हे राजा (धृतराष्ट्र) |
+| महा-योग-ईश्वरः | योग के महान ईश्वर |
+| हरिः | श्रीहरि (कृष्ण) ने |
+| दर्शयामास | दिखाया |
+| पार्थाय | पृथापुत्र अर्जुन को |
+| परमम् | परम / दिव्य |
+| रूपम् | रूप |
+| ऐश्वरम् | ऐश्वर्ययुक्त / ईश्वर का |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sañjayaḥ | Sanjaya |
+| uvāca | said |
+| evam | thus |
+| uktvā | having spoken |
+| tataḥ | then |
+| rājan | O King |
+| mahā-yoga-īśvaraḥ | the great Lord of Yoga |
+| hariḥ | Hari (Krishna) |
+| darśayāmāsa | revealed |
+| pārthāya | unto the son of Pṛthā (Arjuna) |
+| paramam | supreme |
+| rūpam | form |
+| aiśvaram | divine / sovereign |
+

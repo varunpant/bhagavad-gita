@@ -31,3 +31,51 @@ position: 213
 
 ```
 
+
+### Transliteration
+```
+pralapan visṛjan gṛhṇann unmiṣan nimiṣann api
+indriyāṇīndriyārtheṣu vartanta iti dhārayan
+
+```
+
+### भावार्थ
+
+यह श्लोक पिछले श्लोक से तत्त्वज्ञानी (कर्मयोगी) के वर्णन को आगे बढ़ाता है। बोलते, मल-मूत्र त्यागते, वस्तुओं को ग्रहण करते और पलकें झपकाते जैसी स्वाभाविक क्रियाएँ करते हुए भी ज्ञानी पुरुष अनासक्त रहता है। वह यह दृढ़ विश्वास रखता है कि केवल इन्द्रियाँ ही अपने विषयों में कार्य कर रही हैं, और उसका वास्तविक स्वरूप (आत्मा) अकर्ता है।
+
+### Meaning
+
+This verse continues the description of a spiritually realized person from the previous verse. Even while performing involuntary or routine actions like speaking, grasping, or blinking, the knower of truth remains completely detached. They hold the firm conviction that only the senses are interacting with their respective objects, while the true self (the soul) remains an inactive observer.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रलपन् | बोलते हुए |
+| विसृजन् | त्यागते हुए |
+| गृह्णन् | ग्रहण करते हुए |
+| उन्मिषन् | आँखें खोलते हुए |
+| निमिषन् | आँखें बंद करते हुए |
+| अपि | भी |
+| इन्द्रियाणि | इन्द्रियाँ |
+| इन्द्रियार्थेषु | इन्द्रियों के विषयों में |
+| वर्तन्ते | बरत रही हैं (कार्यरत हैं) |
+| इति | ऐसा |
+| धारयन् | धारण करते हुए (मानते हुए) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pralapan | speaking |
+| visṛjan | letting go |
+| gṛhṇan | grasping |
+| unmiṣan | opening the eyes |
+| nimiṣan | closing the eyes |
+| api | also |
+| indriyāṇi | the senses |
+| indriyārtheṣu | in the sense objects |
+| vartante | are engaged |
+| iti | thus |
+| dhārayan | holding the conviction |
+

@@ -32,3 +32,53 @@ as walking, etc.), who is moderate in exertion in actions, who is moderate in sl
 
 ```
 
+
+### Transliteration
+```
+yuktāhāravihārasya yuktaceṣṭasya karmasu
+yuktasvapnāvabodhasya yogo bhavati duḥkhahā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण साधना के मार्ग में संतुलन और संयम के महत्व को स्पष्ट करते हैं। वे बताते हैं कि अतिशयता (चाहे वह भोजन, मनोरंजन, कर्म या निद्रा में हो) योग की सिद्धि में बाधक है। केवल वही व्यक्ति योग के माध्यम से दुखों से मुक्ति पा सकता है जो अपने दैनिक जीवन की सभी गतिविधियों में एक स्वस्थ संतुलन बनाए रखता है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the importance of moderation and balance in the path of spiritual practice. He explains that extremes—whether in eating, recreation, work, or sleep—hinder progress in yoga. Only a person who maintains a healthy equilibrium in all daily activities can successfully attain yoga, which destroys all material miseries.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| युक्त | उपयुक्त (संतुलित) |
+| आहार | भोजन |
+| विहारस्य | और विहार (मनोरंजन) करने वाले का |
+| युक्त | उपयुक्त |
+| चेष्टस्य | चेष्टा (प्रयास) करने वाले का |
+| कर्मसु | कर्मों में |
+| युक्त | उपयुक्त |
+| स्वप्न | सोने |
+| अवबोधस्य | और जागने वाले का |
+| योगः | योग |
+| भवति | होता है |
+| दुःख-हा | दुखों का नाश करने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yukta | moderate (regulated) |
+| āhāra | eating |
+| vihārasya | and of recreation |
+| yukta | moderate |
+| ceṣṭasya | of one who makes effort |
+| karmasu | in actions |
+| yukta | moderate |
+| svapna | sleep |
+| avabodhasya | and of wakefulness |
+| yogaḥ | yoga |
+| bhavati | becomes |
+| duḥkha-hā | the destroyer of sorrow |
+

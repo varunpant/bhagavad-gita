@@ -31,3 +31,53 @@ position: 251
 
 ```
 
+
+### Transliteration
+```
+yadā viniyataṃ cittam ātmany evāvatiṣṭhate
+niḥspṛhaḥ sarvakāmebhyo yukta ity ucyate tadā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण योग की सिद्धावस्था का लक्षण बताते हैं। जब साधक का मन पूरी तरह से वश में होकर केवल परमात्मा में लीन हो जाता है और संसार के सभी भोगों की इच्छा समाप्त हो जाती है, तब उसे वास्तव में 'युक्त' या योगी कहा जाता है। यह मानसिक स्थिरता और वैराग्य की पराकाष्ठा है।
+
+### Meaning
+
+In this verse, Lord Krishna defines the state of perfect yoga. When a practitioner's mind is completely disciplined and rests steadily in the Self alone, free from all worldly cravings, that person is considered to have attained union (yoga). This represents the pinnacle of mental stability and detachment.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यदा | जब |
+| विनियतम् | विशेष रूप से वश में किया हुआ |
+| चित्तम् | चित्त (मन) |
+| आत्मनि | परमात्मा में |
+| एव | ही |
+| अवतिष्ठते | भलीभांति स्थित हो जाता है |
+| निःस्पृहः | इच्छा रहित (स्पृहारहित) |
+| सर्व-कामेभ्यः | सभी कामनाओं से |
+| युक्तः | योगयुक्त (योगी) |
+| इति | ऐसा |
+| उच्यते | कहा जाता है |
+| तदा | तब |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yadā | when |
+| viniyatam | perfectly controlled |
+| cittam | the mind |
+| ātmani | in the Self |
+| eva | only |
+| avatiṣṭhate | becomes established |
+| niḥspṛhaḥ | free from longing |
+| sarva-kāmebhyaḥ | from all desires |
+| yuktaḥ | united in Yoga |
+| iti | thus |
+| ucyate | is said to be |
+| tadā | then |
+

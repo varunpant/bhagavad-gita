@@ -31,3 +31,60 @@ position: 465
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana
+idānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण के अत्यंत भयानक विश्वरूप को देखने के बाद अर्जुन भयभीत हो गए थे। अब भगवान के सौम्य चतुर्भुज और द्विभुज मानव रूप को देखकर अर्जुन का भय दूर हो गया है। वे राहत की सांस लेते हुए कहते हैं कि उनका मन अब शांत और स्थिर हो गया है तथा वे अपनी स्वाभाविक चेतना में लौट आए हैं।
+
+### Meaning
+
+After witnessing the terrifying and awe-inspiring universal form of Lord Krishna, Arjuna was deeply shaken. Upon seeing Krishna's gentle, beautiful human-like form again, Arjuna feels immense relief. He expresses that his mind has now become calm, and he has returned to his normal, peaceful state of consciousness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | बोले |
+| दृष्ट्वा | देखकर |
+| इदम् | इस |
+| मानुषम् | मानवीय |
+| रूपम् | रूप को |
+| तव | आपके |
+| सौम्यम् | सौम्य (शान्त) |
+| जनार्दन | हे जनार्दन (कृष्ण) |
+| इदानीम् | अब |
+| अस्मि | हूँ |
+| संवृत्तः | हो गया |
+| सचेताः | सचेत (स्थिरचित्त) |
+| प्रकृतिम् | अपनी स्वाभाविक स्थिति को |
+| गतः | प्राप्त |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| dṛṣṭvā | having seen |
+| idam | this |
+| mānuṣam | human |
+| rūpam | form |
+| tava | Your |
+| saumyam | gentle |
+| janārdana | O Janardana (Krishna) |
+| idānīm | now |
+| asmi | I am |
+| saṃvṛttaḥ | become |
+| sacetāḥ | composed in mind |
+| prakṛtim | to my own nature |
+| gataḥ | returned |
+

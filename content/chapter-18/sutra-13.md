@@ -31,3 +31,51 @@ position: 636
 
 ```
 
+
+### Transliteration
+```
+pañcaitāni mahābāho kāraṇāni nibodha me
+sāṅkhye kṛtānte proktāni siddhaye sarvakarmaṇām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को समझाते हैं कि किसी भी कर्म की पूर्णता केवल मनुष्य के हाथ में नहीं होती। वे सांख्य दर्शन (वेदांत) का संदर्भ देते हुए कहते हैं कि प्रत्येक कर्म की सिद्धि के पीछे पांच मुख्य कारण होते हैं। इन कारणों को समझने से मनुष्य स्वयं को कर्ता मानने के अहंकार से मुक्त हो सकता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that the completion of any action does not depend solely on the individual. Referencing the Samkhya philosophy (Vedanta), He states that there are five factors responsible for the accomplishment of all actions. Understanding these factors helps a person overcome the ego of thinking themselves as the sole doer.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पञ्च | पांच |
+| एतानि | इन |
+| महाबाहो | हे महाबाहु (अर्जुन) |
+| कारणानि | कारणों को |
+| निबोध | जानो |
+| मे | मुझसे |
+| साङ्ख्ये | सांख्य में (वेदांत में) |
+| कृतान्ते | सिद्धांत में (जो कर्मों का अंत करने वाला है) |
+| प्रोक्तानि | कहे गए हैं |
+| सिद्धये | सिद्धि के लिए |
+| सर्व-कर्मणाम् | सभी कर्मों की |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pañca | five |
+| etāni | these |
+| mahābāho | O mighty-armed one |
+| kāraṇāni | causes / factors |
+| nibodha | learn / know |
+| me | from Me |
+| sāṅkhye | in the Samkhya |
+| kṛtānte | in the doctrine which ends action |
+| proktāni | declared / described |
+| siddhaye | for the accomplishment |
+| sarva-karmaṇām | of all actions |
+

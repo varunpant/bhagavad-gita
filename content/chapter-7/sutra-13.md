@@ -31,3 +31,57 @@ position: 293
 
 ```
 
+
+### Transliteration
+```
+tribhirguṇamayairbhāvairebhiḥ sarvamidaṃ jagat
+mohitaṃ nābhijānāti māmebhyaḥ paramavyayam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि संसार के लोग माया के वश में क्यों हैं। प्रकृति के तीन गुण (सत्त्व, रज, और तम) मनुष्यों की बुद्धि को भ्रमित कर देते हैं। इस मोह के कारण वे परमेश्वर के वास्तविक, अविनाशी और गुणातीत स्वरूप को नहीं पहचान पाते।
+
+### Meaning
+
+In this verse, Lord Krishna explains why the world remains in ignorance of His true nature. The three modes of material nature (sattva, rajas, and tamas) create an illusion that deludes all living beings. Consequently, they fail to recognize the Supreme Lord, who exists beyond these modes and is eternal and immutable.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| त्रिभिः | तीन |
+| गुणमयैः | गुणों से युक्त |
+| भावैः | भावों द्वारा |
+| एभिः | इन |
+| सर्वम् | संपूर्ण |
+| इदम् | यह |
+| जगत् | संसार |
+| मोहितम् | मोहित |
+| न | नहीं |
+| अभिजानाति | जानता है |
+| माम् | मुझको |
+| एभ्यः | इनसे |
+| परम् | परे |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tribhiḥ | by three |
+| guṇamayaiḥ | composed of the gunas |
+| bhāvaiḥ | by states |
+| ebhiḥ | by these |
+| sarvam | all |
+| idam | this |
+| jagat | world |
+| mohitam | deluded |
+| na | not |
+| abhijānāti | knows |
+| mām | Me |
+| ebhyaḥ | from these |
+| param | beyond |
+| avyayam | imperishable |
+

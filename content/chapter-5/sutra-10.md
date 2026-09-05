@@ -31,3 +31,57 @@ position: 214
 
 ```
 
+
+### Transliteration
+```
+brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ
+lipyate na sa pāpena padmapatramivāmbhasā
+
+```
+
+### भावार्थ
+
+यह श्लोक कमल के पत्ते के सुंदर उदाहरण के माध्यम से कर्मयोग के सिद्धांत को समझाता है। जिस प्रकार कमल जल में उत्पन्न होकर भी जल से अछूता रहता है, उसी प्रकार जो मनुष्य अपने सभी कर्मों को ईश्वर को अर्पण करके और फल की आसक्ति को छोड़कर कार्य करता है, वह संसार में रहते हुए भी पाप और कर्मबंधनों से मुक्त रहता है।
+
+### Meaning
+
+This verse beautifully illustrates the concept of Karma Yoga using the metaphor of a lotus leaf. Even though the lotus grows in water, its leaves remain completely dry and untouched. Similarly, a person who performs their worldly duties without attachment, dedicating all outcomes to the Supreme, remains unaffected by the karmic reactions or sins of the material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ब्रह्मणि | परब्रह्म में |
+| आधाय | समर्पित करके |
+| कर्माणि | कर्मों को |
+| सङ्गम् | आसक्ति को |
+| त्यक्त्वा | त्यागकर |
+| करोति | करता है |
+| यः | जो |
+| लिप्यते | लिप्त होता है |
+| न | नहीं |
+| सः | वह |
+| पापेन | पाप से |
+| पद्मपत्रम् | कमल का पत्ता |
+| इव | के समान |
+| अम्भसा | जल से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| brahmaṇi | unto Brahman |
+| ādhāya | having dedicated |
+| karmāṇi | actions |
+| saṅgam | attachment |
+| tyaktvā | having abandoned |
+| karoti | performs |
+| yaḥ | who |
+| lipyate | is tainted |
+| na | not |
+| saḥ | he |
+| pāpena | by sin |
+| padmapatram | lotus leaf |
+| iva | like |
+| ambhasā | by water |
+

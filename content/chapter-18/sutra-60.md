@@ -31,3 +31,57 @@ position: 683
 
 ```
 
+
+### Transliteration
+```
+svabhāvajena kaunteya nibaddhaḥ svena karmaṇā
+kartuṃ necchasi yanmohāt kariṣyasyavaśo'pi tat
+
+```
+
+### भावार्थ
+
+श्रीकृष्ण अर्जुन को समझाते हैं कि प्रत्येक मनुष्य अपने जन्मजात स्वभाव और संस्कारों से बंधा होता है। अर्जुन का क्षत्रिय स्वभाव उसे युद्ध से भागने नहीं देगा। यदि वह मोहवश इस समय युद्ध न करने का निर्णय भी लेता है, तो भी उसका अंतर्निहित स्वभाव उसे अंततः युद्ध करने के लिए विवश कर देगा।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that every individual is bound by the tendencies born of their own nature (svabhava). Arjuna's inherent Kshatriya (warrior) nature will not allow him to remain inactive. Even if he decides not to fight now due to delusion, his own nature will eventually compel him to act and fight.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| स्वभावजेन | अपने स्वभाव से उत्पन्न |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| निबद्धः | बंधा हुआ |
+| स्वेन | अपने |
+| कर्मणा | कर्म द्वारा |
+| कर्तुम् | करने के लिए |
+| न | नहीं |
+| इच्छसि | चाहते हो |
+| यत् | जिसको |
+| मोहात् | मोह के कारण |
+| करिष्यसि | करोगे |
+| अवशः | विवश होकर / परवश होकर |
+| अपि | भी |
+| तत् | उसको |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| svabhāvajena | born of your own nature |
+| kaunteya | O son of Kunti |
+| nibaddhaḥ | bound |
+| svena | by your own |
+| karmaṇā | by action / duty |
+| kartum | to do |
+| na | not |
+| icchasi | you wish |
+| yat | which |
+| mohāt | out of delusion |
+| kariṣyasi | you will do |
+| avaśaḥ | helplessly / against your will |
+| api | even |
+| tat | that |
+

@@ -31,3 +31,51 @@ position: 589
 
 ```
 
+
+### Transliteration
+```
+ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ
+mām ātmaparadeheṣu pradviṣanto 'bhyasūyakāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में आसुरी स्वभाव वाले व्यक्तियों के लक्षणों का वर्णन किया गया है। वे अहंकार, शारीरिक बल, घमंड, वासना और क्रोध के वशीभूत होकर जीवन जीते हैं। ऐसे लोग अपने भीतर और दूसरों के भीतर स्थित परमात्मा (आत्मा) की उपेक्षा करते हैं और उससे द्वेष करते हैं, क्योंकि वे केवल अपने अहंकार की तृप्ति चाहते हैं।
+
+### Meaning
+
+This verse describes the characteristics of those possessing a demoniac nature. Driven by ego, physical power, arrogance, lust, and anger, they lose all sense of the divine presence. Consequently, they harbor malice toward the Supreme Lord who dwells as the Supersoul within their own bodies and the bodies of others.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहङ्कारम् | अहंकार को |
+| बलम् | बल को |
+| दर्पम् | घमंड को |
+| कामम् | वासना को |
+| क्रोधम् | क्रोध को |
+| च | और |
+| संश्रिताः | शरण लिए हुए (आश्रय लेकर) |
+| माम् | मुझको |
+| आत्म-पर-देहेषु | अपने और दूसरों के शरीरों में |
+| प्रद्विषन्तः | द्वेष करने वाले |
+| अभ्यसूयकाः | दूसरों के गुणों में दोष निकालने वाले (ईर्ष्यालु) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ahaṅkāram | egotism |
+| balam | strength / power |
+| darpam | pride / arrogance |
+| kāmam | lust / desire |
+| krodham | anger |
+| ca | and |
+| saṃśritāḥ | having taken refuge in |
+| mām | Me (the Supreme Lord) |
+| ātma-para-deheṣu | in their own and others' bodies |
+| pradviṣantaḥ | hating / despising |
+| abhyasūyakāḥ | envious / caviling |
+

@@ -31,3 +31,56 @@ position: 156
 
 ```
 
+
+### Transliteration
+```
+śrī bhagavānuvāca
+kāma eṣa krodha eṣa rajoguṇasamudbhavaḥ
+mahāśano mahāpāpmā viddhyenamiha vairiṇam
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण अर्जुन को बताते हैं कि मनुष्य का वास्तविक शत्रु काम (वासना) है। जब यह काम अतृप्त रहता है, तो यह क्रोध का रूप धारण कर लेता है। रजोगुण से उत्पन्न यह काम कभी न तृप्त होने वाला और महान पापों का कारण है, इसलिए आध्यात्मिक मार्ग में इसे ही सबसे बड़ा शत्रु समझना चाहिए।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that the true enemy of a living entity is lust, which transforms into anger when unfulfilled. Born from the mode of passion, this lust is insatiable and compels one to commit great sins. Therefore, a spiritual seeker must recognize it as the ultimate destructive force and the greatest enemy in this world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| कामः | काम (वासना) |
+| एषः | यह |
+| क्रोधः | क्रोध |
+| एषः | यह |
+| रजोगुणसमुद्भवः | रजोगुण से उत्पन्न |
+| महाशनः | बहुत खाने वाला (अतृप्त) |
+| महापाप्मा | महान पापी |
+| विद्धि | जानो |
+| एनम् | इसको |
+| इह | इस संसार में |
+| वैरिणम् | शत्रु |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī bhagavān | the Supreme Lord |
+| uvāca | said |
+| kāmaḥ | lust |
+| eṣaḥ | this |
+| krodhaḥ | anger |
+| eṣaḥ | this |
+| rajoguṇasamudbhavaḥ | born of the mode of passion |
+| mahāśanaḥ | all-devouring |
+| mahāpāpmā | greatly sinful |
+| viddhi | know |
+| enam | this |
+| iha | in this world |
+| vairiṇam | the enemy |
+

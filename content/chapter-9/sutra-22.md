@@ -33,3 +33,55 @@ position: 360
 
 ```
 
+
+### Transliteration
+```
+ananyāścintayanto māṃ ye janāḥ paryupāsate
+teṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपने अनन्य भक्तों को पूर्ण सुरक्षा का आश्वासन देते हैं। जो भक्त किसी अन्य का आश्रय न लेकर केवल भगवान पर ही निर्भर रहते हैं, उनके जीवन की सभी आवश्यकताओं (योग - अप्राप्त की प्राप्ति, और क्षेम - प्राप्त की रक्षा) की जिम्मेदारी स्वयं भगवान अपने ऊपर ले लेते हैं। यह भक्ति मार्ग का सबसे सुंदर और आश्वस्त करने वाला वचन है।
+
+### Meaning
+
+In this verse, Lord Krishna provides a supreme assurance of protection to His exclusive devotees. For those who worship Him with undivided attention and remain constantly absorbed in His consciousness, the Lord personally takes charge of providing their necessities (yoga) and protecting what they already have (kshema). This highlights the intimate and reciprocal relationship between the Supreme Divine and a surrendered devotee.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनन्याः | अनन्य भाव से (बिना किसी अन्य के) |
+| चिन्तयन्तः | चिन्तन करते हुए |
+| माम् | मुझको |
+| ये | जो |
+| जनाः | भक्तजन |
+| पर्युपासते | उपासना करते हैं |
+| तेषाम् | उन |
+| नित्य | निरन्तर |
+| अभियुक्तानाम् | मुझमें लीन रहने वालों का |
+| योग | अप्राप्त की प्राप्ति (योग) |
+| क्षेमम् | प्राप्त की रक्षा (क्षेम) |
+| वहामि | वहन करता हूँ |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ananyāḥ | having no other object |
+| cintayantaḥ | meditating / thinking of |
+| mām | Me |
+| ye | who |
+| janāḥ | people / devotees |
+| paryupāsate | worship |
+| teṣām | of them |
+| nitya | always |
+| abhiyuktānām | of those who are united / established |
+| yoga | supply of needs (attainment of what is not possessed) |
+| kṣemam | protection of possessions (preservation of what is possessed) |
+| vahāmi | carry / secure |
+| aham | I |
+

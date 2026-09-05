@@ -31,3 +31,68 @@ position: 450
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+sthāne hṛṣīkeśa tava prakīrtyā
+jagat prahṛṣyaty anurajyate ca
+rakṣāṃsi bhītāni diśo dravanti
+sarve namasyanti ca siddhasaṅghāḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण के विश्वरूप को देखकर अर्जुन विस्मय और भक्ति से भर जाते हैं। वे स्वीकार करते हैं कि भगवान की महिमा का गान सुनकर संसार का हर्षित होना और दुष्ट शक्तियों का भयभीत होकर भागना सर्वथा उचित है। यह श्लोक भगवान की परम सत्ता और उनके प्रति चराचर जगत् के स्वाभाविक अनुराग को दर्शाता है।
+
+### Meaning
+
+Beholding the cosmic form of Lord Krishna, Arjuna is filled with awe and devotion. He acknowledges that it is entirely fitting for the universe to rejoice in His glory while demonic forces flee in terror. This verse highlights the supreme authority of the Lord and the natural devotion He inspires in all pure beings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| स्थाने | यह योग्य ही है / उचित ही है |
+| हृषीकेश | हे हृषीकेश (इन्द्रियों के स्वामी) |
+| तव | आपके |
+| प्रकीर्त्या | यश-कीर्तन से |
+| जगत् | सम्पूर्ण जगत् |
+| प्रहृष्यति | अत्यंत हर्षित हो रहा है |
+| अनुरज्यते | अनुराग (प्रेम) को प्राप्त हो रहा है |
+| च | और |
+| रक्षांसि | राक्षस लोग |
+| भीतानि | भयभीत होकर |
+| दिशः | दिशाओं में |
+| द्रवन्ति | भाग रहे हैं |
+| सर्वे | सभी |
+| नमस्यन्ति | नमस्कार कर रहे हैं |
+| च | और |
+| सिद्ध-सङ्घाः | सिद्धों के समुदाय |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| sthāne | rightly / properly |
+| hṛṣīkeśa | O Hrishikesha (master of the senses) |
+| tava | Your |
+| prakīrtyā | by the glorification |
+| jagat | the universe |
+| prahṛṣyati | rejoices |
+| anurajyate | becomes attached / feels love |
+| ca | and |
+| rakṣāṃsi | the demons |
+| bhītāni | in fear |
+| diśaḥ | in all directions |
+| dravanti | are fleeing |
+| sarve | all |
+| namasyanti | are bowing down |
+| ca | and |
+| siddha-saṅghāḥ | the hosts of perfected beings |
+

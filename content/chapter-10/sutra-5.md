@@ -31,3 +31,55 @@ position: 377
 
 ```
 
+
+### Transliteration
+```
+ahiṃsā samatā tuṣṭistapo dānaṃ yaśo'yaśaḥ
+bhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि मनुष्यों के भीतर पाए जाने वाले सभी मानसिक और नैतिक गुण, चाहे वे सकारात्मक हों या नकारात्मक, उनके ही संकल्प से उत्पन्न होते हैं। अहिंसा, समता, संतोष, तपस्या, दान, यश और अपयश जैसी सभी भावनाएं और अवस्थाएं परमेश्वर की ही शक्ति की विभिन्न अभिव्यक्तियाँ हैं। यह दर्शाता है कि सृष्टि की प्रत्येक मानसिक अवस्था का मूल स्रोत केवल भगवान ही हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains that all the various mental and moral qualities found in living beings, whether positive or negative, originate from Him alone. Attributes such as non-violence, equanimity, contentment, austerity, charity, fame, and infamy are different manifestations of His divine energy. This emphasizes that the Supreme Lord is the ultimate source of all psychological states and conditions in existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहिंसा | अहिंसा (किसी को न सताना) |
+| समता | समता (समभाव) |
+| तुष्टिः | संतोष |
+| तपः | तपस्या |
+| दानम् | दान |
+| यशः | कीर्ति (यश) |
+| अयशः | अपकीर्ति (अपयश) |
+| भवन्ति | होते हैं |
+| भावाः | भाव (गुण) |
+| भूतानाम् | प्राणियों के |
+| मत्तः | मुझसे |
+| एव | ही |
+| पृथक्-विधाः | विविध प्रकार के |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ahiṃsā | non-violence |
+| samatā | equanimity |
+| tuṣṭiḥ | contentment |
+| tapaḥ | austerity |
+| dānam | charity |
+| yaśaḥ | fame |
+| ayaśaḥ | infamy |
+| bhavanti | arise |
+| bhāvāḥ | qualities |
+| bhūtānām | of living beings |
+| mattaḥ | from Me |
+| eva | alone |
+| pṛthagvidhāḥ | of diverse kinds |
+

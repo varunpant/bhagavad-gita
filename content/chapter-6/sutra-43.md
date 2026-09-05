@@ -31,3 +31,51 @@ position: 276
 
 ```
 
+
+### Transliteration
+```
+tatra taṃ buddhisamyogaṃ labhate paurvadehikam
+yatate ca tato bhūyaḥ saṃsiddhau kurunandana
+
+```
+
+### भावार्थ
+
+इस श्लोक में श्रीकृष्ण अर्जुन को समझाते हैं कि योगभ्रष्ट पुरुष जब पवित्र और श्रीमानों के घर या योगियों के कुल में जन्म लेता है, तो उसे पिछले जन्म के आध्यात्मिक संस्कार स्वतः ही प्राप्त हो जाते हैं। उन पूर्वजन्म के संस्कारों के प्रभाव से वह पुनः परमात्मा की प्राप्ति के मार्ग पर आगे बढ़ने लगता है। वह अपनी साधना को वहीं से शुरू करता है जहाँ उसने पिछले जन्म में छोड़ी थी और पूर्ण सिद्धि के लिए और अधिक तीव्रता से प्रयास करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that when a yogi who fell from the path is reborn, they automatically regain the spiritual intellect and consciousness accumulated in their previous life. Driven by these past impressions, they resume their spiritual journey from where they had left off. They strive with even greater vigor and determination to achieve ultimate perfection and liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत्र | वहाँ (उस नए जन्म में) |
+| तम् | उस |
+| बुद्धि-संयोगम् | बुद्धि के संयोग को (आध्यात्मिक चेतना को) |
+| लभते | प्राप्त करता है |
+| पौर्व-देहिकम् | पूर्व शरीर से सम्बद्ध (पिछले जन्म के) |
+| यतते | प्रयत्न करता है |
+| च | और |
+| ततः | उससे (उसके बाद) |
+| भूयः | पुनः (और अधिक) |
+| संसिद्धौ | पूर्ण सिद्धि के लिए |
+| कुरु-नन्दन | हे कुरुनन्दन (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tatra | there (in that rebirth) |
+| tam | that |
+| buddhi-samyogam | union of intellect (spiritual consciousness) |
+| labhate | he obtains |
+| paurva-dehikam | acquired in the previous body |
+| yatate | he strives |
+| ca | and |
+| tataḥ | than that (thereafter) |
+| bhūyaḥ | again (further) |
+| samsiddhau | for perfection |
+| kuru-nandana | O descendant of Kuru (Arjuna) |
+

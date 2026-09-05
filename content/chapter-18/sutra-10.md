@@ -31,3 +31,51 @@ position: 633
 
 ```
 
+
+### Transliteration
+```
+na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate
+tyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में सच्चे त्यागी के लक्षणों का वर्णन किया गया है। सत्त्वगुण से युक्त मनुष्य कर्मों के फल की चिंता नहीं करता, इसलिए वह अप्रिय कर्मों से बचता नहीं और प्रिय कर्मों में लिप्त नहीं होता। उसकी बुद्धि स्थिर होती है और कर्तव्य के प्रति उसके मन में कोई संशय नहीं रहता।
+
+### Meaning
+
+This verse describes the characteristics of a true renouncer. One who is established in the mode of goodness (sattva) does not avoid unpleasant duties out of aversion, nor does he cling to pleasant ones out of desire. Being intellectually clear and free from doubts, he performs his duty with equanimity.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| द्वेष्टि | द्वेष करता है |
+| अकुशलम् | अकल्याणकारी / अप्रिय |
+| कर्म | कर्म से |
+| कुशले | कल्याणकारी / प्रिय कर्म में |
+| न | नहीं |
+| अनुषज्जते | आसक्त होता है |
+| त्यागी | त्यागी |
+| सत्त्व-समाविष्टः | सत्त्वगुण से युक्त |
+| मेधावी | बुद्धिमान |
+| छिन्न-संशयः | संशयरहित / जिसके संशय नष्ट हो गए हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| dveṣṭi | hates |
+| akuśalam | disagreeable / inauspicious |
+| karma | action |
+| kuśale | to agreeable / auspicious action |
+| na | not |
+| anuṣajjate | becomes attached |
+| tyāgī | the renouncer |
+| sattva-samāviṣṭaḥ | pervaded by goodness (sattva) |
+| medhāvī | intelligent |
+| chinna-saṃśayaḥ | one whose doubts are cut asunder |
+

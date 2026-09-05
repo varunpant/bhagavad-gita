@@ -31,3 +31,51 @@ position: 65
 
 ```
 
+
+### Transliteration
+```
+antavanta ime dehā nityasyoktāḥ śarīriṇaḥ
+anāśino'prameyasya tasmādyudhyasva bhārata
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण भौतिक शरीर और आत्मा के बीच के मूलभूत अंतर को स्पष्ट करते हैं। जहाँ एक ओर यह भौतिक शरीर अस्थायी और नाशवान है, वहीं इसके भीतर निवास करने वाली आत्मा नित्य, अविनाशी और अकल्पनीय है। चूँकि वास्तविक स्वरूप (आत्मा) को कभी मारा नहीं जा सकता, इसलिए कृष्ण अर्जुन को अपना शोक त्याग कर एक क्षत्रिय के रूप में युद्ध करने का निर्देश देते हैं।
+
+### Meaning
+
+Lord Krishna explains the fundamental difference between the physical body and the soul. While the material body is temporary and destined to perish, the soul within is eternal, indestructible, and beyond human comprehension. Because the true self cannot be killed, Krishna urges Arjuna to abandon his grief and perform his duty as a warrior by fighting the righteous war.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अन्तवन्तः | नाशवान |
+| इमे | ये |
+| देहाः | शरीर |
+| नित्यस्य | नित्य के |
+| उक्ताः | कहे गए हैं |
+| शरीरिणः | जीवात्मा के |
+| अनाशिनः | अविनाशी के |
+| अप्रमेयस्य | अप्रमेय के |
+| तस्मात् | इसलिए |
+| युध्यस्व | युद्ध करो |
+| भारत | हे भरतवंशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| antavantaḥ | perishable |
+| ime | these |
+| dehāḥ | bodies |
+| nityasya | of the eternal |
+| uktāḥ | are said |
+| śarīriṇaḥ | of the embodied soul |
+| anāśinaḥ | of the indestructible |
+| aprameyasya | of the immeasurable |
+| tasmāt | therefore |
+| yudhyasva | fight |
+| bhārata | O descendant of Bharata |
+

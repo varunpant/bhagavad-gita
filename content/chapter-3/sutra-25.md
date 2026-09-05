@@ -33,3 +33,53 @@ position: 144
 
 ```
 
+
+### Transliteration
+```
+saktāḥ karmaṇyavidvāṃso yathā kurvanti bhārata
+kuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अज्ञानी और ज्ञानी व्यक्ति के कर्म करने के दृष्टिकोण में अंतर स्पष्ट करते हैं। अज्ञानी लोग अपने स्वार्थ और कर्मफलों में आसक्त होकर कार्य करते हैं, जबकि ज्ञानी व्यक्ति को वही कर्म बिना किसी आसक्ति के करने चाहिए। ज्ञानी पुरुष का उद्देश्य केवल समाज के सामने एक आदर्श प्रस्तुत करना और लोक-कल्याण करना होता है।
+
+### Meaning
+
+Krishna explains the difference between how an ignorant person and a wise person approach their duties. While the ignorant work for personal gain and are attached to the results, the wise perform the exact same actions without any selfish attachment. The wise act solely to set a good example and ensure the welfare and maintenance of society.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सक्ताः | आसक्त |
+| कर्मणि | कर्म में |
+| अविद्वांसः | अज्ञानी लोग |
+| यथा | जिस प्रकार |
+| कुर्वन्ति | करते हैं |
+| भारत | हे भरतवंशी |
+| कुर्यात् | करना चाहिए |
+| विद्वान् | ज्ञानी पुरुष को |
+| तथा | उसी प्रकार |
+| असक्तः | अनासक्त होकर |
+| चिकीर्षुः | इच्छा करते हुए |
+| लोकसंग्रहम् | लोक-कल्याण की |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| saktāḥ | attached |
+| karmaṇi | in action |
+| avidvāṃsaḥ | the ignorant |
+| yathā | as |
+| kurvanti | they do |
+| bhārata | O descendant of Bharata |
+| kuryāt | should do |
+| vidvān | the wise |
+| tathā | so |
+| asaktaḥ | unattached |
+| cikīrṣuḥ | desiring to do |
+| lokasaṃgraham | welfare of the world |
+

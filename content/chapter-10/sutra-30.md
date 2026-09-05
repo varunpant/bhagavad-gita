@@ -31,3 +31,57 @@ position: 402
 
 ```
 
+
+### Transliteration
+```
+prahlādaś cāsmi daityānāṃ kālaḥ kalayatām aham
+mṛgāṇāṃ ca mṛgendro 'haṃ vainateyaś ca pakṣiṇām
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को अपनी विभूतियों का वर्णन करते हुए समझाते हैं कि वे असुरों के कुल में उत्पन्न परम भक्त प्रह्लाद हैं। वे काल (समय) के रूप में सभी को वश में करने वाले हैं। पशुओं में वे सर्वश्रेष्ठ सिंह हैं और पक्षियों में वे भगवान विष्णु के वाहन गरुड़ (विनता के पुत्र) हैं।
+
+### Meaning
+
+Lord Krishna explains His divine manifestations to Arjuna, identifying Himself as Prahlada among the Daityas, representing supreme devotion. He is Time, the ultimate subduer and measurer of all things. Among animals, He is the majestic lion, and among birds, He is Garuda, the swift and sacred carrier of Vishnu.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रह्लादः | प्रह्लाद |
+| च | और |
+| अस्मि | हूँ |
+| दैत्यानाम् | दैत्यों में |
+| कालः | समय (काल) |
+| कलयताम् | गणना करने वालों में (या वश में करने वालों में) |
+| अहम् | मैं |
+| मृगाणाम् | पशुओं में |
+| च | और |
+| मृगेन्द्रः | सिंह (मृगों का राजा) |
+| अहम् | मैं |
+| वैनतेयः | गरुड़ (विनता का पुत्र) |
+| च | और |
+| पक्षिणाम् | पक्षियों में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prahlādaḥ | Prahlada |
+| ca | and |
+| asmi | I am |
+| daityānām | among the Daityas (demons) |
+| kālaḥ | Time |
+| kalayatām | among subduers (or reckoners) |
+| aham | I |
+| mṛgāṇām | among beasts |
+| ca | and |
+| mṛgendraḥ | the king of beasts (lion) |
+| aham | I |
+| vainateyaḥ | Garuda (son of Vinata) |
+| ca | and |
+| pakṣiṇām | among birds |
+

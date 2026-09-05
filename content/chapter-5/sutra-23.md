@@ -31,3 +31,57 @@ position: 227
 
 ```
 
+
+### Transliteration
+```
+śaknotīhaiva yaḥ soḍhuṃ prākśarīravimokṣaṇāt
+kāmakrodhodbhavaṃ vegaṃ sa yuktaḥ sa sukhī naraḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण समत्व और मन के नियंत्रण के महत्त्व को समझा रहे हैं। वे कहते हैं कि मृत्यु से पूर्व ही जो व्यक्ति काम और क्रोध के वेग को वश में करना सीख लेता है, वही वास्तविक योगी है। ऐसा व्यक्ति ही इस संसार में सच्चा सुख और शांति प्राप्त कर सकता है क्योंकि वह भौतिक विकारों से विचलित नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the importance of self-control and emotional stability before death. He states that a person who learns to tolerate and master the impulses of desire and anger while still in this physical body is truly integrated (a yogi). Such an individual attains lasting peace and happiness, remaining undisturbed by material distractions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| शक्नोति | समर्थ होता है |
+| इह | यहाँ (इस जीवन में) |
+| एव | ही |
+| यः | जो |
+| सोढुम् | सहन करने में |
+| प्राक् | पहले |
+| शरीरविमोक्षणात् | शरीर त्यागने से |
+| कामक्रोधोद्भवम् | काम और क्रोध से उत्पन्न |
+| वेगम् | वेग को |
+| सः | वह |
+| युक्तः | योगी |
+| सः | वह |
+| सुखी | सुखी |
+| नरः | मनुष्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śaknoti | is able |
+| iha | here (in this life) |
+| eva | indeed |
+| yaḥ | who |
+| soḍhum | to tolerate |
+| prāk | before |
+| śarīravimokṣaṇāt | liberation from the body |
+| kāmakrodhodbhavam | arising from desire and anger |
+| vegam | the impulse |
+| saḥ | he |
+| yuktaḥ | united (yogi) |
+| saḥ | he |
+| sukhī | happy |
+| naraḥ | man |
+

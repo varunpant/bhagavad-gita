@@ -31,3 +31,64 @@ position: 596
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+ye śāstravidhimutsṛjya yajante śraddhayā'nvitāḥ
+teṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ
+
+```
+
+### भावार्थ
+
+इस अध्याय के आरम्भ में अर्जुन भगवान कृष्ण से उन लोगों की आध्यात्मिक स्थिति के बारे में पूछ रहे हैं जो शास्त्रों के नियमों को नहीं जानते या उनका पालन नहीं करते, परन्तु फिर भी श्रद्धापूर्वक पूजा-अर्चना करते हैं। अर्जुन यह जानना चाहते हैं कि ऐसे मनुष्यों की निष्ठा को किस श्रेणी में रखा जाए—सत्त्वगुण, रजोगुण या तमोगुण में। यह प्रश्न श्रद्धा और शास्त्र-विधि के सम्बन्ध को स्पष्ट करने के लिए पूछा गया है।
+
+### Meaning
+
+At the beginning of this chapter, Arjuna questions Lord Krishna about the spiritual status of those who disregard scriptural injunctions but still perform worship with faith. He wants to know whether their faith and devotion belong to the mode of goodness (sattva), passion (rajas), or ignorance (tamas). This inquiry seeks to clarify the relationship between formal scriptural rules and the inner quality of human faith.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| ये | जो |
+| शास्त्र-विधिम् | शास्त्र के नियमों को |
+| उत्सृज्य | त्यागकर |
+| यजन्ते | पूजा करते हैं |
+| श्रद्धया | श्रद्धा से |
+| अन्विताः | युक्त होकर |
+| तेषाम् | उनकी |
+| निष्ठा | स्थिति |
+| तु | तो |
+| का | क्या है |
+| कृष्ण | हे कृष्ण |
+| सत्त्वम् | सत्त्वगुण |
+| आहो | अथवा |
+| रजः | रजोगुण |
+| तमः | तमोगुण |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| ye | who |
+| śāstra-vidhim | the ordinances of the scriptures |
+| utsṛjya | setting aside |
+| yajante | worship |
+| śraddhayā | with faith |
+| anvitāḥ | endowed |
+| teṣām | their |
+| niṣṭhā | state |
+| tu | indeed |
+| kā | what |
+| kṛṣṇa | O Krishna |
+| sattvam | goodness |
+| āho | or |
+| rajaḥ | passion |
+| tamaḥ | ignorance |
+

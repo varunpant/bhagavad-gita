@@ -31,3 +31,51 @@ position: 630
 
 ```
 
+
+### Transliteration
+```
+niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate
+mohāttasya parityāgastāmasaḥ parikīrtitaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण नियत कर्मों के त्याग का निषेध करते हैं। शास्त्र सम्मत आवश्यक कर्तव्यों का त्याग कभी भी उचित नहीं माना जाता। यदि कोई अज्ञान या मोहवश अपने अनिवार्य कर्तव्यों को छोड़ देता है, तो ऐसे त्याग को तामसी त्याग कहा जाता है जो मनुष्य को अवनति की ओर ले जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that the renunciation of prescribed duties is improper. One's obligatory duties should never be abandoned. If someone gives up their essential duties due to delusion or ignorance, such renunciation is classified as being in the mode of ignorance (tamas).
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| नियतस्य | नियत (शास्त्र-विहित) |
+| तु | लेकिन |
+| संन्यासः | त्याग |
+| कर्मणः | कर्म का |
+| न | नहीं |
+| उपपद्यते | उचित है |
+| मोहात् | मोह के कारण |
+| तस्य | उसका |
+| परित्यागः | परित्याग |
+| तामसः | तामस (अज्ञानमय) |
+| परिकीर्तितः | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| niyatasya | of prescribed |
+| tu | but |
+| saṃnyāsaḥ | renunciation |
+| karmaṇaḥ | of duty |
+| na | not |
+| upapadyate | is proper |
+| mohāt | out of delusion |
+| tasya | of that |
+| parityāgaḥ | abandonment |
+| tāmasaḥ | in the mode of ignorance |
+| parikīrtitaḥ | is declared |
+

@@ -31,3 +31,51 @@ position: 612
 
 ```
 
+
+### Transliteration
+```
+śraddhayā parayā taptaṃ tapas tat trividhaṃ naraiḥ
+aphalākāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक तप के लक्षणों का वर्णन कर रहे हैं। जब मनुष्य बिना किसी फल की कामना के, परम श्रद्धा और एकाग्र मन से शरीर, वाणी और मन का तप करता है, तो उसे सात्त्विक तप कहा जाता है। इसमें निष्काम भाव और अटूट श्रद्धा मुख्य तत्व हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of Sattvika (pure) austerity. When the threefold penance (of body, speech, and mind) is performed with supreme faith, steadfast devotion, and without any desire for personal reward, it is classified as Sattvika. The key elements here are selflessness and deep faith.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रद्धया | श्रद्धा से |
+| परया | परम / श्रेष्ठ |
+| तप्तम् | तपा हुआ / किया गया |
+| तपः | तप |
+| तत् | वह |
+| त्रिविधम् | तीन प्रकार का |
+| नरैः | मनुष्यों द्वारा |
+| अफल-आकाङ्क्षिभिः | फल की इच्छा न करने वाले |
+| युक्तैः | एकाग्रचित्त / योगयुक्त पुरुषों द्वारा |
+| सात्त्विकम् | सात्त्विक |
+| परिचक्षते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śraddhayā | with faith |
+| parayā | supreme |
+| taptaṃ | practiced |
+| tapas | austerity |
+| tat | that |
+| trividhaṃ | threefold |
+| naraiḥ | by men |
+| aphala-ākāṅkṣibhiḥ | by those desiring no fruit |
+| yuktaiḥ | by the steadfast / disciplined |
+| sāttvikaṃ | Sattvika (pure) |
+| paricakṣate | is declared / called |
+

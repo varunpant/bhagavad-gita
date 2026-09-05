@@ -31,3 +31,45 @@ position: 588
 
 ```
 
+
+### Transliteration
+```
+ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ
+yajante nāmayajñaiste dambhenāvidhipūrvakam
+
+```
+
+### भावार्थ
+
+इस श्लोक में आसुरी प्रवृत्ति के लोगों के धार्मिक पाखंड का वर्णन किया गया है। ऐसे लोग स्वयं को ही सर्वश्रेष्ठ मानते हैं और किसी की सलाह नहीं सुनते। वे केवल समाज में अपनी प्रतिष्ठा दिखाने के लिए शास्त्रों के नियमों की अवहेलना करते हुए केवल नाममात्र के यज्ञ करते हैं।
+
+### Meaning
+
+This verse describes the religious hypocrisy of those with demonic nature. Being self-conceited and obstinate, they do not follow scriptural rules. They perform sacrifices merely for show and social prestige, completely disregarding the prescribed Vedic injunctions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आत्म-सम्भाविताः | अपने-आप को श्रेष्ठ मानने वाले |
+| स्तब्धाः | घमंडी (अक्खड़) |
+| धन-मान-मद-अन्विताः | धन और सम्मान के मद से युक्त |
+| यजन्ते | यज्ञ करते हैं |
+| नाम-यज्ञैः | नाममात्र के यज्ञों द्वारा |
+| ते | वे |
+| दम्भेन | पाखंड से |
+| अविधि-पूर्वकम् | शास्त्रविधि के बिना |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ātma-sambhāvitāḥ | self-conceited |
+| stabdhāḥ | stubborn (obstinate) |
+| dhana-māna-mada-anvitāḥ | filled with the pride and madness of wealth and honor |
+| yajante | they worship / perform sacrifice |
+| nāma-yajñaiḥ | with sacrifices in name only |
+| te | they |
+| dambhena | out of ostentation (pride) |
+| avidhi-pūrvakam | without following scriptural rules |
+

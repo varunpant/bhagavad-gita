@@ -31,3 +31,49 @@ position: 511
 
 ```
 
+
+### Transliteration
+```
+puruṣaḥ prakṛtistho hi bhuṅkte prakṛtijān guṇān
+kāraṇaṃ guṇasaṅgo'sya sadasadyonijanmasu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जीवात्मा (पुरुष) जब भौतिक प्रकृति के संपर्क में आता है, तो वह प्रकृति के तीन गुणों (सत्त्व, रज, तम) के प्रभाव में आ जाता है। इन गुणों के प्रति आसक्ति के कारण ही जीव को अपने कर्मों के अनुसार उत्तम और अधम योनियों में बार-बार जन्म लेना पड़ता है। जब तक यह आसक्ति बनी रहती है, तब तक संसार चक्र से मुक्ति संभव नहीं है।
+
+### Meaning
+
+In this verse, Lord Krishna explains how the individual soul (purusha), when situated in material nature (prakriti), becomes conditioned by the three modes of nature (sattva, rajas, and tamas). Attachment to these material qualities and the desire to enjoy them is the root cause of the soul's repeated cycle of birth and death in various higher and lower species. Liberation is achieved only when one transcends this attachment to the modes of nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पुरुषः | जीवात्मा (पुरुष) |
+| प्रकृतिस्थः | प्रकृति में स्थित |
+| हि | ही |
+| भुङ्क्ते | भोगता है |
+| प्रकृतिजान् | प्रकृति से उत्पन्न |
+| गुणान् | गुणों को |
+| कारणम् | कारण |
+| गुणसङ्गः | गुणों का संग (आसक्ति) |
+| अस्य | इस (जीवात्मा) का |
+| सत्-असत्-योनि-जन्मसु | अच्छी और बुरी योनियों में जन्म लेने में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| puruṣaḥ | the individual soul |
+| prakṛtisthaḥ | situated in material nature |
+| hi | indeed |
+| bhuṅkte | enjoys / experiences |
+| prakṛtijān | born of prakriti (nature) |
+| guṇān | the qualities (modes of nature) |
+| kāraṇam | the cause |
+| guṇasaṅgaḥ | attachment to the qualities |
+| asya | of this (soul) |
+| sat-asat-yoni-janmasu | in births in good and evil wombs |
+

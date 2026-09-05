@@ -31,3 +31,51 @@ position: 345
 
 ```
 
+
+### Transliteration
+```
+sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām
+kalpakṣaye punastāni kalpādau visṛjāmyaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सृष्टि की उत्पत्ति और प्रलय के चक्र को समझा रहे हैं। वे अर्जुन को बताते हैं कि कल्प (ब्रह्मा के एक दिन) के अंत में सभी जीव उनकी परा-अपरा प्रकृति में विलीन हो जाते हैं। जब नया कल्प आरंभ होता है, तब भगवान अपनी शक्ति से पुनः उन सभी जीवों की सृष्टि करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the cyclical nature of cosmic creation and dissolution. He tells Arjuna that at the end of a kalpa (a day of Brahma), all living beings merge back into His material nature. When a new cycle begins, He projects them forth once again through His divine energy.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्वभूतानि | सभी प्राणी (भूत) |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| प्रकृतिम् | प्रकृति को |
+| यान्ति | प्राप्त होते हैं |
+| मामिकाम् | मेरी (अपनी) |
+| कल्पक्षये | कल्प के अन्त में |
+| पुनः | फिर से |
+| तानि | उनको |
+| कल्पादौ | कल्प के आदि (प्रारम्भ) में |
+| विसृजामि | विशेष रूप से रचता हूँ |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarvabhūtāni | all beings |
+| kaunteya | O son of Kunti |
+| prakṛtim | nature |
+| yānti | enter / merge into |
+| māmikām | My own |
+| kalpakṣaye | at the end of a kalpa (cycle) |
+| punaḥ | again |
+| tāni | them |
+| kalpādau | at the beginning of a kalpa |
+| visṛjāmi | I send forth / create |
+| aham | I |
+

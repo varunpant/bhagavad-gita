@@ -31,3 +31,51 @@ position: 106
 
 ```
 
+
+### Transliteration
+```
+viṣayā vinivartante nirāhārasya dehinaḥ
+rasavarjaṃ raso'pyasya paraṃ dṛṣṭvā nivartate
+
+```
+
+### भावार्थ
+
+कोई भी व्यक्ति हठपूर्वक अपनी इन्द्रियों को विषयों से रोक सकता है, लेकिन मन में उन विषयों के प्रति लालसा या रस बना रहता है। जब साधक को परमात्मा के परम आनंद की अनुभूति हो जाती है, तब उसकी यह सूक्ष्म लालसा भी पूरी तरह से समाप्त हो जाती है। सच्ची इन्द्रिय-निग्रह केवल शारीरिक संयम से नहीं, बल्कि ईश्वर में उच्चतर आनंद प्राप्त करने से सिद्ध होती है।
+
+### Meaning
+
+A person can forcefully restrain their senses from interacting with sense objects, but the internal desire or taste for those objects often remains. However, when one experiences the higher spiritual bliss of the Supreme, this lingering desire completely vanishes. True sense control is achieved not just by physical abstinence, but by finding a higher, superior joy in God.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| विषयाः | इन्द्रियों के विषय |
+| विनिवर्तन्ते | निवृत्त हो जाते हैं |
+| निराहारस्य | विषयों को ग्रहण न करने वाले |
+| देहिनः | देहधारी के |
+| रसवर्जम् | रस (आसक्ति) को छोड़कर |
+| रसः | रस (आसक्ति) |
+| अपि | भी |
+| अस्य | इस (पुरुष) का |
+| परम् | परम (परमात्मा) को |
+| दृष्ट्वा | देखकर (साक्षात्कार करके) |
+| निवर्तते | निवृत्त हो जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| viṣayāḥ | sense objects |
+| vinivartante | turn away |
+| nirāhārasya | of the abstinent |
+| dehinaḥ | of the embodied soul |
+| rasavarjam | leaving the taste (longing) behind |
+| rasaḥ | taste (longing) |
+| api | even |
+| asya | his |
+| param | the Supreme |
+| dṛṣṭvā | having seen |
+| nivartate | turns away |
+

@@ -31,3 +31,58 @@ position: 270
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+ayatiḥ śraddhayopeto yogāccalitamānasaḥ
+aprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण से उस साधक की गति के बारे में पूछ रहे हैं जो योग के मार्ग पर श्रद्धापूर्वक चलता तो है, परंतु मन पर पूर्ण नियंत्रण न होने के कारण अंत समय में विचलित हो जाता है। वह जानना चाहते हैं कि ऐसा व्यक्ति जो योग की परम सिद्धि (मोक्ष) प्राप्त नहीं कर पाता, उसका क्या हश्र होता है। क्या उसका आध्यात्मिक प्रयास व्यर्थ चला जाता है?
+
+### Meaning
+
+In this verse, Arjuna asks Lord Krishna about the fate of an unsuccessful yogi who begins the path with faith but fails to achieve perfection due to an uncontrolled mind. He wants to know if such a person's spiritual efforts go in vain and what destination awaits them after death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| अयतिः | असंयमी (जो पूर्ण प्रयत्नशील न रहा हो) |
+| श्रद्धया | श्रद्धा से |
+| उपेतः | युक्त |
+| योगात् | योग से |
+| चलित | विचलित |
+| मानसः | मन वाला |
+| अप्राप्य | न प्राप्त करके |
+| योगसंसिद्धिम् | योग की परम सिद्धि को |
+| काम् | किस |
+| गतिम् | गति को |
+| कृष्ण | हे कृष्ण |
+| गच्छति | प्राप्त होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| ayatiḥ | the unsubdued (one who is lax in control) |
+| śraddhayā | with faith |
+| upetaḥ | endowed |
+| yogāt | from yoga |
+| calita | deviated |
+| mānasaḥ | whose mind |
+| aprāpya | failing to attain |
+| yogasaṃsiddhim | perfection in yoga |
+| kām | which |
+| gatim | destination |
+| kṛṣṇa | O Krishna |
+| gacchati | goes to |
+

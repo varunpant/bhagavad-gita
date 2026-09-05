@@ -32,3 +32,63 @@ though he slays these people, he slayeth not, nor is he bound (by the action).
 
 ```
 
+
+### Transliteration
+```
+yasya nāhaṅkṛto bhāvo buddhiryasya na lipyate
+hatvāpi sa imā~llokānna hanti na nibadhyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण कर्मों के बंधन से मुक्ति का परम सिद्धांत समझा रहे हैं। जब कोई व्यक्ति अहंकार से रहित होकर और फल की आसक्ति के बिना कर्म करता है, तो वह कर्म के नियमों से ऊपर उठ जाता है। अर्जुन को युद्ध के संदर्भ में यह समझाया जा रहा है कि यदि वह कर्तापन के भाव से मुक्त होकर कर्तव्य समझकर युद्ध करेगा, तो उसे हिंसा का पाप नहीं लगेगा।
+
+### Meaning
+
+In this verse, Lord Krishna explains the ultimate principle of freedom from the bondage of actions. When a person acts without the egoistic sense of doership and without attachment to the results, they transcend the laws of karma. This is applied to Arjuna's context, showing that performing his duty of fighting without personal ego or attachment will not bind him to the sin of violence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यस्य | जिसका |
+| न | नहीं |
+| अहंकृतः | अहंकार से युक्त |
+| भावः | भाव (कर्तापन का भाव) |
+| बुद्धिः | बुद्धि |
+| यस्य | जिसकी |
+| न | नहीं |
+| लिप्यते | लिप्त होती है |
+| हत्वा | मारकर |
+| अपि | भी |
+| सः | वह |
+| इमान् | इन |
+| लोकान् | लोकों को |
+| न | नहीं |
+| हन्ति | मारता है |
+| न | नहीं |
+| निबध्यते | बंधता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yasya | of whom |
+| na | not |
+| ahaṅkṛtaḥ | egoistic (notion of 'I am the doer') |
+| bhāvaḥ | state of mind / attitude |
+| buddhiḥ | intellect |
+| yasya | whose |
+| na | not |
+| lipyate | is tainted / attached |
+| hatvā | having slain |
+| api | even |
+| saḥ | he |
+| imān | these |
+| lokān | worlds |
+| na | not |
+| hanti | slays |
+| na | not |
+| nibadhyate | is bound |
+

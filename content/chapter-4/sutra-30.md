@@ -31,3 +31,49 @@ position: 192
 
 ```
 
+
+### Transliteration
+```
+apare niyatāhārāḥ prāṇānprāṇeṣu juhvati
+sarve'pyete yajñavido yajñakṣapitakalmaṣāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन योगियों का वर्णन कर रहे हैं जो अपने आहार पर कठोर नियंत्रण रखते हैं। वे अपने प्राणों की आहुति प्राणों में ही देते हैं, अर्थात् वे प्राणायाम के माध्यम से अपनी इंद्रियों और जीवन शक्ति को वश में करते हैं। ऐसे सभी साधक यज्ञ के वास्तविक अर्थ को जानने वाले हैं और इन यज्ञों के प्रभाव से उनके सभी पाप और अशुद्धियाँ नष्ट हो जाती हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes yogis who practice strict regulation of their diet. By controlling their intake, they sacrifice their life-breaths into the life-breaths, meaning they master their vital energies through pranayama. All these practitioners are true knowers of sacrifice, and through such disciplined actions, all their sins and impurities are completely destroyed.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अपरे | अन्य लोग |
+| नियत-आहाराः | नियमित आहार वाले |
+| प्राणान् | प्राणों को |
+| प्राणेषु | प्राणों में |
+| जुह्वति | हवन करते हैं |
+| सर्वे | सभी |
+| अपि | भी |
+| एते | ये |
+| यज्ञ-विदः | यज्ञ को जानने वाले |
+| यज्ञ-क्षपित-कल्मषाः | यज्ञ द्वारा नष्ट हुए पापों वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| apare | others |
+| niyata-āhārāḥ | having regulated diet |
+| prāṇān | life-breaths |
+| prāṇeṣu | into the life-breaths |
+| juhvati | sacrifice |
+| sarve | all |
+| api | also |
+| ete | these |
+| yajña-vidaḥ | knowers of sacrifice |
+| yajña-kṣapita-kalmaṣāḥ | whose sins are destroyed by sacrifice |
+

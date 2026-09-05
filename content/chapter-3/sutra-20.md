@@ -31,3 +31,53 @@ position: 139
 
 ```
 
+
+### Transliteration
+```
+karmaṇaiva hi saṃsiddhimāsthitā janakādayaḥ
+lokasaṃgrahamevāpi saṃpaśyankartumarhasi
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण राजा जनक का ऐतिहासिक उदाहरण देते हुए बताते हैं कि सांसारिक कर्तव्यों का त्याग किए बिना भी पूर्णता प्राप्त की जा सकती है। जनक और अन्य ज्ञानी राजाओं ने विश्व के कल्याण के लिए निस्वार्थ भाव से अपने कर्तव्यों का पालन किया था। इसलिए, अर्जुन को भी सामान्य लोगों के लिए एक अच्छा आदर्श प्रस्तुत करने के लिए अपने निर्धारित कर्म करने चाहिए।
+
+### Meaning
+
+Lord Krishna gives the historical example of King Janaka to prove that perfection can be attained without renouncing worldly duties. Janaka and other enlightened kings performed their duties selflessly for the welfare of the world. Therefore, Arjuna should also perform his prescribed duties to set a good example for the common people.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्मणा | कर्म के द्वारा |
+| एव | ही |
+| हि | निश्चय ही |
+| संसिद्धिम् | सिद्धि को |
+| आस्थिताः | प्राप्त हुए |
+| जनकादयः | जनक आदि |
+| लोकसंग्रहम् | लोक-कल्याण को |
+| एव | ही |
+| अपि | भी |
+| संपश्यन् | देखते हुए |
+| कर्तुम् | करने के |
+| अर्हसि | तुम योग्य हो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karmaṇā | by action |
+| eva | only |
+| hi | certainly |
+| saṃsiddhim | perfection |
+| āsthitāḥ | attained |
+| janakādayaḥ | Janaka and others |
+| lokasaṃgraham | the welfare of the world |
+| eva | only |
+| api | also |
+| saṃpaśyan | considering |
+| kartum | to perform |
+| arhasi | you ought |
+

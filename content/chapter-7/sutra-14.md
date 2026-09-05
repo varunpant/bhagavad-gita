@@ -31,3 +31,59 @@ position: 294
 
 ```
 
+
+### Transliteration
+```
+daivī hyeṣā guṇamayī mama māyā duratyayā
+māmeva ye prapadyante māyāmetāṃ taranti te
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी माया की शक्ति और उससे पार पाने का उपाय बताते हैं। वे कहते हैं कि प्रकृति के तीन गुणों (सत्त्व, रज, तम) से बनी उनकी यह अलौकिक माया अत्यंत शक्तिशाली है और इसे अपने प्रयासों से पार करना असंभव है। केवल वे ही इस माया के बंधन से मुक्त हो सकते हैं जो पूर्ण रूप से भगवान की शरण में आ जाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the formidable nature of His material energy (Maya) and the way to overcome it. He states that this divine illusion, composed of the three modes of nature (sattva, rajas, and tamas), is extremely difficult to cross over. Only those who surrender themselves completely to Him can transcend this illusion and attain liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दैवी | अलौकिक / दिव्य |
+| हि | निश्चय ही |
+| एषा | यह |
+| गुणमयी | त्रिगुणमयी (सत्त्व, रज, तम गुणों वाली) |
+| मम | मेरी |
+| माया | माया |
+| दुरत्यया | पार करने में अत्यंत कठिन |
+| माम् | मुझको |
+| एव | ही |
+| ये | जो (मनुष्य) |
+| प्रपद्यन्ते | शरण लेते हैं |
+| मायाम् | माया को |
+| एताम् | इस |
+| तरन्ति | पार कर जाते हैं |
+| ते | वे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| daivī | divine / supernatural |
+| hi | certainly |
+| eṣā | this |
+| guṇamayī | consisting of the three modes of nature |
+| mama | My |
+| māyā | illusory energy |
+| duratyayā | difficult to overcome |
+| mām | unto Me |
+| eva | alone / only |
+| ye | who |
+| prapadyante | surrender |
+| māyām | illusion |
+| etām | this |
+| taranti | cross over |
+| te | they |
+

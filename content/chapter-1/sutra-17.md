@@ -32,3 +32,53 @@ car-warrior, Dhrishtadyumna and Virata and Satyaki, the unconered.
 
 ```
 
+
+### Transliteration
+```
+kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ
+dhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में संजय पाण्डव सेना के अन्य प्रमुख और शक्तिशाली योद्धाओं के नामों का वर्णन कर रहे हैं। वे धृतराष्ट्र को बताते हैं कि पाण्डवों के पक्ष में काशीराज जैसे महान धनुर्धर और शिखण्डी जैसे महारथी उपस्थित हैं। इसके साथ ही धृष्टद्युम्न, राजा विराट और कभी न हारने वाले सात्यकि भी युद्ध के लिए तैयार हैं, जो पाण्डव सेना की विशाल शक्ति को दर्शाते हैं।
+
+### Meaning
+
+In this verse, Sanjaya continues to list the prominent and powerful warriors in the Pandava army to King Dhritarashtra. He mentions the great archer King of Kashi and the mighty warrior Shikhandi. Furthermore, he highlights the presence of Dhrishtadyumna, King Virata, and the undefeated Satyaki, emphasizing the formidable strength of the Pandava forces.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| काश्यः | काशीराज |
+| च | और |
+| परमेष्वासः | महान धनुर्धर |
+| शिखण्डी | शिखण्डी |
+| च | तथा |
+| महारथः | महारथी |
+| धृष्टद्युम्नः | धृष्टद्युम्न |
+| विराटः | विराट |
+| च | और |
+| सात्यकिः | सात्यकि |
+| च | तथा |
+| अपराजितः | अजेय |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kāśyaḥ | the King of Kashi |
+| ca | and |
+| parameṣvāsaḥ | the great archer |
+| śikhaṇḍī | Shikhandi |
+| ca | and |
+| mahārathaḥ | the great warrior |
+| dhṛṣṭadyumnaḥ | Dhrishtadyumna |
+| virāṭaḥ | Virata |
+| ca | and |
+| sātyakiḥ | Satyaki |
+| ca | and |
+| aparājitaḥ | invincible |
+

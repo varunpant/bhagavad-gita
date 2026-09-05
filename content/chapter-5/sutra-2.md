@@ -31,3 +31,54 @@ position: 206
 
 ```
 
+
+### Transliteration
+```
+śrī bhagavānuvāca
+sannyāsaḥ karmayogaśca niḥśreyasakarāvubhau
+tayostu karmasannyāsātkarmayogo viśiṣyate
+
+```
+
+### भावार्थ
+
+अर्जुन के मन में संशय था कि कर्मों का त्याग बेहतर है या निष्काम भाव से कर्म करना। इसके उत्तर में भगवान कृष्ण स्पष्ट करते हैं कि यद्यपि दोनों ही मार्ग मोक्ष की ओर ले जाते हैं, परन्तु कर्मयोग अधिक व्यावहारिक और श्रेष्ठ है। कर्मों का स्वरूप से त्याग करने की अपेक्षा, फल की इच्छा का त्याग करते हुए कर्म करना मनुष्य के लिए अधिक सुगम और सुरक्षित है।
+
+### Meaning
+
+Arjuna was confused whether renouncing actions entirely or performing them without attachment was the better path. In response, Lord Krishna clarifies that while both paths lead to ultimate liberation, Karma Yoga (selfless action) is superior. It is easier and safer for a person to perform duties without attachment to the results than to artificially renounce all actions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री भगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| संन्यासः | कर्मों का त्याग |
+| कर्मयोगः | कर्मयोग |
+| च | और |
+| निःश्रेयसकरौ | परम कल्याण करने वाले |
+| उभौ | दोनों |
+| तयोः | उन दोनों में से |
+| तु | परन्तु |
+| कर्मसंन्यासात् | कर्मसंन्यास की अपेक्षा |
+| कर्मयोगः | कर्मयोग |
+| विशिष्यते | श्रेष्ठ है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī bhagavān | the Supreme Lord |
+| uvāca | said |
+| sannyāsaḥ | renunciation of action |
+| karmayogaḥ | the yoga of action |
+| ca | and |
+| niḥśreyasakarau | leading to the highest good |
+| ubhau | both |
+| tayoḥ | of the two |
+| tu | but |
+| karmasannyāsāt | than the renunciation of action |
+| karmayogaḥ | the yoga of action |
+| viśiṣyate | is superior |
+

@@ -31,3 +31,47 @@ position: 497
 
 ```
 
+
+### Transliteration
+```
+amānitvam adambhitvam ahiṃsā kṣāntir ārjavam
+ācāryopāsanaṃ śaucaṃ sthairyam ātmavinigrahaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण ज्ञान के लक्षणों का वर्णन आरम्भ करते हैं। ये गुण केवल नैतिक मूल्य नहीं हैं, बल्कि आत्म-साक्षात्कार के मार्ग पर चलने के लिए आवश्यक साधन हैं। इन गुणों को विकसित करने से मनुष्य का अन्तःकरण शुद्ध होता है और वह परम सत्य को जानने के योग्य बनता है।
+
+### Meaning
+
+In this verse, Lord Krishna begins describing the qualities that constitute true knowledge. These attributes are not merely moral virtues but essential practices that purify the mind and intellect, making one fit for self-realization. Cultivating these qualities helps a seeker rise above material attachments and progress spiritually.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अमानित्वम् | मान-प्रतिष्ठा की इच्छा का न होना (विनम्रता) |
+| अदम्भित्वम् | दम्भ या पाखंड का न होना |
+| अहिंसा | मन, वाणी और शरीर से किसी को कष्ट न देना |
+| क्षान्तिः | सहनशीलता या क्षमाभाव |
+| आर्जवम् | सरलता या मन-वाणी-कर्म की एकरूपता |
+| आचार्य-उपासनम् | गुरु की सेवा और आदर करना |
+| शौचम् | बाहरी और भीतरी पवित्रता |
+| स्थैर्यम् | अपने लक्ष्य में स्थिरता या दृढ़ता |
+| आत्म-विनिग्रहः | मन और इन्द्रियों का पूर्ण संयम |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| amānitvam | humility (absence of pride) |
+| adambhitvam | pridelessness (absence of hypocrisy) |
+| ahiṃsā | non-violence |
+| kṣāntiḥ | tolerance (forbearance) |
+| ārjavam | simplicity (straightforwardness) |
+| ācārya-upāsanam | service to the spiritual master |
+| śaucam | cleanliness (internal and external) |
+| sthairyam | steadfastness (constancy) |
+| ātma-vinigrahaḥ | self-control (restraint of the mind and senses) |
+

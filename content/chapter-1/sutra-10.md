@@ -32,3 +32,55 @@ whereas that army of theirs marshelled by Bhima is sufficient.
 
 ```
 
+
+### Transliteration
+```
+aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam
+paryāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam
+
+```
+
+### भावार्थ
+
+इस श्लोक में दुर्योधन अपनी और पाण्डवों की सेना की तुलना कर रहा है। वह द्रोणाचार्य से कहता है कि भीष्म पितामह के नेतृत्व में कौरव सेना अजेय और असीमित है। इसके विपरीत, भीम के नेतृत्व वाली पाण्डव सेना सीमित है और उसे आसानी से हराया जा सकता है। यह दुर्योधन के अहंकार और अपनी सैन्य शक्ति पर उसके अति-आत्मविश्वास को दर्शाता है।
+
+### Meaning
+
+In this verse, Duryodhana compares the military strength of the Kauravas and the Pandavas. He points out to Drona that their own army, protected by the invincible Bhishma, is immeasurable and unconquerable. In contrast, the Pandava army, protected by Bhima, is limited and can be easily defeated. This reflects Duryodhana's arrogance and overconfidence in his military superiority.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अपर्याप्तम् | अपार / असीमित |
+| तत् | वह |
+| अस्माकम् | हमारी |
+| बलम् | सेना |
+| भीष्म | भीष्म द्वारा |
+| अभिरक्षितम् | भली-भाँति रक्षित |
+| पर्याप्तम् | सीमित |
+| तु | परन्तु |
+| इदम् | यह |
+| एतेषाम् | इनकी |
+| बलम् | सेना |
+| भीम | भीम द्वारा |
+| अभिरक्षितम् | भली-भाँति रक्षित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aparyāptam | immeasurable / unlimited |
+| tat | that |
+| asmākam | our |
+| balam | army |
+| bhīṣma | by Bhishma |
+| abhirakṣitam | perfectly protected |
+| paryāptam | limited |
+| tu | but |
+| idam | this |
+| eteṣām | their |
+| balam | army |
+| bhīma | by Bhima |
+| abhirakṣitam | perfectly protected |
+

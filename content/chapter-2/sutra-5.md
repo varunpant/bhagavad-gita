@@ -31,3 +31,67 @@ position: 52
 
 ```
 
+
+### Transliteration
+```
+gurūnahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣyamapīha loke
+hatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogān rudhirapradigdhān
+
+```
+
+### भावार्थ
+
+अर्जुन अपने गहरे नैतिक संकट और युद्ध के प्रति अपनी अरुचि को व्यक्त करते हैं। उनका मानना है कि भीष्म और द्रोण जैसे पूजनीय गुरुओं की हत्या करने से बेहतर है कि भिक्षा मांगकर जीवन यापन किया जाए। वे तर्क देते हैं कि उनके रक्तपात से प्राप्त कोई भी सांसारिक विजय या धन कलंकित होगा और उससे उन्हें कोई वास्तविक सुख नहीं मिलेगा।
+
+### Meaning
+
+Arjuna expresses his deep moral dilemma and aversion to the war. He feels that living as a beggar is far superior to slaughtering his revered teachers like Bhishma and Drona. He argues that any worldly victory or wealth gained through their bloodshed would be tainted and bring him no real joy.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| गुरून् | गुरुजनों को |
+| अहत्वा | न मारकर |
+| हि | निश्चय ही |
+| महानुभावान् | महानुभावों को |
+| श्रेयः | अधिक श्रेष्ठ है |
+| भोक्तुम् | खाना |
+| भैक्ष्यम् | भिक्षा का अन्न |
+| अपि | भी |
+| इह | इस |
+| लोके | लोक में |
+| हत्वा | मारकर |
+| अर्थकामान् | अर्थ और काम के इच्छुक |
+| तु | परन्तु |
+| गुरून् | गुरुजनों को |
+| इह | यहाँ |
+| एव | ही |
+| भुञ्जीय | मैं भोगूंगा |
+| भोगान् | भोगों को |
+| रुधिरप्रदिग्धान् | खून से सने हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| gurūn | the gurus |
+| ahatvā | not killing |
+| hi | certainly |
+| mahānubhāvān | great-souled ones |
+| śreyaḥ | better |
+| bhoktum | to eat |
+| bhaikṣyam | alms |
+| api | even |
+| iha | in this |
+| loke | world |
+| hatvā | having killed |
+| arthakāmān | desirous of wealth |
+| tu | but |
+| gurūn | the gurus |
+| iha | here |
+| eva | indeed |
+| bhuñjīya | I would enjoy |
+| bhogān | enjoyments |
+| rudhirapradigdhān | tainted with blood |
+

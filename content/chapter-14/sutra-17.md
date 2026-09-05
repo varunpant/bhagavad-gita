@@ -31,3 +31,55 @@ position: 541
 
 ```
 
+
+### Transliteration
+```
+sattvāt sañjāyate jñānaṃ rajaso lobha eva ca
+pramādamohau tamaso bhavato 'jñānameva ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तीनों गुणों के प्रभावों का वर्णन कर रहे हैं। सत्त्वगुण बुद्धि को निर्मल कर ज्ञान का प्रकाश फैलाता है। रजोगुण मनुष्य में सांसारिक वस्तुओं के प्रति तृष्णा और लोभ उत्पन्न करता है। तमोगुण के प्रभाव से मनुष्य में आलस्य, कर्तव्यहीनता (प्रमाद), मोह और अज्ञान का उदय होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the psychological and intellectual outcomes of the three gunas. Sattva purifies the mind and leads to the dawn of wisdom and knowledge. Rajas drives the mind toward desire, resulting in greed, while tamas covers the intellect, leading to negligence, delusion, and ignorance.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सत्त्वात् | सत्त्वगुण से |
+| सञ्जायते | उत्पन्न होता है |
+| ज्ञानम् | ज्ञान |
+| रजसः | रजोगुण से |
+| लोभः | लोभ |
+| एव | ही |
+| च | और |
+| प्रमाद-मोहौ | प्रमाद (कर्तव्यहीनता) और मोह |
+| तमसः | तमोगुण से |
+| भवतः | उत्पन्न होते हैं |
+| अज्ञानम् | अज्ञान |
+| एव | भी |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sattvāt | from sattva (goodness) |
+| sañjāyate | arises |
+| jñānam | knowledge |
+| rajasaḥ | from rajas (passion) |
+| lobhaḥ | greed |
+| eva | indeed |
+| ca | and |
+| pramāda-mohau | negligence and delusion |
+| tamasaḥ | from tamas (ignorance) |
+| bhavataḥ | arise |
+| ajñānam | ignorance |
+| eva | also |
+| ca | and |
+

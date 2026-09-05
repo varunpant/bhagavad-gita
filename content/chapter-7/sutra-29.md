@@ -31,3 +31,61 @@ position: 309
 
 ```
 
+
+### Transliteration
+```
+jarāmaraṇamokṣāya māmāśritya yatanti ye
+te brahma tadviduḥ kṛtsnamadhyātmaṃ karma cākhilam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण बताते हैं कि जो साधक केवल परमेश्वर के शरणागत होकर संसार के चक्र (जरा और मरण) से मुक्ति पाने का प्रयास करते हैं, वे वास्तविक ज्ञान प्राप्त करते हैं। वे न केवल निराकार ब्रह्म को जानते हैं, बल्कि जीवात्मा के वास्तविक स्वरूप (अध्यात्म) और सृष्टि के संपूर्ण कर्म-रहस्य को भी समझ जाते हैं। यह उनके समग्र ज्ञान की पूर्णता को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that those spiritual seekers who take refuge in Him and strive for liberation from the cycle of old age and death attain complete knowledge. They come to know the supreme Brahman, the nature of the individual self (adhyatma), and the entire principle of action (karma). This marks the beginning of the integration of knowledge that is fully revealed in the next chapter.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| जरा | बुढ़ापा |
+| मरण | और मृत्यु से |
+| मोक्षाय | मुक्ति के लिए |
+| माम् | मुझ पर |
+| आश्रित्य | आश्रित होकर (शरण लेकर) |
+| यतन्ति | प्रयत्न करते हैं |
+| ये | जो |
+| ते | वे |
+| ब्रह्म | ब्रह्म को |
+| तत् | उस |
+| विदुः | जानते हैं |
+| कृत्स्नम् | सम्पूर्ण |
+| अध्यात्मम् | अध्यात्म को |
+| कर्म | कर्म को |
+| च | और |
+| अखिलम् | सम्पूर्ण |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jarā | from old age |
+| maraṇa | and death |
+| mokṣāya | for liberation |
+| mām | in Me |
+| āśritya | taking refuge |
+| yatanti | strive |
+| ye | those who |
+| te | they |
+| brahma | Brahman |
+| tat | that |
+| viduḥ | know |
+| kṛtsnam | entire |
+| adhyātmam | the self (adhyatma) |
+| karma | action |
+| ca | and |
+| akhilam | whole |
+

@@ -31,3 +31,47 @@ position: 92
 
 ```
 
+
+### Transliteration
+```
+traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna
+nirdvandvo nityasattvastho niryogakṣema ātmavān
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को वेदों के सकाम कर्मकाण्ड से ऊपर उठने का उपदेश देते हैं, जो मुख्य रूप से प्रकृति के तीन गुणों (सत्त्व, रज और तम) और भौतिक फलों से संबंधित हैं। वे अर्जुन को सुख-दुःख जैसे द्वन्द्वों से मुक्त होने और अप्राप्त को पाने (योग) तथा प्राप्त की रक्षा (क्षेम) करने की चिंता छोड़ने के लिए कहते हैं। शुद्ध आत्मस्वरूप में स्थित होकर ही मनुष्य वास्तविक शांति और मुक्ति प्राप्त कर सकता है।
+
+### Meaning
+
+Lord Krishna advises Arjuna to rise above the ritualistic portions of the Vedas, which primarily deal with the three modes of material nature (Sattva, Rajas, and Tamas) and material rewards. He encourages him to transcend worldly dualities like joy and sorrow, and to abandon the anxiety of acquiring and protecting possessions (yoga and kshema). By becoming firmly established in the pure spiritual self, one attains true liberation and peace.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| त्रैगुण्यविषयाः | तीनों गुणों के विषय वाले |
+| वेदाः | वेद |
+| निस्त्रैगुण्यः | तीनों गुणों से रहित |
+| भव | हो जाओ |
+| अर्जुन | हे अर्जुन |
+| निर्द्वन्द्वः | द्वन्द्वों से मुक्त |
+| नित्यसत्त्वस्थः | नित्य सत्त्वगुण में स्थित |
+| निर्योगक्षेमः | योग और क्षेम की चिंता से रहित |
+| आत्मवान् | आत्मपरायण |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| traiguṇyaviṣayāḥ | dealing with the three modes of material nature |
+| vedāḥ | the Vedas |
+| nistraiguṇyaḥ | free from the three modes |
+| bhava | be |
+| arjuna | O Arjuna |
+| nirdvandvaḥ | free from dualities |
+| nityasattvasthaḥ | eternally fixed in purity |
+| niryogakṣemaḥ | free from the desire for gain and preservation |
+| ātmavān | established in the Self |
+

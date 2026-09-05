@@ -31,3 +31,55 @@ position: 568
 
 ```
 
+
+### Transliteration
+```
+uttamaḥ puruṣastvanyaḥ paramātmetyudāhṛtaḥ
+yo lokatrayamāviśya bibhartyavyaya īśvaraḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण क्षर (नाशवान) और अक्षर (अविनाशी) जीवात्मा से परे 'उत्तम पुरुष' अर्थात् पुरुषोत्तम का वर्णन कर रहे हैं। उन्हें ही परमात्मा कहा गया है जो संपूर्ण सृष्टि का नियंता है। वह अविनाशी ईश्वर तीनों लोकों में व्याप्त होकर समस्त चराचर जगत का भरण-पोषण करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the 'Supreme Person' (Purushottama), who is distinct from and superior to both the perishable (Kshara) and the imperishable (Akshara) entities. He is designated as the Paramatman (Supreme Soul). As the immutable Lord, He pervades the three worlds and sustains all of creation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| उत्तमः | उत्तम |
+| पुरुषः | पुरुष |
+| तु | तो |
+| अन्यः | अन्य (भिन्न) |
+| परमात्मा | परमात्मा |
+| इति | इस प्रकार |
+| उदाहृतः | कहा गया है |
+| यः | जो |
+| लोक-त्रयम् | तीनों लोकों में |
+| आविश्य | प्रवेश करके |
+| बिभर्ति | धारण-पोषण करता है |
+| अव्ययः | अविनाशी |
+| ईश्वरः | ईश्वर (स्वामी) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| uttamaḥ | the supreme |
+| puruṣaḥ | person |
+| tu | but |
+| anyaḥ | another |
+| paramātmā | the Supreme Self |
+| iti | thus |
+| udāhṛtaḥ | is called |
+| yaḥ | who |
+| loka-trayam | the three worlds |
+| āviśya | entering |
+| bibharti | sustains |
+| avyayaḥ | imperishable |
+| īśvaraḥ | the Lord |
+

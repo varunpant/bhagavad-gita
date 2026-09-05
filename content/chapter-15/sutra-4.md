@@ -31,3 +31,69 @@ position: 555
 
 ```
 
+
+### Transliteration
+```
+tataḥ padaṃ tatparimārgitavyaṃ
+yasmingatā na nivartanti bhūyaḥ
+tameva cādyaṃ puruṣaṃ prapadye
+yataḥ pravṛttiḥ prasṛtā purāṇī
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि संसार रूपी अश्वत्थ वृक्ष को वैराग्य रूपी शस्त्र से काटने के बाद साधक को उस परम पद (परमात्मा) की खोज करनी चाहिए, जहाँ पहुँचने पर पुनर्जन्म नहीं होता। साधक को उस आदि पुरुष की शरण लेनी चाहिए जिससे इस सृष्टि की अनादि परंपरा का विस्तार हुआ है। यह शरणागति ही परम पद की प्राप्ति का एकमात्र साधन है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that after cutting down the tree of the material world with the weapon of detachment, one must seek that supreme goal from which there is no return to this mortal world. The seeker must take refuge in the Primeval Supreme Being, who is the source of this eternal cosmic manifestation. This surrender is the key to achieving ultimate liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ततः | उसके पश्चात |
+| पदम् | परम पद को |
+| तत् | उस |
+| परिमार्गितव्यम् | खोज करना चाहिए |
+| यस्मिन् | जिसमें |
+| गताः | गए हुए |
+| ना | नहीं |
+| निवर्तन्ति | लौटते हैं |
+| भूयः | फिर से |
+| तम् | उस |
+| एव | ही |
+| च | और |
+| आद्यम् | आदि |
+| पुरुषम् | परम पुरुष की |
+| प्रपद्ये | मैं शरण लेता हूँ |
+| यतः | जिससे |
+| प्रवृत्तिः | सृष्टि की प्रवृत्ति |
+| प्रसृता | विस्तृत हुई है |
+| पुराणी | पुरातन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tataḥ | thereafter |
+| padam | the state / goal |
+| tat | that |
+| parimārgitavyam | must be sought after |
+| yasmin | where |
+| gatāḥ | having gone |
+| na | not |
+| nivartanti | they return |
+| bhūyaḥ | again |
+| tam | in Him |
+| eva | alone |
+| ca | and |
+| ādyam | the primeval |
+| puruṣam | Person |
+| prapadye | I take refuge |
+| yataḥ | from whom |
+| pravṛttiḥ | the stream of activity |
+| prasṛtā | flowed forth |
+| purāṇī | ancient |
+

@@ -31,3 +31,57 @@ position: 119
 
 ```
 
+
+### Transliteration
+```
+eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati
+sthitvā'syāmantakāle'pi brahmanirvāṇamṛcchati
+
+```
+
+### भावार्थ
+
+यह श्लोक भगवद्गीता के दूसरे अध्याय का समापन करता है। इसमें भगवान कृष्ण एक आत्म-साक्षात्कारी और स्थितप्रज्ञ व्यक्ति की अंतिम अवस्था का वर्णन करते हैं। वे स्पष्ट करते हैं कि जो व्यक्ति इस दिव्य चेतना को प्राप्त कर लेता है, वह फिर कभी सांसारिक मोह में नहीं फँसता। यदि जीवन के अंतिम क्षणों में भी कोई इस ब्राह्मी स्थिति में स्थित हो जाए, तो वह जन्म-मृत्यु के चक्र से मुक्त होकर परब्रह्म को प्राप्त कर लेता है।
+
+### Meaning
+
+This verse concludes the second chapter of the Bhagavad Gita by describing the ultimate state of a self-realized soul. Lord Krishna explains that once a person attains this divine consciousness, they are never again illusioned by material desires. Even if one reaches this state of spiritual realization at the very moment of death, they are freed from the cycle of rebirth and attain ultimate liberation in the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एषा | यह |
+| ब्राह्मी | ब्रह्म से संबंधित (दिव्य) |
+| स्थितिः | स्थिति |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| न | नहीं |
+| एनाम् | इसको |
+| प्राप्य | प्राप्त करके |
+| विमुह्यति | मोहित होता है |
+| स्थित्वा | स्थित होकर |
+| अस्याम् | इसमें |
+| अन्तकाले | मृत्यु के समय |
+| अपि | भी |
+| ब्रह्मनिर्वाणम् | ब्रह्म में निर्वाण (मोक्ष) |
+| ऋच्छति | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| eṣā | this |
+| brāhmī | spiritual (pertaining to Brahman) |
+| sthitiḥ | state |
+| pārtha | O son of Pritha (Arjuna) |
+| na | not |
+| enām | this |
+| prāpya | having attained |
+| vimuhyati | is bewildered |
+| sthitvā | being situated |
+| asyām | in this |
+| antakāle | at the time of death |
+| api | even |
+| brahmanirvāṇam | liberation in Brahman |
+| ṛcchati | attains |
+

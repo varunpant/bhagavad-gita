@@ -31,3 +31,55 @@ position: 408
 
 ```
 
+
+### Transliteration
+```
+dyūtaṃ chalayatāmasmi tejastejasvināmaham
+jayo'smi vyavasāyo'smi sattvaṃ sattvavatāmaham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि छल करने वालों में वे जुआ (द्यूत क्रीड़ा) हैं, जो कि छल का सबसे बड़ा रूप है। वे तेजस्वी पुरुषों का तेज हैं, विजेताओं की विजय हैं, उद्योगी पुरुषों का निश्चय हैं और सात्विक पुरुषों का सत्त्व गुण हैं। इसका अर्थ यह है कि संसार में जो कुछ भी उत्कृष्ट, बलशाली या प्रभावकारी है, वह सब ईश्वर की ही शक्ति का अंश है।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine manifestations, stating that among deceitful practices, He is gambling, which represents the ultimate form of deception. He is the splendor of the splendid, the victory of the victorious, the resolve of the industrious, and the goodness of the virtuous. This emphasizes that all extraordinary qualities, strengths, and efforts in the universe originate from His divine energy.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| द्यूतम् | जुआ |
+| छलयताम् | छल करने वालों में |
+| अस्मि | हूँ |
+| तेजः | तेज |
+| तेजस्विनाम् | तेजस्वी पुरुषों का |
+| अहम् | मैं |
+| जयः | विजय |
+| अस्मि | हूँ |
+| व्यवसायः | निश्चय (या प्रयत्न) |
+| अस्मि | हूँ |
+| सत्त्वम् | सत्त्व गुण (या बल) |
+| सत्त्ववताम् | सात्विक पुरुषों का |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dyūtam | gambling |
+| chalayatām | of the deceitful |
+| asmi | I am |
+| tejaḥ | the splendor |
+| tejasvinām | of the splendid |
+| aham | I |
+| jayaḥ | victory |
+| asmi | I am |
+| vyavasāyaḥ | resolve (or effort) |
+| asmi | I am |
+| sattvam | goodness (or strength) |
+| sattvavatām | of the virtuous |
+| aham | I |
+

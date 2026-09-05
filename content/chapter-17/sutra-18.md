@@ -31,3 +31,55 @@ position: 613
 
 ```
 
+
+### Transliteration
+```
+satkāramānapūjārthaṃ tapo dambhena caiva yat
+kriyate tadiha proktaṃ rājasaṃ calamadhruvam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण राजसी तप के लक्षणों का वर्णन कर रहे हैं। जो तप केवल दूसरों से आदर, सम्मान और पूजा प्राप्त करने के लिए या केवल दिखावे के लिए किया जाता है, वह राजसी कहलाता है। ऐसा तप चंचल होता है और इसका फल अनिश्चित तथा नाशवान होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of Rajasika penance. Austerity that is performed merely to gain respect, honor, and adoration from others, or for the sake of show, is classified as Rajasika. Such penance is unstable and yields only temporary and fleeting results.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सत्कार-मान-पूजा-अर्थम् | सत्कार, मान और पूजा के उद्देश्य से |
+| तपः | तप |
+| दम्भेन | पाखंड से / दिखावे से |
+| च | और |
+| एव | ही |
+| यत् | जो |
+| क्रियते | किया जाता है |
+| तत् | वह |
+| इह | यहाँ (इस संसार में) |
+| प्रोक्तम् | कहा गया है |
+| राजसम् | राजसी |
+| चलम् | चंचल / अनिश्चित |
+| अध्रुवम् | क्षणिक / नाशवान |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| satkāra-māna-pūjā-artham | for the sake of respect, honor, and worship |
+| tapaḥ | austerity |
+| dambhena | with ostentation / pride |
+| ca | and |
+| eva | indeed |
+| yat | which |
+| kriyate | is performed |
+| tat | that |
+| iha | here (in this world) |
+| proktam | is declared |
+| rājasam | Rajasika (passionate) |
+| calam | unstable |
+| adhruvam | temporary / impermanent |
+

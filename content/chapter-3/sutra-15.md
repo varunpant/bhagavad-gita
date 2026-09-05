@@ -31,3 +31,55 @@ position: 134
 
 ```
 
+
+### Transliteration
+```
+karma brahmodbhavaṃ viddhi brahmākṣarasamudbhavam
+tasmātsarvagataṃ brahma nityaṃ yajñe pratiṣṭhitam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण यज्ञ के दिव्य चक्र की व्याख्या करते हैं। वे बताते हैं कि नियत कर्मों का विधान वेदों में है और वेद स्वयं अविनाशी परमात्मा से प्रकट हुए हैं। चूँकि परमात्मा ही इन कर्मों का मूल स्रोत है, इसलिए सर्वव्यापी परब्रह्म सदैव यज्ञ (निःस्वार्थ कर्म) में उपस्थित रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the divine cycle of sacrifice. He traces the origin of prescribed duties to the Vedas, which in turn emanate from the Imperishable Supreme Lord. Because the Supreme is the ultimate source of these duties, the all-pervading Divine is eternally present in acts of selfless sacrifice.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कर्म | कर्म को |
+| ब्रह्म | वेद से |
+| उद्भवम् | उत्पन्न |
+| विद्धि | जानो |
+| ब्रह्म | वेद को |
+| अक्षर | अविनाशी (परमात्मा) से |
+| समुद्भवम् | उत्पन्न |
+| तस्मात् | इसलिए |
+| सर्वगतम् | सर्वव्यापी |
+| ब्रह्म | ब्रह्म (परमात्मा) |
+| नित्यम् | नित्य |
+| यज्ञे | यज्ञ में |
+| प्रतिष्ठितम् | प्रतिष्ठित है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| karma | action |
+| brahma | from the Vedas |
+| udbhavam | born |
+| viddhi | know |
+| brahma | the Vedas |
+| akṣara | from the Imperishable |
+| samudbhavam | born |
+| tasmāt | therefore |
+| sarvagatam | all-pervading |
+| brahma | Brahman (the Supreme) |
+| nityam | eternally |
+| yajñe | in sacrifice |
+| pratiṣṭhitam | situated |
+

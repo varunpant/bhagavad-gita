@@ -31,3 +31,59 @@ position: 688
 
 ```
 
+
+### Transliteration
+```
+manmanā bhava madbhakto madyājī māṃ namaskuru
+māmevaiṣyasi satyaṃ te pratijāne priyo'si me
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को परम कल्याणकारी गुप्त उपदेश दे रहे हैं। वे अर्जुन को अपने मन, भक्ति और कर्मों को पूरी तरह से भगवान में अर्पित करने के लिए कहते हैं। भगवान आश्वासन देते हैं कि ऐसा करने वाला भक्त निश्चित रूप से उन्हें ही प्राप्त करता है, क्योंकि वह भगवान का अत्यंत प्रिय सखा है।
+
+### Meaning
+
+In this verse, Lord Krishna imparts the most confidential and supreme instruction to Arjuna. He asks Arjuna to absorb his mind, devotion, and actions entirely in Him. Krishna promises that such a dedicated devotee will undoubtedly attain Him, assuring this out of His deep love for Arjuna.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मन्मनाः | मुझमें मन वाला |
+| भव | हो |
+| मद्भक्तः | मेरा भक्त |
+| मद्याजी | मेरा पूजन करने वाला |
+| माम् | मुझको |
+| नमस्कुरु | नमस्कार कर |
+| माम् | मुझको |
+| एव | ही |
+| एष्यसि | प्राप्त होगा |
+| सत्यम् | सत्य |
+| ते | तुझसे |
+| प्रतिजाने | प्रतिज्ञा करता हूँ |
+| प्रियः | प्रिय |
+| असि | है |
+| मे | मेरा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| manmanāḥ | with mind fixed on Me |
+| bhava | become |
+| madbhaktaḥ | My devotee |
+| madyājī | My worshiper |
+| mām | to Me |
+| namaskuru | bow down |
+| mām | to Me |
+| eva | alone |
+| eṣyasi | you shall attain |
+| satyam | truthfully |
+| te | to you |
+| pratijāne | I promise |
+| priyaḥ | dear |
+| asi | you are |
+| me | to Me |
+

@@ -31,3 +31,59 @@ position: 127
 
 ```
 
+
+### Transliteration
+```
+niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ
+śarīrayātrāpi ca te na prasiddhyedakarmaṇaḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को अपने निर्धारित कर्तव्यों का पालन करने की सलाह देते हैं, क्योंकि अकर्मण्यता से कर्म करना हमेशा बेहतर होता है। वे समझाते हैं कि कर्म किए बिना कोई भी व्यक्ति अपने शरीर का भरण-पोषण भी नहीं कर सकता। इसलिए, कर्तव्यों से भागने के बजाय उन्हें निष्ठापूर्वक करना चाहिए।
+
+### Meaning
+
+Lord Krishna advises Arjuna to perform his prescribed duties rather than abandoning them. He explains that engaging in action is inherently superior to inaction. Furthermore, without performing any work, one cannot even maintain their own physical body, making complete renunciation of action impractical.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| नियतम् | नियत (शास्त्रविहित) |
+| कुरु | करो |
+| कर्म | कर्म |
+| त्वम् | तुम |
+| कर्म | कर्म करना |
+| ज्यायः | श्रेष्ठ है |
+| हि | क्योंकि |
+| अकर्मणः | कर्म न करने की अपेक्षा |
+| शरीरयात्रा | शरीर का निर्वाह |
+| अपि | भी |
+| च | और |
+| ते | तुम्हारा |
+| न | नहीं |
+| प्रसिद्ध्येत् | सिद्ध होगा |
+| अकर्मणः | कर्म न करने से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| niyatam | prescribed |
+| kuru | perform |
+| karma | duty |
+| tvam | you |
+| karma | action |
+| jyāyaḥ | better |
+| hi | certainly |
+| akarmaṇaḥ | than inaction |
+| śarīrayātrā | maintenance of the body |
+| api | even |
+| ca | and |
+| te | your |
+| na | not |
+| prasiddhyet | would be accomplished |
+| akarmaṇaḥ | from inaction |
+

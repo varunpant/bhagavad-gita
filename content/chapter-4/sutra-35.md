@@ -31,3 +31,59 @@ position: 197
 
 ```
 
+
+### Transliteration
+```
+yaj jñātvā na punar moham evaṃ yāsyasi pāṇḍava
+yena bhūtāny aśeṣeṇa drakṣyasy ātmany atho mayi
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को सच्चे ज्ञान का फल बताते हैं। वह कहते हैं कि तत्त्वज्ञान प्राप्त कर लेने पर मनुष्य फिर कभी अज्ञान या मोह के वशीभूत नहीं होता। इस ज्ञान के उदय होने पर व्यक्ति सभी प्राणियों को अपनी आत्मा में और अंततः परमात्मा में स्थित देखता है, जिससे सर्वत्र एकता का बोध होता है।
+
+### Meaning
+
+Lord Krishna explains the ultimate result of acquiring true spiritual knowledge. He assures Arjuna that once this wisdom is attained, one never falls back into illusion or ignorance. Through this enlightenment, a person perceives all living beings within their own Self, and ultimately within the Supreme Lord, realizing the fundamental unity of all existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जिसे |
+| ज्ञात्वा | जानकर |
+| न | नहीं |
+| पुनः | फिर |
+| मोहम् | मोह को |
+| एवम् | इस प्रकार |
+| यास्यसि | प्राप्त होगे |
+| पाण्डव | हे पाण्डव |
+| येन | जिसके द्वारा |
+| भूतानि | प्राणियों को |
+| अशेषेण | सम्पूर्ण रूप से |
+| द्रक्ष्यसि | देखोगे |
+| आत्मनि | अपने आप में |
+| अथो | और फिर |
+| मयि | मुझमें |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | which |
+| jñātvā | having known |
+| na | not |
+| punaḥ | again |
+| moham | illusion |
+| evam | thus |
+| yāsyasi | you will fall into |
+| pāṇḍava | O son of Pandu |
+| yena | by which |
+| bhūtāni | living beings |
+| aśeṣeṇa | completely |
+| drakṣyasi | you will see |
+| ātmani | in the Self |
+| atho | and then |
+| mayi | in Me |
+

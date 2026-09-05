@@ -31,3 +31,49 @@ position: 667
 
 ```
 
+
+### Transliteration
+```
+kṛṣigaurakṣyavāṇijyaṃ vaiśyakarma svabhāvajam
+paricaryātmakakaṃ karma śūdrasyāpi svabhāvajam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण वैश्य और शूद्र वर्णों के स्वाभाविक कर्तव्यों का वर्णन करते हैं। वैश्यों का स्वाभाविक कर्म कृषि, गोपालन और व्यापार के माध्यम से समाज की आर्थिक व्यवस्था को सुदृढ़ करना है। शूद्रों का स्वाभाविक कर्म समाज के अन्य सभी वर्गों की सेवा और सहायता करना है। ये सभी कर्म व्यक्ति के अपने स्वभाव और गुणों (रजस् और तमस्) के अनुसार निर्धारित होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the natural duties of the Vaishya and Shudra classes. The inherent duties of a Vaishya involve agriculture, cattle-rearing, and trade to support the economic structure of society. The natural duty of a Shudra is service-oriented work, assisting the other sections of society. These duties are determined by one's own inner nature and qualities (Rajas and Tamas).
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कृषि | खेती |
+| गोरक्ष्य | गौ-रक्षा (गोपालन) |
+| वाणिज्यम् | व्यापार |
+| वैश्यकर्म | वैश्य का कर्म |
+| स्वभावजम् | स्वभाव से उत्पन्न |
+| परिचर्यात्मकम् | सेवात्मक (परिचर्या रूप) |
+| कर्म | कर्म |
+| शूद्रस्य | शूद्र का |
+| अपि | भी |
+| स्वभावजम् | स्वभाव से उत्पन्न |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kṛṣi | agriculture |
+| gaurakṣya | cattle-rearing |
+| vāṇijyam | trade |
+| vaiśyakarma | duty of a Vaishya |
+| svabhāvajam | born of one's own nature |
+| paricaryātmakam | consisting of service |
+| karma | duty |
+| śūdrasya | of a Shudra |
+| api | also |
+| svabhāvajam | born of one's own nature |
+

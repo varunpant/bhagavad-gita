@@ -31,3 +31,55 @@ position: 150
 
 ```
 
+
+### Transliteration
+```
+ye me matam idaṃ nityam anutiṣṭhanti mānavāḥ
+śraddhāvanto 'nasūyanto mucyante te 'pi karmabhiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपने उपदेशों के पालन का फल बताते हैं। जो व्यक्ति बिना किसी ईर्ष्या या संदेह के, पूरी श्रद्धा के साथ निष्काम कर्मयोग के इस सिद्धांत का पालन करता है, वह कर्म बंधनों से मुक्त हो जाता है। यह दर्शाता है कि आध्यात्मिक प्रगति के लिए भगवान के वचनों में अटूट विश्वास और दोष-दृष्टि का अभाव अत्यंत आवश्यक है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the reward of following His teachings. A person who practices this principle of selfless action (Karma Yoga) with full faith and without finding fault is liberated from the bondage of karma. This highlights that unwavering faith and an uncritical, envy-free attitude towards the divine instructions are essential for spiritual progress.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ये | जो |
+| मे | मेरे |
+| मतम् | मत का |
+| इदम् | इस |
+| नित्यम् | सदा |
+| अनुतिष्ठन्ति | पालन करते हैं |
+| मानवाः | मनुष्य |
+| श्रद्धावन्तः | श्रद्धायुक्त होकर |
+| अनसूयन्तः | दोष-दृष्टि से रहित होकर |
+| मुच्यन्ते | मुक्त हो जाते हैं |
+| ते | वे |
+| अपि | भी |
+| कर्मभिः | कर्मों के बन्धन से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ye | those who |
+| me | my |
+| matam | teaching |
+| idam | this |
+| nityam | constantly |
+| anutiṣṭhanti | follow |
+| mānavāḥ | human beings |
+| śraddhāvantaḥ | full of faith |
+| anasūyantaḥ | without envy |
+| mucyante | are freed |
+| te | they |
+| api | also |
+| karmabhiḥ | from the bondage of actions |
+

@@ -31,3 +31,59 @@ position: 418
 
 ```
 
+
+### Transliteration
+```
+manyase yadi tac chakyaṃ mayā draṣṭum iti prabho
+yogeśvara tato me tvaṃ darśayātmānam avyayam
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण से प्रार्थना कर रहे हैं कि यदि वे उन्हें इस योग्य समझते हैं, तो वे अपना वह परम ऐश्वर्यशाली रूप प्रकट करें। अर्जुन अपनी सीमाओं को स्वीकार करते हुए भगवान की कृपा की कामना करते हैं। वे कृष्ण को 'योगेश्वर' कहकर संबोधित करते हैं, जो सभी योग शक्तियों के स्वामी हैं।
+
+### Meaning
+
+Arjuna requests Lord Krishna to reveal His cosmic form, acknowledging his own human limitations and relying entirely on the Lord's grace. By addressing Krishna as 'Yogeshvara' (the Lord of Yoga), Arjuna emphasizes that only the supreme master of all mystic powers can grant such a divine vision.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मन्यसे | आप मानते हैं |
+| यदि | यदि |
+| तत् | वह (रूप) |
+| शक्यम् | संभव है |
+| मया | मेरे द्वारा |
+| द्रष्टुम् | देखा जाना |
+| इति | इस प्रकार |
+| प्रभो | हे प्रभु |
+| योगेश्वर | हे योगेश्वर (योग के स्वामी) |
+| ततः | तो |
+| मे | मेरे लिए |
+| त्वम् | आप |
+| दर्शय | दिखाइए |
+| आत्मानम् | अपने स्वरूप को |
+| अव्ययम् | अविनाशी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| manyase | you think |
+| yadi | if |
+| tat | that |
+| śakyam | possible |
+| mayā | by me |
+| draṣṭum | to be seen |
+| iti | thus |
+| prabho | O Lord |
+| yogeśvara | O Lord of Yoga |
+| tataḥ | then |
+| me | to me |
+| tvam | You |
+| darśaya | reveal / show |
+| ātmānam | Yourself |
+| avyayam | imperishable |
+

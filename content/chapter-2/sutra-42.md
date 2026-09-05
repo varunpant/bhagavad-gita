@@ -31,3 +31,55 @@ position: 89
 
 ```
 
+
+### Transliteration
+```
+yāmimāṃ puṣpitāṃ vācaṃ pravadantyavipaścitaḥ
+vedavādaratāḥ pārtha nānyadastīti vādinaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उन अज्ञानी लोगों का वर्णन कर रहे हैं जो वेदों के केवल कर्मकांड और सकाम कर्मों के प्रति आकर्षित होते हैं। ऐसे लोग स्वर्ग प्राप्ति और भौतिक सुखों को ही जीवन का सर्वोच्च लक्ष्य मानते हैं। वे यह तर्क देते हैं कि इन भौतिक लाभों के अतिरिक्त वेदों में और कोई उच्च आध्यात्मिक सत्य नहीं है। उनकी यह वाणी केवल दिखावटी और आकर्षक होती है, जो आत्मा के वास्तविक कल्याण से दूर ले जाती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the ignorant people who are attracted only to the ritualistic and fruitive portions of the Vedas. Such individuals consider the attainment of heaven and material pleasures as the highest goal of life. They argue that there is no higher spiritual truth beyond these material gains, speaking flowery words that ultimately distract from true self-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| याम् | जिस |
+| इमाम् | इस |
+| पुष्पिताम् | पुष्पित (दिखावटी) |
+| वाचम् | वाणी को |
+| प्रवदन्ति | बोलते हैं |
+| अविपश्चितः | अज्ञानी लोग |
+| वेदवादरताः | वेदों के वाक्यों में अनुरक्त |
+| पार्थ | हे पार्थ |
+| न | नहीं |
+| अन्यत् | अन्य कुछ |
+| अस्ति | है |
+| इति | ऐसा |
+| वादिनः | कहने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yām | which |
+| imām | this |
+| puṣpitām | flowery |
+| vācam | speech |
+| pravadanti | speak |
+| avipaścitaḥ | the unwise |
+| vedavādaratāḥ | attached to the statements of the Vedas |
+| pārtha | O Partha |
+| na | not |
+| anyat | anything else |
+| asti | is |
+| iti | thus |
+| vādinaḥ | saying |
+

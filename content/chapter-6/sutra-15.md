@@ -31,3 +31,49 @@ position: 248
 
 ```
 
+
+### Transliteration
+```
+yuñjannevaṃ sadā'tmānaṃ yogī niyatamānasaḥ
+śāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ध्यान योग के अभ्यास के अंतिम परिणाम का वर्णन करते हैं। जब साधक निरंतर अपने मन को परमात्मा में लगाता है और अपनी मानसिक वृत्तियों को संयमित कर लेता है, तो उसे परम शांति की प्राप्ति होती है। यह शांति कोई साधारण मानसिक शांति नहीं है, बल्कि यह भौतिक अस्तित्व के बंधनों से मुक्ति (निर्वाण) प्रदान करने वाली और साक्षात् भगवान में स्थित रहने वाली है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the ultimate result of the practice of meditation. By constantly uniting the mind with the Divine and keeping it disciplined, the yogi attains supreme peace. This peace is not merely a temporary mental quietude, but the ultimate spiritual peace that leads to liberation (nirvana) and abides eternally in the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| युञ्जन् | लगाता हुआ (एकीकृत करता हुआ) |
+| एवम् | इस प्रकार |
+| सदा | निरंतर |
+| आत्मानम् | अपने आप को (मन को) |
+| योगी | योगी |
+| नियत-मानसः | संयमित मन वाला |
+| शान्तिम् | परम शांति को |
+| निर्वाण-परमाम् | जो मोक्ष की पराकाष्ठा है |
+| मत्-संस्थाम् | मुझमें स्थित रहने वाली |
+| अधिगच्छति | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yuñjan | uniting / engaging |
+| evam | thus |
+| sadā | constantly |
+| ātmānam | the self (mind) |
+| yogī | the yogi |
+| niyata-mānasaḥ | one of controlled mind |
+| śāntim | peace |
+| nirvāṇa-paramām | culminating in liberation (nirvana) |
+| mat-saṃsthām | abiding in Me |
+| adhigacchati | attains |
+

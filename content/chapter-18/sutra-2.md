@@ -31,3 +31,54 @@ position: 625
 
 ```
 
+
+### Transliteration
+```
+śrī-bhagavān uvāca
+kāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ
+sarva-karma-phala-tyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन के संन्यास और त्याग के विषय में पूछे गए प्रश्न का उत्तर दे रहे हैं। वे स्पष्ट करते हैं कि कामनाओं से प्रेरित कर्मों को पूरी तरह से छोड़ देना संन्यास कहलाता है। दूसरी ओर, अपने सभी नियत कर्मों को करते हुए उनके फलों की इच्छा का त्याग करना त्याग कहलाता है।
+
+### Meaning
+
+In this verse, Lord Krishna addresses Arjuna's query regarding the distinction between 'sannyasa' (renunciation) and 'tyaga' (abandonment). He explains that sages define 'sannyasa' as the giving up of actions motivated by desire. Meanwhile, 'tyaga' is defined by the wise as performing one's duties but relinquishing all attachment to their results.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रीभगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| काम्यानाम् | कामनायुक्त |
+| कर्मणाम् | कर्मों के |
+| न्यासम् | त्याग को |
+| संन्यासम् | संन्यास |
+| कवयः | विद्वान जन |
+| विदुः | जानते हैं |
+| सर्व-कर्म-फल-त्यागम् | सब कर्मों के फलों के त्याग को |
+| प्राहुः | कहते हैं |
+| त्यागम् | त्याग |
+| विचक्षणाः | बुद्धिमान लोग |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| kāmyānām | of desire-driven |
+| karmaṇām | of activities |
+| nyāsam | renunciation |
+| saṃnyāsam | the renounced order of life (sannyasa) |
+| kavayaḥ | the sages |
+| viduḥ | understand |
+| sarva-karma-phala-tyāgam | the giving up of the fruits of all activities |
+| prāhuḥ | call |
+| tyāgam | renunciation (tyaga) |
+| vicakṣaṇāḥ | the experienced/wise |
+

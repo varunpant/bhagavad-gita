@@ -31,3 +31,59 @@ position: 569
 
 ```
 
+
+### Transliteration
+```
+yasmāt kṣaram atīto 'ham akṣarād api cottamaḥ
+ato 'smi loke vede ca prathitaḥ puruṣottamaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपने 'पुरुषोत्तम' नाम की व्याख्या कर रहे हैं। वे बताते हैं कि वे नाशवान भौतिक जगत् (क्षर) से परे हैं और अविनाशी जीवात्मा (अक्षर) से भी श्रेष्ठ हैं। इसी कारण उन्हें वेदों और लोक-साहित्य में पुरुषोत्तम कहा गया है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the significance of His name 'Purushottama'. He declares that He transcends the perishable material world (Kshara) and is superior even to the imperishable soul (Akshara). Consequently, He is celebrated in both worldly literature and the sacred Vedas as the Supreme Divine Person.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यस्मात् | क्योंकि |
+| क्षरम् | क्षर (नाशवान्) को |
+| अतीतः | अतीत (परे) |
+| अहम् | मैं |
+| अक्षरात् | अक्षर (अविनाशी) से |
+| अपि | भी |
+| च | और |
+| उत्तमः | उत्तम (श्रेष्ठ) |
+| अतः | इसलिए |
+| अस्मि | हूँ |
+| लोके | लोक में |
+| वेदे | वेद में |
+| च | और |
+| प्रथितः | प्रसिद्ध |
+| पुरुषोत्तमः | पुरुषोत्तम (परम पुरुष) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yasmāt | because |
+| kṣaram | the perishable |
+| atītaḥ | transcended |
+| aham | I |
+| akṣarāt | than the imperishable |
+| api | even |
+| ca | and |
+| uttamaḥ | superior |
+| ataḥ | therefore |
+| asmi | I am |
+| loke | in the world |
+| vede | in the Veda |
+| ca | and |
+| prathitaḥ | celebrated |
+| puruṣottamaḥ | as the Supreme Person |
+

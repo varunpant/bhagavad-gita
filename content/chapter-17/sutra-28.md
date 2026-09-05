@@ -31,3 +31,65 @@ position: 623
 
 ```
 
+
+### Transliteration
+```
+aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat
+asad ity ucyate pārtha na ca tat pretya no iha
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण श्रद्धा के महत्व पर बल देते हैं। बिना श्रद्धा के किए गए सभी धार्मिक कृत्य जैसे यज्ञ, दान और तप व्यर्थ हो जाते हैं। उन्हें 'असत्' कहा जाता है क्योंकि वे न तो इस जीवन में कोई वास्तविक शांति या आध्यात्मिक उन्नति प्रदान करते हैं और न ही मृत्यु के बाद मोक्ष या उत्तम लोकों की प्राप्ति कराते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the supreme importance of faith (shraddha) in all spiritual and ritual acts. Any sacrifice, charity, or penance performed without faith is classified as 'asat' (non-existent or untruth). Such faithless actions yield no beneficial results, neither in this world nor in the next, rendering them completely futile.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अश्रद्धया | बिना श्रद्धा के |
+| हुतम् | हवन किया गया (यज्ञ) |
+| दत्तम् | दिया गया (दान) |
+| तपः | तपस्या |
+| तप्तम् | तपा गया |
+| कृतम् | किया गया |
+| च | और |
+| यत् | जो कुछ भी |
+| असत् | असत् (व्यर्थ) |
+| इति | इस प्रकार |
+| उच्यते | कहा जाता है |
+| पार्थ | हे पार्थ (अर्जुन) |
+| ना | नहीं |
+| च | और |
+| तत् | वह |
+| प्रेत्य | मरने के बाद (परलोक में) |
+| नो | न ही |
+| इह | इस लोक में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aśraddhayā | without faith |
+| hutam | offered in sacrifice |
+| dattam | given in charity |
+| tapaḥ | penance |
+| taptam | performed |
+| kṛtam | done |
+| ca | and |
+| yat | whatever |
+| asat | asat (unreal/useless) |
+| iti | thus |
+| ucyate | is called |
+| pārtha | O Partha (Arjuna) |
+| na | not |
+| ca | and |
+| tat | that |
+| pretya | after death (hereafter) |
+| no | nor |
+| iha | in this world |
+

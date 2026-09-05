@@ -31,3 +31,57 @@ position: 401
 
 ```
 
+
+### Transliteration
+```
+anantaś cāsmi nāgānāṃ varuṇo yādasām aham
+pitṝṇām aryamā cāsmi yamaḥ saṃyamatām aham
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन जारी रखते हुए कहते हैं कि वे नागों में शेषनाग (अनन्त) हैं और जल के अधिपति वरुण देव हैं। वे पितरों में उनके प्रधान अर्यमा हैं और नियमन करने वालों अथवा न्याय करने वालों में यमराज हैं। ये सभी अपने-अपने क्षेत्रों में सर्वोच्च शक्ति और नियम का प्रतिनिधित्व करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine manifestations, declaring Himself to be Ananta (Sheshanaga) among the Nagas and Varuna among the water deities. Among the departed ancestors, He is Aryama, and among the dispensers of justice and law, He is Yama, the lord of death. These entities represent the supreme authority and order within their respective realms.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनन्तः | अनन्त (शेषनाग) |
+| च | और |
+| अस्मि | हूँ |
+| नागानाम् | नागों में |
+| वरुणः | वरुण |
+| यादसाम् | जलचरों के अधिपति |
+| अहम् | मैं |
+| पितृणाम् | पितरों में |
+| अर्यमा | अर्यमा |
+| च | और |
+| अस्मि | हूँ |
+| यमः | यमराज |
+| संयमताम् | शासन करने वालों में |
+| अहम् | मैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| anantaḥ | Ananta (the celestial serpent) |
+| ca | and |
+| asmi | I am |
+| nāgānām | among the Nagas (serpents) |
+| varuṇaḥ | Varuna |
+| yādasām | among the aquatics |
+| aham | I |
+| pitṝṇām | among the ancestors |
+| aryamā | Aryama |
+| ca | and |
+| asmi | I am |
+| yamaḥ | Yama (the lord of death) |
+| saṃyamatām | among the subduers/controllers |
+| aham | I |
+

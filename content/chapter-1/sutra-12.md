@@ -32,3 +32,51 @@ in order to cheer Duryodhana, now roared like a lion, and blew his conch.
 
 ```
 
+
+### Transliteration
+```
+tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ
+siṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān
+
+```
+
+### भावार्थ
+
+दुर्योधन की घबराहट को देखकर और उसका उत्साह बढ़ाने के लिए, प्रतापी पितामह भीष्म ने एक सिंह की भांति गर्जना की। उन्होंने युद्ध के आरंभ की घोषणा करते हुए अपना शंख जोर से बजाया। उनका यह कार्य दुर्योधन के मन में हर्ष और आत्मविश्वास जगाने के लिए था।
+
+### Meaning
+
+Seeing Duryodhana's anxiety and attempting to boost his morale, the valiant grandsire Bhishma took charge. He roared like a lion and blew his conch shell loudly to signal the commencement of the battle. This act was meant to fill Duryodhana with joy and confidence before the war began.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्य | उसके (दुर्योधन के) |
+| संजनयन् | उत्पन्न करते हुए |
+| हर्षम् | हर्ष |
+| कुरुवृद्धः | कुरुवंश के वयोवृद्ध |
+| पितामहः | पितामह (भीष्म) |
+| सिंहनादम् | सिंह की गर्जना |
+| विनद्य | गरज कर |
+| उच्चैः | जोर से |
+| शङ्खम् | शंख |
+| दध्मौ | बजाया |
+| प्रतापवान् | प्रतापी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasya | his (Duryodhana's) |
+| sañjanayan | generating |
+| harṣam | joy |
+| kuruvṛddhaḥ | the oldest of the Kurus |
+| pitāmahaḥ | the grandfather (Bhishma) |
+| siṃhanādam | lion's roar |
+| vinadya | roaring |
+| uccaiḥ | loudly |
+| śaṅkham | conch shell |
+| dadhmau | blew |
+| pratāpavān | the valiant |
+

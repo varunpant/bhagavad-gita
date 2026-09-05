@@ -32,3 +32,53 @@ and is non-eternal: they have reached the highest perfection (liberation).
 
 ```
 
+
+### Transliteration
+```
+mām upetya punarjanma duḥkhālayam aśāśvatam
+nāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जो भक्त अनन्य भाव से उन्हें प्राप्त कर लेते हैं, वे इस नश्वर और दुःखों से भरे संसार में पुनः जन्म नहीं लेते। वे परम गति या मोक्ष को प्राप्त कर चुके होते हैं। भौतिक जगत को यहाँ 'दुःखालय' (दुःखों का घर) और 'अशाश्वत' (क्षणभंगुर) कहा गया है, जिससे विरक्ति का भाव जाग्रत होता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that the great souls who reach Him are never again subjected to rebirth in this material world, which is described as temporary and full of misery. Having attained the ultimate perfection, they remain eternally in the divine realm. This highlights the contrast between the transient, painful nature of material existence and the eternal bliss of union with the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| माम् | मुझको |
+| उपेत्य | प्राप्त करके |
+| पुनः | फिर से |
+| जन्म | जन्म को |
+| दुःख-आलयम् | दुःखों के घर (स्थान) |
+| अशाश्वतम् | क्षणभंगुर (अस्थायी) |
+| न | नहीं |
+| आप्नुवन्ति | प्राप्त करते हैं |
+| महात्मानः | महात्मा लोग (महान आत्माएँ) |
+| संसिद्धिम् | सिद्धि को |
+| परमाम् | परम (सर्वोच्च) |
+| गताः | प्राप्त हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mām | Me |
+| upetya | having attained |
+| punaḥ | again |
+| janma | birth |
+| duḥkha-ālayam | the place of miseries |
+| aśāśvatam | temporary |
+| na | not |
+| āpnuvanti | attain |
+| mahātmānaḥ | the great souls |
+| saṃsiddhim | perfection |
+| paramām | supreme |
+| gatāḥ | having reached |
+

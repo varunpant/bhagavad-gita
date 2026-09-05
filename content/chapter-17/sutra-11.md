@@ -31,3 +31,53 @@ position: 606
 
 ```
 
+
+### Transliteration
+```
+aphalākāṅkṣibhiryajño vidhidṛṣṭo ya ijyate
+yaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण सात्त्विक यज्ञ के लक्षणों का वर्णन कर रहे हैं। सात्त्विक यज्ञ वह है जो बिना किसी व्यक्तिगत लाभ या फल की कामना के किया जाता है। इसे केवल कर्तव्य मानकर और शास्त्रों में दी गई विधि के अनुसार मन को स्थिर करके किया जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of a sattvika (pure) sacrifice. A sattvika sacrifice is performed without any desire for personal reward or fruit. It is executed solely as a matter of duty, in accordance with scriptural injunctions, and with a focused mind.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अफल-आकाङ्क्षिभिः | फल की इच्छा न रखने वाले पुरुषों द्वारा |
+| यज्ञः | यज्ञ |
+| विधि-दृष्टः | शास्त्रविधि द्वारा निर्देशित |
+| यः | जो |
+| इज्यते | किया जाता है |
+| यष्टव्यम् | यज्ञ करना कर्तव्य है |
+| एव | ही |
+| इति | इस प्रकार |
+| मनः | मन को |
+| समाधाय | एकाग्र करके |
+| सः | वह |
+| सात्त्विकः | सात्त्विक (है) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aphala-ākāṅkṣibhiḥ | by those who desire no fruit |
+| yajñaḥ | sacrifice |
+| vidhi-dṛṣṭaḥ | enjoined by scriptural rules |
+| yaḥ | which |
+| ijyate | is performed |
+| yaṣṭavyam | to sacrifice is a duty |
+| eva | indeed |
+| iti | thus |
+| manaḥ | the mind |
+| samādhāya | fixing |
+| saḥ | that |
+| sāttvikaḥ | sattvika (pure) |
+

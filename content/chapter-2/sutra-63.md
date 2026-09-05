@@ -31,3 +31,47 @@ position: 110
 
 ```
 
+
+### Transliteration
+```
+krodhādbhavati saṃmohaḥ saṃmohātsmṛtivibhramaḥ
+smṛtibhraṃśād buddhināśo buddhināśātpraṇaśyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण पतन की क्रमिक प्रक्रिया को समझाते हैं। जब इच्छा पूरी नहीं होती तो क्रोध उत्पन्न होता है, जिससे सोचने-समझने की शक्ति खो जाती है और मोह पैदा होता है। मोह से स्मृति भ्रमित हो जाती है, जिससे सही-गलत का निर्णय करने वाली बुद्धि नष्ट हो जाती है और अंततः मनुष्य का पूर्ण पतन हो जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the sequential process of a person's downfall. Unfulfilled desires lead to anger, which clouds judgment and creates delusion. Delusion bewilders the memory, destroying the intellect's ability to discriminate between right and wrong, ultimately leading to the complete ruin of the individual.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| क्रोधात् | क्रोध से |
+| भवति | उत्पन्न होता है |
+| संमोहः | मोह |
+| संमोहात् | मोह से |
+| स्मृतिविभ्रमः | स्मृति का भ्रम |
+| स्मृतिभ्रंशात् | स्मृति के नाश से |
+| बुद्धिनाशः | बुद्धि का नाश |
+| बुद्धिनाशात् | बुद्धि के नाश से |
+| प्रणश्यति | नष्ट हो जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| krodhāt | from anger |
+| bhavati | arises |
+| saṃmohaḥ | delusion |
+| saṃmohāt | from delusion |
+| smṛtivibhramaḥ | bewilderment of memory |
+| smṛtibhraṃśāt | from loss of memory |
+| buddhināśaḥ | destruction of intelligence |
+| buddhināśāt | from destruction of intelligence |
+| praṇaśyati | one perishes |
+

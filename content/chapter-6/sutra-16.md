@@ -31,3 +31,67 @@ position: 249
 
 ```
 
+
+### Transliteration
+```
+nātyaśnatastu yogo'sti na caikāntamanaśnataḥ
+na cātisvapnaśīlasya jāgrato naiva cārjuna
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ध्यान-योग के साधक के लिए आहार और विहार में संतुलन की आवश्यकता पर बल देते हैं। अतिवादी व्यवहार जैसे अत्यधिक उपवास या अत्यधिक भोजन, और अत्यधिक निद्रा या अनिद्रा, मन और शरीर के संतुलन को बिगाड़ते हैं। योग की सफलता के लिए मध्यम मार्ग का पालन करना अनिवार्य है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the necessity of moderation in diet and lifestyle for a practitioner of yoga. Extreme behaviors, such as overeating or extreme fasting, and oversleeping or chronic sleeplessness, disrupt the balance of body and mind. Adhering to a balanced, middle path is essential for success in yoga.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| अति | अत्यधिक |
+| अश्नतः | खाने वाले का |
+| तु | तो |
+| योगः | योग |
+| अस्ति | है |
+| न | न |
+| च | और |
+| एकान्तम् | बिल्कुल |
+| अनश्नतः | न खाने वाले का |
+| न | न |
+| च | और |
+| अति | अत्यधिक |
+| स्वप्न-शीलस्य | सोने के स्वभाव वाले का |
+| जाग्रतः | जागने वाले का |
+| न | नहीं |
+| एव | ही |
+| च | और |
+| अर्जुन | हे अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| ati | too much |
+| aśnataḥ | of one who eats |
+| tu | but |
+| yogaḥ | yoga |
+| asti | is |
+| na | not |
+| ca | and |
+| ekāntam | solely / at all |
+| anaśnataḥ | of one who does not eat |
+| na | not |
+| ca | and |
+| ati | too much |
+| svapna-śīlasya | of one who is prone to sleep |
+| jāgrataḥ | of one who keeps awake |
+| na | not |
+| eva | certainly |
+| ca | and |
+| arjuna | O Arjuna |
+

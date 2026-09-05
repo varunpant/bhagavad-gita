@@ -31,3 +31,57 @@ position: 441
 
 ```
 
+
+### Transliteration
+```
+vaktrāṇi te tvaramāṇā viśanti
+daṃṣṭrākarālāni bhayānakāni
+kecidvilagnā daśanāntareṣu
+saṃdṛśyante cūrṇitairuttamāṅgaiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप के भयानक संहारक रूप का वर्णन कर रहे हैं। वे देख रहे हैं कि कौरव पक्ष के योद्धा और अन्य राजा अत्यंत वेग से भगवान के विकराल मुखों में समाते जा रहे हैं। कुछ योद्धा भगवान के दांतों के बीच फंसे हुए हैं और उनके सिर पूरी तरह से कुचले जा चुके हैं, जो काल के अनिवार्य प्रभाव को दर्शाता है।
+
+### Meaning
+
+In this verse, Arjuna describes the terrifying, destructive aspect of Lord Krishna's cosmic form. He witnesses the warriors of the opposing side rushing headlong into the Lord's gaping, fearsome mouths. Some of them are seen caught between the teeth, with their heads crushed, symbolizing the inevitable and brutal destruction of the wicked by Time.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वक्त्राणि | मुखों में |
+| ते | आपके |
+| त्वरमाणाः | अत्यंत वेग से दौड़ते हुए |
+| विशन्ति | प्रवेश कर रहे हैं |
+| दंष्ट्रा | दाढ़ों के कारण |
+| करालानि | विकराल / भयानक |
+| भयानकानि | भय उत्पन्न करने वाले |
+| केचित् | कुछ (योद्धा) |
+| विलग्नाः | फंसे हुए |
+| दशन-अन्तरेषु | दांतों के बीच में |
+| संदृश्यन्ते | दिखाई दे रहे हैं |
+| चूर्णितैः | चूर-चूर हुए |
+| उत्तम-अङ्गैः | सिरों के साथ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vaktrāṇi | mouths |
+| te | Your |
+| tvaramāṇāḥ | rushing with haste |
+| viśanti | are entering |
+| daṃṣṭrā | with tusks / teeth |
+| karālāni | terrible |
+| bhayānakāni | fearful |
+| kecit | some of them |
+| vilagnāḥ | stuck |
+| daśana-antareṣu | between the teeth |
+| saṃdṛśyante | are seen |
+| cūrṇitaiḥ | crushed to powder |
+| uttama-aṅgaiḥ | with their heads |
+

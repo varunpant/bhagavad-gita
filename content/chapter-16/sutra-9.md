@@ -31,3 +31,49 @@ position: 580
 
 ```
 
+
+### Transliteration
+```
+etāṃ dṛṣṭim avaṣṭabhya naṣṭātmāno 'lpabuddhayaḥ
+prabhavanty ugrakarmāṇaḥ kṣayāya jagato 'hitāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में आसुरी प्रवृत्ति के लोगों के विनाशकारी स्वभाव का वर्णन किया गया है। जो लोग ईश्वर और धर्म को नकारते हैं, वे अपनी संकीर्ण बुद्धि के कारण केवल विनाशकारी कार्यों में ही प्रवृत्त होते हैं। उनके कर्म समाज और सृष्टि के लिए अहितकर होते हैं और वे अंततः संसार के विनाश का कारण बनते हैं।
+
+### Meaning
+
+This verse describes the destructive nature of those with demoniac qualities. Embracing a materialistic and godless worldview, these individuals of diminished intellect engage in cruel and harmful activities. Ultimately, they act as enemies of humanity, leading to the degradation and destruction of the world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एताम् | इस |
+| दृष्टिम् | दृष्टि को |
+| अवष्टभ्य | आश्रय लेकर (स्वीकार करके) |
+| नष्ट-आत्मानः | नष्ट स्वभाव वाले (पतित आत्माएं) |
+| अल्प-बुद्धयः | मन्द बुद्धि वाले |
+| प्रभवन्ति | उत्पन्न होते हैं (प्रकट होते हैं) |
+| उग्र-कर्माणः | क्रूर कर्म करने वाले |
+| क्षयाय | विनाश के लिए |
+| जगतः | जगत के |
+| अहिताः | शत्रु (अहित करने वाले) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| etām | this |
+| dṛṣṭim | view |
+| avaṣṭabhya | holding fast to |
+| naṣṭa-ātmānaḥ | ruined souls |
+| alpa-buddhayaḥ | of small intellect |
+| prabhavanti | they rise (are born) |
+| ugra-karmāṇaḥ | performers of fierce deeds |
+| kṣayāya | for the destruction |
+| jagataḥ | of the world |
+| ahitāḥ | enemies (harmful ones) |
+

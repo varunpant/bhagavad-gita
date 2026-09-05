@@ -31,3 +31,55 @@ position: 424
 
 ```
 
+
+### Transliteration
+```
+anekavaktranayanamanekādbhutadarśanam
+anekadivyābharaṇaṃ divyānekodyatāyudham
+
+```
+
+### भावार्थ
+
+संजय धृतराष्ट्र को भगवान श्रीकृष्ण के विश्वरूप का वर्णन करके सुना रहे हैं। इस श्लोक में उस विराट रूप की अलौकिक विशेषताओं का वर्णन है, जिसमें अनगिनत मुख, नेत्र, दिव्य आभूषण और अस्त्र-शस्त्र दिखाई दे रहे थे। यह रूप साधारण चर्मचक्षुओं से परे और अत्यंत विस्मयकारी था।
+
+### Meaning
+
+Sanjaya describes the magnificent cosmic form (Vishwarupa) of Lord Krishna to Dhritarashtra. This verse highlights the infinite and divine attributes of the Lord's form, showcasing countless faces, eyes, celestial ornaments, and raised weapons. It emphasizes the awe-inspiring and omnipresent nature of the Supreme Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनेक | अनेक |
+| वक्त्र | मुखों वाले |
+| नयनम् | और नेत्रों वाले |
+| अनेक | अनेक |
+| अद्भुत | अद्भुत |
+| दर्शनम् | दृश्यों वाले |
+| अनेक | अनेक |
+| दिव्य | दिव्य |
+| आभरणम् | आभूषणों से युक्त |
+| दिव्य | दिव्य |
+| अनेक | अनेक |
+| उद्यत | उठाए हुए |
+| आयुधम् | शस्त्रों वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aneka | many |
+| vaktra | mouths |
+| nayanam | and eyes |
+| aneka | many |
+| adbhuta | wonderful |
+| darśanam | sights |
+| aneka | many |
+| divya | divine |
+| ābharaṇam | ornaments |
+| divya | divine |
+| aneka | many |
+| udyata | uplifted |
+| āyudham | weapons |
+

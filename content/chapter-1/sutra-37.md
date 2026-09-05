@@ -33,3 +33,57 @@ our relatives; for how can we be happy by killing our own people, O Madhava
 
 ```
 
+
+### Transliteration
+```
+tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān
+svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण से कहते हैं कि अपने ही सगे-संबंधियों और कौरवों का वध करना किसी भी दृष्टि से उचित नहीं है। वह तर्क देते हैं कि अपने ही परिवार के लोगों को मारकर कोई भी व्यक्ति कभी सुख या शांति प्राप्त नहीं कर सकता। यह श्लोक अर्जुन के गहरे पारिवारिक मोह और युद्ध के परिणामों के प्रति उनके भय को दर्शाता है।
+
+### Meaning
+
+Arjuna tells Lord Krishna that it is completely unjustified to kill their own relatives, the Kauravas. He argues that no one can ever achieve true happiness or peace by destroying their own family. This verse highlights Arjuna's deep attachment to his kinsmen and his moral dilemma regarding the consequences of the war.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| न | नहीं |
+| अर्हाः | योग्य (उचित) |
+| वयम् | हम |
+| हन्तुम् | मारने के लिए |
+| धार्तराष्ट्रान् | धृतराष्ट्र के पुत्रों को |
+| स्वबान्धवान् | अपने सगे-संबंधियों को |
+| स्वजनम् | अपने परिजनों को |
+| हि | निश्चय ही |
+| कथम् | कैसे |
+| हत्वा | मारकर |
+| सुखिनः | सुखी |
+| स्याम | हम हो सकते हैं |
+| माधव | हे माधव (कृष्ण) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| na | not |
+| arhāḥ | justified |
+| vayam | we |
+| hantum | to kill |
+| dhārtarāṣṭrān | the sons of Dhritarashtra |
+| svabāndhavān | our own relatives |
+| svajanam | own kinsmen |
+| hi | indeed |
+| katham | how |
+| hatvā | having killed |
+| sukhinaḥ | happy |
+| syāma | shall we become |
+| mādhava | O Madhava |
+

@@ -31,3 +31,55 @@ position: 603
 
 ```
 
+
+### Transliteration
+```
+āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ
+rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सात्त्विक भोजन के लक्षणों और उनके प्रभावों का वर्णन करते हैं। सात्त्विक आहार न केवल शारीरिक स्वास्थ्य और शक्ति को बढ़ाता है, बल्कि मानसिक पवित्रता, प्रसन्नता और संतोष भी प्रदान करता है। ऐसा भोजन प्राकृतिक रूप से स्वादिष्ट, पुष्टिकारक और हृदय को प्रिय होता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics and effects of sattvic food. Sattvic diet not only enhances physical health, longevity, and strength, but also promotes mental purity, happiness, and satisfaction. Such foods are naturally flavorful, nourishing, wholesome, and pleasing to the heart.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आयुः | आयु (जीवनकाल) |
+| सत्त्व | बुद्धि या अंतःकरण की शुद्धि |
+| बल | शक्ति |
+| आरोग्य | स्वास्थ्य |
+| सुख | सुख |
+| प्रीति | आनंद या प्रीति |
+| विवर्धनाः | बढ़ाने वाले |
+| रस्याः | रसयुक्त (स्वादिष्ट) |
+| स्निग्धाः | चिकने (स्नेहयुक्त) |
+| स्थिराः | स्थिर रहने वाले (शरीर में देर तक टिकने वाले) |
+| हृद्याः | हृदय को प्रिय लगने वाले |
+| आहाराः | भोजन |
+| सात्त्विक-प्रियाः | सात्त्विक पुरुषों को प्रिय होते हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āyuḥ | life-span |
+| sattva | purity of mind |
+| bala | strength |
+| ārogya | health |
+| sukha | happiness |
+| prīti | satisfaction/cheerfulness |
+| vivardhanāḥ | increasing |
+| rasyāḥ | juicy/savory |
+| snigdhāḥ | unctuous/fatty |
+| sthirāḥ | substantial/sustaining |
+| hṛdyāḥ | pleasing to the heart |
+| āhārāḥ | foods |
+| sāttvika-priyāḥ | dear to those in the mode of goodness |
+

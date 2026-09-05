@@ -31,3 +31,57 @@ position: 183
 
 ```
 
+
+### Transliteration
+```
+nirāśīryatacittātmā tyaktasarvaparigrahaḥ
+śārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam
+
+```
+
+### भावार्थ
+
+जो व्यक्ति सभी प्रकार की इच्छाओं से मुक्त है, जिसने अपने मन और बुद्धि को पूरी तरह से वश में कर लिया है, और सभी संपत्तियों के स्वामित्व का त्याग कर दिया है, उसे कोई पाप नहीं लगता। ऐसा कर्मयोगी केवल शरीर के निर्वाह के लिए कर्म करता है और कर्मफलों के बंधन से मुक्त रहता है। यह श्लोक निष्काम कर्मयोग की सर्वोच्च अवस्था का वर्णन करता है।
+
+### Meaning
+
+A person who is free from desires, has complete control over their mind and intellect, and has renounced all sense of ownership, incurs no karmic reactions. By performing actions solely for the maintenance of the body without any attachment, they remain untainted by sin. This verse highlights the state of a true karma yogi who acts purely out of duty.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| निराशीः | आशारहित |
+| यत | वश में किए हुए |
+| चित्त | मन |
+| आत्मा | और अंतःकरण वाला |
+| त्यक्त | त्याग दिए हैं |
+| सर्व | सभी |
+| परिग्रहः | संग्रह जिसने |
+| शारीरम् | शरीर संबंधी |
+| केवलम् | केवल |
+| कर्म | कर्म |
+| कुर्वन् | करता हुआ |
+| न | नहीं |
+| आप्नोति | प्राप्त होता है |
+| किल्बिषम् | पाप को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| nirāśīḥ | free from desires |
+| yata | controlled |
+| citta | mind |
+| ātmā | and self |
+| tyakta | having abandoned |
+| sarva | all |
+| parigrahaḥ | possessions |
+| śārīram | bodily |
+| kevalam | only |
+| karma | action |
+| kurvan | performing |
+| na | not |
+| āpnoti | incurs |
+| kilbiṣam | sin |
+

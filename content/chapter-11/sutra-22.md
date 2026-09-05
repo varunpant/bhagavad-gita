@@ -31,3 +31,77 @@ position: 436
 
 ```
 
+
+### Transliteration
+```
+rudrādityā vasavo ye ca sādhyā
+viśve'śvinau marutaścoṣmapāśca
+gandharvayakṣāsurasiddhasaṅghā
+vīkṣante tvāṃ vismitāścaiva sarve
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण के विश्वरूप में विभिन्न दिव्य योनियों और देवताओं की उपस्थिति का वर्णन कर रहे हैं। वे सभी ब्रह्मांडीय शक्तियां और सिद्ध पुरुष भगवान के इस विराट रूप को देखकर अत्यंत आश्चर्यचकित और विस्मित हैं। यह दर्शाता है कि भगवान का यह रूप केवल अर्जुन के लिए ही नहीं, बल्कि समस्त ब्रह्मांड के दिव्य प्राणियों के लिए भी विस्मयकारी है।
+
+### Meaning
+
+Arjuna describes the presence of various celestial beings and divine classes within the cosmic form of Lord Krishna. These powerful cosmic entities, including the demigods, ancestors, and perfected beings, are all looking upon the universal form with great wonder and astonishment. This emphasizes that the Lord's supreme form is an object of awe and reverence for the entire cosmos.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| रुद्र | रुद्रगण |
+| आदित्याः | आदित्यगण |
+| वसवः | वसुगण |
+| ये | जो |
+| च | और |
+| साध्याः | साध्यगण |
+| विश्वे | विश्वेदेव |
+| अश्विनौ | दोनों अश्विनीकुमार |
+| मरुतः | मरुद्गण |
+| च | और |
+| उष्मपाः | पितृगण (गर्म अन्न ग्रहण करने वाले) |
+| च | और |
+| गन्धर्व | गन्धर्व |
+| यक्ष | यक्ष |
+| असुर | असुर |
+| सिद्ध | और सिद्धों के |
+| सङ्घाः | समुदाय |
+| वीक्षन्ते | देख रहे हैं |
+| त्वां | आपको |
+| विस्मिताः | आश्चर्यचकित होकर |
+| च | और |
+| एव | ही |
+| सर्वे | सभी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rudra | the Rudras |
+| ādityāḥ | the Adityas |
+| vasavaḥ | the Vasus |
+| ye | who |
+| ca | and |
+| sādhyāḥ | the Sadhyas |
+| viśve | the Visvedevas |
+| aśvinau | the two Asvins |
+| marutaḥ | the Maruts |
+| ca | and |
+| uṣmapāḥ | the ancestors (Ushmapas) |
+| ca | and |
+| gandharva | Gandharvas |
+| yakṣa | Yakshas |
+| asura | Asuras |
+| siddha | and Siddhas |
+| saṅghāḥ | the assemblies of |
+| vīkṣante | are beholding |
+| tvāṃ | You |
+| vismitāḥ | astonished |
+| ca | and |
+| eva | indeed |
+| sarve | all |
+

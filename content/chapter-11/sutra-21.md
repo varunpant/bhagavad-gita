@@ -31,3 +31,65 @@ position: 435
 
 ```
 
+
+### Transliteration
+```
+amī hi tvāṃ surasaṅghāḥ viśanti
+kecidbhītāḥ prāñjalayo gṛṇanti
+svastītyuktvā maharṣisiddhasaṅghāḥ
+stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप के प्रभाव का वर्णन कर रहे हैं। वे देख रहे हैं कि स्वर्ग के देवता और सिद्ध पुरुष भगवान के इस विराट और उग्र रूप को देखकर विस्मित और भयभीत हैं। वे भगवान की शरण में जा रहे हैं और जगत के कल्याण की प्रार्थना करते हुए उनकी स्तुति कर रहे हैं।
+
+### Meaning
+
+In this verse, Arjuna describes the impact of Lord Krishna's cosmic form on celestial beings. He observes that hosts of demigods and perfected beings are entering into the Lord, some in awe and fear with folded hands. Pronouncing auspicious prayers for the universe, they glorify the Supreme Lord with beautiful hymns.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अमी | वे सब |
+| ही | निश्चय ही |
+| त्वाम् | आपमें |
+| सुर-सङ्घाः | देवताओं के समूह |
+| विशन्ति | प्रवेश कर रहे हैं |
+| केचित् | कुछ |
+| भीताः | भयभीत होकर |
+| प्राञ्जलयः | हाथ जोड़े हुए |
+| गृणन्ति | प्रार्थना कर रहे हैं |
+| स्वस्ति | कल्याण हो |
+| इति | ऐसा |
+| उक्त्वा | कहकर |
+| महर्षि-सिद्ध-सङ्घाः | महर्षियों और सिद्धों के समूह |
+| स्तुवन्ति | स्तुति कर रहे हैं |
+| त्वाम् | आपकी |
+| स्तुतिभिः | स्तोत्रों द्वारा |
+| पुष्कलाभिः | उत्कृष्ट / श्रेष्ठ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| amī | those |
+| hi | indeed |
+| tvām | You |
+| sura-saṅghāḥ | hosts of gods |
+| viśanti | are entering |
+| kecit | some |
+| bhītāḥ | fearful |
+| prāñjalayaḥ | with folded hands |
+| gṛṇanti | are praising |
+| svasti | may there be peace / auspiciousness |
+| iti | thus |
+| uktvā | saying |
+| maharṣi-siddha-saṅghāḥ | assemblies of great sages and perfected souls |
+| stuvanti | are praising |
+| tvām | You |
+| stutibhiḥ | with hymns |
+| puṣkalābhiḥ | sublime / abundant |
+

@@ -31,3 +31,72 @@ position: 461
 
 ```
 
+
+### Transliteration
+```
+śrībhagavānuvāca
+mayā prasannena tavārjunedaṃ
+rūpaṃ paraṃ darśitamātmayogāt
+tejomayaṃ viśvamanantamādyaṃ
+yanme tvadanyena na dṛṣṭapūrvam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि उन्होंने जो अत्यंत दुर्लभ विश्वरूप देखा है, वह भगवान की विशेष कृपा का परिणाम है। यह रूप अत्यंत तेजोमय, अनादि और अनंत है। अर्जुन को यह समझाकर कि उनके अतिरिक्त अन्य किसी ने इस रूप को पहले नहीं देखा, भगवान अर्जुन के प्रति अपने अनन्य प्रेम और अनुग्रह को प्रकट करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna reassures Arjuna that the rare cosmic vision he has just witnessed is a result of the Lord's special grace and divine power. This supreme form is effulgent, boundless, and primeval. By stating that no one else has ever seen this form before, Krishna highlights His unique affection and favor toward Arjuna.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रीभगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| मया | मेरे द्वारा |
+| प्रसन्नेन | प्रसन्न होकर |
+| तव | तुम्हारे लिए |
+| अर्जुन | हे अर्जुन |
+| इदम् | यह |
+| रूपम् | रूप |
+| परम् | परम (अलौकिक) |
+| दर्शितम् | दिखाया गया है |
+| आत्म-योगात् | अपनी योगशक्ति के प्रभाव से |
+| तेजोमयम् | तेज से युक्त |
+| विश्वम् | विश्वरूप (विराट) |
+| अनन्तम् | अनन्त |
+| आद्यम् | आदि (सबका कारण) |
+| यत् | जो कि |
+| मे | मेरा |
+| त्वत्-अन्येन | तुम्हारे अतिरिक्त अन्य किसी के द्वारा |
+| न | नहीं |
+| दृष्ट-पूर्वम् | पहले देखा गया था |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| mayā | by Me |
+| prasannena | being pleased |
+| tava | unto you |
+| arjuna | O Arjuna |
+| idam | this |
+| rūpam | form |
+| param | supreme |
+| darśitam | has been shown |
+| ātma-yogāt | by My own divine power |
+| tejomayam | full of effulgence |
+| viśvam | universal |
+| anantam | infinite |
+| ādyam | primeval |
+| yat | which |
+| me | of Mine |
+| tvat-anyena | by anyone other than you |
+| na | not |
+| dṛṣṭa-pūrvam | seen before |
+

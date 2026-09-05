@@ -31,3 +31,49 @@ position: 473
 
 ```
 
+
+### Transliteration
+```
+saṃniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ
+te prāpnuvanti mām eva sarvabhūtahite ratāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण निराकार (अव्यक्त) ब्रह्म की उपासना करने वालों की गति का वर्णन करते हैं। जो साधक अपनी इन्द्रियों को पूर्णतः नियंत्रित करते हैं, सुख-दुःख आदि द्वंद्वों में समभाव रखते हैं और प्राणिमात्र के कल्याण में तत्पर रहते हैं, वे भी अंततः परमात्मा को ही प्राप्त करते हैं। यह दर्शाता है कि सगुण और निर्गुण दोनों ही मार्ग एक ही गंतव्य तक ले जाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the path of those who worship the unmanifest, formless Brahman. Those who completely control their senses, maintain equanimity under all circumstances, and are dedicated to the welfare of all living beings, ultimately reach the same Supreme Goal. This emphasizes that both the path of devotion to the personal God and the path of knowledge of the impersonal Absolute lead to the same destination.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| संनियम्य | भली-भांति वश में करके |
+| इन्द्रिय-ग्रामम् | इन्द्रियों के समूह को |
+| सर्वत्र | सब जगह (सभी परिस्थितियों में) |
+| सम-बुद्धयः | समान बुद्धि वाले |
+| ते | वे |
+| प्राप्नुवन्ति | प्राप्त करते हैं |
+| माम् | मुझको |
+| एव | ही |
+| सर्व-भूत-हिते | सभी प्राणियों के कल्याण में |
+| रताः | लगे हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| saṃniyamya | restraining fully |
+| indriya-grāmam | the group of senses |
+| sarvatra | everywhere |
+| sama-buddhayaḥ | those of equal mind |
+| te | they |
+| prāpnuvanti | attain |
+| mām | Me |
+| eva | alone |
+| sarva-bhūta-hite | in the welfare of all beings |
+| ratāḥ | engaged |
+

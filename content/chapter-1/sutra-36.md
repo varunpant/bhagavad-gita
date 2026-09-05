@@ -32,3 +32,57 @@ be ours, O Janardana? Only sin will accrue to us from killing these felons.
 
 ```
 
+
+### Transliteration
+```
+nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana
+pāpamevāśrayedasmānhatvaitānātatāyinaḥ
+
+```
+
+### भावार्थ
+
+अर्जुन श्रीकृष्ण के समक्ष अपनी नैतिक दुविधा व्यक्त करते हुए कहते हैं कि अपने ही स्वजनों को मारने से उन्हें कोई सुख नहीं मिलेगा। यद्यपि कौरव 'आततायी' (आग लगाने वाले, विष देने वाले आदि) हैं और शास्त्रानुसार वध के योग्य हैं, फिर भी अर्जुन मानते हैं कि उन्हें मारने से केवल पाप ही लगेगा। वे ऐसे रक्तपात से प्राप्त होने वाली विजय को निरर्थक मानते हैं।
+
+### Meaning
+
+Arjuna continues to express his deep moral dilemma to Krishna. Even though the Kauravas are considered 'ātatāyinaḥ' (aggressors who deserve death according to scriptures for crimes like poisoning and arson), Arjuna feels that killing his own relatives will only bring sin. He questions the ultimate value of a victory gained through such bloodshed.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| निहत्य | मारकर |
+| धार्तराष्ट्रान् | धृतराष्ट्र के पुत्रों को |
+| नः | हमें |
+| का | क्या |
+| प्रीतिः | प्रसन्नता |
+| स्यात् | होगी |
+| जनार्दन | हे जनार्दन |
+| पापम् | पाप |
+| एव | ही |
+| आश्रयेत् | लगेगा |
+| अस्मान् | हमें |
+| हत्वा | मारकर |
+| एतान् | इन |
+| आततायिनः | आततायियों को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| nihatya | having killed |
+| dhārtarāṣṭrān | the sons of Dhritarashtra |
+| naḥ | to us |
+| kā | what |
+| prītiḥ | pleasure |
+| syāt | would be |
+| janārdana | O Janardana |
+| pāpam | sin |
+| eva | only |
+| āśrayet | would take hold of |
+| asmān | us |
+| hatvā | by killing |
+| etān | these |
+| ātatāyinaḥ | aggressors |
+

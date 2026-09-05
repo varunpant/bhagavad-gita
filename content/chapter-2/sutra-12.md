@@ -33,3 +33,71 @@ position: 59
 
 ```
 
+
+### Transliteration
+```
+na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ
+na caiva na bhaviṣyāmaḥ sarve vayamataḥ param
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आत्मा की अमरता और शाश्वतता का वर्णन कर रहे हैं। वे अर्जुन को समझाते हैं कि शरीर के जन्म और मृत्यु से आत्मा का कोई संबंध नहीं है। कृष्ण, अर्जुन और युद्धभूमि में उपस्थित सभी राजा पहले भी अस्तित्व में थे और भविष्य में भी रहेंगे, क्योंकि आत्मा कभी नष्ट नहीं होती।
+
+### Meaning
+
+In this verse, Lord Krishna establishes the eternal nature of the individual soul. He explains to Arjuna that the soul is beyond the physical concepts of birth and death. Krishna, Arjuna, and all the kings assembled on the battlefield existed in the past and will continue to exist in the future, as the soul is indestructible and eternal.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | नहीं |
+| तु | तो |
+| एव | निश्चय ही |
+| अहम् | मैं |
+| जातु | किसी काल में |
+| न | नहीं |
+| आसम् | था |
+| न | नहीं |
+| त्वम् | तुम |
+| न | नहीं |
+| इमे | ये |
+| जनाधिपाः | राजा लोग |
+| न | नहीं |
+| च | और |
+| एव | निश्चय ही |
+| न | नहीं |
+| भविष्यामः | रहेंगे |
+| सर्वे | सभी |
+| वयम् | हम |
+| अतः | इसके |
+| परम् | बाद |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| tu | but |
+| eva | certainly |
+| aham | I |
+| jātu | at any time |
+| na | not |
+| āsam | did exist |
+| na | not |
+| tvam | you |
+| na | not |
+| ime | these |
+| janādhipāḥ | kings |
+| na | not |
+| ca | and |
+| eva | certainly |
+| na | not |
+| bhaviṣyāmaḥ | shall exist |
+| sarve | all |
+| vayam | we |
+| ataḥ | from this |
+| param | after |
+

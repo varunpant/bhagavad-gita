@@ -31,3 +31,55 @@ position: 668
 
 ```
 
+
+### Transliteration
+```
+sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ
+svakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को समझा रहे हैं कि प्रत्येक मनुष्य अपने स्वभाव के अनुसार नियत कर्मों को करके भी परम सिद्धि प्राप्त कर सकता है। इसके लिए संन्यास या गृहत्याग अनिवार्य नहीं है, बल्कि अपने कर्तव्य को ईश्वर-अर्पण बुद्धि से करना ही पर्याप्त है। अब वे उस विधि को बताने जा रहे हैं जिससे स्वकर्म करते हुए सिद्धि मिलती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that by performing one's own prescribed duties according to one's nature, a person can attain ultimate perfection. Renunciation of action is not necessary; rather, performing one's duty as an offering to the Divine is key. Krishna now promises to explain the process by which this perfection is achieved.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| स्वे | अपने |
+| स्वे | अपने |
+| कर्मणि | कर्म में |
+| अभिरतः | लगा हुआ |
+| संसिद्धिम् | परम सिद्धि को |
+| लभते | प्राप्त करता है |
+| नरः | मनुष्य |
+| स्वकर्म-निरतः | अपने कर्म में लगा हुआ |
+| सिद्धिम् | सिद्धि को |
+| यथा | जिस प्रकार |
+| विन्दति | प्राप्त करता है |
+| तत् | उसको |
+| शृणु | सुनो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sve | in one's own |
+| sve | in one's own |
+| karmaṇi | duty |
+| abhirataḥ | intent on |
+| saṃsiddhim | perfection |
+| labhate | attains |
+| naraḥ | a man |
+| svakarma-nirataḥ | one dedicated to his own duty |
+| siddhim | perfection |
+| yathā | how |
+| vindati | attains |
+| tat | that |
+| śṛṇu | hear |
+

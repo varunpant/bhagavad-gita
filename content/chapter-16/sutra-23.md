@@ -31,3 +31,57 @@ position: 594
 
 ```
 
+
+### Transliteration
+```
+yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ
+na sa siddhimavāpnoti na sukhaṃ na parāṃ gatim
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण शास्त्रसम्मत आचरण के महत्व पर बल देते हैं। जो व्यक्ति शास्त्रों के नियमों और मर्यादाओं की उपेक्षा करके केवल अपनी वासनाओं और इच्छाओं के वश में होकर जीता है, उसे जीवन में वास्तविक सफलता या मानसिक शांति नहीं मिल सकती। ऐसा आचरण मनुष्य को आध्यात्मिक पतन की ओर ले जाता है और वह मोक्ष रूपी परम गति से वंचित रह जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the importance of following scriptural injunctions. A person who ignores the rules of the scriptures and acts solely out of personal desire and whim cannot achieve spiritual perfection or inner peace. Such self-willed behavior leads to spiritual degradation, preventing one from attaining the ultimate goal of liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| शास्त्र-विधिम् | शास्त्र के विधान को |
+| उत्सृज्य | त्यागकर |
+| वर्तते | आचरण करता है |
+| काम-कारतः | इच्छाओं के वश में होकर (स्वेच्छाचारी बनकर) |
+| न | नहीं |
+| सः | वह |
+| सिद्धिम् | सिद्धि को (सफलता को) |
+| अवाप्नोति | प्राप्त करता है |
+| न | न |
+| सुखम् | सुख को |
+| न | न |
+| पराम् | परम |
+| गतिम् | गति को (मुक्ति को) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| śāstra-vidhim | the injunctions of the scriptures |
+| utsṛjya | discarding |
+| vartate | acts |
+| kāma-kārataḥ | under the impulse of desire |
+| na | not |
+| saḥ | he |
+| siddhim | perfection |
+| avāpnoti | attains |
+| na | not |
+| sukham | happiness |
+| na | not |
+| parām | the supreme |
+| gatim | destination (goal) |
+

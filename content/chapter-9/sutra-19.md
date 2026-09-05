@@ -31,3 +31,63 @@ position: 357
 
 ```
 
+
+### Transliteration
+```
+tapāmyahamahaṃ varṣaṃ nigṛhṇāmyutsṛjāmi ca
+amṛtaṃ caiva mṛtyuśca sadasaccāhamarjuna
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापकता और सृष्टि के नियंत्रण का वर्णन कर रहे हैं। वे बताते हैं कि प्रकृति की सभी क्रियाएं जैसे गर्मी, वर्षा, जीवन (अमृत) और मृत्यु उन्हीं की शक्ति से संचालित होती हैं। वे ही दृश्य जगत (सत्) और अदृश्य या सूक्ष्म जगत (असत्) के मूल आधार हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His all-pervading nature and control over the cosmos. He explains that all natural phenomena, such as heat, rain, life (immortality), and death, are manifestations of His supreme energy. He is both the manifest (existence) and the unmanifest (non-existence) aspects of reality.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तपामि | तपता हूँ (गर्मी देता हूँ) |
+| अहम् | मैं |
+| अहम् | मैं |
+| वर्षम् | वर्षा को |
+| निगृह्णामि | रोकता हूँ |
+| उत्सृजामि | बरसाता हूँ |
+| च | और |
+| अमृतम् | अमृत (अमरता) |
+| च | और |
+| एव | ही |
+| मृत्युः | मृत्यु |
+| च | और |
+| सत् | सत् (अस्तित्व) |
+| असत् | असत् (अनस्तित्व) |
+| च | और |
+| अहम् | मैं |
+| अर्जुन | हे अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tapāmi | I heat |
+| aham | I |
+| aham | I |
+| varṣam | rain |
+| nigṛhṇāmi | withhold |
+| utsṛjāmi | send forth |
+| ca | and |
+| amṛtam | immortality |
+| ca | and |
+| eva | indeed |
+| mṛtyuḥ | death |
+| ca | and |
+| sat | existence (spirit) |
+| asat | non-existence (matter) |
+| ca | and |
+| aham | I |
+| arjuna | O Arjuna |
+

@@ -31,3 +31,53 @@ position: 380
 
 ```
 
+
+### Transliteration
+```
+ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate
+iti matvā bhajante māṃ budhā bhāvasamanvitāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपने परम ऐश्वर्य और सर्वव्यापकता का वर्णन करते हैं। वे बताते हैं कि वे ही संपूर्ण सृष्टि के आदि कारण हैं और सब कुछ उन्हीं से संचालित होता है। इस सत्य को जानकर ज्ञानी पुरुष अनन्य भक्ति भाव से उनकी शरण ग्रहण करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna declares His supreme position as the source of all creation. He explains that everything in the universe emanates from Him and is sustained by Him. Realizing this ultimate truth, wise and enlightened souls worship Him with deep devotion and love.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहम् | मैं |
+| सर्वस्य | सबका (सृष्टि का) |
+| प्रभवः | उत्पत्ति का कारण |
+| मत्तः | मुझसे |
+| सर्वम् | सब कुछ |
+| प्रवर्तते | प्रवृत्त (उत्पन्न और गतिशील) होता है |
+| इति | इस प्रकार |
+| मत्वा | मानकर (जानकर) |
+| भजन्ते | भजते हैं |
+| माम् | मुझको |
+| बुधाः | बुद्धिमान लोग |
+| भाव-समन्विताः | भक्ति-भाव से युक्त होकर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aham | I |
+| sarvasya | of all |
+| prabhavaḥ | the source of creation |
+| mattaḥ | from Me |
+| sarvam | everything |
+| pravartate | emanates |
+| iti | thus |
+| matvā | knowing |
+| bhajante | worship |
+| mām | Me |
+| budhāḥ | the wise |
+| bhāva-samanvitāḥ | filled with devotion |
+

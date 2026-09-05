@@ -31,3 +31,58 @@ position: 28
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+kṛpayā parayā''viṣṭo viṣīdannidamabravīt
+dṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam
+
+```
+
+### भावार्थ
+
+इस श्लोक में युद्धभूमि का दृश्य देखकर अर्जुन की मानसिक स्थिति का वर्णन किया गया है। अपने ही सगे-संबंधियों को युद्ध के लिए तत्पर देखकर अर्जुन अत्यंत करुणा और गहरे शोक से भर जाते हैं। इसी व्याकुलता के कारण वे भगवान कृष्ण से अपने मन की व्यथा व्यक्त करते हैं।
+
+### Meaning
+
+This verse describes Arjuna's emotional state upon observing the battlefield. Seeing his own relatives and loved ones eager to fight, he is overwhelmed by deep compassion and profound sorrow. Driven by this anguish, he begins to express his distress to Lord Krishna.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुन | अर्जुन |
+| उवाच | ने कहा |
+| कृपया | करुणा से |
+| परया | अत्यंत |
+| आविष्टः | आविष्ट / युक्त होकर |
+| विषीदन् | शोक करते हुए |
+| इदम् | यह |
+| अब्रवीत् | कहा |
+| दृष्ट्वा | देखकर |
+| इमम् | इन |
+| स्वजनम् | स्वजनों को |
+| कृष्ण | हे कृष्ण |
+| युयुत्सुम् | युद्ध की इच्छा वाले |
+| समुपस्थितम् | उपस्थित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjuna | Arjuna |
+| uvāca | said |
+| kṛpayā | by compassion |
+| parayā | great |
+| āviṣṭaḥ | overwhelmed |
+| viṣīdan | sorrowing |
+| idam | this |
+| abravīt | spoke |
+| dṛṣṭvā | having seen |
+| imam | these |
+| svajanam | kinsmen |
+| kṛṣṇa | O Krishna |
+| yuyutsum | desiring to fight |
+| samupasthitam | present |
+

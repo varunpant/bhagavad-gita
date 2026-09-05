@@ -31,3 +31,64 @@ position: 205
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+sannyāsaṃ karmaṇāṃ kṛṣṇa punaryogaṃ ca śaṃsasi
+yacchreya etayorekaṃ tanme brūhi suniścitam
+
+```
+
+### भावार्थ
+
+पिछले अध्यायों में भगवान कृष्ण के उपदेशों को सुनकर अर्जुन भ्रमित हो गए हैं। कृष्ण ने कर्मों के त्याग (संन्यास) और निष्काम भाव से कर्म करने (कर्मयोग) दोनों की ही प्रशंसा की है। इस संशय को दूर करने के लिए अर्जुन प्रार्थना करते हैं कि इन दोनों मार्गों में से जो एक उनके लिए निश्चित रूप से अधिक कल्याणकारी हो, भगवान उसे स्पष्ट रूप से बताएँ।
+
+### Meaning
+
+Arjuna is confused by Krishna's seemingly contradictory advice in the previous chapters. Krishna has praised both the renunciation of actions (Sannyasa) and the selfless performance of actions (Karma Yoga). Seeking clarity, Arjuna asks Krishna to definitively state which of the two paths is superior and more beneficial for him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| संन्यासम् | संन्यास की |
+| कर्मणाम् | कर्मों के |
+| कृष्ण | हे कृष्ण |
+| पुनः | फिर |
+| योगम् | कर्मयोग की |
+| च | और |
+| शंससि | आप प्रशंसा करते हैं |
+| यत् | जो |
+| श्रेयः | अधिक कल्याणकारी |
+| एतयोः | इन दोनों में से |
+| एकम् | एक |
+| तत् | वह |
+| मे | मुझे |
+| ब्रूहि | बताएँ |
+| सुनिश्चितम् | निश्चित रूप से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| sannyāsam | renunciation |
+| karmaṇām | of actions |
+| kṛṣṇa | O Krishna |
+| punaḥ | again |
+| yogam | yoga (performance of action) |
+| ca | and |
+| śaṃsasi | You praise |
+| yat | which |
+| śreyaḥ | better |
+| etayoḥ | of these two |
+| ekam | one |
+| tat | that |
+| me | to me |
+| brūhi | tell |
+| suniścitam | definitively |
+

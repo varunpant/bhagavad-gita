@@ -31,3 +31,59 @@ position: 559
 
 ```
 
+
+### Transliteration
+```
+śarīraṃ yad avāpnoti yac cāpy utkrāmatīśvaraḥ
+gṛhītvaitāni saṃyāti vāyur gandhān ivāśayāt
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि जीवात्मा किस प्रकार एक शरीर से दूसरे शरीर में गमन करती है। जैसे बहती हुई हवा फूलों से उनकी सुगंध लेकर आगे बढ़ जाती है, वैसे ही जीवात्मा मृत्यु के समय सूक्ष्म शरीर (मन और इन्द्रियों) को अपने साथ समेटकर नए भौतिक शरीर में प्रवेश करती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains how the individual soul migrates from one body to another. Just as the wind carries fragrance from its source (like flowers) and moves on, the soul takes the subtle body (the mind and senses) from the dying physical body and carries them into the next body it assumes.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| शरीरम् | शरीर को |
+| यत् | जब |
+| अवाप्नोति | प्राप्त करता है |
+| यत् | और जब |
+| च | भी |
+| अपि | भी |
+| उत्क्रामति | त्याग कर जाता है |
+| ईश्वरः | स्वामी (जीवात्मा) |
+| गृहीत्वा | ग्रहण करके |
+| एतानि | इन (इन्द्रियों और मन) को |
+| संयाति | चला जाता है |
+| वायुः | वायु |
+| गन्धान् | सुगंधों को |
+| इव | की तरह |
+| आशयात् | उनके स्रोत (पुष्प आदि) से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śarīram | the body |
+| yat | when |
+| avāpnoti | obtains |
+| yat | and when |
+| ca | also |
+| api | indeed |
+| utkrāmati | departs |
+| īśvaraḥ | the lord (the soul) |
+| gṛhītvā | taking |
+| etāni | these (senses and mind) |
+| saṃyāti | goes away |
+| vāyuḥ | the wind |
+| gandhān | fragrances |
+| iva | like |
+| āśayāt | from their source |
+

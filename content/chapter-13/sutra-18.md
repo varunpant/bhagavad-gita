@@ -31,3 +31,55 @@ position: 507
 
 ```
 
+
+### Transliteration
+```
+jyotiṣām api taj jyotis tamasaḥ param ucyate
+jñānaṃ jñeyaṃ jñānagamyaṃ hṛdi sarvasya viṣṭhitam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण परमात्मा के परम प्रकाशमय स्वरूप का वर्णन कर रहे हैं। वे बताते हैं कि परमात्मा भौतिक सूर्य आदि ज्योतियों के भी प्रकाशक हैं और अज्ञान रूपी अंधकार से सर्वथा परे हैं। वही जानने योग्य तत्व हैं और ज्ञान के द्वारा ही उन्हें प्राप्त किया जा सकता है, जो प्रत्येक जीव के हृदय में अंतर्यामी रूप से स्थित हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the supreme, self-luminous nature of the Absolute Truth (Brahman). He explains that the Supreme Lord is the source of light for all luminous objects and is entirely beyond the darkness of ignorance. He is knowledge itself, the object to be known, and the goal reached through wisdom, residing eternally in the hearts of all living beings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्योतिषाम् | ज्योतियों का |
+| अपि | भी |
+| तत् | वह |
+| ज्योतिः | ज्योति (प्रकाश) |
+| तमसः | अंधकार से |
+| परम् | परे (अतीत) |
+| उच्यते | कहा जाता है |
+| ज्ञानम् | ज्ञान स्वरूप |
+| ज्ञेयम् | जानने योग्य |
+| ज्ञानगम्यम् | ज्ञान से प्राप्त होने योग्य |
+| हृदि | हृदय में |
+| सर्वस्य | सबके |
+| विष्ठितम् | विशेष रूप से स्थित |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jyotiṣām | of lights |
+| api | even |
+| tat | that |
+| jyotiḥ | light |
+| tamasaḥ | from darkness |
+| param | beyond |
+| ucyate | is said to be |
+| jñānam | knowledge |
+| jñeyam | the object of knowledge |
+| jñānagamyam | to be reached by knowledge |
+| hṛdi | in the heart |
+| sarvasya | of all |
+| viṣṭhitam | dwelling |
+

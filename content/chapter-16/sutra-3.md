@@ -31,3 +31,53 @@ position: 574
 
 ```
 
+
+### Transliteration
+```
+tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā
+bhavanti sampadaṃ daivīmabhijātasya bhārata
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण दैवी गुणों की सूची को पूर्ण करते हैं। तेज, क्षमा, धैर्य, बाह्य और आंतरिक शुद्धि, किसी के प्रति शत्रुता का न होना और स्वयं में पूज्यता के अभिमान का अभाव — ये सभी गुण दैवी स्वभाव वाले व्यक्ति में स्वाभाविक रूप से पाए जाते हैं। अर्जुन को 'भारत' कहकर संबोधित करते हुए वे स्पष्ट करते हैं कि अर्जुन में ये सभी उत्तम गुण विद्यमान हैं।
+
+### Meaning
+
+In this verse, Lord Krishna completes the list of divine qualities. Vigor, forgiveness, fortitude, purity, freedom from malice, and the absence of excessive pride are the final traits that characterize a person born with a divine nature. By addressing Arjuna as 'Bhārata', Krishna reassures him of his own noble and divine heritage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तेजः | तेज (आत्मिक बल) |
+| क्षमा | क्षमाशीलता |
+| धृतिः | धैर्य |
+| शौचम् | बाहर-भीतर की शुद्धि |
+| अद्रोहः | द्रोह-भाव का न होना (किसी से शत्रुता न रखना) |
+| न | नहीं |
+| अतिमानिता | अत्यधिक अभिमान |
+| भवन्ति | होते हैं |
+| सम्पदम् | सम्पदा को |
+| दैवीम् | दैवी |
+| अभिजातस्य | उत्पन्न हुए पुरुष के (लक्षण) |
+| भारत | हे भरतवंशी अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tejaḥ | vigor (spiritual power) |
+| kṣamā | forgiveness |
+| dhṛtiḥ | fortitude |
+| śaucam | purity (cleanliness) |
+| adrohaḥ | freedom from malice |
+| na | not |
+| atimānitā | excessive pride |
+| bhavanti | are (manifested) |
+| sampadaṃ | wealth / qualities |
+| daivīm | divine |
+| abhijātasya | of one born with |
+| bhārata | O descendant of Bharata |
+

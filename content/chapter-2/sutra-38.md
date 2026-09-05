@@ -31,3 +31,52 @@ position: 85
 
 ```
 
+
+### Transliteration
+```
+sukhaduḥkhe same kṛtvā lābhālābhau jayājayau\ntato yuddhāya yujyasva naivaṃ pāpamavāpsyasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समभाव (समता) का उपदेश दे रहे हैं। वे कहते हैं कि युद्ध को केवल कर्तव्य समझकर करना चाहिए, न कि उसके परिणामों (सुख-दुःख, लाभ-हानि) से आसक्त होकर। इस निष्काम भाव से कर्म करने पर मनुष्य को कोई पाप नहीं लगता।
+
+### Meaning
+
+In this verse, Lord Krishna teaches Arjuna the principle of equanimity. He advises Arjuna to fight simply as a matter of duty, without attachment to the outcomes such as happiness or distress, gain or loss. By performing his duty with this detached mindset, Arjuna will not incur any sinful reactions.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सुख-दुःखे | सुख और दुःख को |
+| समे | समान |
+| कृत्वा | करके |
+| लाभ-अलाभौ | लाभ और हानि को |
+| जय-अजयौ | जय और पराजय को |
+| ततः | उसके बाद |
+| युद्धाय | युद्ध के लिए |
+| युज्यस्व | तैयार हो जाओ |
+| न | नहीं |
+| एवम् | इस प्रकार |
+| पापम् | पाप को |
+| अवाप्स्यसि | प्राप्त होओगे |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sukha-duḥkhe | happiness and distress |
+| same | equal |
+| kṛtvā | having made |
+| lābha-alābhau | gain and loss |
+| jaya-ajayau | victory and defeat |
+| tataḥ | then |
+| yuddhāya | for fighting |
+| yujyasva | engage |
+| na | not |
+| evam | thus |
+| pāpam | sin |
+| avāpsyasi | you will incur |
+

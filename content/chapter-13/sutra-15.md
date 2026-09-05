@@ -31,3 +31,57 @@ position: 504
 
 ```
 
+
+### Transliteration
+```
+sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam
+asaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में ज्ञेय परमात्मा के विरोधाभासी और दिव्य स्वरूप का वर्णन किया गया है। परमात्मा सभी इन्द्रियों के कार्यों और विषयों को जानने और प्रकाशित करने वाले हैं, किन्तु भौतिक इन्द्रियों से सर्वथा परे हैं। वे किसी भी सांसारिक वस्तु से आसक्त नहीं हैं, फिर भी संपूर्ण सृष्टि के आधार और पोषक हैं, तथा त्रिगुणों से अतीत होने पर भी उनके भोक्ता हैं।
+
+### Meaning
+
+This verse describes the paradoxical and transcendental nature of the Supreme Soul (the object of knowledge). Although He illuminates the functions of all senses, He is entirely free from material senses. He remains completely unattached yet sustains everything, and while being beyond the three modes of material nature (gunas), He is the ultimate enjoyer of them.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सर्व | सभी |
+| इन्द्रिय | इन्द्रियों के |
+| गुण | विषयों या कार्यों को |
+| आभासम् | प्रकाशित करने वाला |
+| सर्व | सभी |
+| इन्द्रिय | इन्द्रियों से |
+| विवर्जितम् | रहित |
+| असक्तम् | अनासक्त (आसक्ति रहित) |
+| सर्व-भृत् | सबका भरण-पोषण करने वाला |
+| च | और |
+| एव | ही |
+| निर्गुणम् | गुणों से रहित (प्राकृत गुणों से परे) |
+| गुण-भोक्तृ | गुणों का भोक्ता |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sarva | of all |
+| indriya | senses |
+| guṇa | of the qualities/functions |
+| ābhāsam | the illuminator/possessor |
+| sarva | all |
+| indriya | senses |
+| vivarjitam | devoid of |
+| asaktam | unattached |
+| sarva-bhṛt | the sustainer of all |
+| ca | and |
+| eva | indeed |
+| nirguṇam | without material qualities |
+| guṇa-bhoktṛ | the enjoyer of the qualities |
+| ca | and |
+

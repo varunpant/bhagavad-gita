@@ -31,3 +31,53 @@ position: 118
 
 ```
 
+
+### Transliteration
+```
+vihāya kāmānyaḥ sarvānpumāṃścarati niḥspṛhaḥ
+nirmamo nirahaṃkāraḥ sa śāntimadhigacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण सच्ची शांति प्राप्त करने का मार्ग बताते हैं। जो व्यक्ति भौतिक इच्छाओं, स्वामित्व की भावना (मेरापन) और अहंकार (मैं) को पूरी तरह से त्याग देता है, वही जीवन में परम शांति का अनुभव कर सकता है। यह स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति की अंतिम अवस्था का वर्णन है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the path to true peace. A person can experience ultimate peace only by completely abandoning all material desires, the sense of ownership (mine), and false ego (I). This describes the final state of a person situated in perfect transcendental consciousness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| विहाय | त्याग कर |
+| कामान् | कामनाओं को |
+| यः | जो |
+| सर्वान् | सम्पूर्ण |
+| पुमान् | मनुष्य |
+| चरति | आचरण करता है |
+| निःस्पृहः | इच्छारहित |
+| निर्ममः | ममतारहित |
+| निरहंकारः | अहंकाररहित |
+| सः | वह |
+| शान्तिम् | शान्ति को |
+| अधिगच्छति | प्राप्त होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vihāya | having given up |
+| kāmān | desires |
+| yaḥ | who |
+| sarvān | all |
+| pumān | person |
+| carati | moves about |
+| niḥspṛhaḥ | without longing |
+| nirmamaḥ | without a sense of ownership |
+| nirahaṃkāraḥ | without ego |
+| saḥ | he |
+| śāntim | peace |
+| adhigacchati | attains |
+

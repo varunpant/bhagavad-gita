@@ -31,3 +31,55 @@ position: 288
 
 ```
 
+
+### Transliteration
+```
+raso'hamapsu kaunteya prabhāsmi śaśisūryayoḥ
+praṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी दिव्य विभूतियों का वर्णन कर रहे हैं। वे समझाते हैं कि सृष्टि के प्रत्येक मूल तत्व में जो उसकी मुख्य विशेषता या सार है, वह स्वयं भगवान ही हैं। जल की तरलता और स्वाद, सूर्य-चन्द्र का प्रकाश, वेदों का मूल नाद ॐकार, आकाश का गुण शब्द और मनुष्यों का पुरुषार्थ—ये सब ईश्वर की ही अभिव्यक्तियाँ हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine immanence in the universe. He explains that He is the essential essence and core quality of all things—the taste in water, the light of the sun and moon, the primordial syllable Om in the Vedas, the sound in space, and the manhood or capability in human beings.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| रसः | स्वाद (रस) |
+| अहम् | मैं |
+| अप्सु | जलों में |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| प्रभा | प्रकाश |
+| अस्मि | हूँ |
+| शशि-सूर्ययोः | चन्द्रमा और सूर्य में |
+| प्रणवः | ॐकार (प्रणव) |
+| सर्व-वेदेषु | सब वेदों में |
+| शब्दः | ध्वनि (शब्द) |
+| खे | आकाश में |
+| पौरुषम् | पुरुषत्व (सामर्थ्य) |
+| नृषु | मनुष्यों में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rasaḥ | taste |
+| aham | I |
+| apsu | in water |
+| kaunteya | O son of Kunti |
+| prabhā | light |
+| asmi | I am |
+| śaśi-sūryayoḥ | of the moon and the sun |
+| praṇavaḥ | the sacred syllable Om |
+| sarva-vedeṣu | in all the Vedas |
+| śabdaḥ | sound |
+| khe | in ether (space) |
+| pauruṣam | ability (manhood) |
+| nṛṣu | in men |
+

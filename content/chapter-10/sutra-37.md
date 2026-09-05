@@ -31,3 +31,53 @@ position: 409
 
 ```
 
+
+### Transliteration
+```
+vṛṣṇīnāṃ vāsudevo'smi pāṇḍavānāṃ dhanañjayaḥ
+munīnāmapyahaṃ vyāsaḥ kavīnāmuśanā kaviḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि यदुवंशियों में वे स्वयं वासुदेव (कृष्ण) हैं और पाण्डवों में अर्जुन (धनंजय) हैं। वे मुनियों में सर्वश्रेष्ठ वेदव्यास हैं, जिन्होंने वेदों का विभाजन किया, और कवियों (क्रान्तदर्शियों) में शुक्राचार्य (उशना) हैं। यह दर्शाता है कि प्रत्येक वर्ग की सर्वोत्कृष्ट सत्ता भगवान का ही स्वरूप है।
+
+### Meaning
+
+In this verse, Lord Krishna continues to describe His divine manifestations, declaring that among the Vrishni clan He is Himself (Vasudeva), and among the Pandavas, He is Arjuna (Dhananjaya). Among the silent sages, He is the great compiler Vyasa, and among the visionary thinkers or poets, He is Ushana (Sukracharya). This emphasizes that the absolute best and most prominent entity in any category represents the divine presence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| वृष्णीनाम् | वृष्णिवंशियों में |
+| वासुदेवः | वासुदेव (कृष्ण) |
+| अस्मि | हूँ |
+| पाण्डवानाम् | पाण्डवों में |
+| धनंजयः | धनंजय (अर्जुन) |
+| मुनीनाम् | मुनियों में |
+| अपि | भी |
+| अहम् | मैं |
+| व्यासः | व्यास |
+| कवीनाम् | कवियों में |
+| उशना | उशना (शुक्राचार्य) |
+| कविः | कवि (क्रान्तदर्शी) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| vṛṣṇīnām | among the Vrishnis |
+| vāsudevaḥ | Vasudeva (Krishna) |
+| asmi | I am |
+| pāṇḍavānām | among the Pandavas |
+| dhanañjayaḥ | Dhananjaya (Arjuna) |
+| munīnām | among the sages |
+| api | also |
+| aham | I |
+| vyāsaḥ | Vyasa |
+| kavīnām | among the poets/visionaries |
+| uśanā | Ushana (Sukracharya) |
+| kaviḥ | the poet |
+

@@ -31,3 +31,49 @@ position: 318
 
 ```
 
+
+### Transliteration
+```
+abhyāsayogayuktena cetasā nānyagāminā
+paramaṃ puruṣaṃ divyaṃ yāti pārthānucintayan
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अभ्यास के महत्व के बारे में बताते हैं। जो व्यक्ति अपने मन को विचलित होने से रोकता है और निरंतर परमात्मा का ध्यान करता है, वह अंततः उसी परम दिव्य स्वरूप को प्राप्त करता है। मन की एकाग्रता और निरंतर अभ्यास ही आध्यात्मिक सिद्धि का मार्ग है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the importance of constant practice (abhyasa). By disciplining the mind so that it does not wander toward worldly distractions, and by continuously meditating on the Supreme, a seeker ultimately attains the Supreme Divine Person. Steady focus at the time of death is prepared by a lifetime of such practice.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अभ्यास-योग-युक्तेन | अभ्यास रूप योग से युक्त |
+| चेतसा | चित्त से |
+| न | नहीं |
+| अन्य-गामिना | अन्यत्र जाने वाले |
+| परमम् | परम |
+| पुरुषम् | पुरुष को |
+| दिव्यम् | दिव्य |
+| याति | प्राप्त होता है |
+| पार्थ | हे पृथापुत्र (अर्जुन) |
+| अनुचिन्तयन् | निरंतर चिंतन करता हुआ |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| abhyāsa-yoga-yuktena | by that which is engaged in the yoga of practice |
+| cetasā | with the mind |
+| na | not |
+| anya-gāminā | wandering to anything else |
+| paramam | the Supreme |
+| puruṣam | Person |
+| divyam | Divine |
+| yāti | attains |
+| pārtha | O Partha (Arjuna) |
+| anucintayan | constantly meditating |
+

@@ -31,3 +31,51 @@ position: 349
 
 ```
 
+
+### Transliteration
+```
+avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam
+paraṃ bhāvamajānanto mama bhūtamaheśvaram
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि अज्ञानी लोग उनके वास्तविक दिव्य स्वरूप को नहीं पहचान पाते। वे उन्हें केवल एक साधारण मनुष्य समझते हैं क्योंकि वे उनके भौतिक शरीर के परे उनके अविनाशी और सर्वोपरि ईश्वर रूप को जानने में असमर्थ होते हैं। यह अज्ञानता ही उन्हें भगवान का अनादर करने की ओर ले जाती है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that ignorant people fail to recognize His divine nature. They mistake Him for an ordinary mortal because they cannot perceive His supreme, imperishable existence as the Lord of all creation. This lack of spiritual vision leads them to disregard and disrespect Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अवजानन्ति | अवहेलना करते हैं / तुच्छ समझते हैं |
+| माम् | मुझको |
+| मूढाः | मूर्ख लोग |
+| मानुषीम् | मनुष्य की |
+| तनुम् | शरीर को |
+| आश्रितम् | धारण किए हुए |
+| परम् | परम / दिव्य |
+| भावम् | स्वभाव को / अस्तित्व को |
+| अजानन्तः | न जानते हुए |
+| मम | मेरे |
+| भूत-महा-ईश्वरम् | समस्त प्राणियों के महान ईश्वर रूप को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| avajānanti | deride / disregard |
+| mām | Me |
+| mūḍhāḥ | the foolish |
+| mānuṣīm | human |
+| tanum | form / body |
+| āśritam | assumed / sheltered in |
+| param | supreme |
+| bhāvam | nature / state |
+| ajānantaḥ | not knowing |
+| mama | My |
+| bhūta-mahā-īśvaram | the great Lord of all beings |
+

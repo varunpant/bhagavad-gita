@@ -31,3 +31,55 @@ position: 556
 
 ```
 
+
+### Transliteration
+```
+nirmānamohā jitasaṅgadoṣā
+adhyātmanityā vinivṛttakāmāḥ
+dvandvairvimuktāḥ sukhaduḥkhasaṃjñair
+gacchantyamūḍhāḥ padamavyayaṃ tat
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस परम पद (मोक्ष) को प्राप्त करने वाले साधकों की योग्यताओं का वर्णन करते हैं। जो साधक अहंकार, मोह और आसक्ति से मुक्त हो चुके हैं, जिनका मन सदैव परमात्मा में लीन रहता है, और जो सुख-दुःख के द्वन्द्वों से विचलित नहीं होते, वही उस अविनाशी धाम को प्राप्त करने के अधिकारी हैं। यह मार्ग पूर्ण आत्म-समर्पण और वैराग्य का है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the qualifications of those who attain the supreme, imperishable state. Those who are free from pride, delusion, and attachment, who are constantly established in spiritual knowledge, and who remain unaffected by the dualities of pleasure and pain, reach the eternal goal. This path requires complete self-surrender and detachment from worldly desires.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| निर्मानमोहाः | मान और मोह से रहित |
+| जितसङ्गदोषाः | जीत लिया है आसक्ति रूपी दोष जिन्होंने |
+| अध्यात्मनित्याः | अध्यात्म में नित्य स्थित |
+| विनिवृत्तकामाः | पूर्णतः निवृत्त हो चुकी हैं कामनाएँ जिनकी |
+| द्वन्द्वैः | द्वन्द्वों से |
+| विमुक्ताः | मुक्त |
+| सुखदुःखसंज्ञैः | सुख और दुःख नाम वाले |
+| गच्छन्ति | प्राप्त करते हैं |
+| अमूढाः | ज्ञानी (मोह-रहित) जन |
+| पदम् | पद को |
+| अव्ययम् | अविनाशी |
+| तत् | उस |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| nirmānamohāḥ | free from pride and delusion |
+| jita-saṅga-doṣāḥ | having conquered the evil of attachment |
+| adhyātma-nityāḥ | eternally devoted to the Supreme Self |
+| vinivṛtta-kāmāḥ | whose desires are completely stilled |
+| dvandvaiḥ | from the dualities |
+| vimuktāḥ | liberated |
+| sukha-duḥkha-saṃjñaiḥ | known as pleasure and pain |
+| gacchanti | they attain |
+| amūḍhāḥ | the undeluded |
+| padam | state / abode |
+| avyayam | imperishable |
+| tat | that |
+

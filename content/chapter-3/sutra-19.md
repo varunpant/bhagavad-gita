@@ -31,3 +31,55 @@ position: 138
 
 ```
 
+
+### Transliteration
+```
+tasmādasaktaḥ satataṃ kāryaṃ karma samācara
+asakto hyācarankarma paramāpnoti pūruṣaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को बिना किसी फल की इच्छा के अपना कर्तव्य निभाने का उपदेश देते हैं। जब मनुष्य व्यक्तिगत स्वार्थ या आसक्ति के बिना कर्म करता है, तो उसका अंतःकरण शुद्ध हो जाता है। अंततः, ऐसा निष्काम कर्मयोग मनुष्य को मोक्ष और परमेश्वर की प्राप्ति कराता है।
+
+### Meaning
+
+In this verse, Lord Krishna advises Arjuna to perform his prescribed duties without any attachment to the results. By acting purely out of duty rather than personal desire, one's mind becomes purified. Ultimately, such selfless action (Karma Yoga) leads a person to spiritual liberation and the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| असक्तः | आसक्ति रहित |
+| सततम् | निरन्तर |
+| कार्यम् | करने योग्य (कर्तव्य) |
+| कर्म | कर्म |
+| समाचर | भलीभांति करो |
+| असक्तः | अनासक्त होकर |
+| हि | क्योंकि |
+| आचरन् | करता हुआ |
+| कर्म | कर्म |
+| परम् | परम को |
+| आप्नोति | प्राप्त करता है |
+| पूरुषः | मनुष्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| asaktaḥ | without attachment |
+| satatam | constantly |
+| kāryam | duty |
+| karma | action |
+| samācara | perform well |
+| asaktaḥ | unattached |
+| hi | because |
+| ācaran | performing |
+| karma | action |
+| param | the Supreme |
+| āpnoti | attains |
+| pūruṣaḥ | a person |
+

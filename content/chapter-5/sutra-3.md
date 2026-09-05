@@ -31,3 +31,57 @@ position: 207
 
 ```
 
+
+### Transliteration
+```
+jñeyaḥ sa nityasaṃnyāsī yo na dveṣṭi na kāṅkṣati
+nirdvandvo hi mahābāho sukhaṃ bandhātpramucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि सच्चा संन्यास केवल कर्मों को त्यागने में नहीं है, बल्कि मन की स्थिति में है। जो व्यक्ति राग और द्वेष से मुक्त है, वही वास्तविक और नित्य संन्यासी है, भले ही वह कर्म कर रहा हो। ऐसा व्यक्ति सुख-दुःख आदि द्वन्द्वों से परे होकर सरलता से संसार के बन्धनों से मुक्त हो जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna clarifies that true renunciation is a state of mind rather than the mere physical abandonment of actions. A person who is free from attachment and aversion is considered a constant renouncer, even while engaged in action. Being free from dualities like joy and sorrow, such a person is easily liberated from the bondage of the material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्ञेयः | जानना चाहिए |
+| सः | वह |
+| नित्यसंन्यासी | नित्य संन्यासी |
+| यः | जो |
+| न | नहीं |
+| द्वेष्टि | द्वेष करता है |
+| न | नहीं |
+| काङ्क्षति | इच्छा करता है |
+| निर्द्वन्द्वः | द्वन्द्वों से रहित |
+| हि | क्योंकि |
+| महाबाहो | हे महाबाहु |
+| सुखम् | सुखपूर्वक |
+| बन्धात् | बन्धन से |
+| प्रमुच्यते | मुक्त हो जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jñeyaḥ | should be known |
+| saḥ | he |
+| nityasaṃnyāsī | as a perpetual renouncer |
+| yaḥ | who |
+| na | not |
+| dveṣṭi | hates |
+| na | not |
+| kāṅkṣati | desires |
+| nirdvandvaḥ | free from dualities |
+| hi | certainly |
+| mahābāho | O mighty-armed one |
+| sukham | easily |
+| bandhāt | from bondage |
+| pramucyate | is liberated |
+

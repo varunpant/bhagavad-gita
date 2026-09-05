@@ -31,3 +31,51 @@ position: 494
 
 ```
 
+
+### Transliteration
+```
+ṛṣibhirbahudhā gītaṃ chandobhirvividhaiḥ pṛthak
+brahmasūtrapadaiścaiva hetumadbhirviniścitaiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि क्षेत्र (शरीर) और क्षेत्रज्ञ (आत्मा) का यह ज्ञान कोई नया नहीं है। इसे प्राचीन काल से ही ऋषियों ने विभिन्न वैदिक छन्दों और उपनिषदों में विस्तार से समझाया है। इसके अतिरिक्त, अत्यंत तार्किक और अकाट्य प्रमाणों से युक्त ब्रह्मसूत्र के पदों में भी इसी सत्य का प्रतिपादन किया गया है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that the knowledge of the field (the body) and the knower of the field (the soul) is not a new concept. It has been sung and analyzed in various ways by ancient sages in different Vedic hymns. Furthermore, it has been presented with logical reasoning and conclusive evidence in the aphorisms of the Brahma-sutras.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ऋषिभिः | ऋषियों द्वारा |
+| बहुधा | बहुत प्रकार से |
+| गीतम् | गाया गया है |
+| छन्दोभिः | वेदमन्त्रों द्वारा |
+| विविधैः | विविध / अनेक प्रकार के |
+| पृथक् | पृथक-पृथक (अलग-अलग) |
+| ब्रह्मसूत्र-पदैः | ब्रह्मसूत्र के पदों द्वारा |
+| च | और |
+| एव | भी / ही |
+| हेतुमद्भिः | हेतुयुक्त (तर्कपूर्ण) |
+| विनिश्िचतैः | भली-भाँति निश्चय किए हुए / अकाट्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ṛṣibhiḥ | by the sages |
+| bahudhā | in many ways |
+| gītam | sung |
+| chandobhiḥ | by Vedic hymns |
+| vividhaiḥ | by various |
+| pṛthak | distinctly |
+| brahmasūtra-padaiḥ | by the aphorisms of the Brahma-sutra |
+| ca | and |
+| eva | also |
+| hetumadbhiḥ | full of reasons / logical |
+| viniścitaiḥ | conclusive / decisive |
+

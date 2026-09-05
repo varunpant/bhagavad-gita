@@ -31,3 +31,57 @@ position: 544
 
 ```
 
+
+### Transliteration
+```
+guṇānetānatītya trīndehī dehasamudbhavān
+janmamṛtyujarāduḥkhairvimukto'mṛtamaśnute
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण गुणातीत (गुणों से परे) होने के परम लाभ का वर्णन करते हैं। जब जीवात्मा प्रकृति के तीनों गुणों (सत्त्व, रज और तम) से ऊपर उठ जाती है, तो वह शारीरिक बंधनों से मुक्त हो जाती है। इसके परिणामस्वरूप, वह जन्म, मृत्यु और बुढ़ापे के चक्र से छूटकर परम आनंद और अमरता का अनुभव करती है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the ultimate benefit of transcending the three modes of material nature. When the embodied soul rises above sattva, rajas, and tamas, which are responsible for the physical manifestation, it becomes free from the cycle of birth, old age, and death. Consequently, the soul attains liberation and experiences eternal bliss.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| गुणान् | गुणों को |
+| एतान् | इन |
+| अतीत्य | पार करके |
+| त्रीन् | तीनों |
+| देही | देहधारी (जीवात्मा) |
+| देह | शरीर की |
+| समुद्भवान् | उत्पत्ति के कारण रूप |
+| जन्म | जन्म |
+| मृत्यु | मृत्यु |
+| जरा | बुढ़ापा |
+| दुःखैः | और दुखों से |
+| विमुक्तः | मुक्त होकर |
+| अमृतम् | अमृत (मोक्ष) को |
+| अश्नुते | प्राप्त करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| guṇān | modes of nature |
+| etān | these |
+| atītya | having transcended |
+| trīn | three |
+| dehī | the embodied soul |
+| deha | of the body |
+| samudbhavān | which are the source of origin |
+| janma | birth |
+| mṛtyu | death |
+| jarā | old age |
+| duḥkhaiḥ | and distresses |
+| vimuktaḥ | being freed from |
+| amṛtam | immortality |
+| aśnute | attains |
+

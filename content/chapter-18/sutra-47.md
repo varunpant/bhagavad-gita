@@ -31,3 +31,51 @@ position: 670
 
 ```
 
+
+### Transliteration
+```
+śreyān svadharmo viguṇaḥ paradharmāt svanuṣṭhitāt
+svabhāvaniyataṃ karma kurvannāpnoti kilbiṣam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण स्वधर्म के पालन के महत्त्व पर बल देते हैं। भले ही किसी दूसरे का कर्तव्य देखने में अधिक सरल या आकर्षक लगे, फिर भी मनुष्य के लिए अपने स्वभाव के अनुकूल नियत कर्म करना ही श्रेयस्कर है। अपने सहज स्वभाव के अनुसार कर्म करने से मनुष्य पाप का भागी नहीं बनता, क्योंकि वह प्रकृति के नियमों के अनुकूल कार्य कर रहा होता है।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes the importance of following one's own prescribed duty (svadharma). Even if another's duty seems more attractive or easier to perform, it is spiritually safer and better to perform one's own duty, even if imperfectly. By performing actions aligned with one's inherent nature, a person does not incur any sin.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रेयान् | श्रेष्ठतर |
+| स्वधर्मः | अपना धर्म |
+| विगुणः | गुणरहित (दोषयुक्त) |
+| परधर्मात् | दूसरे के धर्म से |
+| स्वनुष्ठितात् | अच्छी प्रकार आचरण किए हुए से |
+| स्वभाव-नियतम् | स्वभाव से नियत किए हुए |
+| कर्म | कर्म को |
+| कुर्वन् | करता हुआ |
+| न | नहीं |
+| आप्नोति | प्राप्त करता है |
+| किल्बिषम् | पाप को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śreyān | better |
+| svadharmaḥ | one's own duty |
+| viguṇaḥ | devoid of merit |
+| paradharmāt | than another's duty |
+| svanuṣṭhitāt | well-performed |
+| svabhāva-niyataṃ | prescribed by one's own nature |
+| karma | action |
+| kurvan | doing |
+| na | not |
+| āpnoti | incurs |
+| kilbiṣam | sin |
+

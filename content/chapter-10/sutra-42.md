@@ -31,3 +31,57 @@ position: 414
 
 ```
 
+
+### Transliteration
+```
+athavā bahunaitena kiṃ jñātena tavārjuna
+viṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अपनी विभूतियों के वर्णन का उपसंहार करते हैं। वे अर्जुन से कहते हैं कि मेरे अनंत रूपों और ऐश्वर्यों को अलग-अलग जानने की कोई विशेष आवश्यकता नहीं है। इस संपूर्ण ब्रह्मांड का अस्तित्व मेरे केवल एक लघु अंश मात्र से ही टिका हुआ है, जो मेरी अनंत शक्ति को दर्शाता है।
+
+### Meaning
+
+In this verse, Lord Krishna concludes the description of His divine opulences. He tells Arjuna that there is no need to know all His manifestations in detail. The entire universe is sustained and pervaded by just a single fraction of His divine power, illustrating His infinite nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अथवा | या फिर |
+| बहुना | बहुत अधिक |
+| एतेन | इस (विस्तृत ज्ञान) से |
+| किम् | क्या (प्रयोजन) |
+| ज्ञातेन | जानने से |
+| तव | तुम्हारा |
+| अर्जुन | हे अर्जुन |
+| विष्टभ्य | व्याप्त करके (धारण करके) |
+| अहम् | मैं |
+| इदम् | इस |
+| कृत्स्नम् | संपूर्ण |
+| एक-अंशेन | एक अंश मात्र से |
+| स्थितः | स्थित हूँ |
+| जगत् | जगत् को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| athavā | or |
+| bahunā | detailed / much |
+| etena | by this |
+| kim | what (use) |
+| jñātena | by knowing |
+| tava | of you |
+| arjuna | O Arjuna |
+| viṣṭabhya | supporting / pervading |
+| aham | I |
+| idam | this |
+| kṛtsnam | entire |
+| eka-aṃśena | by a single fraction |
+| sthitaḥ | exist / am situated |
+| jagat | universe |
+

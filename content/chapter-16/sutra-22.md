@@ -31,3 +31,55 @@ position: 593
 
 ```
 
+
+### Transliteration
+```
+etair vimuktaḥ kaunteya tamodvāraistribhir naraḥ
+ācaraty ātmanaḥ śreyas tato yāti parāṃ gatim
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि काम, क्रोध और लोभ रूपी नरक के तीन द्वारों से मुक्त होने पर ही मनुष्य का वास्तविक कल्याण संभव है। जब मनुष्य इन विकारों से मुक्त हो जाता है, तब वह आत्म-कल्याण के मार्ग पर चलने योग्य बनता है। इस साधना के फलस्वरूप वह अंततः परम गति अर्थात् मोक्ष को प्राप्त करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that only when a person is liberated from the three gates of darkness—lust, anger, and greed—can they act for their true spiritual well-being. Free from these destructive forces, one naturally performs actions that elevate the soul. Consequently, such a self-controlled person progresses on the spiritual path and ultimately attains the supreme goal of liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एतैः | इनसे |
+| विमुक्तः | मुक्त हुआ |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| तमः-द्वारैः | अज्ञान (नरक) के द्वारों से |
+| त्रिभिः | तीनों से |
+| नरः | मनुष्य |
+| आचरति | आचरण करता है |
+| आत्मनः | अपने स्वयं के |
+| श्रेयः | कल्याण का |
+| ततः | उससे (उसके बाद) |
+| याति | प्राप्त करता है |
+| पराम् | परम |
+| गतिम् | गति को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| etaiḥ | from these |
+| vimuktaḥ | liberated |
+| kaunteya | O son of Kunti |
+| tamaḥ-dvāraiḥ | from the gates of darkness (hell) |
+| tribhiḥ | three |
+| naraḥ | a man |
+| ācarati | performs / practices |
+| ātmanaḥ | of the self |
+| śreyaḥ | what is good / welfare |
+| tataḥ | thereafter |
+| yāti | attains |
+| parām | the supreme |
+| gatim | destination / goal |
+

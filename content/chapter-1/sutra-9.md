@@ -33,3 +33,47 @@ in battle.
 
 ```
 
+
+### Transliteration
+```
+anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ
+nānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ
+
+```
+
+### भावार्थ
+
+दुर्योधन द्रोणाचार्य के समक्ष अपनी सेना की शक्ति का बखान करना जारी रखता है। वह कहता है कि मुख्य सेनापतियों के अतिरिक्त भी कई ऐसे वीर हैं जो उसके लिए अपने प्राणों का बलिदान देने को तत्पर हैं। यह कथन एक ओर उसके अहंकार को दर्शाता है, तो दूसरी ओर इस युद्ध में होने वाले भयंकर विनाश का पूर्व संकेत भी देता है।
+
+### Meaning
+
+Duryodhana continues to boast about the strength of his army to Dronacharya. He mentions that apart from the principal commanders, there are countless other valiant warriors willing to sacrifice their lives for him. This statement subtly reveals his inner insecurity and foreshadows the massive loss of life that is about to occur on the battlefield.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अन्ये | अन्य |
+| च | और |
+| बहवः | बहुत से |
+| शूराः | शूरवीर |
+| मदर्थे | मेरे लिए |
+| त्यक्तजीविताः | प्राणों की आशा त्यागने वाले |
+| नानाशस्त्रप्रहरणाः | अनेक प्रकार के अस्त्र-शस्त्रों से सुसज्जित |
+| सर्वे | सभी |
+| युद्धविशारदाः | युद्ध-विद्या में निपुण |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| anye | other |
+| ca | and |
+| bahavaḥ | many |
+| śūrāḥ | heroes |
+| madarthe | for my sake |
+| tyaktajīvitāḥ | ready to give up their lives |
+| nānāśastrapraharaṇāḥ | equipped with various weapons and missiles |
+| sarve | all |
+| yuddhaviśāradāḥ | skilled in warfare |
+

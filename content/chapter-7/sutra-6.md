@@ -31,3 +31,53 @@ position: 286
 
 ```
 
+
+### Transliteration
+```
+etadyonīni bhūtāni sarvāṇītyupadhāraya
+ahhaṃ kṛtsnasya jagataḥ prabhavaḥ pralayastathā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि उनकी परा (चेतन) और अपरा (जड़) प्रकृतियाँ ही संसार के समस्त चराचर प्राणियों की उत्पत्ति का कारण हैं। भगवान ही इस सृष्टि के परम कारण हैं, जिससे सब कुछ उत्पन्न होता है और अंत में सब कुछ उन्हीं में विलीन हो जाता है। वे ही इस जगत के सृजनकर्ता और संहारकर्ता दोनों हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that His dual natures—the lower material nature and the higher spiritual nature—are the source of all created beings. He declares Himself to be the ultimate cause of the entire cosmos, acting as both its origin and its final dissolution. Everything emanates from Him and eventually merges back into Him.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एतत् | इन दोनों को |
+| योनीनि | उत्पत्ति का कारण (योनि वाले) |
+| भूतानि | प्राणी |
+| सर्वाणी | सभी |
+| इति | इस प्रकार |
+| उपधारय | तुम जानो (समझो) |
+| अहम् | मैं |
+| कृत्स्नस्य | संपूर्ण |
+| जगतः | जगत का |
+| प्रभवः | उत्पत्ति स्थान (सृष्टि) |
+| प्रलयः | प्रलय (विनाश) |
+| तथा | और भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| etat | these two |
+| yonīni | having as source of birth |
+| bhūtāni | living beings |
+| sarvāṇi | all |
+| iti | thus |
+| upadhāraya | know / understand |
+| aham | I |
+| kṛtsnasya | of the entire |
+| jagataḥ | of the universe |
+| prabhavaḥ | the origin |
+| pralayaḥ | the dissolution |
+| tathā | as well as |
+

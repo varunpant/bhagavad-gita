@@ -31,3 +31,57 @@ position: 671
 
 ```
 
+
+### Transliteration
+```
+sahajaṃ karma kaunteya sadoṣamapi na tyajet
+sarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रत्येक मनुष्य को अपने स्वभाव के अनुकूल नियत कर्म ही करना चाहिए, भले ही उसमें कोई त्रुटि या दोष दिखाई दे। संसार में ऐसा कोई भी कर्म नहीं है जो पूर्णतः दोषमुक्त हो, क्योंकि प्रकृति के तीनों गुणों के प्रभाव से हर कार्य में कुछ न कुछ कमी रह जाती है। जैसे अग्नि के साथ धुआँ स्वाभाविक रूप से रहता है, वैसे ही हर कर्म के साथ कोई न कोई दोष जुड़ा रहता है, इसलिए अपने सहज कर्तव्य का त्याग नहीं करना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna advises Arjuna that one should not abandon their prescribed duty born of their own nature, even if it appears flawed. No action in the material world is entirely free from imperfection, as all endeavors are bound by the three modes of material nature. Just as fire is naturally accompanied and covered by smoke, all human undertakings are inherently accompanied by some defect; hence, performing one's natural duty is always superior to abandoning it.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सहजम् | सहज (स्वभाव से उत्पन्न) |
+| कर्म | कर्म को |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| सदोषम् | दोषयुक्त |
+| अपि | भी |
+| न | नहीं |
+| त्यजेत् | त्यागना चाहिए |
+| सर्व-आरम्भाः | सभी कर्म या प्रयास |
+| हि | क्योंकि |
+| दोषेण | दोष से |
+| धूमेन | धुएँ से |
+| अग्निः | अग्नि |
+| इव | की भाँति |
+| आवृताः | ढके हुए हैं |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sahajam | born of one's nature |
+| karma | duty / action |
+| kaunteya | O son of Kunti |
+| sadoṣam | faulty / with defect |
+| api | even |
+| na | not |
+| tyajet | one should abandon |
+| sarva-ārambhāḥ | all undertakings |
+| hi | indeed |
+| doṣeṇa | by defect |
+| dhūmena | by smoke |
+| agniḥ | fire |
+| iva | as / like |
+| āvṛtāḥ | covered / enveloped |
+

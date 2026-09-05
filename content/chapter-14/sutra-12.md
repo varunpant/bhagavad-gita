@@ -31,3 +31,51 @@ position: 536
 
 ```
 
+
+### Transliteration
+```
+lobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā
+rajasyetāni jāyante vivṛddhe bharatarṣabha
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को रजोगुण के बढ़ने के लक्षणों के बारे में बता रहे हैं। जब किसी व्यक्ति के भीतर रजोगुण की प्रधानता होती है, तो उसमें धन-सम्पत्ति के प्रति लोभ, निरंतर कर्म करने की प्रवृत्ति, नए सकाम कर्मों का आरम्भ, मन की चंचलता या अशान्ति और सांसारिक वस्तुओं के प्रति तीव्र लालसा उत्पन्न होती है। ये लक्षण रजोगुण की वृद्धि के स्पष्ट संकेतक हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the symptoms that manifest when the mode of passion (rajas) becomes dominant. When rajas increases, a person experiences greed, constant activity, the initiation of self-serving endeavors, mental restlessness, and an insatiable longing for material things. These qualities indicate that the mode of passion is overpowering the other modes of nature.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| लोभः | लोभ (लालच) |
+| प्रवृत्तिः | प्रवृत्ति (सक्रियता) |
+| आरम्भः | आरम्भ करना |
+| कर्मणाम् | कर्मों का |
+| अशमः | अशान्ति (चंचलता) |
+| स्पृहा | लालसा (कामना) |
+| रजसि | रजोगुण के |
+| एतानि | ये सब |
+| जायन्ते | उत्पन्न होते हैं |
+| विवृद्धे | बढ़ जाने पर |
+| भरतर्षभ | हे भरतश्रेष्ठ (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| lobhaḥ | greed |
+| pravṛttiḥ | activity |
+| ārambhaḥ | undertaking |
+| karmaṇām | of actions |
+| aśamaḥ | restlessness |
+| spṛhā | longing (desire) |
+| rajasi | when the mode of passion |
+| etāni | these |
+| jāyante | arise |
+| vivṛddhe | upon being increased |
+| bharatarṣabha | O best of the Bharatas (Arjuna) |
+

@@ -32,3 +32,55 @@ earth, said: "O Arjuna (son of Pritha), behold these Kurus gathered together."
 
 ```
 
+
+### Transliteration
+```
+bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām
+uvāca pārtha paśyaitānsamavetānkurūniti
+
+```
+
+### भावार्थ
+
+इस श्लोक में संजय वर्णन करते हैं कि कैसे भगवान श्रीकृष्ण रथ को पितामह भीष्म, द्रोणाचार्य और अन्य सभी राजाओं के ठीक सामने खड़ा कर देते हैं। अर्जुन को "एकत्र हुए कुरुवंशियों" को देखने के लिए कहकर, श्रीकृष्ण जानबूझकर उसके भीतर छिपे पारिवारिक मोह को जगाते हैं। रथ का यह स्थान अर्जुन के आगामी नैतिक संकट और विषाद की पृष्ठभूमि तैयार करता है।
+
+### Meaning
+
+In this verse, Sanjaya describes how Lord Krishna positions the chariot right in front of the most revered elders, Bhishma and Drona. By asking Arjuna to look at the "assembled Kurus," Krishna subtly awakens Arjuna's familial attachments. This strategic placement sets the stage for Arjuna's impending moral dilemma and emotional breakdown.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| भीष्म | भीष्म |
+| द्रोण | द्रोण |
+| प्रमुखतः | के सामने |
+| सर्वेषाम् | सभी |
+| च | तथा |
+| महीक्षिताम् | राजाओं के |
+| उवाच | कहा |
+| पार्थ | हे पार्थ |
+| पश्य | देखो |
+| एतान् | इन |
+| समवेतान् | एकत्र हुए |
+| कुरून् | कुरुओं को |
+| इति | इस प्रकार |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| bhīṣma | Bhishma |
+| droṇa | Drona |
+| pramukhataḥ | in front of |
+| sarveṣām | all |
+| ca | and |
+| mahīkṣitām | of the kings of the earth |
+| uvāca | said |
+| pārtha | O Partha |
+| paśya | behold |
+| etān | these |
+| samavetān | assembled |
+| kurūn | Kurus |
+| iti | thus |
+

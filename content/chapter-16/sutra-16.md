@@ -31,3 +31,51 @@ position: 587
 
 ```
 
+
+### Transliteration
+```
+anekacittavibhrāntā mohajālasamāvṛtāḥ
+prasaktāḥ kāmabhogeṣu patanti narake'śucau
+
+```
+
+### भावार्थ
+
+इस श्लोक में आसुरी प्रवृत्ति वाले मनुष्यों के पतन का वर्णन किया गया है। वे अनेक प्रकार की चिंताओं और कामनाओं के कारण मानसिक रूप से भ्रमित रहते हैं। अज्ञान और मोह के जाल में फंसकर वे केवल इंद्रिय-तृप्ति में लगे रहते हैं, जिसके परिणामस्वरूप अंततः वे घोर नरक में गिरते हैं।
+
+### Meaning
+
+This verse describes the ultimate downfall of those with demoniac qualities. Bewildered by countless desires and anxieties, they are caught in the web of illusion. Being deeply attached to sensory pleasures, they accumulate sinful reactions and eventually fall into a degraded, foul hell.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनेक | अनेक प्रकार के |
+| चित्त | विचारों से |
+| विभ्रान्ताः | भ्रमित |
+| मोह | मोह रूपी |
+| जाल | जाल से |
+| समावृताः | घिरे हुए |
+| प्रसक्ताः | अत्यंत आसक्त |
+| काम-भोगेषु | इंद्रिय-भोगों में |
+| पतन्ति | गिरते हैं |
+| नरके | नरक में |
+| अशुचौ | अपवित्र / अशुद्ध |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aneka | by numerous |
+| citta | anxieties / thoughts |
+| vibhrāntāḥ | bewildered |
+| moha | of delusion |
+| jāla | by the net |
+| samāvṛtāḥ | entangled |
+| prasaktāḥ | attached |
+| kāma-bhogeṣu | to sense gratification |
+| patanti | they fall |
+| narake | into hell |
+| aśucau | unclean / foul |
+

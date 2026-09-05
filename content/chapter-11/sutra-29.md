@@ -31,3 +31,63 @@ position: 443
 
 ```
 
+
+### Transliteration
+```
+yathā pradīptaṃ jvalanaṃ pataṅgā
+viśanti nāśāya samṛddhavegāḥ
+tathaiva nāśāya viśanti lokā
+stavāpi vaktrāṇi samṛddhavegāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विश्वरूप के भयानक संहारक रूप का वर्णन कर रहे हैं। जैसे पतंगे अज्ञानवश जलती हुई आग की ओर आकर्षित होकर नष्ट हो जाते हैं, वैसे ही ब्रह्मांड के समस्त प्राणी और योद्धा काल रूपी भगवान के मुखों में समाते जा रहे हैं। यह दृश्य सृष्टि के अनिवार्य अंत और काल की सर्वभक्षी शक्ति को दर्शाता है।
+
+### Meaning
+
+In this verse, Arjuna describes the terrifying, destructive aspect of Lord Krishna's cosmic form. Just as moths are irresistibly drawn to a blazing fire only to be consumed by it, all these living beings and warriors are rushing headlong into the Lord's mouths to their demise. This imagery highlights the inevitable destruction of all material existence by the power of time.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यथा | जैसे |
+| प्रदीप्तम् | प्रज्वलित |
+| ज्वलनम् | अग्नि को |
+| पतङ्गाः | पतंगे |
+| विशन्ति | प्रवेश करते हैं |
+| नाशाय | विनाश के लिए |
+| समृद्ध-वेगाः | अत्यंत तीव्र वेग वाले |
+| तथा | वैसे |
+| एव | ही |
+| नाशाय | विनाश के लिए |
+| विशन्ति | प्रवेश कर रहे हैं |
+| लोकाः | लोग (प्राणी) |
+| तव | आपके |
+| अपि | भी |
+| वक्त्राणि | मुखों में |
+| समृद्ध-वेगाः | अत्यंत तीव्र वेग वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yathā | just as |
+| pradīptam | blazing |
+| jvalanam | fire |
+| pataṅgāḥ | moths |
+| viśanti | enter |
+| nāśāya | for destruction |
+| samṛddha-vegāḥ | with great speed |
+| tathā | so |
+| eva | indeed |
+| nāśāya | for destruction |
+| viśanti | enter |
+| lokāḥ | the people (worlds) |
+| tava | your |
+| api | also |
+| vaktrāṇi | mouths |
+| samṛddha-vegāḥ | with great speed |
+

@@ -31,3 +31,59 @@ position: 662
 
 ```
 
+
+### Transliteration
+```
+yad agre cānubandhe ca sukhaṃ mohanam ātmanaḥ
+nidrālasyapramādotthaṃ tat tāmasam udāhṛtam
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण यहाँ तामसी सुख के लक्षणों का वर्णन कर रहे हैं। ऐसा सुख जो मनुष्य को अज्ञान के अंधकार में धकेलता है, आरम्भ से लेकर अंत तक केवल मोह और भ्रम पैदा करता है। यह सुख किसी पुरुषार्थ से नहीं, बल्कि अत्यधिक सोने (निद्रा), अकर्मण्यता (आलस्य) और कर्तव्य के प्रति लापरवाही (प्रमाद) से उत्पन्न होता है।
+
+### Meaning
+
+Lord Krishna describes the characteristics of tamasic pleasure, which is rooted in ignorance. Such pleasure deludes the soul from beginning to end and offers no real growth. It arises not from effort or achievement, but from sleep, laziness, and apathy, leading to the degradation of consciousness.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जो |
+| अग्रे | आरम्भ में |
+| च | और |
+| अनुबन्धे | परिणाम में |
+| च | भी |
+| सुखम् | सुख |
+| मोहनम् | मोहित करने वाला |
+| आत्मनः | आत्मा को |
+| निद्रा | नींद |
+| आलस्य | आलस्य |
+| प्रमाद | और प्रमाद (लापरवाही) |
+| उत्थम् | से उत्पन्न |
+| तत् | वह |
+| तामसम् | तामस |
+| उदाहृतम् | कहा गया है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | which |
+| agre | in the beginning |
+| ca | and |
+| anubandhe | in the end (consequence) |
+| ca | also |
+| sukham | pleasure |
+| mohanam | delusive |
+| ātmanaḥ | of the self |
+| nidrā | sleep |
+| ālasya | laziness |
+| pramāda | negligence |
+| uttham | arising from |
+| tat | that |
+| tāmasam | tamasic (in the mode of ignorance) |
+| udāhṛtam | is declared to be |
+

@@ -31,3 +31,53 @@ position: 307
 
 ```
 
+
+### Transliteration
+```
+icchādveṣasamutthena dvandvamohena bhārata
+sarvabhūtāni saṃmohaṃ sarge yānti parantapa
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि संसार के सभी जीव जन्म लेते ही मोहग्रस्त क्यों हो जाते हैं। राग (इच्छा) और द्वेष (नफ़रत) से उत्पन्न होने वाले सुख-दुःख, सर्दी-गर्मी जैसे द्वन्द्व मनुष्यों की बुद्धि को भ्रमित कर देते हैं। इसी द्वन्द्व-मोह के कारण जीव परमात्मा के वास्तविक स्वरूप को नहीं पहचान पाते और संसार चक्र में फंसे रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains why living beings are deluded from their very birth. The dualities of life, such as pleasure and pain, which arise from desire and aversion, cloud the intellect of living entities. Due to this delusion of dualities, they lose sight of the ultimate truth and remain trapped in the cycle of material existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इच्छा | इच्छा (राग) |
+| द्वेष | और द्वेष (घृणा) |
+| समुत्थेन | से उत्पन्न होने वाले |
+| द्वन्द्व | द्वन्द्व (सुख-दुःख आदि के जोड़े) |
+| मोहेन | रूपी अज्ञान से |
+| भारत | हे भरतवंशी (अर्जुन) |
+| सर्व | सभी |
+| भूतानि | प्राणी |
+| संमोहम् | अत्यंत भ्रम (मोह) को |
+| सर्गे | सृष्टि में (जन्म लेते ही) |
+| यान्ति | प्राप्त होते हैं |
+| परन्तप | हे शत्रुओं को तपाने वाले (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| icchā | desire |
+| dveṣa | and hate |
+| samutthena | arisen from |
+| dvandva | of dualities |
+| mohena | by the delusion |
+| bhārata | O descendant of Bharata |
+| sarva | all |
+| bhūtāni | living beings |
+| saṃmoham | into delusion |
+| sarge | in the creation (at birth) |
+| yānti | go (fall) |
+| parantapa | O conqueror of foes |
+

@@ -31,3 +31,55 @@ position: 168
 
 ```
 
+
+### Transliteration
+```
+ajo'pi sannavyayātmā bhūtānāmīśvaro'pi san
+prakṛtiṃ svāmadhiṣṭhāya saṃbhavāmyātmamāyayā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपने अवतार का रहस्य बताते हैं। साधारण जीवों की तरह भगवान कर्मों के बंधन में आकर जन्म नहीं लेते, बल्कि वे अपनी स्वतंत्र इच्छा और योगमाया से प्रकट होते हैं। भौतिक जगत में अवतरित होने पर भी वे अजन्मा, अविनाशी और सभी प्राणियों के परमेश्वर ही रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the divine nature of His appearance in the material world. Unlike ordinary living beings who are forced to take birth due to karma, the Lord appears by His own free will and internal potency (Maya). He remains the unborn, imperishable Lord of all beings even when He manifests Himself.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अजः | अजन्मा |
+| अपि | भी |
+| सन् | होते हुए |
+| अव्ययात्मा | अविनाशी स्वरूप वाला |
+| भूतानाम् | सब प्राणियों का |
+| ईश्वरः | ईश्वर |
+| अपि | भी |
+| सन् | होते हुए |
+| प्रकृतिम् | प्रकृति को |
+| स्वाम् | अपनी |
+| अधिष्ठाय | अधीन करके |
+| संभवामि | प्रकट होता हूँ |
+| आत्ममायया | अपनी योगमाया से |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ajaḥ | unborn |
+| api | although |
+| san | being |
+| avyayātmā | of imperishable nature |
+| bhūtānām | of all beings |
+| īśvaraḥ | the Lord |
+| api | although |
+| san | being |
+| prakṛtim | nature |
+| svām | My own |
+| adhiṣṭhāya | controlling |
+| sambhavāmi | I manifest |
+| ātmamāyayā | by My own internal potency |
+

@@ -31,3 +31,62 @@ position: 546
 
 ```
 
+
+### Transliteration
+```
+śrībhagavānuvāca
+prakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava
+na dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण गुणातीत (गुणों से परे गए) पुरुष के लक्षणों का वर्णन करना आरम्भ करते हैं। जब सत्त्वगुण का कार्य 'प्रकाश', रजोगुण का कार्य 'प्रवृत्ति' और तमोगुण का कार्य 'मोह' प्रकट होते हैं, तब वह ज्ञानी पुरुष उनसे द्वेष नहीं करता। इसी प्रकार, जब ये गुण शांत हो जाते हैं, तब वह उनकी पुनः प्राप्ति की इच्छा भी नहीं करता, क्योंकि वह साक्षी भाव में स्थित रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna begins to describe the characteristics of a person who has transcended the three modes of material nature (gunas). When illumination (sattva), activity (rajas), and delusion (tamas) arise, the self-realized soul does not hate them. Conversely, when these states cease, he does not crave or long for them, remaining established as an unattached observer.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रीभगवान् | श्री भगवान |
+| उवाच | ने कहा |
+| प्रकाशम् | प्रकाश को (सत्त्वगुण के कार्य को) |
+| च | और |
+| प्रवृत्तिम् | प्रवृत्ति को (रजोगुण के कार्य को) |
+| च | और |
+| मोहम् | मोह को (तमोगुण के कार्य को) |
+| एव | ही |
+| च | और |
+| पाण्डव | हे पाण्डुपुत्र अर्जुन |
+| न | नहीं |
+| द्वेष्टि | द्वेष करता है |
+| सम्प्रवृत्तानि | प्रवृत्त होने पर (सामने आने पर) |
+| न | न |
+| निवृत्तानि | निवृत्त होने पर (चले जाने पर) |
+| काङ्क्षति | आकांक्षा करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī-bhagavān | the Supreme Lord |
+| uvāca | said |
+| prakāśam | illumination |
+| ca | and |
+| pravṛttim | activity |
+| ca | and |
+| moham | delusion |
+| eva | indeed |
+| ca | and |
+| pāṇḍava | O son of Pāṇḍu |
+| na | not |
+| dveṣṭi | hates |
+| sampravṛttāni | when they are fully active |
+| na | nor |
+| nivṛttāni | when they have ceased |
+| kāṅkṣati | longs for |
+

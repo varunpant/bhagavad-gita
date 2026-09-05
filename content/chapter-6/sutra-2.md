@@ -31,3 +31,59 @@ position: 235
 
 ```
 
+
+### Transliteration
+```
+yaṃ saṃnyāsam iti prāhur yogaṃ taṃ viddhi pāṇḍava
+na hy asaṃnyasta-saṅkalpo yogī bhavati kaścana
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण संन्यास (ज्ञानयोग) और कर्मयोग की एकता को स्पष्ट कर रहे हैं। वे अर्जुन को समझाते हैं कि जिसे लोग संन्यास कहते हैं, वह वास्तव में कर्मयोग ही है, क्योंकि दोनों का मूल आधार एक ही है। जब तक कोई मनुष्य फल की इच्छा और कर्तापन के भाव (संकल्प) का त्याग नहीं करता, तब तक वह सच्चा योगी या संन्यासी नहीं बन सकता।
+
+### Meaning
+
+In this verse, Lord Krishna establishes the essential unity between renunciation (sannyasa) and the yoga of action (karma-yoga). He explains to Arjuna that what is traditionally called renunciation is actually identical to yoga. This is because no one can truly become a yogi without first relinquishing personal motives and selfish desires (sankalpa).
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यम् | जिसको |
+| संन्यासम् | संन्यास |
+| इति | इस प्रकार |
+| प्राहुः | कहते हैं |
+| योगम् | योग |
+| तम् | उसको |
+| विद्धि | जानो |
+| पाण्डव | हे पाण्डव (अर्जुन) |
+| न | नहीं |
+| हि | क्योंकि |
+| असंन्यस्त | बिना त्यागे हुए |
+| सङ्कल्पः | संकल्पों (कामनाओं) वाला |
+| योगी | योगी |
+| भवति | होता है |
+| कश्चन | कोई भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yam | which |
+| saṃnyāsam | renunciation |
+| iti | thus |
+| prāhuḥ | they call |
+| yogam | yoga |
+| tam | that |
+| viddhi | know |
+| pāṇḍava | O son of Pandu (Arjuna) |
+| na | not |
+| hi | indeed |
+| asaṃnyasta | without renouncing |
+| saṅkalpaḥ | selfish desire / mental formative will |
+| yogī | a yogi |
+| bhavati | becomes |
+| kaścana | anyone |
+

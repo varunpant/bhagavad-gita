@@ -31,3 +31,59 @@ position: 692
 
 ```
 
+
+### Transliteration
+```
+na ca tasmān manuṣyeṣu kaścin me priyakṛttamaḥ
+bhavitā na ca me tasmād anyaḥ priyataro bhuvi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण उस भक्त की महिमा गा रहे हैं जो गीता के इस परम रहस्यमय ज्ञान का प्रचार दूसरों में करता है। वे कहते हैं कि ऐसा प्रचारक उनका सबसे प्रिय सेवक है। भविष्य में भी पृथ्वी पर उससे बढ़कर कोई अन्य उन्हें प्रिय नहीं होगा।
+
+### Meaning
+
+In this verse, Lord Krishna glorifies the devotee who preaches this supreme and confidential knowledge of the Gita to others. He declares that no one performs a service more dear to Him than such a person. Furthermore, there will never be anyone on earth more beloved to Him in the future.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| न | न |
+| च | और |
+| तस्मात् | उससे बढ़कर |
+| मनुष्येषु | मनुष्यों में |
+| कश्चित् | कोई भी |
+| मे | मेरा |
+| प्रियकृत्तमः | अत्यंत प्रिय कार्य करने वाला |
+| भविता | होगा |
+| न | नहीं |
+| च | और |
+| मे | मेरा |
+| तस्मात् | उससे बढ़कर |
+| अन्यः | दूसरा |
+| प्रियतरः | अधिक प्रिय |
+| भुवि | पृथ्वी पर |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| na | not |
+| ca | and |
+| tasmāt | than him |
+| manuṣyeṣu | among men |
+| kaścit | anyone |
+| me | to Me |
+| priyakṛttamaḥ | one who performs the most dear service |
+| bhavitā | will be |
+| na | not |
+| ca | and |
+| me | to Me |
+| tasmāt | than him |
+| anyaḥ | other |
+| priyataraḥ | dearer |
+| bhuvi | on earth |
+

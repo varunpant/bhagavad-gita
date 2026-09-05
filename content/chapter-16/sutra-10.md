@@ -31,3 +31,47 @@ position: 581
 
 ```
 
+
+### Transliteration
+```
+kāmam āśritya duṣpūraṃ dambhamānamadānvitāḥ
+mohād gṛhītvāsadgrāhān pravartante'śucivratāḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में आसुरी स्वभाव वाले मनुष्यों की प्रवृत्तियों का वर्णन किया गया है। वे कभी न तृप्त होने वाली वासनाओं के वश में रहते हैं और अहंकार तथा पाखंड से भरे होते हैं। मोह के कारण वे गलत धारणाओं को अपना लेते हैं और अपवित्र कर्मों में लगे रहते हैं।
+
+### Meaning
+
+This verse describes the behavior of those with demonic natures. They are driven by insatiable desires and are full of hypocrisy, pride, and arrogance. Deluded by ignorance, they adopt false values and pursue impure, materialistic goals.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| कामम् | कामनाओं का |
+| आश्रित्य | आश्रय लेकर |
+| दुष्पूरम् | कठिनाई से पूरी होने वाली (अतृप्त) |
+| दम्भ-मान-मद-अन्विताः | दम्भ, मान और मद से युक्त |
+| मोहात् | अज्ञान से / मोहवश |
+| गृहीत्वा | ग्रहण करके |
+| असत्-ग्राहान् | असत्य धारणाओं को |
+| प्रवर्तन्ते | प्रवृत्त होते हैं |
+| अशुचि-व्रताः | अपवित्र नियमों वाले / अपवित्र व्रतों को धारण करने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kāmam | desire |
+| āśritya | taking shelter of |
+| duṣpūram | insatiable |
+| dambha-māna-mada-anvitāḥ | filled with hypocrisy, pride, and arrogance |
+| mohāt | through delusion |
+| gṛhītvā | holding / adopting |
+| asat-grāhān | false notions / evil ideas |
+| pravartante | they engage / act |
+| aśuci-vratāḥ | people of impure resolves |
+

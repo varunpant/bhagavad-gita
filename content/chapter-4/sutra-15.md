@@ -31,3 +31,59 @@ position: 177
 
 ```
 
+
+### Transliteration
+```
+evaṃ jñātvā kṛtaṃ karma pūrvairapi mumukṣubhiḥ
+kuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को समझाते हैं कि उनके कर्मों की दिव्य प्रकृति को समझने से मनुष्य कर्म बंधनों से मुक्त हो जाता है। इस सत्य को जानकर प्राचीन काल के मोक्ष चाहने वालों ने भी अनासक्त भाव से अपने कर्तव्य कर्म किए थे। अतः अर्जुन को भी कर्मों का त्याग करने के बजाय अपने पूर्वजों के पदचिह्नों पर चलते हुए अपना नियत कर्म करना चाहिए।
+
+### Meaning
+
+Lord Krishna explains to Arjuna that understanding the divine nature of His actions frees one from karmic bondage. Ancient seekers of liberation, knowing this truth, performed their prescribed duties without attachment. Therefore, Arjuna is advised to follow the footsteps of these great ancestors and perform his duty rather than renouncing action.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| एवम् | इस प्रकार |
+| ज्ञात्वा | जानकर |
+| कृतम् | किया गया |
+| कर्म | कर्म |
+| पूर्वैः | पूर्वजों द्वारा |
+| अपि | भी |
+| मुमुक्षुभिः | मोक्ष की इच्छा रखने वालों द्वारा |
+| कुरु | करो |
+| कर्म | कर्म |
+| एव | ही |
+| तस्मात् | इसलिए |
+| त्वम् | तुम |
+| पूर्वैः | पूर्वजों द्वारा |
+| पूर्वतरम् | प्राचीन काल से |
+| कृतम् | किया गया |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| evam | thus |
+| jñātvā | knowing |
+| kṛtam | was performed |
+| karma | action |
+| pūrvaiḥ | by the ancients |
+| api | even |
+| mumukṣubhiḥ | by seekers of liberation |
+| kuru | perform |
+| karma | action |
+| eva | certainly |
+| tasmāt | therefore |
+| tvam | you |
+| pūrvaiḥ | by the ancients |
+| pūrvataram | in ancient times |
+| kṛtam | performed |
+

@@ -31,3 +31,59 @@ position: 595
 
 ```
 
+
+### Transliteration
+```
+tasmāc chāstraṃ pramāṇaṃ te kāryākāryavyavasthitau
+jñātvā śāstravidhānoktaṃ karma kartum ihārhasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को यह समझा रहे हैं कि जीवन में क्या करना चाहिए और क्या नहीं, इसका निर्णय व्यक्तिगत इच्छाओं के बजाय शास्त्रों के अनुसार होना चाहिए। शास्त्र हमें धर्म और अधर्म का सही मार्ग दिखाते हैं। अतः मनुष्य को शास्त्रों के नियमों को समझकर उसी के अनुरूप अपने कर्तव्यों का पालन करना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna emphasizes that scriptures should be the ultimate authority for determining duty and non-duty, rather than personal whims. Scriptures provide the objective framework for righteous living (dharma). Therefore, one must understand the scriptural injunctions and perform their prescribed duties accordingly in this world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तस्मात् | इसलिए |
+| शास्त्रम् | शास्त्र |
+| प्रमाणम् | प्रमाण (प्राधिकरण) |
+| ते | तुम्हारे लिए |
+| कार्य | कर्तव्य |
+| अकार्य | और अकर्तव्य की |
+| व्यवस्थितौ | व्यवस्था में |
+| ज्ञात्वा | जानकर |
+| शास्त्र | शास्त्र के |
+| विधान | विधान द्वारा |
+| उक्तम् | कहे गए |
+| कर्म | कर्म को |
+| कर्तुम् | करने के लिए |
+| इह | इस संसार में |
+| अर्हसि | तुम योग्य हो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tasmāt | therefore |
+| śāstram | the scripture |
+| pramāṇam | the authority |
+| te | for you |
+| kārya | what ought to be done |
+| akārya | and what ought not to be done |
+| vyavasthitau | in determining |
+| jñātvā | knowing |
+| śāstra | of scripture |
+| vidhāna | by the rules |
+| uktam | declared |
+| karma | action |
+| kartum | to perform |
+| iha | in this world |
+| arhasi | you should |
+

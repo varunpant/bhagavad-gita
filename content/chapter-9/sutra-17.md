@@ -32,3 +32,59 @@ grandfather; the (one) thing to be known, the purifier, the sacred monosyllable 
 
 ```
 
+
+### Transliteration
+```
+pitāhamasya jagato mātā dhātā pitāmahaḥ
+vedyaṃ pavitramoṅkāra ṛk sāma yajureva ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी सर्वव्यापकता और परम आश्रयता को प्रकट कर रहे हैं। वे बताते हैं कि सृष्टि के आदि कारण, पोषक, और परम पूज्य वे ही हैं। ज्ञान के समस्त साधनों, पवित्र करने वाले तत्वों और वेदों के मूल प्रणव (ॐ) के रूप में भी वे ही प्रतिष्ठित हैं।
+
+### Meaning
+
+In this verse, Lord Krishna declares His absolute position as the source, sustainer, and ultimate refuge of the entire universe. He identifies Himself as the cosmic parents, the sustainer, and the primeval grandfather. Furthermore, He is the ultimate object of knowledge, the purifying agent, the sacred syllable Om, and the three Vedas.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पिता | पिता |
+| अहम् | मैं |
+| अस्य | इस |
+| जगतः | जगत् का |
+| माता | माता |
+| धाता | धारण-पोषण करने वाला (विधाता) |
+| पितामहः | पितामह (दादा) |
+| वेद्यम् | जानने योग्य |
+| पवित्रम् | पवित्र करने वाला |
+| ओंकारः | प्रणव (ॐ) |
+| ऋक् | ऋग्वेद |
+| साम | सामवेद |
+| यजुः | यजुर्वेद |
+| एव | ही |
+| च | और |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pitā | father |
+| aham | I |
+| asya | of this |
+| jagataḥ | of the world |
+| mātā | mother |
+| dhātā | the supporter/sustainer |
+| pitāmahaḥ | grandfather |
+| vedyam | that which is to be known |
+| pavitram | the purifier |
+| oṅkāraḥ | the syllable Om |
+| ṛk | the Rig Veda |
+| sāma | the Sama Veda |
+| yajuḥ | the Yajur Veda |
+| eva | indeed |
+| ca | and |
+

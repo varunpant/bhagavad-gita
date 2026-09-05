@@ -31,3 +31,53 @@ position: 514
 
 ```
 
+
+### Transliteration
+```
+dhyānenātmani paśyanti kecidātmānamātmanā
+anye sāṅkhyena yogena karmayogena cāpare
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण परमात्मा की प्राप्ति के विभिन्न मार्गों का वर्णन कर रहे हैं। ध्यान मार्ग, ज्ञान मार्ग (सांख्य योग) और निष्काम कर्म मार्ग (कर्म योग) — ये सभी एक ही परम सत्य की अनुभूति के विभिन्न साधन हैं। साधक अपनी रुचि और योग्यता के अनुसार इनमें से किसी भी मार्ग का चयन कर सकता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the various paths to realizing the Supreme Self. Meditation (Dhyana), the path of knowledge (Sankhya Yoga), and the path of selfless action (Karma Yoga) are all valid means to the same ultimate realization. An aspirant can choose any of these paths according to their temperament and inclination.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ध्यानेन | ध्यान के द्वारा |
+| आत्मनि | अपने अंतःकरण में |
+| पश्यन्ति | देखते हैं |
+| केचित् | कुछ लोग |
+| आत्मानम् | परमात्मा को |
+| आत्मना | अपनी शुद्ध बुद्धि से |
+| अन्ये | दूसरे लोग |
+| सांख्येन | ज्ञानयोग के द्वारा |
+| योगेन | योग से |
+| कर्मयोगेन | निष्काम कर्मयोग के द्वारा |
+| च | और |
+| अपरे | अन्य लोग |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dhyānena | by meditation |
+| ātmani | within the self |
+| paśyanti | perceive |
+| kecit | some |
+| ātmānam | the Supreme Self |
+| ātmanā | by the purified mind/intellect |
+| anye | others |
+| sāṅkhyena | by Sankhya (knowledge) |
+| yogena | by the yoga |
+| karmayogena | by Karma Yoga (selfless action) |
+| ca | and |
+| apare | others |
+

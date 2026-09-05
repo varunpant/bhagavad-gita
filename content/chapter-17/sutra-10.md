@@ -31,3 +31,53 @@ position: 605
 
 ```
 
+
+### Transliteration
+```
+yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat
+ucciṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तामसी भोजन के लक्षणों का वर्णन करते हैं। ऐसा भोजन जो बासी हो, जिसमें से रस निकल चुका हो, जिससे दुर्गन्ध आ रही हो, जो दूसरों का जूठा हो और जो यज्ञ आदि के अयोग्य (अपवित्र) हो, वह तामसी प्रवृत्ति के लोगों को पसंद आता है। यह भोजन अज्ञान, आलस्य और रोग को बढ़ावा देता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of food in the mode of ignorance (tamas). Food that is stale, tasteless, decomposed, impure, and consisting of remnants is preferred by people of tamasic nature. Such food promotes darkness, lethargy, and disease.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यातयामम् | तीन घंटे से अधिक पूर्व पका हुआ (अधपका या बासी) |
+| गतरसम् | स्वादहीन या नीरस |
+| पूति | दुर्गन्धयुक्त |
+| पर्युषितम् | सड़ा हुआ या बासी |
+| च | और |
+| यत् | जो |
+| उच्छिष्टम् | जूठा |
+| अपि | भी |
+| च | और |
+| अमेध्यम् | अपवित्र (यज्ञ के अयोग्य) |
+| भोजनम् | भोजन |
+| तामस-प्रियम् | तामसी मनुष्यों को प्रिय होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yātayāmama | cooked three hours before |
+| gatarasama | tasteless |
+| pūti | bad-smelling |
+| paryuṣitama | stale |
+| ca | and |
+| yat | which |
+| ucciṣṭama | remnants of food (leavings) |
+| api | also |
+| ca | and |
+| amedhyama | impure |
+| bhojanama | food |
+| tāmasapriyama | dear to those in the mode of ignorance |
+

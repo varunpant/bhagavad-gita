@@ -31,3 +31,59 @@ position: 330
 
 ```
 
+
+### Transliteration
+```
+paras tasmāt tu bhāvo 'nyo 'vyakto 'vyaktāt sanātanaḥ
+yaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को परम सत्य के बारे में बता रहे हैं। ब्रह्मा के दिन और रात के चक्र से परे एक और सनातन सत्ता है जो कभी नष्ट नहीं होती। जब प्रलय काल में सभी भौतिक प्राणी और लोक नष्ट हो जाते हैं, तब भी वह दिव्य परम धाम और परम पुरुष सदा स्थिर रहते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that beyond the temporary unmanifested state of Brahma's night, there exists another eternal unmanifested reality. This supreme spiritual realm and its Lord remain completely unaffected and do not perish even when all material elements and living beings are destroyed during the cosmic dissolution.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| परः | परे / श्रेष्ठ |
+| तस्मात् | उससे |
+| तु | परन्तु |
+| भावः | अस्तित्व / भाव |
+| अन्यः | दूसरा |
+| अव्यक्तः | अव्यक्त |
+| अव्यक्तात् | अव्यक्त से |
+| सनातनः | सनातन / शाश्वत |
+| यः | जो |
+| सः | वह |
+| सर्वेषु | सभी |
+| भूतेषु | प्राणियों के |
+| नश्यत्सु | नष्ट होने पर |
+| न | नहीं |
+| विनश्यति | नष्ट होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| paraḥ | beyond / superior |
+| tasmāt | from that |
+| tu | but |
+| bhāvaḥ | existence / nature |
+| anyaḥ | another |
+| avyaktaḥ | unmanifested |
+| avyaktāt | from the unmanifested |
+| sanātanaḥ | eternal |
+| yaḥ | which |
+| saḥ | that |
+| sarveṣu | in all |
+| bhūteṣu | beings |
+| naśyatsu | being destroyed |
+| na | not |
+| vinaśyati | perishes |
+

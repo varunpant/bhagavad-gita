@@ -31,3 +31,51 @@ position: 147
 
 ```
 
+
+### Transliteration
+```
+tattvavittu mahābāho guṇakarmavibhāgayoḥ
+guṇā guṇeṣu vartanta iti matvā na sajjate
+
+```
+
+### भावार्थ
+
+श्रीकृष्ण अज्ञानी और ज्ञानी के बीच का अंतर स्पष्ट करते हैं। तत्त्वज्ञानी यह समझता है कि सभी कर्म केवल प्रकृति के तीन गुणों का आपस में कार्य-व्यवहार है। आत्मा को इन भौतिक क्रियाओं से अलग जानकर, ज्ञानी पुरुष कभी भी स्वयं को कर्ता नहीं मानता और कर्मों में आसक्त नहीं होता।
+
+### Meaning
+
+Krishna contrasts the ignorant person with the enlightened sage. The sage understands that all actions are merely the interplay of the three modes of material nature (gunas) interacting with each other. Realizing that the true Self is distinct from these material interactions, the wise person remains detached and free from the illusion of being the doer.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत्त्ववित् | तत्त्व को जानने वाला |
+| तु | परन्तु |
+| महाबाहो | हे महाबाहु |
+| गुणकर्मविभागयोः | गुण और कर्म के विभागों के |
+| गुणाः | गुण |
+| गुणेषु | गुणों में |
+| वर्तन्ते | बरत रहे हैं |
+| इति | ऐसा |
+| मत्वा | मानकर |
+| न | नहीं |
+| सज्जते | आसक्त होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tattvavit | the knower of the truth |
+| tu | but |
+| mahābāho | O mighty-armed one |
+| guṇakarmavibhāgayoḥ | of the divisions of gunas and actions |
+| guṇāḥ | the gunas |
+| guṇeṣu | in the gunas |
+| vartante | are acting |
+| iti | thus |
+| matvā | knowing |
+| na | not |
+| sajjate | becomes attached |
+

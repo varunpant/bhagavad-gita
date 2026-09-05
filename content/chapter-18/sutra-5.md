@@ -31,3 +31,55 @@ position: 628
 
 ```
 
+
+### Transliteration
+```
+yajñadānatapaḥkarma na tyājyaṃ kāryameva tat
+yajño dānaṃ tapaścaiva pāvanāni manīṣiṇām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि यज्ञ, दान और तपस्या जैसे श्रेष्ठ कर्मों का कभी भी परित्याग नहीं करना चाहिए। ये कर्म मनुष्य के अंतःकरण को शुद्ध करते हैं। यहाँ तक कि जो ज्ञानी और मनीषी पुरुष हैं, उनके लिए भी ये कर्म अत्यंत पावन और कल्याणकारी माने गए हैं।
+
+### Meaning
+
+In this verse, Lord Krishna clarifies that essential duties like sacrifice, charity, and penance should never be abandoned. These actions serve to purify the mind and heart. Even for the wise and self-realized sages, these practices remain purifying and beneficial.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यज्ञ-दान-तपः-कर्म | यज्ञ, दान और तप रूप कर्म |
+| न | नहीं |
+| त्याज्यम् | त्यागने योग्य |
+| कार्यम् | करने योग्य |
+| एव | ही |
+| तत् | वह |
+| यज्ञः | यज्ञ |
+| दानम् | दान |
+| तपः | तप |
+| च | और |
+| एव | ही |
+| पावनानि | पवित्र करने वाले हैं |
+| मनीषिणाम् | बुद्धिमान मनुष्यों के लिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yajña-dāna-tapaḥ-karma | acts of sacrifice, charity, and penance |
+| na | not |
+| tyājyam | to be abandoned |
+| kāryam | must be performed |
+| eva | indeed |
+| tat | that |
+| yajñaḥ | sacrifice |
+| dānam | charity |
+| tapaḥ | penance |
+| ca | and |
+| eva | indeed |
+| pāvanāni | purifiers |
+| manīṣiṇām | for the wise |
+

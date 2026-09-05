@@ -31,3 +31,63 @@ position: 444
 
 ```
 
+
+### Transliteration
+```
+lelihyase grasamānaḥ samantāl
+lokānsamagrānvadanairjvaladbhiḥ
+tejobhirāpūrya jagatsamagraṃ
+bhāsastavogrāḥ pratapanti viṣṇo
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन भगवान श्रीकृष्ण के अत्यंत भयानक विश्वरूप का वर्णन कर रहे हैं। वे देखते हैं कि भगवान के अनेक प्रज्वलित मुख समस्त ब्रह्मांड को निगल रहे हैं और उनकी उग्र किरणें पूरे संसार को तपा रही हैं। यहाँ 'विष्णु' सम्बोधन सर्वव्यापी परमेश्वर के रूप को दर्शाता है जो संहारक रूप में प्रकट हुए हैं।
+
+### Meaning
+
+In this verse, Arjuna describes the terrifying aspect of the Lord's cosmic form. He witnesses the Lord devouring all the worlds with His blazing mouths and licking them from all sides. The fierce, all-pervading effulgence of the Lord (addressed here as Vishnu) is filling the entire universe and scorching it with intense heat.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| लेलिह्यसे | आप चाट रहे हैं |
+| ग्रसमानः | निगलते हुए |
+| समन्तात् | सब ओर से |
+| लोकान् | लोकों को |
+| समग्रान् | समस्त |
+| वदनैः | मुखों द्वारा |
+| ज्वलद्भिः | प्रज्वलित |
+| तेजोभिः | तेज से / किरणों से |
+| आपूर्य | भरकर |
+| जगत् | जगत् को |
+| समग्रम् | सम्पूर्ण |
+| भासः | दीप्तियाँ / किरणें |
+| तव | आपकी |
+| उग्राः | उग्र / भयानक |
+| प्रतपन्ति | तपा रही हैं |
+| विष्णो | हे विष्णु |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| lelihyase | You are licking |
+| grasamānaḥ | devouring |
+| samantāt | from all sides |
+| lokān | the worlds |
+| samagrān | all |
+| vadanaiḥ | by the mouths |
+| jvaladbhiḥ | blazing |
+| tejobhiḥ | with effulgence |
+| āpūrya | filling |
+| jagat | the universe |
+| samagram | entire |
+| bhāsaḥ | rays / light |
+| tava | Your |
+| ugrāḥ | fierce |
+| pratapanti | are scorching |
+| viṣṇo | O Vishnu |
+

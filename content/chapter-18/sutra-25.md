@@ -31,3 +31,55 @@ position: 648
 
 ```
 
+
+### Transliteration
+```
+anubandhaṃ kṣayaṃ hiṃsāmanapekṣya ca pauruṣam
+mohādārabhyate karma yattattāmasamucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण तामसी कर्म के लक्षणों का वर्णन कर रहे हैं। तामसी कर्म वह है जो बिना किसी विवेक के, केवल मोह या अज्ञान के वश में होकर शुरू किया जाता है। ऐसा कर्म करने वाला व्यक्ति न तो भविष्य के दुष्परिणामों को देखता है, न ही अपनी शक्ति और होने वाली हानि या हिंसा का विचार करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of Tamasic action. Such action is undertaken blindly out of delusion, without any foresight regarding the future consequences, potential loss, harm caused to others, or one's own capability to execute it. It represents a state of ignorance and lack of discrimination.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनुबन्धम् | परिणाम को |
+| क्षयम् | हानि को |
+| हिंसाम् | हिंसा को |
+| अनपेक्ष्य | बिना विचार किए |
+| च | और |
+| पौरुषम् | अपनी सामर्थ्य को |
+| मोहात् | अज्ञान से / मोह से |
+| आरभ्यते | आरम्भ किया जाता है |
+| कर्म | कर्म |
+| यत् | जो |
+| तत् | वह |
+| तामसम् | तामस |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| anubandham | consequence |
+| kṣayam | loss |
+| hiṃsām | injury |
+| anapekṣya | without considering |
+| ca | and |
+| pauruṣam | one's own capacity |
+| mohāt | from delusion |
+| ārabhyate | is undertaken |
+| karma | action |
+| yat | which |
+| tat | that |
+| tāmasam | tamasic |
+| ucyate | is called |
+

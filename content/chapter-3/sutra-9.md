@@ -31,3 +31,51 @@ position: 128
 
 ```
 
+
+### Transliteration
+```
+yajñārthāt karmaṇo'nyatra loko'yaṃ karmabandhanaḥ
+tadarthaṃ karma kaunteya muktasaṅgaḥ samācara
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को निष्काम कर्मयोग का सिद्धांत समझा रहे हैं। वे बताते हैं कि जो कर्म यज्ञ (ईश्वर की प्रसन्नता) के लिए नहीं किए जाते, वे मनुष्य को संसार के बंधन में डाल देते हैं। अतः मनुष्य को चाहिए कि वह फल की आसक्ति को त्याग कर केवल ईश्वर को समर्पित करते हुए अपने कर्तव्य का पालन करे।
+
+### Meaning
+
+In this verse, Lord Krishna explains the principle of selfless action to Arjuna. He states that any action not performed as a sacrifice to the Supreme Lord binds the doer to the material world. Therefore, one must perform their prescribed duties without attachment to the results, dedicating them entirely to the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यज्ञार्थात् | यज्ञ के निमित्त |
+| कर्मणः | कर्म से |
+| अन्यत्र | अन्य (अतिरिक्त) |
+| लोकः | संसार |
+| अयम् | यह |
+| कर्मबन्धनः | कर्मों से बंधने वाला है |
+| तदर्थम् | उस (यज्ञ) के लिए |
+| कर्म | कर्म |
+| कौन्तेय | हे कुन्तीपुत्र |
+| मुक्तसङ्गः | आसक्ति से मुक्त होकर |
+| समाचर | भली-भांति करो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yajñārthāt | for the sake of sacrifice |
+| karmaṇaḥ | action |
+| anyatra | other than |
+| lokaḥ | world |
+| ayam | this |
+| karmabandhanaḥ | bound by action |
+| tadartham | for that sake |
+| karma | action |
+| kaunteya | O son of Kunti |
+| muktasaṅgaḥ | free from attachment |
+| samācara | perform perfectly |
+

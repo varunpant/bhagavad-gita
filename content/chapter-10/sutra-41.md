@@ -31,3 +31,61 @@ position: 413
 
 ```
 
+
+### Transliteration
+```
+yad yad vibhūtimat sattvaṃ śrīmad ūrjitameva vā
+tat tad evāvagaccha tvaṃ mama tejo'ṃśasambhavam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अपनी विभूतियों का सार समझा रहे हैं। वे कहते हैं कि संसार में जो कुछ भी ऐश्वर्यशाली, सुंदर, कान्तियुक्त या अत्यंत बलशाली दिखाई देता है, वह सब परमात्मा के ही अनंत तेज के एक छोटे से अंश से उत्पन्न हुआ है। अतः किसी भी उत्कृष्ट वस्तु को देखकर मनुष्य को साक्षात् ईश्वर की ही महिमा का स्मरण करना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna summarizes the essence of His divine manifestations to Arjuna. He explains that any creation possessing extraordinary glory, beauty, wealth, or power is but a tiny spark of His infinite splendor. Therefore, whenever one witnesses greatness in the world, one should recognize it as a reflection of the Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् यत् | जो-जो भी |
+| विभूतिमत् | ऐश्वर्ययुक्त |
+| सत्त्वम् | प्राणी या वस्तु |
+| श्रीमत् | लक्ष्मीयुक्त या कान्तियुक्त |
+| ऊर्जितम् | बल या प्रभाव से युक्त |
+| एव | ही |
+| वा | अथवा |
+| तत् | उस |
+| तत् | उसको |
+| एव | ही |
+| अवगच्छ | जानो |
+| त्वम् | तुम |
+| मम | मेरे |
+| तेजः | तेज के |
+| अंश | एक अंश से |
+| सम्भवम् | उत्पन्न |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat yat | whatever |
+| vibhūtimat | glorious or opulent |
+| sattvam | being or existence |
+| śrīmat | prosperous or beautiful |
+| ūrjitam | mighty or powerful |
+| eva | indeed |
+| vā | or |
+| tat | that |
+| tat | that |
+| eva | certainly |
+| avagaccha | know |
+| tvam | you |
+| mama | My |
+| tejaḥ | of splendor |
+| aṃśa | a part |
+| sambhavam | born of |
+

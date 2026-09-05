@@ -31,3 +31,53 @@ position: 573
 
 ```
 
+
+### Transliteration
+```
+ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam
+dayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण दैवी संपदा (दैवीय गुणों) के लक्षणों का वर्णन जारी रखते हैं। यहाँ अहिंसा, सत्य, अक्रोध, त्याग, शांति, अपैशुन (निंदा न करना), दया, अलोलुप्त्व (लोभहीनता), कोमलता, लज्जा और अचंचलता जैसे गुणों को गिनाया गया है। ये गुण मनुष्य के अंतःकरण को शुद्ध करते हैं और उसे आध्यात्मिक मार्ग पर आगे बढ़ाते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna continues to enumerate the qualities of a divine nature. These virtues include non-violence, truth, freedom from anger, renunciation, tranquility, aversion to fault-finding, compassion for all beings, freedom from covetousness, gentleness, modesty, and steady determination. Cultivating these qualities purifies the mind and leads one toward spiritual liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहिंसा | किसी को कष्ट न देना (अहिंसा) |
+| सत्यम् | सत्य भाषण |
+| अक्रोधः | क्रोध का न होना |
+| त्यागः | त्याग (कर्तृत्व-अभिमान का त्याग) |
+| शान्तिः | मन की शांति |
+| अपैशुनम् | चुगली न करना (दूसरों के दोष न देखना) |
+| दया | दया |
+| भूतेषु | प्राणियों पर |
+| अलोलुप्त्वम् | इन्द्रियों का विषयों के प्रति आसक्त न होना (लोभहीनता) |
+| मार्दवम् | कोमलता |
+| ह्रीः | लज्जा (अकर्तव्य करने में संकोच) |
+| अचापलम् | चंचलता का अभाव (व्यर्थ चेष्टा न करना) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ahiṃsā | non-violence |
+| satyam | truthfulness |
+| akrodhaḥ | absence of anger |
+| tyāgaḥ | renunciation |
+| śāntiḥ | peace (tranquility) |
+| apaiśunam | absence of fault-finding (slander) |
+| dayā | compassion |
+| bhūteṣu | towards all living beings |
+| aloluptvam | freedom from greed (covetousness) |
+| mārdavam | gentleness |
+| hrīḥ | modesty (shame in doing wrong) |
+| acāpalam | absence of fickleness (steadfastness) |
+

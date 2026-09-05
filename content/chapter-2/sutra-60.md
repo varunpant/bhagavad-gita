@@ -31,3 +31,51 @@ position: 107
 
 ```
 
+
+### Transliteration
+```
+yatato hyapi kaunteya puruṣasya vipaścitaḥ
+indriyāṇi pramāthīni haranti prasabhaṃ manaḥ
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को इन्द्रियों की अपार शक्ति के विषय में सचेत करते हैं। वे बताते हैं कि आध्यात्मिक पूर्णता के लिए निरंतर प्रयास करने वाले एक अत्यंत बुद्धिमान और विवेकी पुरुष का मन भी इन चंचल इन्द्रियों द्वारा बलपूर्वक विचलित कर दिया जाता है। अतः साधक को कभी भी असावधान नहीं होना चाहिए और इन्द्रिय-निग्रह के प्रति सदैव सतर्क रहना चाहिए।
+
+### Meaning
+
+Lord Krishna warns Arjuna about the immense power of the senses. Even a highly intelligent and discerning person, who is actively striving for spiritual perfection, can fall prey to their turbulent nature. Therefore, one must not be complacent but constantly vigilant in controlling the senses.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यततः | यत्न करते हुए |
+| हि | निश्चय ही |
+| अपि | भी |
+| कौन्तेय | हे कुन्तीपुत्र |
+| पुरुषस्य | पुरुष के |
+| विपश्चितः | बुद्धिमान (विवेकी) |
+| इन्द्रियाणि | इन्द्रियाँ |
+| प्रमाथीनि | क्षुब्ध करने वाली |
+| हरन्ति | हर लेती हैं |
+| प्रसभम् | बलपूर्वक |
+| मनः | मन को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yatataḥ | of the striving |
+| hi | certainly |
+| api | even |
+| kaunteya | O son of Kunti |
+| puruṣasya | of a man |
+| vipaścitaḥ | wise |
+| indriyāṇi | the senses |
+| pramāthīni | turbulent |
+| haranti | carry away |
+| prasabham | by force |
+| manaḥ | the mind |
+

@@ -31,3 +31,69 @@ position: 320
 
 ```
 
+
+### Transliteration
+```
+prayāṇakāle manasā'calena
+bhaktyā yukto yogabalena caiva
+bhruvormadhye prāṇamāveśya samyak
+sa taṃ paraṃ puruṣamupaiti divyam
+
+```
+
+### भावार्थ
+
+इस श्लोक में अंतकाल में प्राण त्यागने की विधि और उसके फल का वर्णन किया गया है। जो साधक जीवन भर योग का अभ्यास करता है, वह मृत्यु के समय अपने मन को विचलित नहीं होने देता। वह भक्ति और योगबल के द्वारा अपने प्राणों को आज्ञा चक्र (भौंहों के मध्य) में स्थापित करके शरीर छोड़ता है और सीधे परम दिव्य पुरुष (परमात्मा) को प्राप्त करता है।
+
+### Meaning
+
+This verse describes the method and result of leaving the body at the time of death. A practitioner who has disciplined themselves through yoga is able to maintain an unshakeable mind at the final moment. By directing the life-force (prana) into the space between the eyebrows through devotion and yogic power, they directly attain the supreme divine Being.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रयाण-काले | मृत्यु के समय में |
+| मनसा | मन से |
+| अचलेन | निश्चल (स्थिर) |
+| भक्त्या | भक्ति से |
+| युक्तः | युक्त |
+| योग-बलेन | योग के बल से |
+| च | और |
+| एव | ही |
+| भ्रुवोः | दोनों भौंहों के |
+| मध्ये | मध्य में |
+| प्राणम् | प्राण को |
+| आवेश्य | स्थापित करके |
+| सम्यक् | भली-भांति |
+| सः | वह |
+| तम् | उस |
+| परम् | परम |
+| पुरुषम् | पुरुष (परमात्मा) को |
+| उपैति | प्राप्त होता है |
+| दिव्यम् | दिव्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prayāṇa-kāle | at the time of death |
+| manasā | with a mind |
+| acalena | unmoving (steady) |
+| bhaktyā | with devotion |
+| yuktaḥ | united |
+| yoga-balena | by the power of yoga |
+| ca | and |
+| eva | indeed |
+| bhruvoḥ | of the two eyebrows |
+| madhye | in the middle |
+| prāṇam | the life-breath |
+| āveśya | having placed |
+| samyak | properly |
+| saḥ | he |
+| tam | that |
+| param | supreme |
+| puruṣam | divine Person |
+| upaiti | attains |
+| divyam | divine |
+

@@ -31,3 +31,60 @@ position: 102
 
 ```
 
+
+### Transliteration
+```
+śrī bhagavānuvāca
+prajahāti yadā kāmān sarvān pārtha manogatān
+ātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति के लक्षण बता रहे हैं। वे कहते हैं कि जब कोई व्यक्ति अपने मन में उत्पन्न होने वाली सभी सांसारिक इच्छाओं और कामनाओं का पूरी तरह से त्याग कर देता है, तो वह स्थितप्रज्ञ कहलाता है। ऐसा व्यक्ति बाहरी भौतिक सुखों पर निर्भर नहीं रहता, बल्कि अपनी ही आत्मा में पूर्ण आनंद और संतुष्टि का अनुभव करता है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the primary characteristics of a person situated in steady wisdom (sthitaprajna). He explains that such an enlightened person completely eradicates all material desires and cravings concocted by the mind. Instead of seeking happiness in external objects, they find complete satisfaction and bliss within their own self.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्री भगवान् | श्री भगवान |
+| उवाच | बोले |
+| प्रजहाति | त्याग देता है |
+| यदा | जब |
+| कामान् | कामनाओं को |
+| सर्वान् | सभी |
+| पार्थ | हे पार्थ |
+| मनोगतान् | मन में स्थित |
+| आत्मनि | आत्मा में |
+| एव | ही |
+| आत्मना | आत्मा के द्वारा (अपने आप से) |
+| तुष्टः | संतुष्ट |
+| स्थितप्रज्ञः | स्थिर बुद्धि वाला (स्थितप्रज्ञ) |
+| तदा | तब |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śrī bhagavān | the Supreme Lord |
+| uvāca | said |
+| prajahāti | discards |
+| yadā | when |
+| kāmān | desires |
+| sarvān | all |
+| pārtha | O Partha |
+| manogatān | situated in the mind |
+| ātmani | in the pure self |
+| eva | alone |
+| ātmanā | by the self |
+| tuṣṭaḥ | satisfied |
+| sthitaprajñaḥ | one of steady wisdom |
+| tadā | then |
+| ucyate | is said |
+

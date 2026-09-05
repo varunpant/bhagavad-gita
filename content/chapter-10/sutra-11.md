@@ -31,3 +31,49 @@ position: 383
 
 ```
 
+
+### Transliteration
+```
+teṣām evānukampārtham aham ajñānajaṃ tamaḥ
+nāśayāmy ātmabhāvastho jñānadīpena bhāsvatā
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण स्पष्ट करते हैं कि जो भक्त अनन्य भाव से उनकी भक्ति में लीन रहते हैं, उन पर विशेष अनुकम्पा करने के लिए वे स्वयं उनके हृदय में प्रकट होते हैं। वे उनके भीतर के अज्ञान जनित अंधकार को आत्म-ज्ञान के प्रकाश से मिटा देते हैं। इसके लिए भक्त को किसी बाहरी कठिन साधन की आवश्यकता नहीं होती, क्योंकि ईश्वर स्वयं भीतर से उनका पथ-प्रदर्शन करते हैं।
+
+### Meaning
+
+Lord Krishna explains that out of sheer compassion for His constantly devoted devotees, He personally dwells within their hearts. He destroys the darkness of ignorance with the shining lamp of spiritual wisdom. This highlights that divine grace directly guides the sincere seeker from within, removing all obstacles to realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तेषाम् | उन पर |
+| एव | ही |
+| अनुकम्पा-अर्थम् | दया करने के लिए |
+| अहम् | मैं |
+| अज्ञान-जम् | अज्ञान से उत्पन्न |
+| तमः | अंधकार को |
+| नाशयामि | नष्ट करता हूँ |
+| आत्म-भाव-स्थः | उनके अंतःकरण में स्थित होकर |
+| ज्ञान-दीपेन | ज्ञान रूपी दीपक के द्वारा |
+| भास्वता | प्रकाशमान |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| teṣām | for them |
+| eva | only |
+| anukampā-artham | out of compassion |
+| aham | I |
+| ajñāna-jam | born of ignorance |
+| tamaḥ | darkness |
+| nāśayāmi | destroy |
+| ātma-bhāva-sthaḥ | dwelling within their hearts |
+| jñāna-dīpena | by the lamp of knowledge |
+| bhāsvatā | luminous |
+

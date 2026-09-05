@@ -31,3 +31,52 @@ position: 146
 
 ```
 
+
+### Transliteration
+```
+prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ\nahaṅkāravimūḍhātmā kartā'hamiti manyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि सभी कर्म प्रकृति के तीन गुणों (सत्त्व, रज और तम) द्वारा संपन्न होते हैं। अज्ञानी मनुष्य झूठे अहंकार के कारण स्वयं को इन कर्मों का कर्ता मान बैठता है। यह अज्ञान ही जीव के बंधन और दुःख का मुख्य कारण है।
+
+### Meaning
+
+In this verse, Lord Krishna clarifies that all actions are entirely carried out by the three modes of material nature (goodness, passion, and ignorance). However, a person bewildered by false ego mistakenly identifies the physical body with the self and assumes they are the doer of these actions. This ignorance is the root cause of the soul's bondage in the material world.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्रकृतेः | प्रकृति के |
+| क्रियमाणानि | किये जाते हुए |
+| गुणैः | गुणों द्वारा |
+| कर्माणि | कर्म |
+| सर्वशः | सब प्रकार से |
+| अहङ्कार | अहंकार से |
+| विमूढ | मोहित |
+| आत्मा | आत्मा |
+| कर्ता | करने वाला |
+| अहम् | मैं |
+| इति | ऐसा |
+| मन्यते | मानता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prakṛteḥ | of material nature |
+| kriyamāṇāni | being performed |
+| guṇaiḥ | by the modes |
+| karmāṇi | activities |
+| sarvaśaḥ | in all respects |
+| ahaṅkāra | by false ego |
+| vimūḍha | bewildered |
+| ātmā | the soul |
+| kartā | the doer |
+| aham | I |
+| iti | thus |
+| manyate | thinks |
+

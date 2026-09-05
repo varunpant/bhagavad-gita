@@ -31,3 +31,59 @@ position: 50
 
 ```
 
+
+### Transliteration
+```
+klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate
+kṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण युद्ध के मैदान में अर्जुन की अचानक उत्पन्न हुई कायरता की कड़ी निंदा करते हैं। वे अर्जुन को याद दिलाते हैं कि एक महान योद्धा होने के नाते यह आचरण उनके बिल्कुल भी अनुकूल नहीं है। कृष्ण उन्हें प्रेरित करते हैं कि वे अपने हृदय की इस तुच्छ दुर्बलता को त्याग दें और अपने कर्तव्य का पालन करने के लिए उठ खड़े हों।
+
+### Meaning
+
+In this verse, Lord Krishna strongly rebukes Arjuna for his sudden despondency on the battlefield. He reminds Arjuna of his noble lineage and his reputation as a formidable warrior, stating that such cowardice is entirely uncharacteristic of him. Krishna urges him to cast off this petty emotional weakness and stand up to perform his duty.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| क्लैब्यम् | कायरता को |
+| मा | मत |
+| स्म | कभी |
+| गमः | प्राप्त हो |
+| पार्थ | हे पृथापुत्र |
+| न | नहीं |
+| एतत् | यह |
+| त्वयि | तुम्हारे लिए |
+| उपपद्यते | उचित है |
+| क्षुद्रम् | तुच्छ |
+| हृदय | हृदय की |
+| दौर्बल्यम् | दुर्बलता को |
+| त्यक्त्वा | त्याग कर |
+| उत्तिष्ठ | उठ खड़े हो |
+| परन्तप | हे शत्रुओं को तपाने वाले |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| klaibyam | unmanliness |
+| mā | do not |
+| sma | ever |
+| gamaḥ | yield to |
+| pārtha | O son of Pritha |
+| na | not |
+| etat | this |
+| tvayi | in you |
+| upapadyate | is befitting |
+| kṣudram | petty |
+| hṛdaya | of the heart |
+| daurbalyam | weakness |
+| tyaktvā | having given up |
+| uttiṣṭha | arise |
+| parantapa | O chastiser of enemies |
+

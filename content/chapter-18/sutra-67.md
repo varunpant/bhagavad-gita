@@ -31,3 +31,61 @@ position: 690
 
 ```
 
+
+### Transliteration
+```
+idaṃ te nātapaskāya nābhaktāya kadācana
+na cāśuśrūṣave vācyaṃ na ca māṃ yo'bhyasūyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण गीता के परम गोपनीय ज्ञान को साझा करने के लिए पात्रता के नियम निर्धारित कर रहे हैं। वे अर्जुन को निर्देश देते हैं कि यह ज्ञान केवल उन्हें ही दिया जाना चाहिए जो इसके योग्य हों। जो लोग तपस्या, भक्ति, सेवा भाव से रहित हैं या भगवान के प्रति द्वेष रखते हैं, वे इस दिव्य ज्ञान को समझने और आत्मसात करने में असमर्थ होते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna establishes the criteria for sharing the supreme confidential knowledge of the Gita. He instructs Arjuna that this sacred wisdom should not be imparted to those who lack self-discipline, devotion, or the desire to render service, nor to those who harbor envy toward the Supreme Lord. Such individuals are unprepared to receive and appreciate these profound spiritual truths.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इदम् | यह (ज्ञान) |
+| ते | तुम्हारे द्वारा |
+| न | नहीं |
+| अतपस्काय | तपस्या-रहित मनुष्य से |
+| न | नहीं |
+| अभक्ताय | भक्त-रहित से |
+| कदाचन | कभी भी |
+| न | नहीं |
+| च | और |
+| अशुश्रूषवे | सेवा न करने की इच्छा रखने वाले से |
+| वाच्यम् | कहा जाना चाहिए |
+| न | नहीं |
+| च | और |
+| माम् | मुझसे |
+| यः | जो |
+| अभ्यसूयति | द्वेष करता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| idam | this (knowledge) |
+| te | by you |
+| na | not |
+| atapaskāya | to one who is devoid of austerity |
+| na | not |
+| abhaktāya | to one who is non-devoted |
+| kadācana | at any time |
+| na | not |
+| ca | and |
+| aśuśrūṣave | to one who does not wish to listen or serve |
+| vācyam | to be spoken |
+| na | not |
+| ca | and |
+| mām | towards Me |
+| yaḥ | who |
+| abhyasūyati | is envious or cavils |
+

@@ -31,3 +31,59 @@ position: 74
 
 ```
 
+
+### Transliteration
+```
+jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca
+tasmādaparihārye'rthe na tvaṃ śocitumarhasi
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को जन्म और मृत्यु के अटल चक्र के बारे में समझाते हैं। शरीर नश्वर है, इसलिए जिसने जन्म लिया है उसकी मृत्यु तय है और मृत्यु के बाद आत्मा का नया जन्म भी निश्चित है। प्रकृति के इस अपरिहार्य नियम को बदला नहीं जा सकता, अतः इस विषय पर शोक करना व्यर्थ है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the inevitable cycle of birth and death to Arjuna. Since the physical body is temporary, everyone who is born must eventually die, and the soul will take a new birth. Because this cycle is an unavoidable law of nature, grieving over the death of the physical body is unjustified.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| जातस्य | जन्म लेने वाले की |
+| हि | निश्चित रूप से |
+| ध्रुवः | निश्चित |
+| मृत्युः | मृत्यु |
+| ध्रुवम् | निश्चित |
+| जन्म | जन्म |
+| मृतस्य | मरे हुए का |
+| च | और |
+| तस्मात् | इसलिए |
+| अपरिहार्ये | अपरिहार्य |
+| अर्थे | विषय में |
+| न | नहीं |
+| त्वम् | तुम्हें |
+| शोचितुम् | शोक |
+| अर्हसि | करना चाहिए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jātasya | of the born |
+| hi | certainly |
+| dhruvaḥ | certain |
+| mṛtyuḥ | death |
+| dhruvam | certain |
+| janma | birth |
+| mṛtasya | of the dead |
+| ca | and |
+| tasmāt | therefore |
+| aparihārye | in the inevitable |
+| arthe | matter |
+| na | not |
+| tvam | you |
+| śocitum | to grieve |
+| arhasi | ought |
+

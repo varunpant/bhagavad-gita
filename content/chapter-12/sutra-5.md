@@ -31,3 +31,53 @@ position: 474
 
 ```
 
+
+### Transliteration
+```
+kleśo'dhikatarasteṣāmavyaktāsaktacetasām
+avyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण निराकार (अव्यक्त) ब्रह्म की उपासना के मार्ग की कठिनाई का वर्णन करते हैं। जो साधक अपने शरीर को ही अपनी पहचान मानते हैं (देहाभिमानी हैं), उनके लिए निराकार परमात्मा पर ध्यान केंद्रित करना अत्यंत कठिन होता है। इसलिए, साकार रूप की भक्ति को अपेक्षाकृत सुगम और सुलभ मार्ग माना गया है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the difficulty of meditating on the unmanifested, formless aspect of the Divine. For those who are identified with their physical bodies, focusing the mind on something without attributes or form is extremely challenging. Thus, devotion to the personal, manifested form of God is presented as a more accessible path for most seekers.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| क्लेशः | कष्ट या क्लेश |
+| अधिकतरः | बहुत अधिक |
+| तेषाम् | उनका (उन लोगों का) |
+| अव्यक्त | अव्यक्त (निराकार) में |
+| आसक्त | आसक्त |
+| चेतसाम् | चित्त वालों का |
+| अव्यक्ता | अव्यक्त |
+| हि | क्योंकि |
+| गतिः | गति (लक्ष्य) |
+| दुःखम् | दुःखपूर्वक |
+| देहवद्भिः | देहधारियों द्वारा |
+| अवाप्यते | प्राप्त की जाती है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kleśaḥ | trouble / struggle |
+| adhikataraḥ | greater |
+| teṣām | of those |
+| avyakta | to the unmanifested |
+| āsakta | attached |
+| cetasām | whose minds |
+| avyaktā | the unmanifested |
+| hi | because |
+| gatiḥ | goal / state |
+| duḥkham | with difficulty |
+| dehavadbhiḥ | by the embodied |
+| avāpyate | is attained |
+

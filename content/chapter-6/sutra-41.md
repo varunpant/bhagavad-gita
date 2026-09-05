@@ -31,3 +31,51 @@ position: 274
 
 ```
 
+
+### Transliteration
+```
+prāpya puṇyakṛtāṃ lokānuṣitvā śāśvatīḥ samāḥ
+śucīnāṃ śrīmatāṃ gehe yogabhraṣṭo'bhijāyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन के उस प्रश्न का उत्तर दे रहे हैं जिसमें उन्होंने पूछा था कि योग मार्ग से विचलित हुए साधक की क्या गति होती है। कृष्ण स्पष्ट करते हैं कि ऐसे साधक का कभी विनाश नहीं होता। वह पहले अपने पुण्यों के कारण स्वर्ग आदि उत्तम लोकों को प्राप्त करता है और फिर पृथ्वी पर सदाचारी व समृद्ध परिवार में जन्म लेकर पुनः अपनी साधना प्रारंभ करता है।
+
+### Meaning
+
+In this verse, Lord Krishna answers Arjuna's concern about the fate of a seeker who falls from the path of yoga. Krishna reassures him that such a soul is never destroyed. Instead, they first attain the heavenly realms of the righteous, and after exhausting those merits, they are reborn into a pure and prosperous family to continue their spiritual journey.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| प्राप्य | प्राप्त होकर |
+| पुण्य-कृताम् | पुण्य कर्म करने वालों के |
+| लोकान् | लोकों को |
+| उषित्वा | रहकर / निवास करके |
+| शाश्वतीः | अनेक / बहुत |
+| समाः | वर्षों तक |
+| शुचीनाम् | पवित्र आचरण वालों के |
+| श्रीमताम् | समृद्ध / श्रीमानों के |
+| गेहे | घर में |
+| योग-भ्रष्टः | योग से विचलित हुआ पुरुष |
+| अभिजायते | जन्म लेता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| prāpya | having attained |
+| puṇya-kṛtām | of the righteous (virtuous-doers) |
+| lokān | the worlds |
+| uṣitvā | having dwelt |
+| śāśvatīḥ | for countless / many |
+| samāḥ | years |
+| śucīnām | of the pure / pious |
+| śrīmatām | of the prosperous / wealthy |
+| gehe | in the home |
+| yoga-bhraṣṭaḥ | one fallen from yoga |
+| abhijāyate | takes birth |
+

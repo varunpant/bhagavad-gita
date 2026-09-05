@@ -31,3 +31,53 @@ position: 420
 
 ```
 
+
+### Transliteration
+```
+paśyādityānvasūnrudrānaśvinau marutastathā
+bahūnyadṛṣṭapūrvāṇi paśyāścaryāṇi bhārata
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को अपने दिव्य विश्वरूप में विभिन्न देवताओं और ब्रह्मांडीय शक्तियों के दर्शन करने के लिए कह रहे हैं। वे अर्जुन को सचेत करते हैं कि इस रूप में ऐसे अनेक अलौकिक और विस्मयकारी दृश्य हैं जिन्हें पहले कभी किसी ने नहीं देखा है। यह अर्जुन को भगवान की असीम महिमा और विराट स्वरूप की व्यापकता का प्रत्यक्ष अनुभव कराने की तैयारी है।
+
+### Meaning
+
+Lord Krishna invites Arjuna to behold the various celestial deities—the Adityas, Vasus, Rudras, Ashvins, and Maruts—manifested within His cosmic form. He emphasizes that Arjuna will witness many extraordinary and wondrous sights that have never been seen before by anyone. This prepares Arjuna for the overwhelming and awe-inspiring vision of the Supreme Lord's universal form.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पश्य | देखो |
+| आदित्यान् | आदित्यों (अदिति के बारह पुत्रों) को |
+| वसून् | आठ वसुओं को |
+| रुद्रान् | ग्यारह रुद्रों को |
+| अश्विनौ | दोनों अश्विनीकुमारों को |
+| मरुतः | उनचास मरुतों को |
+| तथा | और भी |
+| बहूनि | बहुत से |
+| अदृष्ट-पूर्वाणि | पहले न देखे हुए |
+| पश्य | देखो |
+| आश्चर्याणि | आश्चर्यों को |
+| भारत | हे भरतवंशी (अर्जुन) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| paśya | behold |
+| ādityān | the Adityas (twelve sons of Aditi) |
+| vasūn | the (eight) Vasus |
+| rudrān | the (eleven) Rudras |
+| aśvinau | the two Ashvins |
+| marutaḥ | the (forty-nine) Maruts |
+| tathā | as well as |
+| bahūni | many |
+| adṛṣṭa-pūrvāṇi | never seen before |
+| paśya | behold |
+| āścaryāṇi | wonders |
+| bhārata | O descendant of Bharata (Arjuna) |
+

@@ -31,3 +31,55 @@ position: 609
 
 ```
 
+
+### Transliteration
+```
+deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam
+brahmacaryam ahiṃsā ca śārīraṃ tapa ucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण शारीरिक तप की व्याख्या करते हैं। शरीर के द्वारा किए जाने वाले शुभ कर्मों जैसे पूजनीय जनों का आदर, आंतरिक और बाह्य शुद्धि, सादगी, इंद्रिय-संयम और किसी भी जीव को कष्ट न पहुँचाना शारीरिक तपस्या के अंतर्गत आते हैं। यह त्रिगुणों के आधार पर तप के वर्गीकरण का पहला भाग है।
+
+### Meaning
+
+In this verse, Lord Krishna defines the austerity of the body (śārīraṃ tapaḥ). It consists of physical actions that reflect respect for the divine and elders, cleanliness, simplicity, self-restraint, and non-injury to any living being. This is the first of the three types of austerities classified by the Gita.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| देव | देवताओं |
+| द्विज | ब्राह्मणों |
+| गुरु | गुरुजनों |
+| प्राज्ञ | और ज्ञानियों का |
+| पूजनम् | पूजन |
+| शौचम् | पवित्रता |
+| आर्जवम् | सरलता |
+| ब्रह्मचर्यम् | ब्रह्मचर्य (इंद्रिय-संयम) |
+| अहिंसा | अहिंसा |
+| च | और |
+| शारीरम् | शरीर का |
+| तपः | तप |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| deva | of the gods |
+| dvija | the twice-born (priests) |
+| guru | the spiritual teachers |
+| prājña | and the wise |
+| pūjanam | worship |
+| śaucam | purity |
+| ārjavam | straightforwardness |
+| brahmacaryam | celibacy |
+| ahiṃsā | non-violence |
+| ca | and |
+| śārīram | of the body |
+| tapaḥ | austerity |
+| ucyate | is said to be |
+

@@ -32,3 +32,53 @@ restraint do?
 
 ```
 
+
+### Transliteration
+```
+sadṛśaṃ ceṣṭate svasyāḥ prakṛterjñānavānapi
+prakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण यह स्पष्ट करते हैं कि प्रत्येक व्यक्ति का स्वभाव उसके पूर्व जन्मों के कर्मों और गुणों से निर्मित होता है। एक ज्ञानी पुरुष भी अपने अंतर्निहित स्वभाव के अनुसार ही कार्य करता है। इसलिए इंद्रियों का बलपूर्वक दमन करना व्यर्थ है, बल्कि मनुष्य को अनासक्त भाव से अपने नियत कर्म करते हुए अंतःकरण को शुद्ध करना चाहिए।
+
+### Meaning
+
+In this verse, Lord Krishna explains the powerful influence of one's inherent nature, which is formed by past karmas and gunas. Even a wise person naturally acts according to their deep-rooted tendencies. Therefore, artificial repression of the senses is futile; instead, one must engage in prescribed duties without attachment to purify the mind.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| सदृशम् | अनुरूप |
+| चेष्टते | चेष्टा करता है |
+| स्वस्याः | अपनी |
+| प्रकृतेः | प्रकृति के |
+| ज्ञानवान् | ज्ञानी पुरुष |
+| अपि | भी |
+| प्रकृतिम् | प्रकृति का |
+| यान्ति | अनुसरण करते हैं |
+| भूतानि | सभी प्राणी |
+| निग्रहः | दमन |
+| किम् | क्या |
+| करिष्यति | करेगा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| sadṛśam | in accordance with |
+| ceṣṭate | acts |
+| svasyāḥ | of his own |
+| prakṛteḥ | nature |
+| jñānavān | a man of knowledge |
+| api | even |
+| prakṛtim | nature |
+| yānti | follow |
+| bhūtāni | all beings |
+| nigrahaḥ | repression |
+| kim | what |
+| kariṣyati | will do |
+

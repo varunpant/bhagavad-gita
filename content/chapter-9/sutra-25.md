@@ -31,3 +31,55 @@ position: 363
 
 ```
 
+
+### Transliteration
+```
+yānti devavratā devān pitṝnyānti pitṛvratāḥ
+bhūtāni yānti bhūtejyā yānti madyājino'pi mām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि मनुष्य की श्रद्धा और उपासना का लक्ष्य ही उसकी गति का निर्धारण करता है। जो लोग देवताओं, पितरों या अन्य शक्तियों की पूजा करते हैं, वे उन्हीं के लोकों को प्राप्त करते हैं, जो कि नाशवान हैं। इसके विपरीत, जो अनन्य भाव से परमेश्वर की शरण लेते हैं, वे अविनाशी परम पद (भगवान) को प्राप्त करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains that the destination of a seeker is determined by the object of their worship. Those who worship demigods, ancestors, or spirits reach their respective temporary realms. However, those who worship the Supreme Lord with single-minded devotion transcend these material planes and attain His eternal, supreme abode.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यान्ति | प्राप्त होते हैं |
+| देव-व्रताः | देवताओं का व्रत (पूजन) करने वाले |
+| देवान् | देवताओं को |
+| पितृन् | पितरों को |
+| यान्ति | प्राप्त होते हैं |
+| पितृ-व्रताः | पितरों का व्रत करने वाले |
+| भूतानि | भूतों को |
+| यान्ति | प्राप्त होते हैं |
+| भूत-इज्याः | भूतों को पूजने वाले |
+| यान्ति | प्राप्त होते हैं |
+| मत्-याजिनः | मेरे पूजक (भक्त) |
+| अपि | भी |
+| माम् | मुझको |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yānti | go to / attain |
+| deva-vratāḥ | worshippers of demigods |
+| devān | to the demigods |
+| pitṝn | to the ancestors |
+| yānti | go to / attain |
+| pitṛ-vratāḥ | worshippers of ancestors |
+| bhūtāni | to the spirits / ghosts |
+| yānti | go to / attain |
+| bhūt-ejyāḥ | worshippers of spirits |
+| yānti | go to / attain |
+| mad-yājinaḥ | My worshippers |
+| api | indeed / also |
+| mām | Me |
+

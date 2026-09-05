@@ -31,3 +31,53 @@ position: 201
 
 ```
 
+
+### Transliteration
+```
+śraddhāvām̐llabhate jñānaṁ tatparaḥ saṁyatendriyaḥ
+jñānaṁ labdhvā parāṁ śāntimacireṇādhigacchati
+
+```
+
+### भावार्थ
+
+इस श्लोक में श्रीकृष्ण बताते हैं कि आध्यात्मिक ज्ञान प्राप्त करने के लिए श्रद्धा, तत्परता और इन्द्रिय-संयम अत्यंत आवश्यक हैं। जो व्यक्ति इन गुणों से युक्त होकर ज्ञान प्राप्त कर लेता है, वह बिना किसी विलंब के परम शांति अर्थात मोक्ष को प्राप्त कर लेता है। यह श्लोक ज्ञान और शांति के बीच के सीधे संबंध को स्पष्ट करता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that faith, dedication, and sense control are essential prerequisites for acquiring spiritual knowledge. Once a person equipped with these qualities attains true knowledge, they immediately achieve supreme peace or liberation. This highlights the direct connection between divine knowledge and ultimate tranquility.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रद्धावान् | श्रद्धावान मनुष्य |
+| लभते | प्राप्त करता है |
+| ज्ञानम् | ज्ञान को |
+| तत्परः | तत्पर (समर्पित) |
+| संयत | वश में की हुई |
+| इन्द्रियः | इन्द्रियों वाला |
+| ज्ञानम् | ज्ञान को |
+| लब्ध्वा | प्राप्त करके |
+| पराम् | परम |
+| शान्तिम् | शान्ति को |
+| अचिरेण | शीघ्र ही |
+| अधिगच्छति | प्राप्त हो जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śraddhāvān | a faithful person |
+| labhate | obtains |
+| jñānam | knowledge |
+| tatparaḥ | dedicated |
+| saṁyata | controlled |
+| indriyaḥ | senses |
+| jñānam | knowledge |
+| labdhvā | having obtained |
+| parām | supreme |
+| śāntim | peace |
+| acireṇa | quickly |
+| adhigacchati | attains |
+

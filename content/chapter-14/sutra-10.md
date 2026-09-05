@@ -31,3 +31,61 @@ position: 534
 
 ```
 
+
+### Transliteration
+```
+rajas tamaś cābhibhūya sattvaṃ bhavati bhārata
+rajaḥ sattvaṃ tamaś caiva tamaḥ sattvaṃ rajas tathā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण समझाते हैं कि प्रकृति के तीनों गुण (सत्त्व, रज, और तम) निरंतर एक-दूसरे पर हावी होने के लिए प्रतिस्पर्धा करते हैं। जब एक गुण प्रबल होता है, तो वह अन्य दो गुणों को दबा देता है। मनुष्य के भीतर किस गुण की प्रधानता होगी, यह इस बात पर निर्भर करता है कि वह किस गुण को बढ़ावा देता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains that the three modes of material nature (goodness, passion, and ignorance) are constantly competing for dominance. When one mode becomes prominent, it suppresses the other two. A person's mental state and behavior are determined by whichever mode is currently prevailing over the others.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| रजः | रजोगुण को |
+| तमः | तमोगुण को |
+| च | और |
+| अभिभूय | दबाकर |
+| सत्त्वम् | सत्त्वगुण |
+| भवति | होता है (प्रबल होता है) |
+| भारत | हे भरतवंशी अर्जुन |
+| रजः | रजोगुण (बढ़ता है) |
+| सत्त्वम् | सत्त्वगुण को |
+| तमः | और तमोगुण को (दबाकर) |
+| च | और |
+| एव | ही |
+| तमः | तमोगुण (बढ़ता है) |
+| सत्त्वम् | सत्त्वगुण को |
+| रजः | और रजोगुण को (दबाकर) |
+| तथा | वैसे ही |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| rajaḥ | passion |
+| tamaḥ | ignorance |
+| ca | and |
+| abhibhūya | overcoming |
+| sattvam | goodness |
+| bhavati | becomes (prominent) |
+| bhārata | O descendant of Bharata |
+| rajaḥ | passion (becomes prominent) |
+| sattvam | goodness |
+| tamaḥ | and ignorance (overcoming) |
+| ca | and |
+| eva | indeed |
+| tamaḥ | ignorance (becomes prominent) |
+| sattvam | goodness |
+| rajaḥ | and passion (overcoming) |
+| tathā | thus |
+

@@ -31,3 +31,65 @@ position: 321
 
 ```
 
+
+### Transliteration
+```
+yad akṣaraṃ vedavido vadanti
+viśanti yad yatayo vītarāgāḥ
+yad icchanto brahmacaryaṃ caranti
+tat te padaṃ saṅgraheṇa pravakṣye
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को उस परम अक्षर ब्रह्म (ओंकार या परम पद) के विषय में बता रहे हैं जिसे प्राप्त करना मानव जीवन का परम लक्ष्य है। वेदों के ज्ञाता इसे अविनाशी कहते हैं, और राग-द्वेष से मुक्त तपस्वी इसमें लीन होते हैं। इस परम पद को प्राप्त करने की इच्छा से ही साधक ब्रह्मचर्य का पालन करते हैं, और श्रीकृष्ण इसी मार्ग को संक्षेप में समझाने की प्रतिज्ञा करते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna describes the supreme imperishable goal, often identified with the sacred syllable Om or the Supreme Brahman. This state is sought after by Vedic scholars, entered by detached ascetics, and aimed for through the practice of celibacy. Krishna promises to briefly explain the path and practice required to attain this ultimate destination.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत् | जिस |
+| अक्षरम् | अविनाशी (परम पद) को |
+| वेद-विदः | वेदों के ज्ञाता |
+| वदन्ति | कहते हैं |
+| विशन्ति | प्रवेश करते हैं |
+| यत् | जिसमें |
+| यतयः | प्रयत्नशील संन्यासी |
+| वीत-रागाः | आसक्ति से रहित |
+| यत् | जिसकी |
+| इच्छन्तः | इच्छा करते हुए |
+| ब्रह्मचर्यम् | ब्रह्मचर्य का |
+| चरन्ति | आचरण करते हैं |
+| तत् | उस |
+| ते | तुम्हारे लिए |
+| पदम् | पद को |
+| संग्रहेण | संक्षेप में |
+| प्रवक्ष्ये | मैं कहूँगा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yat | which |
+| akṣaram | imperishable (state) |
+| veda-vidaḥ | knowers of the Vedas |
+| vadanti | speak of |
+| viśanti | enter |
+| yat | into which |
+| yatayaḥ | the self-controlled ascetics |
+| vīta-rāgāḥ | free from attachment |
+| yat | which |
+| icchantaḥ | desiring |
+| brahmacaryam | celibacy / vow of continence |
+| caranti | practice |
+| tat | that |
+| te | to you |
+| padam | state / goal |
+| saṅgraheṇa | in brief |
+| pravakṣye | I shall declare |
+

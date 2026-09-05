@@ -31,3 +31,45 @@ position: 664
 
 ```
 
+
+### Transliteration
+```
+brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca paraṃtapa
+karmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि समाज के चारों वर्णों (ब्राह्मण, क्षत्रिय, वैश्य और शूद्र) के कर्तव्य और कर्म किसी कृत्रिम विभाजन पर नहीं, बल्कि उनके अपने स्वभाव से उत्पन्न गुणों (सत्त्व, रज और तम) पर आधारित हैं। प्रत्येक व्यक्ति का स्वभाव उसके पूर्व जन्मों के संस्कारों और प्रकृति के गुणों के अनुसार निर्धारित होता है, और उसी के अनुरूप उसके सामाजिक कर्तव्य विभाजित किए गए हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that the duties of the four social divisions (Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras) are not arbitrarily assigned but are classified according to the qualities (Gunas) born of their own inherent natures. Each individual's natural disposition, shaped by the modes of material nature (Sattva, Rajas, and Tamas), determines their appropriate field of activity and duty in society.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ब्राह्मण-क्षत्रिय-विशाम् | ब्राह्मण, क्षत्रिय और वैश्यों के |
+| शूद्राणाम् | शूद्रों के |
+| च | तथा |
+| परंतप | हे शत्रुओं को तपाने वाले (अर्जुन) |
+| कर्माणि | कर्म (कर्तव्य) |
+| प्रविभक्तानि | विभक्त किए गए हैं |
+| स्वभाव-प्रभवैः | अपने स्वभाव से उत्पन्न |
+| गुणैः | गुणों के द्वारा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| brāhmaṇa-kṣatriya-viśām | of the Brāhmaṇas, Kṣatriyas, and Vaiśyas |
+| śūdrāṇām | of the Śūdras |
+| ca | and |
+| paraṃtapa | O chastiser of the enemy (Arjuna) |
+| karmāṇi | the duties |
+| pravibhaktāni | are distributed |
+| svabhāva-prabhavaiḥ | born of their own nature |
+| guṇaiḥ | by the qualities |
+

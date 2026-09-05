@@ -31,3 +31,55 @@ position: 476
 
 ```
 
+
+### Transliteration
+```
+teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt
+bhavāmi nacirātpārtha mayyāveśitacetasām
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि जो भक्त अपने चित्त को पूरी तरह से उनमें लीन कर देते हैं, उनका उद्धार वे स्वयं करते हैं। ऐसे अनन्य भक्तों को जन्म-मृत्यु के चक्र से मुक्त करने के लिए किसी अन्य साधन की आवश्यकता नहीं होती; भगवान स्वयं उनके रक्षक बनते हैं।
+
+### Meaning
+
+In this verse, Lord Krishna assures Arjuna that for those devotees who merge their consciousness completely in Him, He personally becomes their savior. They do not need to rely on any other spiritual practice to cross the ocean of birth and death, as the Supreme Lord swiftly delivers them Himself.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तेषाम् | उनका |
+| अहम् | मैं |
+| समुद्धर्ता | उद्धार करने वाला |
+| मृत्यु | मृत्यु रूपी |
+| संसार | संसार के |
+| सागरात् | सागर से |
+| भवामि | हो जाता हूँ |
+| न | नहीं |
+| चिरात् | देर से (शीघ्र ही) |
+| पार्थ | हे अर्जुन (पृथापुत्र) |
+| मयि | मुझमें |
+| आवेशित | एकाग्र (लगाए हुए) |
+| चेतसाम् | चित्त वालों का |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| teṣām | of them |
+| aham | I |
+| samuddhartā | the deliverer |
+| mṛtyu | of death |
+| saṃsāra | material existence |
+| sāgarāt | from the ocean |
+| bhavāmi | become |
+| na | not |
+| cirāt | after a long time (swiftly) |
+| pārtha | O Partha (Arjuna) |
+| mayi | in Me |
+| āveśita | absorbed |
+| cetasām | of those whose minds |
+

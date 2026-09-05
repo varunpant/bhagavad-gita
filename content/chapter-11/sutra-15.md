@@ -31,3 +31,70 @@ position: 429
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+paśyāmi devāṃstava deva dehe
+sarvāṃstathā bhūtaviśeṣasaṅghān
+brahmāṇamīśaṃ kamalāsanastha
+mṛṣīṃśca sarvānuragāṃśca divyān
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण द्वारा दिव्य दृष्टि प्रदान किए जाने के बाद अर्जुन उनके विश्वरूप का प्रत्यक्ष दर्शन कर रहे हैं। इस विराट रूप में वे ब्रह्मांड के सभी देवताओं, ऋषियों, चराचर जीवों और दिव्य नागों को एक ही स्थान पर अवस्थित देखते हैं। यह इस बात का प्रमाण है कि संपूर्ण सृष्टि भगवान के ही भीतर समाहित है।
+
+### Meaning
+
+After being granted divine vision by Lord Krishna, Arjuna beholds the cosmic form directly. Within this universal body, he witnesses all the demigods, sages, diverse living entities, and celestial serpents coexisting in one place. This vision confirms that the entire universe and all its inhabitants are contained within the Supreme Lord.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| पश्यामि | मैं देखता हूँ |
+| देवान् | देवताओं को |
+| तव | आपके |
+| देव | हे देव |
+| देहे | शरीर में |
+| सर्वान् | सभी को |
+| तथा | और भी |
+| भूत-विशेष-सङ्घान् | जीवों के विशेष समूहों को |
+| ब्रह्माणम् | ब्रह्मा को |
+| ईशम् | शिव (ईश) को |
+| कमल-आसन-स्थम् | कमल के आसन पर विराजमान |
+| ऋषीन् | ऋषियों को |
+| च | और |
+| सर्वान् | समस्त |
+| उरगान् | सर्पों को |
+| च | और |
+| दिव्यान् | दिव्य |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| paśyāmi | I see |
+| devān | the gods |
+| tava | Your |
+| deva | O Lord |
+| dehe | in the body |
+| sarvān | all |
+| tathā | as well as |
+| bhūta-viśeṣa-saṅghān | assemblages of diverse living entities |
+| brahmāṇam | Brahma |
+| īśam | Shiva (the lord) |
+| kamala-āsana-stham | seated on the lotus throne |
+| ṛṣīn | sages |
+| ca | and |
+| sarvān | all |
+| uragān | serpents |
+| ca | and |
+| divyān | divine |
+

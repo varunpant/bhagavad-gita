@@ -31,3 +31,49 @@ position: 154
 
 ```
 
+
+### Transliteration
+```
+śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt
+svadharme nidhanaṃ śreyaḥ paradharmo bhayāvahaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को अपने क्षत्रिय धर्म का पालन करने की प्रेरणा दे रहे हैं। वे समझाते हैं कि किसी अन्य के धर्म का पूर्णता से पालन करने की अपेक्षा अपना धर्म त्रुटिपूर्ण ढंग से करना भी अधिक श्रेष्ठ है। अपने स्वभाव और कर्तव्य के मार्ग पर चलते हुए मृत्यु प्राप्त करना भी कल्याणकारी है, जबकि दूसरों के मार्ग का अनुसरण करना हमेशा भय और पतन का कारण बनता है।
+
+### Meaning
+
+In this verse, Lord Krishna motivates Arjuna to follow his own duty as a warrior. He explains that it is far better to perform one's own prescribed duty, even if imperfectly, than to perfectly execute the duty of another. Meeting death while engaged in one's own natural duty brings spiritual benefit, whereas following another's path is dangerous and leads to fear.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| श्रेयान् | श्रेष्ठ |
+| स्वधर्मः | अपना धर्म |
+| विगुणः | गुणरहित |
+| परधर्मात् | दूसरे के धर्म से |
+| स्वनुष्ठितात् | अच्छी तरह से पालन किए गए |
+| स्वधर्मे | अपने धर्म में |
+| निधनम् | मृत्यु |
+| श्रेयः | कल्याणकारी |
+| परधर्मः | दूसरे का धर्म |
+| भयावहः | भय उत्पन्न करने वाला |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| śreyān | better |
+| svadharmaḥ | one's own duty |
+| viguṇaḥ | devoid of merit |
+| paradharmāt | than another's duty |
+| svanuṣṭhitāt | well performed |
+| svadharme | in one's own duty |
+| nidhanam | death |
+| śreyaḥ | better |
+| paradharmaḥ | another's duty |
+| bhayāvahaḥ | fraught with fear |
+

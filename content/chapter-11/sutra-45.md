@@ -31,3 +31,67 @@ position: 459
 
 ```
 
+
+### Transliteration
+```
+adṛṣṭapūrvaṃ hṛṣito'smi dṛṣṭvā
+bhayena ca pravyathitaṃ mano me
+tadeva me darśaya deva rūpaṃ
+prasīda deveśa jagannivāsa
+
+```
+
+### भावार्थ
+
+अर्जुन भगवान कृष्ण के अत्यंत विराट और अद्भुत विश्वरूप को देखकर अत्यंत हर्षित हैं क्योंकि ऐसा रूप पहले किसी ने नहीं देखा था। परंतु साथ ही, उस रूप की उग्रता और असीमित शक्ति को देखकर उनका मन भयभीत और व्याकुल भी हो रहा है। इसलिए वे भगवान से प्रार्थना करते हैं कि वे अपने सौम्य, चतुर्भुज या द्विभुज रूप में लौट आएं और उन पर कृपा करें।
+
+### Meaning
+
+Arjuna is filled with joy upon witnessing the magnificent and unprecedented cosmic form of Lord Krishna. At the same time, the sheer scale and terrifying aspect of this infinite form cause his mind to tremble with fear. Consequently, he begs the Lord to return to His familiar, gentle form and show His grace as the protector of the universe.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अदृष्ट-पूर्वम् | जो पहले कभी न देखा गया हो |
+| हृषितः | हर्षित (रोमांचित) |
+| अस्मि | हूँ |
+| दृष्ट्वा | देखकर |
+| भयेन | भय से |
+| च | और |
+| प्रव्यथितम् | अत्यंत व्याकुल |
+| मनः | मन |
+| मे | मेरा |
+| तत् | वह |
+| एव | ही |
+| मे | मुझको |
+| दर्शय | दिखाइए |
+| देव | हे देव |
+| रूपम् | रूप |
+| प्रसीद | प्रसन्न होइए |
+| देवेश | हे देवों के स्वामी |
+| जगन्निवास | हे ब्रह्मांड के आश्रय |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| adṛṣṭa-pūrvam | never seen before |
+| hṛṣitaḥ | gladdened / rejoiced |
+| asmi | I am |
+| dṛṣṭvā | having seen |
+| bhayena | with fear |
+| ca | and |
+| pravyathitam | distressed / trembling |
+| manaḥ | mind |
+| me | my |
+| tat | that |
+| eva | only |
+| me | to me |
+| darśaya | show |
+| deva | O Lord |
+| rūpam | form |
+| prasīda | be gracious / have mercy |
+| deveśa | O Lord of gods |
+| jagannivāsa | O Abode of the universe |
+

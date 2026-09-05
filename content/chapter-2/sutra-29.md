@@ -31,3 +31,75 @@ position: 76
 
 ```
 
+
+### Transliteration
+```
+āścaryavat paśyati kaścid enam āścaryavad vadati tathaiva cānyaḥ
+āścaryavac cainam anyaḥ śṛṇoti śrutvāpy enaṃ veda na caiva kaścit
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण शाश्वत आत्मा की गहन और अकल्पनीय प्रकृति का वर्णन करते हैं। चूँकि आत्मा भौतिक इंद्रियों और मन की पहुँच से परे है, इसलिए लोग इसे घोर आश्चर्य की दृष्टि से देखते हैं। शास्त्रों को पढ़ने या गुरुओं से सुनने के बावजूद, बहुत कम लोग ही आत्मा के वास्तविक दिव्य स्वरूप को समझ पाते हैं।
+
+### Meaning
+
+Lord Krishna explains the profound and incomprehensible nature of the eternal soul. Because the soul is beyond the grasp of the material senses and mind, people react to it with sheer amazement. Despite reading scriptures or hearing from spiritual masters, very few truly realize the soul's divine essence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आश्चर्यवत् | आश्चर्य की तरह |
+| पश्यति | देखता है |
+| कश्चित् | कोई एक |
+| एनम् | इस (आत्मा) को |
+| आश्चर्यवत् | आश्चर्य की तरह |
+| वदति | वर्णन करता है |
+| तथा | उसी प्रकार |
+| एव | ही |
+| च | और |
+| अन्यः | अन्य कोई |
+| आश्चर्यवत् | आश्चर्य की तरह |
+| च | और |
+| एनम् | इस (आत्मा) को |
+| अन्यः | अन्य कोई |
+| शृणोति | सुनता है |
+| श्रुत्वा | सुनकर |
+| अपि | भी |
+| एनम् | इस (आत्मा) को |
+| वेद | जानता है |
+| न | नहीं |
+| च | और |
+| एव | निश्चय ही |
+| कश्चित् | कोई |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| āścaryavat | as a wonder |
+| paśyati | sees |
+| kaścit | someone |
+| enam | this (soul) |
+| āścaryavat | as a wonder |
+| vadati | speaks of |
+| tathā | thus |
+| eva | indeed |
+| ca | and |
+| anyaḥ | another |
+| āścaryavat | as a wonder |
+| ca | and |
+| enam | this (soul) |
+| anyaḥ | another |
+| śṛṇoti | hears |
+| śrutvā | having heard |
+| api | even |
+| enam | this (soul) |
+| veda | knows |
+| na | not |
+| ca | and |
+| eva | certainly |
+| kaścit | anyone |
+

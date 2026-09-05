@@ -33,3 +33,57 @@ position: 60
 
 ```
 
+
+### Transliteration
+```
+dehino'sminyathā dehe kaumāraṃ yauvanaṃ jarā
+tathā dehāntaraprāptirdhīrastatra na muhyati
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण अर्जुन को आत्मा की अमरता और शरीर की नश्वरता का ज्ञान दे रहे हैं। वे समझाते हैं कि जैसे मनुष्य एक ही जीवन में बचपन, जवानी और बुढ़ापे से गुजरता है, वैसे ही मृत्यु के बाद आत्मा नया शरीर धारण करती है। इसलिए ज्ञानी मनुष्य मृत्यु से शोक या मोह नहीं करते।
+
+### Meaning
+
+Lord Krishna imparts the knowledge of the soul's immortality and the body's transient nature to Arjuna. He explains that just as a person naturally transitions from childhood to youth and old age in one lifetime, the soul acquires a new body after death. Therefore, a wise person does not grieve or get deluded by the phenomenon of death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| देहिनः | देहधारी आत्मा के |
+| अस्मिन् | इस |
+| यथा | जैसे |
+| देहे | शरीर में |
+| कौमारम् | बाल्यावस्था |
+| यौवनम् | युवावस्था |
+| जरा | वृद्धावस्था |
+| तथा | वैसे ही |
+| देहान्तर | दूसरे शरीर की |
+| प्राप्तिः | प्राप्ति |
+| धीरः | धीर पुरुष |
+| तत्र | उस विषय में |
+| न | नहीं |
+| मुह्यति | मोहित होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| dehinaḥ | of the embodied soul |
+| asmin | in this |
+| yathā | just as |
+| dehe | in the body |
+| kaumāram | childhood |
+| yauvanam | youth |
+| jarā | old age |
+| tathā | similarly |
+| dehāntara | of another body |
+| prāptiḥ | attainment |
+| dhīraḥ | the wise person |
+| tatra | in that matter |
+| na | not |
+| muhyati | is deluded |
+

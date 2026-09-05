@@ -31,3 +31,53 @@ position: 570
 
 ```
 
+
+### Transliteration
+```
+yo mām evam asammūḍho jānāti puruṣottamam
+sa sarvavid bhajati māṃ sarvabhāvena bhārata
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण पुरुषोत्तम योग के ज्ञान का फल बताते हैं। जो मनुष्य मोह से मुक्त होकर कृष्ण को ही परम पुरुषोत्तम तत्व से जान लेता है, वह सर्वज्ञ हो जाता है। ऐसा ज्ञानी पुरुष अपनी पूरी चेतना और संपूर्ण भाव से केवल परमेश्वर की ही भक्ति में लीन रहता है।
+
+### Meaning
+
+In this verse, Lord Krishna explains the fruit of realizing the knowledge of the Supreme Person. One who is free from delusion and understands Krishna as the Supreme Divine Personality becomes all-knowing. Such a realized soul worships the Lord with undivided devotion and with their entire being.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यः | जो |
+| माम् | मुझको |
+| एवम् | इस प्रकार |
+| असम्मूढः | मोहरहित होकर |
+| जानाति | जानता है |
+| पुरुषोत्तमम् | पुरुषोत्तम (परम पुरुष) |
+| सः | वह |
+| सर्ववित् | सब कुछ जानने वाला |
+| भजति | भजता है |
+| माम् | मुझको |
+| सर्वभावेन | सब भावों से (पूर्ण हृदय से) |
+| भारत | हे भरतवंशी अर्जुन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yaḥ | who |
+| mām | Me |
+| evam | thus |
+| asammūḍhaḥ | undeluded |
+| jānāti | knows |
+| puruṣottamam | as the Supreme Person |
+| saḥ | he |
+| sarvavit | the knower of all |
+| bhajati | worships |
+| māṃ | Me |
+| sarvabhāvena | with all his heart (whole being) |
+| bhārata | O descendant of Bharata |
+

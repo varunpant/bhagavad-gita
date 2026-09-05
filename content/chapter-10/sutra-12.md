@@ -31,3 +31,60 @@ position: 384
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+paraṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān
+puruṣaṁ śāśvataṁ divyamādidevamajaṁ vibhum
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण के विभूति योग को सुनकर अर्जुन उनकी महिमा को स्वीकार करते हैं। वे कृष्ण को केवल एक साधारण मनुष्य न मानकर साक्षात् परब्रह्म और समस्त सृष्टि का आदि स्रोत घोषित करते हैं। यह अर्जुन की पूर्ण श्रद्धा और शरणागति को दर्शाता है।
+
+### Meaning
+
+After hearing Krishna's divine manifestations, Arjuna acknowledges His supreme status. He recognizes Krishna not just as a friend, but as the Supreme Brahman, the ultimate refuge, and the eternal, unborn Lord of all. This verse marks Arjuna's complete acceptance of Krishna's divine identity.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| परम् | परम |
+| ब्रह्म | ब्रह्म |
+| परम् | परम |
+| धाम | आश्रय (धाम) |
+| पवित्रम् | पवित्र |
+| परमम् | परम |
+| भवान् | आप |
+| पुरुषम् | पुरुष |
+| शाश्वतम् | सनातन |
+| दिव्यम् | दिव्य |
+| आदिदेवम् | प्रथम देव |
+| अजम् | अजन्मा |
+| विभुम् | सर्वव्यापी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| param | supreme |
+| brahma | Brahman |
+| param | supreme |
+| dhāma | abode |
+| pavitram | purifier |
+| paramam | supreme |
+| bhavān | You |
+| puruṣam | person |
+| śāśvatam | eternal |
+| divyam | divine |
+| ādidevam | primeval God |
+| ajam | unborn |
+| vibhum | all-pervading |
+

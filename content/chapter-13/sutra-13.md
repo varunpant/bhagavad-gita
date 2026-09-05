@@ -31,3 +31,63 @@ position: 502
 
 ```
 
+
+### Transliteration
+```
+jñeyaṃ yattatpravakṣyāmi yajjñātvā'mṛtamaśnute
+anādimatparaṃ brahma na sattannāsaducyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को उस परम ज्ञेय तत्व (ब्रह्म) के विषय में बता रहे हैं जिसे जानने से मोक्ष की प्राप्ति होती है। वह परम ब्रह्म अनादि है और प्रकृति के द्वंद्वों से परे है। उसे न तो भौतिक रूप से 'सत्' (अस्तित्ववान) कहा जा सकता है और न ही 'असत्' (अस्तित्वहीन), क्योंकि वह इंद्रियों और बुद्धि की सीमाओं से परे है।
+
+### Meaning
+
+In this verse, Lord Krishna promises to reveal the ultimate object of knowledge (Brahman), by knowing which one achieves liberation and immortality. This supreme reality is beginningless and transcends all dualities of the material world. It cannot be defined as either 'sat' (effect/existent) or 'asat' (cause/non-existent) in a material sense, as it lies beyond the reach of the senses and intellect.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| ज्ञेयम् | जानने योग्य |
+| यत् | जो |
+| तत् | वह |
+| प्रवक्ष्यामि | मैं भली-भाँति कहूँगा |
+| यत् | जिसको |
+| ज्ञात्वा | जानकर |
+| अमृतम् | अमृत को (मोक्ष को) |
+| अश्नुते | प्राप्त करता है |
+| अनादिमत् | अनादि (बिना आदि वाला) |
+| परम् | परम |
+| ब्रह्म | ब्रह्म |
+| न | न |
+| सत् | सत् (अस्तित्ववान) |
+| तत् | वह |
+| न | न |
+| असत् | असत् (अस्तित्वहीन) |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| jñeyam | to be known |
+| yat | which |
+| tat | that |
+| pravakṣyāmi | I shall speak/declare |
+| yat | which |
+| jñātvā | having known |
+| amṛtam | immortality |
+| aśnute | one attains |
+| anādimat | beginningless |
+| param | supreme |
+| brahma | Brahman |
+| na | not |
+| sat | existent (effect) |
+| tat | that |
+| na | not |
+| asat | non-existent (cause) |
+| ucyate | is said to be |
+

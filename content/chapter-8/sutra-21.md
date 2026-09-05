@@ -31,3 +31,61 @@ position: 331
 
 ```
 
+
+### Transliteration
+```
+avyakto'kṣara ityuktastamāhuḥ paramāṃ gatim
+yaṃ prāpya na nivartante taddhāma paramaṃ mama
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण परम सत्य के स्वरूप का वर्णन कर रहे हैं। वे समझाते हैं कि जो अव्यक्त और अविनाशी है, वही अंतिम लक्ष्य या परम गति है। उस परम धाम को प्राप्त करने के बाद जीवात्मा का इस नश्वर संसार में पुनर्जन्म नहीं होता।
+
+### Meaning
+
+In this verse, Lord Krishna describes the nature of the Supreme Reality. He explains that the unmanifest and indestructible state is the ultimate goal of life. Once a soul reaches this supreme abode of the Lord, they never return to the cycle of birth and death.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अव्यक्तः | अव्यक्त (जो इंद्रियों से परे है) |
+| अक्षरः | अविनाशी |
+| इति | इस प्रकार |
+| उक्तः | कहा गया है |
+| तम् | उसको |
+| आहुः | कहते हैं |
+| परमाम् | परम |
+| गतिम् | गति (लक्ष्य) |
+| यम् | जिसको |
+| प्राप्य | प्राप्त करके |
+| न | नहीं |
+| निवर्तन्ते | वापस लौटते हैं |
+| तत् | वह |
+| धाम | धाम |
+| परमम् | परम |
+| मम | मेरा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| avyaktaḥ | unmanifested |
+| akṣaraḥ | imperishable |
+| iti | thus |
+| uktaḥ | called |
+| tam | that |
+| āhuḥ | they say |
+| paramām | the supreme |
+| gatim | destination |
+| yam | which |
+| prāpya | having attained |
+| na | never |
+| nivartante | they return |
+| tat | that |
+| dhāma | abode |
+| paramam | supreme |
+| mama | My |
+

@@ -31,3 +31,67 @@ position: 493
 
 ```
 
+
+### Transliteration
+```
+tat kṣetraṃ yacca yādṛk ca yadvikāri yataśca yat
+sa ca yo yatprabhāvaśca tatsamāsena me śṛṇu
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को क्षेत्र (शरीर) और क्षेत्रज्ञ (आत्मा) के विषय में विस्तार से बताने की प्रतिज्ञा करते हैं। वे कहते हैं कि इस क्षेत्र का स्वरूप क्या है, इसके विकार क्या हैं, और क्षेत्रज्ञ की शक्तियाँ क्या हैं, इन सभी रहस्यों को वे संक्षेप में समझाएंगे। यह ज्ञान मनुष्य को प्रकृति और पुरुष के भेद को समझने में सहायक होता है।
+
+### Meaning
+
+In this verse, Lord Krishna promises to explain the nature of both the field (the body) and the knower of the field (the soul). He states that He will summarize what the field is, its modifications, its origin, and the true nature and powers of the knower of the field. This sets the stage for a detailed analysis of material nature and spirit.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत् | वह |
+| क्षेत्रम् | क्षेत्र (शरीर) |
+| यत् | जो (है) |
+| च | और |
+| यादृक् | जैसा (है) |
+| च | और |
+| यत्-विकारि | जिन विकारों वाला (है) |
+| यतः | जिससे (उत्पन्न हुआ है) |
+| च | और |
+| यत् | जो (उत्पन्न हुआ है) |
+| सः | वह (क्षेत्रज्ञ) |
+| च | और |
+| यः | जो (है) |
+| यत्-प्रभावः | जिस प्रभाव वाला |
+| च | और |
+| तत् | वह सब |
+| समासेन | संक्षेप में |
+| मे | मुझसे |
+| शृणु | सुनो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tat | that |
+| kṣetram | field |
+| yat | what (it is) |
+| ca | and |
+| yādṛk | of what nature |
+| ca | and |
+| yad-vikāri | what its modifications are |
+| yataḥ | from where (it arises) |
+| ca | and |
+| yat | what (comes from it) |
+| saḥ | he (the knower of the field) |
+| ca | and |
+| yaḥ | who (he is) |
+| yat-prabhāvaḥ | what his powers are |
+| ca | and |
+| tat | that |
+| samāsena | in brief |
+| me | from Me |
+| śṛṇu | hear |
+

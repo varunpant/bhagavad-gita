@@ -31,3 +31,55 @@ position: 246
 
 ```
 
+
+### Transliteration
+```
+samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ
+saṃprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan
+
+```
+
+### भावार्थ
+
+इस श्लोक में ध्यान की शारीरिक मुद्रा का वर्णन किया गया है। साधक को अपनी रीढ़, सिर और गर्दन को एक सीधी रेखा में स्थिर रखना चाहिए। अपनी दृष्टि को इधर-उधर भटकाने के बजाय नासिका के अग्रभाग पर केंद्रित करना चाहिए ताकि मन बाहरी विकर्षणों से मुक्त होकर अंतर्मुखी हो सके।
+
+### Meaning
+
+This verse describes the physical posture required for meditation. The practitioner is instructed to keep the body, head, and neck aligned in a straight, motionless line. By focusing the gaze on the tip of the nose and avoiding looking around, one prevents external distractions and helps internalize the mind.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| समम् | सीधा (एक कतार में) |
+| काय | शरीर |
+| शिरः | सिर |
+| ग्रीवम् | और गर्दन को |
+| धारयन् | धारण करते हुए |
+| अचलम् | बिना हिलाए-डुलाए (अचल) |
+| स्थिरः | स्थिर होकर |
+| संप्रेक्ष्य | देखकर (ध्यान केंद्रित करके) |
+| नासिका-अग्रम् | नाक के अग्रभाग को |
+| स्वम् | अपनी |
+| दिशः | दिशाओं को |
+| च | और |
+| अनवलोकयन् | न देखते हुए |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| samam | straight (aligned) |
+| kāya | body |
+| śiraḥ | head |
+| grīvam | and neck |
+| dhārayan | holding |
+| acalam | motionless |
+| sthiraḥ | steady |
+| saṃprekṣya | gazing at |
+| nāsikā-agram | the tip of the nose |
+| svam | one's own |
+| diśaḥ | directions |
+| ca | and |
+| anavolokayan | not looking around |
+

@@ -33,3 +33,47 @@ conch Paundra.
 
 ```
 
+
+### Transliteration
+```
+pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanaṃjayaḥ
+pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में पाण्डव सेना के प्रमुख योद्धाओं और उनके दिव्य शंखों का वर्णन किया गया है। भगवान श्रीकृष्ण द्वारा पाञ्चजन्य और अर्जुन द्वारा देवदत्त शंख का बजना उनकी युद्ध के लिए तत्परता और ईश्वरीय समर्थन को दर्शाता है। भयानक कर्म करने वाले भीम द्वारा पौण्ड्र नामक महाशंख बजाने से कौरव सेना में भय का वातावरण और भी गहरा हो गया।
+
+### Meaning
+
+In this verse, the focus shifts to the Pandava side, highlighting the principal warriors and their divine conches. Krishna blowing Panchajanya and Arjuna blowing Devadatta signifies their readiness and divine backing. Bhima's description as the performer of fierce deeds and his blowing of the great conch Paundra further amplifies the terrifying atmosphere for the Kaurava army.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| पाञ्चजन्यम् | पाञ्चजन्य नामक शंख को |
+| हृषीकेशः | श्रीकृष्ण ने |
+| देवदत्तम् | देवदत्त नामक शंख को |
+| धनंजयः | अर्जुन ने |
+| पौण्ड्रम् | पौण्ड्र नामक |
+| दध्मौ | बजाया |
+| महाशङ्खम् | महाशंख को |
+| भीमकर्मा | भयानक कर्म करने वाले |
+| वृकोदरः | भीम ने |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| pāñcajanyam | the conch named Panchajanya |
+| hṛṣīkeśaḥ | Lord Krishna |
+| devadattam | the conch named Devadatta |
+| dhanaṃjayaḥ | Arjuna |
+| pauṇḍram | the conch named Paundra |
+| dadhmau | blew |
+| mahāśaṅkham | the great conch |
+| bhīmakarmā | performer of terrible deeds |
+| vṛkodaraḥ | Bhima |
+

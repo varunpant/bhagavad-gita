@@ -31,3 +31,53 @@ position: 685
 
 ```
 
+
+### Transliteration
+```
+tam eva śaraṇaṃ gaccha sarva-bhāvena bhārata
+tat-prasādāt parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को सर्वभावेन अर्थात् मन, वचन और कर्म से ईश्वर की शरण में जाने का उपदेश देते हैं। पूर्ण शरणागति से ही मनुष्य को परम शान्ति और शाश्वत भगवद्धाम की प्राप्ति होती है। यह गीता के परम गोपनीय उपदेशों का सार है जहाँ अहंकार को त्यागकर पूर्ण समर्पण की बात कही गई है।
+
+### Meaning
+
+In this verse, Lord Krishna instructs Arjuna to surrender completely to the Supreme Lord with all his heart, mind, and soul. Through absolute surrender, one transcends material miseries and attains supreme peace and the eternal, imperishable spiritual abode. This represents the pinnacle of devotion and the ultimate path to liberation.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तम् | उस (परमेश्वर) की |
+| एव | ही |
+| शरणम् | शरण में |
+| गच्छ | जाओ |
+| सर्व-भावेन | सब प्रकार से (अपने सम्पूर्ण भाव से) |
+| भारत | हे भरतवंशी अर्जुन |
+| तत्-प्रसादात् | उनकी कृपा से |
+| पराम् | परम |
+| शान्तिम् | शान्ति को |
+| स्थानम् | धाम को |
+| प्राप्स्यसि | तुम प्राप्त करोगे |
+| शाश्वतम् | सनातन (नित्य) |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tam | unto Him |
+| eva | only |
+| śaraṇam | surrender |
+| gaccha | go |
+| sarva-bhāvena | with your whole being (in all respects) |
+| bhārata | O descendant of Bharata (Arjuna) |
+| tat-prasādāt | by His grace |
+| parām | supreme |
+| śāntim | peace |
+| sthānam | abode |
+| prāpsyasi | you will attain |
+| śāśvatam | eternal |
+

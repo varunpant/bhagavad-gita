@@ -31,3 +31,59 @@ position: 618
 
 ```
 
+
+### Transliteration
+```
+tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ
+brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण 'ॐ तत् सत्' की महत्ता समझा रहे हैं। यह तीन शब्दों का समूह सच्चिदानन्दघन ब्रह्म का सूचक है। सृष्टि के प्रारंभ में इसी त्रिगुण निर्देश के द्वारा ब्राह्मणों, वेदों और यज्ञों की रचना की गई थी, जो सभी शुभ कर्मों के आधार हैं।
+
+### Meaning
+
+In this verse, Lord Krishna explains the significance of the threefold designation 'Om Tat Sat' representing the Supreme Brahman. At the beginning of creation, the Brahmanas, the Vedas, and the sacrifices were ordained through this very threefold representation, establishing them as the foundation of all sacred acts.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| तत् | तत् (वह) |
+| सत् | सत् (सत्य) |
+| इति | इस प्रकार |
+| निर्देशः | संकेत या निर्देश |
+| ब्रह्मणः | परब्रह्म का |
+| त्रिविधः | तीन प्रकार का |
+| स्मृतः | कहा गया है |
+| ब्राह्मणाः | ब्राह्मण |
+| तेन | उस (निर्देश) के द्वारा |
+| वेदाः | वेद |
+| च | और |
+| यज्ञाः | यज्ञ |
+| च | और |
+| विहिताः | रचे गए / निर्मित किए गए |
+| पुरा | सृष्टि के आदि में |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| tat | Tat (That) |
+| sat | Sat (the Truth) |
+| iti | thus |
+| nirdeśaḥ | designation |
+| brahmaṇaḥ | of Brahman |
+| trividhaḥ | threefold |
+| smṛtaḥ | is declared |
+| brāhmaṇāḥ | the Brahmanas |
+| tena | by that |
+| vedāḥ | the Vedas |
+| ca | and |
+| yajñāḥ | sacrifices |
+| ca | and |
+| vihitāḥ | were created |
+| purā | formerly (in the beginning) |
+

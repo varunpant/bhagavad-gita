@@ -31,3 +31,49 @@ position: 611
 
 ```
 
+
+### Transliteration
+```
+manaḥprasādaḥ saumyatvaṃ maunamātmavinigrahaḥ
+bhāvasaṃśuddhirityetattapo mānasamucyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण मानसिक तपस्या के लक्षणों का वर्णन करते हैं। मन को शांत, प्रसन्न और सौम्य रखना, व्यर्थ न बोलना, मन को वश में रखना और अपने विचारों को शुद्ध रखना ही वास्तविक मानसिक तप है। यह तप मनुष्य के आंतरिक विकास के लिए अत्यंत आवश्यक है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the characteristics of the austerity of the mind. Maintaining serenity, gentleness, silence, self-control, and purity of purpose constitute mental discipline. This internal purification is essential for spiritual growth and self-realization.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मनःप्रसादः | मन की प्रसन्नता |
+| सौम्यत्वम् | सौम्यता या कोमलता |
+| मौनम् | मौन (वाणी का संयम) |
+| आत्मविनिग्रहः | आत्म-संयम (मन का नियंत्रण) |
+| भावसंशुद्धिः | भावों की भली-भांति शुद्धि |
+| इति | इस प्रकार |
+| एतत् | यह |
+| तपः | तप |
+| मानसम् | मानसिक |
+| उच्यते | कहा जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| manaḥ-prasādaḥ | satisfaction or serenity of mind |
+| saumyatvam | gentleness or benevolence |
+| maunam | silence |
+| ātma-vinigrahaḥ | self-control |
+| bhāva-saṃśuddhiḥ | purity of feelings or purpose |
+| iti | thus |
+| etat | this |
+| tapaḥ | austerity |
+| mānasam | of the mind |
+| ucyate | is said to be |
+

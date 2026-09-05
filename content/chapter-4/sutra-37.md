@@ -31,3 +31,57 @@ position: 199
 
 ```
 
+
+### Transliteration
+```
+yathaidhāṃsi samiddho'gnirbhasmasātkurute'rjuna
+jñānāgniḥ sarvakarmāṇi bhasmasātkurute tathā
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण आध्यात्मिक ज्ञान के शुद्धिकरण प्रभाव को समझाने के लिए एक शक्तिशाली उदाहरण देते हैं। जिस प्रकार प्रज्वलित अग्नि उसमें डाली गई किसी भी लकड़ी को जलाकर राख कर देती है, उसी प्रकार सच्चा ज्ञान हमारे सभी संचित कर्मों के फलों को नष्ट कर देता है। परिणामस्वरूप, आत्मज्ञान में स्थित व्यक्ति कर्म बंधनों के चक्र से मुक्त हो जाता है।
+
+### Meaning
+
+In this verse, Lord Krishna uses a powerful analogy to explain the purifying effect of spiritual knowledge. Just as a raging fire consumes any wood thrown into it, true wisdom destroys the accumulated reactions of all past material actions. Consequently, a person situated in true knowledge is freed from the cycle of karmic bondage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यथा | जैसे |
+| एधांसि | लकड़ियों को |
+| समिद्धः | प्रज्वलित |
+| अग्निः | आग |
+| भस्मसात् | राख |
+| कुरुते | कर देती है |
+| अर्जुन | हे अर्जुन |
+| ज्ञान | ज्ञान रूपी |
+| अग्निः | अग्नि |
+| सर्व | सम्पूर्ण |
+| कर्माणि | कर्मों को |
+| भस्मसात् | राख |
+| कुरुते | कर देती है |
+| तथा | उसी प्रकार |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yathā | just as |
+| edhāṃsi | firewood |
+| samiddhaḥ | blazing |
+| agniḥ | fire |
+| bhasmasāt | to ashes |
+| kurute | turns |
+| arjuna | O Arjuna |
+| jñāna | of knowledge |
+| agniḥ | the fire |
+| sarva | all |
+| karmāṇi | actions |
+| bhasmasāt | to ashes |
+| kurute | turns |
+| tathā | similarly |
+

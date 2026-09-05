@@ -32,3 +32,55 @@ fathers-in-law, grandsons, brothers-in-law and other relatives,-
 
 ```
 
+
+### Transliteration
+```
+ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ
+mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā
+
+```
+
+### भावार्थ
+
+इस श्लोक में अर्जुन युद्धभूमि में उपस्थित अपने सगे-सम्बन्धियों की सूची गिना रहे हैं। वह भगवान कृष्ण को बताते हैं कि जिनके विरुद्ध उन्हें युद्ध करना है, वे कोई और नहीं बल्कि उनके अपने गुरु, पितामह, मामा, ससुर और अन्य प्रियजन हैं। यह देखकर अर्जुन का मन मोह और विषाद से भर जाता है, क्योंकि वह राज्य के लिए अपने ही परिवार का वध नहीं करना चाहते।
+
+### Meaning
+
+In this verse, Arjuna lists the close relatives and loved ones present on the battlefield. He points out to Lord Krishna that the people he is supposed to fight are his own teachers, grandfathers, uncles, fathers-in-law, and other kinsmen. Seeing them, Arjuna is overwhelmed with attachment and sorrow, as he cannot bear the thought of slaughtering his own family for the sake of a kingdom.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| आचार्याः | गुरुजन |
+| पितरः | पिता |
+| पुत्राः | पुत्र |
+| तथा | तथा |
+| एव | ही |
+| च | और |
+| पितामहाः | दादा |
+| मातुलाः | मामा |
+| श्वशुराः | ससुर |
+| पौत्राः | पोते |
+| श्यालाः | साले |
+| सम्बन्धिनः | सम्बन्धी |
+| तथा | तथा |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| ācāryāḥ | teachers |
+| pitaraḥ | fathers |
+| putrāḥ | sons |
+| tathā | as well as |
+| eva | indeed |
+| ca | and |
+| pitāmahāḥ | grandfathers |
+| mātulāḥ | maternal uncles |
+| śvaśurāḥ | fathers-in-law |
+| pautrāḥ | grandsons |
+| śyālāḥ | brothers-in-law |
+| sambandhinaḥ | relatives |
+| tathā | as well as |
+

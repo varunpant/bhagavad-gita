@@ -31,3 +31,53 @@ position: 521
 
 ```
 
+
+### Transliteration
+```
+anāditvān nirguṇatvāt paramātmāyam avyayaḥ
+śarīrastho'pi kaunteya na karoti na lipyate
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि जीवात्मा वास्तव में परमात्मा का ही अंश है जो शरीर में रहते हुए भी प्रकृति के गुणों से परे है। जैसे आकाश सर्वव्यापी होने पर भी किसी वस्तु से लिप्त नहीं होता, वैसे ही परमात्मा शरीर में स्थित होने पर भी कर्मों के फलों से अछूता रहता है। यह आत्मा अविनाशी, अनादि और दिव्य है।
+
+### Meaning
+
+In this verse, Lord Krishna explains to Arjuna that the supreme Self, despite residing within the physical body, remains unaffected by bodily actions. Because it is beginningless and free from the three modes of material nature (gunas), it is immutable and does not incur any karmic reactions or attachment.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अनादित्वात् | अनादि होने के कारण |
+| निर्गुणत्वात् | गुणरहित होने के कारण |
+| परमात्मा | परम आत्मा |
+| अयम् | यह |
+| अव्ययः | अविनाशी |
+| शरीरस्थः | शरीर में स्थित |
+| अपि | भी |
+| कौन्तेय | हे कुन्तीपुत्र (अर्जुन) |
+| ना | नहीं |
+| करोति | करता है |
+| ना | नहीं |
+| लिप्यते | लिप्त होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| anāditvāt | due to being beginningless |
+| nirguṇatvāt | due to being devoid of material qualities |
+| paramātmā | the supreme Self |
+| ayam | this |
+| avyayaḥ | imperishable |
+| śarīrasthaḥ | dwelling in the body |
+| api | even though |
+| kaunteya | O son of Kunti |
+| na | not |
+| karoti | acts |
+| na | not |
+| lipyate | is tainted |
+

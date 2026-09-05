@@ -31,3 +31,51 @@ position: 216
 
 ```
 
+
+### Transliteration
+```
+yuktaḥ karmaphalaṃ tyaktvā śāntimāpnoti naiṣṭhikīm
+ayuktaḥ kāmakāreṇa phale sakto nibadhyate
+
+```
+
+### भावार्थ
+
+एक सच्चा कर्मयोगी अपने कर्मों के फलों की आसक्ति को त्याग कर परम शांति प्राप्त करता है। इसके विपरीत, जो व्यक्ति ईश्वर से जुड़ा नहीं है, वह अपनी इच्छाओं के वशीभूत होकर कर्म फलों में आसक्त रहता है और इसी कारण सांसारिक बंधनों में फँस जाता है।
+
+### Meaning
+
+A true Karma Yogi performs duties without attachment to the results, offering them to the Supreme, and thereby attains everlasting peace. In contrast, a person disconnected from the Divine acts out of personal desire, becomes entangled in the fruits of their actions, and remains bound to the cycle of material existence.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| युक्तः | युक्त (कर्मयोगी) |
+| कर्मफलम् | कर्म के फल को |
+| त्यक्त्वा | त्यागकर |
+| शान्तिम् | शान्ति को |
+| आप्नोति | प्राप्त करता है |
+| नैष्ठिकीम् | नैष्ठिक (परम) |
+| अयुक्तः | अयुक्त (सकाम पुरुष) |
+| कामकारेण | कामना की प्रेरणा से |
+| फले | फल में |
+| सक्तः | आसक्त होकर |
+| निबध्यते | बँध जाता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yuktaḥ | the united one (yogi) |
+| karmaphalam | the fruit of action |
+| tyaktvā | having abandoned |
+| śāntim | peace |
+| āpnoti | attains |
+| naiṣṭhikīm | steadfast (ultimate) |
+| ayuktaḥ | the un-united one |
+| kāmakāreṇa | impelled by desire |
+| phale | in the fruit |
+| saktaḥ | attached |
+| nibadhyate | becomes bound |
+

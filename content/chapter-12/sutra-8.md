@@ -31,3 +31,55 @@ position: 477
 
 ```
 
+
+### Transliteration
+```
+mayyeva mana ādhatsva mayi buddhiṃ niveśaya
+nivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अनन्य भक्ति का मार्ग बताते हैं। वे कहते हैं कि साधक को अपने मन और बुद्धि दोनों को पूरी तरह से भगवान में ही लीन कर देना चाहिए। ऐसा करने से मनुष्य मृत्यु के पश्चात या इसी जीवन में भगवद्भाव को प्राप्त होता है और ईश्वर में ही निवास करता है।
+
+### Meaning
+
+In this verse, Lord Krishna instructs Arjuna on the path of exclusive devotion. He advises the seeker to absorb both the mind and the intellect entirely in Him. By doing so, the devotee will undoubtedly dwell in the Divine consciousness hereafter.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| मयि | मुझमें |
+| एव | ही |
+| मनः | मन को |
+| आधत्स्व | स्थिर करो |
+| मयि | मुझमें |
+| बुद्धिम् | बुद्धि को |
+| निवेशय | लगाओ |
+| निवसिष्यसि | तुम निवास करोगे |
+| मयि | मुझमें |
+| एव | ही |
+| अतः ऊर्ध्वम् | इसके बाद |
+| न | नहीं |
+| संशयः | संदेह |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| mayi | in Me |
+| eva | alone |
+| manaḥ | the mind |
+| ādhatsva | fix |
+| mayi | in Me |
+| buddhim | the intellect |
+| niveśaya | apply / enter |
+| nivasiṣyasi | you shall dwell |
+| mayi | in Me |
+| eva | alone |
+| ataḥ ūrdhvam | thereafter |
+| na | no |
+| saṃśayaḥ | doubt |
+

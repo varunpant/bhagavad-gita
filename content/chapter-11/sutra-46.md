@@ -31,3 +31,59 @@ position: 460
 
 ```
 
+
+### Transliteration
+```
+kirīṭinaṃ gadinaṃ cakrahastam
+icchāmi tvāṃ draṣṭumahaṃ tathaiva
+tenaiva rūpeṇa caturbhujena
+sahasrabāho bhava viśvamūrte
+
+```
+
+### भावार्थ
+
+भगवान कृष्ण के अत्यंत उग्र और असीम विश्वरूप को देखकर अर्जुन भयभीत हो जाते हैं। वे भगवान से प्रार्थना करते हैं कि वे अपने इस डरावने रूप को समेट लें और अपने सौम्य, मुकुटधारी, गदा और चक्र से सुसज्जित चतुर्भुज रूप में पुनः प्रकट हों, जिससे अर्जुन को शांति मिल सके।
+
+### Meaning
+
+After witnessing the terrifying and boundless universal form of Lord Krishna, Arjuna is filled with fear and awe. He begs the Lord to withdraw this cosmic manifestation and return to His familiar, serene, and beautiful four-armed form, adorned with a crown, mace, and disc.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| किरीटिनम् | मुकुट धारण किए हुए को |
+| गदिनम् | गदा धारण किए हुए को |
+| चक्र-हस्तम् | हाथ में चक्र लिए हुए को |
+| इच्छामि | चाहता हूँ |
+| त्वाम् | आपको |
+| द्रष्टुम् | देखना |
+| अहम् | मैं |
+| तथा एव | वैसे ही |
+| तेन एव | उसी |
+| रूपेण | रूप से |
+| चतुर्भुजेन | चार भुजाओं वाले |
+| सहस्रबाहो | हे हजार भुजाओं वाले |
+| भव | हो जाइए |
+| विश्वमूर्ते | हे विश्वरूप |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| kirīṭinam | one wearing a crown |
+| gadinam | one holding a mace |
+| cakra-hastam | with a disc in hand |
+| icchāmi | I wish |
+| tvām | You |
+| draṣṭum | to see |
+| aham | I |
+| tathā eva | just as before |
+| tena eva | in that very |
+| rūpeṇa | form |
+| caturbhujena | four-armed |
+| sahasrabāho | O thousand-armed one |
+| bhava | become |
+| viśvamūrte | O universal form |
+

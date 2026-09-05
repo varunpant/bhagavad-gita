@@ -31,3 +31,55 @@ position: 392
 
 ```
 
+
+### Transliteration
+```
+aham ātmā guḍākeśa sarvabhūtāśayasthitaḥ
+aham ādiś ca madhyaṃ ca bhūtānām anta eva ca
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अपनी मुख्य विभूतियों का वर्णन आरंभ करते हुए बताते हैं कि वे ही प्रत्येक जीव के भीतर स्थित आत्मा हैं। वे सृष्टि के आदि, मध्य और अंत के रूप में सर्वव्यापी हैं। इसका अर्थ है कि संसार की कोई भी वस्तु या जीव परमात्मा से पृथक नहीं है।
+
+### Meaning
+
+In this verse, Lord Krishna begins describing His divine opulences to Arjuna, declaring that He is the innermost Self residing in the hearts of all living entities. He is the source, the sustaining middle, and the ultimate end of all existence. This emphasizes that nothing exists apart from the Supreme Divine.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अहम् | मैं |
+| आत्मा | आत्मा (प्रत्येक जीव का स्वरूप) |
+| गुडाकेश | हे गुडाकेश (नींद को जीतने वाले अर्जुन) |
+| सर्व-भूत-आशय-स्थितः | समस्त प्राणियों के हृदय में स्थित |
+| अहम् | मैं |
+| आदिः | आदि (उत्पत्ति का कारण) |
+| च | और |
+| मध्यम् | मध्य (स्थिति) |
+| च | और |
+| भूतानाम् | प्राणियों का |
+| अन्तः | अंत (प्रलय) |
+| एव | ही |
+| च | भी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| aham | I |
+| ātmā | the Self |
+| guḍākeśa | O Gudakesha (Arjuna, the conqueror of sleep) |
+| sarva-bhūta-āśaya-sthitaḥ | seated in the hearts of all living beings |
+| aham | I |
+| ādiḥ | the beginning |
+| ca | and |
+| madhyam | the middle |
+| ca | and |
+| bhūtānām | of all beings |
+| antaḥ | the end |
+| eva | indeed |
+| ca | also |
+

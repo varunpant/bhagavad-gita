@@ -31,3 +31,59 @@ position: 421
 
 ```
 
+
+### Transliteration
+```
+ihaikasthaṃ jagat kṛtsnaṃ paśyādya sacarācaram
+mama dehe guḍākeśa yaccānyad draṣṭum icchasi
+
+```
+
+### भावार्थ
+
+भगवान श्रीकृष्ण अर्जुन को अपने दिव्य विश्वरूप का दर्शन करने के लिए आमंत्रित कर रहे हैं। वे अर्जुन से कहते हैं कि वे उनके शरीर के एक ही अंश में समस्त चराचर जगत को देख सकते हैं। इसके साथ ही, अर्जुन भविष्य की घटनाओं या अपनी जिज्ञासा के अनुसार जो कुछ भी देखना चाहते हैं, वह सब इस रूप में प्रत्यक्ष देख सकते हैं।
+
+### Meaning
+
+Lord Krishna invites Arjuna to behold His divine cosmic form. He tells Arjuna that the entire universe, with all its moving and stationary entities, is gathered together in one place within His body. Furthermore, Arjuna is granted the vision to see whatever else he wishes to see, including future events or any other curiosity.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| इह | यहाँ (इस शरीर में) |
+| एकस्थम् | एक स्थान पर स्थित |
+| जगत् | जगत को |
+| कृत्स्नम् | सम्पूर्ण |
+| पश्य | देखो |
+| अद्य | आज |
+| स-चर-अचरम् | चर और अचर सहित |
+| मम | मेरे |
+| देहे | शरीर में |
+| गुडाकेश | हे अर्जुन (नींद को जीतने वाले) |
+| यत् | जो |
+| च | और |
+| अन्यत् | दूसरा कुछ |
+| द्रष्टुम् | देखने के लिए |
+| इच्छसि | तुम चाहते हो |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| iha | here (in this body) |
+| ekastham | concentrated in one place |
+| jagat | the universe |
+| kṛtsnam | entire |
+| paśya | behold |
+| adya | today |
+| sa-cara-acaram | with the moving and the non-moving |
+| mama | my |
+| dehe | in the body |
+| guḍākeśa | O Arjuna (conqueror of sleep) |
+| yat | whatever |
+| ca | and |
+| anyat | other |
+| draṣṭum | to see |
+| icchasi | you wish |
+

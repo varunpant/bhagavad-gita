@@ -31,3 +31,60 @@ position: 696
 
 ```
 
+
+### Transliteration
+```
+arjuna uvāca
+naṣṭo mohaḥ smṛtirlabdhā tvatprasādānmayācyuta
+sthito'smi gatasandehaḥ kariṣye vacanaṃ tava
+
+```
+
+### भावार्थ
+
+यह भगवद्गीता का अंतिम श्लोक है जिसमें अर्जुन बोलते हैं। कृष्ण के उपदेश को सुनने के बाद, अर्जुन का अज्ञान और भ्रम पूरी तरह से समाप्त हो जाता है। वे अपने वास्तविक स्वरूप और कर्तव्य को पहचान लेते हैं और युद्ध करने के लिए तैयार हो जाते हैं।
+
+### Meaning
+
+This is the final verse spoken by Arjuna in the Bhagavad Gita. After hearing Krishna's teachings, Arjuna's ignorance and delusion are completely dispelled. He regains his spiritual memory and readiness to perform his duty, submitting entirely to the divine will.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| अर्जुनः | अर्जुन |
+| उवाच | ने कहा |
+| नष्टः | नष्ट हो गया है |
+| मोहः | मोह (अज्ञान) |
+| स्मृतिः | स्मृति (आत्मज्ञान) |
+| लब्धा | प्राप्त हो गई है |
+| त्वत्-प्रसादात् | आपकी कृपा से |
+| मया | मेरे द्वारा |
+| अच्युत | हे अच्युत (अविनाशी) |
+| स्थितः | स्थित |
+| अस्मि | मैं हूँ |
+| गत-सन्देहः | संशयों से रहित होकर |
+| करिष्ये | मैं करूँगा |
+| वचनम् | आज्ञा का पालन |
+| तव | आपकी |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| arjunaḥ | Arjuna |
+| uvāca | said |
+| naṣṭaḥ | destroyed |
+| mohaḥ | delusion |
+| smṛtiḥ | memory (of self-realization) |
+| labdhā | regained |
+| tvat-prasādāt | by your grace |
+| mayā | by me |
+| acyuta | O infallible one |
+| sthitaḥ | situated (firm) |
+| asmi | I am |
+| gata-sandehaḥ | free from doubts |
+| kariṣye | I will do |
+| vacanam | word (instruction) |
+| tava | your |
+

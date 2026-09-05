@@ -33,3 +33,47 @@ the family are destroyed.
 
 ```
 
+
+### Transliteration
+```
+doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ
+utsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ
+
+```
+
+### भावार्थ
+
+अर्जुन युद्ध के विनाशकारी परिणामों का वर्णन जारी रखते हैं। वह तर्क देते हैं कि जब परिवार के मुखिया मारे जाते हैं, तो समाज में वर्णसंकर (अवांछित संतान) उत्पन्न होते हैं। इन पापपूर्ण कार्यों के परिणामस्वरूप, सदियों से चले आ रहे सनातन कुल-धर्म और जाति-धर्म हमेशा के लिए नष्ट हो जाते हैं, जिससे समाज का पतन होता है।
+
+### Meaning
+
+Arjuna continues to describe the catastrophic consequences of war. He argues that the evil deeds of those who destroy the family lead to unwanted progeny and the intermingling of castes. Consequently, the eternal traditions of the family and the socio-religious duties of the community are permanently destroyed, leading to the collapse of social order.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| दोषैः | दोषों से |
+| एतैः | इन |
+| कुलघ्नानाम् | कुलघातियों के |
+| वर्णसङ्करकारकैः | वर्णसंकर पैदा करने वाले |
+| उत्साद्यन्ते | नष्ट हो जाते हैं |
+| जातिधर्माः | जाति-धर्म |
+| कुलधर्माः | कुल-धर्म |
+| च | और |
+| शाश्वताः | सनातन |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| doṣaiḥ | by evil deeds |
+| etaiḥ | by these |
+| kulaghnānām | of the destroyers of the family |
+| varṇasaṅkarakārakaiḥ | causing the mixture of castes |
+| utsādyante | are destroyed |
+| jātidharmāḥ | community duties |
+| kuladharmāḥ | family traditions |
+| ca | and |
+| śāśvatāḥ | eternal |
+

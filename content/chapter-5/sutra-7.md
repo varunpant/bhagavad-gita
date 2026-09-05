@@ -31,3 +31,47 @@ position: 211
 
 ```
 
+
+### Transliteration
+```
+yogayukto viśuddhātmā vijitātmā jitendriyaḥ
+sarvabhūtātmabhūtātmā kurvannapi na lipyate
+
+```
+
+### भावार्थ
+
+यह श्लोक एक सच्चे कर्मयोगी की उच्च अवस्था का वर्णन करता है। अपने अंतःकरण को शुद्ध करके तथा मन और इंद्रियों को वश में करके, ऐसा व्यक्ति सभी जीवों में एक ही परमात्मा के दर्शन करता है। चूँकि वह बिना किसी स्वार्थ के कार्य करता है और सर्वत्र ईश्वर को देखता है, इसलिए उसके कर्म उसे किसी भी प्रकार के बंधन में नहीं डालते।
+
+### Meaning
+
+This verse describes the elevated state of a true Karma Yogi. By purifying the intellect and mastering the mind and senses, such a person realizes the spiritual oneness of all living beings. Because they act without selfish attachment and see the Divine everywhere, their actions do not create any karmic bondage.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| योगयुक्तः | कर्मयोग में लगा हुआ |
+| विशुद्ध-आत्मा | शुद्ध अंतःकरण वाला |
+| विजित-आत्मा | जिसने मन को जीत लिया है |
+| जित-इन्द्रियः | जिसने इन्द्रियों को जीत लिया है |
+| सर्व-भूत-आत्म-भूत-आत्मा | जो सभी प्राणियों का आत्मा बन गया है |
+| कुर्वन् | कर्म करते हुए |
+| अपि | भी |
+| न | नहीं |
+| लिप्यते | लिप्त होता है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yoga-yuktaḥ | engaged in karma yoga |
+| viśuddha-ātmā | one with a purified mind |
+| vijita-ātmā | one who has controlled the mind |
+| jita-indriyaḥ | one who has conquered the senses |
+| sarva-bhūta-ātma-bhūta-ātmā | one whose self has become the self of all beings |
+| kurvan | performing actions |
+| api | even |
+| na | not |
+| lipyate | is tainted |
+

@@ -31,3 +31,61 @@ position: 232
 
 ```
 
+
+### Transliteration
+```
+yatendriyamanobuddhir munir mokṣaparāyaṇaḥ
+vigatechābhayakrodho yaḥ sadā mukta eva saḥ
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान कृष्ण ध्यानयोग के अभ्यास के अंतिम परिणाम का वर्णन करते हैं। जो साधक अपनी बाह्य और आंतरिक इंद्रियों को वश में कर लेता है और जिसका एकमात्र लक्ष्य मोक्ष होता है, वह राग-द्वेष से ऊपर उठ जाता है। ऐसा मुनि, जो इच्छा, भय और क्रोध से सर्वथा मुक्त हो चुका है, इस संसार में रहते हुए भी सदैव मुक्त ही है।
+
+### Meaning
+
+In this verse, Lord Krishna describes the state of a self-realized sage who has mastered the path of meditation. By controlling the senses, mind, and intellect, and by directing all efforts toward ultimate liberation, one becomes free from the dualities of desire, fear, and anger. Such a contemplative sage is considered to be eternally liberated, even while living in the physical body.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| यत | वश में की हुई |
+| इन्द्रिय | इन्द्रियाँ |
+| मनः | मन |
+| बुद्धिः | और बुद्धि वाला |
+| मुनिः | मननशील संन्यासी (मुनि) |
+| मोक्ष | मोक्ष के |
+| परायणः | परायण (परम लक्ष्य मानने वाला) |
+| विगत | रहित हो गए हैं |
+| इच्छा | इच्छा |
+| भय | भय |
+| क्रोधः | और क्रोध जिसके |
+| यः | जो |
+| सदा | सदैव |
+| मुक्तः | मुक्त |
+| एव | ही |
+| सः | वह है |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| yata | controlled |
+| indriya | senses |
+| manaḥ | mind |
+| buddhiḥ | and intellect |
+| muniḥ | the sage |
+| mokṣa | liberation |
+| parāyaṇaḥ | having as the supreme goal |
+| vigata | gone away / freed from |
+| icchā | desire |
+| bhaya | fear |
+| krodhaḥ | and anger |
+| yaḥ | who |
+| sadā | always |
+| muktaḥ | liberated |
+| eva | indeed |
+| saḥ | he (is) |
+

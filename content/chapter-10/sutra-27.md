@@ -31,3 +31,49 @@ position: 399
 
 ```
 
+
+### Transliteration
+```
+uccaiḥśravasam aśvānāṃ viddhi mām amṛtodbhavam
+airāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam
+
+```
+
+### भावार्थ
+
+इस श्लोक में भगवान श्रीकृष्ण अपनी दिव्य विभूतियों का वर्णन करते हुए कहते हैं कि वे घोड़ों में सबसे श्रेष्ठ और दिव्य 'उच्चैःश्रवा' हैं, जो समुद्र मंथन के समय अमृत के साथ प्रकट हुआ था। इसी प्रकार, वे हाथियों में इंद्र के वाहन 'ऐरावत' हैं और मनुष्यों में शासन करने वाले राजा हैं। यह दर्शाता है कि प्रत्येक श्रेणी में जो सर्वोत्तम, सबसे शक्तिशाली और नेतृत्व करने वाला तत्व है, वह भगवान की ही विभूति है।
+
+### Meaning
+
+In this verse, Lord Krishna describes His divine manifestations (vibhutis), declaring Himself to be Uchchaihshravas among horses, the celestial steed that emerged during the churning of the ocean of milk. He is also Airavata, the king of elephants and the mount of Indra, and the king among human beings. This emphasizes that the most glorious, powerful, and leading entities in any category represent the divine opulence of the Supreme.
+
+### शब्दार्थ
+
+| शब्द | अर्थ |
+| --- | --- |
+| उच्चैःश्रवसम् | उच्चैःश्रवा नामक घोड़े को |
+| अश्वानाम् | घोड़ों में |
+| विद्धि | जानो |
+| माम् | मुझको |
+| अमृत-उद्भवम् | अमृत-मंथन से उत्पन्न होने वाला |
+| ऐरावतम् | ऐरावत को |
+| गजेन्द्राणाम् | श्रेष्ठ हाथियों में |
+| नराणाम् | मनुष्यों में |
+| च | और |
+| नर-अधिपम् | राजा (मनुष्यों के स्वामी) को |
+
+### Word by word
+
+| Word | Meaning |
+| --- | --- |
+| uccaiḥśravasam | Uchchaihshravas |
+| aśvānām | among horses |
+| viddhi | know |
+| mām | Me |
+| amṛta-udbhavam | born from the nectar of immortality |
+| airāvatam | Airavata |
+| gajendrāṇām | among lordly elephants |
+| narāṇām | among men |
+| ca | and |
+| nara-adhipam | the king (ruler of men) |
+
