@@ -74,27 +74,22 @@ struct ReaderView: View {
         // enough to have been read rather than swiped past.
         .tracksReading(of: currentVerseID)
         .onOpenURL { url in
-            guard url.scheme == "gita" else { return }
-
-            // gita://progress — the progress widget's own tap target. It opens
-            // the panel the widget is a summary of, rather than dropping the
-            // reader somewhere unrelated to what they tapped.
-            if url.host == "progress" {
+            // The parsing is in `DeepLink`, where it can be tested without
+            // launching the app. What is left here is what only a view can do.
+            switch DeepLink(url) {
+            case .progress:
                 drawer.open()
                 drawer.panel = .progress
-                return
+
+            case .verse(let chapter, let sutra):
+                pendingDeepLink = (chapter, sutra)
+                // A cold launch from a widget arrives before the corpus is in
+                // memory, so the request is held until it is.
+                if library.state.isReady { openPendingDeepLink() }
+
+            case nil:
+                break
             }
-
-            // gita://verse/2/47 — from a widget, and later from Shortcuts.
-            guard url.host == "verse" else { return }
-            let parts = url.pathComponents.filter { $0 != "/" }
-            guard parts.count == 2,
-                  let chapter = Int(parts[0]), let sutra = Int(parts[1]) else { return }
-
-            pendingDeepLink = (chapter, sutra)
-            // A cold launch from a widget arrives before the corpus is in
-            // memory, so the request is held until it is.
-            if library.state.isReady { openPendingDeepLink() }
         }
         // The drawer has already put itself away — see `Drawer.requestVerse`.
         // All the reader does is take the request and clear it.
