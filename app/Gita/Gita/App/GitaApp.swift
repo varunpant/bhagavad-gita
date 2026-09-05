@@ -49,7 +49,17 @@ struct GitaApp: App {
                 .preferredColorScheme(settings.theme.resolve(for: colorScheme).colorScheme)
         }
         #if os(macOS)
-        .defaultSize(width: 720, height: 820)
+        // Wide enough that the rail sits at the left edge with the page beside
+        // it rather than under it, and the reader's measure is centred in real
+        // margins rather than filling a narrow window edge to edge. 720 was a
+        // phone-shaped window on a desk: the rail took a tenth of it, and the
+        // column had nowhere to be centred.
+        //
+        // The measure itself stays capped — see `ReaderView` — so a wider
+        // window buys margin, not longer lines. That is the point: this is the
+        // one screen where a reader can put the book down in the middle of
+        // their desk and leave it open.
+        .defaultSize(width: 1100, height: 860)
         #endif
     }
 }
