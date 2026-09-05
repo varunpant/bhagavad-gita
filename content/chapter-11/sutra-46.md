@@ -8,11 +8,10 @@ sutra: 46
 position: 460
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 किरीटिनं गदिनं चक्रहस्त     मिच्छामि त्वां द्रष्टुमहं तथैव
 तेनैव रूपेण चतुर्भुजेन      सहस्रबाहो भव विश्वमूर्ते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 460
 
 
 ### Transliteration
-```
-kirīṭinaṃ gadinaṃ cakrahastam
-icchāmi tvāṃ draṣṭumahaṃ tathaiva
-tenaiva rūpeṇa caturbhujena
-sahasrabāho bhava viśvamūrte
+{{< lines >}}
+kirīṭinaṃ gadinaṃ cakrahastam icchāmi tvāṃ draṣṭumahaṃ tathaiva
+tenaiva rūpeṇa caturbhujena sahasrabāho bhava viśvamūrte
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं आपको वैसे ही मुकुट धारण किए हुए, हाथ में गदा और चक्र लिए हुए देखना चाहता हूँ। हे सहस्रबाहु! हे विश्वरूप! आप अपने उसी चतुर्भुज रूप में प्रकट हो जाइए।
 
 ### भावार्थ
 
 भगवान कृष्ण के अत्यंत उग्र और असीम विश्वरूप को देखकर अर्जुन भयभीत हो जाते हैं। वे भगवान से प्रार्थना करते हैं कि वे अपने इस डरावने रूप को समेट लें और अपने सौम्य, मुकुटधारी, गदा और चक्र से सुसज्जित चतुर्भुज रूप में पुनः प्रकट हों, जिससे अर्जुन को शांति मिल सके।
+
+### Translation
+
+I wish to see You as before, wearing a crown, holding a mace and a disc in Your hand. O thousand-armed one, O universal form, appear in that same four-armed form.
 
 ### Meaning
 

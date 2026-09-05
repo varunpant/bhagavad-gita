@@ -8,11 +8,10 @@ sutra: 17
 position: 17
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 काश्यश्च परमेष्वासः शिखण्डी च महारथः
 धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ car-warrior, Dhrishtadyumna and Virata and Satyaki, the unconered.
 
 
 ### Transliteration
-```
+{{< lines >}}
 kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ
 dhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+महान धनुर्धर काशीराज, महारथी शिखण्डी, धृष्टद्युम्न, विराट और अजेय सात्यकि।
 
 ### भावार्थ
 
 इस श्लोक में संजय पाण्डव सेना के अन्य प्रमुख और शक्तिशाली योद्धाओं के नामों का वर्णन कर रहे हैं। वे धृतराष्ट्र को बताते हैं कि पाण्डवों के पक्ष में काशीराज जैसे महान धनुर्धर और शिखण्डी जैसे महारथी उपस्थित हैं। इसके साथ ही धृष्टद्युम्न, राजा विराट और कभी न हारने वाले सात्यकि भी युद्ध के लिए तैयार हैं, जो पाण्डव सेना की विशाल शक्ति को दर्शाते हैं।
+
+### Translation
+
+The King of Kashi, the great archer; Shikhandi, the great warrior; Dhrishtadyumna, Virata, and the invincible Satyaki.
 
 ### Meaning
 

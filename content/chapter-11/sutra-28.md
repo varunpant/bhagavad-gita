@@ -8,11 +8,10 @@ sutra: 28
 position: 442
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यथा नदीनां बहवोऽम्बुवेगाः     समुद्रमेवाभिमुखाः द्रवन्ति
 तथा तवामी नरलोकवीरा     विशन्ति वक्त्राण्यभिविज्वलन्ति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 442
 
 
 ### Transliteration
-```
-yathā nadīnāṃ bahavo'mbuvegāḥ
-samudramevābhimukhāḥ dravanti
-tathā tavāmī naralokavīrā
-viśanti vaktrāṇyabhivijvalanti
+{{< lines >}}
+yathā nadīnāṃ bahavo'mbuvegāḥ samudramevābhimukhāḥ dravanti
+tathā tavāmī naralokavīrā viśanti vaktrāṇyabhivijvalanti
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जैसे नदियों के बहुत से जल-प्रवाह स्वाभाविक रूप से समुद्र की ओर ही दौड़ते हैं, वैसे ही वे मनुष्यलोक के वीर आपके प्रज्वलित मुखों में प्रवेश कर रहे हैं।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विश्वरूप के भयानक संहारक रूप का वर्णन कर रहे हैं। जिस प्रकार नदियाँ अपने वेग से बहती हुई अंततः समुद्र में ही विलीन हो जाती हैं, उसी प्रकार पृथ्वी के सभी महान योद्धा काल रूपी भगवान के मुख में समाते जा रहे हैं। यह दृश्य संसार की नश्वरता और काल की सर्वग्राही शक्ति को दर्शाता है।
+
+### Translation
+
+As the many rapid torrents of rivers flow headlong towards the ocean, so do these heroes of the world of men enter into Your blazing mouths.
 
 ### Meaning
 

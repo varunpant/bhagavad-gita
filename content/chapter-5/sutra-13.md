@@ -8,11 +8,10 @@ sutra: 13
 position: 217
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी
 नवद्वारे पुरे देही नैव कुर्वन्न कारयन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 217
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī
 navadvāre pure dehī naiva kurvanna kārayan
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अपनी इन्द्रियों को वश में करने वाला देहधारी जीव, मन से सभी कर्मों का त्याग करके, नौ द्वारों वाले नगर (शरीर) में न तो कुछ करता हुआ और न ही करवाता हुआ सुखपूर्वक निवास करता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक आत्मज्ञानी व्यक्ति की स्थिति का वर्णन करते हैं जिसने अपने मन और इन्द्रियों को वश में कर लिया है। ऐसा व्यक्ति मानसिक रूप से सभी कर्मों के कर्तापन का त्याग कर देता है और यह जान लेता है कि आत्मा शरीर से भिन्न है। वह इस भौतिक शरीर में, जिसे 'नौ द्वारों वाला नगर' कहा गया है, शांति और सुखपूर्वक रहता है, क्योंकि वह जानता है कि वह न तो कुछ करता है और न ही किसी से कुछ करवाता है।
+
+### Translation
+
+The embodied soul who has subdued his senses, having mentally renounced all actions, resides happily in the city of nine gates, neither acting nor causing others to act.
 
 ### Meaning
 

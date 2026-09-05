@@ -8,11 +8,10 @@ sutra: 22
 position: 302
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 स तया श्रद्धया युक्तस्तस्याराधनमीहते
 लभते च ततः कामान्मयैव विहितान् हि तान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 302
 
 
 ### Transliteration
-```
-sa tayā śraddhayā yuktas
-tasyārādhanam īhate
-labhate ca tataḥ kāmān
-mayaiva vihitān hi tān
+{{< lines >}}
+sa tayā śraddhayā yuktas tasyārādhanam īhate
+labhate ca tataḥ kāmān mayaiva vihitān hi tān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह उस श्रद्धा से युक्त होकर उस देवता की आराधना की चेष्टा करता है और उससे उन इच्छित भोगों को प्राप्त करता है, जो वास्तव में मेरे द्वारा ही विधान किए गए हैं।
 
 ### भावार्थ
 
 भगवान कृष्ण समझाते हैं कि जब कोई भक्त किसी अन्य देवी-देवता की श्रद्धापूर्वक पूजा करता है, तो उसे फल तो मिलता है, परंतु वह फल भी अंततः परमेश्वर द्वारा ही स्वीकृत और प्रदान किया जाता है। अल्पबुद्धि लोग देवताओं को ही फल का स्वतंत्र दाता मान लेते हैं, जबकि देवता केवल भगवान की व्यवस्था के अंतर्गत ही फल दे सकते हैं।
+
+### Translation
+
+Endowed with that faith, he endeavors to worship that deity and obtains from him his desired benefits, which are in reality ordained by Me alone.
 
 ### Meaning
 

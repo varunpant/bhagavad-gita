@@ -8,11 +8,10 @@ sutra: 36
 position: 269
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 असंयतात्मना योगो दुष्प्राप इति मे मतिः
 वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 269
 
 
 ### Transliteration
-```
+{{< lines >}}
 asaṃyatātmanā yogo duṣprāpa iti me matiḥ
 vaśyātmanā tu yatatā śakyo'vāptumupāyataḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिसका मन वश में नहीं है, ऐसे पुरुष द्वारा योग प्राप्त होना कठिन है — ऐसा मेरा मत है; परंतु वश में किए हुए मन वाले प्रयत्नशील पुरुष द्वारा इसे उपाय से प्राप्त करना संभव है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन के संशय का समाधान करते हुए कहते हैं कि असंयमित मन वाले व्यक्ति के लिए योग की प्राप्ति अत्यंत कठिन है। इसके विपरीत, जो व्यक्ति निरंतर अभ्यास और वैराग्य के उपायों द्वारा अपने मन को वश में कर लेता है, वह पुरुषार्थ और सही साधना से योग को अवश्य प्राप्त कर सकता है। मन का निग्रह ही योग की सफलता की कुंजी है।
+
+### Translation
+
+For one whose mind is uncontrolled, yoga is difficult to attain — this is My opinion; but by the self-controlled person who strives, it can be attained through proper means.
 
 ### Meaning
 

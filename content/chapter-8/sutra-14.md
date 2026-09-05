@@ -8,11 +8,10 @@ sutra: 14
 position: 324
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनन्यचेताः सततं यो मां स्मरति नित्यशः
 तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 324
 
 
 ### Transliteration
-```
+{{< lines >}}
 ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ
 tasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जो अनन्य चित्त वाला होकर सदा निरंतर मुझको स्मरण करता है, उस नित्य निरंतर मुझमें युक्त रहने वाले योगी के लिए मैं सुलभ हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण भक्ति योग की सुगमता का वर्णन कर रहे हैं। वे कहते हैं कि जो भक्त बिना किसी अन्य सांसारिक विषय में मन लगाए निरंतर केवल उनका ही स्मरण करता है, उसे भगवान की प्राप्ति अत्यंत सुगमता से हो जाती है। ऐसे नित्य-युक्त योगी के लिए परमात्मा दूर नहीं हैं।
+
+### Translation
+
+O Partha, for the yogi who always remembers Me constantly with an undivided mind, and who is ever-united with Me, I am easily attainable.
 
 ### Meaning
 

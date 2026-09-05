@@ -8,11 +8,10 @@ sutra: 68
 position: 691
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति
 भक्ितं मयि परां कृत्वा मामेवैष्यत्यसंशयः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 691
 
 
 ### Transliteration
-```
+{{< lines >}}
 ya imaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati
 bhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो इस परम रहस्यमय उपदेश को मेरे भक्तों में कहेगा, वह मुझमें परम भक्ति करके निःसंदेह मुझको ही प्राप्त होगा।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण गीता के ज्ञान के प्रचार-प्रसार की महिमा का वर्णन कर रहे हैं। जो व्यक्ति इस परम गोपनीय ज्ञान को भगवान के भक्तों के बीच श्रद्धापूर्वक साझा करता है, वह भगवान की सर्वोच्च भक्ति प्राप्त करता है। अंततः, ऐसा निष्काम प्रचारक बिना किसी संशय के भगवान के परम धाम को प्राप्त होता है।
+
+### Translation
+
+He who teaches this supreme secret among My devotees, having performed supreme devotion to Me, shall doubtless come to Me alone.
 
 ### Meaning
 

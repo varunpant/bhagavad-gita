@@ -8,11 +8,10 @@ sutra: 43
 position: 457
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पितासि लोकस्य चराचरस्य     त्वमस्य पूज्यश्च गुरुर्गरीयान्
 न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो     लोकत्रयेऽप्यप्रतिमप्रभाव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 457
 
 
 ### Transliteration
-```
-pitāsi lokasya carācarasya
-tvamasya pūjyaśca gururgarīyān
-na tvatsamo'styabhyadhikaḥ kuto'nyo
-lokatraye'pyapratimapradhāva
+{{< lines >}}
+pitāsi lokasya carācarasya tvamasya pūjyaśca gururgarīyān
+na tvatsamo'styabhyadhikaḥ kuto'nyo lokatraye'pyapratimapradhāva
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आप इस चराचर जगत के पिता हैं, आप ही इसके पूजनीय और सबसे बड़े गुरु हैं। हे अनुपम प्रभाव वाले! तीनों लोकों में आपके समान भी कोई नहीं है, फिर आपसे अधिक तो कोई कैसे हो सकता है?
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के विराट रूप की महिमा का गान कर रहे हैं। वे स्वीकार करते हैं कि कृष्ण ही संपूर्ण सृष्टि के आदि कारण (पिता) और परम गुरु हैं। उनकी शक्ति और महिमा अद्वितीय है, जिसके कारण तीनों लोकों में कोई भी उनके समकक्ष या उनसे श्रेष्ठ नहीं हो सकता।
+
+### Translation
+
+You are the father of this moving and non-moving world, and its most venerable and greatest spiritual master. O Lord of immeasurable power! There is no one equal to You in the three worlds; how then could there be anyone greater than You?
 
 ### Meaning
 

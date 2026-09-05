@@ -8,11 +8,10 @@ sutra: 24
 position: 228
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः
 स योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 228
 
 
 ### Transliteration
-```
+{{< lines >}}
 yo'ntaḥsukho'ntarārāmastathāntarjyotireva yaḥ
 sa yogī brahmanirvāṇaṃ brahmabhūto'dhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य अंतःकरण में ही सुख वाला है, जो भीतर ही रमण करने वाला है तथा जो भीतर ही ज्ञान की ज्योति वाला है, वह ब्रह्मरूप बना हुआ योगी शांत ब्रह्म (निर्वाण) को प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस योगी के लक्षणों का वर्णन करते हैं जो पूर्णतः अंतर्मुखी हो चुका है। ऐसा व्यक्ति बाहरी भौतिक विषयों में सुख नहीं ढूंढता, बल्कि अपने भीतर ही आनंद, शांति और ज्ञान का अनुभव करता है। वह जीवित रहते हुए ही ब्रह्म के साथ तादात्म्य स्थापित कर लेता है और अंततः मोक्ष (ब्रह्मनिर्वाण) को प्राप्त करता है।
+
+### Translation
+
+He who finds his happiness within, who rejoices within, and who is illuminated within, such a yogi, becoming one with Brahman, attains the beatitude of Brahman
 
 ### Meaning
 

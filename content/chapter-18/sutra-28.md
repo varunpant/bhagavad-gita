@@ -8,11 +8,10 @@ sutra: 28
 position: 651
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः
 विषादी दीर्घसूत्री च कर्ता तामस उच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 651
 
 
 ### Transliteration
-```
+{{< lines >}}
 ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ
 viṣādī dīrghasūtrī ca kartā tāmasa ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अयुक्त, प्राकृत, स्तब्ध, शठ, नैष्कृतिक, आलसी, विषादी और दीर्घसूत्री कर्ता तामस कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामसी कर्ता के लक्षणों का वर्णन करते हैं। ऐसा व्यक्ति असंयमी, अशिष्ट, घमंडी, दूसरों को धोखा देने वाला, दूसरों का अपमान करने वाला, आलसी, हमेशा दुखी रहने वाला और हर काम में अत्यधिक देरी करने वाला होता है। ये सभी गुण अज्ञान और अंधकार (तमस) से उत्पन्न होते हैं।
+
+### Translation
+
+The agent who is undisciplined, vulgar, stubborn, deceitful, malicious, lazy, despondent, and procrastinating is said to be of the nature of ignorance
 
 ### Meaning
 

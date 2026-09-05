@@ -8,11 +8,10 @@ sutra: 28
 position: 147
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः
 गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 147
 
 
 ### Transliteration
-```
+{{< lines >}}
 tattvavittu mahābāho guṇakarmavibhāgayoḥ
 guṇā guṇeṣu vartanta iti matvā na sajjate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु हे महाबाहु! गुण और कर्म के विभागों के तत्त्व को जानने वाला ज्ञानी, 'गुण ही गुणों में बरत रहे हैं' ऐसा मानकर आसक्त नहीं होता है।
 
 ### भावार्थ
 
 श्रीकृष्ण अज्ञानी और ज्ञानी के बीच का अंतर स्पष्ट करते हैं। तत्त्वज्ञानी यह समझता है कि सभी कर्म केवल प्रकृति के तीन गुणों का आपस में कार्य-व्यवहार है। आत्मा को इन भौतिक क्रियाओं से अलग जानकर, ज्ञानी पुरुष कभी भी स्वयं को कर्ता नहीं मानता और कर्मों में आसक्त नहीं होता।
+
+### Translation
+
+But the knower of the truth, O mighty-armed one, regarding the divisions of the gunas and actions, knowing that the gunas act upon the gunas, does not become attached.
 
 ### Meaning
 

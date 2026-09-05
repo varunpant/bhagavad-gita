@@ -8,12 +8,11 @@ sutra: 36
 position: 155
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः
 अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 155
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 atha kena prayukto 'yaṃ pāpaṃ carati pūruṣaḥ
 anicchann api vārṣṇeya balād iva niyojitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे वृष्णिवंशी (कृष्ण)! तो फिर यह मनुष्य न चाहता हुआ भी, मानो बलपूर्वक लगाया गया हो, किसके द्वारा प्रेरित होकर पाप करता है?
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण से मानव स्वभाव की एक गहरी दुविधा के बारे में पूछते हैं। वह जानना चाहते हैं कि मनुष्य यह जानते हुए भी कि पाप गलत है, क्यों उसे करने के लिए विवश हो जाता है। ऐसा प्रतीत होता है जैसे कोई बाहरी शक्ति उसे उसकी इच्छा के विरुद्ध बलपूर्वक पाप कर्मों में धकेल रही हो।
+
+### Translation
+
+Arjuna said:
+O descendant of Vrishni (Krishna), by what is this man impelled to commit sin, even unwillingly, as if engaged by force?
 
 ### Meaning
 

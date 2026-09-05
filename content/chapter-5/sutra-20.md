@@ -8,11 +8,10 @@ sutra: 20
 position: 224
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम्
 स्थिरबुद्धिरसम्मूढो ब्रह्मविद्ब्रह्मणि स्थितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 224
 
 
 ### Transliteration
-```
+{{< lines >}}
 na prahṛṣyetpriyaṃ prāpya nodvijetprāpya cāpriyam
 sthirabuddhirasammūḍho brahmavidbrahmaṇi sthitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो प्रिय को प्राप्त करके हर्षित नहीं होता और अप्रिय को प्राप्त करके उद्विग्न नहीं होता, वह स्थिर बुद्धि वाला, मोहरहित, ब्रह्म को जानने वाला व्यक्ति ब्रह्म में ही स्थित है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक आत्म-साक्षात्कारी और ब्रह्म में स्थित व्यक्ति के लक्षणों का वर्णन करते हैं। ऐसा व्यक्ति अनुकूल परिस्थितियों के आने पर न तो अत्यधिक प्रसन्न होता है और न ही प्रतिकूल परिस्थितियों में दुखी या विचलित होता है। उसकी बुद्धि स्थिर और मोहरहित होती है, जिसके कारण वह निरंतर परब्रह्म के साथ अपने वास्तविक स्वरूप का अनुभव करता है।
+
+### Translation
+
+One who neither rejoices upon obtaining the pleasant nor gets agitated upon obtaining the unpleasant, who is of steady intelligence, unbewildered, and a knower of Brahman, is situated in Brahman.
 
 ### Meaning
 

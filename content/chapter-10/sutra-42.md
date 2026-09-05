@@ -8,11 +8,10 @@ sutra: 42
 position: 414
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अथवा बहुनैतेन किं ज्ञातेन तवार्जुन
 विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 414
 
 
 ### Transliteration
-```
+{{< lines >}}
 athavā bahunaitena kiṃ jñātena tavārjuna
 viṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अथवा हे अर्जुन! इस बहुत से ज्ञान से तुम्हें क्या प्रयोजन है?
+मैं इस संपूर्ण जगत् को अपने केवल एक अंश से धारण करके स्थित हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी विभूतियों के वर्णन का उपसंहार करते हैं। वे अर्जुन से कहते हैं कि मेरे अनंत रूपों और ऐश्वर्यों को अलग-अलग जानने की कोई विशेष आवश्यकता नहीं है। इस संपूर्ण ब्रह्मांड का अस्तित्व मेरे केवल एक लघु अंश मात्र से ही टिका हुआ है, जो मेरी अनंत शक्ति को दर्शाता है।
+
+### Translation
+
+Or, what is the use of all this detailed knowledge to you, O Arjuna?
+I exist, supporting this entire universe with only a single fraction of Myself
 
 ### Meaning
 

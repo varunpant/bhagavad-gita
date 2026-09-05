@@ -8,11 +8,10 @@ sutra: 16
 position: 16
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः
 नकुलः सहदेवश्च सुघोषमणिपुष्पकौ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ Nakula and Sahadeva blew the Sughosha and the Manipushpaka.
 
 
 ### Transliteration
-```
+{{< lines >}}
 anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ
 nakulaḥ sahadevaśca sughoṣamaṇipuṣpakau
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कुन्तीपुत्र राजा युधिष्ठिर ने अनन्तविजय नामक शंख बजाया, तथा नकुल और सहदेव ने सुघोष और मणिपुष्पक नामक शंख बजाए।
 
 ### भावार्थ
 
 यह श्लोक पाण्डव योद्धाओं द्वारा अपने-अपने शंख बजाने के वर्णन को जारी रखता है। कुन्ती के पुत्र राजा युधिष्ठिर ने अपना अनन्तविजय नामक शंख बजाया, जबकि नकुल और सहदेव ने क्रमशः सुघोष और मणिपुष्पक शंख बजाए। प्रत्येक शंख का विशिष्ट नाम पाण्डव सेनापतियों के महत्व और युद्ध के लिए उनकी तत्परता को उजागर करता है।
+
+### Translation
+
+King Yudhishthira, the son of Kunti, blew the conch named Anantavijaya, and Nakula and Sahadeva blew the Sughosha and Manipushpaka conches.
 
 ### Meaning
 

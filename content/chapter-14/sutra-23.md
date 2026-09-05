@@ -8,11 +8,10 @@ sutra: 23
 position: 547
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 उदासीनवदासीनो गुणैर्यो न विचाल्यते
 गुणा वर्तन्त इत्येव योऽवतिष्ठति नेङ्गते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 547
 
 
 ### Transliteration
-```
+{{< lines >}}
 udāsīnavadāsīno guṇairyo na vicālyate
 guṇā vartanta ityeva yo'vatiṣṭhati neṅgate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो उदासीन के समान बैठा हुआ गुणों के द्वारा विचलित नहीं किया जाता है, और 'गुण ही कार्य कर रहे हैं' ऐसा समझकर जो स्थिर रहता है और कभी विचलित नहीं होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण गुणातीत (तीनों गुणों से परे गए) पुरुष के लक्षणों का वर्णन कर रहे हैं। ऐसा व्यक्ति संसार के द्वंद्वों और गुणों के विकारों से अप्रभावित रहता है। वह साक्षी भाव में स्थित रहता है, यह जानते हुए कि सभी क्रियाएं केवल प्रकृति के गुणों के परस्पर व्यवहार के कारण हो रही हैं, न कि उसकी आत्मा के द्वारा।
+
+### Translation
+
+He who, seated like one unconcerned, is not moved by the qualities, and who, knowing that 'it is only the qualities that act', remains firm and does not waver.
 
 ### Meaning
 

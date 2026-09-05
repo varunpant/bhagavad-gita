@@ -8,11 +8,10 @@ sutra: 10
 position: 320
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रयाणकाले मनसाऽचलेन    भक्त्या युक्तो योगबलेन चैव
 भ्रुवोर्मध्ये प्राणमावेश्य सम्यक्     स तं परं पुरुषमुपैति दिव्यम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 320
 
 
 ### Transliteration
-```
-prayāṇakāle manasā'calena
-bhaktyā yukto yogabalena caiva
-bhruvormadhye prāṇamāveśya samyak
-sa taṃ paraṃ puruṣamupaiti divyam
+{{< lines >}}
+prayāṇakāle manasā'calena bhaktyā yukto yogabalena caiva
+bhruvormadhye prāṇamāveśya samyak sa taṃ paraṃ puruṣamupaiti divyam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मृत्यु के समय निश्चल मन से, भक्ति से युक्त और योगबल के द्वारा ही, भौंहों के बीच में प्राण को भली-भांति स्थापित करके, वह उस दिव्य परम पुरुष को प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में अंतकाल में प्राण त्यागने की विधि और उसके फल का वर्णन किया गया है। जो साधक जीवन भर योग का अभ्यास करता है, वह मृत्यु के समय अपने मन को विचलित नहीं होने देता। वह भक्ति और योगबल के द्वारा अपने प्राणों को आज्ञा चक्र (भौंहों के मध्य) में स्थापित करके शरीर छोड़ता है और सीधे परम दिव्य पुरुष (परमात्मा) को प्राप्त करता है।
+
+### Translation
+
+At the time of departure, with a steady mind, endowed with devotion and the power of yoga, properly directing the life-breath between the eyebrows, he attains that supreme divine Purusha
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 57
 position: 104
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्
 नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 104
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaḥ sarvatrānabhisnehastattatprāpya śubhāśubham
 nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो पुरुष सर्वत्र स्नेहरहित है, उस-उस शुभ या अशुभ वस्तु को प्राप्त करके न तो प्रसन्न होता है और न ही द्वेष करता है, उसकी बुद्धि स्थिर है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति के लक्षण बताते हैं। ऐसा व्यक्ति सांसारिक वस्तुओं और परिस्थितियों के प्रति किसी भी प्रकार का मोह या आसक्ति नहीं रखता। चाहे उसके जीवन में अनुकूल (शुभ) परिस्थितियाँ आएं या प्रतिकूल (अशुभ), वह न तो अत्यधिक हर्षित होता है और न ही शोक या द्वेष करता है। इसी समभाव के कारण उसकी बुद्धि परमात्मा में स्थिर रहती है।
+
+### Translation
+
+He who is unattached everywhere, who neither rejoices nor hates upon obtaining good or evil, his wisdom is firmly established.
 
 ### Meaning
 

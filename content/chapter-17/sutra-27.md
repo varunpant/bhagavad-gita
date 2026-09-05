@@ -8,11 +8,10 @@ sutra: 27
 position: 622
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते
 कर्म चैव तदर्थीयं सदित्येवाभिधीयते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 622
 
 
 ### Transliteration
-```
+{{< lines >}}
 yajñe tapasi dāne ca sthitiḥ saditi cocyate
 karma caiva tadarthīyaṃ sadityevābhidhīyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यज्ञ, तप और दान में जो स्थिति (दृढ़ता) है, वह भी 'सत्' इस प्रकार कही जाती है और उस परमात्मा के लिए किया जाने वाला कर्म भी निश्चित रूप से 'सत्' ही कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि यज्ञ, तपस्या और दान के कार्यों में जो निष्ठा या स्थिरता होती है, उसे 'सत्' कहा जाता है। इसके अतिरिक्त, परमात्मा की प्रसन्नता के लिए किए जाने वाले सभी कर्म भी 'सत्' कहलाते हैं। यह 'सत्' शब्द की महिमा और उसके व्यावहारिक अनुप्रयोग को दर्शाता है।
+
+### Translation
+
+Steadfastness in sacrifice, penance, and charity is also called 'Sat', and action for the sake of that Supreme is also designated as 'Sat'
 
 ### Meaning
 

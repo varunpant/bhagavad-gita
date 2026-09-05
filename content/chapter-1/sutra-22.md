@@ -8,11 +8,10 @@ sutra: 22
 position: 22
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्
 कैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ and know with whom I must fight, when the battle is about to commence.
 
 
 ### Transliteration
-```
+{{< lines >}}
 yāvadetānnirīkṣe'haṃ yoddhukāmānavasthitān
 kairmayā saha yoddhavyamasminraṇasamudyame
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिससे कि मैं युद्ध की अभिलाषा से यहाँ डटे हुए इन लोगों को देख सकूँ, कि इस युद्ध के व्यापार में मुझे किन-किन के साथ लड़ना है।
 
 ### भावार्थ
 
 अर्जुन श्रीकृष्ण से रथ को दोनों सेनाओं के बीच में खड़ा करने का अनुरोध करते हैं ताकि वे शत्रु पक्ष का भली-भांति अवलोकन कर सकें। वे यह देखना चाहते हैं कि दुर्बुद्धि दुर्योधन का साथ देने के लिए युद्धभूमि में कौन-कौन उपस्थित हैं। यह श्लोक युद्ध से पूर्व विपक्ष के योद्धाओं का आकलन करने की अर्जुन की इच्छा को दर्शाता है।
+
+### Translation
+
+So that I may observe these men standing here desirous of battle, with whom I must fight in this enterprise of war.
 
 ### Meaning
 

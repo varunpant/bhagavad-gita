@@ -8,11 +8,10 @@ sutra: 77
 position: 700
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः
 विस्मयो मे महान् राजन् हृष्यामि च पुनः पुनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 700
 
 
 ### Transliteration
-```
+{{< lines >}}
 tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ
 vismayo me mahān rājan hṛṣyāmi ca punaḥ punaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और हे राजन! श्रीहरि के उस अत्यंत अद्भुत रूप को बार-बार स्मरण करके मुझे महान आश्चर्य हो रहा है और मैं बार-बार हर्षित हो रहा हूँ
 
 ### भावार्थ
 
 संजय धृतराष्ट्र से कहते हैं कि भगवान कृष्ण के उस अत्यंत अलौकिक और विराट रूप का स्मरण करके वे विस्मय से भर जाते हैं। यह अलौकिक अनुभव उन्हें केवल आश्चर्यचकित ही नहीं करता, बल्कि उनके हृदय को परम आनंद और रोमांच से भी भर देता है। वे इस दिव्य दर्शन के प्रभाव को बार-बार महसूस कर रहे हैं।
+
+### Translation
+
+And, O King, remembering and remembering that most wonderful form of Sri Hari, great is my amazement, and I rejoice again and again
 
 ### Meaning
 

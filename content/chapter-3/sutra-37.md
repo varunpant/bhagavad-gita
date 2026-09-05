@@ -8,11 +8,11 @@ sutra: 37
 position: 156
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचकाम एष क्रोध एष रजोगुणसमुद्भवः
+{{< lines >}}
+श्री भगवानुवाच
+काम एष क्रोध एष रजोगुणसमुद्भवः
 महाशनो महापाप्मा विद्ध्येनमिह वैरिणम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,27 @@ position: 156
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī bhagavānuvāca
 kāma eṣa krodha eṣa rajoguṇasamudbhavaḥ
 mahāśano mahāpāpmā viddhyenamiha vairiṇam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+यह काम है, यह क्रोध है, जो रजोगुण से उत्पन्न हुआ है।
+यह बहुत खाने वाला (अत्यंत भोगी) और महापापी है, इसे ही तुम इस संसार में वैरी (शत्रु) जानो।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण अर्जुन को बताते हैं कि मनुष्य का वास्तविक शत्रु काम (वासना) है। जब यह काम अतृप्त रहता है, तो यह क्रोध का रूप धारण कर लेता है। रजोगुण से उत्पन्न यह काम कभी न तृप्त होने वाला और महान पापों का कारण है, इसलिए आध्यात्मिक मार्ग में इसे ही सबसे बड़ा शत्रु समझना चाहिए।
+
+### Translation
+
+The Supreme Lord said:
+It is lust, it is anger, born of the mode of passion.
+All-devouring and greatly sinful, know this to be the enemy here (in this world).
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 40
 position: 40
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः
 धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ indeed, overcomes the whole family.
 
 
 ### Transliteration
-```
+{{< lines >}}
 kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ
 dharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कुल के नाश होने पर सनातन कुल-धर्म नष्ट हो जाते हैं। धर्म के नष्ट हो जाने पर सम्पूर्ण कुल को अधर्म भी दबा लेता है।
 
 ### भावार्थ
 
 अर्जुन युद्ध के सामाजिक और नैतिक परिणामों के बारे में अपनी गहरी चिंता व्यक्त करते हैं। उनका तर्क है कि परिवार के बड़ों और रक्षकों के नष्ट होने से प्राचीन परंपराएं और नैतिक मूल्य समाप्त हो जाएंगे। इन मार्गदर्शक सिद्धांतों के लुप्त हो जाने पर, बचा हुआ सम्पूर्ण परिवार अनिवार्य रूप से अधर्म और पाप के वशीभूत हो जाएगा।
+
+### Translation
+
+With the destruction of the family, the eternal family traditions are destroyed. When religion is destroyed, irreligion overcomes the entire family as well.
 
 ### Meaning
 

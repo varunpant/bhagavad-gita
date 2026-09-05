@@ -86,8 +86,12 @@
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ end }}
 
+{{/* The app's own mark, cut to a favicon by tools/make_favicon.py. The .ico
+     carries 16/32/48/64 so the browser picks its own size rather than scaling
+     one down. */}}
 <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
 <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
+<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
 {{ with .Site.Home.OutputFormats.Get "rss" -}}
 <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ site.Title }}" />
 {{- end }}

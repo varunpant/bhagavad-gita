@@ -8,11 +8,10 @@ sutra: 39
 position: 411
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यच्चापि सर्वभूतानां बीजं तदहमर्जुन
 न तदस्ति विना यत्स्यान्मया भूतं चराचरम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 411
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna
 na tadasti vinā yatsyānmayā bhūtaṃ carācaram
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और हे अर्जुन! जो भी सब भूतों की उत्पत्ति का कारण (बीज) है, वह मैं ही हूँ
+क्योंकि ऐसा कोई भी चर और अचर भूत नहीं है, जो मेरे बिना हो सके
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी सर्वव्यापकता और सृष्टि के मूल कारण होने की घोषणा करते हैं। वे अर्जुन से कहते हैं कि संसार में जितने भी प्राणी या पदार्थ हैं, उन सभी का आदि कारण या बीज वे स्वयं ही हैं। उनके बिना इस चराचर जगत में किसी भी अस्तित्व की कल्पना नहीं की जा सकती, क्योंकि सब कुछ उन्हीं से उत्पन्न और उन्हीं में स्थित है।
+
+### Translation
+
+And whatever is the seed of all beings, O Arjuna, that I am
+There is no being, whether moving or unmoving, that can exist without Me
 
 ### Meaning
 

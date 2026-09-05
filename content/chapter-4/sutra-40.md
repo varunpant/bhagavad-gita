@@ -8,11 +8,10 @@ sutra: 40
 position: 202
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति
 नायं लोकोऽस्ति न परो न सुखं संशयात्मनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 202
 
 
 ### Transliteration
-```
+{{< lines >}}
 ajñaścāśraddadhānaśca saṃśayātmā vinaśyati
 nāyaṃ loko'sti na paro na sukhaṃ saṃśayātmanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अज्ञानी, श्रद्धारहित और संशययुक्त मनुष्य का पतन हो जाता है। संशययुक्त मनुष्य के लिए न तो यह लोक है, न परलोक है और न ही सुख है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को संशय (संदेह) के विनाशकारी परिणामों के बारे में बताते हैं। जो व्यक्ति आध्यात्मिक ज्ञान से रहित है, जिसमें शास्त्रों के प्रति श्रद्धा नहीं है, और जिसका मन हमेशा संदेह से भरा रहता है, उसका पतन निश्चित है। ऐसे संशयग्रस्त व्यक्ति को न तो इस भौतिक जगत में शांति और सुख मिलता है, और न ही परलोक में उसकी कोई सद्गति होती है।
+
+### Translation
+
+The ignorant, the faithless, and the doubting soul perishes. For the doubting soul, there is neither this world, nor the next, nor happiness.
 
 ### Meaning
 

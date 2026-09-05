@@ -8,11 +8,10 @@ sutra: 8
 position: 579
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम्
 अपरस्परसम्भूतं किमन्यत्कामहैतुकम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 579
 
 
 ### Transliteration
-```
+{{< lines >}}
 asatyam apratiṣṭhaṃ te jagad āhur anīśvaram
 aparaspara-sambhūtaṃ kim anyat kāma-haitukam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वे (आसुरी प्रवृत्ति के लोग) कहते हैं कि यह जगत् सत्य-रहित, बिना किसी आधार के और बिना ईश्वर के है।
+यह केवल स्त्री-पुरुष के संयोग से उत्पन्न हुआ है, काम-वासना के अतिरिक्त इसका और क्या कारण हो सकता है?
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आसुरी प्रवृत्ति के लोगों की नास्तिक और भौतिकवादी विचारधारा का वर्णन कर रहे हैं। ऐसे लोग मानते हैं कि सृष्टि का कोई नैतिक आधार या परम सत्य नहीं है और न ही इसका कोई नियंता ईश्वर है। उनके अनुसार, यह संसार केवल भौतिक तत्वों और काम-वासना के संयोग से स्वतः उत्पन्न हुआ है, जिसका कोई उच्च आध्यात्मिक उद्देश्य नहीं है।
+
+### Translation
+
+They (the demonic) say that the world is without truth, without a moral basis, and without a God.
+They claim it is brought about by mutual union, caused by lust alone, and nothing else.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 54
 position: 677
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति
 समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 677
 
 
 ### Transliteration
-```
+{{< lines >}}
 brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati
 samaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ब्रह्मभाव को प्राप्त, प्रसन्न मन वाला पुरुष न तो शोक करता है और न ही किसी आकांक्षा को करता है। वह सब भूतों में समभाव रखता हुआ मेरी पराभक्ति को प्राप्त करता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस साधक की स्थिति का वर्णन करते हैं जो ब्रह्म-साक्षात्कार की अवस्था को प्राप्त कर चुका है। ऐसा व्यक्ति पूर्णतः संतुष्ट रहता है, सांसारिक लाभ-हानि से परे हो जाता है, और सभी प्राणियों को एक समान देखता है। इस परम शांति की अवस्था में ही उसे भगवान की वास्तविक पराभक्ति (परम प्रेम) प्राप्त होती है।
+
+### Translation
+
+One who has become identified with Brahman and is cheerful in mind neither grieves nor desires. Being equal toward all living beings, he attains supreme devotion to Me.
 
 ### Meaning
 

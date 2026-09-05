@@ -8,11 +8,10 @@ sutra: 15
 position: 566
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वस्य चाहं हृदि सन्निविष्टो    मत्तः स्मृतिर्ज्ञानमपोहनं च
 वेदैश्च सर्वैरहमेव वेद्यो    वेदान्तकृद्वेदविदेव चाहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 566
 
 
 ### Transliteration
-```
-sarvasya cāhaṃ hṛdi sanniviṣṭo
-mattaḥ smṛtirjñānamapohanaṃ ca
-vedaiśca sarvairahameva vedyo
-vedāntakṛdvedavideva cāham
+{{< lines >}}
+sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanaṃ ca
+vedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और मैं ही सब प्राणियों के हृदय में स्थित हूँ, मुझसे ही स्मृति, ज्ञान और अपोहन (संशय आदि का नाश) होते हैं। और सब वेदों द्वारा मैं ही जानने योग्य हूँ तथा वेदान्त का कर्ता और वेदों को जानने वाला भी मैं ही हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापकता और परमेश्वर रूप का वर्णन कर रहे हैं। वे प्रत्येक जीव के अंतःकरण में साक्षी रूप से स्थित हैं, जिससे जीवों को स्मृति और ज्ञान प्राप्त होता है। वे ही समस्त वेदों के परम लक्ष्य हैं और वेदों के वास्तविक ज्ञाता भी वही हैं।
+
+### Translation
+
+And I am seated in the hearts of all beings; from Me come memory, knowledge, and their loss. Indeed, I am the sole object to be known through all the Vedas; I am the author of the Vedanta and the knower of the Vedas as well.
 
 ### Meaning
 

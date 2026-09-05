@@ -8,11 +8,10 @@ sutra: 18
 position: 641
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना
 करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 641
 
 
 ### Transliteration
-```
+{{< lines >}}
 jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā
 karaṇaṃ karma karteti trividhaḥ karmasaṅgrahaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ज्ञान, ज्ञेय और परिज्ञाता—ये तीन प्रकार की कर्म-प्रेरणा हैं;
+करण, कर्म और कर्ता—ये तीन प्रकार का कर्म-संग्रह हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण कर्म के मनोवैज्ञानिक और भौतिक घटकों का विश्लेषण करते हैं। कर्म की प्रेरणा के तीन मानसिक घटक हैं: ज्ञान (जानने की क्रिया), ज्ञेय (जानने योग्य विषय), और परिज्ञाता (जानने वाला)। जब कर्म भौतिक रूप में परिणत होता है, तो उसके तीन घटक होते हैं: करण (इन्द्रियाँ या साधन), कर्म (क्रिया), और कर्ता (करने वाला)।
+
+### Translation
+
+Knowledge, the object of knowledge, and the knower—these three constitute the impulse to action;
+The instrument, the action, and the doer—these three constitute the basis of action.
 
 ### Meaning
 

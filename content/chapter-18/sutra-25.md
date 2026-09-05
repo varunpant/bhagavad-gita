@@ -8,11 +8,10 @@ sutra: 25
 position: 648
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम्
 मोहादारभ्यते कर्म यत्तत्तामसमुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 648
 
 
 ### Transliteration
-```
+{{< lines >}}
 anubandhaṃ kṣayaṃ hiṃsāmanapekṣya ca pauruṣam
 mohādārabhyate karma yattattāmasamucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परिणाम, हानि, हिंसा और अपनी सामर्थ्य का विचार किए बिना, केवल अज्ञानवश जो कर्म आरम्भ किया जाता है, वह तामस कहा जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामसी कर्म के लक्षणों का वर्णन कर रहे हैं। तामसी कर्म वह है जो बिना किसी विवेक के, केवल मोह या अज्ञान के वश में होकर शुरू किया जाता है। ऐसा कर्म करने वाला व्यक्ति न तो भविष्य के दुष्परिणामों को देखता है, न ही अपनी शक्ति और होने वाली हानि या हिंसा का विचार करता है।
+
+### Translation
+
+That action which is undertaken from delusion, without regard to consequences, loss, injury to others, and one's own capacity, is declared to be Tamasic.
 
 ### Meaning
 

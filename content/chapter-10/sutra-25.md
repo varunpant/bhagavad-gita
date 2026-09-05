@@ -8,11 +8,10 @@ sutra: 25
 position: 397
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम्
 यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 397
 
 
 ### Transliteration
-```
+{{< lines >}}
 maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram
 yajñānāṃ japayajño'smi sthāvarāṇāṃ himālayaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+महर्षियों में मैं भृगु हूँ, वाणी में मैं एक अक्षर (ॐकार) हूँ।
+यज्ञों में मैं जप-यज्ञ हूँ और स्थिर रहने वालों में मैं हिमालय हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी दिव्य विभूतियों का वर्णन कर रहे हैं। वे बताते हैं कि ऋषियों में भृगु और शब्दों में प्रणव (ॐ) उन्हीं के स्वरूप हैं। सभी प्रकार के यज्ञों में जप-यज्ञ सर्वश्रेष्ठ है क्योंकि इसमें किसी हिंसा या बाहरी आडंबर की आवश्यकता नहीं होती, और यह भी भगवान का ही रूप है।
+
+### Translation
+
+Among the great sages I am Bhrigu; of words I am the single syllable Om.
+Of sacrifices I am the sacrifice of silent repetition; of immovable things I am the Himalayas.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 29
 position: 652
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं श्रृणु
 प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 652
 
 
 ### Transliteration
-```
+{{< lines >}}
 buddher bhedaṃ dhṛteś caiva guṇatas trividhaṃ śṛṇu
 procyamānam aśeṣeṇa pṛthaktvena dhanañjaya
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे धनंजय! अब तुम बुद्धि का और धृति (धैर्य) का भी गुणों के अनुसार तीन प्रकार का भेद मेरे द्वारा पूर्ण रूप से और अलग-अलग कहे जाने वाले को सुनो
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को बुद्धि और धृति (धैर्य) के तीन प्रकार के भेदों को सुनने के लिए कह रहे हैं। ये भेद प्रकृति के तीन गुणों (सत्त्व, रज और तम) के आधार पर वर्गीकृत किए गए हैं। श्रीकृष्ण इन भेदों को बिना किसी संक्षेप के, विस्तारपूर्वक और स्पष्ट रूप से समझाने की प्रतिज्ञा करते हैं ताकि अर्जुन कर्म के विज्ञान को पूरी तरह समझ सकें।
+
+### Translation
+
+O Dhananjaya, now hear the threefold division of intellect and fortitude according to the three gunas, as I declare them exhaustively and individually.
 
 ### Meaning
 

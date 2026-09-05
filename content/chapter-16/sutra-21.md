@@ -8,11 +8,10 @@ sutra: 21
 position: 592
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः
 कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 592
 
 
 ### Transliteration
-```
+{{< lines >}}
 trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ
 kāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet
+{{< /lines >}}
 
-```
+### अनुवाद
+
+काम, क्रोध तथा लोभ — यह तीन प्रकार का नरक का द्वार है, जो आत्मा का नाश करने वाला है; इसलिए इन तीनों को त्याग देना चाहिए।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण आसुरी प्रवृत्तियों के मूल कारणों को स्पष्ट करते हैं। काम (वासना), क्रोध और लोभ को नरक के तीन मुख्य द्वार बताया गया है जो जीवात्मा के पतन का कारण बनते हैं। जो व्यक्ति अपने कल्याण की इच्छा रखता है, उसे इन तीनों विकारों का सर्वथा त्याग कर देना चाहिए क्योंकि ये बुद्धि और विवेक को नष्ट कर देते हैं।
+
+### Translation
+
+Lust, anger, and greed — this is the threefold gate of hell, destructive of the self; therefore, one should abandon these three.
 
 ### Meaning
 

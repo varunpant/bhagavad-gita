@@ -8,12 +8,11 @@ sutra: 1
 position: 205
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि
 यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्िचतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 205
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 sannyāsaṃ karmaṇāṃ kṛṣṇa punaryogaṃ ca śaṃsasi
 yacchreya etayorekaṃ tanme brūhi suniścitam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे कृष्ण! आप कर्मों के संन्यास की और फिर निष्काम कर्मयोग की भी प्रशंसा करते हैं। इन दोनों में से जो एक मेरे लिए निश्चित रूप से कल्याणकारी हो, वह मुझे बताएँ।
 
 ### भावार्थ
 
 पिछले अध्यायों में भगवान कृष्ण के उपदेशों को सुनकर अर्जुन भ्रमित हो गए हैं। कृष्ण ने कर्मों के त्याग (संन्यास) और निष्काम भाव से कर्म करने (कर्मयोग) दोनों की ही प्रशंसा की है। इस संशय को दूर करने के लिए अर्जुन प्रार्थना करते हैं कि इन दोनों मार्गों में से जो एक उनके लिए निश्चित रूप से अधिक कल्याणकारी हो, भगवान उसे स्पष्ट रूप से बताएँ।
+
+### Translation
+
+Arjuna said:
+O Krishna, You praise the renunciation of actions, and again their unattached performance. Tell me definitively which one of these two is better.
 
 ### Meaning
 

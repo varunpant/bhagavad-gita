@@ -8,11 +8,10 @@ sutra: 7
 position: 345
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम्
 कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 345
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām
 kalpakṣaye punastāni kalpādau visṛjāmyaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! कल्प के अन्त में सब भूत मेरी प्रकृति को प्राप्त होते हैं अर्थात् मेरी प्रकृति में लीन हो जाते हैं और कल्प के आदि में मैं उनको फिर रचता हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सृष्टि की उत्पत्ति और प्रलय के चक्र को समझा रहे हैं। वे अर्जुन को बताते हैं कि कल्प (ब्रह्मा के एक दिन) के अंत में सभी जीव उनकी परा-अपरा प्रकृति में विलीन हो जाते हैं। जब नया कल्प आरंभ होता है, तब भगवान अपनी शक्ति से पुनः उन सभी जीवों की सृष्टि करते हैं।
+
+### Translation
+
+O son of Kunti, all beings merge into My nature at the end of a kalpa, and at the beginning of a new kalpa, I send them forth again.
 
 ### Meaning
 

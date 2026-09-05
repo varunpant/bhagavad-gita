@@ -8,11 +8,10 @@ sutra: 25
 position: 549
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः
 सर्वारम्भपरित्यागी गुणातीतः स उच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 549
 
 
 ### Transliteration
-```
+{{< lines >}}
 mānāpamānayos tulyas tulyo mitrāripakṣayoḥ
 sarvārambhaparityāgī guṇātītaḥ sa ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मान और अपमान में समान है, जो मित्र और शत्रु के पक्षों में समान है, तथा जिसने सभी कर्मों के आरम्भ का परित्याग कर दिया है, वह गुणातीत (गुणों से परे) कहा जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण गुणातीत व्यक्ति के सामाजिक और व्यावहारिक लक्षणों का वर्णन करते हैं। ऐसा व्यक्ति आदर और अनादर में विचलित नहीं होता और न ही वह मित्र या शत्रु के प्रति पक्षपात करता है। वह कर्तापन के अहंकार से मुक्त होकर नए सकाम कर्मों का आरम्भ नहीं करता, इसलिए उसे त्रिगुणातीत कहा जाता है।
+
+### Translation
+
+He who is equal in honor and dishonor, equal toward the sides of friend and foe, and who has renounced all undertakings—he is said to have transcended the gunas.
 
 ### Meaning
 

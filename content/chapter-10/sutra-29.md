@@ -8,11 +8,10 @@ sutra: 29
 position: 401
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनन्तश्चास्मि नागानां वरुणो यादसामहम्
 पितृ़णामर्यमा चास्मि यमः संयमतामहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 401
 
 
 ### Transliteration
-```
+{{< lines >}}
 anantaś cāsmi nāgānāṃ varuṇo yādasām aham
 pitṝṇām aryamā cāsmi yamaḥ saṃyamatām aham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+नागों में मैं अनन्त हूँ और जलचरों में मैं वरुण हूँ
+पितरों में मैं अर्यमा हूँ और शासन करने वालों में मैं यमराज हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन जारी रखते हुए कहते हैं कि वे नागों में शेषनाग (अनन्त) हैं और जल के अधिपति वरुण देव हैं। वे पितरों में उनके प्रधान अर्यमा हैं और नियमन करने वालों अथवा न्याय करने वालों में यमराज हैं। ये सभी अपने-अपने क्षेत्रों में सर्वोच्च शक्ति और नियम का प्रतिनिधित्व करते हैं।
+
+### Translation
+
+Among the Nagas I am Ananta, and among the aquatic deities I am Varuna
+Among the ancestors I am Aryama, and among the dispensers of law I am Yama
 
 ### Meaning
 

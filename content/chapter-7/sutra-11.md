@@ -8,11 +8,10 @@ sutra: 11
 position: 291
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बलं बलवतामस्मि कामरागविवर्जितम्
 धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 291
 
 
 ### Transliteration
-```
+{{< lines >}}
 balaṃ balavatāmasmi kāmarāgavivarjitam
 dharmāviruddho bhūteṣu kāmo'smi bharatarṣabha
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतश्रेष्ठ! मैं बलवानों का कामना और आसक्ति से रहित बल हूँ और सब भूतों में धर्म के अनुकूल (धर्मसम्मत) काम हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी दिव्य विभूतियों का वर्णन करते हुए कहते हैं कि बलवानों में जो बल स्वार्थ, वासना और आसक्ति से रहित होता है, वह उनका ही स्वरूप है। इसके अतिरिक्त, वे सभी प्राणियों में धर्म की मर्यादा के भीतर रहने वाली कामना (जैसे संतानोत्पत्ति या धर्मसम्मत इच्छाएँ) के रूप में वास करते हैं। यह दर्शाता है कि संसार की सकारात्मक और धर्मानुकूल शक्तियाँ ईश्वर की ही अभिव्यक्ति हैं।
+
+### Translation
+
+O best of the Bharatas, I am the strength of the strong, devoid of desire and attachment, and in all beings, I am desire that is not contrary to righteousness.
 
 ### Meaning
 

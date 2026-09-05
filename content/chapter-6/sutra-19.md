@@ -8,11 +8,10 @@ sutra: 19
 position: 252
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता
 योगिनो यतचित्तस्य युञ्जतो योगमात्मनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 252
 
 
 ### Transliteration
-```
+{{< lines >}}
 yathā dīpo nivātastho neṅgate sopamā smṛtā
 yogino yatacittasya yuñjato yogamātmanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस प्रकार हवा से रहित स्थान में रखा हुआ दीपक हिलता-डुलता नहीं है, वही उपमा अपने मन को वश में करने वाले और आत्म-साक्षात्कार के योग का अभ्यास करने वाले योगी के लिए कही गई है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ध्यान की गहराई में स्थित मन की स्थिरता को समझाने के लिए एक सुंदर उपमा देते हैं। जैसे वायु रहित स्थान में दीपक की लौ बिना किसी कंपन के स्थिर जलती है, वैसे ही संयमित मन वाले योगी का चित्त परमात्मा के ध्यान में पूरी तरह अचल रहता है। यह बाहरी और आंतरिक विक्षेपों से रहित एकाग्रता की पराकाष्ठा को दर्शाता है।
+
+### Translation
+
+As a lamp in a windless place does not flicker, to such is compared the yogi of controlled mind, practicing meditation on the Self
 
 ### Meaning
 

@@ -8,12 +8,11 @@ sutra: 1
 position: 596
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयाऽन्विताः
 तेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 596
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 ye śāstravidhimutsṛjya yajante śraddhayā'nvitāḥ
 teṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे कृष्ण! जो मनुष्य शास्त्र की विधि को त्यागकर श्रद्धा से युक्त होकर यजन करते हैं, उनकी वह स्थिति कौन-सी है? क्या वह सात्त्विकी है, राजसी है अथवा तामसी?
 
 ### भावार्थ
 
 इस अध्याय के आरम्भ में अर्जुन भगवान कृष्ण से उन लोगों की आध्यात्मिक स्थिति के बारे में पूछ रहे हैं जो शास्त्रों के नियमों को नहीं जानते या उनका पालन नहीं करते, परन्तु फिर भी श्रद्धापूर्वक पूजा-अर्चना करते हैं। अर्जुन यह जानना चाहते हैं कि ऐसे मनुष्यों की निष्ठा को किस श्रेणी में रखा जाए—सत्त्वगुण, रजोगुण या तमोगुण में। यह प्रश्न श्रद्धा और शास्त्र-विधि के सम्बन्ध को स्पष्ट करने के लिए पूछा गया है।
+
+### Translation
+
+Arjuna said:
+O Krishna, what is the state of those who, setting aside the ordinances of the scriptures, perform sacrifice filled with faith? Is it one of goodness, passion, or ignorance?
 
 ### Meaning
 

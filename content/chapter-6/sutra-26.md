@@ -8,11 +8,10 @@ sutra: 26
 position: 259
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्
 ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 259
 
 
 ### Transliteration
-```
+{{< lines >}}
 yato yato niścarati manaścañcalamasthiram
 tatastato niyamyaitadātmanyeva vaśaṃ nayet
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह चंचल और अस्थिर मन जिस-जिस कारण से (या जिस-जिस विषय की ओर) बाहर भागता है, उस-उस से इसे रोककर साधक को इसे अपने वश में (अर्थात आत्मा में ही) लगाना चाहिए।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण मन को वश में करने की व्यावहारिक विधि बताते हैं। ध्यान के समय मन अपनी चंचलता के कारण बार-बार सांसारिक विषयों की ओर भागता है। साधक को निराश होने के बजाय धैर्यपूर्वक मन को उन विषयों से हटाकर पुनः आत्मा के चिन्तन में लगाना चाहिए।
+
+### Translation
+
+From whatever cause the restless and unsteady mind wanders away, from that one should restrain it and bring it back under the control of the Self alone.
 
 ### Meaning
 

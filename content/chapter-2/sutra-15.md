@@ -8,11 +8,10 @@ sutra: 15
 position: 62
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ
 समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 62
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha
 samaduḥkhasukhaṃ dhīraṃ so'mṛtatvāya kalpate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पुरुषों में श्रेष्ठ (अर्जुन)! जो पुरुष इन (इन्द्रिय विषयों) से विचलित नहीं होता, जो सुख और दुःख में समान रहता है और जो धीर है, वह निश्चित रूप से मोक्ष (अमरता) के योग्य होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण भौतिक संसार के द्वंद्वों को सहन करने का परिणाम बताते हैं। जो व्यक्ति सुख और दुःख के क्षणिक अनुभवों से विचलित नहीं होता, वह आध्यात्मिक रूप से परिपक्व हो जाता है। ऐसा स्थिर और धीर व्यक्ति ही मोक्ष या अमरता प्राप्त करने का अधिकारी बनता है।
+
+### Translation
+
+O best among men, the person who is not disturbed by these, who remains steady in happiness and distress, and who is wise, is certainly eligible for immortality.
 
 ### Meaning
 

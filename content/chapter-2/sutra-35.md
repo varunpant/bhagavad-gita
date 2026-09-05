@@ -8,11 +8,10 @@ sutra: 35
 position: 82
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः
 येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 82
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhayād raṇād uparataṃ maṃsyante tvāṃ mahārathāḥ
 yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिन महारथियों की दृष्टि में तुम बहुत सम्मानित रहे हो, वे मानेंगे कि तुम भय के कारण युद्ध से हट गए हो, और तुम उनकी दृष्टि में तुच्छता को प्राप्त होओगे।
 
 ### भावार्थ
 
 श्रीकृष्ण अर्जुन को उनके यश के नाश के प्रति सचेत करते हैं। भीष्म और द्रोण जैसे महारथी, जो अभी तक अर्जुन का बहुत सम्मान करते हैं, यह नहीं मानेंगे कि उसने दयावश युद्ध छोड़ा है। वे यही सोचेंगे कि अर्जुन डर कर भाग गया है, जिससे उसे भारी अपमान का सामना करना पड़ेगा।
+
+### Translation
+
+The great chariot warriors will think that you have withdrawn from the battlefield out of fear, and having been highly esteemed by them, you will now fall into disgrace.
 
 ### Meaning
 

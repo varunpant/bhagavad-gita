@@ -8,11 +8,10 @@ sutra: 24
 position: 334
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम्
 तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 334
 
 
 ### Transliteration
-```
+{{< lines >}}
 agnirjyotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam
 tatra prayātā gacchanti brahma brahmavido janāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अग्नि, ज्योति, दिन, शुक्लपक्ष और उत्तरायण के छह महीने —
+इस मार्ग से शरीर त्यागकर जाने वाले ब्रह्मवेत्ता पुरुष ब्रह्म को प्राप्त होते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस मार्ग का वर्णन करते हैं जिससे जाने वाले योगी पुनः जन्म नहीं लेते। अग्नि, प्रकाश, दिन का समय, शुक्ल पक्ष और उत्तरायण के छह महीने ज्ञान और प्रकाश के प्रतीक हैं। इस मार्ग से शरीर त्यागने वाले ब्रह्मज्ञानी पुरुष सीधे परब्रह्म को प्राप्त होते हैं।
+
+### Translation
+
+Fire, light, daytime, the bright fortnight, and the six months of the northern solstice —
+departing by this path, those who know Brahman attain Brahman
 
 ### Meaning
 

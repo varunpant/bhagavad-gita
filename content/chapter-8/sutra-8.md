@@ -8,11 +8,10 @@ sutra: 8
 position: 318
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अभ्यासयोगयुक्तेन चेतसा नान्यगामिना
 परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 318
 
 
 ### Transliteration
-```
+{{< lines >}}
 abhyāsayogayuktena cetasā nānyagāminā
 paramaṃ puruṣaṃ divyaṃ yāti pārthānucintayan
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! अभ्यास रूप योग से युक्त, अन्य किसी ओर न जाने वाले चित्त से निरंतर चिंतन करता हुआ मनुष्य परम दिव्य पुरुष को ही प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को अभ्यास के महत्व के बारे में बताते हैं। जो व्यक्ति अपने मन को विचलित होने से रोकता है और निरंतर परमात्मा का ध्यान करता है, वह अंततः उसी परम दिव्य स्वरूप को प्राप्त करता है। मन की एकाग्रता और निरंतर अभ्यास ही आध्यात्मिक सिद्धि का मार्ग है।
+
+### Translation
+
+O Partha, with a mind disciplined by the practice of yoga, not wandering after anything else, and constantly meditating, one attains the Supreme Divine Purusha
 
 ### Meaning
 

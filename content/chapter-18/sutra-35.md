@@ -8,11 +8,10 @@ sutra: 35
 position: 658
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यया स्वप्नं भयं शोकं विषादं मदमेव च
 न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 658
 
 
 ### Transliteration
-```
+{{< lines >}}
 yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca
 na vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! दुष्ट बुद्धि वाला मनुष्य जिस धृति के द्वारा निद्रा, भय, शोक, विषाद और मद को भी नहीं छोड़ता, वह धृति तामसी है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामसी धृति (धैर्य या संकल्प) के लक्षणों का वर्णन करते हैं। मंदबुद्धि व्यक्ति जिस संकल्प शक्ति के कारण आलस्य, भय, चिंता, उदासी और अहंकार जैसी नकारात्मक प्रवृत्तियों को नहीं छोड़ पाता, उसे तामसी धृति कहा जाता है। यह धृति मनुष्य को अज्ञान और अंधकार में ही बांधे रखती है।
+
+### Translation
+
+O Partha, that resolve by which a foolish person does not abandon sleep, fear, grief, depression, and arrogance is of the nature of ignorance (tamasi)
 
 ### Meaning
 

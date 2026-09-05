@@ -8,11 +8,10 @@ sutra: 21
 position: 183
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः
 शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 183
 
 
 ### Transliteration
-```
+{{< lines >}}
 nirāśīryatacittātmā tyaktasarvaparigrahaḥ
 śārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो आशारहित है, जिसके चित्त और आत्मा वश में हैं, और जिसने सभी प्रकार के परिग्रह (संग्रह) का त्याग कर दिया है, ऐसा मनुष्य केवल शरीर-निर्वाह संबंधी कर्म करता हुआ पाप को प्राप्त नहीं होता।
 
 ### भावार्थ
 
 जो व्यक्ति सभी प्रकार की इच्छाओं से मुक्त है, जिसने अपने मन और बुद्धि को पूरी तरह से वश में कर लिया है, और सभी संपत्तियों के स्वामित्व का त्याग कर दिया है, उसे कोई पाप नहीं लगता। ऐसा कर्मयोगी केवल शरीर के निर्वाह के लिए कर्म करता है और कर्मफलों के बंधन से मुक्त रहता है। यह श्लोक निष्काम कर्मयोग की सर्वोच्च अवस्था का वर्णन करता है।
+
+### Translation
+
+Free from desires, with mind and self controlled, having abandoned all possessions, performing action merely for the maintenance of the body, he incurs no sin.
 
 ### Meaning
 

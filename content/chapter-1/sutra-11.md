@@ -8,11 +8,10 @@ sutra: 11
 position: 11
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अयनेषु च सर्वेषु यथाभागमवस्थिताः
 भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ in the several divisions of the army, protect Bhishma alone."
 
 
 ### Transliteration
-```
+{{< lines >}}
 ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ
 bhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए आप सभी अपने-अपने मोर्चों पर स्थित रहते हुए सब ओर से भीष्म पितामह की ही रक्षा करें
 
 ### भावार्थ
 
 दुर्योधन अपनी सेना के सेनापतियों को निर्देश दे रहा है कि वे अपने-अपने मोर्चों पर डटे रहें। उसे भय है कि कहीं अन्य योद्धाओं से युद्ध करते समय भीष्म अकेले न पड़ जाएँ। इसलिए वह सभी से आग्रह करता है कि वे हर ओर से केवल भीष्म की ही रक्षा करें, क्योंकि कौरव सेना की विजय उन्हीं पर निर्भर है।
+
+### Translation
+
+Therefore, all of you, stationed in your respective positions at all the strategic points, must protect Grandfather Bhishma alone
 
 ### Meaning
 

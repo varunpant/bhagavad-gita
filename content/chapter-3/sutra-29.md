@@ -8,11 +8,10 @@ sutra: 29
 position: 148
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु
 तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 148
 
 
 ### Transliteration
-```
+{{< lines >}}
 prakṛterguṇasammūḍhāḥ sajjante guṇakarmasu
 tānakṛtsnavido mandānkṛtsnavinna vicālayet
+{{< /lines >}}
 
-```
+### अनुवाद
+
+प्रकृति के गुणों से अत्यंत मोहित हुए अज्ञानी मनुष्य गुणों और कर्मों में आसक्त रहते हैं।
+उन पूर्णतया न जानने वाले मंदबुद्धि अज्ञानियों को, पूर्णतया जानने वाला ज्ञानी विचलित न करे।
 
 ### भावार्थ
 
 अज्ञानी मनुष्य प्रकृति के तीन गुणों से मोहित होकर सांसारिक कर्मों और उनके फलों में आसक्त हो जाते हैं। जो ज्ञानी संपूर्ण सत्य को जानते हैं, उन्हें चाहिए कि वे इन मंदबुद्धि और अधूरे ज्ञान वाले लोगों के मन को विचलित न करें। इसके बजाय, उन्हें निष्काम भाव से कर्म करने के लिए प्रेरित करना चाहिए।
+
+### Translation
+
+Bewildered by the modes of material nature, the ignorant become attached to the activities of the modes.
+The wise, who know the complete truth, should not unsettle the minds of those ignorant ones who have incomplete knowledge.
 
 ### Meaning
 

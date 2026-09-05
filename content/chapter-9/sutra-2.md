@@ -8,11 +8,10 @@ sutra: 2
 position: 340
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 राजविद्या राजगुह्यं पवित्रमिदमुत्तमम्
 प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 340
 
 
 ### Transliteration
-```
+{{< lines >}}
 rājavidyā rājaguhyaṃ pavitramidamuttamam
 pratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह ज्ञान सब विद्याओं का राजा, सब गुप्त रखने योग्य विषयों का राजा, अति पवित्र और उत्तम है। यह प्रत्यक्ष फल देने वाला, धर्मयुक्त, साधन करने में अत्यंत सुगम और अविनाशी है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को उस परम ज्ञान की महिमा बता रहे हैं जिसे वे प्रकट करने जा रहे हैं। वे इसे 'राजविद्या' (विद्याओं का राजा) और 'राजगुह्य' (रहस्यों का राजा) कहते हैं क्योंकि यह आत्मा और परमात्मा का परम सत्य है। यह ज्ञान न केवल पवित्र और अविनाशी है, बल्कि इसका अनुभव प्रत्यक्ष रूप से किया जा सकता है और इसका आचरण करना अत्यंत सरल है।
+
+### Translation
+
+This knowledge is the king of sciences, the king of secrets, the supreme purifier. It is realized by direct perception, endowed with righteousness, very easy to perform, and imperishable.
 
 ### Meaning
 

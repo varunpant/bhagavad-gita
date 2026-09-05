@@ -8,11 +8,10 @@ sutra: 8
 position: 288
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः
 प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 288
 
 
 ### Transliteration
-```
+{{< lines >}}
 raso'hamapsu kaunteya prabhāsmi śaśisūryayoḥ
 praṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! मैं जल में रस हूँ, चन्द्रमा और सूर्य में प्रभा हूँ, सम्पूर्ण वेदों में प्रणव (ॐकार) हूँ, आकाश में शब्द हूँ और मनुष्यों में पुरुषत्व हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी दिव्य विभूतियों का वर्णन कर रहे हैं। वे समझाते हैं कि सृष्टि के प्रत्येक मूल तत्व में जो उसकी मुख्य विशेषता या सार है, वह स्वयं भगवान ही हैं। जल की तरलता और स्वाद, सूर्य-चन्द्र का प्रकाश, वेदों का मूल नाद ॐकार, आकाश का गुण शब्द और मनुष्यों का पुरुषार्थ—ये सब ईश्वर की ही अभिव्यक्तियाँ हैं।
+
+### Translation
+
+O son of Kunti, I am the taste in water, I am the light in the moon and the sun, the sacred syllable Om in all the Vedas, sound in ether, and ability in men.
 
 ### Meaning
 

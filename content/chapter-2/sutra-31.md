@@ -8,11 +8,10 @@ sutra: 31
 position: 78
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि
 धर्म्याद्धि युद्धाछ्रेयोऽन्यत्क्षत्रियस्य न विद्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 78
 
 
 ### Transliteration
-```
+{{< lines >}}
 svadharmamapi cāvekṣya na vikampitumarhasi
 dharmyāddhi yuddhāchreyo'nyatkṣatriyasya na vidyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और अपने धर्म को देखकर भी तुम्हें विचलित नहीं होना चाहिए, क्योंकि एक क्षत्रिय के लिए धर्मयुक्त युद्ध से बढ़कर अन्य कोई कल्याणकारी कार्य नहीं है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को उसके क्षत्रिय धर्म का स्मरण करा रहे हैं। वे समझाते हैं कि समाज में न्याय और धर्म की रक्षा करना एक योद्धा का परम कर्तव्य है। इसलिए, धर्म के लिए लड़े जाने वाले इस युद्ध से पीछे हटना अर्जुन के लिए उचित नहीं है, क्योंकि यही उसके लिए सर्वोच्च कल्याण का मार्ग है।
+
+### Translation
+
+And even considering your own duty, you should not waver, for there is nothing better for a kshatriya than a righteous war.
 
 ### Meaning
 

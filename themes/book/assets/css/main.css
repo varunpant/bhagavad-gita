@@ -219,13 +219,14 @@ code {
     white-space: normal;
 }
 
-/* The shloka is the exception, and it is always the first block on the page.
-   Its lines are semantic — where a line ends is part of how the verse is
-   composed — and they only became real line breaks when the text started
-   coming from `enriched.sqlite` instead of the scrape, which ran them
-   together around a danda. `pre-wrap` keeps them and still wraps a line too
-   long for a narrow screen. */
-.verse-page pre:first-of-type code {
+/* The shloka and its transliteration are the exception. Their lines are
+   semantic — where a line ends is part of how the verse is composed — so the
+   breaks are kept, and `pre-wrap` still wraps a line too long for a narrow
+   screen. Selected by the `lines` shortcode's own class rather than by being
+   first on the page: that held only while the shloka was the one block of its
+   kind, and the transliteration added underneath it silently lost its break
+   and ran together as a paragraph. */
+.verse-page .verse-lines code {
     white-space: pre-wrap;
 }
 

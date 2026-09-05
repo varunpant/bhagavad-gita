@@ -8,11 +8,10 @@ sutra: 26
 position: 364
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति
 तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 364
 
 
 ### Transliteration
-```
+{{< lines >}}
 patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati
 tadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो कोई भक्त मुझे प्रेमपूर्वक एक पत्ता, एक फूल, एक फल या जल अर्पित करता है, उस शुद्ध बुद्धि वाले निष्काम प्रेमी भक्त का प्रेमपूर्वक भेंट किया हुआ वह उपहार मैं स्वीकार करता हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण भक्ति की सुगमता और उसकी महिमा का वर्णन कर रहे हैं। भगवान को प्रसन्न करने के लिए किसी बहुमूल्य वस्तु की आवश्यकता नहीं है, बल्कि केवल सच्ची भक्ति और प्रेम की आवश्यकता है। यदि कोई अत्यंत साधारण वस्तु जैसे पत्ता, फूल, फल या केवल जल भी प्रेम से अर्पित करता है, तो भगवान उसे सहर्ष स्वीकार करते हैं।
+
+### Translation
+
+Whoever offers Me with devotion a leaf, a flower, a fruit, or water—that offering of the pure-hearted self-controlled devotee, offered with love, I accept
 
 ### Meaning
 

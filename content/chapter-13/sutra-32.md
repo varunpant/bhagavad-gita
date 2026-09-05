@@ -8,11 +8,10 @@ sutra: 32
 position: 521
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः
 शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 521
 
 
 ### Transliteration
-```
+{{< lines >}}
 anāditvān nirguṇatvāt paramātmāyam avyayaḥ
 śarīrastho'pi kaunteya na karoti na lipyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! अनादि होने के कारण और निर्गुण होने के कारण यह अविनाशी परमात्मा शरीर में स्थित होने पर भी न तो कुछ करता है और न ही लिप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि जीवात्मा वास्तव में परमात्मा का ही अंश है जो शरीर में रहते हुए भी प्रकृति के गुणों से परे है। जैसे आकाश सर्वव्यापी होने पर भी किसी वस्तु से लिप्त नहीं होता, वैसे ही परमात्मा शरीर में स्थित होने पर भी कर्मों के फलों से अछूता रहता है। यह आत्मा अविनाशी, अनादि और दिव्य है।
+
+### Translation
+
+O son of Kunti, because this supreme Self is beginningless and devoid of material qualities, it is imperishable; though dwelling in the body, it neither acts nor is tainted
 
 ### Meaning
 

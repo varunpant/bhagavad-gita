@@ -8,11 +8,10 @@ sutra: 12
 position: 131
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः
 तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 131
 
 
 ### Transliteration
-```
+{{< lines >}}
 iṣṭān bhogān hi vo devā dāsyante yajñabhāvitāḥ
 tair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यज्ञ द्वारा प्रसन्न हुए देवता निश्चय ही तुम्हें इच्छित भोग प्रदान करेंगे। उनके द्वारा दी गई वस्तुओं को उन्हें अर्पित किए बिना जो भोगता है, वह निश्चित रूप से चोर ही है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण मनुष्यों और देवताओं के बीच के परस्पर निर्भर संबंध को स्पष्ट करते हैं। देवता प्रकृति के उन तत्वों को नियंत्रित करते हैं जो जीवन के लिए आवश्यक हैं, और वे मनुष्यों द्वारा किए गए यज्ञों से पुष्ट होते हैं। इसलिए, जो कोई भी देवताओं को कृतज्ञता अर्पित किए बिना या अपने निर्धारित कर्तव्यों का पालन किए बिना प्रकृति के उपहारों का उपभोग करता है, उसे चोर माना गया है।
+
+### Translation
+
+Pleased by sacrifices, the gods will indeed give you the desired enjoyments. He who enjoys the things given by them without offering them to them is certainly a thief.
 
 ### Meaning
 

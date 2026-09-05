@@ -8,11 +8,10 @@ sutra: 10
 position: 57
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तमुवाच हृषीकेशः प्रहसन्निव भारत
 सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 57
 
 
 ### Transliteration
-```
+{{< lines >}}
 tam uvāca hṛṣīkeśaḥ prahasann iva bhārata
 senayor ubhayor madhye viṣīdantam idaṃ vacaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी (धृतराष्ट्र)! दोनों सेनाओं के मध्य में शोक करते हुए उस (अर्जुन) से हृषीकेश (श्रीकृष्ण) ने मानो हँसते हुए यह वचन कहा।
 
 ### भावार्थ
 
 इस श्लोक में संजय राजा धृतराष्ट्र को युद्धभूमि का दृश्य बता रहे हैं। दोनों सेनाओं के बीच अर्जुन को शोक और मोह से ग्रस्त देखकर भगवान श्रीकृष्ण मुस्कुराते हैं। उनकी यह मुस्कान उनके ईश्वरीय आत्मविश्वास को दर्शाती है और यहीं से भगवद्गीता के महान आध्यात्मिक उपदेश का आरंभ होता है।
+
+### Translation
+
+O descendant of Bharata (Dhritarashtra), Hrishikesha (Krishna), smiling as it were, spoke these words to him (Arjuna) who was lamenting in the midst of the two armies.
 
 ### Meaning
 

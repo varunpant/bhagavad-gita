@@ -8,11 +8,10 @@ sutra: 21
 position: 301
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति
 तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 301
 
 
 ### Transliteration
-```
+{{< lines >}}
 yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitumicchati
 tasya tasyācalāṃ śraddhāṃ tāmeva vidadhāmyaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो-जो भक्त जिस-जिस देवता के स्वरूप को श्रद्धा से पूजना चाहता है, उस-उस भक्त की श्रद्धा को मैं उसी देवता के प्रति स्थिर कर देता हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि वे सभी प्राणियों के हृदय में परमात्मा रूप में स्थित हैं। जब कोई भक्त किसी अन्य देवी-देवता की पूजा श्रद्धापूर्वक करना चाहता है, तो भगवान उसकी उस श्रद्धा को उसी रूप में सुदृढ़ कर देते हैं। यह ईश्वर की परम उदारता और सर्वव्यापकता को दर्शाता है, जहाँ वे प्रत्येक जीव की इच्छा का सम्मान करते हैं।
+
+### Translation
+
+Whichever devotee desires to worship with faith whichever deity's form, I make that very faith of his steady and unwavering.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 12
 position: 583
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आशापाशशतैर्बद्धाः कामक्रोधपरायणाः
 ईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 583
 
 
 ### Transliteration
-```
+{{< lines >}}
 āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ
 īhante kāmabhogārthamanyāyenārthasañcayān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सैकड़ों आशा रूपी फाँसियों से बंधे हुए, काम और क्रोध के परायण हुए, वे काम-भोगों की तृप्ति के लिए अन्यायपूर्वक धन का संग्रह करने की चेष्टा करते हैं
 
 ### भावार्थ
 
 इस श्लोक में आसुरी प्रवृत्ति वाले मनुष्यों के आचरण का वर्णन किया गया है। वे अनगिनत इच्छाओं और आशाओं के जाल में जकड़े रहते हैं और काम-क्रोध के वशीभूत होकर जीते हैं। अपनी इंद्रिय-तृप्ति के लिए वे किसी भी हद तक जा सकते हैं और अन्यायपूर्ण तरीकों से धन इकट्ठा करने में संकोच नहीं करते।
+
+### Translation
+
+Bound by hundreds of shackles of desire, devoted to lust and anger, they strive to accumulate wealth by unjust means for the gratification of their desires
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 37
 position: 451
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कस्माच्च ते न नमेरन्महात्मन्    गरीयसे ब्रह्मणोऽप्यादिकर्त्रे
 अनन्त देवेश जगन्निवास    त्वमक्षरं सदसत्तत्परं यत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 451
 
 
 ### Transliteration
-```
-kasmācca te na nameranmahātman
-garīyase brahmaṇo'pyādikartre
-ananta deveśa jagannivāsa
-tvamakṣaraṃ sadasattatparaṃ yat
+{{< lines >}}
+kasmācca te na nameranmahātman garīyase brahmaṇo'pyādikartre
+ananta deveśa jagannivāsa tvamakṣaraṃ sadasattatparaṃ yat
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और हे महात्मन! वे आपको नमस्कार क्यों न करें? आप ब्रह्मा के भी आदि-कर्ता और उनसे भी श्रेष्ठ हैं। हे अनन्त! हे देवेश! हे जगन्निवास! आप ही अक्षर (अविनाशी) हैं, सत् और असत् तथा उनसे परे जो परम तत्त्व है, वह भी आप ही हैं।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विराट रूप की महिमा का गान कर रहे हैं। वे कहते हैं कि सृष्टि के रचयिता ब्रह्मा जी के भी आदि-कारण होने के कारण सभी को भगवान के सम्मुख नतमस्तक होना ही चाहिए। भगवान ही सत् (व्यक्त), असत् (अव्यक्त) और इन दोनों से परे परम अक्षर ब्रह्म हैं।
+
+### Translation
+
+And why should they not bow down to You, O Great Soul? You are greater even than Brahma, the original creator. O Infinite One, O Lord of the devas, O Refuge of the universe! You are the imperishable, the being, the non-being, and that which is beyond both.
 
 ### Meaning
 

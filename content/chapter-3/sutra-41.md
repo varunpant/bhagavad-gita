@@ -8,11 +8,10 @@ sutra: 41
 position: 160
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ
 पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 160
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasmāttvamindriyāṇyādau niyamya bharatarṣabha
 pāpmānaṃ prajahi hyenaṃ jñānavijñānanāśanam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए हे भरतश्रेष्ठ! तुम सबसे पहले इन्द्रियों को वश में करके, ज्ञान और विज्ञान का नाश करने वाले इस पापी को अवश्य मार डालो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को काम (वासना) पर विजय प्राप्त करने का व्यावहारिक उपाय बताते हैं। चूँकि काम का वास इन्द्रियों, मन और बुद्धि में होता है, इसलिए सबसे पहले इन्द्रियों को वश में करना आवश्यक है। ऐसा करके मनुष्य ज्ञान और विज्ञान का नाश करने वाले इस महान पापी शत्रु का वध कर सकता है।
+
+### Translation
+
+Therefore, O best of the Bharatas, in the very beginning, having controlled the senses, certainly destroy this sinful destroyer of knowledge and realization.
 
 ### Meaning
 

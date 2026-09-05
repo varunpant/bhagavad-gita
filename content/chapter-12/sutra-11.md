@@ -8,11 +8,10 @@ sutra: 11
 position: 480
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः
 सर्वकर्मफलत्यागं ततः कुरु यतात्मवान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 480
 
 
 ### Transliteration
-```
+{{< lines >}}
 athaitadapyasakto'si kartuṃ madyogamāśritaḥ
 sarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि तुम मेरे शरणागत होकर इस अभ्यास को करने में भी असमर्थ हो, तो मन और बुद्धि पर संयम रखते हुए सभी कर्मों के फलों का त्याग करो।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को भक्ति मार्ग के विभिन्न स्तर बता रहे हैं। यदि कोई निरंतर स्मरण (अभ्यास) करने में असमर्थ है, तो उसे अपने कर्मों के फलों को भगवान को समर्पित कर देना चाहिए। अपने मन और इंद्रियों को वश में रखकर निष्काम कर्म करना भी परम गति को प्राप्त करने का एक साधन है।
+
+### Translation
+
+If you are unable to do even this, then, taking refuge in My yoga, renounce the fruits of all actions, with your self controlled.
 
 ### Meaning
 

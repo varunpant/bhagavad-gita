@@ -8,11 +8,10 @@ sutra: 36
 position: 83
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अवाच्यवादांश्च बहून् वदिष्यन्ति तवाहिताः
 निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 83
 
 
 ### Transliteration
-```
+{{< lines >}}
 avācyavādāṃśca bahūn vadiṣyanti tavāhitāḥ
 nindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तुम्हारे शत्रु तुम्हारी सामर्थ्य की निन्दा करते हुए बहुत से न कहने योग्य वचन भी कहेंगे। उससे अधिक दुःखदायी और क्या होगा?
 
 ### भावार्थ
 
 श्री कृष्ण अर्जुन को युद्ध से पीछे हटने के सामाजिक और व्यक्तिगत परिणामों के बारे में सचेत कर रहे हैं। वे कहते हैं कि यदि वह युद्ध नहीं करेगा, तो उसके शत्रु उसकी वीरता और क्षमता पर संदेह करेंगे और उसका उपहास उड़ाएंगे। एक शूरवीर के लिए अपने सामर्थ्य की निंदा सुनना मृत्यु से भी अधिक कष्टदायक होता है।
+
+### Translation
+
+Your enemies will speak many unspeakable words, scorning your ability. What could be more painful than that?
 
 ### Meaning
 

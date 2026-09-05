@@ -8,11 +8,10 @@ sutra: 10
 position: 479
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव
 मदर्थमपि कर्माणि कुर्वन् सिद्धिमवाप्स्यसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 479
 
 
 ### Transliteration
-```
+{{< lines >}}
 abhyāse'pyasamartho'si matkarmaparamo bhava
 madarthamapi karmāṇi kurvan siddhimavāpsyasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि तुम अभ्यास में भी असमर्थ हो, तो मेरे लिए कर्म करने के परायण हो जाओ।
+मेरे लिए कर्मों को करते हुए भी तुम सिद्धि को प्राप्त करोगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को भक्ति का एक और सरल मार्ग बताते हैं। यदि कोई साधक मन को स्थिर करने के अभ्यास (अभ्यास योग) में भी असमर्थ है, तो उसे अपने सभी कर्म भगवान को समर्पित कर देने चाहिए। भगवान के निमित्त नि:स्वार्थ भाव से कर्म करने से भी अंततः चित्त शुद्धि होती है और परम सिद्धि प्राप्त होती है।
+
+### Translation
+
+If you are unable even to practice, then become intent on performing actions for Me.
+Even by performing actions for My sake, you shall attain perfection.
 
 ### Meaning
 

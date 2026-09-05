@@ -8,11 +8,10 @@ sutra: 18
 position: 432
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 त्वमक्षरं परमं वेदितव्यं    त्वमस्य विश्वस्य परं निधानम्
 त्वमव्ययः शाश्वतधर्मगोप्ता    सनातनस्त्वं पुरुषो मतो मे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 432
 
 
 ### Transliteration
-```
-tvamakṣaraṃ paramaṃ veditavyaṃ
-tvamasya viśvasya paraṃ nidhānam
-tvamavyayaḥ śāśvatadharmagoptā
-sanātanastvaṃ puruṣo mato me
+{{< lines >}}
+tvamakṣaraṃ paramaṃ veditavyaṃ tvamasya viśvasya paraṃ nidhānam
+tvamavyayaḥ śāśvatadharmagoptā sanātanastvaṃ puruṣo mato me
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आप ही जानने योग्य परम अक्षर (विनाशरहित ब्रह्म) हैं। आप ही इस ब्रह्मांड के परम आश्रय हैं। आप ही अविनाशी और सनातन धर्म के रक्षक हैं। मेरी सम्मति में आप ही सनातन पुरुष हैं।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप को देखकर उनकी महिमा का गान कर रहे हैं। वे स्वीकार करते हैं कि कृष्ण ही उपनिषदों में वर्णित परम सत्य (अक्षर ब्रह्म) हैं, जिन्हें जानना ही जीवन का अंतिम लक्ष्य है। वे ही इस संपूर्ण सृष्टि के आधार और सनातन धर्म के शाश्वत रक्षक हैं।
+
+### Translation
+
+You are the supreme imperishable Akshara to be realized. You are the ultimate support of this universe. You are the changeless protector of the eternal dharma. In my opinion, You are the primeval, everlasting Purusha.
 
 ### Meaning
 

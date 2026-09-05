@@ -8,11 +8,10 @@ sutra: 27
 position: 260
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्
 उपैति शान्तरजसं ब्रह्मभूतमकल्मषम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 260
 
 
 ### Transliteration
-```
+{{< lines >}}
 praśāntamanasaṃ hyenaṃ yoginaṃ sukhamuttamam
 upaiti śāntarajasaṃ brahmabhūtamakalmaṣam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि जिसका मन भली-भांति शांत है, जिसका रजोगुण शांत हो गया है, जो पाप से रहित है और जो ब्रह्मरूप हो गया है, ऐसे इस योगी को उत्तम सुख प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ध्यानयोग की पराकाष्ठा का वर्णन कर रहे हैं। जब साधक का मन पूरी तरह से स्थिर और शांत हो जाता है, तब उसके भीतर का रजोगुण (चंचलता और वासना) समाप्त हो जाता है। ऐसा निष्पाप योगी साक्षात ब्रह्म के साथ तादात्म्य अनुभव करता है और उसे परम आनंद की प्राप्ति होती है।
+
+### Translation
+
+For supreme happiness comes to this yogi whose mind is perfectly peaceful, whose passion is subdued, who is free from sin, and who has become one with Brahman
 
 ### Meaning
 

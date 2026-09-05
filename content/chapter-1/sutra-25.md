@@ -8,11 +8,10 @@ sutra: 25
 position: 25
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्
 उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ earth, said: "O Arjuna (son of Pritha), behold these Kurus gathered together."
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām
 uvāca pārtha paśyaitānsamavetānkurūniti
+{{< /lines >}}
 
-```
+### अनुवाद
+
+भीष्म, द्रोण तथा पृथ्वी के अन्य सभी राजाओं के सामने, उन्होंने (श्रीकृष्ण ने) कहा: "हे पार्थ! यहाँ एकत्र हुए इन कुरुवंशियों को देखो।"
 
 ### भावार्थ
 
 इस श्लोक में संजय वर्णन करते हैं कि कैसे भगवान श्रीकृष्ण रथ को पितामह भीष्म, द्रोणाचार्य और अन्य सभी राजाओं के ठीक सामने खड़ा कर देते हैं। अर्जुन को "एकत्र हुए कुरुवंशियों" को देखने के लिए कहकर, श्रीकृष्ण जानबूझकर उसके भीतर छिपे पारिवारिक मोह को जगाते हैं। रथ का यह स्थान अर्जुन के आगामी नैतिक संकट और विषाद की पृष्ठभूमि तैयार करता है।
+
+### Translation
+
+In the presence of Bhishma, Drona, and all the other kings of the earth, He (Krishna) said: "O Partha, behold these assembled Kurus."
 
 ### Meaning
 

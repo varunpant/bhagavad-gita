@@ -8,11 +8,10 @@ sutra: 20
 position: 139
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कर्मणैव हि संसिद्धिमास्थिता जनकादयः
 लोकसंग्रहमेवापि संपश्यन्कर्तुमर्हसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 139
 
 
 ### Transliteration
-```
+{{< lines >}}
 karmaṇaiva hi saṃsiddhimāsthitā janakādayaḥ
 lokasaṃgrahamevāpi saṃpaśyankartumarhasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जनक आदि राजाओं ने कर्म के द्वारा ही परम सिद्धि प्राप्त की थी। लोक-कल्याण को देखते हुए भी तुम्हें कर्म करना ही उचित है।
 
 ### भावार्थ
 
 भगवान कृष्ण राजा जनक का ऐतिहासिक उदाहरण देते हुए बताते हैं कि सांसारिक कर्तव्यों का त्याग किए बिना भी पूर्णता प्राप्त की जा सकती है। जनक और अन्य ज्ञानी राजाओं ने विश्व के कल्याण के लिए निस्वार्थ भाव से अपने कर्तव्यों का पालन किया था। इसलिए, अर्जुन को भी सामान्य लोगों के लिए एक अच्छा आदर्श प्रस्तुत करने के लिए अपने निर्धारित कर्म करने चाहिए।
+
+### Translation
+
+Kings like Janaka and others attained perfection solely through action. Even with a view to the welfare of the world, you should perform action.
 
 ### Meaning
 

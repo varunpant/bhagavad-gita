@@ -8,11 +8,10 @@ sutra: 17
 position: 64
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्
 विनाशमव्ययस्यास्य न कश्िचत् कर्तुमर्हति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 64
 
 
 ### Transliteration
-```
+{{< lines >}}
 avināśi tu tadviddhi yena sarvamidaṃ tatam
 vināśamavyayasyāsya na kaścit kartumarhati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तुम उसे अविनाशी जानो, जिससे यह संपूर्ण जगत् व्याप्त है। इस अव्यय का विनाश करने में कोई भी समर्थ नहीं है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को आत्मा की प्रकृति के बारे में बताते हैं, जो नश्वर शरीर से बिल्कुल भिन्न है। आत्मा चेतना के रूप में पूरे शरीर में व्याप्त है और किसी भी साधन या व्यक्ति द्वारा नष्ट नहीं की जा सकती। यह श्लोक हमारे वास्तविक स्वरूप की शाश्वत और अविनाशी प्रकृति को स्थापित करता है।
+
+### Translation
+
+Know that to be indestructible by which all this is pervaded. No one is able to cause the destruction of this imperishable soul.
 
 ### Meaning
 

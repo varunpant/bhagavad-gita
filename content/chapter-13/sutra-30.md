@@ -8,11 +8,10 @@ sutra: 30
 position: 519
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः
 यः पश्यति तथाऽऽत्मानमकर्तारं स पश्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 519
 
 
 ### Transliteration
-```
+{{< lines >}}
 prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ
 yaḥ paśyati tathātmānamakartāraṃ sa paśyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और जो पुरुष सम्पूर्ण कर्मों को सब प्रकार से प्रकृति द्वारा ही किये जाते हुए देखता है और आत्मा को अकर्ता देखता है, वही वास्तव में देखता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि संसार के सभी कर्म प्रकृति के गुणों द्वारा संचालित होते हैं। जीवात्मा अज्ञानवश स्वयं को कर्ता मान लेता है। जो व्यक्ति इस सत्य को जान लेता है कि शुद्ध आत्मा निष्क्रिय और निर्लिप्त है, वही यथार्थ दृष्टि रखता है।
+
+### Translation
+
+And he who sees that all actions are performed in every way by nature alone, and likewise that the self is the non-doer, he indeed sees.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 23
 position: 395
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम्
 वसूनां पावकश्चास्मि मेरुः शिखरिणामहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 395
 
 
 ### Transliteration
-```
+{{< lines >}}
 rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām
 vasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+रुद्रों में मैं शंकर हूँ और यक्षों तथा राक्षसों में मैं कुबेर हूँ
+वसुओं में मैं अग्नि हूँ और शिखरवाले पर्वतों में मैं सुमेरु हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए बताते हैं कि वे रुद्रों में कल्याणकारी शिव (शंकर) हैं। वे यक्षों और राक्षसों में धन के स्वामी कुबेर हैं। आठ वसुओं में वे पवित्र करने वाली अग्नि हैं और सभी ऊंचे शिखरों वाले पर्वतों में वे सुमेरु पर्वत हैं।
+
+### Translation
+
+Of the Rudras I am Shankara, and of the Yakshas and Rakshasas I am Kubera
+Of the Vasus I am Agni, and of the peaked mountains I am Meru
 
 ### Meaning
 

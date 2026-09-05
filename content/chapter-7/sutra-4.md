@@ -8,11 +8,10 @@ sutra: 4
 position: 284
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च
 अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 284
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhūmir-āpo'nalo vāyuḥ khaṃ mano buddhir-eva ca
 ahaṅkāra itīyaṃ me bhinnā prakṛtir-aṣṭadhā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार भी — इस प्रकार यह आठ प्रकारों में विभाजित मेरी अपरा प्रकृति है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी भौतिक प्रकृति (अपरा प्रकृति) के आठ तत्वों का वर्णन करते हैं। इनमें पांच स्थूल तत्व (पृथ्वी, जल, अग्नि, वायु और आकाश) तथा तीन सूक्ष्म तत्व (मन, बुद्धि और अहंकार) शामिल हैं। यह संपूर्ण दृश्य जगत इन्हीं आठ तत्वों के विभिन्न रूपों से निर्मित है।
+
+### Translation
+
+Earth, water, fire, air, ether, mind, intellect, and egoism — thus this is My eightfold divided material nature.
 
 ### Meaning
 

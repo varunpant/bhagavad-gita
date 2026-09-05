@@ -8,11 +8,10 @@ sutra: 14
 position: 428
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः
 प्रणम्य शिरसा देवं कृताञ्जलिरभाषत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 428
 
 
 ### Transliteration
-```
+{{< lines >}}
 tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ
 praṇamya śirasā devaṃ kṛtāñjalirabhāṣata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तब वे विस्मय से चकित और रोमांचित शरीर वाले अर्जुन
+सिर झुकाकर देव को प्रणाम करके हाथ जोड़े हुए बोले
 
 ### भावार्थ
 
 भगवान कृष्ण के अत्यंत अद्भुत और विराट रूप को देखकर अर्जुन पूरी तरह से आश्चर्यचकित हो गए। उनके शरीर के रोंगटे खड़े हो गए। उन्होंने अत्यंत श्रद्धापूर्वक भगवान के चरणों में सिर झुकाया और हाथ जोड़कर प्रार्थना करने लगे।
+
+### Translation
+
+Then he, filled with amazement, his hair standing on end, Arjuna
+bowing his head to the Lord, spoke with folded hands
 
 ### Meaning
 

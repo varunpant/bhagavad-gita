@@ -8,11 +8,10 @@ sutra: 8
 position: 422
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा
 दिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 422
 
 
 ### Transliteration
-```
+{{< lines >}}
 na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā
 divyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु तुम मुझे अपनी इन आँखों से देखने में समर्थ नहीं हो
+मैं तुम्हें दिव्य चक्षु देता हूँ, मेरे ऐश्वर्यमय योग को देखो
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि उनकी प्राकृत आँखें उनके विराट रूप को देखने में असमर्थ हैं। इसलिए, वे अर्जुन को अलौकिक या दिव्य दृष्टि प्रदान करते हैं। इस दिव्य दृष्टि के माध्यम से ही अर्जुन भगवान के परम ऐश्वर्य और योगशक्ति का दर्शन कर सकते हैं।
+
+### Translation
+
+But you cannot see Me with these eyes of yours
+I give you divine vision; behold My majestic mystic power
 
 ### Meaning
 

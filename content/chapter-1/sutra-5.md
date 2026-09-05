@@ -8,11 +8,10 @@ sutra: 5
 position: 5
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्
 पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ and Kuntibhoja and Saibya, the best men.
 
 
 ### Transliteration
-```
+{{< lines >}}
 dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān
 purujitkuntibhojaśca śaibyaśca narapuṅgavaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+धृष्टकेतु, चेकितान, और बलवान काशिराज, पुरुजित, कुन्तिभोज, और मनुष्यों में श्रेष्ठ शैब्य।
 
 ### भावार्थ
 
 दुर्योधन द्रोणाचार्य को पाण्डव सेना के प्रमुख योद्धाओं के नाम बता रहा है। इस श्लोक में वह धृष्टकेतु, चेकितान, पराक्रमी काशिराज, पुरुजित, कुन्तिभोज और मनुष्यों में श्रेष्ठ शैब्य का उल्लेख करता है। ये सभी महारथी पाण्डवों की ओर से युद्ध करने के लिए एकत्र हुए हैं।
+
+### Translation
+
+Dhrishtaketu, Chekitana, and the valiant King of Kashi, Purujit, Kuntibhoja, and Shaibya, the best among men.
 
 ### Meaning
 

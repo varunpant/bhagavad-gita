@@ -8,11 +8,10 @@ sutra: 23
 position: 437
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रूपं महत्ते बहुवक्त्रनेत्रं    महाबाहो बहुबाहूरुपादम्
 बहूदरं बहुदंष्ट्राकरालं    दृष्ट्वा लोकाः प्रव्यथितास्तथाऽहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 437
 
 
 ### Transliteration
-```
-rūpaṃ mahat te bahuvaktranetraṃ
-mahābāho bahubāhūrupādam
-bahūdaraṃ bahudaṃṣṭrākarālaṃ
-dṛṣṭvā lokāḥ pravyathitāstathā'ham
+{{< lines >}}
+rūpaṃ mahat te bahuvaktranetraṃ mahābāho bahubāhūrupādam
+bahūdaraṃ bahudaṃṣṭrākarālaṃ dṛṣṭvā lokāḥ pravyathitāstathā'ham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे महाबाहो! आपके अनेक मुख और नेत्रों वाले, अनेक हाथ, जंघा और पैरों वाले, अनेक उदरों वाले तथा अनेक दाढ़ों के कारण अत्यंत विकराल इस महान रूप को देखकर सब लोग व्याकुल हो रहे हैं और वैसे ही मैं भी व्याकुल हो रहा हूँ।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के अत्यंत विशाल और भयानक विश्वरूप को देखकर अपनी और समस्त लोकों की भयभीत अवस्था का वर्णन कर रहे हैं। भगवान का यह रूप अनंत मुखों, नेत्रों, हाथों और भयानक दाढ़ों से युक्त है, जिसे देखकर कोई भी विचलित हो सकता है। अर्जुन स्वीकार करते हैं कि इस अलौकिक और उग्र रूप को देखकर उनके मन में गहरा भय और व्याकुलता उत्पन्न हो गई है।
+
+### Translation
+
+O mighty-armed one! Seeing Your wondrous and colossal form, with its myriad mouths and eyes, many arms, thighs, and feet, many bellies, and terrible with many tusks, the worlds are terror-stricken, and so am I.
 
 ### Meaning
 

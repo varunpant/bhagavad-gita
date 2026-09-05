@@ -8,11 +8,10 @@ sutra: 34
 position: 34
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आचार्याः पितरः पुत्रास्तथैव च पितामहाः
 मातुलाः श्चशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,24 @@ fathers-in-law, grandsons, brothers-in-law and other relatives,-
 
 
 ### Transliteration
-```
+{{< lines >}}
 ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ
 mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शिक्षक, पिता, पुत्र और उसी प्रकार दादा,
+मामा, ससुर, पोते, साले तथा अन्य सम्बन्धी।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन युद्धभूमि में उपस्थित अपने सगे-सम्बन्धियों की सूची गिना रहे हैं। वह भगवान कृष्ण को बताते हैं कि जिनके विरुद्ध उन्हें युद्ध करना है, वे कोई और नहीं बल्कि उनके अपने गुरु, पितामह, मामा, ससुर और अन्य प्रियजन हैं। यह देखकर अर्जुन का मन मोह और विषाद से भर जाता है, क्योंकि वह राज्य के लिए अपने ही परिवार का वध नहीं करना चाहते।
+
+### Translation
+
+Teachers, fathers, sons, and as well as grandfathers,
+maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives.
 
 ### Meaning
 

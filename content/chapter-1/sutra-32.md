@@ -8,11 +8,10 @@ sutra: 32
 position: 32
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च
 किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ Of what avail is dominion to us, O Krishna, or pleasures or even life?
 
 
 ### Transliteration
-```
+{{< lines >}}
 na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca
 kiṃ no rājyena govinda kiṃ bhogairjīvitena vā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कृष्ण! मैं न तो विजय चाहता हूँ, और न ही राज्य तथा सुखों को। हे गोविन्द! हमें ऐसे राज्य से क्या प्रयोजन, अथवा भोगों से और जीवन से भी क्या लाभ?
 
 ### भावार्थ
 
 अर्जुन युद्ध के परिणामों से अत्यंत विचलित हो जाते हैं और अपने स्वजनों को मारने के विचार से कांप उठते हैं। वह भगवान कृष्ण से कहते हैं कि उन्हें ऐसा राज्य, सुख या विजय नहीं चाहिए जो अपने ही गुरुजनों और संबंधियों के रक्त से सना हो।
+
+### Translation
+
+O Krishna, I do not desire victory, nor kingdom, nor pleasures. O Govinda, of what use is kingdom to us, or pleasures, or even life?
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 10
 position: 534
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रजस्तमश्चाभिभूय सत्त्वं भवति भारत
 रजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 534
 
 
 ### Transliteration
-```
+{{< lines >}}
 rajas tamaś cābhibhūya sattvaṃ bhavati bhārata
 rajaḥ sattvaṃ tamaś caiva tamaḥ sattvaṃ rajas tathā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी अर्जुन! रजोगुण और तमोगुण को दबाकर सत्त्वगुण बढ़ता है, वैसे ही सत्त्वगुण और तमोगुण को दबाकर रजोगुण बढ़ता है, तथा सत्त्वगुण और रजोगुण को दबाकर तमोगुण बढ़ता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि प्रकृति के तीनों गुण (सत्त्व, रज, और तम) निरंतर एक-दूसरे पर हावी होने के लिए प्रतिस्पर्धा करते हैं। जब एक गुण प्रबल होता है, तो वह अन्य दो गुणों को दबा देता है। मनुष्य के भीतर किस गुण की प्रधानता होगी, यह इस बात पर निर्भर करता है कि वह किस गुण को बढ़ावा देता है।
+
+### Translation
+
+O descendant of Bharata, goodness arises by overcoming passion and ignorance; passion arises by overcoming goodness and ignorance; and ignorance arises by overcoming goodness and passion.
 
 ### Meaning
 

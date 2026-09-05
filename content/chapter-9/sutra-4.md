@@ -8,11 +8,10 @@ sutra: 4
 position: 342
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मया ततमिदं सर्वं जगदव्यक्तमूर्तिना
 मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 342
 
 
 ### Transliteration
-```
+{{< lines >}}
 mayā tatamidaṃ sarvaṃ jagadavyaktamūrtinā
 matsthāni sarvabhūtāni na cāhaṃ teṣvavasthitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझ अव्यक्त रूप वाले द्वारा यह सम्पूर्ण जगत् व्याप्त है।
+सब भूत मुझमें स्थित हैं, किन्तु मैं उनमें स्थित नहीं हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापकता और अनासक्ति का वर्णन करते हैं। वे समझाते हैं कि यद्यपि सम्पूर्ण सृष्टि उनके अव्यक्त रूप से व्याप्त है और सभी प्राणी उन्हीं के आश्रित हैं, फिर भी वे स्वयं इन भौतिक विकारों और प्राणियों से सर्वथा परे और निर्लेप हैं।
+
+### Translation
+
+By Me, in My unmanifested form, this entire universe is pervaded.
+All beings dwell in Me, but I do not dwell in them.
 
 ### Meaning
 

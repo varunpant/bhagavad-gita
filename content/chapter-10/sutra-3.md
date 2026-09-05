@@ -8,11 +8,10 @@ sutra: 3
 position: 375
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यो मामजमनादिं च वेत्ति लोकमहेश्वरम्
 असम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 375
 
 
 ### Transliteration
-```
+{{< lines >}}
 yo mām ajam anādiṃ ca vetti lokamaheśvaram
 asammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मुझे अजन्मा, अनादि और सब लोकों का महान् ईश्वर जानता है, मनुष्यों में वह मोह-रहित पुरुष सब पापों से मुक्त हो जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी दिव्य प्रकृति का वर्णन कर रहे हैं। वे अजन्मा और अनादि हैं, क्योंकि वे ही सभी सृष्टि के मूल कारण हैं। जो मनुष्य इस सत्य को तत्व से जान लेता है, वह मोह से मुक्त होकर सभी पापों से छूट जाता है।
+
+### Translation
+
+He who knows Me as unborn, without beginning, and the great Lord of the worlds—he, undeluded among mortals, is liberated from all sins.
 
 ### Meaning
 

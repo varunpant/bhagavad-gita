@@ -8,11 +8,10 @@ sutra: 6
 position: 210
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः
 योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 210
 
 
 ### Transliteration
-```
+{{< lines >}}
 saṃnyāsastu mahābāho duḥkhamāptumayogataḥ
 yogayukto munirbrahma nacireṇādhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु हे महाबाहु! कर्मयोग के बिना संन्यास (त्याग) प्राप्त करना दुःखदायी है। कर्मयोग से युक्त मुनि शीघ्र ही परब्रह्म को प्राप्त कर लेता है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि कर्मयोग के बिना केवल कर्मों का त्याग करना दुःखदायी है और इसे निभाना कठिन है। सच्चे संन्यास के लिए मन की शुद्धि आवश्यक है, जो निष्काम कर्म से ही संभव है। जो मुनि कर्मयोग का आचरण करता है, वह शीघ्र ही परब्रह्म को प्राप्त कर लेता है।
+
+### Translation
+
+But renunciation, O mighty-armed one, is difficult to attain without yoga. A sage engaged in yoga attains Brahman without delay.
 
 ### Meaning
 

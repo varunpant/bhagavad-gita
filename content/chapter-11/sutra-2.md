@@ -8,11 +8,10 @@ sutra: 2
 position: 416
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया
 त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 416
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā
 tvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कमलनेत्र! मैंने आपसे भूतों की उत्पत्ति और प्रलय के विषय में विस्तार से सुना है, और आपकी अविनाशी महिमा को भी सुना है।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण को 'कमलपत्राक्ष' (कमल के समान नेत्रों वाले) कहकर संबोधित करते हैं। वे स्वीकार करते हैं कि उन्होंने कृष्ण के मुख से सृष्टि के सभी जीवों की उत्पत्ति और प्रलय के रहस्य को विस्तार से समझ लिया है। इसके साथ ही, उन्होंने भगवान की अनंत और अविनाशी महिमा का भी श्रवण किया है, जिससे उनका मोह दूर हो रहा है।
+
+### Translation
+
+O lotus-eyed one, I have heard from You in detail about the origin and dissolution of all living beings, and also about Your inexhaustible greatness.
 
 ### Meaning
 

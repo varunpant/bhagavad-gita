@@ -8,11 +8,10 @@ sutra: 62
 position: 685
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तमेव शरणं गच्छ सर्वभावेन भारत
 तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 685
 
 
 ### Transliteration
-```
+{{< lines >}}
 tam eva śaraṇaṃ gaccha sarva-bhāvena bhārata
 tat-prasādāt parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भारत (अर्जुन)! तुम सब प्रकार से उस परमेश्वर की ही शरण में जाओ।
+उनकी कृपा से तुम परम शान्ति को और सनातन परम धाम को प्राप्त करोगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को सर्वभावेन अर्थात् मन, वचन और कर्म से ईश्वर की शरण में जाने का उपदेश देते हैं। पूर्ण शरणागति से ही मनुष्य को परम शान्ति और शाश्वत भगवद्धाम की प्राप्ति होती है। यह गीता के परम गोपनीय उपदेशों का सार है जहाँ अहंकार को त्यागकर पूर्ण समर्पण की बात कही गई है।
+
+### Translation
+
+Surrender unto Him utterly, O Bharata (Arjuna), with your whole being.
+By His grace you shall attain supreme peace and the eternal abode.
 
 ### Meaning
 

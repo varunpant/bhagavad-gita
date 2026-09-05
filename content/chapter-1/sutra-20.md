@@ -8,11 +8,10 @@ sutra: 20
 position: 20
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अथ व्यवस्थितान् दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः
 प्रवृत्ते शस्त्रसंपाते धनुरुद्यम्य पाण्डवः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -37,15 +36,22 @@ to Krishna, O Lord of the earth.
 
 
 ### Transliteration
-```
+{{< lines >}}
 atha vyavasthitān dṛṣṭvā dhārtarāṣṭrānkapidhvajaḥ
 pravṛtte śastrasaṃpāte dhanurudyamya pāṇḍavaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसके बाद, जब शस्त्रों का प्रहार शुरू होने ही वाला था, तब हनुमान के चिह्न वाली ध्वजा वाले पाण्डु पुत्र (अर्जुन) ने धृतराष्ट्र के पुत्रों को मोर्चे पर व्यवस्थित देखकर अपना धनुष उठा लिया।
 
 ### भावार्थ
 
 यह श्लोक युद्ध शुरू होने से ठीक पहले के अत्यंत महत्वपूर्ण क्षण का वर्णन करता है। कपिध्वज (हनुमान जी के चिह्न वाली ध्वजा) वाले रथ पर विराजमान अर्जुन कौरव सेना को युद्ध के लिए पूरी तरह तैयार देखते हैं। वे अपना धनुष गांडीव उठाते हैं, जो उनके युद्ध के लिए सन्नद्ध होने का संकेत है, और इसके तुरंत बाद वे श्रीकृष्ण से रथ को दोनों सेनाओं के बीच ले जाने का अनुरोध करते हैं।
+
+### Translation
+
+Then, seeing the sons of Dhritarashtra arrayed, as the clash of weapons was about to begin, the son of Pandu (Arjuna), whose banner bears the emblem of Hanuman, took up his bow.
 
 ### Meaning
 

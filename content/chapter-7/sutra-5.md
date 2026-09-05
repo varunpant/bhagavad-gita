@@ -8,11 +8,10 @@ sutra: 5
 position: 285
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम्
 जीवभूतां महाबाहो ययेदं धार्यते जगत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 285
 
 
 ### Transliteration
-```
+{{< lines >}}
 apareyamitastvanyāṃ prakṛtiṃ viddhi me parām
 jīvabhūtāṃ mahābāho yayedaṃ dhāryate jagat
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे महाबाहो! यह तो मेरी अपरा (जड़) प्रकृति है, किन्तु इससे भिन्न मेरी उस परा (चेतन) प्रकृति को जानो, जो जीवस्वरूपा है और जिसके द्वारा यह सम्पूर्ण जगत् धारण किया जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी दो प्रकार की शक्तियों का वर्णन कर रहे हैं। पिछले श्लोक में बताई गई आठ प्रकार की प्रकृति (पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार) उनकी 'अपरा' यानी भौतिक और जड़ प्रकृति है। इस श्लोक में वे अर्जुन को अपनी 'परा' यानी आध्यात्मिक और चेतन प्रकृति के विषय में बता रहे हैं, जो कि जीवशक्ति है और जो इस भौतिक जगत् को क्रियाशील रखती है।
+
+### Translation
+
+O mighty-armed one, this is My lower nature; but know My other, higher nature, which consists of the living entities and by which this entire universe is sustained.
 
 ### Meaning
 

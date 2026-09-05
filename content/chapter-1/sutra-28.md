@@ -8,12 +8,11 @@ sutra: 28
 position: 28
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 कृपया परयाऽऽविष्टो विषीदन्निदमब्रवीत्
 दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,27 @@ position: 28
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 kṛpayā parayā''viṣṭo viṣīdannidamabravīt
 dṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+अत्यंत करुणा से आविष्ट होकर और शोक करते हुए उन्होंने यह कहा
+हे कृष्ण युद्ध की इच्छा से सामने उपस्थित इन स्वजनों को देखकर
 
 ### भावार्थ
 
 इस श्लोक में युद्धभूमि का दृश्य देखकर अर्जुन की मानसिक स्थिति का वर्णन किया गया है। अपने ही सगे-संबंधियों को युद्ध के लिए तत्पर देखकर अर्जुन अत्यंत करुणा और गहरे शोक से भर जाते हैं। इसी व्याकुलता के कारण वे भगवान कृष्ण से अपने मन की व्यथा व्यक्त करते हैं।
+
+### Translation
+
+Arjuna said:
+Overwhelmed with great compassion and sorrowing he spoke this
+Seeing these kinsmen O Krishna present with the desire to fight
 
 ### Meaning
 

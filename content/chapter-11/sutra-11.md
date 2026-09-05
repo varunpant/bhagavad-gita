@@ -8,11 +8,10 @@ sutra: 11
 position: 425
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम्
 सर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 425
 
 
 ### Transliteration
-```
+{{< lines >}}
 divyamālyāmbaradharaṃ divyagandhānulepanam
 sarvāścaryamayaṃ devamanantaṃ viśvatomukham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+दिव्य मालाओं और वस्त्रों को धारण किए हुए, दिव्य गंध (अनुलेप) का लेप किए हुए, सब प्रकार के आश्चर्यों से युक्त, प्रकाशमय, असीम और सब ओर मुख वाले (विराट रूप को अर्जुन ने देखा)
 
 ### भावार्थ
 
 इस श्लोक में संजय धृतराष्ट्र को भगवान कृष्ण के परम विराट रूप की अद्भुत महिमा का वर्णन कर रहे हैं। अर्जुन ने जिस विश्वरूप के दर्शन किए, वह दिव्य आभूषणों, मालाओं और सुगंधों से सुसज्जित था। वह रूप असीम था, जिसका कोई अंत नहीं था, और वह सभी दिशाओं में देख रहा था अर्थात् सर्वव्यापी था।
+
+### Translation
+
+Wearing celestial garlands and garments, anointed with divine perfumes, full of all wonders, resplendent, infinite, and facing in all directions.
 
 ### Meaning
 

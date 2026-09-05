@@ -8,11 +8,10 @@ sutra: 32
 position: 655
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अधर्मं धर्ममिति या मन्यते तमसाऽऽवृता
 सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 655
 
 
 ### Transliteration
-```
+{{< lines >}}
 adharmaṃ dharmamiti yā manyate tamasā''vṛtā
 sarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जो बुद्धि अज्ञान से ढकी होने के कारण अधर्म को धर्म मान लेती है और सभी बातों को विपरीत (उल्टा) समझती है, वह बुद्धि तामसी है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामसी बुद्धि के लक्षणों का वर्णन करते हैं। तामसी बुद्धि अज्ञान और अंधकार से ढकी होती है, जिसके कारण मनुष्य सही और गलत का निर्णय नहीं कर पाता। वह अधर्म को ही धर्म समझने लगता है और जीवन के सभी मूल्यों तथा सत्यों को विपरीत रूप में देखता है।
+
+### Translation
+
+O Partha, that intellect which, enveloped in darkness, regards irreligion as religion and perceives all things in a distorted way, is tamasic.
 
 ### Meaning
 

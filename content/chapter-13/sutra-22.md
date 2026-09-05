@@ -8,11 +8,10 @@ sutra: 22
 position: 511
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान्
 कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 511
 
 
 ### Transliteration
-```
+{{< lines >}}
 puruṣaḥ prakṛtistho hi bhuṅkte prakṛtijān guṇān
 kāraṇaṃ guṇasaṅgo'sya sadasadyonijanmasu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+प्रकृति में स्थित ही पुरुष प्रकृति से उत्पन्न गुणों को भोगता है
+इन गुणों का संग ही इस जीवात्मा के अच्छी-बुरी योनियों में जन्म लेने का कारण है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जीवात्मा (पुरुष) जब भौतिक प्रकृति के संपर्क में आता है, तो वह प्रकृति के तीन गुणों (सत्त्व, रज, तम) के प्रभाव में आ जाता है। इन गुणों के प्रति आसक्ति के कारण ही जीव को अपने कर्मों के अनुसार उत्तम और अधम योनियों में बार-बार जन्म लेना पड़ता है। जब तक यह आसक्ति बनी रहती है, तब तक संसार चक्र से मुक्ति संभव नहीं है।
+
+### Translation
+
+The purusha (individual soul) situated in prakriti (nature) indeed experiences the qualities born of prakriti
+attachment to these qualities is the cause of its births in good and evil wombs
 
 ### Meaning
 

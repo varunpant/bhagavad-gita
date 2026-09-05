@@ -8,12 +8,11 @@ sutra: 15
 position: 429
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 पश्यामि देवांस्तव देव देहे    सर्वांस्तथा भूतविशेषसङ्घान्
 ब्रह्माणमीशं कमलासनस्थ    मृषींश्च सर्वानुरगांश्च दिव्यान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,18 +34,25 @@ position: 429
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
-paśyāmi devāṃstava deva dehe
-sarvāṃstathā bhūtaviśeṣasaṅghān
-brahmāṇamīśaṃ kamalāsanastha
-mṛṣīṃśca sarvānuragāṃśca divyān
+paśyāmi devāṃstava deva dehe sarvāṃstathā bhūtaviśeṣasaṅghān
+brahmāṇamīśaṃ kamalāsanastha mṛṣīṃśca sarvānuragāṃśca divyān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे देव! मैं आपके शरीर में सभी देवताओं को तथा अनेक भूतों (जीवों) के विशेष समूहों को देख रहा हूँ। कमल के आसन पर विराजमान ब्रह्मा को, महादेव (ईश) को, समस्त ऋषियों को और दिव्य सर्पों को देख रहा हूँ।
 
 ### भावार्थ
 
 भगवान कृष्ण द्वारा दिव्य दृष्टि प्रदान किए जाने के बाद अर्जुन उनके विश्वरूप का प्रत्यक्ष दर्शन कर रहे हैं। इस विराट रूप में वे ब्रह्मांड के सभी देवताओं, ऋषियों, चराचर जीवों और दिव्य नागों को एक ही स्थान पर अवस्थित देखते हैं। यह इस बात का प्रमाण है कि संपूर्ण सृष्टि भगवान के ही भीतर समाहित है।
+
+### Translation
+
+Arjuna said:
+O Lord, I see in Your body all the gods and various groups of living entities. I see Brahma, the lord, seated on his lotus throne, as well as all the sages and celestial serpents.
 
 ### Meaning
 

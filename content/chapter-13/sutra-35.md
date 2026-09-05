@@ -8,11 +8,10 @@ sutra: 35
 position: 524
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा
 भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 524
 
 
 ### Transliteration
-```
+{{< lines >}}
 kṣetrakṣetrajñayorevamantaraṃ jñānacakṣuṣā
 bhūtaprakṛtimokṣaṃ ca ye viduryānti te param
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस प्रकार जो लोग ज्ञान रूपी नेत्रों द्वारा क्षेत्र और क्षेत्रज्ञ के बीच के अंतर को तथा प्रकृति से प्राणियों की मुक्ति के मार्ग को जानते हैं, वे परम पद को प्राप्त होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण क्षेत्र (शरीर) और क्षेत्रज्ञ (आत्मा) के विवेक का उपसंहार करते हैं। जो मनुष्य ज्ञान-चक्षु द्वारा इन दोनों के भेद को समझ लेते हैं और यह जान जाते हैं कि प्रकृति के बंधनों से कैसे मुक्त हुआ जाता है, वे परम सत्य को प्राप्त करते हैं। यह ज्ञान ही मोक्ष का मार्ग प्रशस्त करता है।
+
+### Translation
+
+Those who thus perceive, with the eye of wisdom, the distinction between the field and the knower of the field, and the liberation of beings from material nature, attain the Supreme.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 46
 position: 93
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यावानर्थ उदपाने सर्वतः संप्लुतोदके
 तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 93
 
 
 ### Transliteration
-```
+{{< lines >}}
 yāvānartha udapāne sarvataḥ saṃplutodake
 tāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सब ओर से जल से परिपूर्ण जलाशय के प्राप्त हो जाने पर छोटे कुएं का जितना प्रयोजन रह जाता है, ब्रह्म को तत्त्व से जानने वाले ज्ञानी ब्राह्मण का समस्त वेदों में उतना ही प्रयोजन रह जाता है।
 
 ### भावार्थ
 
 भगवान कृष्ण समझाते हैं कि वेदों में वर्णित कर्मकांड और उनके फल एक छोटे कुएं के समान हैं, जो सीमित आवश्यकताओं को पूरा करते हैं। इसके विपरीत, आत्मज्ञान या ब्रह्म का साक्षात्कार एक विशाल, लबालब भरे हुए जलाशय के समान है जो एक साथ सभी उद्देश्यों को पूरा कर देता है। इसलिए, जिस ज्ञानी पुरुष ने परम सत्य को जान लिया है, उसके लिए वेदों के सकाम कर्मों का कोई विशेष प्रयोजन नहीं रह जाता।
+
+### Translation
+
+As much purpose as a small well serves when there is a vast body of water everywhere, that much purpose all the Vedas serve for a Brahmana who possesses true knowledge.
 
 ### Meaning
 

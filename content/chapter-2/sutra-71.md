@@ -8,11 +8,10 @@ sutra: 71
 position: 118
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः
 निर्ममो निरहंकारः स शांतिमधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 118
 
 
 ### Transliteration
-```
+{{< lines >}}
 vihāya kāmānyaḥ sarvānpumāṃścarati niḥspṛhaḥ
 nirmamo nirahaṃkāraḥ sa śāntimadhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य सम्पूर्ण कामनाओं को त्याग कर स्पृहारहित, ममतारहित और अहंकाररहित होकर आचरण करता है, वह शान्ति को प्राप्त होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सच्ची शांति प्राप्त करने का मार्ग बताते हैं। जो व्यक्ति भौतिक इच्छाओं, स्वामित्व की भावना (मेरापन) और अहंकार (मैं) को पूरी तरह से त्याग देता है, वही जीवन में परम शांति का अनुभव कर सकता है। यह स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति की अंतिम अवस्था का वर्णन है।
+
+### Translation
+
+That person who, having given up all desires, moves about without longing, devoid of the sense of ownership and free from ego, attains peace.
 
 ### Meaning
 

@@ -8,12 +8,11 @@ sutra: 1
 position: 311
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम
 अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,27 @@ position: 311
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 kiṃ tadbrahma kimadhyātmaṃ kiṃ karma puruṣottama
 adhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे पुरुषोत्तम! वह ब्रह्म क्या है? अध्यात्म क्या है? कर्म क्या है?
+अधिभूत किसे कहा गया है और अधिदैव किसे कहा जाता है?
 
 ### भावार्थ
 
 भगवद्गीता के आठवें अध्याय के इस पहले श्लोक में अर्जुन भगवान कृष्ण से सात प्रश्न पूछते हैं। वे ब्रह्म, अध्यात्म, कर्म, अधिभूत और अधिदैव के वास्तविक स्वरूप को जानना चाहते हैं। इन पारिभाषिक शब्दों का स्पष्टीकरण आगे के श्लोकों में स्वयं भगवान कृष्ण द्वारा किया गया है।
+
+### Translation
+
+Arjuna said:
+O Purushottama, what is that Brahman? What is Adhyatma? What is Karma?
+What is declared to be Adhibhuta, and what is said to be Adhidaiva?
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 67
 position: 114
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते
 तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 114
 
 
 ### Transliteration
-```
+{{< lines >}}
 indriyāṇāṃ hi caratāṃ yanmano'nuvidhīyate
 tadasya harati prajñāṃ vāyurnāvamivāmbhasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि विचरती हुई इन्द्रियों में से जिस इन्द्रिय के पीछे मन लग जाता है, वह एक ही इस पुरुष की बुद्धि को वैसे ही हर लेती है, जैसे जल में नाव को वायु हर लेती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण इन्द्रियों के वश में होने के खतरे को समझा रहे हैं। जैसे पानी में तैरती हुई नाव को तेज हवा अपने रास्ते से भटका देती है, वैसे ही यदि मन किसी एक भी विषय-भोग में भटकती इन्द्रिय का अनुसरण करने लगे, तो वह मनुष्य की सारी बुद्धि और विवेक को नष्ट कर देता है। इसलिए इन्द्रिय-निग्रह आध्यात्मिक प्रगति के लिए अत्यंत आवश्यक है।
+
+### Translation
+
+For among the roaming senses, whichever the mind follows, that carries away his intelligence, just as the wind sweeps away a boat on the water.
 
 ### Meaning
 

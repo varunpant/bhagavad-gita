@@ -8,11 +8,10 @@ sutra: 10
 position: 424
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनेकवक्त्रनयनमनेकाद्भुतदर्शनम्
 अनेकदिव्याभरणं दिव्यानेकोद्यतायुधम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 424
 
 
 ### Transliteration
-```
+{{< lines >}}
 anekavaktranayanamanekādbhutadarśanam
 anekadivyābharaṇaṃ divyānekodyatāyudham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अनेक मुख और नेत्रों वाले, अनेक अद्भुत दर्शनों वाले, अनेक दिव्य आभूषणों से युक्त और अनेक हाथों में उठाए हुए दिव्य शस्त्रों वाले (उस परम रूप को अर्जुन ने देखा)।
 
 ### भावार्थ
 
 संजय धृतराष्ट्र को भगवान श्रीकृष्ण के विश्वरूप का वर्णन करके सुना रहे हैं। इस श्लोक में उस विराट रूप की अलौकिक विशेषताओं का वर्णन है, जिसमें अनगिनत मुख, नेत्र, दिव्य आभूषण और अस्त्र-शस्त्र दिखाई दे रहे थे। यह रूप साधारण चर्मचक्षुओं से परे और अत्यंत विस्मयकारी था।
+
+### Translation
+
+With many mouths and eyes, presenting many wondrous sights, adorned with numerous divine ornaments, and holding many uplifted divine weapons.
 
 ### Meaning
 

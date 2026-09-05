@@ -8,11 +8,10 @@ sutra: 12
 position: 322
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च
 मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 322
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca
 mūrdhnyādhāyātmanaḥ prāṇamāsthito yogadhāraṇām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सभी द्वारों को वश में करके तथा मन को हृदय में निरुद्ध करके
+अपने प्राण को मस्तक में स्थापित करके योग-धारणा में स्थित होकर
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अंतकाल में प्राण त्यागने की योगिक प्रक्रिया का वर्णन कर रहे हैं। साधक को अपनी सभी इंद्रियों (द्वारों) को बाहरी विषयों से समेटना होता है और मन को हृदय में स्थिर करना होता है। इसके बाद, प्राणवायु को मस्तक (आज्ञा चक्र या सहस्रार) में स्थापित करके योग-धारणा में लीन होना चाहिए।
+
+### Translation
+
+Controlling all the gateways of the body, confining the mind within the heart,
+and drawing the life-breath into the head, one should remain established in yogic concentration
 
 ### Meaning
 

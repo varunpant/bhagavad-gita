@@ -8,11 +8,10 @@ sutra: 11
 position: 130
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 देवान्भावयतानेन ते देवा भावयन्तु वः
 परस्परं भावयन्तः श्रेयः परमवाप्स्यथ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 130
 
 
 ### Transliteration
-```
+{{< lines >}}
 devānbhāvayatānena te devā bhāvayantu vaḥ
 parasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तुम लोग इस (यज्ञ) के द्वारा देवताओं को प्रसन्न करो और वे देवता तुम लोगों को प्रसन्न करें। इस प्रकार एक-दूसरे को प्रसन्न करते हुए तुम लोग परम कल्याण को प्राप्त होओगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण यज्ञ के महत्व को समझाते हैं। वे कहते हैं कि यज्ञ के माध्यम से मनुष्य देवताओं को पुष्ट करते हैं और बदले में देवता वर्षा आदि के रूप में मनुष्यों का भरण-पोषण करते हैं। इस प्रकार परस्पर सहयोग से दोनों ही परम कल्याण को प्राप्त कर सकते हैं।
+
+### Translation
+
+By this, may you nourish the gods, and may those gods nourish you. Thus nourishing one another, you shall attain the supreme good.
 
 ### Meaning
 

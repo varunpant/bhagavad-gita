@@ -8,11 +8,10 @@ sutra: 34
 position: 267
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्
 तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 267
 
 
 ### Transliteration
-```
+{{< lines >}}
 cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham
 tasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कृष्ण! क्योंकि यह मन बड़ा चंचल, प्रमथनशील (मथ डालने वाला), अत्यंत बलवान् और दृढ़ है
+उसका वश में करना मैं वायु की भाँति अत्यंत कठिन मानता हूँ
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन मन की चंचलता और उसकी अनियंत्रित प्रकृति के बारे में अपनी व्यावहारिक कठिनाई व्यक्त कर रहे हैं। वे मन की तुलना तीव्र आंधी या वायु से करते हैं, जिसे रोकना अत्यंत कठिन है। अर्जुन का यह प्रश्न मानव मन की सार्वभौमिक समस्या को दर्शाता है, जिसका समाधान आगे श्री कृष्ण देते हैं।
+
+### Translation
+
+O Krishna, for the mind is restless, turbulent, powerful, and obstinate
+I deem its control to be as difficult as controlling the wind
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 8
 position: 212
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्
 पश्यन् श्रृणवन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपन् श्वसन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 212
 
 
 ### Transliteration
-```
+{{< lines >}}
 naiva kiñcitkaromīti yukto manyeta tattvavit
 paśyan śṛṇvanspṛśañjighrannaśnangacchansvapan śvasan
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तत्त्व को जानने वाला योगी देखता हुआ, सुनता हुआ, स्पर्श करता हुआ, सूँघता हुआ, भोजन करता हुआ, चलता हुआ, सोता हुआ और श्वास लेता हुआ भी यही माने कि "मैं कुछ भी नहीं करता हूँ।"
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक आत्मज्ञानी कर्मयोगी की चेतना का वर्णन करते हैं। ऐसा योगी शरीर और इंद्रियों के सभी स्वाभाविक कार्य करते हुए भी स्वयं को कर्ता नहीं मानता। वह यह भली-भांति जानता है कि सभी कार्य केवल प्रकृति के गुणों और इंद्रियों द्वारा हो रहे हैं, जबकि उसकी वास्तविक आत्मा पूर्णतः अकर्ता और निर्लिप्त है।
+
+### Translation
+
+The yogi who knows the truth should think, "I do nothing at all," even while seeing, hearing, touching, smelling, eating, walking, sleeping, and breathing.
 
 ### Meaning
 

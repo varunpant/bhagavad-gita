@@ -8,11 +8,10 @@ sutra: 24
 position: 257
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः
 मनसैवेन्द्रियग्रामं विनियम्य समन्ततः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 257
 
 
 ### Transliteration
-```
+{{< lines >}}
 saṅkalpaprabhavān kāmāṁs tyaktvā sarvān aśeṣataḥ
 manasaivendriyagrāmaṁ viniyamya samantataḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संकल्प से उत्पन्न होने वाली समस्त कामनाओं को पूरी तरह से त्यागकर और मन के द्वारा ही इन्द्रियों के समूह को सब ओर से भलीभांति वश में करके
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ध्यान योग की साधना के लिए आवश्यक मानसिक नियंत्रण का वर्णन कर रहे हैं। साधक को चाहिए कि वह संकल्प (सांसारिक विचारों और कल्पनाओं) से उत्पन्न होने वाली सभी इच्छाओं का पूरी तरह से त्याग कर दे। इसके बाद, बुद्धि से युक्त मन के द्वारा अपनी सभी ज्ञानेंद्रियों और कर्मेंद्रियों को उनके विषयों से पूरी तरह समेट ले।
+
+### Translation
+
+Abandoning without reserve all desires born of mental speculation, and completely restraining the group of senses from all sides by the mind alone
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 220
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः
 तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 220
 
 
 ### Transliteration
-```
+{{< lines >}}
 jñānena tu tadajñānaṃ yeṣāṃ nāśitamātmanaḥ
 teṣāmādityavajjñānaṃ prakāśayati tatparam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु जिनका वह अज्ञान आत्मज्ञान द्वारा नष्ट कर दिया गया है, उनका वह ज्ञान सूर्य के समान उस परम (तत्त्व) को प्रकाशित कर देता है।
 
 ### भावार्थ
 
 पिछले श्लोक में भगवान ने बताया था कि अज्ञान के कारण जीव मोहग्रस्त हो जाते हैं। इस श्लोक में वे कहते हैं कि जब आत्मज्ञान द्वारा वह अज्ञान नष्ट हो जाता है, तो परम सत्य प्रकट हो जाता है। जिस प्रकार सूर्य का उदय अंधकार को मिटाकर सब कुछ प्रकाशित कर देता है, उसी प्रकार ज्ञान अज्ञान के अंधकार को दूर करके परमेश्वर के स्वरूप को प्रकाशित कर देता है।
+
+### Translation
+
+But for those whose ignorance of the self is destroyed by knowledge, that knowledge illuminates the Supreme Reality like the sun.
 
 ### Meaning
 

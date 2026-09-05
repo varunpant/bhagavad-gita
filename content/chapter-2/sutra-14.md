@@ -8,11 +8,10 @@ sutra: 14
 position: 61
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः
 आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 61
 
 
 ### Transliteration
-```
+{{< lines >}}
 mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ
 āgamāpāyino'nityāstāṃstitikṣasva bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! इन्द्रियों और उनके विषयों के संयोग ही सर्दी-गर्मी और सुख-दुःख देने वाले हैं। ये आने-जाने वाले और अनित्य हैं, इसलिए हे भरतवंशी! तुम उन्हें सहन करो।
 
 ### भावार्थ
 
 श्रीकृष्ण अर्जुन को समझाते हैं कि सर्दी-गर्मी और सुख-दुःख जैसी शारीरिक और मानसिक अनुभूतियाँ केवल इन्द्रियों के उनके विषयों के साथ संपर्क का परिणाम हैं। चूँकि इन अनुभवों की उत्पत्ति और अंत होता है, इसलिए ये अस्थायी और निरंतर बदलने वाले हैं। अतः एक बुद्धिमान व्यक्ति को विचलित हुए बिना इन्हें सहन करना सीखना चाहिए और हर परिस्थिति में समभाव बनाए रखना चाहिए।
+
+### Translation
+
+O son of Kunti, the contacts between the senses and their objects, which give rise to cold and heat, pleasure and pain, are transient, coming and going. Therefore, O descendant of Bharata, endure them.
 
 ### Meaning
 

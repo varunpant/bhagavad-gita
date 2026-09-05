@@ -8,11 +8,10 @@ sutra: 6
 position: 475
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः
 अनन्येनैव योगेन मां ध्यायन्त उपासते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 475
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye tu sarvāṇi karmāṇi mayi saṃnyasya matparāḥ
 ananyenaiva yogena māṃ dhyāyanta upāsate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु जो लोग अपने सभी कर्मों को मुझमें अर्पित करके, मेरे परायण होकर, अनन्य भाव के योग से मेरा ध्यान करते हुए मेरी उपासना करते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण सगुण साकार रूप की उपासना करने वाले भक्तों के लक्षण बता रहे हैं। जो भक्त अपने सभी कर्मों को भगवान को समर्पित कर देते हैं और केवल उन्हीं को अपना परम लक्ष्य मानते हैं, वे अनन्य भक्ति योग में स्थित होते हैं। ऐसे भक्तों का ध्यान निरंतर भगवान में ही लगा रहता है।
+
+### Translation
+
+But those who, dedicating all their actions to Me, regarding Me as the Supreme, worship Me, meditating on Me with single-minded devotion
 
 ### Meaning
 

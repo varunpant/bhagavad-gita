@@ -8,11 +8,11 @@ sutra: 1
 position: 373
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचभूय एव महाबाहो श्रृणु मे परमं वचः
+{{< lines >}}
+श्री भगवानुवाच
+भूय एव महाबाहो श्रृणु मे परमं वचः
 यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 373
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 bhūya eva mahā-bāho śṛṇu me paramaṃ vacaḥ
 yat te 'haṃ prīyamāṇāya vakṣyāmi hita-kāmyayā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+हे महाबाहो! फिर से मेरे परम वचन को सुनो, जिसे मैं तुमसे, जो मुझसे प्रेम करते हो, तुम्हारे कल्याण की इच्छा से कहूँगा।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को पुनः अपने दिव्य ज्ञान को सुनने के लिए प्रेरित कर रहे हैं। वे अर्जुन को 'महाबाहो' कहकर संबोधित करते हैं और बताते हैं कि वे यह परम ज्ञान अर्जुन के प्रति अपने प्रेम और उसके परम कल्याण की इच्छा के कारण प्रकट कर रहे हैं। यह अध्याय १० (विभूति योग) का आरंभिक श्लोक है जहाँ भगवान अपनी दिव्य विभूतियों का वर्णन शुरू करते हैं।
+
+### Translation
+
+The Supreme Lord said:
+O mighty-armed one, listen again to My supreme word, which I shall speak to you, who take delight in Me, out of a desire for your welfare.
 
 ### Meaning
 

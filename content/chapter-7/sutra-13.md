@@ -8,11 +8,10 @@ sutra: 13
 position: 293
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत्
 मोहितं नाभिजानाति मामेभ्यः परमव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 293
 
 
 ### Transliteration
-```
+{{< lines >}}
 tribhirguṇamayairbhāvairebhiḥ sarvamidaṃ jagat
 mohitaṃ nābhijānāti māmebhyaḥ paramavyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इन तीन गुणों से युक्त भावों के द्वारा यह सारा संसार मोहित हो रहा है, इसलिए यह मुझ इन गुणों से परे और अविनाशी को नहीं जानता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि संसार के लोग माया के वश में क्यों हैं। प्रकृति के तीन गुण (सत्त्व, रज, और तम) मनुष्यों की बुद्धि को भ्रमित कर देते हैं। इस मोह के कारण वे परमेश्वर के वास्तविक, अविनाशी और गुणातीत स्वरूप को नहीं पहचान पाते।
+
+### Translation
+
+Deluded by these three states composed of the gunas, this entire world does not know Me, who am beyond them and imperishable.
 
 ### Meaning
 

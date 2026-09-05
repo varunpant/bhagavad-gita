@@ -8,11 +8,10 @@ sutra: 29
 position: 76
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आश्चर्यवत्पश्यति कश्िचदेन     माश्चर्यवद्वदति तथैव चान्यः
 आश्चर्यवच्चैनमन्यः श्रृणोति     श्रुत्वाप्येनं वेद न चैव कश्िचत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 76
 
 
 ### Transliteration
-```
+{{< lines >}}
 āścaryavat paśyati kaścid enam āścaryavad vadati tathaiva cānyaḥ
 āścaryavac cainam anyaḥ śṛṇoti śrutvāpy enaṃ veda na caiva kaścit
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कोई इस आत्मा को आश्चर्य की भाँति देखता है, कोई अन्य इसका आश्चर्य की भाँति वर्णन करता है, तथा कोई अन्य इसे आश्चर्य की भाँति सुनता है; और सुनकर भी कोई इसे बिल्कुल नहीं जान पाता है।
 
 ### भावार्थ
 
 भगवान कृष्ण शाश्वत आत्मा की गहन और अकल्पनीय प्रकृति का वर्णन करते हैं। चूँकि आत्मा भौतिक इंद्रियों और मन की पहुँच से परे है, इसलिए लोग इसे घोर आश्चर्य की दृष्टि से देखते हैं। शास्त्रों को पढ़ने या गुरुओं से सुनने के बावजूद, बहुत कम लोग ही आत्मा के वास्तविक दिव्य स्वरूप को समझ पाते हैं।
+
+### Translation
+
+Someone looks upon this soul as a wonder, another speaks of it as a wonder, and another hears of it as a wonder; yet even after hearing of it, no one understands it at all.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 6
 position: 577
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च
 दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे श्रृणु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 577
 
 
 ### Transliteration
-```
+{{< lines >}}
 dvau bhūtasargau loke'smin daiva āsura eva ca
 daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस संसार में प्राणियों के दो ही प्रकार के स्वभाव (सृष्टियाँ) हैं — दैवी और आसुरी।
+दैवी स्वभाव के बारे में विस्तार से कहा गया है, अब हे पार्थ! आसुरी स्वभाव के विषय में मुझसे सुनो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि इस संसार में मनुष्यों के दो ही मुख्य स्वभाव या प्रवृत्तियाँ होती हैं - दैवी और आसुरी। दैवी गुणों का वर्णन पहले के श्लोकों में विस्तार से किया जा चुका है। अब कृष्ण अर्जुन को आसुरी स्वभाव के लक्षणों को ध्यान से सुनने के लिए कहते हैं ताकि वे उनसे बच सकें।
+
+### Translation
+
+There are two types of created beings in this world — the divine and the demoniac.
+The divine has been described at length; now hear from Me, O Partha, about the demoniac.
 
 ### Meaning
 

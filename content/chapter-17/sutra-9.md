@@ -8,11 +8,10 @@ sutra: 9
 position: 604
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः
 आहारा राजसस्येष्टा दुःखशोकामयप्रदाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 604
 
 
 ### Transliteration
-```
+{{< lines >}}
 kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ
 āhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कड़वे, खट्टे, नमकीन, अत्यधिक गर्म, तीखे, रूखे और दाहकारक भोजन
+राजसी व्यक्ति को प्रिय होते हैं, जो दुःख, शोक और रोग प्रदान करने वाले हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजसी भोजन के लक्षणों का वर्णन कर रहे हैं। जो भोजन अति कड़वे, अति खट्टे, अति नमकीन, बहुत गर्म, तीखे, रूखे और शरीर में जलन पैदा करने वाले होते हैं, वे रजोगुणी मनुष्यों को प्रिय होते हैं। ऐसा भोजन तात्कालिक स्वाद तो दे सकता है, परंतु अंततः यह दुःख, मानसिक चिंता और शारीरिक रोगों को जन्म देता है।
+
+### Translation
+
+Foods that are bitter, sour, salty, excessively hot, pungent, dry, and burning
+are dear to those in the mode of passion, and they cause pain, grief, and disease
 
 ### Meaning
 

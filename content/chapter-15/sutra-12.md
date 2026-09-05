@@ -8,11 +8,10 @@ sutra: 12
 position: 563
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदादित्यगतं तेजो जगद्भासयतेऽखिलम्
 यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 563
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadādityagataṃ tejo jagadbhāsayate'khilam
 yaccandramasi yaccāgnau tattejo viddhi māmakam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो तेज सूर्य में स्थित होकर संपूर्ण जगत को प्रकाशित करता है, और जो तेज चन्द्रमा में है तथा जो अग्नि में है, उस तेज को तुम मेरा ही समझो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी सर्वव्यापकता और ऐश्वर्य का वर्णन कर रहे हैं। वे अर्जुन को बताते हैं कि संसार को प्रकाशित करने वाली समस्त ऊर्जा और प्रकाश—चाहे वह सूर्य का हो, चन्द्रमा का हो या अग्नि का—वह सब उन्हीं का दिव्य तेज है। इसके माध्यम से वे यह स्पष्ट करते हैं कि जगत के जीवन और प्रकाश के मूल स्रोत वे स्वयं ही हैं।
+
+### Translation
+
+That splendor which is situated in the sun and illumines the entire world, and that which is in the moon and in the fire, know that splendor to be Mine.
 
 ### Meaning
 

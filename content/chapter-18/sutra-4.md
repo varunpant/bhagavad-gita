@@ -8,11 +8,10 @@ sutra: 4
 position: 627
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 निश्चयं श्रृणु मे तत्र त्यागे भरतसत्तम
 त्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 627
 
 
 ### Transliteration
-```
+{{< lines >}}
 niścayaṃ śṛṇu me tatra tyāge bharatasattama
 tyāgo hi puruṣavyāghra trividhaḥ saṃprakīrtitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतश्रेष्ठ! उस त्याग के विषय में तुम मेरा निश्चय सुनो।
+हे पुरुषसिंह! त्याग निश्चय ही तीन प्रकार का कहा गया है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को त्याग के विषय में अपना निश्चित मत सुनने के लिए कहते हैं। वे अर्जुन को 'भरतसत्तम' और 'पुरुषव्याघ्र' जैसे वीर संबोधनों से पुकारते हैं। श्रीकृष्ण स्पष्ट करते हैं कि त्याग को शास्त्रों में तीन प्रकार का बताया गया है, जिसकी व्याख्या वे आगे करेंगे।
+
+### Translation
+
+O best of the Bharatas, hear My decision regarding that abdication.
+O tiger among men, abdication indeed has been declared to be of three kinds.
 
 ### Meaning
 

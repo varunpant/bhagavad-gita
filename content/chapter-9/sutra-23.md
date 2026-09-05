@@ -8,11 +8,10 @@ sutra: 23
 position: 361
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयाऽन्विताः
 तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 361
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye 'py anyadevatā bhaktā yajante śraddhayānvitāḥ
 te 'pi mām eva kaunteya yajanty avidhipūrvakam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! जो भी अन्य देवताओं के भक्त हैं और श्रद्धा से युक्त होकर उनका पूजन करते हैं, वे भी वास्तव में मेरा ही पूजन करते हैं, किन्तु वह पूजन अविधिपूर्वक (अज्ञानवश) होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि परम सत्य केवल एक ही है। जो लोग अन्य देवी-देवताओं की श्रद्धापूर्वक पूजा करते हैं, वे भी परोक्ष रूप से परमेश्वर की ही पूजा कर रहे होते हैं क्योंकि सभी शक्तियां उन्हीं से आती हैं। परन्तु, क्योंकि वे इस परम सत्य को सीधे नहीं जानते, इसलिए उनकी यह पूजा अविधिपूर्वक अर्थात् अज्ञान और गलत विधि से की गई मानी जाती है।
+
+### Translation
+
+O son of Kunti, even those devotees who worship other demigods with faith, they too worship Me alone, but they do so in an improper manner.
 
 ### Meaning
 

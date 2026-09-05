@@ -8,11 +8,10 @@ sutra: 15
 position: 134
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्
 तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 134
 
 
 ### Transliteration
-```
+{{< lines >}}
 karma brahmodbhavaṃ viddhi brahmākṣarasamudbhavam
 tasmātsarvagataṃ brahma nityaṃ yajñe pratiṣṭhitam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कर्मों को तुम वेद से उत्पन्न हुआ जानो, और वेद को अविनाशी परमात्मा से उत्पन्न हुआ जानो। इसलिए सर्वव्यापी परमात्मा नित्य ही यज्ञ में प्रतिष्ठित है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण यज्ञ के दिव्य चक्र की व्याख्या करते हैं। वे बताते हैं कि नियत कर्मों का विधान वेदों में है और वेद स्वयं अविनाशी परमात्मा से प्रकट हुए हैं। चूँकि परमात्मा ही इन कर्मों का मूल स्रोत है, इसलिए सर्वव्यापी परब्रह्म सदैव यज्ञ (निःस्वार्थ कर्म) में उपस्थित रहता है।
+
+### Translation
+
+Know that action originates from the Vedas, and the Vedas originate from the Imperishable. Therefore, the all-pervading Supreme is eternally situated in sacrifice.
 
 ### Meaning
 

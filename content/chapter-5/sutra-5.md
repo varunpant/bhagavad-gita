@@ -8,11 +8,10 @@ sutra: 5
 position: 209
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यत्सांख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते
 एकं सांख्यं च योगं च यः पश्यति स पश्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 209
 
 
 ### Transliteration
-```
+{{< lines >}}
 yat sāṅkhyaiḥ prāpyate sthānaṃ tad yogair api gamyate
 ekaṃ sāṅkhyaṃ ca yogaṃ ca yaḥ paśyati sa paśyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ज्ञान योगियों द्वारा जो स्थान प्राप्त किया जाता है, वही स्थान कर्म योगियों द्वारा भी प्राप्त किया जाता है। जो सांख्य (ज्ञान योग) और योग (कर्म योग) को एक देखता है, वही यथार्थ देखता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि ज्ञान योग (सांख्य) और निष्काम कर्म योग दोनों का अंतिम लक्ष्य एक ही है। यद्यपि उनके साधन अलग-अलग प्रतीत होते हैं, फिर भी वे दोनों एक ही आध्यात्मिक मुक्ति की अवस्था तक ले जाते हैं। इसलिए, जो सच्चा ज्ञानी है, वह इन दोनों मार्गों को मूल रूप से एक ही मानता है।
+
+### Translation
+
+The state that is attained by the followers of Sankhya is also reached by the followers of Yoga. He who sees Sankhya and Yoga as one, he truly sees.
 
 ### Meaning
 

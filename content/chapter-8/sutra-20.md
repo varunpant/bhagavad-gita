@@ -8,11 +8,10 @@ sutra: 20
 position: 330
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः
 यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 330
 
 
 ### Transliteration
-```
+{{< lines >}}
 paras tasmāt tu bhāvo 'nyo 'vyakto 'vyaktāt sanātanaḥ
 yaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु उस अव्यक्त से भी परे दूसरा सनातन अव्यक्त भाव है
+जो सब भूतों के नष्ट होने पर भी नष्ट नहीं होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को परम सत्य के बारे में बता रहे हैं। ब्रह्मा के दिन और रात के चक्र से परे एक और सनातन सत्ता है जो कभी नष्ट नहीं होती। जब प्रलय काल में सभी भौतिक प्राणी और लोक नष्ट हो जाते हैं, तब भी वह दिव्य परम धाम और परम पुरुष सदा स्थिर रहते हैं।
+
+### Translation
+
+But beyond that unmanifested, there is another eternal unmanifested existence
+which, when all beings perish, does not perish
 
 ### Meaning
 

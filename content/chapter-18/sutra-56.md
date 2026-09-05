@@ -8,11 +8,10 @@ sutra: 56
 position: 679
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः
 मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 679
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ
 matprasādādavāpnoti śāśvataṃ padamavyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझ पर पूर्णतः आश्रित रहने वाला मनुष्य सदा सब प्रकार के कर्मों को करता हुआ भी मेरी कृपा से सनातन अविनाशी परम पद को प्राप्त कर लेता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण भक्ति की महिमा का वर्णन कर रहे हैं। जो भक्त अपने सभी कर्मों को भगवान को समर्पित कर देता है और केवल उन्हीं की शरण में रहता है, वह कर्मों के बंधन से मुक्त हो जाता है। भगवान की अहैतुकी कृपा से ऐसा साधक परम धाम को प्राप्त करता है, जो कभी नष्ट नहीं होता।
+
+### Translation
+
+Though performing all kinds of actions at all times, one who has taken full refuge in Me attains, by My grace, the eternal and imperishable state
 
 ### Meaning
 

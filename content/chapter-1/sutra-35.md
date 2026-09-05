@@ -8,11 +8,10 @@ sutra: 35
 position: 35
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन
 अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ them for the sake of the earth.
 
 
 ### Transliteration
-```
+{{< lines >}}
 etānna hantumicchāmi ghnato'pi madhusūdana
 api trailokyarājyasya hetoḥ kiṃ nu mahīkṛte
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे मधुसूदन! मुझे मारने पर भी, अथवा तीनों लोकों के राज्य के लिए भी, मैं इन्हें मारना नहीं चाहता, फिर पृथ्वी के लिए तो कहना ही क्या।
 
 ### भावार्थ
 
 अर्जुन अपनी गहरी निराशा और स्वजनों से युद्ध न करने की इच्छा व्यक्त करते हैं। वे श्रीकृष्ण से कहते हैं कि यदि उन्हें तीनों लोकों का राज्य भी मिल जाए, तो भी वे अपने सगे-संबंधियों का वध नहीं करना चाहते। केवल इस पृथ्वी के राज्य के लिए तो ऐसा घोर पाप करने का प्रश्न ही नहीं उठता।
+
+### Translation
+
+O Madhusudana, even if they kill me, I do not wish to kill them, even for the sake of the kingdom of the three worlds, let alone for the earth.
 
 ### Meaning
 

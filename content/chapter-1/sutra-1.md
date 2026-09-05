@@ -8,12 +8,11 @@ sutra: 1
 position: 1
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 धृतराष्ट्र उवाच
 धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः
 मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -37,16 +36,25 @@ together eager for battle on the holy plain of Kurukshetra, O Sanjaya.
 
 
 ### Transliteration
-```
+{{< lines >}}
 dhṛtarāṣṭra uvāca
 dharmakṣetre kurukṣetre samavetā yuyutsavaḥ
 māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya
+{{< /lines >}}
 
-```
+### अनुवाद
+
+धृतराष्ट्र ने कहा —
+हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे और पाण्डु के पुत्रों ने क्या किया?
 
 ### भावार्थ
 
 यह भगवद्गीता का पहला श्लोक है जहाँ अंधे राजा धृतराष्ट्र अपने मंत्री संजय से कुरुक्षेत्र के युद्ध के बारे में पूछते हैं। वे कुरुक्षेत्र को 'धर्मक्षेत्र' कहते हैं, जो यह दर्शाता है कि इस युद्ध में धर्म और अधर्म के बीच निर्णय होना है। धृतराष्ट्र का अपने पुत्रों ('मामकाः') और पाण्डु के पुत्रों के बीच का भेद उनके मोह और पक्षपात को उजागर करता है।
+
+### Translation
+
+Dhritarashtra said:
+O Sanjaya, what did my sons and the sons of Pandu do, having assembled in the holy land of Kurukshetra, desiring to fight?
 
 ### Meaning
 

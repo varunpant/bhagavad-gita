@@ -8,11 +8,10 @@ sutra: 19
 position: 181
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः
 ज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 181
 
 
 ### Transliteration
-```
+{{< lines >}}
 yasya sarve samārambhāḥ kāmasaṅkalpavarjitāḥ
 jñānāgnidagdhakarmāṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिसके सम्पूर्ण कार्य कामना और संकल्प से रहित हैं, तथा जिसके कर्म ज्ञान रूपी अग्नि में भस्म हो गए हैं, ज्ञानी जन उसे पण्डित कहते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक सच्चे ज्ञानी (पण्डित) के लक्षण बताते हैं। जो व्यक्ति बिना किसी स्वार्थ, फल की इच्छा या अहंकार के अपने सभी कर्तव्य निभाता है, उसके कर्म ज्ञान की अग्नि में शुद्ध हो जाते हैं। ऐसे व्यक्ति को ही तत्वदर्शी और बुद्धिमान लोग सच्चा पण्डित मानते हैं, क्योंकि वह कर्म करते हुए भी कर्मबंधनों से मुक्त रहता है।
+
+### Translation
+
+He whose all undertakings are devoid of desire and resolve, and whose actions are burned up in the fire of knowledge, him the wise call a sage.
 
 ### Meaning
 

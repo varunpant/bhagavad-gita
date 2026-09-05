@@ -8,11 +8,10 @@ sutra: 16
 position: 430
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनेकबाहूदरवक्त्रनेत्रं    पश्यामि त्वां सर्वतोऽनन्तरूपम्
 नान्तं न मध्यं न पुनस्तवादिं    पश्यामि विश्वेश्वर विश्वरूप
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 430
 
 
 ### Transliteration
-```
-anekabāhūdaravaktranetraṃ
-paśyāmi tvāṃ sarvato'nantarūpam
-nāntaṃ na madhyaṃ na punastavādiṃ
-paśyāmi viśveśvara viśvarūpa
+{{< lines >}}
+anekabāhūdaravaktranetraṃ paśyāmi tvāṃ sarvato'nantarūpam
+nāntaṃ na madhyaṃ na punastavādiṃ paśyāmi viśveśvara viśvarūpa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं आपको अनेक हाथ, पेट, मुख और नेत्रों से युक्त तथा सब ओर से अनन्त रूपों वाला देख रहा हूँ। हे विश्वेश्वर! हे विश्वरूप! मैं आपके न तो अन्त को, न मध्य को और न ही आदि को देख रहा हूँ।
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण के विराट रूप का दर्शन करते हुए विस्मय और भय से भर गए हैं। वे देखते हैं कि भगवान का यह रूप असीम है, जिसकी कोई सीमा नहीं है। इस विराट स्वरूप में न तो कोई शुरुआत दिखाई देती है, न मध्य और न ही कोई अंत, क्योंकि वे स्वयं ही संपूर्ण ब्रह्मांड हैं।
+
+### Translation
+
+I see You with countless arms, bellies, mouths, and eyes, possessing infinite forms on every side. O Lord of the universe, O cosmic form, I see neither Your end, nor Your middle, nor Your beginning.
 
 ### Meaning
 

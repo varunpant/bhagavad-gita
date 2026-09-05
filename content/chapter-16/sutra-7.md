@@ -8,11 +8,10 @@ sutra: 7
 position: 578
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः
 न शौचं नापि चाचारो न सत्यं तेषु विद्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 578
 
 
 ### Transliteration
-```
+{{< lines >}}
 pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ
 na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आसुरी स्वभाव वाले मनुष्य यह नहीं जानते कि क्या करना चाहिए (प्रवृत्ति) और किस कार्य से पीछे हटना चाहिए (निवृत्ति)। उनमें न तो बाहर-भीतर की शुद्धि होती है, न सदाचार और न ही सत्य होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण आसुरी प्रवृत्ति के मनुष्यों के लक्षणों का वर्णन कर रहे हैं। ऐसे लोगों को धर्मानुकूल कर्मों में प्रवृत्त होने और अधर्मयुक्त कर्मों से निवृत्त होने का ज्ञान नहीं होता। उनके जीवन में आंतरिक और बाह्य पवित्रता, उत्तम आचरण तथा सत्य भाषण का सर्वथा अभाव होता है।
+
+### Translation
+
+Demonic persons do not know what to do and what to refrain from doing. Neither purity, nor right conduct, nor truthfulness is found in them.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 23
 position: 227
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात्
 कामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 227
 
 
 ### Transliteration
-```
+{{< lines >}}
 śaknotīhaiva yaḥ soḍhuṃ prākśarīravimokṣaṇāt
 kāmakrodhodbhavaṃ vegaṃ sa yuktaḥ sa sukhī naraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य इस शरीर के छूटने से पहले ही, काम और क्रोध से उत्पन्न होने वाले वेग को सहन करने में समर्थ हो जाता है, वही योगी है और वही सुखी मनुष्य है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण समत्व और मन के नियंत्रण के महत्त्व को समझा रहे हैं। वे कहते हैं कि मृत्यु से पूर्व ही जो व्यक्ति काम और क्रोध के वेग को वश में करना सीख लेता है, वही वास्तविक योगी है। ऐसा व्यक्ति ही इस संसार में सच्चा सुख और शांति प्राप्त कर सकता है क्योंकि वह भौतिक विकारों से विचलित नहीं होता।
+
+### Translation
+
+He who is able to withstand, here itself before liberation from the body, the urge arising from desire and anger, he is united, he is a happy man.
 
 ### Meaning
 

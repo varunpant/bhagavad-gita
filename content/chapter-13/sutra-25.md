@@ -8,11 +8,10 @@ sutra: 25
 position: 514
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना
 अन्ये सांख्येन योगेन कर्मयोगेन चापरे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 514
 
 
 ### Transliteration
-```
+{{< lines >}}
 dhyānenātmani paśyanti kecidātmānamātmanā
 anye sāṅkhyena yogena karmayogena cāpare
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कुछ लोग ध्यान के द्वारा अपने अंतःकरण में परमात्मा को अपनी बुद्धि से देखते हैं, दूसरे ज्ञानयोग के द्वारा और अन्य निष्काम कर्मयोग के द्वारा देखते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण परमात्मा की प्राप्ति के विभिन्न मार्गों का वर्णन कर रहे हैं। ध्यान मार्ग, ज्ञान मार्ग (सांख्य योग) और निष्काम कर्म मार्ग (कर्म योग) — ये सभी एक ही परम सत्य की अनुभूति के विभिन्न साधन हैं। साधक अपनी रुचि और योग्यता के अनुसार इनमें से किसी भी मार्ग का चयन कर सकता है।
+
+### Translation
+
+Some perceive the Self within themselves through meditation, others by the path of knowledge (Sankhya Yoga), and still others by the path of selfless action (Karma Yoga).
 
 ### Meaning
 

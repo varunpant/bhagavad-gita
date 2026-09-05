@@ -8,11 +8,10 @@ sutra: 44
 position: 91
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्
 व्यवसायात्मिका बुद्धिः समाधौ न विधीयते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 91
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām
 vyavasāyātmikā buddhiḥ samādhau na vidhīyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो लोग भोग और ऐश्वर्य में आसक्त हैं, और जिनका मन उन वाणियों द्वारा हर लिया गया है, उनकी समाधि में निश्चयात्मिका बुद्धि स्थापित नहीं होती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण भौतिक सुखों और शक्ति के प्रति अत्यधिक आसक्ति के परिणामों को समझाते हैं। जब किसी व्यक्ति का मन सांसारिक पुरस्कारों के लिए वेदों के पुष्पित वादों द्वारा मोहित हो जाता है, तो वह अपना आध्यात्मिक लक्ष्य खो देता है। परिणामस्वरूप, आत्म-साक्षात्कार या स्थिर ध्यान (समाधि) प्राप्त करने के लिए आवश्यक दृढ़ निश्चय उनके मन में स्थापित नहीं हो पाता है।
+
+### Translation
+
+For those who are attached to enjoyment and opulence, and whose minds are carried away by such words, a resolute intellect is not established in samadhi.
 
 ### Meaning
 

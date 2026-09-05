@@ -8,11 +8,10 @@ sutra: 7
 position: 317
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च
 मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 317
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasmāt sarveṣu kāleṣu mām anusmara yudhya ca
 mayy arpita-mano-buddhir mām evaiṣyasy asaṃśayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए तुम सब समय में मेरा स्मरण करो और युद्ध भी करो
+मुझमें अर्पित मन और बुद्धि वाला होकर तुम निस्संदेह मुझे ही प्राप्त होगे
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को कर्म और भक्ति के समन्वय का उपदेश दे रहे हैं। वे कहते हैं कि अपने कर्तव्य (युद्ध) का पालन करते हुए भी निरंतर ईश्वर का स्मरण किया जा सकता है। जब मनुष्य अपने मन और बुद्धि को परमात्मा में समर्पित कर देता है, तो वह संसार में रहते हुए भी अंततः परमात्मा को ही प्राप्त होता है।
+
+### Translation
+
+Therefore, at all times remember Me and fight
+With your mind and intellect absorbed in Me, you will surely come to Me alone, without doubt
 
 ### Meaning
 

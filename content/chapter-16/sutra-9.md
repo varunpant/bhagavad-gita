@@ -8,11 +8,10 @@ sutra: 9
 position: 580
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः
 प्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 580
 
 
 ### Transliteration
-```
+{{< lines >}}
 etāṃ dṛṣṭim avaṣṭabhya naṣṭātmāno 'lpabuddhayaḥ
 prabhavanty ugrakarmāṇaḥ kṣayāya jagato 'hitāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस अज्ञानपूर्ण दृष्टि का आश्रय लेकर, जिनका स्वभाव नष्ट हो गया है और जिनकी बुद्धि मन्द है, वे क्रूर कर्म करने वाले और संसार के शत्रु, जगत के विनाश के लिए ही उत्पन्न होते हैं
 
 ### भावार्थ
 
 इस श्लोक में आसुरी प्रवृत्ति के लोगों के विनाशकारी स्वभाव का वर्णन किया गया है। जो लोग ईश्वर और धर्म को नकारते हैं, वे अपनी संकीर्ण बुद्धि के कारण केवल विनाशकारी कार्यों में ही प्रवृत्त होते हैं। उनके कर्म समाज और सृष्टि के लिए अहितकर होते हैं और वे अंततः संसार के विनाश का कारण बनते हैं।
+
+### Translation
+
+Holding fast to this view, these ruined souls of small intellect, performing fierce deeds, rise as enemies of the world for its destruction
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 19
 position: 223
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः
 निर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 223
 
 
 ### Transliteration
-```
+{{< lines >}}
 ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ
 nirdoṣaṃ hi samaṃ brahma tasmādbrahmaṇi te sthitāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यहाँ (इसी जीवन में) ही उनके द्वारा संसार जीत लिया गया है, जिनका मन समभाव में स्थित है। निश्चय ही ब्रह्म निर्दोष और सम है, इसलिए वे ब्रह्म में ही स्थित हैं।
 
 ### भावार्थ
 
 भगवान कृष्ण समदृष्टि विकसित करने का गहरा परिणाम बताते हैं। जिन लोगों का मन सभी परिस्थितियों में समभाव में स्थित रहता है, उन्होंने इसी जीवन में जन्म-मृत्यु के चक्र को जीत लिया है। चूँकि परब्रह्म सर्वथा निर्दोष और सम है, इसलिए समता का आचरण करने वाले ऐसे ज्ञानी पुरुष ब्रह्म में ही स्थित माने जाते हैं।
+
+### Translation
+
+Even here (in this life), the creation is conquered by those whose minds are established in equanimity. Indeed, Brahman is flawless and equal; therefore, they are established in Brahman.
 
 ### Meaning
 

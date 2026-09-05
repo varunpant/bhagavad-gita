@@ -8,11 +8,10 @@ sutra: 3
 position: 492
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत
 क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 492
 
 
 ### Transliteration
-```
+{{< lines >}}
 kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata
 kṣetrakṣetrajñayorjñānaṃ yattajjñānaṃ mataṃ mama
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी अर्जुन! तुम मुझे भी सब क्षेत्रों में क्षेत्रज्ञ (ज्ञाता) जानो। क्षेत्र और क्षेत्रज्ञ का जो ज्ञान है, वही मेरे मत में वास्तविक ज्ञान है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रत्येक शरीर (क्षेत्र) में जो जीवात्मा है, वह तो क्षेत्रज्ञ है ही, परंतु उन सभी शरीरों में परमात्मा रूप से स्थित वे स्वयं भी क्षेत्रज्ञ हैं। भौतिक शरीर और उसमें वास करने वाली आत्मा तथा परमात्मा के इस भेद और संबंध को जानना ही वास्तविक ज्ञान है। अन्य सभी सांसारिक विद्याएँ इस आध्यात्मिक ज्ञान के समक्ष गौण हैं।
+
+### Translation
+
+O descendant of Bharata, know Me to be the Knower of the field in all fields. The knowledge of the field and the knower of the field is what I consider to be true knowledge.
 
 ### Meaning
 

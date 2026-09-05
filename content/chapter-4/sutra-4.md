@@ -8,12 +8,11 @@ sutra: 4
 position: 166
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 अपरं भवतो जन्म परं जन्म विवस्वतः
 कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 166
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 aparaṃ bhavato janma paraṃ janma vivasvataḥ
 katham etad vijānīyāṃ tvam ādau proktavān iti
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+आपका जन्म तो अभी हाल का (अर्वाचीन) है, और विवस्वान (सूर्य) का जन्म बहुत प्राचीन है। मैं इस बात को कैसे समझूँ कि आपने ही सृष्टि के आदि में यह उपदेश दिया था?
 
 ### भावार्थ
 
 अर्जुन श्रीकृष्ण और सूर्यदेव की शारीरिक आयु के आधार पर एक स्वाभाविक संदेह व्यक्त करते हैं। चूँकि श्रीकृष्ण का जन्म हाल ही में हुआ है और विवस्वान का जन्म लाखों वर्ष पूर्व हुआ था, इसलिए अर्जुन यह नहीं समझ पा रहे हैं कि श्रीकृष्ण ने उन्हें यह ज्ञान कैसे दिया। यह प्रश्न श्रीकृष्ण को अपने दिव्य स्वरूप और अवतार के रहस्य को प्रकट करने का अवसर प्रदान करता है।
+
+### Translation
+
+Arjuna said:
+Your birth is recent, and the birth of Vivasvan is ancient. How am I to understand this, that You taught this in the beginning?
 
 ### Meaning
 

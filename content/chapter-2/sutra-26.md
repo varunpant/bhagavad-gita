@@ -8,11 +8,10 @@ sutra: 26
 position: 73
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्
 तथापि त्वं महाबाहो नैवं शोचितुमर्हसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 73
 
 
 ### Transliteration
-```
+{{< lines >}}
 atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam
 tathāpi tvaṃ mahābāho naivaṃ śocitumarhasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और यदि तुम इस आत्मा को सदा जन्मने वाला तथा सदा मरने वाला मानते हो, तो भी हे महाबाहु! तुम्हें इस प्रकार शोक नहीं करना चाहिए।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन के समक्ष एक वैकल्पिक दृष्टिकोण प्रस्तुत करते हैं। यदि कोई यह मान ले कि आत्मा नित्य जन्म लेती है और नित्य मरती है, तो भी शोक करना अनुचित है। जन्म और मृत्यु एक अपरिहार्य प्राकृतिक प्रक्रिया है, इसलिए इस पर विलाप करना व्यर्थ है।
+
+### Translation
+
+If, however, you think this soul is constantly born and constantly dies, even then, O mighty-armed one, you should not grieve like this.
 
 ### Meaning
 

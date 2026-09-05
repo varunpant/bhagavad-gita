@@ -8,11 +8,10 @@ sutra: 72
 position: 119
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति
 स्थित्वाऽस्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 119
 
 
 ### Transliteration
-```
+{{< lines >}}
 eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati
 sthitvā'syāmantakāle'pi brahmanirvāṇamṛcchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! यह ब्राह्मी स्थिति है। इसे प्राप्त करके मनुष्य कभी मोहित नहीं होता। अन्तकाल (मृत्यु के समय) में भी इस स्थिति में स्थित होकर वह ब्रह्म-निर्वाण (मोक्ष) को प्राप्त कर लेता है।
 
 ### भावार्थ
 
 यह श्लोक भगवद्गीता के दूसरे अध्याय का समापन करता है। इसमें भगवान कृष्ण एक आत्म-साक्षात्कारी और स्थितप्रज्ञ व्यक्ति की अंतिम अवस्था का वर्णन करते हैं। वे स्पष्ट करते हैं कि जो व्यक्ति इस दिव्य चेतना को प्राप्त कर लेता है, वह फिर कभी सांसारिक मोह में नहीं फँसता। यदि जीवन के अंतिम क्षणों में भी कोई इस ब्राह्मी स्थिति में स्थित हो जाए, तो वह जन्म-मृत्यु के चक्र से मुक्त होकर परब्रह्म को प्राप्त कर लेता है।
+
+### Translation
+
+O Partha, this is the state of realization in Brahman. Having attained this, one is never deluded. Being situated in this state even at the hour of death, one attains liberation in Brahman.
 
 ### Meaning
 

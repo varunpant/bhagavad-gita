@@ -8,11 +8,10 @@ sutra: 22
 position: 394
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वेदानां सामवेदोऽस्मि देवानामस्मि वासवः
 इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 394
 
 
 ### Transliteration
-```
+{{< lines >}}
 vedānāṃ sāmavedo'smi devānāmasmi vāsavaḥ
 indriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वेदों में मैं सामवेद हूँ, देवताओं में मैं इन्द्र हूँ
+इन्द्रियों में मैं मन हूँ और जीवित प्राणियों में मैं चेतना हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को अपनी दिव्य विभूतियों का वर्णन कर रहे हैं। वे बताते हैं कि वेदों में वे संगीत और उपासना प्रधान सामवेद हैं, और देवताओं में उनके राजा इन्द्र (वासव) हैं। इसी प्रकार, ग्यारह इन्द्रियों में वे सबसे प्रधान 'मन' हैं, और सभी जीवित प्राणियों में जीवन का मुख्य लक्षण 'चेतना' (प्राण-शक्ति) हैं।
+
+### Translation
+
+Of the Vedas I am the Sama Veda; of the demigods I am Indra
+of the senses I am the mind, and in living beings I am consciousness
 
 ### Meaning
 

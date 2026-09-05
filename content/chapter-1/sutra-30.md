@@ -8,11 +8,10 @@ sutra: 30
 position: 30
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते
 न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ all over; I am unable even to stand and my mind is reeling, as it were.
 
 
 ### Transliteration
-```
+{{< lines >}}
 gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate
 na ca śaknomyavasthātuṃ bhramatīva ca me manaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मेरे हाथ से गाण्डीव धनुष गिर रहा है और मेरी त्वचा जल रही है। मैं खड़ा रहने में भी असमर्थ हूँ और मेरा मन भ्रमित सा हो रहा है।
 
 ### भावार्थ
 
 अर्जुन युद्ध के मैदान में अपने स्वजनों को देखकर अपनी गंभीर शारीरिक और मानसिक पीड़ा का वर्णन कर रहे हैं। उनके हाथ से दिव्य धनुष गाण्डीव का गिरना उनकी इच्छाशक्ति और युद्ध के संकल्प के पूरी तरह से नष्ट होने का प्रतीक है। यह श्लोक दर्शाता है कि अत्यधिक शोक और मोह बड़े-बड़े योद्धाओं को भी कैसे पंगु बना सकता है।
+
+### Translation
+
+The Gandiva bow is slipping from my hand, and my skin is burning all over. I am unable to stand, and my mind seems to be whirling.
 
 ### Meaning
 

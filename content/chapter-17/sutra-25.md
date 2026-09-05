@@ -8,11 +8,10 @@ sutra: 25
 position: 620
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः
 दानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 620
 
 
 ### Transliteration
-```
+{{< lines >}}
 tad ity anabhisandhāya phalaṃ yajñatapaḥkriyāḥ
 dānakriyāś ca vividhāḥ kriyante mokṣakāṅkṣibhiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+फल की इच्छा न रखकर, 'तत्' इस नाम के उच्चारण के साथ विभिन्न प्रकार के यज्ञ, तप और दान की क्रियाएँ मोक्ष चाहने वाले पुरुषों द्वारा की जाती हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जो लोग मोक्ष की इच्छा रखते हैं, वे अपने कर्मों के फलों के प्रति आसक्ति का त्याग करते हैं। वे 'तत्' (जिसका अर्थ 'वह' परम सत्य है) शब्द का उच्चारण करके यज्ञ, तपस्या और दान के कार्य करते हैं। ऐसा करने से उनके कर्म उन्हें सांसारिक बंधनों में नहीं बांधते और वे परम गति को प्राप्त करते हैं।
+
+### Translation
+
+Without aiming at the fruit, various acts of sacrifice, austerity, and charity are performed by those seeking liberation, with the utterance of the word 'Tat'
 
 ### Meaning
 

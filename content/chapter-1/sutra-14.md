@@ -8,11 +8,10 @@ sutra: 14
 position: 14
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ
 माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ conches.
 
 
 ### Transliteration
-```
+{{< lines >}}
 tataḥ śvetairhayairyukte mahati syandane sthitau
 mādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तदनन्तर, सफेद घोड़ों से जुते हुए विशाल रथ पर बैठे हुए माधव (श्रीकृष्ण) और पाण्डव (अर्जुन) ने अपने-अपने दिव्य शंख बजाए।
 
 ### भावार्थ
 
 यह श्लोक युद्धभूमि में एक महत्वपूर्ण मोड़ को दर्शाता है जहाँ पाण्डव पक्ष कौरवों की शंखध्वनि का उत्तर देता है। श्रीकृष्ण और अर्जुन द्वारा अपने दिव्य शंखों को बजाना धर्मयुद्ध के लिए उनकी तत्परता को सिद्ध करता है। सफेद घोड़ों वाले विशाल रथ का वर्णन उनके ईश्वरीय समर्थन और निश्चित विजय का संकेत देता है।
+
+### Translation
+
+Then, seated in a magnificent chariot yoked with white horses, Madhava (Krishna) and Pandava (Arjuna) blew their divine conches.
 
 ### Meaning
 

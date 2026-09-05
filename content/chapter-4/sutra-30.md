@@ -8,11 +8,10 @@ sutra: 30
 position: 192
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति
 सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 192
 
 
 ### Transliteration
-```
+{{< lines >}}
 apare niyatāhārāḥ prāṇānprāṇeṣu juhvati
 sarve'pyete yajñavido yajñakṣapitakalmaṣāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अन्य कुछ लोग आहार को नियमित करके प्राणों को प्राणों में ही हवन करते हैं। ये सभी यज्ञ को जानने वाले हैं और यज्ञों द्वारा इनके सारे पाप नष्ट हो गए हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन योगियों का वर्णन कर रहे हैं जो अपने आहार पर कठोर नियंत्रण रखते हैं। वे अपने प्राणों की आहुति प्राणों में ही देते हैं, अर्थात् वे प्राणायाम के माध्यम से अपनी इंद्रियों और जीवन शक्ति को वश में करते हैं। ऐसे सभी साधक यज्ञ के वास्तविक अर्थ को जानने वाले हैं और इन यज्ञों के प्रभाव से उनके सभी पाप और अशुद्धियाँ नष्ट हो जाती हैं।
+
+### Translation
+
+Others, restricting their diet, sacrifice the life-breaths into the life-breaths. All of these are knowers of sacrifice, whose sins have been destroyed by sacrifice.
 
 ### Meaning
 

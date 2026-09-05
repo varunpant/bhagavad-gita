@@ -8,11 +8,10 @@ sutra: 24
 position: 619
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः
 प्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 619
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasmād om ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ
 pravartante vidhānoktāḥ satataṃ brahmavādinām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए, शास्त्रविधि से नियत यज्ञ, दान और तप रूप क्रियाएँ
+ब्रह्मवादियों द्वारा सदा 'ॐ' इस नाम का उच्चारण करके ही आरम्भ की जाती हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि वैदिक अनुष्ठानों में 'ॐ' (ओम्) का क्या महत्व है। ब्रह्मवादी अर्थात् परमात्मा को खोजने वाले लोग किसी भी यज्ञ, दान या तप की क्रिया को शुरू करने से पहले 'ॐ' का उच्चारण करते हैं। ऐसा करने से वह कर्म परमात्मा को समर्पित हो जाता है और उसकी पवित्रता सुनिश्चित होती है।
+
+### Translation
+
+Therefore, the acts of sacrifice, charity, and penance, as prescribed by the scriptures,
+are always initiated by the seekers of Brahman with the utterance of the syllable 'Om'
 
 ### Meaning
 

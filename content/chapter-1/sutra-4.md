@@ -8,11 +8,10 @@ sutra: 4
 position: 4
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अत्र शूरा महेष्वासा भीमार्जुनसमा युधि
 युयुधानो विराटश्च द्रुपदश्च महारथः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ warriors).
 
 
 ### Transliteration
-```
+{{< lines >}}
 atra śūrā maheṣvāsā bhīmārjunasamā yudhi
 yuyudhāno virāṭaśca drupadaśca mahārathaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस सेना में महान धनुषों वाले शूरवीर हैं, जो युद्ध में भीम और अर्जुन के समान हैं: युयुधान (सात्यकि), विराट और महारथी द्रुपद।
 
 ### भावार्थ
 
 दुर्योधन द्रोणाचार्य को पाण्डव सेना के प्रमुख योद्धाओं के बारे में बता रहा है। वह विपक्षी सेना की शक्ति को स्वीकार करते हुए उनकी तुलना भीम और अर्जुन जैसे महान योद्धाओं से करता है। सात्यकि, विराट और द्रुपद जैसे महारथियों का नाम लेकर वह यह स्पष्ट करता है कि पाण्डवों की सेना कितनी शक्तिशाली और अजेय है।
+
+### Translation
+
+Here in this army are heroes, mighty bowmen, equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and the great chariot warrior Drupada.
 
 ### Meaning
 

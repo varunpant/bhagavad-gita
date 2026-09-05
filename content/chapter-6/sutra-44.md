@@ -8,11 +8,10 @@ sutra: 44
 position: 277
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः
 जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 277
 
 
 ### Transliteration
-```
+{{< lines >}}
 pūrvābhyāsena tenaiva hriyate hyavaśo'pi saḥ
 jijñāsurapi yogasya śabdabrahmātivartate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह अपने पूर्व जन्म के अभ्यास के कारण ही न चाहते हुए भी (योग की ओर) आकर्षित हो जाता है। योग का जिज्ञासु भी शब्दब्रह्म (वेदों के सकाम कर्मों के विधान) का अतिक्रमण कर जाता है।
 
 ### भावार्थ
 
 इस श्लोक में श्रीकृष्ण समझाते हैं कि जो साधक अपने पिछले जन्म में योग से विचलित हो गया था, वह अपने पूर्व जन्म के संस्कारों और अभ्यास के बल पर स्वतः ही इस जन्म में योग की ओर खिंचा चला आता है। उसकी यह आध्यात्मिक प्रगति कभी नष्ट नहीं होती। यहाँ तक कि योग का केवल जिज्ञासु भी वेदों में वर्णित सकाम कर्मों और अनुष्ठानों के फलों से ऊपर उठ जाता है।
+
+### Translation
+
+By virtue of that very practice of his former life, he is carried forward even against his will. Even a mere seeker of Yoga transcends the ritualistic realm of the Vedas.
 
 ### Meaning
 

@@ -8,12 +8,11 @@ sutra: 9
 position: 423
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 एवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः
 दर्शयामास पार्थाय परमं रूपमैश्वरम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 423
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
 evam uktvā tato rājan mahā-yogeśvaro hariḥ
 darśayāmāsa pārthāya paramaṃ rūpam aiśvaram
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संजय ने कहा —
+हे राजन! ऐसा कहकर, उसके बाद महायोगेश्वर हरि ने अर्जुन को अपना परम ऐश्वर्यमय रूप दिखाया
 
 ### भावार्थ
 
 संजय धृतराष्ट्र को युद्धभूमि का वृत्तांत सुनाते हुए कहते हैं कि भगवान कृष्ण ने अर्जुन को अपना विराट रूप दिखाने से पूर्व यह वचन कहे। इसके पश्चात, योग के परम स्वामी श्रीहरि ने अर्जुन के समक्ष अपने अत्यंत दिव्य और ऐश्वर्यशाली विश्वरूप को प्रकट किया। यह रूप सामान्य चर्मचक्षुओं से परे और केवल दिव्य दृष्टि द्वारा ही देखा जा सकता था।
+
+### Translation
+
+Sanjaya said:
+O King, having spoken thus, the great Lord of Yoga, Hari, then revealed His supreme, divine form to Arjuna
 
 ### Meaning
 

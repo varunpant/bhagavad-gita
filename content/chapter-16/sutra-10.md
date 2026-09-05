@@ -8,11 +8,10 @@ sutra: 10
 position: 581
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः
 मोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 581
 
 
 ### Transliteration
-```
+{{< lines >}}
 kāmam āśritya duṣpūraṃ dambhamānamadānvitāḥ
 mohād gṛhītvāsadgrāhān pravartante'śucivratāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कभी न पूर्ण होने वाली कामनाओं का आश्रय लेकर, दम्भ, मान और मद से युक्त होकर, अज्ञानवश असत्य सिद्धान्तों को ग्रहण करके, वे अपवित्र व्रतों को धारण कर संसार में प्रवृत्त होते हैं
 
 ### भावार्थ
 
 इस श्लोक में आसुरी स्वभाव वाले मनुष्यों की प्रवृत्तियों का वर्णन किया गया है। वे कभी न तृप्त होने वाली वासनाओं के वश में रहते हैं और अहंकार तथा पाखंड से भरे होते हैं। मोह के कारण वे गलत धारणाओं को अपना लेते हैं और अपवित्र कर्मों में लगे रहते हैं।
+
+### Translation
+
+Sheltering in insatiable desire, filled with hypocrisy, pride, and arrogance, holding evil ideas through delusion, they engage in action with impure resolves
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 2
 position: 121
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे
 तदेकं वद निश्िचत्य येन श्रेयोऽहमाप्नुयाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 121
 
 
 ### Transliteration
-```
+{{< lines >}}
 vyāmiśreṇeva vākyena buddhiṃ mohayasīva me
 tadekaṃ vada niścitya yena śreyo'hamāpnuyām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आपके इन मिले-जुले वचनों से मेरी बुद्धि मानो मोहित हो रही है। इसलिए निश्चित करके मुझे वह एक बात बताएँ जिससे मैं परम कल्याण को प्राप्त कर सकूँ।
 
 ### भावार्थ
 
 अर्जुन श्रीकृष्ण के पिछले उपदेशों से भ्रमित महसूस कर रहे हैं, क्योंकि उन्हें ज्ञान और कर्म दोनों के मार्ग परस्पर विरोधी लग रहे हैं। उन्हें लगता है कि इन अनेकार्थक वचनों से उनकी बुद्धि चकरा रही है। इसलिए वे श्रीकृष्ण से प्रार्थना करते हैं कि वे निश्चित करके कोई एक ऐसा स्पष्ट मार्ग बताएँ जिससे उनका परम कल्याण हो सके।
+
+### Translation
+
+With your seemingly ambiguous words, you are confusing my intellect. Therefore, tell me decisively that one thing by which I may attain the highest good.
 
 ### Meaning
 

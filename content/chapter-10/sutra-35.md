@@ -8,11 +8,10 @@ sutra: 35
 position: 407
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बृहत्साम तथा साम्नां गायत्री छन्दसामहम्
 मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 407
 
 
 ### Transliteration
-```
+{{< lines >}}
 bṛhatsāma tathā sāmnāṃ gāyatrī chandasāmaham
 māsānāṃ mārgaśīrṣo'hamṛtūnāṃ kusumākaraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सामवेदीय गीतों में मैं बृहत्साम हूँ और छंदों में मैं गायत्री हूँ
+महीनों में मैं मार्गशीर्ष हूँ और ऋतुओं में मैं वसंत हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी दिव्य विभूतियों का वर्णन जारी रखते हुए संगीत, छंद, काल और ऋतुओं में अपनी श्रेष्ठता प्रकट करते हैं। वे सामवेद के भजनों में सबसे महत्वपूर्ण 'बृहत्साम' हैं और वैदिक मंत्रों में सर्वोपरि 'गायत्री' छंद हैं। इसी प्रकार, वे महीनों में अत्यंत पवित्र मार्गशीर्ष (अगहन) और ऋतुओं में सबसे सुंदर वसंत ऋतु (कुसुमाकर) हैं।
+
+### Translation
+
+Among the hymns of the Sama Veda I am the Brihat-sama, and among poetic meters I am the Gayatri
+Among months I am Margashirsha, and among seasons I am the flower-bearing spring
 
 ### Meaning
 

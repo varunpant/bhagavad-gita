@@ -8,11 +8,10 @@ sutra: 17
 position: 297
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तेषां ज्ञानी नित्ययुक्त एकभक्ितर्विशिष्यते
 प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 297
 
 
 ### Transliteration
-```
+{{< lines >}}
 teṣāṃ jñānī nityayukta ekabhaktirviśiṣyate
 priyo hi jñānino'tyarthamahaṃ sa ca mama priyaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उनमें नित्य-युक्त और अनन्य भक्ति वाला ज्ञानी श्रेष्ठ है
+क्योंकि मैं ज्ञानी को अत्यंत प्रिय हूँ और वह मुझे प्रिय है
 
 ### भावार्थ
 
 भगवान कृष्ण चार प्रकार के भक्तों (आर्त, जिज्ञासु, अर्थार्थी और ज्ञानी) में से ज्ञानी भक्त को सर्वश्रेष्ठ बताते हैं। ज्ञानी भक्त सदैव परमात्मा में लीन रहता है और उसकी भक्ति निष्काम तथा अनन्य होती है। भगवान और ज्ञानी भक्त के बीच का प्रेम परस्पर और अत्यंत प्रगाढ़ होता है।
+
+### Translation
+
+Of these, the wise one, who is ever united with Me and devoted to Me alone, is the best
+for I am exceedingly dear to the wise, and he is dear to Me
 
 ### Meaning
 

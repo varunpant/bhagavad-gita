@@ -8,11 +8,10 @@ sutra: 28
 position: 190
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे
 स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 190
 
 
 ### Transliteration
-```
+{{< lines >}}
 dravyayajñāstapoyajñā yogayajñāstathāpare
 svādhyāyajñānayajñāśca yatayaḥ saṃśitavratāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कुछ लोग अपनी संपत्ति का यज्ञ करने वाले होते हैं, कुछ तपस्या का यज्ञ करने वाले होते हैं, तथा अन्य लोग योग का यज्ञ करने वाले होते हैं। इसी प्रकार कठोर व्रतों का पालन करने वाले कुछ यत्नशील साधक शास्त्रों के स्वाध्याय और ज्ञान का यज्ञ करने वाले होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण विभिन्न प्रकार के यज्ञों का वर्णन कर रहे हैं जो साधकों द्वारा किए जाते हैं। कुछ लोग समाज कल्याण के लिए अपनी संपत्ति दान करते हैं, जबकि अन्य लोग शरीर और मन को शुद्ध करने के लिए कठोर तपस्या या अष्टांग योग का अभ्यास करते हैं। इसके अतिरिक्त, दृढ़ संकल्प वाले साधक शास्त्रों के अध्ययन और आत्मज्ञान की प्राप्ति को ही अपना यज्ञ मानते हैं। ये सभी निष्काम कर्म अंततः आध्यात्मिक उन्नति की ओर ले जाते हैं।
+
+### Translation
+
+Some offer their wealth as sacrifice, some offer austerities as sacrifice, and others offer the practice of yoga as sacrifice. Similarly, ascetics observing strict vows offer the study of scriptures and knowledge as sacrifice.
 
 ### Meaning
 

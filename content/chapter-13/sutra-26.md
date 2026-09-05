@@ -8,11 +8,10 @@ sutra: 26
 position: 515
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अन्ये त्वेवमजानन्तः श्रुत्वाऽन्येभ्य उपासते
 तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,24 @@ position: 515
 
 
 ### Transliteration
-```
-anye tv evam ajānantaḥ
-śrutvānyebhya upāsate
-te 'pi cātitaranty eva
-mṛtyuṃ śrutiparāyaṇāḥ
+{{< lines >}}
+anye tv evam ajānantaḥ śrutvānyebhya upāsate
+te 'pi cātitaranty eva mṛtyuṃ śrutiparāyaṇāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु दूसरे लोग इस प्रकार न जानते हुए भी, दूसरों से सुनकर उपासना करते हैं;
+वे भी सुनने के प्रति परायण (श्रद्धालु) होकर मृत्यु रूप संसार-सागर को निश्चित ही पार कर जाते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन लोगों के लिए कल्याण का मार्ग बताते हैं जो स्वयं ध्यान, ज्ञान या कर्म योग में निपुण नहीं हैं। ऐसे लोग जब महापुरुषों या गुरुओं से सत्य का श्रवण करते हैं और उस पर पूर्ण श्रद्धा रखते हैं, तो वे भी भवसागर से पार हो जाते हैं। यह श्रवण भक्ति और श्रद्धा की महिमा को दर्शाता है।
+
+### Translation
+
+But others, not knowing thus, worship having heard from others;
+they too, being devoted to what they hear, certainly cross beyond death.
 
 ### Meaning
 

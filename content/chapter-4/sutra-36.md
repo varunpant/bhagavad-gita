@@ -8,11 +8,10 @@ sutra: 36
 position: 198
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः
 सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 198
 
 
 ### Transliteration
-```
+{{< lines >}}
 api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ
 sarvaṁ jñānaplavenaiva vṛjinaṁ santariṣyasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि तुम समस्त पापियों में भी सबसे अधिक पाप करने वाले हो, तो भी तुम ज्ञान रूपी नौका द्वारा ही इस संपूर्ण पाप-समुद्र को भली-भांति पार कर जाओगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आध्यात्मिक ज्ञान की परम पावन शक्ति पर बल देते हैं। वे अर्जुन को आश्वस्त करते हैं कि किसी व्यक्ति का अतीत चाहे कितना भी पापपूर्ण क्यों न रहा हो, दिव्य ज्ञान प्राप्त होते ही वह अपने सभी पापों के फलों से मुक्त हो जाता है। ज्ञान एक ऐसी नौका के समान है जो मनुष्य को भौतिक अस्तित्व और पाप के अशांत सागर से सुरक्षित पार ले जाती है।
+
+### Translation
+
+Even if you are the most sinful of all sinners, you will cross over all miseries by the boat of transcendental knowledge alone.
 
 ### Meaning
 

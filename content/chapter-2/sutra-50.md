@@ -8,11 +8,10 @@ sutra: 50
 position: 97
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते
 तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 97
 
 
 ### Transliteration
-```
+{{< lines >}}
 buddhiyukto jahātīha ubhe sukṛtaduṣkṛte
 tasmādyogāya yujyasva yogaḥ karmasu kauśalam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+समबुद्धि से युक्त मनुष्य इस जीवित अवस्था में ही पुण्य और पाप दोनों को त्याग देता है। इसलिए तुम योग (समत्व) में लग जाओ; क्योंकि कर्मों में कुशलता ही योग है।
 
 ### भावार्थ
 
 जो मनुष्य समबुद्धि (समत्व) में स्थित होता है, वह इसी जन्म में पाप और पुण्य दोनों के बंधनों से मुक्त हो जाता है। फल की आसक्ति के बिना कर्म करने से मनुष्य नए कर्मफलों में नहीं बंधता। इसलिए भगवान कृष्ण अर्जुन को समत्व योग अपनाने की प्रेरणा देते हैं, क्योंकि कर्मों को बंधन रहित होकर करना ही सच्ची कुशलता है।
+
+### Translation
+
+Endowed with the wisdom of equanimity, one casts off in this life both good and evil deeds. Therefore, devote yourself to yoga; yoga is skill in action.
 
 ### Meaning
 

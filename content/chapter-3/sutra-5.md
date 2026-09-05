@@ -8,11 +8,10 @@ sutra: 5
 position: 124
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न हि कश्िचत्क्षणमपि जातु तिष्ठत्यकर्मकृत्
 कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 124
 
 
 ### Transliteration
-```
+{{< lines >}}
 na hi kaścit kṣaṇam api jātu tiṣṭhaty akarmakṛt
 kāryate hy avaśaḥ karma sarvaḥ prakṛtijair guṇaiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि कोई भी मनुष्य किसी भी काल में एक क्षण के लिए भी बिना कर्म किए नहीं रहता; क्योंकि सभी मनुष्य प्रकृति से उत्पन्न हुए गुणों द्वारा विवश होकर कर्म करने के लिए बाध्य हैं।
 
 ### भावार्थ
 
 भगवान कृष्ण स्पष्ट करते हैं कि कोई भी प्राणी कभी भी पूर्ण रूप से कर्महीन नहीं हो सकता। मनुष्य का शरीर और मन निरंतर प्रकृति के तीन गुणों (सत्त्व, रजस और तमस) के प्रभाव में कार्य करते रहते हैं। इसलिए, कृत्रिम रूप से कर्मों का त्याग करने के बजाय, मनुष्य को अनासक्त भाव से अपने नियत कर्तव्यों का पालन करना चाहिए।
+
+### Translation
+
+For no one ever remains even for a moment without doing action; because everyone is helplessly forced to perform action by the qualities born of material nature.
 
 ### Meaning
 

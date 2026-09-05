@@ -8,11 +8,10 @@ sutra: 34
 position: 196
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया
 उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 196
 
 
 ### Transliteration
-```
+{{< lines >}}
 tadviddhi praṇipātena paripraśnena sevayā
 upadekṣyanti te jñānaṃ jñāninastattvadarśinaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उस ज्ञान को तुम साष्टांग प्रणाम करने से, प्रश्न पूछने से और सेवा करने से जानो। तत्त्व को जानने वाले ज्ञानी पुरुष तुम्हें उस ज्ञान का उपदेश देंगे।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को दिव्य ज्ञान प्राप्त करने की विधि बताते हैं। इसके लिए व्यक्ति को एक प्रामाणिक गुरु के पास जाकर विनम्रतापूर्वक प्रणाम करना चाहिए, उनसे प्रश्न पूछने चाहिए और उनकी सेवा करनी चाहिए। केवल वे आत्मसाक्षात्कारी महापुरुष ही इस ज्ञान का उपदेश दे सकते हैं, जिन्होंने सत्य के दर्शन किए हैं।
+
+### Translation
+
+Know that by prostrating yourself, by asking questions, and by rendering service. The wise, who have seen the truth, will impart knowledge to you.
 
 ### Meaning
 

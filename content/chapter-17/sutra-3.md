@@ -8,11 +8,10 @@ sutra: 3
 position: 598
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत
 श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 598
 
 
 ### Transliteration
-```
+{{< lines >}}
 sattvānurūpā sarvasya śraddhā bhavati bhārata
 śraddhāmayo'yaṃ puruṣo yo yacchraddhaḥ sa eva saḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भारत (अर्जुन)! सभी मनुष्यों की श्रद्धा उनके अन्तःकरण के अनुरूप होती है। यह मनुष्य श्रद्धा-प्रधान है, इसलिए जो जैसी श्रद्धा वाला है, वह स्वयं भी वही है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रत्येक व्यक्ति की श्रद्धा उसके अंतःकरण के सत्व (संस्कारों और स्वभाव) के अनुरूप होती है। मनुष्य का अस्तित्व उसकी श्रद्धा से ही निर्मित होता है। जिसकी जैसी श्रद्धा होती है, उसका व्यक्तित्व और गति भी वैसी ही हो जाती है।
+
+### Translation
+
+O Bharata (Arjuna), the faith of every individual is in accordance with their inherent nature. A person is made of their faith; as a person's faith is, so indeed is that person.
 
 ### Meaning
 

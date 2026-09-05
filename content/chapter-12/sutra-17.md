@@ -8,11 +8,10 @@ sutra: 17
 position: 486
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति
 शुभाशुभपरित्यागी भक्ितमान्यः स मे प्रियः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 486
 
 
 ### Transliteration
-```
+{{< lines >}}
 yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati
 śubhāśubhaparityāgī bhaktimān yaḥ sa me priyaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो न हर्षित होता है, न द्वेष करता है, न शोक करता है, न कामना करता है तथा जो शुभ और अशुभ दोनों का परित्याग करने वाला है, वह भक्तिमान पुरुष मुझे प्रिय है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस भक्त के लक्षणों का वर्णन कर रहे हैं जो उन्हें अत्यंत प्रिय है। वह सांसारिक सुखों में हर्षित नहीं होता और न ही अप्रिय परिस्थितियों में द्वेष या शोक करता है। वह शुभ और अशुभ दोनों प्रकार के कर्मों के फलों का त्याग कर समभाव में स्थित रहता है।
+
+### Translation
+
+He who neither rejoices nor hates, neither grieves nor desires, and who has renounced both the auspicious and the inauspicious—such a devotee is dear to Me.
 
 ### Meaning
 

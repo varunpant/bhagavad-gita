@@ -8,11 +8,10 @@ sutra: 8
 position: 559
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः
 गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 559
 
 
 ### Transliteration
-```
+{{< lines >}}
 śarīraṃ yad avāpnoti yac cāpy utkrāmatīśvaraḥ
 gṛhītvaitāni saṃyāti vāyur gandhān ivāśayāt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शरीर का स्वामी (जीवात्मा) जब एक शरीर को त्यागता है और जब दूसरे शरीर को प्राप्त करता है, तब वह इन (इन्द्रियों और मन) को ग्रहण करके वैसे ही चला जाता है, जैसे वायु गंध के स्थान (पुष्प आदि) से गंध को ले जाती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जीवात्मा किस प्रकार एक शरीर से दूसरे शरीर में गमन करती है। जैसे बहती हुई हवा फूलों से उनकी सुगंध लेकर आगे बढ़ जाती है, वैसे ही जीवात्मा मृत्यु के समय सूक्ष्म शरीर (मन और इन्द्रियों) को अपने साथ समेटकर नए भौतिक शरीर में प्रवेश करती है।
+
+### Translation
+
+When the lord (of the body, the soul) obtains a body and when he departs from it, he takes these (the senses and the mind) and goes, just as the wind carries scents from their source.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 6
 position: 168
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्
 प्रकृतिं स्वामधिष्ठाय संभवाम्यात्ममायया
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 168
 
 
 ### Transliteration
-```
+{{< lines >}}
 ajo'pi sannavyayātmā bhūtānāmīśvaro'pi san
 prakṛtiṃ svāmadhiṣṭhāya saṃbhavāmyātmamāyayā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अजन्मा और अविनाशी स्वरूप होते हुए भी, तथा समस्त प्राणियों का ईश्वर होते हुए भी, मैं अपनी प्रकृति को अधीन करके अपनी योगमाया से प्रकट होता हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपने अवतार का रहस्य बताते हैं। साधारण जीवों की तरह भगवान कर्मों के बंधन में आकर जन्म नहीं लेते, बल्कि वे अपनी स्वतंत्र इच्छा और योगमाया से प्रकट होते हैं। भौतिक जगत में अवतरित होने पर भी वे अजन्मा, अविनाशी और सभी प्राणियों के परमेश्वर ही रहते हैं।
+
+### Translation
+
+Although being unborn and of imperishable nature, and although being the Lord of all beings, controlling My own nature, I manifest by My own internal potency.
 
 ### Meaning
 

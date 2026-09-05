@@ -8,11 +8,10 @@ sutra: 29
 position: 233
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम्
 सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 233
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhoktāraṃ yajñatapasāṃ sarvalokamaheśvaram
 suhṛdaṃ sarvabhūtānāṃ jñātvā māṃ śāntimṛcchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यज्ञों और तपस्याओं के भोगने वाले, समस्त लोकों के महान ईश्वर और सभी प्राणियों के परम मित्र के रूप में मुझे जानकर मनुष्य परम शान्ति को प्राप्त करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्वयं को परम भोक्ता, परम नियंता और सभी जीवों का निस्वार्थ मित्र घोषित करते हैं। जब साधक इस सत्य को जान लेता है कि सब कुछ ईश्वर का ही है और वे ही सबके सच्चे हितैषी हैं, तो वह सभी सांसारिक चिंताओं से मुक्त होकर परम शांति प्राप्त करता है। यह कर्मयोग और ज्ञानयोग की पराकाष्ठा है जहाँ भक्ति का समावेश होता है।
+
+### Translation
+
+Having known Me as the enjoyer of sacrifices and austerities, the Great Lord of all worlds, and the friend of all living beings, one attains peace
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 3
 position: 554
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न रूपमस्येह तथोपलभ्यते    नान्तो न चादिर्न च संप्रतिष्ठा
 अश्वत्थमेनं सुविरूढमूल    मसङ्गशस्त्रेण दृढेन छित्त्वा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 554
 
 
 ### Transliteration
-```
-na rūpamasyeha tathopalabhyate
-nānto na cādirna ca saṃpratiṣṭhā
-aśvatthamenaṃ suvirūḍhamūla
-masaṅgaśastreṇa dṛḍhena chittvā
+{{< lines >}}
+na rūpamasyeha tathopalabhyate nānto na cādirna ca saṃpratiṣṭhā
+aśvatthamenaṃ suvirūḍhamūla masaṅgaśastreṇa dṛḍhena chittvā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस संसार में इस वृक्ष का रूप वैसा उपलब्ध नहीं होता जैसा कहा गया है, और न इसका अंत है, न आदि है, और न ही इसकी प्रतिष्ठा (स्थिति) है। इस अत्यंत सुदृढ़ जड़ों वाले अश्वत्थ (पीपल) के वृक्ष को वैराग्य रूपी दृढ़ शस्त्र द्वारा काटकर
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण संसार रूपी अश्वत्थ वृक्ष की वास्तविक प्रकृति का वर्णन करते हैं। संसारी मनुष्यों को इस मायावी वृक्ष का न तो आदि दिखाई देता है, न अंत और न ही इसका आधार समझ आता है। इस बंधन से मुक्त होने का एकमात्र उपाय वैराग्य (अनासक्ति) रूपी तीक्ष्ण शस्त्र से इसकी गहरी जमी हुई जड़ों को काटना है।
+
+### Translation
+
+Its form is not perceived here as such, neither its end, nor its origin, nor its foundation. Having cut down this deep-rooted Ashvattha tree with the strong weapon of non-attachment
 
 ### Meaning
 

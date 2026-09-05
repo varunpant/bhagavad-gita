@@ -8,11 +8,10 @@ sutra: 7
 position: 54
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कार्पण्यदोषोपहतस्वभावः      पृच्छामि त्वां धर्मसंमूढचेताः
 यच्छ्रेयः स्यान्निश्िचतं ब्रूहि तन्मे     शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 54
 
 
 ### Transliteration
-```
+{{< lines >}}
 kārpaṇyadoṣopahatasvabhāvaḥ pṛcchāmi tvāṃ dharmasaṃmūḍhacetāḥ
 yacchreyaḥ syānniścitaṃ brūhi tanme śiṣyaste'haṃ śādhi māṃ tvāṃ prapannam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कायरता रूपी दोष से नष्ट हुए स्वभाव वाला और धर्म के विषय में भ्रमित चित्त वाला मैं आपसे पूछता हूँ। जो निश्चित रूप से मेरे लिए कल्याणकारी हो, वह मुझे बताएँ। मैं आपका शिष्य हूँ और आपकी शरण में आया हूँ, कृपया मुझे शिक्षा दें।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन पूरी तरह से भगवान कृष्ण के समक्ष आत्मसमर्पण कर देते हैं। युद्ध के मैदान में अपने सगे-संबंधियों को देखकर अर्जुन का मन मोह और कायरता से भर गया था, जिससे वे अपने क्षत्रिय धर्म को भूल गए थे। अपनी इस भ्रमित स्थिति को स्वीकार करते हुए, वे कृष्ण को अपना गुरु मानते हैं और उनसे सही मार्ग दर्शन की प्रार्थना करते हैं।
+
+### Translation
+
+With my nature afflicted by the fault of faint-heartedness, and my mind bewildered about my duty, I ask you. Tell me decisively what is best for me. I am your disciple and have surrendered to you; please instruct me.
 
 ### Meaning
 

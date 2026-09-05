@@ -8,11 +8,10 @@ sutra: 11
 position: 173
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्
 मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 173
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham
 mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जो लोग जिस भाव से मेरी शरण ग्रहण करते हैं, मैं भी उन्हें उसी के अनुरूप फल देता हूँ। मनुष्य सब प्रकार से मेरे ही मार्ग का अनुसरण करते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि वे सभी के प्रति समभाव रखते हैं। जो भक्त जिस इच्छा या भाव से भगवान की उपासना करता है, भगवान उसे उसी रूप में स्वीकार कर फल प्रदान करते हैं। अंततः, चाहे कोई किसी भी मार्ग या देवता का अनुसरण करे, वह परोक्ष या अपरोक्ष रूप से परमात्मा के ही मार्ग पर चल रहा होता है।
+
+### Translation
+
+O Partha, in whatever way people surrender unto me, I reward them accordingly. Human beings follow my path in all respects.
 
 ### Meaning
 

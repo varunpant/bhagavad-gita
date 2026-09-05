@@ -8,11 +8,10 @@ sutra: 63
 position: 686
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया
 विमृश्यैतदशेषेण यथेच्छसि तथा कुरु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 686
 
 
 ### Transliteration
-```
+{{< lines >}}
 iti te jñānamākhyātaṃ guhyādguhyataraṃ mayā
 vimṛśyaitadaśeṣeṇa yathecchasi tathā kuru
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस प्रकार मैंने तुम्हें गोपनीय से भी अत्यंत गोपनीय ज्ञान कह दिया है
+इस पर पूर्ण रूप से विचार करके, जैसी तुम्हारी इच्छा हो वैसा ही करो
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को पूर्ण स्वतंत्रता देते हैं। उन्होंने अर्जुन को परम गोपनीय ज्ञान प्रदान कर दिया है, और अब वे चाहते हैं कि अर्जुन इस ज्ञान पर गहराई से विचार करे। इसके बाद अर्जुन अपनी बुद्धि और विवेक के अनुसार स्वयं निर्णय लेने के लिए स्वतंत्र है।
+
+### Translation
+
+Thus, the knowledge that is more secret than all secrets has been declared to you by Me
+Reflecting on this fully, do as you wish
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 23
 position: 185
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः
 यज्ञायाचरतः कर्म समग्रं प्रविलीयते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 185
 
 
 ### Transliteration
-```
+{{< lines >}}
 gatasaṅgasya muktasya jñānāvasthitacetasaḥ
 yajñāyācarataḥ karma samagraṃ pravilīyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिसकी आसक्ति नष्ट हो गई है, जो मुक्त है, जिसका चित्त ज्ञान में स्थित है, और जो यज्ञ के लिए आचरण (कर्म) करता है, उसके सम्पूर्ण कर्म विलीन हो जाते हैं।
 
 ### भावार्थ
 
 यह श्लोक एक मुक्त पुरुष की अवस्था का वर्णन करता है जो भौतिक आसक्तियों से रहित होकर कर्म करता है। चूँकि उसका मन आध्यात्मिक ज्ञान में स्थिर होता है और वह केवल परमेश्वर (यज्ञ) को प्रसन्न करने के लिए कार्य करता है, इसलिए उसके कर्म कोई बंधन उत्पन्न नहीं करते। ऐसे व्यक्ति के सभी कर्म और उनके फल पूर्णतः विलीन हो जाते हैं, जिससे वह सदा मुक्त रहता है।
+
+### Translation
+
+The actions of a person who is free from attachment, who is liberated, whose mind is situated in knowledge, and who acts for the sake of sacrifice, are completely dissolved.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 485
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः
 सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 485
 
 
 ### Transliteration
-```
+{{< lines >}}
 anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ
 sarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो आकांक्षाओं से रहित, पवित्र, चतुर, उदासीन, व्यथा से मुक्त और सभी कर्मों के कर्तापन के भाव का त्यागी है, वह मेरा भक्त मुझे प्रिय है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन गुणों का वर्णन कर रहे हैं जो एक भक्त को उनके अत्यंत प्रिय बनाते हैं। ऐसा भक्त किसी भी सांसारिक फल की इच्छा नहीं रखता, आंतरिक और बाहरी रूप से शुद्ध रहता है, और अपने कर्तव्यों को कुशलतापूर्वक निभाता है। वह सुख-दुख में तटस्थ रहता है, किसी भी प्रकार की चिंता से मुक्त होता है, और अपने सभी कर्मों के फलों को ईश्वर को समर्पित कर देता है।
+
+### Translation
+
+He who is free from expectations, pure, skilled, indifferent, free from anxiety, and who has renounced the sense of doership in all undertakings—that devotee of Mine is dear to Me.
 
 ### Meaning
 

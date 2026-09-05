@@ -8,11 +8,10 @@ sutra: 27
 position: 307
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत
 सर्वभूतानि संमोहं सर्गे यान्ति परन्तप
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 307
 
 
 ### Transliteration
-```
+{{< lines >}}
 icchādveṣasamutthena dvandvamohena bhārata
 sarvabhūtāni saṃmohaṃ sarge yānti parantapa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी अर्जुन! इच्छा और द्वेष से उत्पन्न होने वाले द्वन्द्व रूपी मोह से, इस संसार में सभी प्राणी पूर्णतः सम्मोह को प्राप्त होते हैं, हे परंतप।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि संसार के सभी जीव जन्म लेते ही मोहग्रस्त क्यों हो जाते हैं। राग (इच्छा) और द्वेष (नफ़रत) से उत्पन्न होने वाले सुख-दुःख, सर्दी-गर्मी जैसे द्वन्द्व मनुष्यों की बुद्धि को भ्रमित कर देते हैं। इसी द्वन्द्व-मोह के कारण जीव परमात्मा के वास्तविक स्वरूप को नहीं पहचान पाते और संसार चक्र में फंसे रहते हैं।
+
+### Translation
+
+O scion of Bharata, O harasser of foes, by the delusion of dualities arising from desire and aversion, all living beings in the world fall into utter bewilderment.
 
 ### Meaning
 

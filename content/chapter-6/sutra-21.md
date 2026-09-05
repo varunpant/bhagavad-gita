@@ -8,11 +8,10 @@ sutra: 21
 position: 254
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्
 वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 254
 
 
 ### Transliteration
-```
+{{< lines >}}
 sukham ātyantikaṃ yat tad buddhi-grāhyam atīndriyam
 vetti yatra na caivāyaṃ sthitaś calati tattvataḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस अवस्था में मनुष्य उस अनन्त सुख को अनुभव करता है, जो बुद्धि द्वारा ग्रहण करने योग्य है और इन्द्रियों से परे है; और जिस अवस्था में स्थित होकर यह योगी अपने वास्तविक स्वरूप से कभी विचलित नहीं होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ध्यानयोग की पराकाष्ठा का वर्णन कर रहे हैं। जब मन पूरी तरह से शांत हो जाता है, तब साधक को एक ऐसे असीम आनंद की अनुभूति होती है जो भौतिक इन्द्रियों के विषयों से परे है। इस दिव्य आनंद की स्थिति में पहुँचकर योगी सत्य के मार्ग से कभी भी विचलित नहीं होता है।
+
+### Translation
+
+In that state where one experiences that infinite bliss which is graspable by the intellect and beyond the reach of the senses; and established wherein, this yogi never deviates from the ultimate truth.
 
 ### Meaning
 

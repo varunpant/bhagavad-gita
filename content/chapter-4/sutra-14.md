@@ -8,11 +8,10 @@ sutra: 14
 position: 176
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा
 इति मां योऽभिजानाति कर्मभिर्न स बध्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 176
 
 
 ### Transliteration
-```
+{{< lines >}}
 na māṃ karmāṇi limpanti na me karmaphale spṛhā
 iti māṃ yo'bhijānāti karmabhirna sa badhyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कर्म मुझे लिप्त नहीं करते और न ही मेरी कर्मफल में कोई स्पृहा (इच्छा) है। जो मुझे इस प्रकार तत्त्व से जान लेता है, वह कर्मों द्वारा नहीं बंधता है।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण स्पष्ट करते हैं कि यद्यपि वे सृष्टि की रचना और संचालन जैसे महान कर्म करते हैं, फिर भी वे उन कर्मों से बंधते नहीं हैं। इसका कारण यह है कि उन्हें अपने कर्मों के फलों की कोई लालसा नहीं है। जो मनुष्य भगवान के इस दिव्य स्वभाव को समझ लेता है और उसी निष्काम भाव को अपनाता है, वह भी सांसारिक कर्मों के बंधन से मुक्त हो जाता है।
+
+### Translation
+
+Actions do not taint Me, nor do I have any desire for the fruits of action. One who knows Me thus is not bound by actions.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 27
 position: 441
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वक्त्राणि ते त्वरमाणा विशन्ति     दंष्ट्राकरालानि भयानकानि
 केचिद्विलग्ना दशनान्तरेषु     संदृश्यन्ते चूर्णितैरुत्तमाङ्गैः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 441
 
 
 ### Transliteration
-```
-vaktrāṇi te tvaramāṇā viśanti
-daṃṣṭrākarālāni bhayānakāni
-kecidvilagnā daśanāntareṣu
-saṃdṛśyante cūrṇitairuttamāṅgaiḥ
+{{< lines >}}
+vaktrāṇi te tvaramāṇā viśanti daṃṣṭrākarālāni bhayānakāni
+kecidvilagnā daśanāntareṣu saṃdṛśyante cūrṇitairuttamāṅgaiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वे सभी बड़ी तेजी से आपके भयानक और दाढ़ों के कारण विकराल मुखों में प्रवेश कर रहे हैं। उनमें से कुछ दांतों के बीच में फंसे हुए दिखाई दे रहे हैं, जिनके सिर चूर-चूर हो गए हैं।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप के भयानक संहारक रूप का वर्णन कर रहे हैं। वे देख रहे हैं कि कौरव पक्ष के योद्धा और अन्य राजा अत्यंत वेग से भगवान के विकराल मुखों में समाते जा रहे हैं। कुछ योद्धा भगवान के दांतों के बीच फंसे हुए हैं और उनके सिर पूरी तरह से कुचले जा चुके हैं, जो काल के अनिवार्य प्रभाव को दर्शाता है।
+
+### Translation
+
+They are rapidly entering Your fearful mouths, which are terrible with tusks. Some are seen stuck between Your teeth, with their heads crushed to powder.
 
 ### Meaning
 

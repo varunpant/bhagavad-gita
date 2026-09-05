@@ -8,11 +8,10 @@ sutra: 78
 position: 701
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः
 तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 701
 
 
 ### Transliteration
-```
+{{< lines >}}
 yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ
 tatra śrīrvijayo bhūtirdhruvā nītirmatirmama
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जहाँ योगेश्वर कृष्ण हैं और जहाँ धनुर्धारी अर्जुन हैं, वहाँ श्री, विजय, विभूति और अचल नीति है, ऐसा मेरा मत है।
 
 ### भावार्थ
 
 यह भगवद्गीता का अंतिम श्लोक है, जिसे संजय धृतराष्ट्र से कह रहे हैं। संजय का मानना है कि जहाँ भगवान कृष्ण (परम सत्य) और अर्जुन (कर्मठ भक्त) एक साथ होते हैं, वहाँ सफलता, समृद्धि और धर्म निश्चित रूप से वास करते हैं। यह श्लोक यह संदेश देता है कि ईश्वरीय कृपा और मानवीय पुरुषार्थ का मिलन ही परम कल्याण का मार्ग है।
+
+### Translation
+
+Wherever there is Krishna, the Lord of Yoga, and wherever there is Arjuna, the archer, there will certainly be opulence, victory, extraordinary power, and morality; this is my opinion.
 
 ### Meaning
 

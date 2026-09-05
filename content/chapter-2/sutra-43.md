@@ -8,11 +8,10 @@ sutra: 43
 position: 90
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम्
 क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 90
 
 
 ### Transliteration
-```
+{{< lines >}}
 kāmātmānaḥ svargaparā janmakarmaphalapradām
 kriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कामनाओं से युक्त और स्वर्ग को ही परम लक्ष्य मानने वाले लोग, जन्म रूपी कर्मफल प्रदान करने वाली तथा भोग और ऐश्वर्य की प्राप्ति के लिए अनेक प्रकार की विशेष क्रियाओं (कर्मकाण्डों) से युक्त बातें कहते हैं।
 
 ### भावार्थ
 
 यह श्लोक पिछले श्लोक के क्रम में है, जहाँ भगवान कृष्ण वेदों के कर्मकाण्डों में आसक्त अज्ञानी लोगों का वर्णन कर रहे हैं। ऐसे लोग सांसारिक इच्छाओं से भरे होते हैं और स्वर्ग प्राप्ति को ही जीवन का सर्वोच्च लक्ष्य मानते हैं। वे ऐसे सकाम कर्मों का पालन करते हैं जो उन्हें बार-बार जन्म-मृत्यु के चक्र में फंसाते हैं और केवल भौतिक भोग तथा ऐश्वर्य की ओर ले जाते हैं।
+
+### Translation
+
+Full of desires and regarding heaven as the highest goal, they advocate numerous specific rites that yield rebirth as the fruit of action, directed towards the attainment of enjoyment and opulence.
 
 ### Meaning
 

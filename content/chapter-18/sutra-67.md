@@ -8,11 +8,10 @@ sutra: 67
 position: 690
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इदं ते नातपस्काय नाभक्ताय कदाचन
 न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 690
 
 
 ### Transliteration
-```
+{{< lines >}}
 idaṃ te nātapaskāya nābhaktāya kadācana
 na cāśuśrūṣave vācyaṃ na ca māṃ yo'bhyasūyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह (ज्ञान) तुम्हारे द्वारा कभी भी तपस्या-रहित मनुष्य से नहीं कहा जाना चाहिए, न ही भक्ति-रहित से, न ही सेवा न करने की इच्छा रखने वाले से, और न ही उससे जो मुझसे द्वेष करता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण गीता के परम गोपनीय ज्ञान को साझा करने के लिए पात्रता के नियम निर्धारित कर रहे हैं। वे अर्जुन को निर्देश देते हैं कि यह ज्ञान केवल उन्हें ही दिया जाना चाहिए जो इसके योग्य हों। जो लोग तपस्या, भक्ति, सेवा भाव से रहित हैं या भगवान के प्रति द्वेष रखते हैं, वे इस दिव्य ज्ञान को समझने और आत्मसात करने में असमर्थ होते हैं।
+
+### Translation
+
+This (knowledge) should never be spoken by you to one who is devoid of austerity, nor to one who is non-devoted, nor to one who does not wish to serve, nor to one who cavils at Me.
 
 ### Meaning
 

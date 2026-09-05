@@ -8,11 +8,10 @@ sutra: 45
 position: 668
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः
 स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 668
 
 
 ### Transliteration
-```
+{{< lines >}}
 sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ
 svakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अपने-अपने स्वाभाविक कर्मों में लगा हुआ मनुष्य परम सिद्धि को प्राप्त करता है। अपने कर्म में लगा हुआ मनुष्य जिस प्रकार सिद्धि को प्राप्त करता है, उस विधि को तुम सुनो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को समझा रहे हैं कि प्रत्येक मनुष्य अपने स्वभाव के अनुसार नियत कर्मों को करके भी परम सिद्धि प्राप्त कर सकता है। इसके लिए संन्यास या गृहत्याग अनिवार्य नहीं है, बल्कि अपने कर्तव्य को ईश्वर-अर्पण बुद्धि से करना ही पर्याप्त है। अब वे उस विधि को बताने जा रहे हैं जिससे स्वकर्म करते हुए सिद्धि मिलती है।
+
+### Translation
+
+Devoted to his own particular duty, a human being attains perfection. How one who is engaged in his own duty attains perfection, hear that from Me.
 
 ### Meaning
 

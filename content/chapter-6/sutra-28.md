@@ -8,11 +8,10 @@ sutra: 28
 position: 261
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 युञ्जन्नेवं सदाऽऽत्मानं योगी विगतकल्मषः
 सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 261
 
 
 ### Transliteration
-```
+{{< lines >}}
 yuñjannevaṃ sadā'tmānaṃ yogī vigatakalmaṣaḥ
 sukhena brahmasaṃsparśamatyantaṃ sukhamaśnute
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस प्रकार निरंतर अपने आप को योग में लगाते हुए, पापों से मुक्त योगी सुगमता से परब्रह्म की प्राप्ति रूप परम आनंद का अनुभव करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण निरंतर ध्यान के अभ्यास के अंतिम परिणाम का वर्णन करते हैं। जब साधक अपने मन को निरंतर परमात्मा में लीन रखता है, तो उसके सभी मानसिक विकार और पाप नष्ट हो जाते हैं। ऐसी शुद्ध अवस्था में, वह बिना किसी कठिनाई के ब्रह्म-साक्षात्कार के असीम और शाश्वत आनंद को प्राप्त करता है।
+
+### Translation
+
+Thus constantly engaging the self in yoga, the yogi, freed from all sins, easily experiences the infinite bliss of contact with the Supreme Brahman
 
 ### Meaning
 

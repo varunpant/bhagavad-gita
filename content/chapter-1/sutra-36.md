@@ -8,11 +8,10 @@ sutra: 36
 position: 36
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन
 पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ be ours, O Janardana? Only sin will accrue to us from killing these felons.
 
 
 ### Transliteration
-```
+{{< lines >}}
 nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana
 pāpamevāśrayedasmānhatvaitānātatāyinaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे जनार्दन! धृतराष्ट्र के पुत्रों को मारकर हमें क्या प्रसन्नता होगी? इन आततायियों को मारने से हमें पाप ही लगेगा।
 
 ### भावार्थ
 
 अर्जुन श्रीकृष्ण के समक्ष अपनी नैतिक दुविधा व्यक्त करते हुए कहते हैं कि अपने ही स्वजनों को मारने से उन्हें कोई सुख नहीं मिलेगा। यद्यपि कौरव 'आततायी' (आग लगाने वाले, विष देने वाले आदि) हैं और शास्त्रानुसार वध के योग्य हैं, फिर भी अर्जुन मानते हैं कि उन्हें मारने से केवल पाप ही लगेगा। वे ऐसे रक्तपात से प्राप्त होने वाली विजय को निरर्थक मानते हैं।
+
+### Translation
+
+O Janardana, what pleasure would be ours by killing the sons of Dhritarashtra? Sin alone would take hold of us by killing these aggressors.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 135
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः
 अघायुरिन्द्रियारामो मोघं पार्थ स जीवति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 135
 
 
 ### Transliteration
-```
+{{< lines >}}
 evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ
 aghāyurindriyārāmo moghaṃ pārtha sa jīvati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जो मनुष्य इस लोक में इस प्रकार चलाए गए सृष्टि चक्र के अनुकूल नहीं चलता, वह इंद्रियों के सुखों में रमण करने वाला पापायु मनुष्य व्यर्थ ही जीता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण यज्ञ और सृष्टि के चक्र की महत्ता समझा रहे हैं। जो व्यक्ति अपने कर्तव्यों का पालन नहीं करता और केवल अपनी इंद्रियों की संतुष्टि में लगा रहता है, उसका जीवन पापमय होता है। ऐसा स्वार्थी व्यक्ति समाज या प्रकृति के प्रति अपना ऋण नहीं चुकाता, इसलिए उसका जीवन पूरी तरह से व्यर्थ है।
+
+### Translation
+
+O son of Pritha, he who does not follow the wheel thus set in motion here, whose life is sinful and who delights in the senses, lives in vain.
 
 ### Meaning
 

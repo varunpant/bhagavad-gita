@@ -8,11 +8,10 @@ sutra: 53
 position: 676
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्
 विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 676
 
 
 ### Transliteration
-```
+{{< lines >}}
 ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham
 vimucya nirmamaḥ śānto brahmabhūyāya kalpate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अहंकार, बल, घमंड, काम, क्रोध और परिग्रह का
+त्याग करके, ममतारहित और शांत पुरुष ब्रह्मभाव को प्राप्त होने के योग्य होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन गुणों का वर्णन कर रहे हैं जो एक साधक को ब्रह्मभाव (परमात्मा के साथ एकत्व) प्राप्त करने के योग्य बनाते हैं। साधक को अहंकार, शारीरिक बल का घमंड, वासना, क्रोध और अनावश्यक संग्रह की प्रवृत्ति को पूरी तरह छोड़ना होगा। जब मनुष्य ममता से रहित और आंतरिक रूप से शांत हो जाता है, तभी वह परम सत्य का अनुभव करने का अधिकारी बनता है।
+
+### Translation
+
+Having abandoned egotism, strength, arrogance, desire, anger, and possessiveness,
+free from the notion of 'mine' and peaceful, one is fit for becoming Brahman
 
 ### Meaning
 

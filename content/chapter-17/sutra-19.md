@@ -8,11 +8,10 @@ sutra: 19
 position: 614
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मूढग्राहेणात्मनो यत्पीडया क्रियते तपः
 परस्योत्सादनार्थं वा तत्तामसमुदाहृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 614
 
 
 ### Transliteration
-```
+{{< lines >}}
 mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ
 parasyotsādanārthaṃ vā tattāmasamudāhṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मूर्खतापूर्ण हठ से, अपने आप को पीड़ा देकर अथवा दूसरों को नष्ट करने के उद्देश्य से जो तप किया जाता है, वह तामस कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामस तप के लक्षणों का वर्णन करते हैं। जब कोई व्यक्ति बिना किसी विवेक के, केवल हठवश अपने शरीर को कष्ट देकर या दूसरों का अहित करने की इच्छा से तपस्या करता है, तो वह तामसिक श्रेणी में आती है। ऐसा तप आध्यात्मिक उन्नति के स्थान पर पतन का कारण बनता है।
+
+### Translation
+
+That penance which is performed out of foolish obstinacy, with self-torture, or for the purpose of destroying others, is declared to be Tamasic
 
 ### Meaning
 

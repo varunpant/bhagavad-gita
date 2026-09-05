@@ -8,12 +8,11 @@ sutra: 24
 position: 24
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 एवमुक्तो हृषीकेशो गुडाकेशेन भारत
 सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,16 +35,25 @@ best of chariots, O Dhritarashtra, in the midst of the two armies.
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
 evamukto hṛṣīkeśo guḍākeśena bhārata
 senayorubhayormadhye sthāpayitvā rathottamam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संजय ने कहा —
+हे भरतवंशी! अर्जुन द्वारा इस प्रकार कहे जाने पर, श्रीकृष्ण ने दोनों सेनाओं के बीच में उस उत्तम रथ को खड़ा कर दिया।
 
 ### भावार्थ
 
 संजय राजा धृतराष्ट्र को 'भारत' कहकर सम्बोधित करते हैं और युद्धभूमि का आँखों देखा हाल बताते हैं। वे कहते हैं कि जब निद्रा को जीतने वाले अर्जुन (गुडाकेश) ने श्रीकृष्ण (हृषीकेश) से रथ को दोनों सेनाओं के बीच ले चलने का अनुरोध किया, तो भगवान ने उस उत्तम रथ को वहां खड़ा कर दिया। यह श्लोक अर्जुन द्वारा विपक्षी योद्धाओं के निरीक्षण की पृष्ठभूमि तैयार करता है।
+
+### Translation
+
+Sanjaya said:
+O descendant of Bharata, thus addressed by Arjuna, Krishna stationed the excellent chariot in the midst of both armies.
 
 ### Meaning
 

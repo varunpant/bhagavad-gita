@@ -8,11 +8,10 @@ sutra: 42
 position: 204
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्मादज्ञानसंभूतं हृत्स्थं ज्ञानासिनाऽऽत्मनः
 छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 204
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasmādajñānasaṃbhūtaṃ hṛtsthaṃ jñānāsinā''tmanaḥ
 chittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए, अज्ञान से उत्पन्न और हृदय में स्थित अपने इस संशय को ज्ञान रूपी तलवार से काटकर, योग में स्थित हो जाओ और हे भरतवंशी (अर्जुन), युद्ध के लिए उठ खड़े हो।
 
 ### भावार्थ
 
 चौथे अध्याय के इस अंतिम श्लोक में भगवान कृष्ण अर्जुन को आध्यात्मिक ज्ञान रूपी तलवार से अपने हृदय के संशयों को नष्ट करने की प्रेरणा देते हैं। वे उसे कर्मयोग का आश्रय लेकर अपने क्षत्रिय धर्म के पालन के लिए उठ खड़े होने का निर्देश देते हैं। यह श्लोक सैद्धांतिक ज्ञान को युद्धभूमि में व्यावहारिक कर्म में बदलने का एक सशक्त आह्वान है।
+
+### Translation
+
+Therefore, with the sword of knowledge, having cut asunder this doubt of the self born of ignorance and situated in the heart, take refuge in yoga and arise, O descendant of Bharata.
 
 ### Meaning
 

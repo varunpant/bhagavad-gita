@@ -8,11 +8,10 @@ sutra: 34
 position: 153
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ
 तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 153
 
 
 ### Transliteration
-```
+{{< lines >}}
 indriyasyendriyasyārthe rāgadveṣau vyavasthitau
 tayorna vaśamāgacchettau hyasya paripanthinau
+{{< /lines >}}
 
-```
+### अनुवाद
+
+प्रत्येक इन्द्रिय के विषय में राग और द्वेष स्थित हैं। मनुष्य को इन दोनों के वश में नहीं आना चाहिए, क्योंकि ये दोनों ही इसके शत्रु हैं।
 
 ### भावार्थ
 
 प्रत्येक इन्द्रिय का अपने विषयों के प्रति स्वाभाविक आकर्षण (राग) या विकर्षण (द्वेष) होता है। परन्तु साधक को इन दोनों के अधीन नहीं होना चाहिए। भगवान कृष्ण अर्जुन को सचेत करते हैं कि राग और द्वेष आध्यात्मिक मार्ग के दो बड़े शत्रु हैं, जो मनुष्य को उसके कल्याण के मार्ग से भटका देते हैं।
+
+### Translation
+
+Attachment and aversion are situated in the object of every sense. One should not come under the control of these two, for they are certainly his enemies.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 7
 position: 169
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदा यदा हि धर्मस्य ग्लानिर्भवति भारत
 अभ्युत्थानमधर्मस्य तदाऽऽत्मानं सृजाम्यहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 169
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadā yadā hi dharmasya glānirbhavati bhārata
 abhyutthānamadharmasya tadātmānaṃ sṛjāmyaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भारत (अर्जुन)! जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब मैं अपने रूप को रचता हूँ (साकार रूप से प्रकट होता हूँ)।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अवतार का मुख्य कारण बताते हैं। जब संसार में धर्म का पतन होने लगता है और अधर्म की शक्तियां प्रबल हो जाती हैं, तब भगवान स्वयं को साकार रूप में प्रकट करते हैं। उनका यह अवतरण ब्रह्मांड में संतुलन और ईश्वरीय व्यवस्था को पुनः स्थापित करने के लिए होता है।
+
+### Translation
+
+O descendant of Bharata, whenever there is a decline of righteousness and an uprising of unrighteousness, then I manifest myself.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 13
 position: 246
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 समं कायशिरोग्रीवं धारयन्नचलं स्थिरः
 संप्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 246
 
 
 ### Transliteration
-```
+{{< lines >}}
 samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ
 saṃprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शरीर, सिर और गले को सीधा, अचल और स्थिर धारण करते हुए, अपनी नासिका के अग्रभाग पर दृष्टि टिकाकर तथा अन्य दिशाओं को न देखते हुए
 
 ### भावार्थ
 
 इस श्लोक में ध्यान की शारीरिक मुद्रा का वर्णन किया गया है। साधक को अपनी रीढ़, सिर और गर्दन को एक सीधी रेखा में स्थिर रखना चाहिए। अपनी दृष्टि को इधर-उधर भटकाने के बजाय नासिका के अग्रभाग पर केंद्रित करना चाहिए ताकि मन बाहरी विकर्षणों से मुक्त होकर अंतर्मुखी हो सके।
+
+### Translation
+
+Holding the body, head, and neck straight, motionless and steady, gazing at the tip of one's own nose and not looking around in any direction
 
 ### Meaning
 

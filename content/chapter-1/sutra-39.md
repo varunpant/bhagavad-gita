@@ -8,11 +8,10 @@ sutra: 39
 position: 39
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्
 कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ of families, learn to turn away from this sin, O Janardana (Krishna)?
 
 
 ### Transliteration
-```
+{{< lines >}}
 kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum
 kulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे जनार्दन! कुल के नाश से होने वाले दोष को स्पष्ट देखने वाले हम लोगों को इस पाप से निवृत्त होने का विचार क्यों नहीं करना चाहिए?
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण से तर्क करते हैं कि यद्यपि कौरव लोभ के कारण अंधे हो गए हैं, लेकिन पांडव ऐसा नहीं कर सकते। वे स्पष्ट रूप से देख सकते हैं कि परिवार और वंश का नाश करना एक महान पाप है। इसलिए, ज्ञान और विवेक होने के कारण, उन्हें इस विनाशकारी युद्ध से पीछे हटने के बारे में सोचना चाहिए।
+
+### Translation
+
+O Janardana, why should we, who clearly see the evil caused by the destruction of the family, not know to turn away from this sin?
 
 ### Meaning
 

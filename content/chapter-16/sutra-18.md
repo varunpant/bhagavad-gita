@@ -8,11 +8,10 @@ sutra: 18
 position: 589
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः
 मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 589
 
 
 ### Transliteration
-```
+{{< lines >}}
 ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ
 mām ātmaparadeheṣu pradviṣanto 'bhyasūyakāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अहंकार, बल, घमंड, कामना और क्रोध का आश्रय लेकर, वे ईर्ष्यालु लोग अपने और दूसरों के शरीरों में स्थित मुझ परमात्मा से द्वेष करते हैं
 
 ### भावार्थ
 
 इस श्लोक में आसुरी स्वभाव वाले व्यक्तियों के लक्षणों का वर्णन किया गया है। वे अहंकार, शारीरिक बल, घमंड, वासना और क्रोध के वशीभूत होकर जीवन जीते हैं। ऐसे लोग अपने भीतर और दूसरों के भीतर स्थित परमात्मा (आत्मा) की उपेक्षा करते हैं और उससे द्वेष करते हैं, क्योंकि वे केवल अपने अहंकार की तृप्ति चाहते हैं।
+
+### Translation
+
+Taking refuge in egotism, power, pride, lust, and anger, these malicious people despise Me, who am situated in their own and others' bodies
 
 ### Meaning
 

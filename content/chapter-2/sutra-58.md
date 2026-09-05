@@ -8,11 +8,10 @@ sutra: 58
 position: 105
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः
 इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 105
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadā saṃharate cāyaṃ kūrmo'ṅgānīva sarvaśaḥ
 indriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और जब यह (योगी) सब ओर से अपनी इन्द्रियों को इन्द्रियों के विषयों से वैसे ही समेट लेता है जैसे कछुआ अपने अंगों को समेट लेता है, तब उसकी बुद्धि स्थिर होती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक स्थिर बुद्धि वाले व्यक्ति (स्थितप्रज्ञ) का लक्षण बताते हैं। जैसे कछुआ किसी खतरे का आभास होने पर अपने अंगों को खोल के भीतर खींच लेता है, वैसे ही एक आत्म-साक्षात्कारी व्यक्ति अपनी इन्द्रियों को सांसारिक विषयों से हटा लेता है। इन्द्रियों पर यह पूर्ण नियंत्रण ही स्थिर प्रज्ञा या सच्ची आध्यात्मिक जागरूकता की निशानी है।
+
+### Translation
+
+And when this yogi completely withdraws the senses from the sense objects, just as a tortoise withdraws its limbs from all sides, his wisdom is steady.
 
 ### Meaning
 

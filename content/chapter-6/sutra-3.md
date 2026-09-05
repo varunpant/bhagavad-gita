@@ -8,11 +8,10 @@ sutra: 3
 position: 236
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते
 योगारूढस्य तस्यैव शमः कारणमुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 236
 
 
 ### Transliteration
-```
+{{< lines >}}
 ārurukṣormuner yogaṃ karma kāraṇam ucyate
 yogārūḍhasya tasyaiva śamaḥ kāraṇam ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+योग में आरूढ़ होने की इच्छा रखने वाले मननशील पुरुष के लिए कर्म करना कारण कहा जाता है
+और योग में आरूढ़ हो चुके उस पुरुष के लिए परम शांति (कर्मों का त्याग) ही कारण कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण योग की साधना के दो चरणों का वर्णन करते हैं। जो साधक योग मार्ग पर अभी शुरुआत कर रहा है (आरुरुक्षु), उसके लिए निष्काम कर्म करना अत्यंत आवश्यक है क्योंकि कर्म से ही चित्त की शुद्धि होती है। इसके विपरीत, जो साधक योग की पराकाष्ठा पर पहुँच चुका है (योगारूढ़), उसके लिए ध्यान और मानसिक शांति (शम) ही आगे की प्रगति का साधन बनती है।
+
+### Translation
+
+For the sage who wishes to ascend to Yoga, action is said to be the means
+For the same sage who has ascended to Yoga, inaction (tranquility) is said to be the means
 
 ### Meaning
 

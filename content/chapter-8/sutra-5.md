@@ -8,11 +8,10 @@ sutra: 5
 position: 315
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्
 यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 315
 
 
 ### Transliteration
-```
+{{< lines >}}
 antakāle ca mām eva smaran muktvā kalevaram
 yaḥ prayāti sa madbhāvaṃ yāti nāsty atra saṃśayaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और जो मनुष्य अंतकाल में भी मेरा ही स्मरण करते हुए शरीर को छोड़कर जाता है, वह मेरे साक्षात् स्वरूप को प्राप्त होता है, इसमें कोई संशय नहीं है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण मृत्यु के समय की मानसिक स्थिति के महत्व को स्पष्ट करते हैं। वे कहते हैं कि जीवन के अंतिम क्षण में मनुष्य जिस भाव या स्वरूप का स्मरण करता है, वह उसी को प्राप्त होता है। यदि कोई निरंतर अभ्यास द्वारा अंतकाल में केवल ईश्वर का स्मरण करता है, तो वह निश्चित रूप से परमधाम को प्राप्त करता है।
+
+### Translation
+
+And whoever, at the time of death, leaves his body remembering Me alone, attains My being; of this there is no doubt.
 
 ### Meaning
 

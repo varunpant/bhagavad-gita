@@ -8,11 +8,10 @@ sutra: 27
 position: 189
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे
 आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 189
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvāṇīndriyakarmāṇi prāṇakarmāṇi cāpare
 ātmasaṃyamayogāgnau juhvati jñānadīpite
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अन्य योगी सम्पूर्ण इन्द्रियों की क्रियाओं को और प्राणों की क्रियाओं को ज्ञान द्वारा प्रज्वलित आत्मसंयम रूपी योग की अग्नि में हवन करते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्मसंयम रूपी यज्ञ का वर्णन कर रहे हैं, जिसे ध्यान योग भी कहा जाता है। ऐसे योगी अपनी सभी इन्द्रियों और प्राणों की गतिविधियों को रोककर उन्हें आत्म-नियंत्रण की अग्नि में आहुति के रूप में अर्पित करते हैं। यह आत्मसंयम की अग्नि आत्मज्ञान द्वारा प्रज्वलित होती है, जिससे साधक को परम शांति और मोक्ष की प्राप्ति होती है।
+
+### Translation
+
+Others offer all the functions of the senses and the functions of the life breaths as a sacrifice in the fire of the yoga of self-restraint, kindled by knowledge.
 
 ### Meaning
 

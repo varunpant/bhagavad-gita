@@ -8,11 +8,10 @@ sutra: 8
 position: 170
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 परित्राणाय साधूनां विनाशाय च दुष्कृताम्
 धर्मसंस्थापनार्थाय संभवामि युगे युगे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 170
 
 
 ### Transliteration
-```
+{{< lines >}}
 paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām
 dharmasaṃsthāpanārthāya saṃbhavāmi yuge yuge
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सज्जनों की रक्षा के लिए, दुष्टों के विनाश के लिए और धर्म की भली-भाँति स्थापना करने के लिए, मैं युग-युग में प्रकट होता हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपने अवतार का मुख्य उद्देश्य स्पष्ट करते हैं। वे बताते हैं कि जब भी संसार में सज्जनों पर संकट आता है और दुष्टों का अत्याचार बढ़ता है, तब वे स्वयं आते हैं। धर्म की पुनर्स्थापना और समाज में संतुलन बनाए रखने के लिए वे हर युग में अवतार लेते हैं।
+
+### Translation
+
+For the protection of the righteous, for the destruction of the wicked, and for the establishment of righteousness, I manifest myself from age to age.
 
 ### Meaning
 

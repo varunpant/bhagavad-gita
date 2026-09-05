@@ -8,11 +8,10 @@ sutra: 11
 position: 349
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम्
 परं भावमजानन्तो मम भूतमहेश्वरम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 349
 
 
 ### Transliteration
-```
+{{< lines >}}
 avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam
 paraṃ bhāvamajānanto mama bhūtamaheśvaram
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मूर्ख लोग मेरे परम भाव को न जानते हुए, जो कि समस्त भूतों का महान ईश्वर है, मुझे मनुष्य शरीर धारण किए हुए मानकर मेरी अवहेलना करते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि अज्ञानी लोग उनके वास्तविक दिव्य स्वरूप को नहीं पहचान पाते। वे उन्हें केवल एक साधारण मनुष्य समझते हैं क्योंकि वे उनके भौतिक शरीर के परे उनके अविनाशी और सर्वोपरि ईश्वर रूप को जानने में असमर्थ होते हैं। यह अज्ञानता ही उन्हें भगवान का अनादर करने की ओर ले जाती है।
+
+### Translation
+
+Fools deride Me when I descend in the human form, being ignorant of My supreme nature as the great Lord of all beings
 
 ### Meaning
 

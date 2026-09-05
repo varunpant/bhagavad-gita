@@ -8,11 +8,10 @@ sutra: 2
 position: 526
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः
 सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 526
 
 
 ### Transliteration
-```
+{{< lines >}}
 idaṃ jñānamupāśritya mama sādharmyamāgatāḥ
 sarge'pi nopajāyante pralaye na vyathanti ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस ज्ञान का आश्रय लेकर मेरे परम स्वरूप (साधर्म्य) को प्राप्त हुए पुरुष सृष्टि के आदि में पुनः उत्पन्न नहीं होते और प्रलयकाल में भी व्याकुल नहीं होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण उस परम ज्ञान की महिमा बता रहे हैं जिसे प्राप्त कर साधक जन्म और मरण के चक्र से सर्वथा मुक्त हो जाता है। ऐसा ज्ञानी पुरुष परमात्मा के दिव्य स्वभाव को प्राप्त कर लेता है। इसलिए, सृष्टि के आरंभ में उसका पुनर्जन्म नहीं होता और महाप्रलय के समय भी वह विचलित या नष्ट नहीं होता।
+
+### Translation
+
+Having taken refuge in this knowledge, those who have attained unity with My supreme nature are not born again even at the time of creation, nor are they disturbed at the time of dissolution.
 
 ### Meaning
 

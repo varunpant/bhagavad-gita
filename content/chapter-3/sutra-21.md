@@ -8,11 +8,10 @@ sutra: 21
 position: 140
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः
 स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 140
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadyadācarati śreṣṭhastattadevetaro janaḥ
 sa yatpramāṇaṃ kurute lokastadanuvartate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्रेष्ठ पुरुष जो-जो आचरण करता है, अन्य सामान्य जन भी वैसा-वैसा ही आचरण करते हैं। वह जो कुछ प्रमाण कर देता है, समस्त लोक उसी का अनुसरण करने लगते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को नेतृत्व और आदर्श प्रस्तुत करने का महत्त्व समझा रहे हैं। समाज हमेशा अपने श्रेष्ठ और ज्ञानी लोगों के आचरण का अनुसरण करता है। इसलिए, समाज को सही दिशा दिखाने के लिए महापुरुषों को निष्काम भाव से अपने नियत कर्म करते रहना चाहिए।
+
+### Translation
+
+Whatever action a great man performs, common men follow. Whatever standard he sets by exemplary acts, all the world pursues.
 
 ### Meaning
 

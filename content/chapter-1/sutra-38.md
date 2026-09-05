@@ -8,11 +8,10 @@ sutra: 38
 position: 38
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यद्यप्येते न पश्यन्ति लोभोपहतचेतसः
 कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ no evil in the destruction of families, and no sin in hostility to friends,
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadyapyete na paśyanti lobhopahatacetasaḥ
 kulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यद्यपि लोभ से भ्रष्ट चित्त वाले ये लोग कुल के नाश से उत्पन्न होने वाले दोष और मित्रों के साथ द्रोह करने में पाप को नहीं देखते हैं।
 
 ### भावार्थ
 
 अर्जुन कहते हैं कि कौरव राज्य के लोभ में अंधे हो गए हैं। इस कारण उन्हें अपने ही कुल के नाश और मित्रों से द्रोह करने का भयंकर पाप दिखाई नहीं दे रहा है। वे तर्क देते हैं कि कौरवों की इस अज्ञानता के बावजूद, हम ज्ञानियों को ऐसा घोर पाप क्यों करना चाहिए।
+
+### Translation
+
+Even if these people, whose minds are overpowered by greed, do not see the fault caused by the destruction of the family and the sin in treachery to friends.
 
 ### Meaning
 

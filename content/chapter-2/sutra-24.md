@@ -8,11 +8,10 @@ sutra: 24
 position: 71
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च
 नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 71
 
 
 ### Transliteration
-```
+{{< lines >}}
 acchedyo'yamadāhyo'yamakledyo'śoṣya eva ca
 nityaḥ sarvagataḥ sthāṇuracalo'yaṃ sanātanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह आत्मा काटी नहीं जा सकती, यह जलाई नहीं जा सकती, इसे गीला नहीं किया जा सकता और न ही इसे सुखाया जा सकता है। यह नित्य, सर्वव्यापी, अविकारी, अचल और सनातन है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्मा की अमरता और उसके भौतिक विकारों से मुक्त होने का वर्णन करते हैं। आत्मा किसी भी भौतिक तत्व—शस्त्र, अग्नि, जल या वायु—से प्रभावित नहीं होती। यह सिद्ध करता है कि शरीर के नष्ट होने पर भी आत्मा सदैव सुरक्षित, स्थिर और अपरिवर्तित रहती है।
+
+### Translation
+
+This soul cannot be cut, it cannot be burned, it cannot be wetted, nor can it be dried. It is eternal, all-pervading, unchangeable, immovable, and primeval.
 
 ### Meaning
 

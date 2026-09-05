@@ -8,12 +8,11 @@ sutra: 37
 position: 270
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 अयतिः श्रद्धयोपेतो योगाच्चलितमानसः
 अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 270
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 ayatiḥ śraddhayopeto yogāccalitamānasaḥ
 aprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+जो श्रद्धा से युक्त है, किंतु असंयमी है, जिसका मन योग से विचलित हो गया है, वह योग की पूर्ण सिद्धि को न पाकर, हे कृष्ण! किस गति को प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण से उस साधक की गति के बारे में पूछ रहे हैं जो योग के मार्ग पर श्रद्धापूर्वक चलता तो है, परंतु मन पर पूर्ण नियंत्रण न होने के कारण अंत समय में विचलित हो जाता है। वह जानना चाहते हैं कि ऐसा व्यक्ति जो योग की परम सिद्धि (मोक्ष) प्राप्त नहीं कर पाता, उसका क्या हश्र होता है। क्या उसका आध्यात्मिक प्रयास व्यर्थ चला जाता है?
+
+### Translation
+
+Arjuna said:
+He who is endowed with faith, but who is unsubdued, and whose mind wanders away from yoga—failing to attain perfection in yoga, what end does he meet, O Krishna?
 
 ### Meaning
 

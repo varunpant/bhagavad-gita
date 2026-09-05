@@ -8,11 +8,10 @@ sutra: 3
 position: 472
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते
 सर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 472
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye tv akṣaram anirdeśyam avyaktaṃ paryupāsate
 sarvatragam acintyaṃ ca kūṭastham acalaṃ dhruvam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परंतु जो लोग उस अक्षर, अनिर्देश्य, अव्यक्त, सर्वव्यापी, अचिन्त्य, कूटस्थ, अचल और ध्रुव की उपासना करते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन साधकों का वर्णन कर रहे हैं जो निराकार ब्रह्म की उपासना करते हैं। वे परम सत्य को इंद्रियों से परे, सर्वव्यापी, अचल और नित्य मानकर उसकी साधना करते हैं। यद्यपि यह मार्ग अत्यंत कठिन है, फिर भी इसके साधक भी अंततः परमात्मा को ही प्राप्त करते हैं।
+
+### Translation
+
+But those who worship the imperishable, the indefinable, the unmanifest, the omnipresent, the unthinkable, the unchanging, the immovable, and the eternal
 
 ### Meaning
 

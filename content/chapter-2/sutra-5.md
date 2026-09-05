@@ -8,11 +8,10 @@ sutra: 5
 position: 52
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 गुरूनहत्वा हि महानुभावान्     श्रेयो भोक्तुं भैक्ष्यमपीह लोके
 हत्वार्थकामांस्तु गुरूनिहैव     भुञ्जीय भोगान् रुधिरप्रदिग्धान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 52
 
 
 ### Transliteration
-```
+{{< lines >}}
 gurūnahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣyamapīha loke
 hatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogān rudhirapradigdhān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इन महानुभाव गुरुजनों को न मारकर इस लोक में भिक्षा का अन्न खाना भी अधिक श्रेष्ठ है। परन्तु गुरुजनों को मारकर तो मैं इस लोक में खून से सने हुए अर्थ और कामरूप भोगों को ही भोगूंगा।
 
 ### भावार्थ
 
 अर्जुन अपने गहरे नैतिक संकट और युद्ध के प्रति अपनी अरुचि को व्यक्त करते हैं। उनका मानना है कि भीष्म और द्रोण जैसे पूजनीय गुरुओं की हत्या करने से बेहतर है कि भिक्षा मांगकर जीवन यापन किया जाए। वे तर्क देते हैं कि उनके रक्तपात से प्राप्त कोई भी सांसारिक विजय या धन कलंकित होगा और उससे उन्हें कोई वास्तविक सुख नहीं मिलेगा।
+
+### Translation
+
+It is better to eat even alms in this world without killing these great-souled gurus. But by killing the gurus, who are desirous of wealth, I would enjoy only blood-stained enjoyments right here in this world.
 
 ### Meaning
 

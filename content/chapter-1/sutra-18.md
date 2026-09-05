@@ -8,11 +8,10 @@ sutra: 18
 position: 18
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते
 सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ the son of Subhadra, the mighty-armed, blew their conches separately.
 
 
 ### Transliteration
-```
+{{< lines >}}
 drupado draupadeyāśca sarvaśaḥ pṛthivīpate
 saubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पृथ्वीनाथ! द्रुपद, द्रौपदी के पुत्र, और महाबाहु सुभद्रापुत्र (अभिमन्यु) ने भी सभी ओर से अपने-अपने शंख अलग-अलग बजाए।
 
 ### भावार्थ
 
 संजय धृतराष्ट्र को 'पृथ्वीपति' कहकर सम्बोधित करते हैं और पाण्डव सेना के अन्य प्रमुख योद्धाओं का वर्णन करते हैं। राजा द्रुपद, द्रौपदी के पाँचों पुत्र और सुभद्रा के वीर पुत्र अभिमन्यु ने भी अपने-अपने शंख बजाए। यह भयंकर ध्वनि कौरव सेना के मनोबल को तोड़ने वाली थी और पाण्डवों की युद्ध के लिए पूर्ण तैयारी को दर्शाती थी।
+
+### Translation
+
+O Lord of the earth! Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra, all blew their respective conches from all sides.
 
 ### Meaning
 

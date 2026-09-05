@@ -8,11 +8,10 @@ sutra: 3
 position: 341
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप
 अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 341
 
 
 ### Transliteration
-```
+{{< lines >}}
 aśraddadhānāḥ puruṣā dharmasyāsya parantapa
 aprāpya māṃ nivartante mṛtyusaṃsāravartmani
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे परंतप! इस धर्म में श्रद्धा न रखने वाले मनुष्य मुझे प्राप्त न करके मृत्यु रूपी संसार के चक्र में लौटते रहते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि आध्यात्मिक मार्ग पर प्रगति के लिए श्रद्धा अत्यंत आवश्यक है। जो लोग इस परम सत्य और भक्ति मार्ग में विश्वास नहीं रखते, वे ईश्वर को प्राप्त करने का अवसर खो देते हैं। परिणामस्वरूप, वे जन्म और मृत्यु के अंतहीन चक्र में बार-बार लौटते रहते हैं।
+
+### Translation
+
+O scorcher of enemies, those people who have no faith in this dharma, failing to attain Me, return to the path of the mortal world.
 
 ### Meaning
 

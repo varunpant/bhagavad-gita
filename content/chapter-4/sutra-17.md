@@ -8,11 +8,10 @@ sutra: 17
 position: 179
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः
 अकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ of forbidden (or unlawful) action, and of inaction; hard to understand is the na
 
 
 ### Transliteration
-```
+{{< lines >}}
 karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ
 akarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कर्म का स्वरूप भी जानना चाहिए, विकर्म (निषिद्ध कर्म) का स्वरूप भी जानना चाहिए, और अकर्म का स्वरूप भी जानना चाहिए। कर्म की गति अत्यंत गहन है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण कर्म की जटिलता को समझाते हैं। मनुष्य को विहित कर्म, विकर्म (निषिद्ध कर्म) और अकर्म (कर्म न करना) के बीच का अंतर स्पष्ट रूप से समझना चाहिए। कर्म की गति और उसके परिणाम अत्यंत गूढ़ हैं, जिन्हें समझना साधारण मनुष्य के लिए बहुत कठिन है।
+
+### Translation
+
+The nature of prescribed action must be understood, the nature of forbidden action must be understood, and the nature of inaction must also be understood. The path of action is profound.
 
 ### Meaning
 

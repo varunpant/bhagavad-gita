@@ -8,11 +8,10 @@ sutra: 4
 position: 208
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सांख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः
 एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 208
 
 
 ### Transliteration
-```
+{{< lines >}}
 sāṅkhyayogau pṛthagbālāḥ pravadanti na paṇḍitāḥ
 ekamapyāsthitaḥ samyagubhayorvindate phalam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अज्ञानी लोग सांख्य (ज्ञान योग) और कर्म योग को अलग-अलग कहते हैं, न कि ज्ञानी जन। किसी एक में भी भली-भाँति स्थित होने पर मनुष्य दोनों के फल को प्राप्त कर लेता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि ज्ञान योग और कर्म योग का अंतिम लक्ष्य एक ही है। जो लोग अज्ञानी हैं, वे ही इन दोनों मार्गों को भिन्न मानते हैं। एक सच्चा विद्वान यह जानता है कि किसी भी एक मार्ग का निष्ठापूर्वक पालन करने से दोनों मार्गों का समान फल, अर्थात् आत्म-साक्षात्कार और मोक्ष, प्राप्त होता है।
+
+### Translation
+
+The ignorant speak of Sankhya (the path of knowledge) and Yoga (the path of action) as different, not the wise. One who is properly established in even one of them attains the fruit of both.
 
 ### Meaning
 

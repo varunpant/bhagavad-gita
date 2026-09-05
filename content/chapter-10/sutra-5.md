@@ -8,11 +8,10 @@ sutra: 5
 position: 377
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः
 भवन्ति भावा भूतानां मत्त एव पृथग्विधाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 377
 
 
 ### Transliteration
-```
+{{< lines >}}
 ahiṃsā samatā tuṣṭistapo dānaṃ yaśo'yaśaḥ
 bhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अहिंसा, समता, संतोष, तप, दान, कीर्ति और अपकीर्ति — प्राणियों के ये विविध प्रकार के भाव मुझसे ही उत्पन्न होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि मनुष्यों के भीतर पाए जाने वाले सभी मानसिक और नैतिक गुण, चाहे वे सकारात्मक हों या नकारात्मक, उनके ही संकल्प से उत्पन्न होते हैं। अहिंसा, समता, संतोष, तपस्या, दान, यश और अपयश जैसी सभी भावनाएं और अवस्थाएं परमेश्वर की ही शक्ति की विभिन्न अभिव्यक्तियाँ हैं। यह दर्शाता है कि सृष्टि की प्रत्येक मानसिक अवस्था का मूल स्रोत केवल भगवान ही हैं।
+
+### Translation
+
+Non-violence, equanimity, contentment, austerity, charity, fame, and infamy — these diverse qualities of living beings arise from Me alone.
 
 ### Meaning
 

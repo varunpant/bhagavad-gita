@@ -8,11 +8,10 @@ sutra: 42
 position: 161
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः
 मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 161
 
 
 ### Transliteration
-```
+{{< lines >}}
 indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ
 manasastu parā buddhiryo buddheḥ paratastu saḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+विद्वान कहते हैं कि स्थूल शरीर से इन्द्रियाँ श्रेष्ठ हैं; इन्द्रियों से श्रेष्ठ मन है; मन से श्रेष्ठ बुद्धि है; परन्तु जो बुद्धि से भी श्रेष्ठ है, वह आत्मा है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को काम (वासना) पर विजय प्राप्त करने के लिए मानव शरीर के विभिन्न स्तरों का क्रम समझाते हैं। स्थूल शरीर से इन्द्रियाँ श्रेष्ठ हैं, इन्द्रियों से मन श्रेष्ठ है, और मन से बुद्धि श्रेष्ठ है। परन्तु जो बुद्धि से भी परे और सर्वोच्च है, वह हमारी वास्तविक पहचान यानी आत्मा है, जिसे जानकर सभी वासनाओं को नष्ट किया जा सकता है।
+
+### Translation
+
+They say that the senses are superior to the body; superior to the senses is the mind; superior to the mind is the intellect; but that which is superior to the intellect is He (the Self).
 
 ### Meaning
 

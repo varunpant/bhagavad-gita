@@ -8,11 +8,10 @@ sutra: 41
 position: 41
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः
 स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ of Vrishni), there arises intermingling of castes.
 
 
 ### Transliteration
-```
+{{< lines >}}
 adharmābhibhavāt kṛṣṇa praduṣyanti kulastriyaḥ
 strīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कृष्ण! अधर्म के हावी होने से कुल की स्त्रियाँ दूषित हो जाती हैं। हे वार्ष्णेय (वृष्णिवंशी)! स्त्रियों के दूषित होने पर वर्णसंकर उत्पन्न होता है।
 
 ### भावार्थ
 
 अर्जुन यह भय व्यक्त करते हैं कि कुल के नाश से अधर्म बढ़ेगा, जिससे परिवार की स्त्रियाँ पथभ्रष्ट हो जाएँगी। स्त्रियों के दूषित होने से अवांछित संतानें (वर्णसंकर) उत्पन्न होंगी, जो समाज के पतन का कारण बनेंगी। यह श्लोक सामाजिक व्यवस्था और पारिवारिक परंपराओं के प्रति अर्जुन की गहरी चिंता को दर्शाता है।
+
+### Translation
+
+O Krishna, due to the predominance of irreligion, the women of the family become corrupt. O descendant of Vrishni, when women are corrupted, intermingling of castes is born.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 17
 position: 250
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु
 युक्तस्वप्नावबोधस्य योगो भवति दुःखहा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ as walking, etc.), who is moderate in exertion in actions, who is moderate in sl
 
 
 ### Transliteration
-```
+{{< lines >}}
 yuktāhāravihārasya yuktaceṣṭasya karmasu
 yuktasvapnāvabodhasya yogo bhavati duḥkhahā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उपयुक्त आहार और विहार करने वाले का, कर्मों में उपयुक्त चेष्टा करने वाले का, तथा उपयुक्त सोने और जागने वाले का ही योग दुखों का नाश करने वाला होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण साधना के मार्ग में संतुलन और संयम के महत्व को स्पष्ट करते हैं। वे बताते हैं कि अतिशयता (चाहे वह भोजन, मनोरंजन, कर्म या निद्रा में हो) योग की सिद्धि में बाधक है। केवल वही व्यक्ति योग के माध्यम से दुखों से मुक्ति पा सकता है जो अपने दैनिक जीवन की सभी गतिविधियों में एक स्वस्थ संतुलन बनाए रखता है।
+
+### Translation
+
+For one who is moderate in eating and recreation, moderate in effort in actions, and moderate in sleep and wakefulness, yoga becomes the destroyer of sorrow
 
 ### Meaning
 

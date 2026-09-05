@@ -8,11 +8,10 @@ sutra: 28
 position: 366
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः
 संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 366
 
 
 ### Transliteration
-```
+{{< lines >}}
 śubhāśubhaphalairevaṃ mokṣyase karmabandhanaiḥ
 saṃnyāsayogayuktātmā vimukto māmupaiṣyasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस प्रकार तुम शुभ और अशुभ फलों वाले कर्म-बन्धनों से मुक्त हो जाओगे। संन्यासयोग से युक्त मन वाले तुम मुक्त होकर मुझे ही प्राप्त करोगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को निष्काम कर्मयोग का फल बताते हैं। जब मनुष्य अपने सभी कर्मों को भगवान को समर्पित कर देता है, तो वह कर्मों के अच्छे और बुरे फलों के बंधन से मुक्त हो जाता है। इस प्रकार का समर्पण ही वास्तविक संन्यास है, जो साधक को अंततः परमात्मा से मिला देता है।
+
+### Translation
+
+In this way you will be freed from the bonds of karma, which yield auspicious and inauspicious results. With your mind established in the yoga of renunciation, being liberated, you will attain Me.
 
 ### Meaning
 

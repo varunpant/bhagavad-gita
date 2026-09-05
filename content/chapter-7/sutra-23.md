@@ -8,11 +8,10 @@ sutra: 23
 position: 303
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम्
 देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 303
 
 
 ### Transliteration
-```
+{{< lines >}}
 antavattu phalaṃ teṣāṃ tadbhavatyalpamedhasām
 devāndevayajo yānti madbhaktā yānti māmapi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु उन अल्प बुद्धि वालों का वह फल नाशवान होता है
+देवताओं को पूजने वाले देवताओं को प्राप्त होते हैं और मेरे भक्त मुझको ही प्राप्त होते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जो लोग भौतिक कामनाओं के लिए अन्य देवताओं की पूजा करते हैं, उन्हें मिलने वाला फल नाशवान और सीमित होता है। देवताओं की आराधना करने वाले उन्हीं देवलोकों को प्राप्त करते हैं जो स्वयं अनित्य हैं। इसके विपरीत, जो अनन्य भाव से परमेश्वर की भक्ति करते हैं, वे उनके अविनाशी परम धाम को प्राप्त करते हैं जहाँ से पुनः पतन नहीं होता।
+
+### Translation
+
+But temporary is that fruit gained by those of small intelligence
+The worshipers of the demigods go to the demigods, but My devotees come to Me
 
 ### Meaning
 

@@ -8,12 +8,11 @@ sutra: 2
 position: 2
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा
 आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,16 +35,25 @@ King Duryodhana then approached his teacher (Drona) and spoke these words.
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
 dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā
 ācāryamupasaṅgamya rājā vacanamabravīt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सञ्जय ने कहा —
+उस समय पाण्डवों की सेना को व्यूहरचना में खड़ा देखकर, राजा दुर्योधन ने आचार्य (द्रोण) के पास जाकर यह वचन कहा।
 
 ### भावार्थ
 
 सञ्जय अंधे राजा धृतराष्ट्र को युद्धभूमि का दृश्य बताते हुए अपना वर्णन आरंभ करते हैं। पाण्डवों की सेना को रणनीतिक रूप से व्यवस्थित देखकर, राजा दुर्योधन अपने सैन्य गुरु द्रोणाचार्य के पास जाते हैं। यह दर्शाता है कि एक बड़ी सेना होने के बावजूद दुर्योधन के भीतर कहीं न कहीं भय और चिंता थी, जिसके कारण वह अपने सेनापति से बात करने गया।
+
+### Translation
+
+Sanjaya said:
+At that time, having seen the army of the Pandavas arrayed in military formation, King Duryodhana approached the teacher (Drona) and spoke these words.
 
 ### Meaning
 

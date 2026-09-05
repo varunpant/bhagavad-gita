@@ -8,11 +8,10 @@ sutra: 18
 position: 180
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः
 स बुद्धिमान् मनुष्येषु स युक्तः कृत्स्नकर्मकृत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 180
 
 
 ### Transliteration
-```
+{{< lines >}}
 karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ
 sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य कर्म में अकर्म देखता है और अकर्म में कर्म देखता है, वह मनुष्यों में बुद्धिमान है, वह योगी है और सम्पूर्ण कर्मों को करने वाला है।
 
 ### भावार्थ
 
 यह श्लोक कर्म और अकर्म के वास्तविक स्वरूप को स्पष्ट करता है। जो मनुष्य यह समझता है कि अनासक्त भाव से किया गया कर्म वास्तव में अकर्म है क्योंकि वह बंधन का कारण नहीं बनता, वही सच्चा ज्ञानी है। इसके विपरीत, जो शारीरिक रूप से कर्म छोड़ देता है लेकिन मन से विषयों में लिप्त रहता है, उसका वह अकर्म भी कर्म ही है। ऐसा समदर्शी व्यक्ति ही मनुष्यों में बुद्धिमान और सच्चा योगी है।
+
+### Translation
+
+He who sees inaction in action, and action in inaction, he is wise among men, he is a yogi, and he has accomplished all actions.
 
 ### Meaning
 

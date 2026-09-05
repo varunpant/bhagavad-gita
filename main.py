@@ -3,10 +3,19 @@
 # actually runs, and it has no business failing on a checkout that has not
 # installed a network stack it never uses.
 import os
+import sys
 import csv
 import json
 import sqlite3
 from datetime import datetime, timedelta,timezone
+
+# The shloka and the IAST need two repairs before they are fit to print, and
+# both already exist — in `tools/build_db.py`, which does them for the app.
+# Imported rather than copied: this is the only thing that keeps the site and
+# the app saying the same words. `build_db` guards its own entry point, so
+# importing it runs nothing.
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools"))
+from build_db import normalize as normalizeShloka, align_transliteration
 
 from pprint import pprint
 
@@ -22,10 +31,9 @@ sutra: {sutra}
 position: {count}
 ---
 ### मूल श्लोक :
-```
+{{{{< lines >}}}}
 {mool_shloka}
-
-```
+{{{{< /lines >}}}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -115,13 +123,26 @@ def enrichedSections(row):
 
     blocks = []
 
-    translit = (row["transliteration"] or "").strip()
+    # Aligned against the *normalised* shloka, which is what the page prints
+    # and what the app aligns against — against the raw one the line counts
+    # differ and the repair declines to act.
+    translit = align_transliteration(normalizeShloka(row["sanskrit"] or ""),
+                                     row["transliteration"])
+    translit = (translit or "").strip()
     if translit:
-        blocks.append("### Transliteration\n```\n%s\n\n```" % translit)
+        blocks.append("### Transliteration\n{{< lines >}}\n%s\n{{< /lines >}}" % translit)
+
+    hindi_translation = (row["hindi_translation"] or "").strip()
+    if hindi_translation:
+        blocks.append("### अनुवाद\n\n%s" % hindi_translation)
 
     hindi_meaning = (row["hindi_meaning"] or "").strip()
     if hindi_meaning:
         blocks.append("### भावार्थ\n\n%s" % hindi_meaning)
+
+    english_translation = (row["english_translation"] or "").strip()
+    if english_translation:
+        blocks.append("### Translation\n\n%s" % english_translation)
 
     english_meaning = (row["english_meaning"] or "").strip()
     if english_meaning:
@@ -234,21 +255,27 @@ def writeToFile(counter,bookname,chapter,sutra,mool_shloka,hindi_translation,Com
     # Field by field, not row by row: the commentary exists only in the CSV,
     # and a verse the enrichment has not reached still gets everything the
     # scrape had.
-    # **The shloka only.** The database's `hindi_translation` and
-    # `english_translation` are not cleaned-up copies of the scraped ones —
-    # they are the enrichment's own renderings, written by a model. Preferring
-    # them would leave the headings "Hindi Translation By Swami Ramsukhdas" and
-    # "English Translation By Swami Sivananda" standing over words neither of
-    # them wrote, which is a misattribution on 701 pages and not a formatting
-    # improvement. The enrichment's own words already appear on the page, under
-    # भावार्थ and Meaning, where nothing is attributed to anyone.
+    # The database's `hindi_translation` and `english_translation` are not
+    # cleaned-up copies of the scraped ones — they are the enrichment's own
+    # renderings. So they are added *beside* the scraped ones rather than over
+    # them, under अनुवाद and Translation, where nothing is attributed to
+    # anyone; the headings naming Swami Ramsukhdas and Swami Sivananda keep
+    # standing over the words those two actually wrote. Replacing the text
+    # under a heading that credits someone else is the one thing that would be
+    # wrong here, and it is the only thing this does not do.
     #
     # The Sanskrit is a different case: same words, better kept. The scrape
     # runs the two lines together around a danda and ends with the reference
     # printed on the page — "।।5.28।।" — which is the Supersite's furniture
     # rather than the verse.
+    # Through `build_db.normalize`, not merely copied. The stored Sanskrit
+    # still runs the speaker's name into the first word of what they say —
+    # "श्री भगवानुवाचकुतस्त्वा" — because sandhi swallows the उ of उवाच into a
+    # combining sign, so nothing that searches for the word can find it. That
+    # is fixed once, in the app's builder, for the 28 verses it affects; the
+    # site was printing them glued together.
     if enrichedRow is not None:
-        mool_shloka = (enrichedRow["sanskrit"] or "").strip() or mool_shloka
+        mool_shloka = normalizeShloka(enrichedRow["sanskrit"] or "") or mool_shloka
 
     with open(filename, 'w') as file_to_write:
         file_to_write.write(Template.format(

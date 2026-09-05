@@ -8,11 +8,10 @@ sutra: 14
 position: 503
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम्
 सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 503
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvataḥ pāṇipādaṃ tat sarvato'kṣiśiromukham
 sarvataḥ śrutimal loke sarvam āvṛtya tiṣṭhati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह सब ओर हाथ और पैर वाला है, सब ओर आँख, सिर और मुख वाला है, तथा सब ओर कान वाला है; वह संसार में सब कुछ व्याप्त करके स्थित है।
 
 ### भावार्थ
 
 इस श्लोक में ज्ञेय ब्रह्म (परमात्मा) के सर्वव्यापी स्वरूप का वर्णन किया गया है। परमात्मा निराकार होते हुए भी सभी जीवों के अंगों के माध्यम से कार्य करता है, इसलिए उसके हाथ, पैर, आँखें और कान हर जगह कहे गए हैं। वह संपूर्ण ब्रह्मांड में व्याप्त होकर स्थित है।
+
+### Translation
+
+That has hands and feet everywhere, eyes, heads, and faces everywhere, and ears everywhere; It exists in the world, pervading everything.
 
 ### Meaning
 

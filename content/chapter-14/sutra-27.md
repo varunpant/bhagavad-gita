@@ -8,11 +8,10 @@ sutra: 27
 position: 551
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ब्रह्मणो हि प्रतिष्ठाऽहममृतस्याव्ययस्य च
 शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 551
 
 
 ### Transliteration
-```
+{{< lines >}}
 brahmaṇo hi pratiṣṭhāham amṛtasyāvyayasya ca
 śāśvatasya ca dharmasya sukhasyaikāntikasya ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि उस अविनाशी और अमृत स्वरूप परब्रह्म का, तथा सनातन धर्म का और अखंड एकरस आनंद का आश्रय मैं हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी दिव्य स्थिति को स्पष्ट करते हैं। वे बताते हैं कि निराकार ब्रह्म, जो कि अविनाशी और शाश्वत है, वास्तव में उनके ही स्वरूप पर आश्रित है। वे ही परम धर्म और परम आनंद के एकमात्र स्रोत हैं।
+
+### Translation
+
+For I am the basis of the impersonal Brahman, which is immortal, imperishable, and eternal, and is the constitution of ultimate happiness
 
 ### Meaning
 

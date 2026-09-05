@@ -8,11 +8,10 @@ sutra: 33
 position: 152
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि
 प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ restraint do?
 
 
 ### Transliteration
-```
+{{< lines >}}
 sadṛśaṃ ceṣṭate svasyāḥ prakṛterjñānavānapi
 prakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ज्ञानी पुरुष भी अपनी प्रकृति (स्वभाव) के अनुसार ही चेष्टा करता है। सभी प्राणी अपनी प्रकृति का ही अनुसरण करते हैं; फिर इसमें हठ (दमन) क्या करेगा?
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण यह स्पष्ट करते हैं कि प्रत्येक व्यक्ति का स्वभाव उसके पूर्व जन्मों के कर्मों और गुणों से निर्मित होता है। एक ज्ञानी पुरुष भी अपने अंतर्निहित स्वभाव के अनुसार ही कार्य करता है। इसलिए इंद्रियों का बलपूर्वक दमन करना व्यर्थ है, बल्कि मनुष्य को अनासक्त भाव से अपने नियत कर्म करते हुए अंतःकरण को शुद्ध करना चाहिए।
+
+### Translation
+
+Even a man of knowledge acts in accordance with his own nature. All beings follow their nature; what will repression accomplish?
 
 ### Meaning
 

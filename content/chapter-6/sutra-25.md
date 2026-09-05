@@ -8,11 +8,10 @@ sutra: 25
 position: 258
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया
 आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 258
 
 
 ### Transliteration
-```
+{{< lines >}}
 śanaiḥ śanair uparamed buddhyā dhṛtigṛhītayā
 ātmasaṃsthaṃ manaḥ kṛtvā na kiñcid api cintayet
+{{< /lines >}}
 
-```
+### अनुवाद
+
+धैर्ययुक्त बुद्धि के द्वारा धीरे-धीरे उपराम (स्थिर) होना चाहिए और मन को आत्मा में स्थित करके कुछ भी चिन्तन नहीं करना चाहिए।
 
 ### भावार्थ
 
 इस श्लोक में ध्यान योग की अभ्यास विधि बताई गई है। साधक को चाहिए कि वह धैर्यपूर्वक बुद्धि के सहारे मन को धीरे-धीरे संसार से हटाए। जब मन पूर्णतः आत्मा में लीन हो जाए, तब किसी अन्य सांसारिक वस्तु का विचार नहीं करना चाहिए।
+
+### Translation
+
+Gradually, one should attain tranquility by means of the intellect held with fortitude; having established the mind in the Self, one should not think of anything else.
 
 ### Meaning
 

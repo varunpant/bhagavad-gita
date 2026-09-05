@@ -8,11 +8,10 @@ sutra: 31
 position: 369
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति
 कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 369
 
 
 ### Transliteration
-```
+{{< lines >}}
 kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati
 kaunteya pratijānīhi na me bhaktaḥ praṇaśyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह शीघ्र ही धर्मात्मा हो जाता है और परम शांति को प्राप्त होता है।
+हे कुन्तीपुत्र! तुम प्रतिज्ञा करो कि मेरे भक्त का कभी विनाश नहीं होता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि अत्यंत दुराचारी व्यक्ति भी यदि अनन्य भाव से भक्ति में लग जाए, तो वह शीघ्र ही परम पवित्र और धर्मात्मा बन जाता है। भक्ति के प्रभाव से उसके हृदय में स्थायी शांति स्थापित हो जाती है। भगवान अर्जुन से कहते हैं कि वे दृढ़तापूर्वक यह घोषणा करें कि उनके भक्त का कभी पतन या विनाश नहीं होता।
+
+### Translation
+
+He quickly becomes righteous and attains eternal peace.
+O son of Kunti, declare it solemnly that My devotee never perishes.
 
 ### Meaning
 

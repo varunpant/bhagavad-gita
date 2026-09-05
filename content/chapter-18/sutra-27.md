@@ -8,11 +8,10 @@ sutra: 27
 position: 650
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः
 हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 650
 
 
 ### Transliteration
-```
+{{< lines >}}
 rāgī karmaphalaprepsurlubdho hiṃsātmako'śuciḥ
 harṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आसक्ति से युक्त, कर्मों के फल की इच्छा करने वाला, लोभी, दूसरों को कष्ट देने के स्वभाव वाला, अपवित्र और हर्ष-शोक से लिप्त रहने वाला कर्ता 'राजस' कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजस कर्ता के लक्षणों का वर्णन कर रहे हैं। ऐसा व्यक्ति अपने कर्मों और उनके फलों से अत्यधिक आसक्त रहता है, उसमें लोभ की प्रधानता होती है, और वह अपने स्वार्थ के लिए दूसरों को हानि पहुँचाने से भी नहीं हिचकिचाता। वह मानसिक रूप से अपवित्र रहता है और सफलता-विफलता में अत्यधिक हर्ष तथा शोक का अनुभव करता है।
+
+### Translation
+
+The doer who is attached, desirous of the fruits of action, greedy, harmful by nature, impure, and swayed by joy and sorrow, is declared to be passionate (rajasika)
 
 ### Meaning
 

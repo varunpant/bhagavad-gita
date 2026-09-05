@@ -8,11 +8,10 @@ sutra: 15
 position: 610
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत्
 स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 610
 
 
 ### Transliteration
-```
+{{< lines >}}
 anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat
 svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो उद्वेग न करने वाला, सत्य, प्रिय और हितकारक भाषण है तथा जो स्वाध्याय और अभ्यास है, वही वाणी का तप कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण वाणी की तपस्या (वाङ्मय तप) को परिभाषित करते हैं। वाणी का तप वह है जो दूसरों को उद्वेलित या दुखी न करे, जो सत्य हो, सुनने में प्रिय हो और अंततः कल्याणकारी हो। इसके साथ ही, पवित्र शास्त्रों का नियमित पाठ और अभ्यास भी वाणी की तपस्या के अंतर्गत आता है।
+
+### Translation
+
+Speech that causes no agitation, which is truthful, pleasant, and beneficial, as well as the practice of studying the Vedas, is said to be the austerity of speech
 
 ### Meaning
 

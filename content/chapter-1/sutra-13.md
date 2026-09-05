@@ -8,11 +8,10 @@ sutra: 13
 position: 13
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः
 सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ and the sound was tremendous.
 
 
 ### Transliteration
-```
+{{< lines >}}
 tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ
 sahasaivābhyahanyanta sa śabdastumulo'bhavat
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तत्पश्चात शंख, नगाड़े, ढोल, मृदंग और नरसिंघे (गोमुख) एक साथ ही अचानक बज उठे। वह शब्द (ध्वनि) बड़ा भयंकर था।
 
 ### भावार्थ
 
 भीष्म पितामह द्वारा शंख बजाने के तुरंत बाद, कौरव सेना के शंख, नगाड़े, ढोल और नरसिंघे एक साथ अचानक बज उठे। इन सभी युद्ध-वाद्यों की सम्मिलित ध्वनि से एक अत्यंत भयंकर और कोलाहलपूर्ण शोर उत्पन्न हुआ। यह कौरवों की ओर से युद्ध के लिए उनकी तत्परता और उत्साह का प्रदर्शन था, जिसका उद्देश्य पांडव सेना में भय उत्पन्न करना था।
+
+### Translation
+
+Then, conches, kettledrums, tabors, drums, and cow-horn trumpets were suddenly sounded all at once. That sound became tumultuous.
 
 ### Meaning
 

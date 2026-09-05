@@ -8,11 +8,10 @@ sutra: 19
 position: 19
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्
 नभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ Dhritarashtra's party, making both the heaven and the earth resound.
 
 
 ### Transliteration
-```
+{{< lines >}}
 sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat
 nabhaśca pṛthivīṃ caiva tumulo vyanunādayan
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उस भयंकर शब्द ने आकाश और पृथ्वी को गुंजाते हुए धृतराष्ट्र के पुत्रों के हृदयों को विदीर्ण कर दिया।
 
 ### भावार्थ
 
 पाण्डवों द्वारा बजाए गए शंखों की भयंकर ध्वनि आकाश और पृथ्वी दोनों में गूंज उठी। इस गगनभेदी गर्जना ने कौरवों के हृदयों में भारी भय उत्पन्न कर दिया और उनके आत्मविश्वास को तोड़ दिया। यह पाण्डव सेना की अजेय शक्ति और उन्हें प्राप्त ईश्वरीय समर्थन का स्पष्ट संकेत था।
+
+### Translation
+
+That tumultuous sound shattered the hearts of Dhritarashtra's sons, resounding through both the sky and the earth.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 13
 position: 385
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा
 असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 385
 
 
 ### Transliteration
-```
+{{< lines >}}
 āhus tvām ṛṣayaḥ sarve devarṣir nāradas tathā
 asito devalo vyāsaḥ svayaṃ caiva bravīṣi me
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सभी ऋषिगण, देवर्षि नारद, तथा असित, देवल और व्यास आपके विषय में ऐसा ही कहते हैं, और स्वयं आप भी मुझसे यही कह रहे हैं।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण की परम दिव्यता को स्वीकार करते हैं। वे कहते हैं कि केवल वे ही नहीं, बल्कि भूतकाल के महानतम ऋषि-मुनि भी कृष्ण को परम सत्य मानते आए हैं। अब स्वयं कृष्ण भी अपने मुख से इस सत्य की पुष्टि कर रहे हैं, जिससे अर्जुन का विश्वास पूर्णतः सुदृढ़ हो जाता है।
+
+### Translation
+
+All the sages, as well as the celestial sage Nārada, Asita, Devala, and Vyāsa, say this of You, and now You Yourself are declaring it to me.
 
 ### Meaning
 

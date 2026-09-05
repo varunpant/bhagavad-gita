@@ -8,11 +8,10 @@ sutra: 52
 position: 675
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 विविक्तसेवी लघ्वाशी यतवाक्कायमानसः
 ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 675
 
 
 ### Transliteration
-```
+{{< lines >}}
 viviktasevī laghvāśī yatavākkāyamānasaḥ
 dhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+एकांत स्थान का सेवन करने वाला, अल्प भोजन करने वाला, वाणी, शरीर और मन को वश में रखने वाला, निरंतर ध्यान योग के परायण रहने वाला और वैराग्य का भली-भांति आश्रय लेने वाला
 
 ### भावार्थ
 
 इस श्लोक में ज्ञाननिष्ठा की सिद्धि के लिए आवश्यक साधनों का वर्णन किया गया है। साधक को एकांतप्रिय होना चाहिए और अपनी शारीरिक आवश्यकताओं जैसे भोजन पर नियंत्रण रखना चाहिए। उसे अपने मन, वाणी और शरीर को संयमित रखकर निरंतर ध्यान योग में लीन रहना चाहिए तथा संसार के प्रति वैराग्य भाव को सुदृढ़ करना चाहिए।
+
+### Translation
+
+Dwelling in solitude, eating lightly, controlling speech, body, and mind, ever engaged in the yoga of meditation, and taking firm refuge in dispassion
 
 ### Meaning
 

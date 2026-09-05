@@ -8,11 +8,10 @@ sutra: 22
 position: 593
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः
 आचरत्यात्मनः श्रेयस्ततो याति परां गतिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 593
 
 
 ### Transliteration
-```
+{{< lines >}}
 etair vimuktaḥ kaunteya tamodvāraistribhir naraḥ
 ācaraty ātmanaḥ śreyas tato yāti parāṃ gatim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! इन तीनों नरक के द्वारों से मुक्त मनुष्य अपने कल्याण का आचरण करता है, और उससे वह परम गति को प्राप्त होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि काम, क्रोध और लोभ रूपी नरक के तीन द्वारों से मुक्त होने पर ही मनुष्य का वास्तविक कल्याण संभव है। जब मनुष्य इन विकारों से मुक्त हो जाता है, तब वह आत्म-कल्याण के मार्ग पर चलने योग्य बनता है। इस साधना के फलस्वरूप वह अंततः परम गति अर्थात् मोक्ष को प्राप्त करता है।
+
+### Translation
+
+O son of Kunti, the man who is liberated from these three gates of darkness acts for the welfare of his own soul, and thereby attains the supreme destination.
 
 ### Meaning
 

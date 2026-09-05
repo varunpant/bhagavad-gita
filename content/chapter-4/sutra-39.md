@@ -8,11 +8,10 @@ sutra: 39
 position: 201
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः
 ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 201
 
 
 ### Transliteration
-```
+{{< lines >}}
 śraddhāvām̐llabhate jñānaṁ tatparaḥ saṁyatendriyaḥ
 jñānaṁ labdhvā parāṁ śāntimacireṇādhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्रद्धावान, तत्पर और जितेन्द्रिय मनुष्य ज्ञान को प्राप्त करता है। ज्ञान को प्राप्त करके वह शीघ्र ही परम शान्ति को प्राप्त हो जाता है।
 
 ### भावार्थ
 
 इस श्लोक में श्रीकृष्ण बताते हैं कि आध्यात्मिक ज्ञान प्राप्त करने के लिए श्रद्धा, तत्परता और इन्द्रिय-संयम अत्यंत आवश्यक हैं। जो व्यक्ति इन गुणों से युक्त होकर ज्ञान प्राप्त कर लेता है, वह बिना किसी विलंब के परम शांति अर्थात मोक्ष को प्राप्त कर लेता है। यह श्लोक ज्ञान और शांति के बीच के सीधे संबंध को स्पष्ट करता है।
+
+### Translation
+
+A faithful person, who is dedicated and has controlled their senses, obtains knowledge. Having obtained knowledge, they quickly attain supreme peace.
 
 ### Meaning
 

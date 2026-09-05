@@ -8,11 +8,10 @@ sutra: 29
 position: 262
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि
 ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 262
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvabhūtastham ātmānaṃ sarvabhūtāni cātmani
 īkṣate yogayuktātmā sarvatra samadarśanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+योग से युक्त आत्मा वाला और सब जगह समभाव से देखने वाला योगी, अपने आप को सब भूतों में स्थित और सब भूतों को अपने आप में देखता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक सिद्ध योगी के दृष्टिकोण का वर्णन करते हैं। जो व्यक्ति योग में स्थित हो चुका है, वह सभी प्राणियों में एक ही परमात्मा का वास देखता है और सभी को अपने भीतर देखता है। उसकी दृष्टि में सभी जीवों के प्रति समभाव स्थापित हो जाता है क्योंकि वह बाहरी भेदों से परे परम सत्य को देखता है।
+
+### Translation
+
+One whose mind is united in yoga and who sees everywhere with an equal eye, beholds the Self existing in all beings and all beings in the Self.
 
 ### Meaning
 

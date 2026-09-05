@@ -8,11 +8,10 @@ sutra: 2
 position: 553
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अधश्चोर्ध्वं प्रसृतास्तस्य शाखा     गुणप्रवृद्धा विषयप्रवालाः
 अधश्च मूलान्यनुसन्ततानि     कर्मानुबन्धीनि मनुष्यलोके
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 553
 
 
 ### Transliteration
-```
-adhaś cordhvaṃ prasṛtās tasya śākhā
-guṇapravṛddhā viṣayapravālāḥ
-adhaś ca mūlāny anusantatāni
-karmānubandhīni manuṣyaloke
+{{< lines >}}
+adhaś cordhvaṃ prasṛtās tasya śākhā guṇapravṛddhā viṣayapravālāḥ
+adhaś ca mūlāny anusantatāni karmānubandhīni manuṣyaloke
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उस संसार-वृक्ष की शाखाएँ नीचे और ऊपर फैली हुई हैं, जो गुणों द्वारा विकसित हुई हैं और विषय-भोग जिनकी कोंपलें हैं, तथा नीचे मनुष्य-लोक में कर्मों के अनुसार बाँधने वाली जड़ें भी फैली हुई हैं।
 
 ### भावार्थ
 
 इस श्लोक में संसार रूपी अश्वत्थ वृक्ष का और विस्तार से वर्णन किया गया है। इसकी शाखाएँ तीनों गुणों (सत्त्व, रज, तम) द्वारा पोषित होकर ऊपर (देवलोक आदि) और नीचे (पशु-पक्षी आदि योनियों) में फैली हुई हैं। इन्द्रियों के विषय इस वृक्ष की नई कोमल पत्तियाँ हैं, और मनुष्य लोक में कर्मों के अनुसार बाँधने वाली इसकी गौण जड़ें नीचे की ओर फैली हुई हैं जो जीव को सांसारिक बंधनों में जकड़े रखती हैं।
+
+### Translation
+
+Downwards and upwards extend its branches, nourished by the modes of nature, with the sense-objects as their twigs; and downwards in the world of men are stretched the roots, binding to action.
 
 ### Meaning
 

@@ -8,12 +8,11 @@ sutra: 36
 position: 450
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 स्थाने हृषीकेश तव प्रकीर्त्या     जगत् प्रहृष्यत्यनुरज्यते च
 रक्षांसि भीतानि दिशो द्रवन्ति     सर्वे नमस्यन्ति च सिद्धसङ्घाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,18 +34,31 @@ position: 450
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
-sthāne hṛṣīkeśa tava prakīrtyā
-jagat prahṛṣyaty anurajyate ca
-rakṣāṃsi bhītāni diśo dravanti
-sarve namasyanti ca siddhasaṅghāḥ
+sthāne hṛṣīkeśa tava prakīrtyā jagat prahṛṣyaty anurajyate ca
+rakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddhasaṅghāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे हृषीकेश! यह योग्य ही है कि आपके यश-कीर्तन से
+सम्पूर्ण जगत् हर्षित हो रहा है और अनुराग को प्राप्त हो रहा है
+भयभीत राक्षस लोग दिशाओं में भाग रहे हैं
+और सभी सिद्धों के समुदाय आपको नमस्कार कर रहे हैं
 
 ### भावार्थ
 
 भगवान कृष्ण के विश्वरूप को देखकर अर्जुन विस्मय और भक्ति से भर जाते हैं। वे स्वीकार करते हैं कि भगवान की महिमा का गान सुनकर संसार का हर्षित होना और दुष्ट शक्तियों का भयभीत होकर भागना सर्वथा उचित है। यह श्लोक भगवान की परम सत्ता और उनके प्रति चराचर जगत् के स्वाभाविक अनुराग को दर्शाता है।
+
+### Translation
+
+Arjuna said:
+It is only proper, O Hrishikesha, that by Your praise
+the universe rejoices and becomes attached to You
+the demons, terrified, are fleeing in all directions
+and all the hosts of perfected beings are bowing down to You
 
 ### Meaning
 

@@ -8,12 +8,11 @@ sutra: 50
 position: 464
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 इत्यर्जुनं वासुदेवस्तथोक्त्वा    स्वकं रूपं दर्शयामास भूयः
 आश्वासयामास च भीतमेनं    भूत्वा पुनः सौम्यवपुर्महात्मा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,18 +34,27 @@ position: 464
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
-ityarjunaṃ vāsudevastathoktvā
-svakaṃ rūpaṃ darśayāmāsa bhūyaḥ
-āśvāsayāmāsa ca bhītamenam
-bhūtvā punaḥ saumyavapurmahātmā
+ityarjunaṃ vāsudevastathoktvā svakaṃ rūpaṃ darśayāmāsa bhūyaḥ
+āśvāsayāmāsa ca bhītamenam bhūtvā punaḥ saumyavapurmahātmā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संजय ने कहा —
+इस प्रकार अर्जुन से कहकर वासुदेव ने फिर अपना वही रूप दिखलाया
+और फिर से सौम्य शरीर वाले होकर उस डरे हुए अर्जुन को महात्मा कृष्ण ने ढाढ़स बंधाया
 
 ### भावार्थ
 
 इस श्लोक में संजय धृतराष्ट्र को बताते हैं कि भगवान कृष्ण ने अपना अत्यंत भयानक विश्वरूप समेट लिया। उन्होंने अर्जुन को सांत्वना देने के लिए पहले अपना चतुर्भुज रूप और फिर अत्यंत सौम्य, द्विभुज मानव रूप धारण किया। विश्वरूप के दर्शन से भयभीत अर्जुन को भगवान के इस सौम्य रूप को देखकर पुनः शांति और धैर्य प्राप्त हुआ।
+
+### Translation
+
+Sanjaya said:
+Having spoken thus to Arjuna, Vasudeva showed His own form again
+and the great-souled One, assuming once more a gentle form, consoled the terrified Arjuna
 
 ### Meaning
 

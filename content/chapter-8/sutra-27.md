@@ -8,11 +8,10 @@ sutra: 27
 position: 337
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नैते सृती पार्थ जानन्योगी मुह्यति कश्चन
 तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 337
 
 
 ### Transliteration
-```
+{{< lines >}}
 naite sṛtī pārtha jānan yogī muhyati kaścana
 tasmāt sarveṣu kāleṣu yogayukto bhavārjuna
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! इन दोनों मार्गों को जानने वाला कोई भी योगी मोहित नहीं होता
+इसलिए हे अर्जुन! तुम सब समय में योग से युक्त हो जाओ
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि शुक्ल और कृष्ण मार्ग के रहस्य को जानने वाला योगी कभी भ्रमित नहीं होता। वह जानता है कि अनासक्त भाव से कर्म करने पर ही परम गति प्राप्त होती है। इसलिए वे अर्जुन को निरंतर योग में स्थित रहने की प्रेरणा देते हैं।
+
+### Translation
+
+O Partha, knowing these two paths, no yogi is ever deluded
+Therefore, at all times, O Arjuna, be established in yoga
 
 ### Meaning
 

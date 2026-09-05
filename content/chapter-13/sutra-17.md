@@ -8,11 +8,10 @@ sutra: 17
 position: 506
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अविभक्तं च भूतेषु विभक्तमिव च स्थितम्
 भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 506
 
 
 ### Transliteration
-```
+{{< lines >}}
 avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitam
 bhūtabhartṛ ca tajjñeyaṃ grasiṣṇu prabhaviṣṇu ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह परमात्मा समस्त भूतों में अविभाजित रूप से स्थित है, फिर भी विभाजित की भाँति प्रतीत होता है। उसे ही समस्त भूतों का पालन-पोषण करने वाला, संहार करने वाला और उत्पन्न करने वाला जानना चाहिए।
 
 ### भावार्थ
 
 इस श्लोक में ज्ञेय ब्रह्म (परमात्मा) के सर्वव्यापी और सर्वशक्तिमान स्वरूप का वर्णन किया गया है। यद्यपि परमात्मा एक और अखंड है, फिर भी वह प्रत्येक जीव में अलग-अलग आत्मा के रूप में विभाजित प्रतीत होता है। वही सृष्टि का कर्ता, भर्ता (पालक) और हर्ता (संहारक) है।
+
+### Translation
+
+He is undivided, yet He appears to exist as if divided among all living beings. That Supreme Reality is to be known as the sustainer of all beings, as well as their devourer and creator.
 
 ### Meaning
 

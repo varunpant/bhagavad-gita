@@ -8,11 +8,10 @@ sutra: 2
 position: 164
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एवं परम्पराप्राप्तमिमं राजर्षयो विदुः
 स कालेनेह महता योगो नष्टः परन्तप
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 164
 
 
 ### Transliteration
-```
+{{< lines >}}
 evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ
 sa kāleneha mahatā yogo naṣṭaḥ parantapa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे परन्तप! इस प्रकार परम्परा से प्राप्त इस योग को राजर्षियों ने जाना। किन्तु बहुत समय बीत जाने के कारण वह योग इस लोक में लुप्त हो गया।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को बताते हैं कि यह निष्काम कर्मयोग का ज्ञान एक गुरु-शिष्य परम्परा के माध्यम से आगे बढ़ा। प्राचीन काल के पवित्र और ज्ञानी राजाओं (राजर्षियों) ने इसी परम्परा से इसे समझा और अपने जीवन में उतारा। परन्तु समय के लम्बे अन्तराल में यह पवित्र ज्ञान इस संसार से लगभग लुप्त हो गया।
+
+### Translation
+
+O subduer of enemies, the saintly kings understood this yoga received thus through disciplic succession. But in the course of great time, that yoga was lost in this world.
 
 ### Meaning
 

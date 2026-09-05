@@ -8,11 +8,10 @@ sutra: 42
 position: 665
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च
 ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 665
 
 
 ### Transliteration
-```
+{{< lines >}}
 śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca
 jñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मन का निग्रह, इन्द्रियों का दमन, तप, शुद्धि, क्षमा, सरलता, ज्ञान, विज्ञान और आस्तिकता — ये सब ही ब्राह्मण के स्वभाव से उत्पन्न होने वाले कर्म हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ब्राह्मण वर्ण के स्वाभाविक गुणों और कर्तव्यों का वर्णन करते हैं। ये गुण किसी व्यक्ति के जन्म से नहीं, बल्कि उसके अंतःकरण के स्वभाव और गुणों (मुख्यतः सत्त्व गुण) के आधार पर निर्धारित होते हैं। मन और इन्द्रियों पर नियंत्रण, पवित्रता, क्षमाशीलता और ईश्वर में विश्वास एक ब्राह्मण के स्वाभाविक लक्षण हैं।
+
+### Translation
+
+Serenity, self-control, austerity, purity, forbearance, uprightness, knowledge, realization, and belief in a hereafter — these are the duties of a Brahmana, born of his own nature
 
 ### Meaning
 

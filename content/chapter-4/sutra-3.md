@@ -8,11 +8,10 @@ sutra: 3
 position: 165
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः
 भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 165
 
 
 ### Transliteration
-```
+{{< lines >}}
 sa evāyaṃ mayā te'dya yogaḥ proktaḥ purātanaḥ
 bhakto'si me sakhā ceti rahasyaṃ hyetaduttamam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वही यह प्राचीन योग आज मेरे द्वारा तुमसे कहा गया है, क्योंकि तुम मेरे भक्त और मित्र हो; यह निश्चय ही एक उत्तम रहस्य है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को बताते हैं कि जो ज्ञान उन्होंने सृष्टि के आरंभ में सूर्यदेव को दिया था, वही प्राचीन योग वे आज अर्जुन को दे रहे हैं। इसका कारण यह है कि अर्जुन उनके अनन्य भक्त और प्रिय मित्र हैं। यह आध्यात्मिक ज्ञान एक परम रहस्य है, जिसे केवल भगवान के प्रति भक्ति और प्रेम के माध्यम से ही समझा जा सकता है।
+
+### Translation
+
+That very same ancient yoga has been declared to you by Me today, for you are My devotee and friend; this is indeed a supreme secret.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 14
 position: 386
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वमेतदृतं मन्ये यन्मां वदसि केशव
 न हि ते भगवन् व्यक्ितं विदुर्देवा न दानवाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 386
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvam etad ṛtaṃ manye yan māṃ vadasi keśava
 na hi te bhagavan vyaktiṃ vidur devā na dānavāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे केशव! आप मुझसे जो कुछ भी कह रहे हैं, इस सबको मैं सत्य मानता हूँ।
+हे भगवान! आपकी अभिव्यक्ति (लीला या स्वरूप) को न तो देवता जानते हैं और न ही दानव।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के प्रति अपनी पूर्ण श्रद्धा और विश्वास व्यक्त कर रहे हैं। वे स्वीकार करते हैं कि कृष्ण द्वारा कही गई सभी बातें परम सत्य हैं। अर्जुन यह भी स्पष्ट करते हैं कि भगवान का वास्तविक स्वरूप इतना अगाध है कि देवता और दानव भी उसे पूरी तरह समझने में असमर्थ हैं।
+
+### Translation
+
+O Keshava, I accept as truth all that You are telling me.
+Indeed, O Lord, neither the demigods nor the demons comprehend Your manifestation.
 
 ### Meaning
 

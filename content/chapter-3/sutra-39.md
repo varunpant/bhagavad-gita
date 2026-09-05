@@ -8,11 +8,10 @@ sutra: 39
 position: 158
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा
 कामरूपेण कौन्तेय दुष्पूरेणानलेन च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 158
 
 
 ### Transliteration
-```
+{{< lines >}}
 āvṛtaṃ jñānametena jñānino nityavairiṇā
 kāmarūpeṇa kaunteya duṣpūreṇānalena ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! ज्ञानियों का ज्ञान इस कामरूपी नित्य वैरी द्वारा ढका हुआ है, जो कभी न बुझने वाली आग के समान है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि काम (इच्छा) ज्ञानियों का भी नित्य शत्रु है। अज्ञानी लोग इच्छाओं की पूर्ति में सुख खोजते हैं, परंतु ज्ञानी जानते हैं कि यह एक कभी न बुझने वाली आग है। इसे जितना भी संतुष्ट करने का प्रयास किया जाए, यह उतनी ही भड़कती है और मनुष्य के वास्तविक ज्ञान को ढक देती है।
+
+### Translation
+
+O son of Kunti, the knowledge of the wise is covered by this constant enemy in the form of desire, which is an insatiable fire.
 
 ### Meaning
 

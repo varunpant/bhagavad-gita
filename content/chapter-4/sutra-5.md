@@ -8,11 +8,11 @@ sutra: 5
 position: 167
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचबहूनि मे व्यतीतानि जन्मानि तव चार्जुन
+{{< lines >}}
+श्री भगवानुवाच
+बहूनि मे व्यतीतानि जन्मानि तव चार्जुन
 तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,27 @@ position: 167
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī bhagavānuvāca
 bahūni me vyatītāni janmāni tava cārjuna
 tānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+मेरे और तुम्हारे बहुत से जन्म व्यतीत हो चुके हैं, हे अर्जुन।
+मैं उन सभी को जानता हूँ, (परन्तु) तुम नहीं जानते, हे परन्तप।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन के इस संदेह को दूर करते हैं कि उन्होंने प्राचीन काल में सूर्यदेव को यह ज्ञान कैसे दिया था। वे बताते हैं कि उन दोनों के ही अतीत में अनगिनत जन्म हो चुके हैं। मुख्य अंतर यह है कि परमेश्वर होने के कारण कृष्ण को अपने सभी अवतारों का पूर्ण स्मरण है, जबकि एक साधारण जीव होने के कारण अर्जुन उन्हें भूल चुके हैं।
+
+### Translation
+
+The Supreme Lord said:
+Many births of Mine have passed, and yours too, O Arjuna.
+I know them all; you do not know them, O scorcher of foes.
 
 ### Meaning
 

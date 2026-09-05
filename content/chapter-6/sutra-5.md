@@ -8,11 +8,10 @@ sutra: 5
 position: 238
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्
 आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 238
 
 
 ### Transliteration
-```
+{{< lines >}}
 uddharedātmanā'tmānaṃ nātmānamavasādayet
 ātmaiva hyātmano bandhurātmaiva ripurātmanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मनुष्य को चाहिए कि वह अपने मन के द्वारा अपना उद्धार करे और अपने आपको अधोगति में न डाले, क्योंकि यह मन ही जीवात्मा का मित्र है और मन ही जीवात्मा का शत्रु है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण मन के नियंत्रण के महत्व पर बल देते हैं। मनुष्य का अपना मन ही उसे संसार-बंधन से मुक्त करा सकता है या फिर उसे और गहरे बंधनों में धकेल सकता है। यदि मन वश में हो तो वह सबसे बड़ा मित्र है, और यदि वह अनियंत्रित हो तो सबसे बड़ा शत्रु बन जाता है।
+
+### Translation
+
+One must elevate oneself by one's own mind and not degrade oneself, for the mind is indeed the friend of the self, and the mind is also the enemy of the self.
 
 ### Meaning
 

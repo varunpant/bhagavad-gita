@@ -8,11 +8,10 @@ sutra: 18
 position: 613
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सत्कारमानपूजार्थं तपो दम्भेन चैव यत्
 क्रियते तदिह प्रोक्तं राजसं चलमध्रुवम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 613
 
 
 ### Transliteration
-```
+{{< lines >}}
 satkāramānapūjārthaṃ tapo dambhena caiva yat
 kriyate tadiha proktaṃ rājasaṃ calamadhruvam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सत्कार, मान और पूजा के उद्देश्य से, तथा पाखंड से ही जो तप किया जाता है, वह इस लोक में 'राजस' कहा गया है, जो कि अनिश्चित और क्षणिक फल देने वाला है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजसी तप के लक्षणों का वर्णन कर रहे हैं। जो तप केवल दूसरों से आदर, सम्मान और पूजा प्राप्त करने के लिए या केवल दिखावे के लिए किया जाता है, वह राजसी कहलाता है। ऐसा तप चंचल होता है और इसका फल अनिश्चित तथा नाशवान होता है।
+
+### Translation
+
+The penance which is performed for the sake of welcome, honor, and worship, and with ostentation, is declared here to be Rajasika, unstable, and temporary.
 
 ### Meaning
 

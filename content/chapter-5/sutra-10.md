@@ -8,11 +8,10 @@ sutra: 10
 position: 214
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः
 लिप्यते न स पापेन पद्मपत्रमिवाम्भसा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 214
 
 
 ### Transliteration
-```
+{{< lines >}}
 brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ
 lipyate na sa pāpena padmapatramivāmbhasā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो व्यक्ति आसक्ति को त्यागकर और सभी कर्मों को परब्रह्म को समर्पित करके कर्म करता है, वह पाप से उसी प्रकार अलिप्त रहता है, जैसे कमल का पत्ता जल से।
 
 ### भावार्थ
 
 यह श्लोक कमल के पत्ते के सुंदर उदाहरण के माध्यम से कर्मयोग के सिद्धांत को समझाता है। जिस प्रकार कमल जल में उत्पन्न होकर भी जल से अछूता रहता है, उसी प्रकार जो मनुष्य अपने सभी कर्मों को ईश्वर को अर्पण करके और फल की आसक्ति को छोड़कर कार्य करता है, वह संसार में रहते हुए भी पाप और कर्मबंधनों से मुक्त रहता है।
+
+### Translation
+
+He who performs actions dedicating them to Brahman and abandoning attachment, is not tainted by sin, just as a lotus leaf is untouched by water.
 
 ### Meaning
 

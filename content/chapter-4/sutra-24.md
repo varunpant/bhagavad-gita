@@ -8,11 +8,10 @@ sutra: 24
 position: 186
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ब्रह्मार्पणं ब्रह्महविर्ब्रह्माग्नौ ब्रह्मणा हुतम्
 ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 186
 
 
 ### Transliteration
-```
+{{< lines >}}
 brahmārpaṇaṃ brahmahavirbrahmāgnau brahmaṇā hutam
 brahmaiva tena gantavyaṃ brahmakarmasamādhinā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्पण (यज्ञ का साधन) ब्रह्म है, हवि (आहुति) ब्रह्म है, ब्रह्म रूपी अग्नि में ब्रह्म के द्वारा ही आहुति दी गई है। ब्रह्म रूपी कर्म में पूरी तरह लीन रहने वाले उस व्यक्ति द्वारा ब्रह्म को ही प्राप्त किया जाना है।
 
 ### भावार्थ
 
 यह श्लोक उस ज्ञानी पुरुष की आध्यात्मिक दृष्टि का वर्णन करता है जिसे परम ज्ञान प्राप्त हो चुका है। ऐसे व्यक्ति के लिए कर्म का हर पहलू—यज्ञ का पात्र, आहुति, अग्नि, कर्ता और कर्म—परम ब्रह्म का ही स्वरूप है। इस प्रकार ईश्वर की चेतना में पूरी तरह लीन होकर कर्म करने से मनुष्य अंततः ब्रह्म को ही प्राप्त करता है।
+
+### Translation
+
+For him, the act of offering is Brahman, the oblation is Brahman, offered by Brahman into the fire of Brahman. Brahman alone is to be attained by him who is fully absorbed in action that is Brahman.
 
 ### Meaning
 

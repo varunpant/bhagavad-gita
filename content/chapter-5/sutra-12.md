@@ -8,11 +8,10 @@ sutra: 12
 position: 216
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम्
 अयुक्तः कामकारेण फले सक्तो निबध्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 216
 
 
 ### Transliteration
-```
+{{< lines >}}
 yuktaḥ karmaphalaṃ tyaktvā śāntimāpnoti naiṣṭhikīm
 ayuktaḥ kāmakāreṇa phale sakto nibadhyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+युक्त (कर्मयोगी) कर्म के फल को त्यागकर नैष्ठिक (परम) शान्ति को प्राप्त करता है। अयुक्त (सकाम पुरुष) कामना की प्रेरणा से फल में आसक्त होकर बँध जाता है।
 
 ### भावार्थ
 
 एक सच्चा कर्मयोगी अपने कर्मों के फलों की आसक्ति को त्याग कर परम शांति प्राप्त करता है। इसके विपरीत, जो व्यक्ति ईश्वर से जुड़ा नहीं है, वह अपनी इच्छाओं के वशीभूत होकर कर्म फलों में आसक्त रहता है और इसी कारण सांसारिक बंधनों में फँस जाता है।
+
+### Translation
+
+The united one (yogi), having abandoned the fruit of action, attains steadfast peace. The un-united one, impelled by desire and attached to the fruit, becomes bound.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 22
 position: 617
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अदेशकाले यद्दानमपात्रेभ्यश्च दीयते
 असत्कृतमवज्ञातं तत्तामसमुदाहृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 617
 
 
 ### Transliteration
-```
+{{< lines >}}
 adeśakāle yaddānamapātrebhyaśca dīyate
 asatkṛtamavajñātaṃ tattāmasamudāhṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और जो दान अयोग्य स्थान तथा अनुपयुक्त समय में, और अयोग्य पात्रों को, बिना सत्कार के तथा तिरस्कारपूर्वक दिया जाता है, वह तामस कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामसिक दान के लक्षणों का वर्णन करते हैं। ऐसा दान जो बिना सोचे-समझे, गलत समय और स्थान पर, अपात्र व्यक्तियों को दिया जाता है, वह तामसिक कहलाता है। इसके अतिरिक्त, यदि दान देते समय आदर का भाव न हो और प्राप्तकर्ता का अपमान किया जाए, तो वह दान अपनी सात्त्विकता खोकर तामस श्रेणी में आ जाता है।
+
+### Translation
+
+And that charity which is given at an improper place and time, and to unworthy persons, without respect and with contempt, is declared to be of the nature of ignorance
 
 ### Meaning
 

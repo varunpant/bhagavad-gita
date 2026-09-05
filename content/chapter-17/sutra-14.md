@@ -8,11 +8,10 @@ sutra: 14
 position: 609
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम्
 ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 609
 
 
 ### Transliteration
-```
+{{< lines >}}
 deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam
 brahmacaryam ahiṃsā ca śārīraṃ tapa ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+देवताओं, ब्राह्मणों, गुरुजनों और ज्ञानियों का पूजन, पवित्रता, सरलता, ब्रह्मचर्य और अहिंसा — यह शरीर का तप कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण शारीरिक तप की व्याख्या करते हैं। शरीर के द्वारा किए जाने वाले शुभ कर्मों जैसे पूजनीय जनों का आदर, आंतरिक और बाह्य शुद्धि, सादगी, इंद्रिय-संयम और किसी भी जीव को कष्ट न पहुँचाना शारीरिक तपस्या के अंतर्गत आते हैं। यह त्रिगुणों के आधार पर तप के वर्गीकरण का पहला भाग है।
+
+### Translation
+
+Worship of the gods, the twice-born, the teachers, and the wise; purity, straightforwardness, celibacy, and non-violence — this is declared to be the austerity of the body
 
 ### Meaning
 

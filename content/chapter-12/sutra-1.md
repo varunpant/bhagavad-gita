@@ -8,12 +8,11 @@ sutra: 1
 position: 470
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते
 येचाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,27 @@ position: 470
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 evaṃ satatayuktā ye bhaktāstvāṃ paryupāsate
 ye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+इस प्रकार निरंतर लगे हुए जो भक्त आपकी उपासना करते हैं
+और जो अविनाशी अप्रकट (निराकार) की उपासना करते हैं, उन दोनों में से कौन उत्तम योगवेत्ता हैं
 
 ### भावार्थ
 
 यह बारहवें अध्याय का पहला श्लोक है, जहाँ से भक्ति योग का आरम्भ होता है। अर्जुन यहाँ भगवान कृष्ण से सगुण (साकार) और निर्गुण (निराकार) उपासकों की तुलनात्मक श्रेष्ठता के बारे में पूछ रहे हैं। वे जानना चाहते हैं कि साकार रूप में भगवान की निरंतर पूजा करने वाले भक्त और निराकार ब्रह्म की साधना करने वाले साधकों में से कौन योग का अधिक ज्ञाता है।
+
+### Translation
+
+Arjuna said:
+Those devotees who, ever steadfast, thus worship You,
+and those who worship the imperishable, the unmanifest—of these, who are the best knowers of yoga?
 
 ### Meaning
 

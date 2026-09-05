@@ -8,11 +8,10 @@ sutra: 18
 position: 298
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम्
 आस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 298
 
 
 ### Transliteration
-```
+{{< lines >}}
 udārāḥ sarva evaite jñānī tvātmaiva me matam
 āsthitaḥ sa hi yuktātmā māmevānuttamāṃ gatim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ये सभी निश्चय ही उदार हैं, परंतु ज्ञानी तो मेरी आत्मा ही है, ऐसा मेरा मत है। क्योंकि वह स्थिर बुद्धि वाला पुरुष मुझको ही अपनी सर्वोत्तम गति मानकर मुझमें ही स्थित रहता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि यद्यपि चारों प्रकार के भक्त (आर्त, अर्थार्थी, जिज्ञासु और ज्ञानी) उदार और प्रिय हैं, परंतु ज्ञानी भक्त उन्हें सबसे प्रिय है। ज्ञानी भक्त भगवान को किसी भौतिक लाभ के लिए नहीं, बल्कि केवल उनके वास्तविक स्वरूप के लिए भजता है। इसलिए कृष्ण उसे अपनी आत्मा के समान मानते हैं क्योंकि वह अनन्य भाव से केवल उन्हीं में स्थित रहता है।
+
+### Translation
+
+All these are indeed noble, but the wise self-realized person is My very Self—this is My opinion. For, with a disciplined mind, he is established in Me alone as the supreme goal.
 
 ### Meaning
 

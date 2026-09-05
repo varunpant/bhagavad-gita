@@ -8,11 +8,10 @@ sutra: 47
 position: 94
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
 मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 94
 
 
 ### Transliteration
-```
+{{< lines >}}
 karmaṇyevādhikāraste mā phaleṣu kadācana
 mā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं। तुम कर्मों के फल का हेतु मत बनो, और तुम्हारी अकर्मण्यता (कर्म न करने) में भी आसक्ति न हो।
 
 ### भावार्थ
 
 यह श्लोक निष्काम कर्मयोग का मूल सिद्धांत प्रस्तुत करता है। भगवान कृष्ण अर्जुन को समझाते हैं कि मनुष्य का नियंत्रण केवल उसके कर्मों पर है, उनके परिणामों पर नहीं। इसलिए, फल की इच्छा के बिना अपना कर्तव्य निभाना चाहिए और साथ ही कर्म से भागने की प्रवृत्ति से भी बचना चाहिए।
+
+### Translation
+
+You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.
 
 ### Meaning
 

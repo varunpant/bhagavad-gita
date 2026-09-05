@@ -8,11 +8,10 @@ sutra: 4
 position: 237
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते
 सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 237
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadā hi nendriyārtheṣu na karmasvanuṣajjate
 sarvasaṅkalpasannyāsī yogārūḍhastadocyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि जिस समय मनुष्य न तो इन्द्रियों के भोगों में और न ही कर्मों में आसक्त होता है, उस काल में समस्त संकल्पों का त्याग करने वाला पुरुष योगारूढ़ कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण योगारूढ़ (योग की पराकाष्ठा पर पहुँचे हुए) पुरुष के लक्षण बताते हैं। जब साधक की इन्द्रिय-विषयों और सांसारिक कर्मों में आसक्ति पूरी तरह समाप्त हो जाती है, और वह सभी प्रकार की कामनाओं व संकल्पों का त्याग कर देता है, तब उसे वास्तविक रूप से योग में स्थित माना जाता है।
+
+### Translation
+
+For when a person is attached neither to the objects of the senses nor to actions, having renounced all formative wills and desires, he is then said to have ascended to Yoga
 
 ### Meaning
 

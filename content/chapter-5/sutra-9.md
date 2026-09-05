@@ -8,11 +8,10 @@ sutra: 9
 position: 213
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि
 इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 213
 
 
 ### Transliteration
-```
+{{< lines >}}
 pralapan visṛjan gṛhṇann unmiṣan nimiṣann api
 indriyāṇīndriyārtheṣu vartanta iti dhārayan
+{{< /lines >}}
 
-```
+### अनुवाद
+
+...बोलते, त्यागते, ग्रहण करते, तथा आँखें खोलते और बंद करते हुए भी, यह दृढ़ विचार धारण करते हुए कि 'इन्द्रियाँ ही इन्द्रियों के विषयों में बरत रही हैं' (तत्त्ववेत्ता ऐसा मानता है कि मैं कुछ नहीं करता)।
 
 ### भावार्थ
 
 यह श्लोक पिछले श्लोक से तत्त्वज्ञानी (कर्मयोगी) के वर्णन को आगे बढ़ाता है। बोलते, मल-मूत्र त्यागते, वस्तुओं को ग्रहण करते और पलकें झपकाते जैसी स्वाभाविक क्रियाएँ करते हुए भी ज्ञानी पुरुष अनासक्त रहता है। वह यह दृढ़ विश्वास रखता है कि केवल इन्द्रियाँ ही अपने विषयों में कार्य कर रही हैं, और उसका वास्तविक स्वरूप (आत्मा) अकर्ता है।
+
+### Translation
+
+...speaking, letting go, grasping, opening and closing the eyes, holding the firm conviction that 'the senses are merely engaged in the objects of the senses.'
 
 ### Meaning
 

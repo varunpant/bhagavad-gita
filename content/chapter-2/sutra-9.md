@@ -8,12 +8,11 @@ sutra: 9
 position: 56
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप
 न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 56
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
 evamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapa
 na yotsya iti govindamuktvā tūṣṇīṃ babhūva ha
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संजय ने कहा —
+हे शत्रुओं को संताप देने वाले (धृतराष्ट्र)! हृषीकेश (कृष्ण) से इस प्रकार कहकर, गुडाकेश (अर्जुन) ने गोविन्द से कहा, "मैं युद्ध नहीं करूँगा," और वे चुप हो गए।
 
 ### भावार्थ
 
 संजय धृतराष्ट्र को बताते हैं कि अर्जुन ने युद्धभूमि में अपना अंतिम निर्णय सुना दिया है। शोक और भ्रम से घिरे हुए अर्जुन ने श्रीकृष्ण से स्पष्ट कह दिया कि वे युद्ध नहीं करेंगे और फिर चुप हो गए। अर्जुन की यह चुप्पी ही उस महान गीता के उपदेश की पृष्ठभूमि तैयार करती है, जिसे भगवान श्रीकृष्ण अब आरंभ करेंगे।
+
+### Translation
+
+Sanjaya said:
+O chastiser of enemies (Dhritarashtra), having spoken thus to Hrishikesha, Gudakesha (Arjuna) said to Govinda, "I shall not fight," and became silent.
 
 ### Meaning
 

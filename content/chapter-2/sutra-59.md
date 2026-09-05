@@ -8,11 +8,10 @@ sutra: 59
 position: 106
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 विषया विनिवर्तन्ते निराहारस्य देहिनः
 रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 106
 
 
 ### Transliteration
-```
+{{< lines >}}
 viṣayā vinivartante nirāhārasya dehinaḥ
 rasavarjaṃ raso'pyasya paraṃ dṛṣṭvā nivartate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इन्द्रियों के विषयों को ग्रहण न करने वाले देहधारी पुरुष के विषय तो निवृत्त हो जाते हैं, परन्तु उनमें रहने वाली आसक्ति (रस) निवृत्त नहीं होती। उस परमेश्वर का साक्षात्कार कर लेने पर इस पुरुष की वह आसक्ति भी निवृत्त हो जाती है।
 
 ### भावार्थ
 
 कोई भी व्यक्ति हठपूर्वक अपनी इन्द्रियों को विषयों से रोक सकता है, लेकिन मन में उन विषयों के प्रति लालसा या रस बना रहता है। जब साधक को परमात्मा के परम आनंद की अनुभूति हो जाती है, तब उसकी यह सूक्ष्म लालसा भी पूरी तरह से समाप्त हो जाती है। सच्ची इन्द्रिय-निग्रह केवल शारीरिक संयम से नहीं, बल्कि ईश्वर में उच्चतर आनंद प्राप्त करने से सिद्ध होती है।
+
+### Translation
+
+The sense objects turn away from the embodied soul who abstains from feeding on them, but the taste for them remains. Even this taste turns away from him having seen the Supreme.
 
 ### Meaning
 

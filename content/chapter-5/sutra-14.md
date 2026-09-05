@@ -8,11 +8,10 @@ sutra: 14
 position: 218
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः
 न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 218
 
 
 ### Transliteration
-```
+{{< lines >}}
 na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ
 na karmaphalasaṃyogaṃ svabhāvastu pravartate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परमेश्वर लोगों के न तो कर्तापन की, न कर्मों की, और न ही कर्मफल के संयोग की रचना करते हैं। बल्कि स्वभाव (प्रकृति) ही कार्य कर रहा है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि परमेश्वर किसी भी जीव के कर्मों, उसके कर्तापन के भाव या कर्मफलों के साथ उसके जुड़ाव का निर्माण नहीं करते हैं। वास्तव में, यह सब भौतिक प्रकृति (स्वभाव या त्रिगुणमयी माया) के कारण ही घटित होता है। अज्ञानवश जीव स्वयं को कर्ता मान लेता है, जबकि सभी कार्य प्रकृति के गुणों द्वारा ही संपन्न होते हैं।
+
+### Translation
+
+The Lord creates neither the doership nor the actions of the people, nor the connection with the fruits of actions. But it is nature that acts.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 21
 position: 68
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वेदाविनाशिनं नित्यं य एनमजमव्ययम्
 कथं स पुरुषः पार्थ कं घातयति हन्ति कम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 68
 
 
 ### Transliteration
-```
+{{< lines >}}
 vedāvināśinaṃ nityaṃ ya enamajamavyayam
 kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जो व्यक्ति इस आत्मा को अविनाशी, नित्य, अजन्मा और अव्यय जानता है, वह पुरुष कैसे किसी को मरवा सकता है या कैसे किसी को मार सकता है?
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को आत्मा की अमरता के विषय में समझाते हैं। वे तर्क देते हैं कि जब कोई व्यक्ति यह भली-भांति जान लेता है कि आत्मा नित्य और अविनाशी है, तो किसी को मारने या मरवाने का विचार ही अज्ञानपूर्ण और तर्कहीन हो जाता है। इसलिए अर्जुन को अपने संबंधियों के भौतिक शरीरों के नष्ट होने के भय से शोक नहीं करना चाहिए।
+
+### Translation
+
+O Partha, how can a person who knows this soul to be indestructible, eternal, unborn, and immutable, kill anyone or cause anyone to kill?
 
 ### Meaning
 

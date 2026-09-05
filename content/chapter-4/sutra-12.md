@@ -8,11 +8,10 @@ sutra: 12
 position: 174
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः
 क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 174
 
 
 ### Transliteration
-```
+{{< lines >}}
 kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ
 kṣipraṃ hi mānuṣe loke siddhirbhavati karmajā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस मनुष्य लोक में कर्मों की सिद्धि चाहने वाले देवताओं की पूजा करते हैं, क्योंकि कर्मों से उत्पन्न होने वाली सिद्धि शीघ्र ही मिल जाती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण बताते हैं कि लोग सकाम कर्मों में क्यों लगे रहते हैं। भौतिक इच्छाओं की पूर्ति और कार्यों में शीघ्र सफलता पाने के लिए मनुष्य विभिन्न देवताओं की पूजा करते हैं। इस मनुष्य लोक में भौतिक कर्मों का फल बहुत जल्दी प्राप्त होता है, इसलिए लोग भगवान की अनन्य भक्ति के बजाय देवताओं की ओर आकर्षित होते हैं।
+
+### Translation
+
+Those who desire success in their actions here worship the demigods, for success born of action comes quickly in the human world.
 
 ### Meaning
 

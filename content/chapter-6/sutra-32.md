@@ -8,11 +8,10 @@ sutra: 32
 position: 265
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन
 सुखं वा यदि वा दुःखं सः योगी परमो मतः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 265
 
 
 ### Transliteration
-```
+{{< lines >}}
 ātmaupamyena sarvatra samaṃ paśyati yo'rjuna
 sukhaṃ vā yadi vā duḥkhaṃ saḥ yogī paramo mataḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! जो अपनी ही समानता से सभी भूतों में सुख अथवा दुःख को समान रूप से देखता है, वह योगी परम माना गया है।
 
 ### भावार्थ
 
 इस श्लोक में श्रीकृष्ण परम योगी के लक्षण बताते हैं। जो व्यक्ति दूसरों के सुख और दुःख को अपने ही सुख-दुःख के समान समझता है, वह आत्मौपम्य (सहानुभूति और आत्म-समानता) की पराकाष्ठा पर पहुँच जाता है। ऐसा योगी सभी प्राणियों में एक ही परमात्मा का दर्शन करता है और परम सिद्धि को प्राप्त होता है।
+
+### Translation
+
+O Arjuna, he who, by comparison with himself, sees equality everywhere, whether in pleasure or in pain, is considered the highest yogi.
 
 ### Meaning
 

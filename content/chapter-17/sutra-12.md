@@ -8,11 +8,10 @@ sutra: 12
 position: 607
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अभिसंधाय तु फलं दम्भार्थमपि चैव यत्
 इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 607
 
 
 ### Transliteration
-```
+{{< lines >}}
 abhisandhāya tu phalaṃ dambhārtham api caiva yat
 ijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परंतु हे भरतश्रेष्ठ! फल को उद्देश्य बनाकर और केवल पाखंड के लिए भी जो यज्ञ किया जाता है, उस यज्ञ को तुम राजस जानो
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजस यज्ञ के लक्षणों का वर्णन कर रहे हैं। जो यज्ञ किसी सांसारिक फल या पुरस्कार की इच्छा से अथवा समाज में अपनी प्रतिष्ठा और पाखंड दिखाने के लिए किया जाता है, वह राजस कहलाता है। ऐसे यज्ञ में निष्काम भावना या श्रद्धा का अभाव होता है।
+
+### Translation
+
+But that sacrifice which is performed, O best of the Bharatas, keeping the fruit in view and also for the sake of ostentation, know that to be Rajasika
 
 ### Meaning
 

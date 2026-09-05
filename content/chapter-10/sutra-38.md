@@ -8,11 +8,10 @@ sutra: 38
 position: 410
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम्
 मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,23 @@ position: 410
 
 
 ### Transliteration
-```
+{{< lines >}}
 daṇḍo damayatāmasmi nītirasmi jigīṣatām
 maunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+दमन करने वालों का दण्ड मैं हूँ, विजय चाहने वालों की नीति मैं हूँ
+रहस्यों में मौन भी मैं ही हूँ और ज्ञानियों का ज्ञान मैं हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए शासन, नीति, रहस्य और ज्ञान के सर्वोत्तम रूपों को स्वयं का स्वरूप बताते हैं। वे दमन करने वालों की दण्ड-शक्ति हैं जो न्याय और व्यवस्था बनाए रखती है। वे विजय की इच्छा रखने वालों की नीति (नैतिक मार्ग) हैं, गुप्त रखने योग्य विषयों में मौन हैं, और ज्ञानियों का वास्तविक ज्ञान हैं।
+
+### Translation
+
+Of those who punish, I am the rod of chastisement; of those who seek victory, I am statesmanship; of secrets, I am silence; and of the wise, I am the wisdom.
 
 ### Meaning
 

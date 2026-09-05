@@ -8,11 +8,10 @@ sutra: 11
 position: 500
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मयि चानन्ययोगेन भक्ितरव्यभिचारिणी
 विविक्तदेशसेवित्वमरतिर्जनसंसदि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 500
 
 
 ### Transliteration
-```
+{{< lines >}}
 mayi cānanyayogena bhaktiravyabhicāriṇī
 viviktadeśasevitvamaratirjanasaṃsadi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझमें अनन्य योग के द्वारा अव्यभिचारिणी भक्ति तथा एकान्त और शुद्ध देश में रहने का स्वभाव और विषयी मनुष्यों के समुदाय में अरुचि
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण ज्ञान के लक्षणों को आगे बढ़ाते हुए कहते हैं कि परमेश्वर में अनन्य भाव से स्थिर रहने वाली भक्ति ही वास्तविक ज्ञान है। इसके साथ ही, साधना के अनुकूल एकांत और पवित्र स्थानों में रहने की रुचि तथा संसारी व विषयी लोगों की भीड़ से दूर रहने की प्रवृत्ति भी ज्ञान का अंग है। यह साधक को आत्म-चिन्तन में सहायक बनाती है।
+
+### Translation
+
+Unswerving devotion to Me through exclusive union, resorting to solitary places, and distaste for the society of worldly people
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 41
 position: 203
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 योगसंन्यस्तकर्माणं ज्ञानसंछिन्नसंशयम्
 आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 203
 
 
 ### Transliteration
-```
+{{< lines >}}
 yogasaṃnyastakarmāṇaṃ jñānasaṃchinnasaṃśayam
 ātmavantaṃ na karmāṇi nibadhnanti dhanañjaya
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे धनञ्जय (अर्जुन)! जिसने योग के द्वारा कर्मों का संन्यास कर दिया है, जिसके संशय ज्ञान द्वारा छिन्न-भिन्न हो गए हैं, और जो आत्मज्ञानी है, उसे कर्म नहीं बांधते।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण कर्म योग और ज्ञान योग के समन्वय का वर्णन करते हैं। वे बताते हैं कि जो व्यक्ति निष्काम भाव से कर्म करता है और ज्ञान द्वारा जिसके सभी संदेह नष्ट हो चुके हैं, वह कर्मों के बंधन से मुक्त हो जाता है। ऐसा आत्मज्ञानी पुरुष संसार में कर्म करते हुए भी उनसे कभी नहीं बंधता।
+
+### Translation
+
+O conqueror of wealth (Arjuna), actions do not bind him who has renounced actions through yoga, whose doubts have been dispelled by knowledge, and who is situated in the self.
 
 ### Meaning
 

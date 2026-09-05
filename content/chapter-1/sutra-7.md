@@ -8,11 +8,10 @@ sutra: 7
 position: 7
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम
 नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ these I name to thee for thy information.
 
 
 ### Transliteration
-```
+{{< lines >}}
 asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama
 nāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे ब्राह्मण श्रेष्ठ! हमारे पक्ष में जो प्रमुख योद्धा हैं, उन्हें भी आप जान लीजिए। मेरी सेना के जो सेनापति हैं, आपकी जानकारी के लिए मैं उनके नाम आपको बताता हूँ।
 
 ### भावार्थ
 
 दुर्योधन अपने गुरु द्रोणाचार्य का ध्यान अपनी सेना के प्रमुख योद्धाओं की ओर आकर्षित कर रहा है। पांडवों की सेना का वर्णन करने के बाद, वह अपनी सेना की शक्ति का बखान करना चाहता है। इसका मुख्य उद्देश्य गुरु द्रोणाचार्य को अपनी सेना की मजबूती का अहसास कराना और उनका उत्साह बढ़ाना है।
+
+### Translation
+
+O best of Brahmanas, know also those who are the principal warriors on our side. For your information, I shall tell you the commanders of my army.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 45
 position: 92
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन
 निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 92
 
 
 ### Transliteration
-```
+{{< lines >}}
 traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna
 nirdvandvo nityasattvastho niryogakṣema ātmavān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! वेद तीनों गुणों के कार्यरूप संसार के विषय में हैं। तुम इन तीनों गुणों से रहित हो जाओ। द्वन्द्वों से मुक्त, नित्य सत्त्वगुण में स्थित, योग (अप्राप्त की प्राप्ति) और क्षेम (प्राप्त की रक्षा) की चाह से रहित तथा आत्मपरायण बनो।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को वेदों के सकाम कर्मकाण्ड से ऊपर उठने का उपदेश देते हैं, जो मुख्य रूप से प्रकृति के तीन गुणों (सत्त्व, रज और तम) और भौतिक फलों से संबंधित हैं। वे अर्जुन को सुख-दुःख जैसे द्वन्द्वों से मुक्त होने और अप्राप्त को पाने (योग) तथा प्राप्त की रक्षा (क्षेम) करने की चिंता छोड़ने के लिए कहते हैं। शुद्ध आत्मस्वरूप में स्थित होकर ही मनुष्य वास्तविक शांति और मुक्ति प्राप्त कर सकता है।
+
+### Translation
+
+The Vedas deal with the subject of the three modes of material nature. O Arjuna, become free from these three modes. Be free from dualities, eternally fixed in purity, free from the desire for acquisition and preservation, and established in the Self.
 
 ### Meaning
 

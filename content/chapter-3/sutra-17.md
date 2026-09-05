@@ -8,11 +8,10 @@ sutra: 17
 position: 136
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः
 आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 136
 
 
 ### Transliteration
-```
+{{< lines >}}
 yastvātmaratireva syādātmatṛptaśca mānavaḥ
 ātmanyeva ca santuṣṭastasya kāryaṃ na vidyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु जो मनुष्य केवल आत्मा में ही रमण करने वाला है, आत्मा में ही तृप्त है और आत्मा में ही पूर्णतः सन्तुष्ट है, उसके लिए कोई कर्तव्य शेष नहीं रहता।
 
 ### भावार्थ
 
 पिछले श्लोकों में भगवान ने यज्ञ और नियत कर्मों के पालन पर जोर दिया था। इस श्लोक में वे उस ज्ञानी पुरुष का वर्णन कर रहे हैं जो आत्म-साक्षात्कार प्राप्त कर चुका है। जो व्यक्ति अपनी आत्मा में ही पूर्ण आनंद और संतुष्टि प्राप्त कर लेता है, वह भौतिक इच्छाओं से मुक्त हो जाता है। ऐसे आत्मज्ञानी महापुरुष के लिए संसार में कोई भी सांसारिक या वैदिक कर्तव्य शेष नहीं रहता।
+
+### Translation
+
+But for the human being who takes pleasure only in the Self, who is satisfied in the Self, and who is fully content only in the Self, there is no duty to be performed.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 611
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः
 भावसंशुद्धिरित्येतत्तपो मानसमुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 611
 
 
 ### Transliteration
-```
+{{< lines >}}
 manaḥprasādaḥ saumyatvaṃ maunamātmavinigrahaḥ
 bhāvasaṃśuddhirityetattapo mānasamucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मन की प्रसन्नता, सौम्य भाव, मौन, आत्म-संयम और अंतःकरण के भावों की भली-भांति शुद्धि — इस प्रकार यह मन का तप कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण मानसिक तपस्या के लक्षणों का वर्णन करते हैं। मन को शांत, प्रसन्न और सौम्य रखना, व्यर्थ न बोलना, मन को वश में रखना और अपने विचारों को शुद्ध रखना ही वास्तविक मानसिक तप है। यह तप मनुष्य के आंतरिक विकास के लिए अत्यंत आवश्यक है।
+
+### Translation
+
+Serenity of mind, gentleness, silence, self-control, and purity of individual existence — this is called the austerity of the mind
 
 ### Meaning
 

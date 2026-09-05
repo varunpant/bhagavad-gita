@@ -8,11 +8,10 @@ sutra: 32
 position: 79
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्
 सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 79
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadṛcchayā copapannaṃ svargadvāramapāvṛtam
 sukhinaḥ kṣatriyāḥ pārtha labhante yuddhamīdṛśam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! वे क्षत्रिय भाग्यशाली हैं, जिन्हें अपने आप प्राप्त हुआ और स्वर्ग के खुले द्वार के समान ऐसा युद्ध प्राप्त होता है।
 
 ### भावार्थ
 
 श्रीकृष्ण अर्जुन को उनके क्षत्रिय धर्म का स्मरण कराते हुए युद्ध के लिए प्रेरित कर रहे हैं। वे समझाते हैं कि बिना मांगे अपने आप प्राप्त हुआ धर्मयुद्ध एक दुर्लभ अवसर है, जो सीधे स्वर्ग के द्वार खोल देता है। इसलिए, केवल अत्यंत भाग्यशाली क्षत्रियों को ही ऐसे महान युद्ध में भाग लेने का अवसर मिलता है।
+
+### Translation
+
+O Partha, fortunate are the kshatriyas who obtain such a war, which has come of its own accord as an open door to heaven.
 
 ### Meaning
 

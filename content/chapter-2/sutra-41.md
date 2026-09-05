@@ -8,11 +8,10 @@ sutra: 41
 position: 88
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन
 बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 88
 
 
 ### Transliteration
-```
+{{< lines >}}
 vyavasāyātmikā buddhirekeha kurunandana
 bahuśākhā hyanantāśca buddhayo'vyavasāyinām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुरुनन्दन! इस मार्ग में निश्चयात्मिका बुद्धि एक ही होती है। परन्तु अनिश्चयी पुरुषों की बुद्धियाँ निश्चय ही बहुत शाखाओं वाली और अनन्त होती हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आध्यात्मिक मार्ग पर एकाग्र मन की महत्ता को समझाते हैं। दृढ़ निश्चय वाले व्यक्ति का एक ही अटल लक्ष्य होता है, जो उसे योग में सफलता दिलाता है। इसके विपरीत, जिन लोगों में दृढ़ संकल्प की कमी होती है, वे सांसारिक इच्छाओं से विचलित होते हैं, जिससे उनका मन अनन्त दिशाओं में भटकता रहता है।
+
+### Translation
+
+O descendant of Kuru, on this path the resolute intelligence is one-pointed. But the thoughts of the irresolute are indeed many-branched and endless.
 
 ### Meaning
 

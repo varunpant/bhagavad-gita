@@ -8,11 +8,10 @@ sutra: 21
 position: 510
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते
 पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 510
 
 
 ### Transliteration
-```
+{{< lines >}}
 kāryakāraṇakartṛtve hetuḥ prakṛtirucyate
 puruṣaḥ sukhaduḥkhānāṃ bhoktṛtve heturucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कार्य और करण के कर्तापन में प्रकृति हेतु कही जाती है
+और पुरुष सुख-दुखों के भोक्तापन में हेतु कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण प्रकृति (जड़ तत्व) और पुरुष (चेतन तत्व) के भिन्न-भिन्न कार्यों को स्पष्ट करते हैं। शरीर और इन्द्रियों द्वारा होने वाली समस्त क्रियाओं का कारण प्रकृति को माना गया है। इसके विपरीत, उन क्रियाओं के परिणामस्वरूप उत्पन्न होने वाले सुख और दुःख का अनुभव करने वाला पुरुष (जीवात्मा) है।
+
+### Translation
+
+In the matter of bringing about effects and causes, Nature is said to be the cause;
+in the experiencing of pleasure and pain, the individual soul is said to be the cause.
 
 ### Meaning
 

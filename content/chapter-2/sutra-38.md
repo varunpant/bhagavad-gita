@@ -8,11 +8,10 @@ sutra: 38
 position: 85
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ
 ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,14 +33,22 @@ position: 85
 
 
 ### Transliteration
-```
-sukhaduḥkhe same kṛtvā lābhālābhau jayājayau\ntato yuddhāya yujyasva naivaṃ pāpamavāpsyasi
+{{< lines >}}
+sukhaduḥkhe same kṛtvā lābhālābhau jayājayau
+tato yuddhāya yujyasva naivaṃ pāpamavāpsyasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सुख और दुःख, लाभ और हानि, तथा जय और पराजय को समान समझकर, उसके बाद तुम युद्ध के लिए तैयार हो जाओ। इस प्रकार तुम पाप को प्राप्त नहीं होओगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समभाव (समता) का उपदेश दे रहे हैं। वे कहते हैं कि युद्ध को केवल कर्तव्य समझकर करना चाहिए, न कि उसके परिणामों (सुख-दुःख, लाभ-हानि) से आसक्त होकर। इस निष्काम भाव से कर्म करने पर मनुष्य को कोई पाप नहीं लगता।
+
+### Translation
+
+Having made happiness and distress, gain and loss, and victory and defeat equal, then prepare for battle. Thus you will not incur sin.
 
 ### Meaning
 

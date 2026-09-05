@@ -8,11 +8,10 @@ sutra: 13
 position: 351
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः
 भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 351
 
 
 ### Transliteration
-```
+{{< lines >}}
 mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ
 bhajanty ananyamanaso jñātvā bhūtādim avyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! दैवी प्रकृति के आश्रित महापुरुष तो मुझे सब भूतों का आदि और अविनाशी जानकर अनन्य मन से भजते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि जो लोग आसुरी स्वभाव से मुक्त हैं और दैवी प्रकृति के आश्रित हैं, वे महापुरुष कहलाते हैं। वे कृष्ण को समस्त सृष्टि का आदि कारण और अविनाशी परमेश्वर जानकर अनन्य भाव से उनकी भक्ति करते हैं। उनका मन कभी भी भगवान से विचलित नहीं होता।
+
+### Translation
+
+O Partha, the great souls, however, taking shelter of the divine nature, worship Me with single-minded devotion, knowing Me as the imperishable source of all beings.
 
 ### Meaning
 

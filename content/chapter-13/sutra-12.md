@@ -8,11 +8,10 @@ sutra: 12
 position: 501
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम्
 एतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोन्यथा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 501
 
 
 ### Transliteration
-```
+{{< lines >}}
 adhyātmajñānanityatvaṃ tattvajñānārthadarśanam
 etajjñānamiti proktamajñānaṃ yadato'nyathā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अध्यात्म ज्ञान में नित्य स्थिति और तत्त्वज्ञान के अर्थरूप परमात्मा का प्रत्यक्ष दर्शन — यह सब तो ज्ञान कहा गया है और जो इसके विपरीत है, वह अज्ञान है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ज्ञान के अंतिम दो लक्षणों का वर्णन करते हैं। आत्मा और परमात्मा के विषय में निरंतर चिंतन करना तथा सत्य के साक्षात्कार को ही परम लक्ष्य मानना वास्तविक ज्ञान है। इसके अतिरिक्त जो कुछ भी सांसारिक प्रपंच है, उसे अज्ञान की श्रेणी में रखा गया है।
+
+### Translation
+
+Constancy in self-knowledge, perception of the object of true knowledge — this is declared to be knowledge, and what is contrary to this is ignorance
 
 ### Meaning
 

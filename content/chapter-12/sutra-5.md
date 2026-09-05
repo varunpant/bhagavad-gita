@@ -8,11 +8,10 @@ sutra: 5
 position: 474
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्
 अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 474
 
 
 ### Transliteration
-```
+{{< lines >}}
 kleśo'dhikatarasteṣāmavyaktāsaktacetasām
 avyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उन अव्यक्त (निराकार) में आसक्त चित्त वाले मनुष्यों के साधन में क्लेश (परिश्रम) अधिक है, क्योंकि देहाभिमानियों द्वारा अव्यक्त गति दुःखपूर्वक प्राप्त की जाती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण निराकार (अव्यक्त) ब्रह्म की उपासना के मार्ग की कठिनाई का वर्णन करते हैं। जो साधक अपने शरीर को ही अपनी पहचान मानते हैं (देहाभिमानी हैं), उनके लिए निराकार परमात्मा पर ध्यान केंद्रित करना अत्यंत कठिन होता है। इसलिए, साकार रूप की भक्ति को अपेक्षाकृत सुगम और सुलभ मार्ग माना गया है।
+
+### Translation
+
+Greater is the struggle for those whose minds are attached to the unmanifest; for the unmanifest goal is difficult to attain for the embodied.
 
 ### Meaning
 

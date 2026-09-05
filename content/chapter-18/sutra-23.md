@@ -8,11 +8,10 @@ sutra: 23
 position: 646
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नियतं सङ्गरहितमरागद्वेषतः कृतम्
 अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 646
 
 
 ### Transliteration
-```
+{{< lines >}}
 niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam
 aphala-prepsunā karma yat tat sāttvikam ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो कर्म शास्त्रविधि से नियत किया गया हो, आसक्ति से रहित हो, और राग-द्वेष के बिना, फल की इच्छा न रखने वाले मनुष्य द्वारा किया गया हो, वह सात्त्विक कहलाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक कर्म के लक्षणों को परिभाषित करते हैं। सात्त्विक कर्म वह है जो कर्तव्य समझकर, बिना किसी व्यक्तिगत राग-द्वेष के और बिना फल की आकांक्षा के किया जाता है। ऐसा कर्म कर्ता को बंधन में नहीं डालता बल्कि उसे आध्यात्मिक उन्नति की ओर ले जाता है।
+
+### Translation
+
+That action which is ordained by scripture, which is free from attachment, and which is performed without desire for its fruits by one who is free from likes and dislikes, is said to be of the nature of goodness
 
 ### Meaning
 

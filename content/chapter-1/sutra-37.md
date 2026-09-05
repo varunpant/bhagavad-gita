@@ -8,11 +8,10 @@ sutra: 37
 position: 37
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्
 स्वजनं हि कथं हत्वा सुखिनः स्याम माधव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ our relatives; for how can we be happy by killing our own people, O Madhava
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān
 svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए हे माधव! अपने ही बान्धव धृतराष्ट्र के पुत्रों को मारना हमारे लिए उचित नहीं है। क्योंकि अपने ही कुटुम्बियों को मारकर हम कैसे सुखी हो सकते हैं?
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण से कहते हैं कि अपने ही सगे-संबंधियों और कौरवों का वध करना किसी भी दृष्टि से उचित नहीं है। वह तर्क देते हैं कि अपने ही परिवार के लोगों को मारकर कोई भी व्यक्ति कभी सुख या शांति प्राप्त नहीं कर सकता। यह श्लोक अर्जुन के गहरे पारिवारिक मोह और युद्ध के परिणामों के प्रति उनके भय को दर्शाता है।
+
+### Translation
+
+Therefore, O Madhava, it is not proper for us to kill the sons of Dhritarashtra, our own relatives. For how can we be happy by killing our own kinsmen?
 
 ### Meaning
 

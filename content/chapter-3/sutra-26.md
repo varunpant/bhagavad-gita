@@ -8,11 +8,10 @@ sutra: 26
 position: 145
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम्
 जोषयेत्सर्वकर्माणि विद्वान् युक्तः समाचरन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 145
 
 
 ### Transliteration
-```
+{{< lines >}}
 na buddhibhedaṃ janayedajñānāṃ karmasaṅginām
 joṣayetsarvakarmāṇi vidvān yuktaḥ samācaran
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ज्ञानी पुरुष को चाहिए कि वह सकाम कर्मों में आसक्त अज्ञानियों की बुद्धि में भ्रम उत्पन्न न करे। स्वयं योगयुक्त होकर भली-भांति कर्म करता हुआ, वह उनसे भी सभी कर्म करवाए।
 
 ### भावार्थ
 
 भगवान कृष्ण ज्ञानी पुरुषों को निर्देश देते हैं कि वे कर्मों में आसक्त अज्ञानियों को अचानक कर्म छोड़ने के लिए कहकर भ्रमित न करें। इसके विपरीत, एक ज्ञानी व्यक्ति को स्वयं अनासक्त भाव से अपने सभी कर्तव्य करते हुए एक आदर्श प्रस्तुत करना चाहिए। ऐसा करने से अज्ञानी लोग भी प्रेरित होते हैं और धीरे-धीरे निष्काम कर्म की ओर बढ़ते हैं।
+
+### Translation
+
+Let not the wise man create a division in the minds of the ignorant who are attached to fruitive actions. The wise man, steadfast and performing his duties, should engage them in all actions.
 
 ### Meaning
 

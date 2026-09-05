@@ -8,11 +8,10 @@ sutra: 10
 position: 129
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः
 अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 129
 
 
 ### Transliteration
-```
+{{< lines >}}
 sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ
 anena prasaviṣyadhvameṣa vo'stviṣṭakāmadhuk
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सृष्टि के आरम्भ में प्रजापति ने यज्ञ सहित प्रजाओं की रचना करके कहा, "इस यज्ञ के द्वारा तुम लोग वृद्धि को प्राप्त हो, और यह यज्ञ तुम्हारी इच्छित कामनाओं को पूर्ण करने वाला हो।"
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण कर्मयोग के महत्व को समझाते हुए सृष्टि के आरम्भ का संदर्भ देते हैं। प्रजापति ब्रह्मा ने मनुष्यों को उनके कर्तव्यों (यज्ञ) के साथ उत्पन्न किया था। उन्होंने यह आशीर्वाद दिया कि निःस्वार्थ भाव से अपने कर्तव्यों का पालन करने से ही मनुष्य समाज की उन्नति होगी और उनकी सभी आवश्यकताएं पूरी होंगी।
+
+### Translation
+
+In the beginning of creation, Prajapati created mankind along with sacrifices and said, "By this shall you prosper, and let this be the bestower of your desired enjoyments."
 
 ### Meaning
 

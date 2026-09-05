@@ -8,11 +8,10 @@ sutra: 30
 position: 368
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अपि चेत्सुदुराचारो भजते मामनन्यभाक्
 साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 368
 
 
 ### Transliteration
-```
+{{< lines >}}
 api cet sudurācāro bhajate mām ananyabhāk
 sādhur eva sa mantavyaḥ samyag vyavasito hi saḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि कोई अत्यंत दुराचारी भी अनन्य भाव से मेरा भजन करता है, तो उसे साधु ही मानना चाहिए, क्योंकि उसने सही निश्चय कर लिया है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण भक्ति की परम पावनकारी शक्ति का वर्णन कर रहे हैं। वे कहते हैं कि यदि कोई घोर पापी भी अन्य किसी का आश्रय न लेकर केवल मेरी शरण में आ जाता है, तो उसे परम पवित्र साधु ही समझना चाहिए। ऐसा इसलिए है क्योंकि उसने अपने जीवन का सर्वोत्तम और सही निर्णय ले लिया है कि ईश्वर की भक्ति ही एकमात्र सत्य है।
+
+### Translation
+
+Even if a person of the most vile conduct worships Me with undivided devotion, he must be regarded as righteous, for he has resolved rightly.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 17
 position: 221
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः
 गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 221
 
 
 ### Transliteration
-```
+{{< lines >}}
 tadbuddhayastadātmānastanniṣṭhāstatparāyaṇāḥ
 gacchantyapunarāvṛttiṃ jñānanirdhūtakalmaṣāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिनकी बुद्धि उस (परमात्मा) में स्थित है, जिनका मन उस (परमात्मा) में स्थित है, जिनकी निष्ठा उस (परमात्मा) में है और जो उस (परमात्मा) के ही आश्रित हैं, वे ज्ञान द्वारा पापों से मुक्त होकर अपुनरावृत्ति (मोक्ष) को प्राप्त होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस अवस्था का वर्णन करते हैं जब व्यक्ति पूरी तरह से परमात्मा में लीन हो जाता है। जब किसी की बुद्धि, मन, निष्ठा और सर्वोच्च लक्ष्य केवल परमात्मा ही होते हैं, तो ज्ञान के द्वारा उसके सभी पाप और अशुद्धियाँ धुल जाती हैं। परिणामस्वरूप, ऐसे ज्ञानी पुरुष मोक्ष को प्राप्त करते हैं और जन्म-मृत्यु के इस चक्र में वापस नहीं लौटते।
+
+### Translation
+
+Those whose intelligence is fixed in the Supreme, whose mind is fixed in the Supreme, whose steadfast faith is in the Supreme, and who take refuge in the Supreme, go to a state of no return, their impurities having been cleansed by knowledge.
 
 ### Meaning
 

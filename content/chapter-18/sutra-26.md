@@ -8,11 +8,10 @@ sutra: 26
 position: 649
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः
 सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 649
 
 
 ### Transliteration
-```
+{{< lines >}}
 muktasaṅgo'nahamvādī dhṛtyutsāhasamanvitaḥ
 siddhyasiddhyornirvikāraḥ kartā sāttvika ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आसक्ति से रहित, अहंकार के वचन न बोलने वाला, धैर्य और उत्साह से युक्त तथा सफलता और असफलता में विकाररहित (हर्ष-शोक से मुक्त) कर्ता सात्त्विक कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक कर्ता के लक्षणों का वर्णन करते हैं। सात्त्विक कर्ता वह है जो कर्म के फलों या कर्तापन के अभिमान से आसक्त नहीं होता। वह धैर्य और उत्साह के साथ अपना कर्तव्य करता है, और कार्य सिद्ध हो या न हो, दोनों ही परिस्थितियों में समभाव रहता है।
+
+### Translation
+
+The doer who is free from attachment, free from egotism, endowed with fortitude and enthusiasm, and unperturbed by success or failure, is called sattvica (pure)
 
 ### Meaning
 

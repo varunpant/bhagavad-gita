@@ -8,12 +8,11 @@ sutra: 4
 position: 51
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 कथं भीष्ममहं संख्ये द्रोणं च मधुसूदन
 इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 51
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 kathaṃ bhīṣmamahaṃ saṃkhye droṇaṃ ca madhusūdana
 iṣubhiḥ pratiyotsyāmi pūjārhāvarisūdana
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे मधुसूदन! हे अरिसूदन! मैं युद्धभूमि में भीष्म और द्रोण जैसे पूजनीय व्यक्तियों के विरुद्ध बाणों से कैसे युद्ध करूँगा?
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के समक्ष अपनी दुविधा और शोक व्यक्त कर रहे हैं। वे कहते हैं कि भीष्म पितामह और गुरु द्रोणाचार्य उनके लिए अत्यंत पूजनीय हैं। ऐसे आदरणीय गुरुजनों और संबंधियों पर बाण चलाना उनके लिए नैतिक रूप से असंभव है, भले ही वे शत्रु पक्ष में क्यों न खड़े हों।
+
+### Translation
+
+Arjuna said:
+O Madhusudana, O destroyer of enemies, how shall I fight with arrows in battle against Bhishma and Drona, who are worthy of worship?
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 48
 position: 462
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न वेदयज्ञाध्ययनैर्न दानै    र्न च क्रियाभिर्न तपोभिरुग्रैः
 एवंरूपः शक्य अहं नृलोके    द्रष्टुं त्वदन्येन कुरुप्रवीर
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 462
 
 
 ### Transliteration
-```
-na vedayajñādhyayanairna dānair
-na ca kriyābhirna tapobhirugraiḥ
-evaṁrūpaḥ śakya ahaṁ nṛloke
-draṣṭuṁ tvadanyena kurupravīra
+{{< lines >}}
+na vedayajñādhyayanairna dānair na ca kriyābhirna tapobhirugraiḥ
+evaṁrūpaḥ śakya ahaṁ nṛloke draṣṭuṁ tvadanyena kurupravīra
+{{< /lines >}}
 
-```
+### अनुवाद
+
+न वेदों और यज्ञों के अध्ययन से, न दान से, न क्रियाओं (अनुष्ठानों) से और न ही उग्र तपस्याओं से, इस मनुष्य लोक में तुम्हारे अतिरिक्त किसी अन्य द्वारा मैं इस रूप वाला (विश्वरूप वाला) देखा जा सकता हूँ, हे कुरुश्रेष्ठ अर्जुन।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को अपने इस परम ऐश्वर्यशाली विश्वरूप की दुर्लभता के बारे में बता रहे हैं। वे स्पष्ट करते हैं कि केवल बाहरी धार्मिक अनुष्ठानों, वेदों के अध्ययन, दान या कठिन तपस्या के बल पर इस विराट रूप के दर्शन नहीं किए जा सकते। अर्जुन पर भगवान की विशेष कृपा थी, जिसके कारण उन्हें यह दिव्य दर्शन प्राप्त हुआ।
+
+### Translation
+
+Neither by the study of the Vedas and sacrifices, nor by charity, nor by rituals, nor by severe penances, can I be seen in this form in the world of men by anyone other than you, O hero of the Kurus.
 
 ### Meaning
 

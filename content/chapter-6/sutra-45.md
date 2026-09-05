@@ -8,11 +8,10 @@ sutra: 45
 position: 278
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः
 अनेकजन्मसंसिद्धस्ततो याति परां गतिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 278
 
 
 ### Transliteration
-```
+{{< lines >}}
 prayatnād yatamānas tu yogī saṃśuddha-kilbiṣaḥ
 aneka-janma-saṃsiddhas tato yāti parāṃ gatim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु प्रयत्नपूर्वक अभ्यास करने वाला योगी, पापों से सर्वथा शुद्ध होकर, अनेक जन्मों की साधना से सिद्ध होकर, तत्पश्चात् परम गति को प्राप्त करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को आश्वस्त करते हैं कि योग का अभ्यास कभी व्यर्थ नहीं जाता। यदि कोई साधक इस जन्म में पूर्णता प्राप्त नहीं कर पाता, तो भी वह अगले जन्मों में अपनी यात्रा जारी रखता है। अनेक जन्मों के संचित प्रयासों से अंततः वह सभी पापों से मुक्त होकर परम गति (मोक्ष) को प्राप्त कर लेता है।
+
+### Translation
+
+But the yogi who strives with assiduous effort, purified of all sins and perfected through many births, then attains the supreme goal
 
 ### Meaning
 

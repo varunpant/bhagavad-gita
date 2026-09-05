@@ -8,11 +8,10 @@ sutra: 8
 position: 241
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः
 युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 241
 
 
 ### Transliteration
-```
+{{< lines >}}
 jñānavijñānatṛptātmā kūṭastho vijitendriyaḥ
 yukta ityucyate yogī samaloṣṭāśmakāñcanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ज्ञान और विज्ञान से तृप्त आत्मा वाला, कूटस्थ (विकाररहित), इन्द्रियों को जीतने वाला और मिट्टी, पत्थर तथा सुवर्ण में समान भाव रखने वाला योगी युक्त (भगवत्प्राप्त) कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में सिद्ध योगी के लक्षणों का वर्णन किया गया है। जिस व्यक्ति का अंतःकरण शास्त्रज्ञान और आत्मानुभूति दोनों से पूर्णतः संतुष्ट है, वह संसार के द्वंद्वों से विचलित नहीं होता। उसके लिए मिट्टी का ढेला, पत्थर और सोना सब एक समान मूल्य के हो जाते हैं क्योंकि वह भौतिक वस्तुओं से परे परम सत्य में स्थित हो चुका है।
+
+### Translation
+
+The yogi whose soul is satisfied with spiritual knowledge and realization, who is unchanging, who has conquered his senses, and to whom a clod of earth, a stone, and gold are the same, is said to be united in yoga
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 6
 position: 316
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम्
 तं तमेवैति कौन्तेय सदा तद्भावभावितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 316
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram
 taṃ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र अर्जुन! मनुष्य अन्तकाल में जिस-जिस भी भाव का स्मरण करते हुए शरीर का त्याग करता है, वह सदा उसी भाव से भावित रहने के कारण उसी को प्राप्त होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण मृत्यु के समय मन की स्थिति के महत्व को समझाते हैं। जीवन भर मनुष्य जिस विचार या भाव में लीन रहता है, अंत समय में भी उसे उसी का स्मरण होता है। वही अंतिम विचार जीवात्मा की अगली गति और शरीर का निर्धारण करता है।
+
+### Translation
+
+O son of Kunti, whatever state of being one remembers when he quits his body at the end, to that state he surely attains, being always absorbed in that state.
 
 ### Meaning
 

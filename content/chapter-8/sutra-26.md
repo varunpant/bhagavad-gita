@@ -8,11 +8,10 @@ sutra: 26
 position: 336
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते
 एकया यात्यनावृत्तिमन्ययाऽऽवर्तते पुनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 336
 
 
 ### Transliteration
-```
+{{< lines >}}
 śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate
 ekayā yātyanāvṛttimanyayā'vartate punaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि जगत के ये दो मार्ग — शुक्ल और कृष्ण — सनातन माने गए हैं।
+एक के द्वारा मनुष्य वापस न लौटने वाली परम गति को प्राप्त होता है और दूसरे के द्वारा पुनः वापस लौटता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ब्रह्मांड के दो शाश्वत मार्गों, शुक्ल (प्रकाश का मार्ग) और कृष्ण (अंधकार का मार्ग) का वर्णन करते हैं। शुक्ल मार्ग ज्ञान और मुक्ति की ओर ले जाता है, जिससे जीव को पुनर्जन्म के चक्र से मुक्ति मिलती है। इसके विपरीत, कृष्ण मार्ग सकाम कर्मों और अज्ञान का मार्ग है, जो जीव को पुनः मृत्युलोक में वापस ले आता है।
+
+### Translation
+
+For these two paths of the world — the bright and the dark — are considered eternal.
+By the one, a person goes to non-return; by the other, he returns again.
 
 ### Meaning
 

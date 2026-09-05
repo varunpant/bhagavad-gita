@@ -8,11 +8,10 @@ sutra: 41
 position: 413
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा
 तत्तदेवावगच्छ त्वं मम तेजोंऽशसंभवम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 413
 
 
 ### Transliteration
-```
+{{< lines >}}
 yad yad vibhūtimat sattvaṃ śrīmad ūrjitameva vā
 tat tad evāvagaccha tvaṃ mama tejo'ṃśasambhavam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो-जो भी ऐश्वर्ययुक्त, कान्तियुक्त और शक्ति-सामर्थ्ययुक्त प्राणी या वस्तु है, उस-उसको तुम मेरे ही तेज के अंश से उत्पन्न जानो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अपनी विभूतियों का सार समझा रहे हैं। वे कहते हैं कि संसार में जो कुछ भी ऐश्वर्यशाली, सुंदर, कान्तियुक्त या अत्यंत बलशाली दिखाई देता है, वह सब परमात्मा के ही अनंत तेज के एक छोटे से अंश से उत्पन्न हुआ है। अतः किसी भी उत्कृष्ट वस्तु को देखकर मनुष्य को साक्षात् ईश्वर की ही महिमा का स्मरण करना चाहिए।
+
+### Translation
+
+Whatever being exists that is glorious, prosperous, or powerful, know that to be manifested from a mere fraction of My splendor.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 20
 position: 182
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः
 कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 182
 
 
 ### Transliteration
-```
+{{< lines >}}
 tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ
 karmaṇyabhipravṛtto'pi naiva kiñcitkaroti saḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कर्म के फलों की आसक्ति को त्याग कर, जो नित्य तृप्त है और किसी पर आश्रित नहीं है, वह कर्मों में पूरी तरह प्रवृत्त होने पर भी वास्तव में कुछ नहीं करता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण निष्काम कर्मयोग की अवस्था का वर्णन कर रहे हैं। जो व्यक्ति अपने कर्मों के फल की इच्छा को पूरी तरह से छोड़ देता है, वह भीतर से हमेशा संतुष्ट और स्वतंत्र रहता है। ऐसा ज्ञानी पुरुष संसार के सभी कार्यों में सक्रिय रूप से भाग लेते हुए भी वास्तव में कोई कर्म नहीं करता, क्योंकि उसके कर्म उसे किसी बंधन में नहीं डालते।
+
+### Translation
+
+Having abandoned attachment to the fruits of action, always satisfied and independent, he does not do anything at all even though fully engaged in action.
 
 ### Meaning
 

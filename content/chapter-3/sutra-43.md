@@ -8,11 +8,10 @@ sutra: 43
 position: 162
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना
 जहि शत्रुं महाबाहो कामरूपं दुरासदम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 162
 
 
 ### Transliteration
-```
+{{< lines >}}
 evaṃ buddheḥ paraṃ buddhvā saṃstabhyātmānamātmanā
 jahi śatruṃ mahābāho kāmarūpaṃ durāsadam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे महाबाहु! इस प्रकार बुद्धि से श्रेष्ठ आत्मा को जानकर और शुद्ध बुद्धि द्वारा मन को स्थिर करके, कामरूप इस दुर्जय शत्रु को मार डालो।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को काम (वासना) पर विजय प्राप्त करने का अंतिम उपाय बताते हैं। वे समझाते हैं कि आत्मा इंद्रियों, मन और बुद्धि से भी श्रेष्ठ है। अपनी वास्तविक आध्यात्मिक पहचान को जानकर और आध्यात्मिक बुद्धि से मन को स्थिर करके, मनुष्य काम रूपी इस अजेय शत्रु को नष्ट कर सकता है।
+
+### Translation
+
+O mighty-armed one, thus knowing Him who is superior to the intelligence, and steadying the mind by the deliberate intelligence, conquer this formidable enemy in the form of lust.
 
 ### Meaning
 

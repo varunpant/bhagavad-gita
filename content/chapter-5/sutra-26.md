@@ -8,11 +8,10 @@ sutra: 26
 position: 230
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कामक्रोधवियुक्तानां यतीनां यतचेतसाम्
 अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 230
 
 
 ### Transliteration
-```
+{{< lines >}}
 kāmakrodhaviyuktānāṃ yatīnāṃ yatacetasām
 abhito brahmanirvāṇaṃ vartate viditātmanām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+काम और क्रोध से सर्वथा मुक्त, मन को वश में करने वाले और आत्मज्ञानी संन्यासियों के लिए सब ओर से शांत परब्रह्म (ब्रह्मनिर्वाण) ही विद्यमान रहता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन संन्यासियों की स्थिति का वर्णन करते हैं जिन्होंने काम और क्रोध पर पूर्ण विजय प्राप्त कर ली है। ऐसे संयमित चित्त वाले और आत्मज्ञानी पुरुषों के लिए जीवित रहते हुए भी और शरीर छूटने के बाद भी, सब ओर केवल परमानन्द स्वरूप ब्रह्मनिर्वाण ही विद्यमान रहता है। यह कर्मयोग और ज्ञानयोग की चरम परिणति है।
+
+### Translation
+
+For those self-controlled ascetics who are free from desire and anger, who have controlled their minds, and who have realized the Self, liberation in Brahman (supreme peace) exists everywhere.
 
 ### Meaning
 

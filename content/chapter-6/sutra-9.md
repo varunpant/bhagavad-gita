@@ -8,11 +8,10 @@ sutra: 9
 position: 242
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु
 साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 242
 
 
 ### Transliteration
-```
+{{< lines >}}
 suhṛn-mitrāry-udāsīna-madhyastha-dveṣya-bandhuṣu
 sādhuṣv api ca pāpeṣu sama-buddhir viśiṣyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सुहृद्, मित्र, शत्रु, उदासीन, मध्यस्थ, द्वेष्य और बन्धुओं में, तथा साधुओं में और पापियों में भी समान बुद्धि रखने वाला मनुष्य श्रेष्ठ है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समत्व योग की पराकाष्ठा का वर्णन कर रहे हैं। जो साधक सभी प्रकार के मनुष्यों—चाहे वे हितैषी हों, मित्र हों, शत्रु हों, तटस्थ हों, मध्यस्थ हों, द्वेष के योग्य हों, सम्बन्धी हों, धर्मात्मा हों या पापी हों—सभी के प्रति राग-द्वेष से रहित होकर समान भाव रखता है, वह योगियों में परम श्रेष्ठ माना जाता है। यह समता ही वास्तविक आध्यात्मिक उन्नति की पहचान है।
+
+### Translation
+
+He who is equal-minded toward well-wishers, friends, enemies, the indifferent, mediators, the hateful, and relatives, as well as toward the righteous and the sinners, is distinguished.
 
 ### Meaning
 

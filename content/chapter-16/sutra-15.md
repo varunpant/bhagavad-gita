@@ -8,11 +8,10 @@ sutra: 15
 position: 586
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया
 यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 586
 
 
 ### Transliteration
-```
+{{< lines >}}
 āḍhyo'bhijanavānasmi ko'nyo'sti sadṛśo mayā
 yakṣye dāsyāmi modiṣya ityajñānavimohitāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं धनवान हूँ और कुलीन हूँ। मेरे समान दूसरा कौन है?
+मैं यज्ञ करूँगा, दान दूँगा और आमोद-प्रमोद करूँगा—इस प्रकार वे अज्ञान से मोहित रहते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आसुरी प्रवृत्ति वाले मनुष्यों की मानसिक स्थिति का वर्णन कर रहे हैं। ऐसे लोग अत्यधिक अहंकार, धन और सामाजिक प्रतिष्ठा के मद में चूर रहते हैं। वे स्वयं को सर्वश्रेष्ठ मानते हैं और धार्मिक कार्यों (जैसे यज्ञ और दान) को भी केवल अपनी कीर्ति और अहंकार की संतुष्टि के लिए करते हैं, जो कि उनके गहरे अज्ञान को दर्शाता है।
+
+### Translation
+
+I am wealthy and well-born. Who else is equal to me?
+I will perform sacrifices, I will give charity, I will rejoice—thus they are deluded by ignorance.
 
 ### Meaning
 

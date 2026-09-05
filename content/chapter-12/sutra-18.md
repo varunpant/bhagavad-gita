@@ -8,11 +8,10 @@ sutra: 18
 position: 487
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 समः शत्रौ च मित्रे च तथा मानापमानयोः
 शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 487
 
 
 ### Transliteration
-```
+{{< lines >}}
 samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ
 śītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो शत्रु और मित्र में तथा मान और अपमान में समान है, और जो सर्दी-गर्मी तथा सुख-दुःख में समान है और आसक्ति से रहित है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस भक्त के गुणों का वर्णन कर रहे हैं जो उन्हें अत्यंत प्रिय है। ऐसा व्यक्ति अनुकूल और प्रतिकूल दोनों परिस्थितियों में अपना मानसिक संतुलन बनाए रखता है। वह किसी के प्रति द्वेष या विशेष आसक्ति नहीं रखता और भौतिक द्वंद्वों से अप्रभावित रहता है।
+
+### Translation
+
+He who is equal to foe and friend, and also in honor and dishonor, who is the same in cold and heat, pleasure and pain, and who is free from attachment.
 
 ### Meaning
 

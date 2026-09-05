@@ -8,11 +8,10 @@ sutra: 5
 position: 494
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक्
 ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्िचतैः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 494
 
 
 ### Transliteration
-```
+{{< lines >}}
 ṛṣibhirbahudhā gītaṃ chandobhirvividhaiḥ pṛthak
 brahmasūtrapadaiścaiva hetumadbhirviniścitaiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ऋषियों द्वारा बहुत प्रकार से गाया गया है, विविध वेदमन्त्रों द्वारा पृथक-पृथक रूप से, और हेतुयुक्त तथा भली-भाँति निश्चय किए हुए ब्रह्मसूत्र के पदों द्वारा भी वैसे ही गाया गया है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि क्षेत्र (शरीर) और क्षेत्रज्ञ (आत्मा) का यह ज्ञान कोई नया नहीं है। इसे प्राचीन काल से ही ऋषियों ने विभिन्न वैदिक छन्दों और उपनिषदों में विस्तार से समझाया है। इसके अतिरिक्त, अत्यंत तार्किक और अकाट्य प्रमाणों से युक्त ब्रह्मसूत्र के पदों में भी इसी सत्य का प्रतिपादन किया गया है।
+
+### Translation
+
+It has been sung by the sages in many ways, individually in various Vedic hymns, and also in the well-reasoned and decisive passages of the Brahma-sutras.
 
 ### Meaning
 

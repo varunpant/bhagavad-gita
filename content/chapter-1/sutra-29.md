@@ -8,11 +8,10 @@ sutra: 29
 position: 29
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सीदन्ति मम गात्राणि मुखं च परिशुष्यति
 वेपथुश्च शरीरे मे रोमहर्षश्च जायते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ my hair stands on end.
 
 
 ### Transliteration
-```
+{{< lines >}}
 sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati
 vepathuśca śarīre me romaharṣaśca jāyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मेरे अंग शिथिल हो रहे हैं और मेरा मुख सूख रहा है। मेरे शरीर में कंपन हो रहा है और रोंगटे खड़े हो रहे हैं।
 
 ### भावार्थ
 
 अर्जुन युद्ध के मैदान में अपने सगे-संबंधियों को देखकर उत्पन्न हुए गहरे मानसिक और भावनात्मक तनाव का वर्णन कर रहे हैं। इस अत्यधिक शोक और मोह के कारण उनके शरीर में कंपन हो रहा है, मुख सूख रहा है और रोंगटे खड़े हो रहे हैं। यह श्लोक अर्जुन के भीतर चल रहे धर्म और पारिवारिक मोह के बीच के तीव्र द्वंद्व को दर्शाता है।
+
+### Translation
+
+My limbs are failing, and my mouth is drying up. My body is trembling, and my hair is standing on end.
 
 ### Meaning
 

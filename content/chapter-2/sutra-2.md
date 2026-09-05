@@ -8,11 +8,11 @@ sutra: 2
 position: 49
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्
+{{< lines >}}
+श्री भगवानुवाच
+कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्
 अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 49
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī bhagavān uvāca
 kutas tvā kaśmalam idaṃ viṣame samupasthitam
 anāryajuṣṭam asvargyam akīrtikaram arjuna
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+हे अर्जुन! इस विषम परिस्थिति में तुम्हारे अंदर यह अज्ञान (मोह) कहाँ से आ गया? यह न तो श्रेष्ठ पुरुषों द्वारा आचरित है, न स्वर्ग देने वाला है और न ही कीर्ति करने वाला है।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण युद्धभूमि में अर्जुन के अचानक उत्पन्न हुए मोह और कायरता पर आश्चर्य व्यक्त करते हैं। वे अर्जुन को फटकारते हुए कहते हैं कि ऐसा आचरण किसी श्रेष्ठ पुरुष (आर्य) को शोभा नहीं देता। श्रीकृष्ण उसे याद दिलाते हैं कि अपने कर्तव्य से विमुख होने पर न तो उसे इस लोक में यश मिलेगा और न ही मृत्यु के पश्चात उच्च लोकों की प्राप्ति होगी।
+
+### Translation
+
+The Supreme Lord said:
+From where has this delusion come upon you in this hour of peril? It is not practiced by honorable men, it does not lead to heaven, and it causes infamy, O Arjuna.
 
 ### Meaning
 

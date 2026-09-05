@@ -8,11 +8,10 @@ sutra: 6
 position: 125
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्
 इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 125
 
 
 ### Transliteration
-```
+{{< lines >}}
 karmendriyāṇi saṃyamya ya āste manasā smaran
 indriyārthānvimūḍhātmā mithyācāraḥ sa ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य कर्मेन्द्रियों को वश में करके, मन से इन्द्रियों के विषयों का स्मरण करता रहता है, वह मूढ़ बुद्धि वाला मनुष्य मिथ्याचारी (पाखण्डी) कहा जाता है।
 
 ### भावार्थ
 
 श्रीकृष्ण यहाँ झूठे संन्यास या पाखण्ड की निंदा करते हैं। जो व्यक्ति केवल बाहर से अपनी कर्मेन्द्रियों को रोक लेता है, लेकिन मन ही मन सांसारिक सुखों और विषयों के बारे में सोचता रहता है, वह सच्चा संन्यासी नहीं बल्कि पाखण्डी है। सच्ची साधना के लिए शरीर के साथ-साथ मन का नियंत्रण भी आवश्यक है।
+
+### Translation
+
+He who, restraining the organs of action, sits remembering the sense objects with his mind, that deluded soul is called a hypocrite.
 
 ### Meaning
 

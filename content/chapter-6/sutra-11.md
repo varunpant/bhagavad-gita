@@ -8,11 +8,10 @@ sutra: 11
 position: 244
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः
 नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 244
 
 
 ### Transliteration
-```
+{{< lines >}}
 śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ
 nātyucchritaṃ nātinīcaṃ cailājinakuśottaram
+{{< /lines >}}
 
-```
+### अनुवाद
+
+पवित्र स्थान पर अपने लिए स्थिर आसन को स्थापित करके, जो न बहुत ऊँचा हो और न बहुत नीचा, तथा जो कुशा घास, मृगछाला और वस्त्र से एक के ऊपर एक ढका हो।
 
 ### भावार्थ
 
 इस श्लोक में ध्यान के अभ्यास के लिए उपयुक्त स्थान और आसन की तैयारी का वर्णन किया गया है। साधक को एक शांत और पवित्र स्थान चुनना चाहिए जहाँ मन एकाग्र हो सके। आसन की ऊँचाई मध्यम होनी चाहिए और उस पर क्रमशः कुशा घास, मृगछाला और वस्त्र बिछाना चाहिए ताकि वह आरामदायक और स्थिर हो।
+
+### Translation
+
+Having established a firm seat for oneself in a clean place, which is neither too high nor too low, and which is covered with kusha grass, a deerskin, and a cloth, one over the other.
 
 ### Meaning
 

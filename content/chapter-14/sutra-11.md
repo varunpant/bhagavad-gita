@@ -8,11 +8,10 @@ sutra: 11
 position: 535
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते
 ज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 535
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvadvāreṣu dehe'sminprakāśa upajāyate
 jñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जब इस शरीर में सब द्वारों (इन्द्रियों) में प्रकाश और ज्ञान उत्पन्न होता है, तब ऐसा जानना चाहिए कि सत्त्वगुण बढ़ा हुआ है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सत्त्वगुण की वृद्धि के लक्षण बताते हैं। जब मनुष्य की सभी इन्द्रियाँ (ज्ञान के द्वार) विवेक और ज्ञान से आलोकित हो जाती हैं, तब सत्त्वगुण की प्रधानता समझनी चाहिए। इस अवस्था में बुद्धि स्पष्ट और मन शांत रहता है।
+
+### Translation
+
+When the light of knowledge shines through all the gates of this body, then one should know that the mode of goodness (sattva) is predominant
 
 ### Meaning
 

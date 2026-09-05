@@ -8,11 +8,10 @@ sutra: 26
 position: 440
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अमी च त्वां धृतराष्ट्रस्य पुत्राः    सर्वे सहैवावनिपालसङ्घैः
 भीष्मो द्रोणः सूतपुत्रस्तथाऽसौ    सहास्मदीयैरपि योधमुख्यैः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,26 @@ position: 440
 
 
 ### Transliteration
-```
-amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ
-sarve sahaivāvanipālasaṅghaiḥ
-bhīṣmo droṇaḥ sūtaputrastathā'sau
-sahāsmadīyairapi yodhamukhyaiḥ
+{{< lines >}}
+amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ sarve sahaivāvanipālasaṅghaiḥ
+bhīṣmo droṇaḥ sūtaputrastathā'sau sahāsmadīyairapi yodhamukhyaiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और वे धृतराष्ट्र के सभी पुत्र, राजाओं के समूहों के साथ,
+तथा भीष्म, द्रोण और वह सूतपुत्र (कर्ण) भी,
+हमारे पक्ष के भी मुख्य योद्धाओं के साथ
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विराट रूप में कौरव पक्ष के सभी योद्धाओं को प्रवेश करते हुए देख रहे हैं। वे धृतराष्ट्र के पुत्रों, भीष्म, द्रोण और कर्ण जैसे महारथियों को काल के मुख की ओर बढ़ते हुए देख रहे हैं। इसके साथ ही, पांडव सेना के भी मुख्य योद्धा इस विनाशकारी दृश्य में समाहित होते दिखाई दे रहे हैं।
+
+### Translation
+
+And all those sons of Dhritarashtra, along with the hosts of kings,
+and also Bhishma, Drona, and that son of a charioteer (Karna),
+together with the chief warriors of our side as well
 
 ### Meaning
 

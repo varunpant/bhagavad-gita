@@ -8,11 +8,11 @@ sutra: 55
 position: 102
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचप्रजहाति यदा कामान् सर्वान् पार्थ मनोगतान्
+{{< lines >}}
+श्री भगवानुवाच
+प्रजहाति यदा कामान् सर्वान् पार्थ मनोगतान्
 आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 102
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī bhagavānuvāca
 prajahāti yadā kāmān sarvān pārtha manogatān
 ātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+हे पार्थ! जब मनुष्य मन में स्थित सभी कामनाओं को भली-भांति त्याग देता है और अपने आप से अपनी आत्मा में ही संतुष्ट रहता है, तब वह स्थितप्रज्ञ (स्थिर बुद्धि वाला) कहा जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति के लक्षण बता रहे हैं। वे कहते हैं कि जब कोई व्यक्ति अपने मन में उत्पन्न होने वाली सभी सांसारिक इच्छाओं और कामनाओं का पूरी तरह से त्याग कर देता है, तो वह स्थितप्रज्ञ कहलाता है। ऐसा व्यक्ति बाहरी भौतिक सुखों पर निर्भर नहीं रहता, बल्कि अपनी ही आत्मा में पूर्ण आनंद और संतुष्टि का अनुभव करता है।
+
+### Translation
+
+The Supreme Lord said:
+O Partha, when a person completely discards all desires of the mind and is satisfied in the self by the self alone, then he is called a person of steady wisdom.
 
 ### Meaning
 

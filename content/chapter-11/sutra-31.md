@@ -8,11 +8,10 @@ sutra: 31
 position: 445
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आख्याहि मे को भवानुग्ररूपो    नमोऽस्तु ते देववर प्रसीद
 विज्ञातुमिच्छामि भवन्तमाद्यं     न हि प्रजानामि तव प्रवृत्तिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 445
 
 
 ### Transliteration
-```
-ākhyāhi me ko bhavānugrarūpo
-namo'stu te devavara prasīda
-vijñātumiacchāmi bhavantamādyaṃ
-na hi prajānāmi tava pravṛttim
+{{< lines >}}
+ākhyāhi me ko bhavānugrarūpo namo'stu te devavara prasīda
+vijñātumiacchāmi bhavantamādyaṃ na hi prajānāmi tava pravṛttim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझे बताइए कि उग्र रूप वाले आप कौन हैं? हे देवश्रेष्ठ! आपको नमस्कार हो, प्रसन्न होइए। मैं आप आदिपुरुष को विशेष रूप से जानना चाहता हूँ, क्योंकि मैं आपकी चेष्टा को नहीं समझ पा रहा हूँ।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण के अत्यंत भयानक विश्वरूप को देखकर अर्जुन भयभीत हो जाते हैं और उनसे प्रार्थना करते हैं। वे भगवान से उनके इस संहारक रूप का रहस्य और उनके वास्तविक प्रयोजन को प्रकट करने की याचना कर रहे हैं। अर्जुन यह समझने में असमर्थ हैं कि इस महाविनाशकारी रूप के पीछे भगवान की क्या लीला है।
+
+### Translation
+
+Tell me, who are you of this fierce form? Salutations to you, O Chief of Gods! Be gracious. I wish to know you, the Primal One, for I do not understand your activity.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 13
 position: 60
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा
 तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 60
 
 
 ### Transliteration
-```
+{{< lines >}}
 dehino'sminyathā dehe kaumāraṃ yauvanaṃ jarā
 tathā dehāntaraprāptirdhīrastatra na muhyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जैसे इस शरीर में देहधारी आत्मा की बाल्यावस्था, युवावस्था और वृद्धावस्था होती है, वैसे ही उसे अन्य शरीर की प्राप्ति होती है। धीर पुरुष इस विषय में मोहित नहीं होता।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को आत्मा की अमरता और शरीर की नश्वरता का ज्ञान दे रहे हैं। वे समझाते हैं कि जैसे मनुष्य एक ही जीवन में बचपन, जवानी और बुढ़ापे से गुजरता है, वैसे ही मृत्यु के बाद आत्मा नया शरीर धारण करती है। इसलिए ज्ञानी मनुष्य मृत्यु से शोक या मोह नहीं करते।
+
+### Translation
+
+Just as the embodied soul continuously passes, in this body, from childhood to youth to old age, similarly it passes into another body at death. A wise person is not deluded by such a change.
 
 ### Meaning
 

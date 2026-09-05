@@ -8,11 +8,10 @@ sutra: 23
 position: 142
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः
 मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 142
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadi hyahaṃ na varteyaṃ jātu karmaṇyatandritaḥ
 mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! यदि मैं कभी आलस्य रहित होकर कर्मों में प्रवृत्त न होऊँ, तो मनुष्य सब प्रकार से मेरे ही मार्ग का अनुसरण करने लगें।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझा रहे हैं कि समाज के नेता या श्रेष्ठ पुरुष का आचरण कैसा होना चाहिए। यदि कृष्ण स्वयं कर्म करना छोड़ दें, तो सामान्य मनुष्य भी उन्हीं का अनुसरण करते हुए अकर्मण्य हो जाएंगे। इसलिए, लोकसंग्रह और समाज को सही दिशा दिखाने के लिए भगवान निरंतर निष्काम भाव से कर्म करते रहते हैं।
+
+### Translation
+
+O Partha, if I were to ever not engage in action without laziness, men would follow my path in all respects.
 
 ### Meaning
 

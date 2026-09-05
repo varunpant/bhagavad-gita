@@ -8,12 +8,11 @@ sutra: 35
 position: 449
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 एतच्छ्रुत्वा वचनं केशवस्य    कृताञ्जलिर्वेपमानः किरीटी
 नमस्कृत्वा भूय एवाह कृष्णं    सगद्गदं भीतभीतः प्रणम्य
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 449
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
 etacchrutvā vacanaṃ keśavasya kṛtāñjalirvepamānaḥ kirīṭī
 namaskṛtā bhūya evāha kṛṣṇaṃ sagadgadaṃ bhītabhītaḥ praṇamya
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संजय ने कहा —
+केशव के इस वचन को सुनकर, मुकुटधारी अर्जुन हाथ जोड़कर काँपते हुए नमस्कार करके, फिर अत्यंत भयभीत होकर प्रणाम करके, गद्गद वाणी से कृष्ण से बोले
 
 ### भावार्थ
 
 इस श्लोक में संजय धृतराष्ट्र को युद्धभूमि की स्थिति बता रहे हैं। भगवान कृष्ण के विश्वरूप और उनके वचनों को सुनकर अर्जुन अत्यंत विस्मित और भयभीत हो गए हैं। वे अत्यंत आदर और भय के मिश्रित भाव से काँपते हुए भगवान कृष्ण के सम्मुख नतमस्तक होते हैं और प्रार्थना करने के लिए उद्यत होते हैं।
+
+### Translation
+
+Sanjaya said:
+Having heard these words of Keshava, the crowned one (Arjuna), trembling and with folded hands, having bowed down, spoke again to Krishna in a faltering voice, overwhelmed with fear, prostrating himself
 
 ### Meaning
 

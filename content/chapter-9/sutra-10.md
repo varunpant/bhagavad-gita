@@ -8,11 +8,10 @@ sutra: 10
 position: 348
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मयाऽध्यक्षेण प्रकृतिः सूयते सचराचरम्
 हेतुनाऽनेन कौन्तेय जगद्विपरिवर्तते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 348
 
 
 ### Transliteration
-```
+{{< lines >}}
 mayā'dhyakṣeṇa prakṛtiḥ sūyate sacarācaram
 hetunā'nena kaunteya jagadviparivartate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र अर्जुन! मेरी अध्यक्षता में मेरी माया (प्रकृति) चराचर सहित समस्त सृष्टि की रचना करती है और इसी कारण से यह संसार चक्र घूमता रहता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि यद्यपि वे स्वयं निर्लिप्त रहते हैं, फिर भी उनकी अध्यक्षता और इच्छा मात्र से ही प्रकृति (भौतिक शक्ति) सजीव और निर्जीव जगत का सृजन करती है। ईश्वर की यही परम सत्ता सृष्टि के चक्र को गतिमान रखती है। प्रकृति स्वतंत्र रूप से कार्य नहीं करती, बल्कि वह परमात्मा के अधीन होकर ही कार्य करती है।
+
+### Translation
+
+O son of Kunti, under My supervision, material nature produces all moving and non-moving beings; for this reason, the universe revolves.
 
 ### Meaning
 

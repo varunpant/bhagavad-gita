@@ -8,11 +8,10 @@ sutra: 26
 position: 550
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मां च योऽव्यभिचारेण भक्ितयोगेन सेवते
 स गुणान्समतीत्यैतान् ब्रह्मभूयाय कल्पते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 550
 
 
 ### Transliteration
-```
+{{< lines >}}
 māṃ ca yo'vyabhicāreṇa bhaktiyogena sevate
 sa guṇānsamatītyaitān brahmabhūyāya kalpate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और जो पुरुष अव्यभिचारी (अनन्य) भक्तियोग के द्वारा मुझको भजता है, वह इन तीनों गुणों को भली-भांति पार करके ब्रह्मभाव (सच्चिदानन्दघन ब्रह्म की प्राप्ति) के लिए योग्य बन जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण गुणातीत होने का व्यावहारिक उपाय बता रहे हैं। वे कहते हैं कि जो साधक बिना किसी विचलन के, अनन्य भक्ति भाव से केवल परमेश्वर की शरण में रहता है, वह प्रकृति के तीनों गुणों (सत्त्व, रज और तम) के बंधनों को आसानी से पार कर जाता है। ऐसा स्थिर बुद्धि वाला भक्त अंततः ब्रह्म-साक्षात्कार या मोक्ष का अधिकारी बनता है।
+
+### Translation
+
+And he who serves Me with unswerving devotion, transcending these three modes of material nature, becomes fit for attaining the state of Brahman.
 
 ### Meaning
 

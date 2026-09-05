@@ -8,11 +8,10 @@ sutra: 7
 position: 287
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय
 मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 287
 
 
 ### Transliteration
-```
+{{< lines >}}
 mattaḥ parataraṃ nānyatkiñcidasti dhanañjaya
 mayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे धनंजय! मुझसे श्रेष्ठ अन्य कोई भी वस्तु नहीं है
+यह सब कुछ मुझमें वैसे ही पिरोया हुआ है जैसे सूत के धागे में मणियों के समूह
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को अपनी सर्वोच्चता और सर्वव्यापकता समझा रहे हैं। वे बताते हैं कि वे ही इस सृष्टि के परम कारण और आधार हैं। जिस प्रकार एक धागा अदृश्य रहकर भी माला के सभी मोतियों को एक सूत्र में पिरोए रखता है, उसी प्रकार भगवान इस संपूर्ण ब्रह्मांड को धारण करते हैं।
+
+### Translation
+
+O Dhananjaya, there is nothing else superior to Me
+All this is strung on Me, like clusters of gems on a thread
 
 ### Meaning
 

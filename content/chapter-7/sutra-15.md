@@ -8,11 +8,10 @@ sutra: 15
 position: 295
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः
 माययापहृतज्ञाना आसुरं भावमाश्रिताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 295
 
 
 ### Transliteration
-```
+{{< lines >}}
 na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ
 māyayāpahṛtajñānā āsuraṃ bhāvamāśritāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+दुष्कर्म करने वाले, मूर्ख, मनुष्यों में नीच, जिनका ज्ञान माया द्वारा हर लिया गया है और जो आसुरी स्वभाव को धारण किए हुए हैं, वे मेरी शरण ग्रहण नहीं करते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन चार प्रकार के लोगों का वर्णन कर रहे हैं जो उनकी शरण में नहीं आते हैं। वे लोग जो पापकर्मों में लिप्त हैं, विवेकहीन हैं, मानव जाति में सबसे गिरे हुए हैं, और माया के प्रभाव से जिनका ज्ञान नष्ट हो चुका है, वे आसुरी प्रवृत्ति के कारण ईश्वर की शरण से विमुख रहते हैं।
+
+### Translation
+
+The evil-doers, the foolish, the lowest among mankind, whose wisdom has been stolen by illusion, and who have accepted the demoniac nature, do not surrender unto Me.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 29
 position: 309
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 जरामरणमोक्षाय मामाश्रित्य यतन्ति ये
 ते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 309
 
 
 ### Transliteration
-```
+{{< lines >}}
 jarāmaraṇamokṣāya māmāśritya yatanti ye
 te brahma tadviduḥ kṛtsnamadhyātmaṃ karma cākhilam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मेरे शरण होकर बुढ़ापे और मृत्यु से मुक्ति पाने के लिए प्रयत्न करते हैं, वे उस ब्रह्म को, सम्पूर्ण अध्यात्म को और सम्पूर्ण कर्म को जानते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण बताते हैं कि जो साधक केवल परमेश्वर के शरणागत होकर संसार के चक्र (जरा और मरण) से मुक्ति पाने का प्रयास करते हैं, वे वास्तविक ज्ञान प्राप्त करते हैं। वे न केवल निराकार ब्रह्म को जानते हैं, बल्कि जीवात्मा के वास्तविक स्वरूप (अध्यात्म) और सृष्टि के संपूर्ण कर्म-रहस्य को भी समझ जाते हैं। यह उनके समग्र ज्ञान की पूर्णता को दर्शाता है।
+
+### Translation
+
+Those who, taking refuge in Me, strive for liberation from old age and death, they know that Brahman, the entire self (adhyatma), and all action (karma).
 
 ### Meaning
 

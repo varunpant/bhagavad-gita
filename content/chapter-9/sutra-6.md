@@ -8,11 +8,10 @@ sutra: 6
 position: 344
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यथाऽऽकाशस्थितो नित्यं वायुः सर्वत्रगो महान्
 तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 344
 
 
 ### Transliteration
-```
+{{< lines >}}
 yathā'kāśasthito nityaṃ vāyuḥ sarvatrago mahān
 tathā sarvāṇi bhūtāni matsthānītyupadhāraya
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस प्रकार सर्वत्र विचरने वाली महान वायु सदैव आकाश में ही स्थित रहती है, उसी प्रकार तुम यह जानो कि समस्त प्राणी मुझमें ही स्थित हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक सुंदर भौतिक उदाहरण के माध्यम से अपनी अचिन्त्य शक्ति को समझाते हैं। जैसे वायु का अस्तित्व आकाश के बिना संभव नहीं है और वह सदैव आकाश के भीतर ही रहती है, फिर भी वह आकाश को दूषित या प्रभावित नहीं करती, वैसे ही सभी जीव परमात्मा में स्थित हैं परंतु परमात्मा उनसे सर्वथा निर्लिप्त रहते हैं।
+
+### Translation
+
+Just as the mighty wind, blowing everywhere, always rests in the sky, know that in the same manner all created beings rest in Me.
 
 ### Meaning
 

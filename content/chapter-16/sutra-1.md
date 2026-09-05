@@ -8,11 +8,11 @@ sutra: 1
 position: 572
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचअभयं सत्त्वसंशुद्धिः ज्ञानयोगव्यवस्थितिः
+{{< lines >}}
+श्री भगवानुवाच
+अभयं सत्त्वसंशुद्धिः ज्ञानयोगव्यवस्थितिः
 दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 572
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 abhayaṃ sattvasaṃśuddhiḥ jñānayogavyavasthitiḥ
 dānaṃ damaśca yajñaśca svādhyāyastapa ārjavam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+भय का सर्वथा अभाव, अन्तःकरण की पूर्ण शुद्धि, ज्ञान और योग में दृढ़ स्थिति, दान, इन्द्रिय-दमन, यज्ञ, स्वाध्याय, तप और सरलता
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण दैवी सम्पदा (दिव्य गुणों) का वर्णन आरम्भ करते हैं। ये गुण मनुष्य को मुक्ति की ओर ले जाते हैं। इनमें भयहीनता और अन्तःकरण की शुद्धि को सर्वोपरि स्थान दिया गया है, जो आध्यात्मिक प्रगति के लिए अनिवार्य हैं।
+
+### Translation
+
+The Supreme Lord said:
+Fearlessness, purification of one's existence, cultivation of spiritual knowledge, charity, self-control, performance of sacrifice, study of the Vedas, austerity, and simplicity
 
 ### Meaning
 

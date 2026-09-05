@@ -8,11 +8,10 @@ sutra: 4
 position: 599
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः
 प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 599
 
 
 ### Transliteration
-```
+{{< lines >}}
 yajante sāttvikā devān yakṣarakṣāṃsi rājasāḥ
 pretān bhūtagaṇāṃś cānye yajante tāmasā janāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सत्त्वगुणी लोग देवताओं को पूजते हैं, रजोगुणी लोग यक्षों और राक्षसों की पूजा करते हैं, तथा अन्य जो तमोगुणी लोग हैं, वे प्रेतों और भूतगणों को पूजते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण श्रद्धा के त्रिविध वर्गीकरण के अनुसार मनुष्यों के पूज्य देवों का वर्णन कर रहे हैं। सात्त्विक प्रवृत्ति के लोग दिव्य गुणों से युक्त देवताओं की आराधना करते हैं। राजस लोग शक्ति और ऐश्वर्य के प्रतीक यक्षों और राक्षसों को पूजते हैं, जबकि तामस लोग अज्ञानवश भूत-प्रेतों की पूजा करते हैं।
+
+### Translation
+
+The sattvic people worship the gods; the rajasic worship the yakshas and rakshasas; and others, the tamasic people, worship the spirits and ghosts
 
 ### Meaning
 

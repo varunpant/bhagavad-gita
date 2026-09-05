@@ -8,11 +8,10 @@ sutra: 11
 position: 562
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम्
 यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 562
 
 
 ### Transliteration
-```
+{{< lines >}}
 yatanto yoginaś cainaṃ paśyanty ātmany avasthitam
 yatanto 'py akṛtātmāno nainaṃ paśyanty acetasaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यत्न करने वाले योगी जन अपने आप में स्थित इस (परमात्मा) को देखते हैं
+किन्तु जिन्होंने अपने अन्तःकरण को शुद्ध नहीं किया है, ऐसे अज्ञानी पुरुष यत्न करने पर भी इसे नहीं देख पाते
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि आत्म-साक्षात्कार के लिए केवल प्रयास ही पर्याप्त नहीं है, बल्कि अन्तःकरण की शुद्धि भी अनिवार्य है। जो योगी ध्यान और साधना के द्वारा अपने मन को वश में कर चुके हैं, वे अपने भीतर ही परमात्मा का अनुभव करते हैं। इसके विपरीत, जिनका मन अशुद्ध है और जो वासनाओं से घिरे हैं, वे लाख प्रयत्न करने पर भी उस परम तत्व को नहीं जान पाते।
+
+### Translation
+
+The striving yogis perceive Him established in the self
+but the undisciplined, whose minds are not purified, though striving, do not perceive Him
 
 ### Meaning
 

@@ -249,6 +249,8 @@
 
   var PARTS = {
     "Transliteration": "translit",
+    "अनुवाद": "hi-rendering",
+    "Translation": "en-rendering",
     "Hindi Translation By Swami Ramsukhdas": "hi-translation",
     "Hindi Commentary By Swami Chinmayananda": "hi-commentary",
     "भावार्थ": "hi-meaning",
@@ -263,6 +265,8 @@
      verse, not the grammar, and together they are the longest thing here. */
   var PART_DEFAULTS = {
     translit: true,
+    "hi-rendering": true,
+    "en-rendering": true,
     "hi-translation": true,
     "hi-commentary": true,
     "hi-meaning": true,

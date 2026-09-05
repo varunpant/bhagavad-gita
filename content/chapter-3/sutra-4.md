@@ -8,11 +8,10 @@ sutra: 4
 position: 123
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते
 न च संन्यसनादेव सिद्धिं समधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 123
 
 
 ### Transliteration
-```
+{{< lines >}}
 na karmaṇāmanārambhānnaiṣkarmyaṃ puruṣo'śnute
 na ca saṃnyasanādeva siddhiṃ samadhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मनुष्य कर्मों को आरम्भ न करने से नैष्कर्म्य (कर्मों से मुक्ति) को प्राप्त नहीं होता, और न ही केवल संन्यास (कर्मों के त्याग) से सिद्धि प्राप्त करता है।
 
 ### भावार्थ
 
 भगवान कृष्ण स्पष्ट करते हैं कि केवल कर्मों को न करने से कोई व्यक्ति कर्म-बंधन से मुक्त नहीं हो सकता। सच्ची मुक्ति या सिद्धि केवल कर्मों के बाहरी त्याग (संन्यास) से नहीं मिलती। मनुष्य को अपने निर्धारित कर्तव्यों का पालन करते हुए कर्मफल के प्रति आसक्ति का त्याग करना चाहिए।
+
+### Translation
+
+A person does not attain freedom from action by the non-commencement of actions; nor does he attain perfection merely by renunciation.
 
 ### Meaning
 

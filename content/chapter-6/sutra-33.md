@@ -8,12 +8,11 @@ sutra: 33
 position: 266
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन
 एतस्याहं न पश्यामि चञ्चलत्वात् स्थितिं स्थिराम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 266
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 yo'yaṃ yogastvayā proktaḥ sāmyena madhusūdana
 etasyāhaṃ na paśyāmi cañcalatvāt sthitiṃ sthirām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे मधुसूदन! जो यह योग आपके द्वारा समभाव से कहा गया है, मन की चंचलता के कारण मैं इसकी स्थिर स्थिति को नहीं देखता हूँ
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के समक्ष अपनी व्यावहारिक कठिनाई को प्रकट करते हैं। कृष्ण ने जिस समत्व योग (मन की समता) का उपदेश दिया है, अर्जुन को लगता है कि मन की अत्यंत चंचल प्रकृति के कारण उसे स्थायी रूप से प्राप्त करना असंभव है। यह मानव मन की स्वाभाविक अस्थिरता को दर्शाता है जो आध्यात्मिक साधना में सबसे बड़ी बाधा है।
+
+### Translation
+
+Arjuna said:
+O Madhusūdana, this system of yoga which You have described as characterized by equanimity, I do not see how it can have a stable duration, owing to the restless nature of the mind
 
 ### Meaning
 

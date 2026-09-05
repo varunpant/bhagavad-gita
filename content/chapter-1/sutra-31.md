@@ -8,11 +8,10 @@ sutra: 31
 position: 31
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 निमित्तानि च पश्यामि विपरीतानि केशव
 न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,24 @@ in killing my kinsmen in battle.
 
 
 ### Transliteration
-```
+{{< lines >}}
 nimittāni ca paśyāmi viparītāni keśava
 na ca śreyo'nupaśyāmi hatvā svajanamāhave
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे केशव! मैं विपरीत (अशुभ) शकुन देख रहा हूँ।
+और युद्ध में अपने ही स्वजनों को मारकर मुझे कोई कल्याण भी नहीं दिखाई देता।
 
 ### भावार्थ
 
 अर्जुन श्रीकृष्ण से अपनी गहरी चिंता व्यक्त करते हुए कहते हैं कि उन्हें युद्धभूमि में केवल अशुभ शकुन ही दिखाई दे रहे हैं। उनका मानना है कि इस युद्ध से केवल विनाश ही होगा। वे यह निष्कर्ष निकालते हैं कि राज्य के सुख के लिए अपने ही सगे-संबंधियों की हत्या करने में कोई वास्तविक कल्याण या भलाई नहीं है।
+
+### Translation
+
+And I see adverse omens, O Keshava.
+Nor do I foresee any good in killing my own kinsmen in battle.
 
 ### Meaning
 

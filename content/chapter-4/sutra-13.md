@@ -8,11 +8,10 @@ sutra: 13
 position: 175
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः
 तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 175
 
 
 ### Transliteration
-```
+{{< lines >}}
 cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ
 tasya kartāramapi māṃ viddhyakartāramavyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+प्रकृति के तीनों गुणों और कर्मों के विभाग के अनुसार मेरे द्वारा चारों वर्णों की रचना की गई है। यद्यपि मैं उसका कर्ता हूँ, फिर भी मुझे अकर्ता और अविनाशी ही जानो।
 
 ### भावार्थ
 
 भगवान कृष्ण स्पष्ट करते हैं कि समाज में चार वर्णों (ब्राह्मण, क्षत्रिय, वैश्य, शूद्र) की व्यवस्था जन्म पर नहीं, बल्कि व्यक्ति के गुणों और कर्मों पर आधारित है। यद्यपि परमात्मा ने इस व्यवस्था की रचना की है, फिर भी वे इससे अलिप्त रहते हैं। इसलिए उन्हें इस कर्म का कर्ता होते हुए भी अकर्ता और अव्यय (अविनाशी) समझना चाहिए।
+
+### Translation
+
+The fourfold system of varnas was created by Me according to the division of gunas and karmas. Though I am its creator, know Me to be the non-doer and imperishable.
 
 ### Meaning
 

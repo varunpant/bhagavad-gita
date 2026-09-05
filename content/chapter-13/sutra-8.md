@@ -8,11 +8,10 @@ sutra: 8
 position: 497
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम्
 आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 497
 
 
 ### Transliteration
-```
+{{< lines >}}
 amānitvam adambhitvam ahiṃsā kṣāntir ārjavam
 ācāryopāsanaṃ śaucaṃ sthairyam ātmavinigrahaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मान-प्रतिष्ठा की इच्छा न होना, दम्भ (पाखंड) का अभाव, किसी भी जीव को कष्ट न देना (अहिंसा), सहनशीलता, सरलता, गुरु की सेवा, शुद्धि (बाहरी और भीतरी पवित्रता), स्थिरता और मन-इन्द्रियों का संयम
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण ज्ञान के लक्षणों का वर्णन आरम्भ करते हैं। ये गुण केवल नैतिक मूल्य नहीं हैं, बल्कि आत्म-साक्षात्कार के मार्ग पर चलने के लिए आवश्यक साधन हैं। इन गुणों को विकसित करने से मनुष्य का अन्तःकरण शुद्ध होता है और वह परम सत्य को जानने के योग्य बनता है।
+
+### Translation
+
+Humility, freedom from hypocrisy, non-violence, tolerance, simplicity, service to the spiritual master, cleanliness, steadfastness, and self-control
 
 ### Meaning
 

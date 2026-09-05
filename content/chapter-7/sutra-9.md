@@ -8,11 +8,10 @@ sutra: 9
 position: 289
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ
 जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 289
 
 
 ### Transliteration
-```
+{{< lines >}}
 puṇyo gandhaḥ pṛthivyāṃ ca tejaś cāsmi vibhāvasau
 jīvanaṃ sarvabhūteṣu tapaś cāsmi tapasviṣu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं पृथ्वी में पवित्र गंध हूँ और अग्नि में तेज हूँ
+सभी भूतों में मैं जीवन हूँ और तपस्वियों में मैं तप हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि वे सृष्टि के मूल तत्वों के सार हैं। पृथ्वी की स्वाभाविक और पवित्र सुगंध तथा अग्नि की ऊष्मा और प्रकाश उन्हीं का स्वरूप है। वे सभी जीवित प्राणियों की प्राण-शक्ति हैं और तपस्वियों द्वारा किए जाने वाले कठिन तप की शक्ति भी वही हैं।
+
+### Translation
+
+I am the pure fragrance in the earth and the brilliance in fire
+I am the life in all beings and the penance in ascetics
 
 ### Meaning
 

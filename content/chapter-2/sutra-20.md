@@ -8,11 +8,10 @@ sutra: 20
 position: 67
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न जायते म्रियते वा कदाचि    न्नायं भूत्वा भविता वा न भूयः
 अजो नित्यः शाश्वतोऽयं पुराणो    न हन्यते हन्यमाने शरीरे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 67
 
 
 ### Transliteration
-```
+{{< lines >}}
 na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ
 ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह आत्मा किसी काल में भी न तो जन्मता है और न मरता है; तथा न ही यह उत्पन्न होकर फिर होने वाला है। यह अजन्मा, नित्य, शाश्वत और पुरातन है; शरीर के मारे जाने पर भी यह नहीं मारा जाता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्मा की अमरता और शाश्वत प्रकृति का वर्णन करते हैं। आत्मा जन्म और मृत्यु के चक्र से पूरी तरह मुक्त है, यह कभी नष्ट नहीं होती। शरीर नश्वर है और समय के साथ नष्ट हो जाता है, लेकिन आत्मा हमेशा एक समान, अजन्मा और अविनाशी रहती है। यह ज्ञान अर्जुन के शोक को दूर करने के लिए दिया गया है।
+
+### Translation
+
+The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.
 
 ### Meaning
 

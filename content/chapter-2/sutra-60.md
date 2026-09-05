@@ -8,11 +8,10 @@ sutra: 60
 position: 107
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यततो ह्यपि कौन्तेय पुरुषस्य विपश्िचतः
 इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 107
 
 
 ### Transliteration
-```
+{{< lines >}}
 yatato hyapi kaunteya puruṣasya vipaścitaḥ
 indriyāṇi pramāthīni haranti prasabhaṃ manaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! यत्न करते हुए बुद्धिमान पुरुष की भी प्रमथन स्वभाव वाली (मथ डालने वाली) इन्द्रियाँ उसके मन को बलपूर्वक हर लेती हैं।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को इन्द्रियों की अपार शक्ति के विषय में सचेत करते हैं। वे बताते हैं कि आध्यात्मिक पूर्णता के लिए निरंतर प्रयास करने वाले एक अत्यंत बुद्धिमान और विवेकी पुरुष का मन भी इन चंचल इन्द्रियों द्वारा बलपूर्वक विचलित कर दिया जाता है। अतः साधक को कभी भी असावधान नहीं होना चाहिए और इन्द्रिय-निग्रह के प्रति सदैव सतर्क रहना चाहिए।
+
+### Translation
+
+O son of Kunti, the turbulent senses forcibly carry away the mind even of a wise man who is striving for perfection.
 
 ### Meaning
 

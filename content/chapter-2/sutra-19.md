@@ -8,11 +8,10 @@ sutra: 19
 position: 66
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्
 उभौ तौ न विजानीतो नायं हन्ति न हन्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 66
 
 
 ### Transliteration
-```
+{{< lines >}}
 ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam
 ubhau tau na vijānīto nāyaṃ hanti na hanyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो इस (आत्मा) को मारने वाला समझता है, और जो इसे मारा हुआ मानता है, वे दोनों ही सत्य नहीं जानते; क्योंकि यह (आत्मा) न तो किसी को मारता है और न ही किसी के द्वारा मारा जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को आत्मा की अमरता और अकर्ता भाव का ज्ञान दे रहे हैं। अज्ञान के कारण मनुष्य शरीर को ही सब कुछ मान लेता है और मृत्यु से भयभीत होता है। वास्तव में आत्मा शाश्वत है, वह न तो किसी की हत्या कर सकती है और न ही कोई अस्त्र-शस्त्र उसे नष्ट कर सकता है।
+
+### Translation
+
+He who thinks this (soul) to be a killer, and he who thinks it to be killed, both of them do not know the truth. This (soul) neither kills nor is killed.
 
 ### Meaning
 

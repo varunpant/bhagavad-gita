@@ -8,11 +8,10 @@ sutra: 24
 position: 143
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम्
 सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 143
 
 
 ### Transliteration
-```
+{{< lines >}}
 utsīdeyurime lokā na kuryāṃ karma cedaham
 saṅkarasya ca kartā syāmupahanyāmimāḥ prajāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि मैं कर्म न करूँ, तो ये सभी लोक नष्ट हो जाएँ। और मैं वर्णसंकर (अव्यवस्था) का कर्ता होऊँगा, तथा इन प्रजाओं को नष्ट करने वाला बनूँगा।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि यदि वे अपने नियत कर्मों को त्याग दें, तो इसके कितने भयंकर परिणाम होंगे। उनके कर्म न करने से यह संपूर्ण विश्व नष्ट हो जाएगा और समाज में भारी अव्यवस्था फैल जाएगी। एक आदर्श प्रस्तुत न करके, वे वर्णसंकर और प्रजा के विनाश का कारण बन जाएंगे।
+
+### Translation
+
+If I did not perform action, these worlds would perish. And I would be the creator of confusion, and I would destroy these people.
 
 ### Meaning
 

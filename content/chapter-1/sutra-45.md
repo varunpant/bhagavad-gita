@@ -8,11 +8,10 @@ sutra: 45
 position: 45
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहो बत महत्पापं कर्तुं व्यवसिता वयम्
 यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ prepared to kill our kinsmen, through greed for the pleasures of a kingdom.
 
 
 ### Transliteration
-```
+{{< lines >}}
 aho bata mahatpāpaṃ kartuṃ vyavasitā vayam
 yadrājyasukhalobhena hantuṃ svajanamudyatāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अहो! कितने खेद की बात है कि हम लोग बड़ा भारी पाप करने का निश्चय कर बैठे हैं, जो कि राज्य और सुख के लोभ से अपने ही स्वजनों को मारने के लिए तैयार हो गए हैं।
 
 ### भावार्थ
 
 अर्जुन इस बात पर गहरा शोक और आश्चर्य व्यक्त करते हैं कि वे लोग क्या करने जा रहे हैं। उन्हें यह अहसास होता है कि राज्य और सुख के लालच में आकर वे अपने ही परिवार का नाश करने जैसा घोर पाप करने को तत्पर हैं। यह श्लोक युद्धभूमि में अर्जुन की अत्यधिक करुणा और उनके नैतिक संकट को दर्शाता है।
+
+### Translation
+
+Alas! How strange it is that we have resolved to commit a great sin, in that we are prepared to kill our own kinsmen out of greed for the pleasures of a kingdom.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 354
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहं क्रतुरहं यज्ञः स्वधाऽहमहमौषधम्
 मंत्रोऽहमहमेवाज्यमहमग्निरहं हुतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 354
 
 
 ### Transliteration
-```
+{{< lines >}}
 ahaṃ kraturahaṃ yajñaḥ svadhā'hamahamauṣadham
 mantro'hamahamevājyamahamagnirahaṃ hutam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं ही क्रतु हूँ, मैं ही यज्ञ हूँ, पितरों को दिया जाने वाला अन्न (स्वधा) मैं हूँ, मैं ही ओषधि हूँ
+मंत्र मैं हूँ, घी मैं ही हूँ, अग्नि मैं हूँ और हवन की क्रिया भी मैं ही हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अपनी सर्वव्यापकता का बोध करा रहे हैं। वे समझाते हैं कि सृष्टि में होने वाले सभी वैदिक और तांत्रिक अनुष्ठान, यज्ञ, और उनमें दी जाने वाली आहुतियाँ उन्हीं के स्वरूप हैं। यहाँ तक कि मंत्र, हविष्य (घी), अग्नि और हवन की संपूर्ण प्रक्रिया भी परमात्मा से भिन्न नहीं है।
+
+### Translation
+
+I am the Vedic ritual, I am the sacrifice, I am the oblation to the ancestors, I am the healing herb
+I am the sacred mantra, I am the clarified butter, I am the fire, and I am the act of offering
 
 ### Meaning
 

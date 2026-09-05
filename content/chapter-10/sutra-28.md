@@ -8,11 +8,10 @@ sutra: 28
 position: 400
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आयुधानामहं वज्रं धेनूनामस्मि कामधुक्
 प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 400
 
 
 ### Transliteration
-```
+{{< lines >}}
 āyudhānāmahaṃ vajraṃ dhenūnāmasmi kāmadhuk
 prajanaścāsmi kandarpaḥ sarpāṇāmasmi vāsukiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शस्त्रों में मैं वज्र हूँ, गौओं में मैं कामधेनु हूँ, सन्तानोत्पत्ति का कारण कामदेव हूँ और सर्पों में मैं वासुकि हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी दिव्य विभूतियों का वर्णन कर रहे हैं। वे बताते हैं कि अस्त्र-शस्त्रों में वे देवराज इन्द्र का अमोघ अस्त्र वज्र हैं, जो दधीचि की हड्डियों से बना है। वे दिव्य गौओं में कामधेनु हैं जो सभी इच्छाओं को पूर्ण करती हैं, सृष्टि की उत्पत्ति के कारक कामदेव हैं, और सर्पों के राजा वासुकि हैं।
+
+### Translation
+
+Among weapons I am the thunderbolt; among cows I am the wish-fulfilling cow; among progenitors I am Kamadeva, the god of love; and among serpents I am Vasuki
 
 ### Meaning
 

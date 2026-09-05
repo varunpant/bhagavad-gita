@@ -8,11 +8,10 @@ sutra: 33
 position: 80
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अथ चैत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि
 ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 80
 
 
 ### Transliteration
-```
+{{< lines >}}
 atha cait tvam imaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi
 tataḥ svadharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+किन्तु यदि तुम इस धर्मयुक्त युद्ध को नहीं करोगे, तो अपने स्वधर्म और कीर्ति को खोकर पाप को प्राप्त होओगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को युद्ध न करने के परिणामों के बारे में चेतावनी दे रहे हैं। एक क्षत्रिय के रूप में धर्म की रक्षा के लिए युद्ध करना अर्जुन का परम कर्तव्य है। यदि वह इस कर्तव्य से पीछे हटता है, तो वह न केवल अपना सम्मान और यश खो देगा, बल्कि उसे पाप भी लगेगा।
+
+### Translation
+
+But if you will not fight this righteous war, then, having abandoned your own duty and glory, you will incur sin.
 
 ### Meaning
 

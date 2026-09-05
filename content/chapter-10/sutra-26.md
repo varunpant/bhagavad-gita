@@ -8,11 +8,10 @@ sutra: 26
 position: 398
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः
 गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 398
 
 
 ### Transliteration
-```
+{{< lines >}}
 aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ
 gandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सब वृक्षों में पीपल का वृक्ष, देवर्षियों में नारद, गन्धर्वों में चित्ररथ और सिद्धों में कपिल मुनि मैं हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए बताते हैं कि वे सभी वृक्षों में पवित्र अश्वत्थ (पीपल) वृक्ष हैं। वे देवर्षियों में परम ज्ञानी नारद मुनि हैं, गन्धर्वों में चित्ररथ हैं और सिद्ध पुरुषों में सांख्य दर्शन के प्रणेता कपिल मुनि हैं। ये सभी अपने-अपने क्षेत्रों में सर्वोत्तम और दिव्य गुणों से युक्त हैं, जो भगवान की ही महिमा को दर्शाते हैं।
+
+### Translation
+
+Among all trees I am the Peepal tree; among the divine sages, Narada; among the Gandharvas, Chitraratha; and among the perfected beings, the sage Kapila
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 41
 position: 664
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ब्राह्मणक्षत्रियविशां शूद्राणां च परंतप
 कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 664
 
 
 ### Transliteration
-```
+{{< lines >}}
 brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca paraṃtapa
 karmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे परंतप (अर्जुन)! ब्राह्मण, क्षत्रिय और वैश्यों के तथा शूद्रों के कर्म स्वभाव से उत्पन्न गुणों द्वारा विभक्त किए गए हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि समाज के चारों वर्णों (ब्राह्मण, क्षत्रिय, वैश्य और शूद्र) के कर्तव्य और कर्म किसी कृत्रिम विभाजन पर नहीं, बल्कि उनके अपने स्वभाव से उत्पन्न गुणों (सत्त्व, रज और तम) पर आधारित हैं। प्रत्येक व्यक्ति का स्वभाव उसके पूर्व जन्मों के संस्कारों और प्रकृति के गुणों के अनुसार निर्धारित होता है, और उसी के अनुरूप उसके सामाजिक कर्तव्य विभाजित किए गए हैं।
+
+### Translation
+
+O chastiser of the enemy (Arjuna), the duties of the Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras are distributed according to the qualities born of their own nature
 
 ### Meaning
 

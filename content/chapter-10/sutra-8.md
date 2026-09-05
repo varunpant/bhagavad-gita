@@ -8,11 +8,10 @@ sutra: 8
 position: 380
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते
 इति मत्वा भजन्ते मां बुधा भावसमन्विताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 380
 
 
 ### Transliteration
-```
+{{< lines >}}
 ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate
 iti matvā bhajante māṃ budhā bhāvasamanvitāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं सब का उत्पत्ति-स्थान हूँ, मुझसे ही सब कुछ प्रवृत्त होता है
+ऐसा मानकर श्रद्धा और भक्ति से युक्त बुद्धिमान लोग मुझको भजते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपने परम ऐश्वर्य और सर्वव्यापकता का वर्णन करते हैं। वे बताते हैं कि वे ही संपूर्ण सृष्टि के आदि कारण हैं और सब कुछ उन्हीं से संचालित होता है। इस सत्य को जानकर ज्ञानी पुरुष अनन्य भक्ति भाव से उनकी शरण ग्रहण करते हैं।
+
+### Translation
+
+I am the source of all; from Me everything emanates
+Understanding this, the wise, filled with devotion, worship Me
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 47
 position: 280
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 योगिनामपि सर्वेषां मद्गतेनान्तरात्मना
 श्रद्धावान्भजते यो मां स मे युक्ततमो मतः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 280
 
 
 ### Transliteration
-```
+{{< lines >}}
 yoginām api sarveṣāṃ mad-gatenāntar-ātmanā
 śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और समस्त योगियों में भी जो श्रद्धावान् पुरुष मुझमें लीन हुए अन्तरात्मा से मुझको भजता है, वह मेरे मत में सबसे श्रेष्ठ योगी है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण छठे अध्याय का उपसंहार करते हुए भक्तिमार्ग की श्रेष्ठता स्थापित करते हैं। वे स्पष्ट करते हैं कि अष्टांग योग आदि का अभ्यास करने वाले सभी योगियों में वह योगी सर्वश्रेष्ठ है जो अनन्य श्रद्धा के साथ अपने मन और बुद्धि को भगवान में विलीन कर देता है। यह भक्ति योग की पराकाष्ठा को दर्शाता है।
+
+### Translation
+
+And of all yogis, he who worships Me with great faith, with his inner self merged in Me, is deemed by Me to be the most devout.
 
 ### Meaning
 

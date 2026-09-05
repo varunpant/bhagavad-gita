@@ -8,11 +8,10 @@ sutra: 58
 position: 681
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि
 अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 681
 
 
 ### Transliteration
-```
+{{< lines >}}
 maccittaḥ sarvadurgāṇi matprasādāttariṣyasi
 atha cettvamahaṅkārānna śroṣyasi vinaṅkṣyasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझमें चित्त लगाने वाले होकर तुम मेरी कृपा से सभी संकटों को पार कर जाओगे
+और यदि तुम अहंकार के कारण मेरी बात नहीं सुनोगे, तो नष्ट हो जाओगे
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को आश्वस्त करते हैं कि यदि वह अपना मन परमात्मा में केंद्रित रखेगा, तो वह जीवन के सभी संकटों और युद्ध की कठिनाइयों को पार कर जाएगा। इसके विपरीत, यदि वह अहंकारवश भगवान के उपदेशों की उपेक्षा करेगा, तो उसका आध्यात्मिक और नैतिक पतन निश्चित है। यह श्लोक ईश्वर के प्रति पूर्ण समर्पण और अहंकार के त्याग के महत्व को दर्शाता है।
+
+### Translation
+
+Fixing your mind on Me, you will overcome all obstacles by My grace
+But if, due to egoism, you do not listen to Me, you will perish
 
 ### Meaning
 

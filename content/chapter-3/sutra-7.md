@@ -8,11 +8,10 @@ sutra: 7
 position: 126
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन
 कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 126
 
 
 ### Transliteration
-```
+{{< lines >}}
 yastvindriyāṇi manasā niyamyārabhate'rjuna
 karmendriyaiḥ karmayogamasaktaḥ sa viśiṣyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु हे अर्जुन! जो मनुष्य मन से इन्द्रियों को वश में करके, अनासक्त होकर कर्मेन्द्रियों द्वारा कर्मयोग का आचरण करता है, वह श्रेष्ठ है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सच्चे कर्मयोगी की पहचान बताते हैं। जो व्यक्ति केवल बाहर से कर्मों का त्याग नहीं करता, बल्कि अपने मन से इन्द्रियों को नियंत्रित करता है और बिना किसी आसक्ति के अपने कर्तव्य निभाता है, वही श्रेष्ठ है। ऐसा व्यक्ति दिखावा नहीं करता, बल्कि अनासक्त भाव से समाज और ईश्वर के लिए कर्म करता है।
+
+### Translation
+
+But, O Arjuna, he who, controlling the senses by the mind, engages in karma-yoga with the organs of action, without attachment, is superior.
 
 ### Meaning
 

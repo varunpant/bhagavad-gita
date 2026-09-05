@@ -8,11 +8,10 @@ sutra: 43
 position: 43
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः
 उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ the family are destroyed.
 
 
 ### Transliteration
-```
+{{< lines >}}
 doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ
 utsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कुलघातियों के वर्णसंकर पैदा करने वाले इन दोषों से सनातन कुल-धर्म और जाति-धर्म नष्ट हो जाते हैं।
 
 ### भावार्थ
 
 अर्जुन युद्ध के विनाशकारी परिणामों का वर्णन जारी रखते हैं। वह तर्क देते हैं कि जब परिवार के मुखिया मारे जाते हैं, तो समाज में वर्णसंकर (अवांछित संतान) उत्पन्न होते हैं। इन पापपूर्ण कार्यों के परिणामस्वरूप, सदियों से चले आ रहे सनातन कुल-धर्म और जाति-धर्म हमेशा के लिए नष्ट हो जाते हैं, जिससे समाज का पतन होता है।
+
+### Translation
+
+By these evil deeds of the destroyers of the family, which cause the intermingling of castes, the eternal family traditions and community duties are destroyed.
 
 ### Meaning
 

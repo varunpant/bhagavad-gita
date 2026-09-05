@@ -8,11 +8,10 @@ sutra: 34
 position: 523
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः
 क्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ illumines the whole field, O Arjuna.
 
 
 ### Transliteration
-```
+{{< lines >}}
 yathā prakāśayatyekaḥ kṛtsnaṃ lokamimaṃ raviḥ
 kṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी अर्जुन! जिस प्रकार एक ही सूर्य इस सम्पूर्ण ब्रह्माण्ड को प्रकाशित करता है, उसी प्रकार क्षेत्री (आत्मा) सम्पूर्ण क्षेत्र (शरीर) को प्रकाशित करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्मा और शरीर के संबंध को सूर्य और जगत के दृष्टांत से समझाते हैं। जैसे आकाश में स्थित एक ही सूर्य अपने प्रकाश से संपूर्ण जगत को प्रकाशित करता है, वैसे ही शरीर में स्थित एक ही चेतना (आत्मा) पूरे शरीर को सजीव और सचेत बनाती है। आत्मा स्वयं निर्लिप्त रहकर भी शरीर की सभी गतिविधियों को प्रकाशित और संचालित करती है।
+
+### Translation
+
+O descendant of Bharata, just as the single sun illuminates this entire universe, so does the Knower of the field (the soul) illuminate the entire field (the body)
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 6
 position: 629
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च
 कर्तव्यानीति मे पार्थ निश्िचतं मतमुत्तमम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 629
 
 
 ### Transliteration
-```
+{{< lines >}}
 etāny api tu karmāṇi saṅgaṃ tyaktvā phalāni ca
 kartavyānīti me pārtha niścitaṃ matam uttamam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! इन कर्मों को भी आसक्ति और फलों का त्याग करके
+कर्तव्य समझकर करना चाहिए, यह मेरा निश्चित और उत्तम मत है
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण यहाँ स्पष्ट करते हैं कि यज्ञ, दान और तप जैसे पावन कर्मों का कभी त्याग नहीं करना चाहिए। इन्हें केवल कर्तव्य मानकर, बिना किसी फल की इच्छा या कर्तापन के अहंकार के किया जाना चाहिए। यही निष्काम कर्मयोग का वास्तविक सिद्धांत है और भगवान का परम मत है।
+
+### Translation
+
+O Partha, even these actions must be performed
+leaving aside attachment and the fruits; this is My definite and highest belief
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 18
 position: 390
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 विस्तरेणात्मनो योगं विभूतिं च जनार्दन
 भूयः कथय तृप्तिर्हि श्रृण्वतो नास्ति मेऽमृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 390
 
 
 ### Transliteration
-```
+{{< lines >}}
 vistareṇātmano yogaṃ vibhūtiṃ ca janārdana
 bhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me'mṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे जनार्दन! आप अपनी योगशक्ति को और ऐश्वर्य को फिर से विस्तारपूर्वक कहिए, क्योंकि आपके अमृतमयी वचनों को सुनते हुए मेरी तृप्ति नहीं हो रही है
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण से उनकी दिव्य विभूतियों और योगशक्ति का पुनः विस्तार से वर्णन करने की प्रार्थना कर रहे हैं। अर्जुन कहते हैं कि भगवान के अमृत के समान वचनों को सुनते हुए उनका मन कभी तृप्त नहीं होता और वे और अधिक सुनना चाहते हैं। यह भक्त की भगवान की महिमा सुनने की असीम पिपासा को दर्शाता है।
+
+### Translation
+
+O Janardana, please describe again in detail Your mystic power and opulences, for I am not satiated by hearing Your nectar-like words
 
 ### Meaning
 

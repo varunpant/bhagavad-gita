@@ -8,11 +8,10 @@ sutra: 16
 position: 296
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन
 आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 296
 
 
 ### Transliteration
-```
+{{< lines >}}
 caturvidhā bhajante māṃ janāḥ sukṛtino'rjuna
 ārto jijñāsurarthārthī jñānī ca bharatarṣabha
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतश्रेष्ठ अर्जुन! चार प्रकार के पुण्यात्मा मनुष्य मेरा भजन करते हैं—आर्त (दुःखी), जिज्ञासु (ज्ञान की इच्छा रखने वाले), अर्थार्थी (धन चाहने वाले) और ज्ञानी।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन चार प्रकार के भक्तों का वर्णन करते हैं जो उनकी शरण लेते हैं। ये सभी पुण्यात्मा (सुकृतिनः) हैं क्योंकि वे अपनी आवश्यकताओं के लिए अन्य देवी-देवताओं या सांसारिक साधनों के बजाय परमेश्वर की ओर मुड़ते हैं। इनमें आर्त संकट से मुक्ति चाहता है, जिज्ञासु सत्य को जानना चाहता है, अर्थार्थी भौतिक सुख चाहता है, और ज्ञानी पहले से ही परम सत्य को जानता है।
+
+### Translation
+
+O best among the Bharatas, Arjuna, four kinds of virtuous people worship Me—the distressed, the seeker of knowledge, the seeker of wealth, and the wise.
 
 ### Meaning
 

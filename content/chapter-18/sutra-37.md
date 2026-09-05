@@ -8,11 +8,10 @@ sutra: 37
 position: 660
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यत्तदग्रे विषमिव परिणामेऽमृतोपमम्
 तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 660
 
 
 ### Transliteration
-```
+{{< lines >}}
 yat tad agre viṣam iva pariṇāme 'mṛtopamam
 tat sukhaṃ sāttvikaṃ proktam ātma-buddhi-prasādajam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो आरम्भ में विष के समान है, परन्तु परिणाम में अमृत के तुल्य है, उस सुख को आत्म-बुद्धि की प्रसन्नता से उत्पन्न होने वाला सात्त्विक सुख कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक सुख की परिभाषा देते हैं। ऐसा सुख जो साधना के आरम्भ में कठिन और विष जैसा प्रतीत होता है, क्योंकि इसमें इन्द्रिय-संयम और अनुशासन की आवश्यकता होती है, वह अंत में परम कल्याणकारी और अमृत के समान होता है। यह सुख बुद्धि की निर्मलता और आत्म-साक्षात्कार से उत्पन्न होता है।
+
+### Translation
+
+That which in the beginning is like poison, but in the end is like nectar, that happiness is declared to be Sattvik, born of the purity of one's own intellect
 
 ### Meaning
 

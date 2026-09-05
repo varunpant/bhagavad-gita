@@ -8,11 +8,10 @@ sutra: 20
 position: 434
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 द्यावापृथिव्योरिदमन्तरं हि     व्याप्तं त्वयैकेन दिशश्च सर्वाः
 दृष्ट्वाऽद्भुतं रूपमुग्रं तवेदं     लोकत्रयं प्रव्यथितं महात्मन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,24 @@ position: 434
 
 
 ### Transliteration
-```
-dyāvāpṛthivyoridamantaraṃ hi
-vyāptaṃ tvayaikena diśaśca sarvāḥ
-dṛṣṭvā'dbhutaṃ rūpamugraṃ tavedaṃ
-lokatrayaṃ pravyathitaṃ mahātman
+{{< lines >}}
+dyāvāpṛthivyoridamantaraṃ hi vyāptaṃ tvayaikena diśaśca sarvāḥ
+dṛṣṭvā'dbhutaṃ rūpamugraṃ tavedaṃ lokatrayaṃ pravyathitaṃ mahātman
+{{< /lines >}}
 
-```
+### अनुवाद
+
+स्वर्ग और पृथ्वी के बीच का यह संपूर्ण अंतराल और सभी दिशाएँ अकेले आपके द्वारा ही व्याप्त हैं
+हे महात्मन्! आपके इस अद्भुत और उग्र रूप को देखकर तीनों लोक अत्यंत भयभीत हो रहे हैं
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप की सर्वव्यापकता और उसके प्रभाव का वर्णन कर रहे हैं। वे देखते हैं कि भगवान का यह विराट रूप स्वर्ग, पृथ्वी और सभी दिशाओं में फैला हुआ है। इस अत्यंत उग्र और विस्मयकारी रूप को देखकर तीनों लोकों के प्राणी भय से व्याकुल हो रहे हैं।
+
+### Translation
+
+The space between heaven and earth and all the directions are pervaded by You alone
+O Great Soul, seeing this wondrous and terrible form of Yours, the three worlds are trembling with fear
 
 ### Meaning
 

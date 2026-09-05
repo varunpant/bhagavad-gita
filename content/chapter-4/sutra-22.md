@@ -8,11 +8,10 @@ sutra: 22
 position: 184
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः
 समः सिद्धावसिद्धौ च कृत्वापि न निबध्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 184
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadṛcchālābhasantuṣṭo dvandvātīto vimatsaraḥ
 samaḥ siddhāvasiddhau ca kṛtvāpi na nibadhyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो अपने आप प्राप्त हुए लाभ से संतुष्ट रहता है, जो द्वंद्वों से अतीत हो गया है, जो ईर्ष्या से रहित है, और जो सिद्धि तथा असिद्धि में समान रहता है, वह कर्म करके भी नहीं बंधता।
 
 ### भावार्थ
 
 भगवान कृष्ण एक मुक्त पुरुष की मानसिकता का वर्णन करते हैं जो बिना किसी आसक्ति के कर्म करता है। ऐसा व्यक्ति स्वाभाविक रूप से जो कुछ भी प्राप्त होता है, उसी में संतुष्ट रहता है और सुख-दुख जैसे द्वंद्वों तथा ईर्ष्या से मुक्त होता है। सफलता और विफलता दोनों में समान भाव रखने के कारण, वह कर्म करते हुए भी कर्मबंधनों में नहीं बंधता।
+
+### Translation
+
+Satisfied with whatever comes by chance, having transcended the dualities, free from envy, and equal in success and failure, even while acting, he is not bound.
 
 ### Meaning
 

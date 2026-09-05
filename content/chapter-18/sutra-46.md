@@ -8,11 +8,10 @@ sutra: 46
 position: 669
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्
 स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 669
 
 
 ### Transliteration
-```
+{{< lines >}}
 yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam
 svakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिससे समस्त प्राणियों की उत्पत्ति होती है और जिससे यह सब कुछ व्याप्त है, उस परमेश्वर की अपने स्वाभाविक कर्मों द्वारा पूजा करके मनुष्य परम सिद्धि को प्राप्त कर लेता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि अपने नियत कर्मों को केवल सांसारिक कार्य न मानकर, उन्हें ईश्वर की आराधना के रूप में करना चाहिए। चूंकि संपूर्ण सृष्टि परमात्मा से ही उत्पन्न हुई है और उसी से व्याप्त है, इसलिए अपने कर्तव्यों का निष्ठापूर्वक पालन करना ही उनकी सच्ची पूजा है। इस प्रकार निष्काम भाव से कर्म करने वाला मनुष्य परम सिद्धि को प्राप्त करता है।
+
+### Translation
+
+By worshipping Him from whom all beings originate and by whom all this is pervaded, through the performance of one's own duty, a human being attains perfection.
 
 ### Meaning
 

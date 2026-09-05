@@ -8,11 +8,10 @@ sutra: 23
 position: 23
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः
 धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ wishing to please in battle the evil-minded Duryodhana (the son of Dhritarashtra
 
 
 ### Transliteration
-```
+{{< lines >}}
 yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ
 dhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं उन लोगों को देख लूँ जो यहाँ युद्ध करने के लिए एकत्र हुए हैं, और जो इस युद्ध में दुर्बुद्धि धृतराष्ट्र-पुत्र (दुर्योधन) का प्रिय करना चाहते हैं।
 
 ### भावार्थ
 
 अर्जुन श्रीकृष्ण से रथ को दोनों सेनाओं के बीच खड़ा करने के लिए कहते हैं ताकि वे शत्रु पक्ष के योद्धाओं को देख सकें। वे यह देखना चाहते हैं कि कौन-कौन से राजा दुर्बुद्धि दुर्योधन को प्रसन्न करने के लिए इस युद्ध में उसका साथ देने आए हैं। इससे युद्ध से ठीक पहले अर्जुन की स्थिति का आकलन करने की इच्छा प्रकट होती है।
+
+### Translation
+
+Let me see those who have assembled here ready to fight, wishing to please the evil-minded son of Dhritarashtra in battle.
 
 ### Meaning
 

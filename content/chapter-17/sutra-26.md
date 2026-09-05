@@ -8,11 +8,10 @@ sutra: 26
 position: 621
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते
 प्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 621
 
 
 ### Transliteration
-```
+{{< lines >}}
 sadbhāve sādhubhāve ca sadityetatprayujyate
 praśaste karmaṇi tathā sacchabdaḥ pārtha yujyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अस्तित्व के भाव में और श्रेष्ठ भाव में 'सत्' इस प्रकार यह (शब्द) प्रयोग किया जाता है
+तथा हे पार्थ! प्रशंसनीय कर्म में भी 'सत्' शब्द का प्रयोग किया जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण 'ॐ तत् सत्' महामंत्र के 'सत्' शब्द की व्याख्या कर रहे हैं। 'सत्' शब्द का प्रयोग परम सत्य या अस्तित्व (सद्भाव) और श्रेष्ठता या साधुता (साधुभाव) को दर्शाने के लिए किया जाता है। इसके अतिरिक्त, समाज और धर्म के कल्याण के लिए किए जाने वाले किसी भी प्रशंसनीय या मांगलिक कार्य के लिए भी 'सत्' शब्द का प्रयोग किया जाता है।
+
+### Translation
+
+The word 'Sat' is used in the sense of reality and in the sense of goodness
+and likewise, O Partha, the word 'Sat' is applied to an auspicious action
 
 ### Meaning
 

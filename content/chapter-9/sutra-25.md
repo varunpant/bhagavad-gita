@@ -8,11 +8,10 @@ sutra: 25
 position: 363
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यान्ति देवव्रता देवान् पितृ़न्यान्ति पितृव्रताः
 भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 363
 
 
 ### Transliteration
-```
+{{< lines >}}
 yānti devavratā devān pitṝnyānti pitṛvratāḥ
 bhūtāni yānti bhūtejyā yānti madyājino'pi mām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+देवताओं का व्रत करने वाले देवताओं को प्राप्त होते हैं, पितरों का व्रत करने वाले पितरों को प्राप्त होते हैं, भूतों की पूजा करने वाले भूतों को प्राप्त होते हैं और मेरे भक्त मुझे ही प्राप्त होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि मनुष्य की श्रद्धा और उपासना का लक्ष्य ही उसकी गति का निर्धारण करता है। जो लोग देवताओं, पितरों या अन्य शक्तियों की पूजा करते हैं, वे उन्हीं के लोकों को प्राप्त करते हैं, जो कि नाशवान हैं। इसके विपरीत, जो अनन्य भाव से परमेश्वर की शरण लेते हैं, वे अविनाशी परम पद (भगवान) को प्राप्त करते हैं।
+
+### Translation
+
+Worshippers of the demigods go to the demigods, worshippers of the ancestors go to the ancestors, worshippers of the spirits go to the spirits, and My worshippers come to Me.
 
 ### Meaning
 

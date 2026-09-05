@@ -8,11 +8,10 @@ sutra: 14
 position: 352
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः
 नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 352
 
 
 ### Transliteration
-```
+{{< lines >}}
 satataṃ kīrtayanto māṃ yatantaśca dṛḍhavratāḥ
 namasyantaśca māṃ bhaktyā nityayuktā upāsate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+निरंतर मेरा कीर्तन करते हुए, यत्न करते हुए और दृढ़ संकल्प वाले भक्त
+भक्तिपूर्वक मुझे नमस्कार करते हुए, सदैव मुझसे जुड़े रहकर मेरी उपासना करते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन महान आत्माओं (महात्माओं) के भक्ति आचरण का वर्णन करते हैं जो अनन्य भाव से उनकी शरण लेते हैं। वे भक्त निरंतर भगवान के नामों और गुणों का कीर्तन करते हैं, अपनी साधना में दृढ़ रहते हैं, और अत्यंत श्रद्धा के साथ भगवान की आराधना करते हैं। उनका मन और बुद्धि सदैव परमात्मा में ही लीन रहते हैं।
+
+### Translation
+
+Always chanting My glories, striving with firm resolve
+and bowing down to Me in devotion, they perpetually worship Me, ever-united with Me
 
 ### Meaning
 

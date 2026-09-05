@@ -8,11 +8,10 @@ sutra: 27
 position: 365
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्
 यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 365
 
 
 ### Transliteration
-```
+{{< lines >}}
 yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat
 yat tapasyasi kaunteya tat kuruṣva mad-arpaṇam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! तुम जो कुछ भी करते हो, जो कुछ भी खाते हो, जो कुछ भी हवन करते हो, जो कुछ भी दान देते हो और जो कुछ भी तपस्या करते हो, वह सब मुझे अर्पित कर दो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को निष्काम कर्मयोग का सबसे सरल मार्ग बताते हैं। वे कहते हैं कि मनुष्य को अपने दैनिक जीवन के सभी कार्यों, भोजन, यज्ञ, दान और तप को भगवान को समर्पित कर देना चाहिए। ऐसा करने से कर्म के बंधन समाप्त हो जाते हैं और भक्त का जीवन पूरी तरह से ईश्वरोन्मुख हो जाता है।
+
+### Translation
+
+O son of Kunti, whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away, and whatever austerities you perform, do that as an offering unto Me.
 
 ### Meaning
 

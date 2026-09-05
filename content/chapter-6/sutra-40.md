@@ -8,11 +8,11 @@ sutra: 40
 position: 273
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते
+{{< lines >}}
+श्री भगवानुवाच
+पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते
 नहि कल्याणकृत्कश्िचद्दुर्गतिं तात गच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,27 @@ position: 273
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 pārtha naiveha nāmutra vināśastasya vidyate
 na hi kalyāṇakṛt kaścid durgatiṃ tāta gacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान् ने कहा —
+हे पार्थ! उस पुरुष का न तो इस लोक में और न ही परलोक में विनाश होता है
+क्योंकि हे प्यारे मित्र! कल्याणकारी कर्म करने वाला कोई भी मनुष्य दुर्गति को प्राप्त नहीं होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि योग के मार्ग से भटका हुआ साधक कभी नष्ट नहीं होता। शुभ कर्मों और आत्म-साक्षात्कार के प्रयास का फल कभी व्यर्थ नहीं जाता। ऐसे व्यक्ति को इस जन्म में या अगले जन्म में कभी भी पतन का सामना नहीं करना पड़ता, बल्कि उसे प्रगति ही मिलती है।
+
+### Translation
+
+The Supreme Lord said:
+O Partha, neither in this world nor in the next is there destruction for him
+for anyone who does good, My dear friend, never comes to a bad end
 
 ### Meaning
 

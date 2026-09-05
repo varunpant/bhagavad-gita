@@ -8,11 +8,10 @@ sutra: 11
 position: 383
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तेषामेवानुकम्पार्थमहमज्ञानजं तमः
 नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 383
 
 
 ### Transliteration
-```
+{{< lines >}}
 teṣām evānukampārtham aham ajñānajaṃ tamaḥ
 nāśayāmy ātmabhāvastho jñānadīpena bhāsvatā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उन पर कृपा करने के लिए ही, उनके अंतःकरण में स्थित मैं, अज्ञान से उत्पन्न अंधकार को देदीप्यमान ज्ञान रूपी दीपक के द्वारा नष्ट कर देता हूँ।
 
 ### भावार्थ
 
 भगवान कृष्ण स्पष्ट करते हैं कि जो भक्त अनन्य भाव से उनकी भक्ति में लीन रहते हैं, उन पर विशेष अनुकम्पा करने के लिए वे स्वयं उनके हृदय में प्रकट होते हैं। वे उनके भीतर के अज्ञान जनित अंधकार को आत्म-ज्ञान के प्रकाश से मिटा देते हैं। इसके लिए भक्त को किसी बाहरी कठिन साधन की आवश्यकता नहीं होती, क्योंकि ईश्वर स्वयं भीतर से उनका पथ-प्रदर्शन करते हैं।
+
+### Translation
+
+Out of compassion for them, I, dwelling within their hearts, destroy the darkness born of ignorance with the luminous lamp of knowledge.
 
 ### Meaning
 

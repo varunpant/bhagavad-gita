@@ -8,11 +8,10 @@ sutra: 40
 position: 454
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नमः पुरस्तादथ पृष्ठतस्ते    नमोऽस्तु ते सर्वत एव सर्व
 अनन्तवीर्यामितविक्रमस्त्वं    सर्वं समाप्नोषि ततोऽसि सर्वः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,28 @@ position: 454
 
 
 ### Transliteration
-```
-namaḥ purastādatha pṛṣṭhataste
-namo'stu te sarvata eva sarva
-anantavīryāmitavikramastvaṃ
-sarvaṃ samāpnoṣi tato'si sarvaḥ
+{{< lines >}}
+namaḥ purastādatha pṛṣṭhataste namo'stu te sarvata eva sarva
+anantavīryāmitavikramastvaṃ sarvaṃ samāpnoṣi tato'si sarvaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आपको आगे से नमस्कार और पीछे से भी नमस्कार!
+हे सर्वस्वरूप! आपको सब ओर से ही नमस्कार हो।
+आप अनन्त सामर्थ्य और असीम पराक्रम वाले हैं।
+आप सब कुछ व्याप्त किए हुए हैं, इसलिए आप ही सब कुछ हैं।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप के प्रति अत्यंत विस्मय और श्रद्धा से भरकर उन्हें हर दिशा से नमन कर रहे हैं। वे स्वीकार करते हैं कि भगवान की शक्ति और पराक्रम की कोई सीमा नहीं है। चूंकि भगवान ही इस संपूर्ण सृष्टि में व्याप्त हैं, इसलिए वे ही सब कुछ हैं और उनके अतिरिक्त कुछ भी नहीं है।
+
+### Translation
+
+Salutations to You from the front and from behind!
+O All! Salutations to You from every side!
+You are of infinite power and boundless might.
+You pervade everything, and therefore You are everything.
 
 ### Meaning
 

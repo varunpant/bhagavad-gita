@@ -8,11 +8,10 @@ sutra: 15
 position: 15
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पाञ्चजन्यं हृषीकेशो देवदत्तं धनंजयः
 पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,24 @@ conch Paundra.
 
 
 ### Transliteration
-```
+{{< lines >}}
 pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanaṃjayaḥ
 pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हृषीकेश (श्रीकृष्ण) ने पाञ्चजन्य नामक शंख बजाया और धनंजय (अर्जुन) ने देवदत्त नामक शंख बजाया।
+भयानक कर्म करने वाले वृकोदर (भीम) ने पौण्ड्र नामक महाशंख बजाया।
 
 ### भावार्थ
 
 इस श्लोक में पाण्डव सेना के प्रमुख योद्धाओं और उनके दिव्य शंखों का वर्णन किया गया है। भगवान श्रीकृष्ण द्वारा पाञ्चजन्य और अर्जुन द्वारा देवदत्त शंख का बजना उनकी युद्ध के लिए तत्परता और ईश्वरीय समर्थन को दर्शाता है। भयानक कर्म करने वाले भीम द्वारा पौण्ड्र नामक महाशंख बजाने से कौरव सेना में भय का वातावरण और भी गहरा हो गया।
+
+### Translation
+
+Lord Krishna blew His conch named Panchajanya, and Arjuna blew his conch named Devadatta.
+Bhima, the performer of terrible deeds, blew his great conch named Paundra.
 
 ### Meaning
 

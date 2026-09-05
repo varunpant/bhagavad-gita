@@ -8,11 +8,10 @@ sutra: 4
 position: 314
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम्
 अधियज्ञोऽहमेवात्र देहे देहभृतां वर
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 314
 
 
 ### Transliteration
-```
+{{< lines >}}
 adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam
 adhiyajño'hamevātra dehe dehabhṛtāṃ vara
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उत्पत्ति-विनाशशील समस्त पदार्थ अधिभूत हैं, हिरण्यमय पुरुष (ब्रह्मा) अधिदैव हैं, और हे देहधारियों में श्रेष्ठ अर्जुन! इस शरीर में मैं ही अधियज्ञ हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन के प्रश्नों का उत्तर देते हुए अधिभूत, अधिदैव और अधियज्ञ को स्पष्ट कर रहे हैं। वे बताते हैं कि भौतिक जगत के सभी परिवर्तनशील और नाशवान पदार्थ 'अधिभूत' हैं। समष्टि बुद्धि के अभिमानी हिरण्यमय पुरुष 'अधिदैव' हैं, और इस मानव शरीर के भीतर यज्ञों के भोक्ता रूप में स्वयं भगवान ही 'अधियज्ञ' के रूप में स्थित हैं।
+
+### Translation
+
+The perishable existence is called Adhibhuta, the cosmic soul is Adhidaivata, and I alone am Adhiyajna here in this body, O best of the embodied beings.
 
 ### Meaning
 

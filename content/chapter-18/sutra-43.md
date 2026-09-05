@@ -8,11 +8,10 @@ sutra: 43
 position: 666
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्
 दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 666
 
 
 ### Transliteration
-```
+{{< lines >}}
 śauryam tejo dhṛtir dākṣyam yuddhe cāpy apalāyanam
 dānam īśvarabhāvaś ca kṣātram karma svabhāvajam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शूरवीरता, तेज, धैर्य, चतुरता और युद्ध में न भागना, दान देना और स्वामी-भाव — ये सब ही क्षत्रिय के स्वभाव से उत्पन्न होने वाले कर्म हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण क्षत्रिय वर्ण के स्वाभाविक गुणों और कर्तव्यों का वर्णन करते हैं। एक क्षत्रिय में वीरता, तेजस्विता, धैर्य, प्रशासनिक दक्षता, युद्धभूमि से न भागने का संकल्प, दानशीलता और नेतृत्व की क्षमता स्वाभाविक रूप से होनी चाहिए। ये गुण उनके अंतर्निहित स्वभाव (गुण और कर्म) से उत्पन्न होते हैं।
+
+### Translation
+
+Heroism, majesty, firmness, dexterity, and also not fleeing from battle, generosity, and lordliness are the duties of a Kshatriya, born of his own nature.
 
 ### Meaning
 

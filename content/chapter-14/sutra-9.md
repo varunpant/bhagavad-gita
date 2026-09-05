@@ -8,11 +8,10 @@ sutra: 9
 position: 533
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत
 ज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 533
 
 
 ### Transliteration
-```
+{{< lines >}}
 sattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata
 jñānam āvṛtya tu tamaḥ pramāde sañjayaty uta
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी! सत्त्वगुण सुख में लगाता है, रजोगुण कर्म में, और तमोगुण तो ज्ञान को ढककर प्रमाद में लगाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तीनों गुणों के प्रभाव का संक्षेप में वर्णन करते हैं। सत्त्वगुण मनुष्य को सुख और संतोष का अनुभव कराता है, रजोगुण उसे सकाम कर्मों की ओर धकेलता है, और तमोगुण मनुष्य के विवेक को ढककर उसे आलस्य, प्रमाद और अज्ञान के वश में कर देता है।
+
+### Translation
+
+O descendant of Bharata, Sattva binds one to happiness, Rajas to action, while Tamas, veiling knowledge, binds one to negligence.
 
 ### Meaning
 

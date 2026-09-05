@@ -8,11 +8,10 @@ sutra: 18
 position: 251
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदा विनियतं चित्तमात्मन्येवावतिष्ठते
 निःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 251
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadā viniyataṃ cittam ātmany evāvatiṣṭhate
 niḥspṛhaḥ sarvakāmebhyo yukta ity ucyate tadā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस समय सर्वथा वश में किया हुआ चित्त केवल परमात्मा में ही भलीभांति स्थित हो जाता है, और समस्त कामनाओं से सर्वथा स्पृहारहित हो जाता है, उस समय वह योगयुक्त कहा जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण योग की सिद्धावस्था का लक्षण बताते हैं। जब साधक का मन पूरी तरह से वश में होकर केवल परमात्मा में लीन हो जाता है और संसार के सभी भोगों की इच्छा समाप्त हो जाती है, तब उसे वास्तव में 'युक्त' या योगी कहा जाता है। यह मानसिक स्थिरता और वैराग्य की पराकाष्ठा है।
+
+### Translation
+
+When the disciplined mind, completely controlled, becomes established in the Self alone, free from longing for all desires, then one is said to be united in Yoga.
 
 ### Meaning
 

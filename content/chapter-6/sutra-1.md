@@ -8,11 +8,11 @@ sutra: 1
 position: 234
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचअनाश्रितः कर्मफलं कार्यं कर्म करोति यः
+{{< lines >}}
+श्री भगवानुवाच
+अनाश्रितः कर्मफलं कार्यं कर्म करोति यः
 स संन्यासी च योगी च न निरग्निर्न चाक्रियः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 234
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 anāśritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ
 sa saṁnyāsī ca yogī ca na niragnir na cākriyaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+जो मनुष्य कर्म के फल का आश्रय न लेकर करने योग्य कर्तव्य कर्म करता है, वही संन्यासी है और वही योगी है; केवल अग्नि का त्याग करने वाला संन्यासी नहीं होता और न ही क्रियाओं का त्याग करने वाला योगी होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सच्चे संन्यास और योग की परिभाषा स्पष्ट करते हैं। केवल बाहरी रूप से अग्निहोत्र आदि कर्मों का त्याग करने से या शारीरिक रूप से निष्क्रिय हो जाने से कोई संन्यासी या योगी नहीं बनता। वास्तविक संन्यासी और योगी वह है जो अपने कर्तव्य कर्मों को बिना किसी व्यक्तिगत फल की आसक्ति के निष्काम भाव से करता है।
+
+### Translation
+
+The Blessed Lord said:
+He who performs his bounden duty without depending on the fruits of action is a sannyasi and a yogi, not he who merely lights no sacrificial fire and performs no work.
 
 ### Meaning
 

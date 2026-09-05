@@ -8,11 +8,10 @@ sutra: 23
 position: 256
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम्
 स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 256
 
 
 ### Transliteration
-```
+{{< lines >}}
 taṃ vidyād duḥkhasaṃyogaviyogaṃ yogasaṃjñitam
 sa niścayena yoktavyo yogo'nirviṇṇacetasā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उसे दुःख के संयोग के वियोग रूप वाला जानना चाहिए, जो 'योग' नाम से प्रसिद्ध है।
+वह योग बिना उद्वेग वाले चित्त से निश्चयपूर्वक अभ्यास करने योग्य है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण योग की वास्तविक परिभाषा बताते हैं, जो कि दुखों के संयोग से सर्वथा मुक्ति (वियोग) है। इस परम स्थिति को प्राप्त करने के लिए मनुष्य को बिना निराश हुए, पूर्ण संकल्प और उत्साह के साथ निरंतर ध्यान का अभ्यास करना चाहिए।
+
+### Translation
+
+Let that be known by the name of 'Yoga'—the severance of union with pain.
+This Yoga must be practiced with determination and with an undesponding mind.
 
 ### Meaning
 

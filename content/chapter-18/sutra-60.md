@@ -8,11 +8,10 @@ sutra: 60
 position: 683
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा
 कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 683
 
 
 ### Transliteration
-```
+{{< lines >}}
 svabhāvajena kaunteya nibaddhaḥ svena karmaṇā
 kartuṃ necchasi yanmohāt kariṣyasyavaśo'pi tat
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! अपने स्वभाव से उत्पन्न कर्म द्वारा बंधे हुए तुम, मोह के कारण जिस कर्म को करना नहीं चाहते हो, उसे भी परवश होकर करोगे।
 
 ### भावार्थ
 
 श्रीकृष्ण अर्जुन को समझाते हैं कि प्रत्येक मनुष्य अपने जन्मजात स्वभाव और संस्कारों से बंधा होता है। अर्जुन का क्षत्रिय स्वभाव उसे युद्ध से भागने नहीं देगा। यदि वह मोहवश इस समय युद्ध न करने का निर्णय भी लेता है, तो भी उसका अंतर्निहित स्वभाव उसे अंततः युद्ध करने के लिए विवश कर देगा।
+
+### Translation
+
+O son of Kunti, bound by your own duty born of your nature, that which you do not wish to do out of delusion, you will do even against your will, being helpless.
 
 ### Meaning
 

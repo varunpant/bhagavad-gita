@@ -8,12 +8,11 @@ sutra: 1
 position: 490
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च
 एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 490
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 prakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñameva ca
 etadveditumicchāmi jñānaṃ jñeyaṃ ca keśava
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे केशव! मैं प्रकृति, पुरुष, क्षेत्र, क्षेत्रज्ञ, ज्ञान और ज्ञेय के विषय में जानना चाहता हूँ
 
 ### भावार्थ
 
 यह श्लोक भगवद्गीता के तेरहवें अध्याय का प्रारंभ करता है, जहाँ अर्जुन भगवान कृष्ण से छह महत्वपूर्ण दार्शनिक तत्वों के बारे में प्रश्न पूछते हैं। ये तत्व हैं: प्रकृति (भौतिक जगत), पुरुष (चेतन आत्मा), क्षेत्र (शरीर या कर्मक्षेत्र), क्षेत्रज्ञ (आत्मा या ज्ञाता), ज्ञान (सच्ची समझ), और ज्ञेय (जानने योग्य परम सत्य)। कृष्ण इन प्रश्नों का उत्तर देकर ज्ञानयोग का उपदेश देते हैं।
+
+### Translation
+
+Arjuna said:
+O Keshava, I wish to know about prakriti (nature), purusha (the enjoyer), kshetra (the field), kshetrajna (the knower of the field), jnana (knowledge), and jneya (the object of knowledge)
 
 ### Meaning
 

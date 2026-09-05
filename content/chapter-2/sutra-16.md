@@ -8,11 +8,10 @@ sutra: 16
 position: 63
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नासतो विद्यते भावो नाभावो विद्यते सतः
 उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 63
 
 
 ### Transliteration
-```
+{{< lines >}}
 nāsato vidyate bhāvo nābhāvo vidyate sataḥ
 ubhayorapi dṛṣṭo'ntastvanayostattvadarśibhiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+असत् (अविद्यमान) का कोई अस्तित्व नहीं है और सत् (विद्यमान) का कभी अभाव नहीं होता। तत्त्वदर्शियों ने इन दोनों का ही यह निष्कर्ष देखा है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को सत् (आत्मा) और असत् (भौतिक शरीर) के बीच का अंतर समझाते हैं। जो असत् है, जैसे कि यह भौतिक शरीर, उसका कोई स्थायी अस्तित्व नहीं है और वह नष्ट होने वाला है। वहीं जो सत् है, अर्थात् आत्मा, उसका कभी विनाश नहीं होता। तत्त्वज्ञानी महापुरुषों ने इस सत्य को भली-भांति जानकर यह निष्कर्ष निकाला है।
+
+### Translation
+
+The non-existent has no being, and the existent has no non-being. The conclusion about both of these has indeed been seen by the seers of truth.
 
 ### Meaning
 

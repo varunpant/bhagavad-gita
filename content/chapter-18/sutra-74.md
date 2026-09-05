@@ -8,12 +8,11 @@ sutra: 74
 position: 697
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 इत्यहं वासुदेवस्य पार्थस्य च महात्मनः
 संवादमिममश्रौषमद्भुतं रोमहर्षणम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 697
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
 ityahaṃ vāsudevasya pārthasya ca mahātmanaḥ
 saṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संजय ने कहा —
+इस प्रकार मैंने वासुदेव श्रीकृष्ण और महात्मा अर्जुन के इस अद्भुत और रोमांचकारी संवाद को सुना
 
 ### भावार्थ
 
 यह भगवद्गीता का उपसंहार भाग है जहाँ संजय धृतराष्ट्र को अपना अनुभव बता रहे हैं। संजय व्यास देव की कृपा से प्राप्त दिव्य दृष्टि के माध्यम से इस संवाद को प्रत्यक्ष सुन पाए थे। वे इस संवाद को अत्यंत विस्मयकारी और रोमांच उत्पन्न करने वाला बताते हैं।
+
+### Translation
+
+Sanjaya said:
+Thus I have heard this wonderful and hair-raising conversation between Vāsudeva and the high-souled Pārtha
 
 ### Meaning
 

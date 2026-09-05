@@ -8,11 +8,10 @@ sutra: 8
 position: 477
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मय्येव मन आधत्स्व मयि बुद्धिं निवेशय
 निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 477
 
 
 ### Transliteration
-```
+{{< lines >}}
 mayyeva mana ādhatsva mayi buddhiṃ niveśaya
 nivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझमें ही अपने मन को स्थिर करो, मुझमें ही अपनी बुद्धि को लगाओ
+इसके बाद तुम मुझमें ही निवास करोगे, इसमें कोई संशय नहीं है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अनन्य भक्ति का मार्ग बताते हैं। वे कहते हैं कि साधक को अपने मन और बुद्धि दोनों को पूरी तरह से भगवान में ही लीन कर देना चाहिए। ऐसा करने से मनुष्य मृत्यु के पश्चात या इसी जीवन में भगवद्भाव को प्राप्त होता है और ईश्वर में ही निवास करता है।
+
+### Translation
+
+Fix your mind on Me alone, let your intellect dwell in Me
+Thereafter you shall live in Me alone, of this there is no doubt
 
 ### Meaning
 

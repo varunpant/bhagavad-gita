@@ -8,11 +8,10 @@ sutra: 48
 position: 95
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय
 सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 95
 
 
 ### Transliteration
-```
+{{< lines >}}
 yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya
 siddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे धनंजय! आसक्ति को त्याग कर तथा सफलता और विफलता में समान भाव रखकर, योग में स्थित होकर अपने कर्मों को करो। यह समभाव ही योग कहलाता है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को कर्मयोग का मूल सिद्धांत समझाते हैं। वे कहते हैं कि कर्म करते समय फल की आसक्ति नहीं होनी चाहिए, चाहे कार्य में सफलता मिले या विफलता। मन की इसी समता और स्थिरता को ही वास्तविक 'योग' कहा गया है।
+
+### Translation
+
+O Dhananjaya, perform your duties steadfast in yoga, having abandoned attachment, and having become equal in success and failure. This evenness of mind is called yoga.
 
 ### Meaning
 

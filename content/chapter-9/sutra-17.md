@@ -8,11 +8,10 @@ sutra: 17
 position: 355
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पिताऽहमस्य जगतो माता धाता पितामहः
 वेद्यं पवित्रमोंकार ऋक् साम यजुरेव च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ grandfather; the (one) thing to be known, the purifier, the sacred monosyllable 
 
 
 ### Transliteration
-```
+{{< lines >}}
 pitāhamasya jagato mātā dhātā pitāmahaḥ
 vedyaṃ pavitramoṅkāra ṛk sāma yajureva ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं ही इस जगत् का पिता, माता, धाता (धारण-पोषण करने वाला) और पितामह हूँ। मैं ही जानने योग्य, पवित्र करने वाला, ओंकार तथा ऋग्वेद, सामवेद और यजुर्वेद हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी सर्वव्यापकता और परम आश्रयता को प्रकट कर रहे हैं। वे बताते हैं कि सृष्टि के आदि कारण, पोषक, और परम पूज्य वे ही हैं। ज्ञान के समस्त साधनों, पवित्र करने वाले तत्वों और वेदों के मूल प्रणव (ॐ) के रूप में भी वे ही प्रतिष्ठित हैं।
+
+### Translation
+
+I am the father of this world, the mother, the support, and the grandsire. I am the object of knowledge, the purifier, the syllable Om, and also the Rig, Sama, and Yajur Vedas.
 
 ### Meaning
 

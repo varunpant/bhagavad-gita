@@ -8,11 +8,10 @@ sutra: 61
 position: 684
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति
 भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 684
 
 
 ### Transliteration
-```
+{{< lines >}}
 īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati
 bhrāmayansarvabhūtāni yantrārūḍhāni māyayā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! ईश्वर सब प्राणियों के हृदय-देश में स्थित है
+और अपनी माया से, यन्त्र पर चढ़े हुए के समान, सब प्राणियों को उनके कर्मों के अनुसार भ्रमण कराता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि परमेश्वर प्रत्येक जीव के हृदय में निवास करते हैं। वे अपनी दिव्य माया शक्ति से सभी जीवों को उनके कर्मों के अनुसार संसार रूपी चक्र में घुमाते हैं, जैसे कोई कठपुतली या यंत्र पर आरूढ़ व्यक्ति घूमता है। इसलिए मनुष्य को अपने अहंकार को त्यागकर उस परमेश्वर की शरण में जाना चाहिए।
+
+### Translation
+
+The Supreme Lord dwells in the heart of all beings, O Arjuna
+causing all beings to spin, as if mounted on a machine, by His illusory power
 
 ### Meaning
 

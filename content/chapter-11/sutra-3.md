@@ -8,11 +8,10 @@ sutra: 3
 position: 417
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एवमेतद्यथात्थ त्वमात्मानं परमेश्वर
 द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 417
 
 
 ### Transliteration
-```
+{{< lines >}}
 evam etad yathāttha tvam ātmānaṃ parameśvara
 draṣṭum icchāmi te rūpam aiśvaraṃ puruṣottama
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे परमेश्वर! आप अपने विषय में जैसा कहते हैं, यह ठीक वैसा ही है। हे पुरुषोत्तम! मैं आपके उस ऐश्वर्ययुक्त रूप को प्रत्यक्ष देखना चाहता हूँ।
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण के वचनों को पूर्णतः सत्य स्वीकार करते हैं, परंतु वे उनके विराट और ऐश्वर्यशाली रूप का प्रत्यक्ष अनुभव करना चाहते हैं। वे कृष्ण को 'परमेश्वर' और 'पुरुषोत्तम' कहकर संबोधित करते हैं, जो उनकी सर्वोच्च सत्ता को दर्शाता है। यह जिज्ञासा किसी संशय के कारण नहीं, बल्कि भगवान की महिमा को साक्षात् देखने की उत्कट इच्छा से उत्पन्न हुई है।
+
+### Translation
+
+O Supreme Lord, it is exactly as You have described Yourself. O Supreme Person, I desire to see Your divine, sovereign form.
 
 ### Meaning
 

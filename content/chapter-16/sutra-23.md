@@ -8,11 +8,10 @@ sutra: 23
 position: 594
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः
 न स सिद्धिमवाप्नोति न सुखं न परां गतिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 594
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ
 na sa siddhimavāpnoti na sukhaṃ na parāṃ gatim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य शास्त्र की विधि को त्यागकर अपनी इच्छा के अनुसार आचरण करता है, वह न तो सिद्धि को प्राप्त करता है, न सुख को और न ही परम गति को।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण शास्त्रसम्मत आचरण के महत्व पर बल देते हैं। जो व्यक्ति शास्त्रों के नियमों और मर्यादाओं की उपेक्षा करके केवल अपनी वासनाओं और इच्छाओं के वश में होकर जीता है, उसे जीवन में वास्तविक सफलता या मानसिक शांति नहीं मिल सकती। ऐसा आचरण मनुष्य को आध्यात्मिक पतन की ओर ले जाता है और वह मोक्ष रूपी परम गति से वंचित रह जाता है।
+
+### Translation
+
+He who, discarding the injunctions of the scriptures, acts under the impulse of desire, attains neither perfection, nor happiness, nor the supreme goal.
 
 ### Meaning
 

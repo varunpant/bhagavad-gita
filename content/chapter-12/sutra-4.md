@@ -8,11 +8,10 @@ sutra: 4
 position: 473
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 संनियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः
 ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 473
 
 
 ### Transliteration
-```
+{{< lines >}}
 saṃniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ
 te prāpnuvanti mām eva sarvabhūtahite ratāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अपनी सभी इन्द्रियों के समूह को भली-भांति वश में करके, सभी परिस्थितियों में समान बुद्धि वाले और सभी प्राणियों के कल्याण में लगे हुए लोग भी मुझे ही प्राप्त करते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण निराकार (अव्यक्त) ब्रह्म की उपासना करने वालों की गति का वर्णन करते हैं। जो साधक अपनी इन्द्रियों को पूर्णतः नियंत्रित करते हैं, सुख-दुःख आदि द्वंद्वों में समभाव रखते हैं और प्राणिमात्र के कल्याण में तत्पर रहते हैं, वे भी अंततः परमात्मा को ही प्राप्त करते हैं। यह दर्शाता है कि सगुण और निर्गुण दोनों ही मार्ग एक ही गंतव्य तक ले जाते हैं।
+
+### Translation
+
+Restraining the entire group of senses, even-minded everywhere, and engaged in the welfare of all beings, they also attain Me alone
 
 ### Meaning
 

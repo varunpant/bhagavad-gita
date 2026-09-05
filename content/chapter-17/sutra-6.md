@@ -8,11 +8,10 @@ sutra: 6
 position: 601
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कर्षयन्तः शरीरस्थं भूतग्राममचेतसः
 मां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 601
 
 
 ### Transliteration
-```
+{{< lines >}}
 karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ
 māṃ caivāntaḥśarīrasthaṃ tān viddhyāsuraniścayān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शरीर के भीतर स्थित पंचभूतों के समूह को और शरीर के भीतर अंतर्यामी रूप से स्थित मुझको भी दुर्बल करने वाले, उन अज्ञानियों को तुम आसुरी स्वभाव वाला जानो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन लोगों की निंदा करते हैं जो शास्त्रों के विरुद्ध घोर तपस्या करते हैं। वे अपने शरीर के पंचमहाभूतों को कष्ट देते हैं और अंतःकरण में स्थित परमात्मा (कृष्ण) को भी क्लेश पहुँचाते हैं। ऐसे हठयोगियों या तपस्वियों को आसुरी निश्चय वाला समझना चाहिए।
+
+### Translation
+
+Senselessly torturing the elements composing the body and Me also who dwells within the body—know them to be of demonic resolves.
 
 ### Meaning
 

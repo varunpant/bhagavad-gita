@@ -8,11 +8,10 @@ sutra: 22
 position: 69
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वासांसि जीर्णानि यथा विहाय    नवानि गृह्णाति नरोऽपराणि
 तथा शरीराणि विहाय जीर्णा    न्यन्यानि संयाति नवानि देही
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 69
 
 
 ### Transliteration
-```
+{{< lines >}}
 vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi
 tathā śarīrāṇi vihāya jīrṇānyanyāni saṃyāti navāni dehī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जैसे मनुष्य पुराने वस्त्रों को त्याग कर दूसरे नए वस्त्रों को ग्रहण करता है, वैसे ही जीवात्मा पुराने शरीरों को त्याग कर दूसरे नए शरीरों को प्राप्त होती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्मा के देहान्तरण (पुनर्जन्म) की प्रक्रिया को एक बहुत ही सरल और सटीक उदाहरण से समझाते हैं। जैसे हम फटे-पुराने कपड़ों को बदलकर नए कपड़े पहन लेते हैं, वैसे ही अजर-अमर आत्मा वृद्ध या अनुपयोगी हो चुके शरीर को छोड़कर नया शरीर धारण कर लेती है। इसलिए मृत्यु केवल शरीर का परिवर्तन है, आत्मा का अंत नहीं, अतः इसके लिए शोक करना व्यर्थ है।
+
+### Translation
+
+Just as a person casts off worn-out garments and puts on others that are new, in the same way, the embodied soul casts off worn-out bodies and enters others that are new.
 
 ### Meaning
 

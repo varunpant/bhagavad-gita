@@ -8,11 +8,11 @@ sutra: 3
 position: 313
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते
+{{< lines >}}
+श्री भगवानुवाच
+अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते
 भूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 313
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrībhagavān uvāca
 akṣaraṃ brahma paramaṃ svabhāvo'dhyātmam ucyate
 bhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+परम अविनाशी तत्त्व ब्रह्म है, अपना स्वरूप अध्यात्म कहलाता है तथा भूतों के भाव को उत्पन्न करने वाला जो त्याग है, वह कर्म नाम से कहा गया है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन के प्रश्नों का उत्तर देते हुए ब्रह्म, अध्यात्म और कर्म को परिभाषित करते हैं। परम अविनाशी और नित्य तत्त्व को ब्रह्म कहा गया है। प्रत्येक जीव का अपना व्यक्तिगत स्वरूप या स्वभाव अध्यात्म कहलाता है। सृष्टि में चराचर प्राणियों की उत्पत्ति और विकास का कारण बनने वाली विसर्ग (त्याग या सृष्टि की क्रिया) को कर्म कहा जाता है।
+
+### Translation
+
+The Blessed Lord said:
+The Supreme Indestructible is Brahman; one's own self is called Adhyatma. The creative force that causes the manifestation of beings is called Karma.
 
 ### Meaning
 

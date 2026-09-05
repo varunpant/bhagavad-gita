@@ -8,11 +8,10 @@ sutra: 16
 position: 505
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बहिरन्तश्च भूतानामचरं चरमेव च
 सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 505
 
 
 ### Transliteration
-```
+{{< lines >}}
 bahir antaś ca bhūtānām acaraṃ caram eva ca
 sūkṣmatvāt tad avijñeyaṃ dūrasthaṃ cāntike ca tat
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह समस्त भूतों के बाहर और भीतर भी है, और चर तथा अचर भी वही है।
+अत्यंत सूक्ष्म होने के कारण वह जानने योग्य तत्व अविज्ञेय है, और वह बहुत दूर स्थित होने पर भी अत्यंत समीप ही है।
 
 ### भावार्थ
 
 इस श्लोक में परमात्मा की सर्वव्यापकता और उनकी अचिन्त्य प्रकृति का वर्णन किया गया है। परमात्मा सभी प्राणियों के भीतर आत्मा रूप में और बाहर भी व्याप्त हैं। वे सूक्ष्म होने के कारण इंद्रियों और बुद्धि की साधारण समझ से परे हैं। अज्ञानी के लिए वे अत्यंत दूर हैं, परंतु ज्ञानी के लिए वे अपने ही हृदय में अत्यंत निकट हैं।
+
+### Translation
+
+He exists outside and inside of all living beings, and He is both the unmoving and the moving.
+Because of His subtlety, He is incomprehensible; He is far away, and yet He is very near.
 
 ### Meaning
 

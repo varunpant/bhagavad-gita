@@ -8,11 +8,11 @@ sutra: 32
 position: 446
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचकालोऽस्मि लोकक्षयकृत्प्रवृद्धो     लोकान्समाहर्तुमिह प्रवृत्तः
+{{< lines >}}
+श्री भगवानुवाच
+कालोऽस्मि लोकक्षयकृत्प्रवृद्धो     लोकान्समाहर्तुमिह प्रवृत्तः
 ऋतेऽपि त्वां न भविष्यन्ति सर्वे      येऽवस्थिताः प्रत्यनीकेषु योधाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,18 +34,27 @@ position: 446
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
-kālo'smi lokakṣayakṛt pravṛddho
-lokān samāhartum iha pravṛttaḥ
-ṛte'pi tvāṁ na bhaviṣyanti sarve
-ye'vasthitāḥ pratyanīkeṣu yodhāḥ
+kālo'smi lokakṣayakṛt pravṛddho lokān samāhartum iha pravṛttaḥ
+ṛte'pi tvāṁ na bhaviṣyanti sarve ye'vasthitāḥ pratyanīkeṣu yodhāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+मैं लोकों का नाश करने वाला महाकाल हूँ, जो इस समय लोकों को नष्ट करने के लिए प्रवृत्त हुआ हूँ।
+तुम्हारे (युद्ध न करने पर) भी, प्रतिपक्षी सेनाओं में स्थित ये सभी योद्धा जीवित नहीं बचेंगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को अपने विश्वरूप के भयानक संहारक रूप का परिचय देते हैं। वे स्पष्ट करते हैं कि वे काल (समय) हैं जो सब कुछ नष्ट कर देता है। अर्जुन युद्ध करे या न करे, विपक्ष की सेना में खड़े सभी योद्धाओं की मृत्यु पहले ही निश्चित हो चुकी है।
+
+### Translation
+
+The Supreme Lord said:
+I am mighty Time, the destroyer of the worlds, now engaged here in wiping out the world.
+Even without you, none of all these warriors arrayed in the opposing armies shall survive.
 
 ### Meaning
 

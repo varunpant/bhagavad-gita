@@ -8,11 +8,10 @@ sutra: 17
 position: 389
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन्
 केषु केषु च भावेषु चिन्त्योऽसि भगवन्मया
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,24 @@ Lord, art Thou to be thought of by me?
 
 
 ### Transliteration
-```
+{{< lines >}}
 kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan
 keṣu keṣu ca bhāveṣu cintyo'si bhagavanmayā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे योगेश्वर! मैं सदा आपका चिन्तन करता हुआ आपको किस प्रकार जानूँ?
+और हे भगवन! आप मेरे द्वारा किन-किन भावों में चिन्तन करने योग्य हैं?
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण से पूछते हैं कि वे निरंतर ध्यान करते हुए उनके दिव्य स्वरूप को कैसे समझ सकते हैं। वे उन विशिष्ट रूपों, विभूतियों या भावों के बारे में जानना चाहते हैं जिनमें मन को एकाग्र करके भगवान का स्मरण किया जा सके। यह जिज्ञासा भगवान की सर्वव्यापकता को व्यावहारिक रूप से समझने के लिए है।
+
+### Translation
+
+O Yogi, how may I know You, constantly meditating upon You?
+And in what various aspects or forms are You to be contemplated by me, O Lord?
 
 ### Meaning
 

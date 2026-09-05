@@ -8,11 +8,10 @@ sutra: 7
 position: 558
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ममैवांशो जीवलोके जीवभूतः सनातनः
 मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 558
 
 
 ### Transliteration
-```
+{{< lines >}}
 mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ
 manaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस जीवलोक में मेरा ही सनातन अंश जीव बनकर आया है, और वही प्रकृति में स्थित मन सहित छहों इन्द्रियों को आकर्षित करता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि प्रत्येक जीवात्मा वास्तव में परमात्मा का ही एक शाश्वत अंश है। जब यह अंश भौतिक संसार में आता है, तो यह प्रकृति के अधीन होकर मन और पाँच ज्ञानेन्द्रियों के साथ संघर्ष करता है और उन्हें अपनी ओर खींचता है। यह आत्मा की दिव्य उत्पत्ति और भौतिक जगत में उसके बंधन को दर्शाता है।
+
+### Translation
+
+An eternal portion of Myself indeed, having become a living soul in the world of life, attracts the senses, with mind as the sixth, which abide in nature.
 
 ### Meaning
 

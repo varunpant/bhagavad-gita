@@ -8,11 +8,10 @@ sutra: 17
 position: 568
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः
 यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 568
 
 
 ### Transliteration
-```
+{{< lines >}}
 uttamaḥ puruṣastvanyaḥ paramātmetyudāhṛtaḥ
 yo lokatrayamāviśya bibhartyavyaya īśvaraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु उत्तम पुरुष तो अन्य ही है, जो परमात्मा इस नाम से कहा गया है, जो तीनों लोकों में प्रवेश करके सबका धारण-पोषण करता है और अविनाशी ईश्वर है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण क्षर (नाशवान) और अक्षर (अविनाशी) जीवात्मा से परे 'उत्तम पुरुष' अर्थात् पुरुषोत्तम का वर्णन कर रहे हैं। उन्हें ही परमात्मा कहा गया है जो संपूर्ण सृष्टि का नियंता है। वह अविनाशी ईश्वर तीनों लोकों में व्याप्त होकर समस्त चराचर जगत का भरण-पोषण करता है।
+
+### Translation
+
+But the Supreme Person is yet another, called the Supreme Self, who, pervading the three worlds, sustains them as the imperishable Lord.
 
 ### Meaning
 

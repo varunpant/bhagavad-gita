@@ -8,11 +8,10 @@ sutra: 13
 position: 537
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च
 तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 537
 
 
 ### Transliteration
-```
+{{< lines >}}
 aprakāśo'pravṛttiśca pramādo moha eva ca
 tamasyetāni jāyante vivṛddhe kurunandana
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुरुनन्दन! तमोगुण के बढ़ने पर अप्रकाश, अप्रवृत्ति, प्रमाद और मोह ही उत्पन्न होते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को तमोगुण के बढ़ने के लक्षणों के बारे में बता रहे हैं। जब मनुष्य के भीतर तमोगुण की वृद्धि होती है, तब ज्ञान का अभाव (अप्रकाश), अकर्मण्यता (अप्रवृत्ति), व्यर्थ की भूलें (प्रमाद) और अज्ञानजनित भ्रम (मोह) उत्पन्न होते हैं। यह स्थिति मनुष्य को आलस्य और अज्ञान के अंधकार में धकेल देती है।
+
+### Translation
+
+O joy of the Kurus, when the quality of darkness (tamas) predominates, darkness, inactivity, negligence, and delusion arise
 
 ### Meaning
 

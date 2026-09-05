@@ -8,11 +8,10 @@ sutra: 6
 position: 378
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा
 मद्भावा मानसा जाता येषां लोक इमाः प्रजाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 378
 
 
 ### Transliteration
-```
+{{< lines >}}
 maharṣayaḥ sapta pūrve catvāro manavastathā
 madbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सात महर्षि, उनसे भी पूर्व होने वाले चार मनु तथा अन्य सभी मेरे ही भाव (संकल्प) से, मेरे मन से उत्पन्न हुए हैं, जिनकी संसार में यह सारी प्रजा है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सृष्टि की उत्पत्ति का वर्णन कर रहे हैं। वे बताते हैं कि सप्तर्षि, उनसे पूर्व के चार सनकादि कुमार और चौदह मनु - ये सभी उनके ही मानस पुत्र हैं जो उनके संकल्प से उत्पन्न हुए हैं। इस संसार की समस्त प्रजाएँ इन्हीं पूर्वजों की संतानें हैं, जिससे सिद्ध होता है कि सब कुछ अंततः परमात्मा से ही उद्भूत है।
+
+### Translation
+
+The seven great sages, the older four, and the Manus as well, were born of My mind, sharing My nature, from whom all these creatures in the world have descended.
 
 ### Meaning
 

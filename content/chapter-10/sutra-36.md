@@ -8,11 +8,10 @@ sutra: 36
 position: 408
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम्
 जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 408
 
 
 ### Transliteration
-```
+{{< lines >}}
 dyūtaṃ chalayatāmasmi tejastejasvināmaham
 jayo'smi vyavasāyo'smi sattvaṃ sattvavatāmaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+छल करने वालों में मैं जुआ हूँ और तेजस्वियों में मैं तेज हूँ
+मैं विजय हूँ, मैं निश्चय हूँ और सात्विक पुरुषों में मैं सत्त्व हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि छल करने वालों में वे जुआ (द्यूत क्रीड़ा) हैं, जो कि छल का सबसे बड़ा रूप है। वे तेजस्वी पुरुषों का तेज हैं, विजेताओं की विजय हैं, उद्योगी पुरुषों का निश्चय हैं और सात्विक पुरुषों का सत्त्व गुण हैं। इसका अर्थ यह है कि संसार में जो कुछ भी उत्कृष्ट, बलशाली या प्रभावकारी है, वह सब ईश्वर की ही शक्ति का अंश है।
+
+### Translation
+
+Of those who deceive, I am gambling; of the splendid, I am the splendor
+I am victory, I am resolve, and I am the goodness of the good
 
 ### Meaning
 

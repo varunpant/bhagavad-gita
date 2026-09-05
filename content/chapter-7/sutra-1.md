@@ -8,11 +8,11 @@ sutra: 1
 position: 281
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचमय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः
+{{< lines >}}
+श्री भगवानुवाच
+मय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः
 असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 281
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 mayy āsakta-manāḥ pārtha yogaṃ yuñjan mad-āśrayaḥ
 asaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tac chṛṇu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+हे पार्थ! मुझमें आसक्त मन वाला, मेरे ही आश्रय होकर और योग में लगा हुआ, तू जिस प्रकार मुझे संशयरहित और पूर्ण रूप से जानेगा, उसे सुन।
 
 ### भावार्थ
 
 इस श्लोक से भगवद्गीता के सातवें अध्याय (ज्ञानविज्ञानयोग) का आरम्भ होता है। यहाँ भगवान कृष्ण अर्जुन को समझाते हैं कि किस प्रकार अनन्य भक्ति और योग के अभ्यास द्वारा ईश्वर के समग्र रूप को बिना किसी संशय के जाना जा सकता है। वे अर्जुन को इस परम ज्ञान को ध्यानपूर्वक सुनने के लिए प्रेरित करते हैं।
+
+### Translation
+
+The Blessed Lord said:
+O Partha, with your mind intent on Me, practicing yoga and taking refuge in Me, hear how you shall know Me fully and without any doubt.
 
 ### Meaning
 

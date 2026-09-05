@@ -8,11 +8,10 @@ sutra: 32
 position: 151
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम्
 सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 151
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye tvetadabhyasūyanto nānutiṣṭhanti me matam
 sarvajñānavimūḍhāṃstānviddhi naṣṭānacetasaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु जो लोग ईर्ष्यावश मेरे इस मत का पालन नहीं करते हैं, उन अविवेकी लोगों को तुम सम्पूर्ण ज्ञानों में भ्रमित और नष्ट हुआ ही जानो।
 
 ### भावार्थ
 
 श्रीकृष्ण चेतावनी देते हैं कि जो लोग ईर्ष्या या अहंकार के कारण उनके उपदेशों को नकारते हैं, उनका क्या परिणाम होता है। ऐसे व्यक्ति पूरी तरह से भ्रमित हो जाते हैं और अपना सारा सच्चा ज्ञान तथा विवेक खो बैठते हैं। अंततः, परम सत्य से दूर हो जाने के कारण उनका आध्यात्मिक पतन हो जाता है।
+
+### Translation
+
+But those who, out of envy, do not follow this teaching of mine, know them to be completely bewildered in all knowledge, ruined, and devoid of discrimination.
 
 ### Meaning
 

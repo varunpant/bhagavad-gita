@@ -8,11 +8,10 @@ sutra: 40
 position: 159
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते
 एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 159
 
 
 ### Transliteration
-```
+{{< lines >}}
 indriyāṇi mano buddhirasyādhiṣṭhānamucyate
 etairvimohayatyeṣa jñānamāvṛtya dehinam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इन्द्रियाँ, मन और बुद्धि इसके (काम के) निवास स्थान कहे जाते हैं। इनके द्वारा यह (काम) ज्ञान को आच्छादित करके देहधारी जीवात्मा को मोहित करता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण बताते हैं कि काम (वासना) मनुष्य के भीतर कहाँ निवास करता है। इन्द्रियाँ, मन और बुद्धि इस काम के मुख्य निवास स्थान हैं। इन स्थानों पर कब्ज़ा करके काम मनुष्य के वास्तविक ज्ञान को ढक देता है और जीवात्मा को मोह में डाल देता है।
+
+### Translation
+
+The senses, the mind, and the intelligence are said to be its sitting place. Through these, it covers the real knowledge and deludes the embodied soul.
 
 ### Meaning
 

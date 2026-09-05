@@ -8,11 +8,10 @@ sutra: 30
 position: 263
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति
 तस्याहं न प्रणश्यामि स च मे न प्रणश्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 263
 
 
 ### Transliteration
-```
+{{< lines >}}
 yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati
 tasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मुझे सब जगह देखता है और सब कुछ मुझमें देखता है, उसके लिए मैं कभी अदृश्य नहीं होता और वह मेरे लिए कभी अदृश्य नहीं होता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस योगी की चेतना का वर्णन कर रहे हैं जिसने परमात्मा के साथ पूर्ण ऐक्य प्राप्त कर लिया है। ऐसा योगी सभी प्राणियों में ईश्वर की उपस्थिति का अनुभव करता है और ईश्वर में ही संपूर्ण सृष्टि को देखता है। इस परम अवस्था में, भक्त और भगवान के बीच का संबंध कभी नहीं टूटता।
+
+### Translation
+
+He who sees Me everywhere and sees everything in Me, for him I am never lost, nor is he ever lost to Me.
 
 ### Meaning
 

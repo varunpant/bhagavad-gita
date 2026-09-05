@@ -8,11 +8,10 @@ sutra: 24
 position: 548
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः
 तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 548
 
 
 ### Transliteration
-```
+{{< lines >}}
 samaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ
 tulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो दुःख और सुख में समान रहने वाला है, अपने स्वरूप में स्थित है, मिट्टी के ढेले, पत्थर और सुवर्ण को समान समझने वाला है, प्रिय और अप्रिय को एक जैसा मानने वाला है, धैर्यवान है और अपनी निंदा तथा स्तुति में समान भाव रखने वाला है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण गुणातीत (तीनों गुणों से परे गए) पुरुष के लक्षणों का वर्णन कर रहे हैं। ऐसा व्यक्ति सुख और दुःख के द्वंद्वों से विचलित नहीं होता क्योंकि वह अपने आत्म-स्वरूप में स्थित रहता है। उसके लिए भौतिक वस्तुओं का मूल्य (जैसे मिट्टी, पत्थर या सोना) एक समान होता है, और वह प्रशंसा या आलोचना से प्रभावित नहीं होता है।
+
+### Translation
+
+He who is alike in pleasure and pain, who is established in his own self, to whom a clod of earth, a stone, and gold are equal, to whom the pleasant and the unpleasant are the same, who is wise, and who remains equal in censure and praise
 
 ### Meaning
 

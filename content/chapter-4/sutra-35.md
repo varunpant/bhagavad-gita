@@ -8,11 +8,10 @@ sutra: 35
 position: 197
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव
 येन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 197
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaj jñātvā na punar moham evaṃ yāsyasi pāṇḍava
 yena bhūtāny aśeṣeṇa drakṣyasy ātmany atho mayi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पाण्डव! जिसे जानकर तुम फिर इस प्रकार मोह को प्राप्त नहीं होगे, और जिस ज्ञान के द्वारा तुम सम्पूर्ण प्राणियों को निःशेष रूप से अपने में और फिर मुझमें देखोगे।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को सच्चे ज्ञान का फल बताते हैं। वह कहते हैं कि तत्त्वज्ञान प्राप्त कर लेने पर मनुष्य फिर कभी अज्ञान या मोह के वशीभूत नहीं होता। इस ज्ञान के उदय होने पर व्यक्ति सभी प्राणियों को अपनी आत्मा में और अंततः परमात्मा में स्थित देखता है, जिससे सर्वत्र एकता का बोध होता है।
+
+### Translation
+
+O son of Pandu, having known which, you will not fall into such illusion again; and by which you will see all living beings without exception in the Self, and then in Me.
 
 ### Meaning
 

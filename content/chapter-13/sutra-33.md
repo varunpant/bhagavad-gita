@@ -8,11 +8,10 @@ sutra: 33
 position: 522
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते
 सर्वत्रावस्थितो देहे तथाऽऽत्मा नोपलिप्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 522
 
 
 ### Transliteration
-```
+{{< lines >}}
 yathā sarvagataṃ saukṣmyādākāśaṃ nopalipyate
 sarvatrāvasthito dehe tathā'tmā nopalipyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस प्रकार सर्वत्र व्याप्त आकाश अपनी सूक्ष्मता के कारण लिप्त नहीं होता, उसी प्रकार शरीर में सर्वत्र स्थित आत्मा भी लिप्त नहीं होती।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्मा की निर्लिप्तता को समझाने के लिए आकाश का उदाहरण देते हैं। जैसे आकाश सब कुछ अपने भीतर समेटे हुए भी अपनी सूक्ष्मता के कारण किसी भी वस्तु के गुणों या दोषों से अछूता रहता है, वैसे ही आत्मा पूरे शरीर में व्याप्त होने पर भी शरीर के विकारों और कर्मों से सर्वथा निर्लिप्त रहती है।
+
+### Translation
+
+Just as the all-pervading ether, due to its subtlety, is not contaminated, so the soul, situated everywhere in the body, is not contaminated.
 
 ### Meaning
 

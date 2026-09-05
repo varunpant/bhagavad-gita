@@ -8,11 +8,10 @@ sutra: 25
 position: 72
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते
 तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 72
 
 
 ### Transliteration
-```
+{{< lines >}}
 avyakto'yamacintyo'yamavikāryo'yamucyate
 tasmādevaṃ viditvainaṃ nānuśocitumarhasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह आत्मा अव्यक्त, अचिन्त्य और अविकारी कहा जाता है। इसलिए, इसे ऐसा जानकर तुम्हें शोक नहीं करना चाहिए।
 
 ### भावार्थ
 
 श्री कृष्ण अर्जुन को आत्मा के स्वरूप के बारे में समझाते हुए कहते हैं कि आत्मा को भौतिक इंद्रियों से नहीं देखा जा सकता, इसलिए यह अव्यक्त है। यह मन की कल्पना से परे है, इसलिए अचिन्त्य है, और इसमें कोई विकार या परिवर्तन नहीं होता, इसलिए यह अविकारी है। आत्मा की इस अमर और अपरिवर्तनीय प्रकृति को समझकर, अर्जुन को किसी की मृत्यु पर शोक नहीं करना चाहिए।
+
+### Translation
+
+This soul is said to be unmanifest, inconceivable, and unchangeable. Therefore, knowing it as such, you should not grieve.
 
 ### Meaning
 

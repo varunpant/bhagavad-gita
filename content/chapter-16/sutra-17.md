@@ -8,11 +8,10 @@ sutra: 17
 position: 588
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः
 यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 588
 
 
 ### Transliteration
-```
+{{< lines >}}
 ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ
 yajante nāmayajñaiste dambhenāvidhipūrvakam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अपने-आप को ही श्रेष्ठ मानने वाले, घमंडी तथा धन और मान के मद से चूर वे लोग केवल नाममात्र के यज्ञों द्वारा पाखंड से शास्त्रविधि रहित यजन करते हैं
 
 ### भावार्थ
 
 इस श्लोक में आसुरी प्रवृत्ति के लोगों के धार्मिक पाखंड का वर्णन किया गया है। ऐसे लोग स्वयं को ही सर्वश्रेष्ठ मानते हैं और किसी की सलाह नहीं सुनते। वे केवल समाज में अपनी प्रतिष्ठा दिखाने के लिए शास्त्रों के नियमों की अवहेलना करते हुए केवल नाममात्र के यज्ञ करते हैं।
+
+### Translation
+
+Self-conceited, stubborn, filled with the pride and intoxication of wealth, they perform sacrifices in name only, out of ostentation and contrary to scriptural injunctions
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 24
 position: 595
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ
 ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 595
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasmāc chāstraṃ pramāṇaṃ te kāryākāryavyavasthitau
 jñātvā śāstravidhānoktaṃ karma kartum ihārhasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए तुम्हारे लिए कर्तव्य और अकर्तव्य की व्यवस्था में शास्त्र ही प्रमाण है।
+शास्त्र के विधान द्वारा कहे गए कर्म को जानकर तुम यहाँ कर्म करने के योग्य हो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को यह समझा रहे हैं कि जीवन में क्या करना चाहिए और क्या नहीं, इसका निर्णय व्यक्तिगत इच्छाओं के बजाय शास्त्रों के अनुसार होना चाहिए। शास्त्र हमें धर्म और अधर्म का सही मार्ग दिखाते हैं। अतः मनुष्य को शास्त्रों के नियमों को समझकर उसी के अनुरूप अपने कर्तव्यों का पालन करना चाहिए।
+
+### Translation
+
+Therefore, let the scripture be your authority in determining what ought to be done and what ought not to be done.
+Having known what is declared by the ordinances of the scripture, you should perform your duty here.
 
 ### Meaning
 

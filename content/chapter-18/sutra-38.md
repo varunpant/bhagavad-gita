@@ -8,11 +8,10 @@ sutra: 38
 position: 661
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्
 परिणामे विषमिव तत्सुखं राजसं स्मृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 661
 
 
 ### Transliteration
-```
+{{< lines >}}
 viṣayendriya-saṃyogād yat tad agre'mṛtopamam
 pariṇāme viṣam iva tat sukhaṃ rājasaṃ smṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो सुख विषय और इन्द्रियों के संयोग से प्राप्त होता है, जो आरम्भ में अमृत के समान लगता है, परन्तु परिणाम में विष के समान होता है, वह सुख राजस कहा गया है।
 
 ### भावार्थ
 
 भगवान कृष्ण यहाँ राजस सुख की परिभाषा दे रहे हैं। ऐसा सुख जो इन्द्रियों के उनके विषयों के साथ तात्कालिक संपर्क से उत्पन्न होता है, वह शुरुआत में बहुत सुखद (अमृत के समान) लगता है। परन्तु, समय के साथ इसका परिणाम शारीरिक, मानसिक या आध्यात्मिक पतन के रूप में विष के समान दुखदायी होता है।
+
+### Translation
+
+That pleasure which arises from the contact of the senses with their objects, which at first is like nectar but in the end is like poison, is declared to be of the nature of passion.
 
 ### Meaning
 

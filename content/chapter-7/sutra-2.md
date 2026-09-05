@@ -8,11 +8,10 @@ sutra: 2
 position: 282
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः
 यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 282
 
 
 ### Transliteration
-```
+{{< lines >}}
 jñānaṃ te'haṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ
 yajjñātvā neha bhūyo'nyajjñātavyamavaśiṣyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं तुम्हारे लिए इस विज्ञान सहित ज्ञान को पूरी तरह से कहूँगा
+जिसे जानकर इस संसार में फिर कुछ भी अन्य जानने योग्य शेष नहीं बचता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को पूर्ण ज्ञान और विज्ञान (अनुभवजन्य ज्ञान) प्रदान करने की प्रतिज्ञा करते हैं। वे कहते हैं कि इस परम सत्य को जान लेने के बाद साधक के लिए कुछ भी जानना शेष नहीं रह जाता। यह ज्ञान आध्यात्मिक और भौतिक दोनों जगतों के वास्तविक स्वरूप को प्रकट करता है।
+
+### Translation
+
+I shall declare to you in full this knowledge combined with realization
+which having known, nothing more here remains to be known
 
 ### Meaning
 

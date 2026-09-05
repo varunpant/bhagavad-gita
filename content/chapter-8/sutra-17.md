@@ -8,11 +8,10 @@ sutra: 17
 position: 327
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः
 रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 327
 
 
 ### Transliteration
-```
+{{< lines >}}
 sahasrayugaparyantamaharyadbrahmaṇo viduḥ
 rātriṃ yugasahasrāntāṃ te'horātravido janāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ब्रह्मा का जो एक दिन है, उसे सहस्र (हजार) महायुगों की अवधि वाला जो जानते हैं और रात्रि को भी हजार महायुगों की अवधि वाली जानते हैं, वे मनुष्य वास्तव में दिन और रात्रि के तत्त्व को जानने वाले हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण काल (समय) की विशालता का वर्णन कर रहे हैं। वे बताते हैं कि मानव गणना के अनुसार चार युगों (सत्य, त्रेता, द्वापर, कलि) का एक चक्र एक महायुग कहलाता है, और ऐसे एक हजार महायुग मिलकर ब्रह्मा का केवल एक दिन बनाते हैं। इतनी ही लंबी उनकी रात्रि भी होती है; जो ज्ञानी पुरुष इस काल-चक्र को समझते हैं, वे ही समय की वास्तविक सीमा को जानते हैं।
+
+### Translation
+
+Those who know that the day of Brahmā lasts for a thousand mahā-yugas, and that his night also ends after a thousand mahā-yugas, are the people who truly know day and night.
 
 ### Meaning
 

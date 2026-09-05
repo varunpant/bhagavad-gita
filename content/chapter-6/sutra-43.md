@@ -8,11 +8,10 @@ sutra: 43
 position: 276
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्
 यतते च ततो भूयः संसिद्धौ कुरुनन्दन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 276
 
 
 ### Transliteration
-```
+{{< lines >}}
 tatra taṃ buddhisamyogaṃ labhate paurvadehikam
 yatate ca tato bhūyaḥ saṃsiddhau kurunandana
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वहाँ वह पूर्व शरीर में प्राप्त किए हुए बुद्धि के संयोग को (अर्थात् आध्यात्मिक संस्कारों को) पुनः प्राप्त करता है
+और हे कुरुनन्दन! वह उसके बाद सिद्धि प्राप्त करने के लिए पुनः और अधिक प्रयत्न करता है
 
 ### भावार्थ
 
 इस श्लोक में श्रीकृष्ण अर्जुन को समझाते हैं कि योगभ्रष्ट पुरुष जब पवित्र और श्रीमानों के घर या योगियों के कुल में जन्म लेता है, तो उसे पिछले जन्म के आध्यात्मिक संस्कार स्वतः ही प्राप्त हो जाते हैं। उन पूर्वजन्म के संस्कारों के प्रभाव से वह पुनः परमात्मा की प्राप्ति के मार्ग पर आगे बढ़ने लगता है। वह अपनी साधना को वहीं से शुरू करता है जहाँ उसने पिछले जन्म में छोड़ी थी और पूर्ण सिद्धि के लिए और अधिक तीव्रता से प्रयास करता है।
+
+### Translation
+
+There he regains the spiritual consciousness and intellect acquired in his previous life
+and he strives even more than before for perfection, O descendant of Kuru
 
 ### Meaning
 

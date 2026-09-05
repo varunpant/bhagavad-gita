@@ -8,11 +8,10 @@ sutra: 19
 position: 488
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्
 अनिकेतः स्थिरमतिर्भक्ितमान्मे प्रियो नरः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 488
 
 
 ### Transliteration
-```
+{{< lines >}}
 tulya-nindā-stutir maunī santuṣṭo yena kenacit
 aniketaḥ sthira-matir bhaktimān me priyo naraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो निंदा और स्तुति को समान समझने वाला है, मननशील है, जिस किसी भी प्रकार से (शरीर निर्वाह की सामग्री से) संतुष्ट रहने वाला है, रहने के स्थान में ममता से रहित है, स्थिर बुद्धि वाला है और भक्ति से युक्त है — वह मनुष्य मुझे प्रिय है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस भक्त के आंतरिक गुणों का वर्णन करते हैं जो उन्हें अत्यंत प्रिय है। ऐसा भक्त मान-अपमान, निंदा-स्तुति में समभाव रखता है और अपनी वाणी पर नियंत्रण रखता है। वह भौतिक साधनों के प्रति आसक्त नहीं होता और उसका मन सदैव परमात्मा में स्थिर रहता है।
+
+### Translation
+
+He who holds censure and praise as equal, who is silent, content with anything that comes, homeless, steady-minded, and full of devotion — that person is dear to Me.
 
 ### Meaning
 

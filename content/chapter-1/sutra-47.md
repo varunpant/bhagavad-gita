@@ -8,12 +8,11 @@ sutra: 47
 position: 47
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 एवमुक्त्वाऽर्जुनः संख्ये रथोपस्थ उपाविशत्
 विसृज्य सशरं चापं शोकसंविग्नमानसः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -54,16 +53,25 @@ his mind overwhelmed with sorrow.
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
 evamuktvā'rjunaḥ saṃkhye rathopastha upāviśat
 visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संजय ने कहा —
+रणभूमि में इस प्रकार कहकर, शोक से उद्विग्न मन वाले अर्जुन बाण सहित धनुष को त्यागकर रथ के आसन पर बैठ गए।
 
 ### भावार्थ
 
 पहले अध्याय का यह अंतिम श्लोक अर्जुन के भावनात्मक पतन का मार्मिक चित्रण करता है। अपने ही स्वजनों की हत्या के विचार से उत्पन्न शोक और करुणा से अभिभूत होकर, वह युद्ध करने की अपनी इच्छा पूरी तरह खो बैठते हैं। अपने हथियार डालकर रथ में बैठ जाना अर्जुन की गहरी निराशा को दर्शाता है, जो अगले अध्यायों में भगवान कृष्ण के गहन आध्यात्मिक उपदेशों के लिए पृष्ठभूमि तैयार करता है।
+
+### Translation
+
+Sanjaya said:
+Having spoken thus on the battlefield, Arjuna sat down on the seat of the chariot, casting aside his bow along with the arrows, his mind overwhelmed with grief.
 
 ### Meaning
 

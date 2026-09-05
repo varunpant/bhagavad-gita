@@ -8,11 +8,10 @@ sutra: 38
 position: 157
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 धूमेनाव्रियते वह्निर्यथाऽऽदर्शो मलेन च
 यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 157
 
 
 ### Transliteration
-```
+{{< lines >}}
 dhūmenāvriyate vahniryathā''darśo malena ca
 yatholbenāvṛto garbhastathā tenedamāvṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस प्रकार धुएं से आग, और मैल से दर्पण ढका रहता है, तथा जिस प्रकार गर्भाशय से भ्रूण ढका रहता है, उसी प्रकार उस (काम) के द्वारा यह (ज्ञान) ढका रहता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि काम (वासना) किस प्रकार मनुष्य के ज्ञान को आच्छादित कर लेता है। उन्होंने तीन उदाहरण दिए हैं: धुएं से ढकी आग, मैल से ढका दर्पण और गर्भाशय से ढका भ्रूण। ये तीनों आवरण काम की विभिन्न तीव्रताओं को दर्शाते हैं, जो जीवात्मा की शुद्ध चेतना को ढक लेते हैं।
+
+### Translation
+
+Just as fire is covered by smoke, and a mirror by dirt, and just as an embryo is covered by the womb, similarly this (knowledge) is covered by that (lust).
 
 ### Meaning
 

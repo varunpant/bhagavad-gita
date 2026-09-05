@@ -8,11 +8,11 @@ sutra: 1
 position: 552
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्
+{{< lines >}}
+श्री भगवानुवाच
+ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्
 छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 552
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 ūrdhvamūlam adhaḥśākham aśvatthaṃ prāhur avyayam
 chandāṃsi yasya parṇāni yas taṃ veda sa vedavit
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+ऊपर की ओर जड़ों वाले और नीचे की ओर शाखाओं वाले जिस अश्वत्थ (पीपल) के वृक्ष को अविनाशी कहते हैं, वेद जिसके पत्ते हैं, जो उस वृक्ष को जानता है, वह वेदों को जानने वाला है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण संसार की तुलना एक उल्टे पीपल के वृक्ष (अश्वत्थ) से करते हैं, जिसकी जड़ें ऊपर (परमेश्वर में) हैं और शाखाएं नीचे (संसार में) फैली हुई हैं। इसके पत्ते वैदिक मन्त्रों के समान हैं जो कर्मकांडों के माध्यम से जीव को इस संसार में बांधे रखते हैं। जो मनुष्य इस संसार रूपी वृक्ष के वास्तविक स्वरूप को समझ लेता है, वही वास्तव में वेदों के गूढ़ रहस्य को जानता है।
+
+### Translation
+
+The Supreme Lord said:
+They speak of an eternal Ashvattha tree with its roots above and branches below, whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas.
 
 ### Meaning
 

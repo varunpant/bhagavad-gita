@@ -8,11 +8,10 @@ sutra: 18
 position: 507
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते
 ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 507
 
 
 ### Transliteration
-```
+{{< lines >}}
 jyotiṣām api taj jyotis tamasaḥ param ucyate
 jñānaṃ jñeyaṃ jñānagamyaṃ hṛdi sarvasya viṣṭhitam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह ज्योतियों का भी ज्योति है और अंधकार से सर्वथा परे कहा जाता है। वह ज्ञान, ज्ञेय और ज्ञान से प्राप्त होने योग्य है, तथा सबके हृदय में विशेष रूप से स्थित है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण परमात्मा के परम प्रकाशमय स्वरूप का वर्णन कर रहे हैं। वे बताते हैं कि परमात्मा भौतिक सूर्य आदि ज्योतियों के भी प्रकाशक हैं और अज्ञान रूपी अंधकार से सर्वथा परे हैं। वही जानने योग्य तत्व हैं और ज्ञान के द्वारा ही उन्हें प्राप्त किया जा सकता है, जो प्रत्येक जीव के हृदय में अंतर्यामी रूप से स्थित हैं।
+
+### Translation
+
+That is said to be the light of even all lights, and beyond darkness. It is knowledge, the object of knowledge, and the goal of knowledge, dwelling in the hearts of all.
 
 ### Meaning
 

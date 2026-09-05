@@ -8,11 +8,10 @@ sutra: 19
 position: 570
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यो मामेवमसम्मूढो जानाति पुरुषोत्तमम्
 स सर्वविद्भजति मां सर्वभावेन भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 570
 
 
 ### Transliteration
-```
+{{< lines >}}
 yo mām evam asammūḍho jānāti puruṣottamam
 sa sarvavid bhajati māṃ sarvabhāvena bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भारत, जो मोहरहित पुरुष मुझे इस प्रकार पुरुषोत्तम जानता है, वह सब कुछ जानने वाला पुरुष सब प्रकार से मेरा ही भजन करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण पुरुषोत्तम योग के ज्ञान का फल बताते हैं। जो मनुष्य मोह से मुक्त होकर कृष्ण को ही परम पुरुषोत्तम तत्व से जान लेता है, वह सर्वज्ञ हो जाता है। ऐसा ज्ञानी पुरुष अपनी पूरी चेतना और संपूर्ण भाव से केवल परमेश्वर की ही भक्ति में लीन रहता है।
+
+### Translation
+
+O Bharata, he who, free from delusion, thus knows Me as the Supreme Divine Person, he, knowing all, worships Me with his whole being
 
 ### Meaning
 

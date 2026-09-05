@@ -8,11 +8,10 @@ sutra: 21
 position: 359
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ते तं भुक्त्वा स्वर्गलोकं विशालं    क्षीणे पुण्ये मर्त्यलोकं विशन्ति
 एव त्रयीधर्ममनुप्रपन्ना    गतागतं कामकामा लभन्ते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 359
 
 
 ### Transliteration
-```
-te taṃ bhuktvā svargalokaṃ viśālaṃ
-kṣīṇe puṇye martyalokaṃ viśanti
-evaṃ trayīdharmamanuprapannā
-gatāgataṃ kāmakāmā labhante
+{{< lines >}}
+te taṃ bhuktvā svargalokaṃ viśālaṃ kṣīṇe puṇye martyalokaṃ viśanti
+evaṃ trayīdharmamanuprapannā gatāgataṃ kāmakāmā labhante
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वे उस विशाल स्वर्गलोक का भोग करके, पुण्य के क्षीण होने पर मृत्युलोक में प्रवेश करते हैं। इस प्रकार तीनों वेदों में बताए गए सकाम कर्मों का आश्रय लेने वाले और भोगों की कामना करने वाले लोग बार-बार आने-जाने (जन्म-मृत्यु) को प्राप्त होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सकाम कर्मों के फल की अनित्यता को स्पष्ट कर रहे हैं। जो लोग स्वर्ग की इच्छा से वैदिक अनुष्ठान करते हैं, वे पुण्य अर्जित कर स्वर्ग तो जाते हैं, परंतु वहाँ का सुख स्थायी नहीं है। पुण्य समाप्त होते ही उन्हें पुनः इस नश्वर संसार में जन्म लेना पड़ता है, जिससे वे जन्म और मृत्यु के चक्र में फँसे रहते हैं।
+
+### Translation
+
+Having enjoyed that vast heavenly world, they enter the mortal world when their merit is exhausted. Thus, conforming to the doctrine of the three Vedas and desiring desires, they obtain the state of going and returning.
 
 ### Meaning
 

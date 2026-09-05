@@ -8,11 +8,10 @@ sutra: 15
 position: 539
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते
 तथा प्रलीनस्तमसि मूढयोनिषु जायते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 539
 
 
 ### Transliteration
-```
+{{< lines >}}
 rajasi pralayaṃ gatvā karmasaṅgiṣu jāyate
 tathā pralīnastamasi mūḍhayoniṣu jāyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+रजोगुण के बढ़ने पर मृत्यु को प्राप्त होकर मनुष्य कर्मों में आसक्ति वाले मनुष्यों में जन्म लेता है
+तथा तमोगुण के बढ़ने पर मरा हुआ मनुष्य अज्ञानी योनियों में जन्म लेता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण बताते हैं कि मृत्यु के समय व्यक्ति के भीतर जिस गुण की प्रधानता होती है, उसी के अनुसार उसकी अगली गति निर्धारित होती है। यदि कोई व्यक्ति रजोगुण की प्रधानता के समय शरीर त्यागता है, तो वह सकाम कर्म करने वाले मनुष्यों के बीच जन्म लेता है। वहीं, यदि तमोगुण की प्रधानता में मृत्यु होती है, तो जीवात्मा पशु-पक्षी या अन्य अज्ञानी योनियों में जन्म पाती है।
+
+### Translation
+
+Meeting death when rajas predominates, one is born among those attached to action;
+likewise, dying when tamas predominates, one is born in the wombs of the ignorant.
 
 ### Meaning
 

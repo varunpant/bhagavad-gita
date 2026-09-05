@@ -8,11 +8,10 @@ sutra: 4
 position: 528
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः
 तासां ब्रह्म महद्योनिरहं बीजप्रदः पिता
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 528
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ
 tāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! सब योनियों में जो भी मूर्तियाँ (शरीर) उत्पन्न होती हैं,
+उन सब की गर्भधारिणी माता महत्-ब्रह्म (मूल प्रकृति) है और मैं बीज स्थापित करने वाला पिता हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि संसार की सभी योनियों में उत्पन्न होने वाले सभी जीवों की माता भौतिक प्रकृति (महत्-ब्रह्म) है। भगवान स्वयं उस प्रकृति रूपी गर्भ में चेतना का बीज स्थापित करने वाले परम पिता हैं। इस प्रकार, प्रकृति और पुरुष के संयोग से ही समस्त सृष्टि का सृजन होता है।
+
+### Translation
+
+O son of Kunti, whatever forms are produced in all the wombs,
+their great womb is the material nature, and I am the seed-giving father
 
 ### Meaning
 

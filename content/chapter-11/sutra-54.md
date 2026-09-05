@@ -8,11 +8,10 @@ sutra: 54
 position: 468
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भक्त्या त्वनन्यया शक्यमहमेवंविधोऽर्जुन
 ज्ञातुं दृष्टुं च तत्त्वेन प्रवेष्टुं च परंतप
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 468
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhaktyā tv ananyayā śakyam aham evaṃvidho 'rjuna
 jñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca paraṃtapa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! अनन्य भक्ति के द्वारा ही इस प्रकार का मैं
+तत्त्व से जानने, देखने और प्रवेश करने के लिए शक्य हूँ, हे परंतप
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण अर्जुन को समझाते हैं कि उनके इस चतुर्भुज या विश्वरूप के दर्शन केवल वेदों के अध्ययन, तपस्या या दान से संभव नहीं हैं। इसे केवल अनन्य भक्ति (बिना किसी अन्य आश्रय के की जाने वाली भक्ति) के द्वारा ही प्राप्त किया जा सकता है। ऐसी भक्ति से ही साधक भगवान को तत्त्व से जान सकता है, उनके साक्षात् दर्शन कर सकता है और अंततः उनमें लीन हो सकता है।
+
+### Translation
+
+But by undivided devotion alone, O Arjuna, can I in this form
+be known, truly seen, and entered into, O scorcher of foes
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 567
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च
 क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,24 @@ the perishable and the Kutastha  the unchanging  is called the imperishable.
 
 
 ### Transliteration
-```
+{{< lines >}}
 dvāv imau puruṣau loke kṣaraś cākṣara eva ca
 kṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस संसार में दो प्रकार के पुरुष हैं — क्षर (नाशवान) और अक्षर (अविनाशी)
+समस्त भूतप्राणी क्षर कहलाते हैं और कूटस्थ (कूट में स्थित जीवात्मा) अक्षर कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण संसार के तत्त्वों को दो श्रेणियों में विभाजित करते हैं। पहला 'क्षर' है, जिसमें सभी भौतिक शरीर और परिवर्तनशील प्रकृति शामिल है। दूसरा 'अक्षर' है, जो कूटस्थ यानी माया के परे स्थित अविनाशी जीवात्मा है।
+
+### Translation
+
+There are two kinds of beings in this world — the perishable and the imperishable
+All created beings are the perishable, and the unchanging soul is called the imperishable
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 31
 position: 403
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पवनः पवतामस्मि रामः शस्त्रभृतामहम्
 झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 403
 
 
 ### Transliteration
-```
+{{< lines >}}
 pavanaḥ pavatāmasmi rāmaḥ śastrabhṛtāmaham
 jhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+पवित्र करने वालों में मैं वायु हूँ, शस्त्रधारियों में मैं राम हूँ
+जल-जंतुओं में मैं मगरमच्छ हूँ और नदियों में मैं गंगा हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी विभूतियों का वर्णन जारी रखते हुए कहते हैं कि शुद्ध करने वाले तत्वों में वे वायु हैं। शस्त्र धारण करने वाले वीरों में वे मर्यादा पुरुषोत्तम श्री राम हैं। जलचरों में वे मकर (मगरमच्छ) हैं और समस्त पवित्र नदियों में वे देवनदी गंगा (जाह्नवी) हैं।
+
+### Translation
+
+Of purifiers I am the wind; of weapon-wielders I am Rama
+Of fishes I am the shark, and of flowing rivers I am the Ganges
 
 ### Meaning
 

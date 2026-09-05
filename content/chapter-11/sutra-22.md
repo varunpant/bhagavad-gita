@@ -8,11 +8,10 @@ sutra: 22
 position: 436
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रुद्रादित्या वसवो ये च साध्या     विश्वेऽश्िवनौ मरुतश्चोष्मपाश्च
 गन्धर्वयक्षासुरसिद्धसङ्घा     वीक्षन्ते त्वां विस्मिताश्चैव सर्वे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,24 @@ position: 436
 
 
 ### Transliteration
-```
-rudrādityā vasavo ye ca sādhyā
-viśve'śvinau marutaścoṣmapāśca
-gandharvayakṣāsurasiddhasaṅghā
-vīkṣante tvāṃ vismitāścaiva sarve
+{{< lines >}}
+rudrādityā vasavo ye ca sādhyā viśve'śvinau marutaścoṣmapāśca
+gandharvayakṣāsurasiddhasaṅghā vīkṣante tvāṃ vismitāścaiva sarve
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो रुद्र, आदित्य, वसु, साध्य, विश्वेदेव, दोनों अश्विनीकुमार, मरुद्गण, पितृगण,
+तथा गन्धर्व, यक्ष, असुर और सिद्धों के समुदाय हैं, वे सभी विस्मित होकर आपको देख रहे हैं।
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण के विश्वरूप में विभिन्न दिव्य योनियों और देवताओं की उपस्थिति का वर्णन कर रहे हैं। वे सभी ब्रह्मांडीय शक्तियां और सिद्ध पुरुष भगवान के इस विराट रूप को देखकर अत्यंत आश्चर्यचकित और विस्मित हैं। यह दर्शाता है कि भगवान का यह रूप केवल अर्जुन के लिए ही नहीं, बल्कि समस्त ब्रह्मांड के दिव्य प्राणियों के लिए भी विस्मयकारी है।
+
+### Translation
+
+The Rudras, Adityas, Vasus, Sadhyas, Visvedevas, the two Asvins, Maruts, and the Ushmapas,
+along with the hosts of Gandharvas, Yakshas, Asuras, and Siddhas—all are gazing upon You in utter amazement.
 
 ### Meaning
 

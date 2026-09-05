@@ -8,11 +8,10 @@ sutra: 20
 position: 392
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहमात्मा गुडाकेश सर्वभूताशयस्थितः
 अहमादिश्च मध्यं च भूतानामन्त एव च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 392
 
 
 ### Transliteration
-```
+{{< lines >}}
 aham ātmā guḍākeśa sarvabhūtāśayasthitaḥ
 aham ādiś ca madhyaṃ ca bhūtānām anta eva ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे गुडाकेश (अर्जुन)! मैं समस्त प्राणियों के हृदय में स्थित अंतर्यामी आत्मा हूँ
+तथा मैं ही समस्त प्राणियों का आदि, मध्य और अंत भी हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अपनी मुख्य विभूतियों का वर्णन आरंभ करते हुए बताते हैं कि वे ही प्रत्येक जीव के भीतर स्थित आत्मा हैं। वे सृष्टि के आदि, मध्य और अंत के रूप में सर्वव्यापी हैं। इसका अर्थ है कि संसार की कोई भी वस्तु या जीव परमात्मा से पृथक नहीं है।
+
+### Translation
+
+I am the Self, O Gudakesha, seated in the hearts of all creatures
+I am the beginning, the middle, and indeed the end of all beings
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 20
 position: 358
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 त्रैविद्या मां सोमपाः पूतपापा     यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते
 ते पुण्यमासाद्य सुरेन्द्रलोक     मश्नन्ति दिव्यान्दिवि देवभोगान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 358
 
 
 ### Transliteration
-```
-traividyā māṃ somapāḥ pūtapāpā
-yajñair iṣṭvā svargatiṃ prārthayante
-te puṇyam āsādya surendraloka
-maśnanti divyān divi devabhogān
+{{< lines >}}
+traividyā māṃ somapāḥ pūtapāpā yajñair iṣṭvā svargatiṃ prārthayante
+te puṇyam āsādya surendraloka maśnanti divyān divi devabhogān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तीनों वेदों के ज्ञाता, सोम रस पीने वाले और पापों से पवित्र हुए पुरुष यज्ञों के द्वारा मेरी पूजा करके स्वर्ग लोक की प्रार्थना करते हैं। वे पुण्य के फलस्वरूप इन्द्रलोक को प्राप्त करके वहाँ स्वर्ग में देवताओं के दिव्य भोगों को भोगते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन सकाम भक्तों का वर्णन कर रहे हैं जो वेदों के कर्मकाण्ड में विश्वास रखते हैं। वे यज्ञों के माध्यम से भगवान की आराधना तो करते हैं, परंतु उनका उद्देश्य केवल स्वर्ग के सुखों को प्राप्त करना होता है। यद्यपि वे अपने पुण्यों के कारण स्वर्ग लोक (इन्द्रलोक) पहुँच जाते हैं और वहाँ दिव्य भोग भोगते हैं, परंतु यह सुख अस्थायी होता है।
+
+### Translation
+
+Those who are well-versed in the three Vedas, who drink the Soma juice and are purified of sin, worship Me through sacrifices and pray for passage to heaven. Reaching the holy world of the lord of gods, they enjoy the divine pleasures of the gods in heaven.
 
 ### Meaning
 

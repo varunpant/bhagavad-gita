@@ -8,11 +8,10 @@ sutra: 55
 position: 469
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः
 निर्वैरः सर्वभूतेषु यः स मामेति पाण्डव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 469
 
 
 ### Transliteration
-```
+{{< lines >}}
 matkarmakṛnmatparamo madbhaktaḥ saṅgavarjitaḥ
 nirvairaḥ sarvabhūteṣu yaḥ sa māmeti pāṇḍava
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पाण्डव! जो मेरे लिए ही कर्म करने वाला है, मेरे परायण है, मेरा भक्त है, आसक्ति से रहित है और समस्त प्राणियों में वैरभाव से रहित है, वह मुझे ही प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को अपनी प्राप्ति का परम और सरल मार्ग बताते हैं। जो मनुष्य अपने सभी कर्मों को भगवान को समर्पित करता है, उन्हें ही अपना परम लक्ष्य मानता है, आसक्ति और द्वेष से मुक्त रहता है, वह अंततः परमात्मा में ही लीन हो जाता है। यह संपूर्ण गीता के व्यावहारिक उपदेशों का सार है।
+
+### Translation
+
+O son of Pandu, he who performs actions for Me, who keeps Me as the supreme goal, who is devoted to Me, free from attachment, and without enmity towards all living beings, comes to Me
 
 ### Meaning
 

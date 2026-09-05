@@ -8,11 +8,10 @@ sutra: 28
 position: 338
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वेदेषु यज्ञेषु तपःसु चैव    दानेषु यत्पुण्यफलं प्रदिष्टम्
 अत्येति तत्सर्वमिदं विदित्वा    योगी परं स्थानमुपैति चाद्यम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 338
 
 
 ### Transliteration
-```
+{{< lines >}}
 vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam
 atyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वेदों के अध्ययन में, यज्ञों के अनुष्ठान में, तपस्याओं में और दान देने में जो भी पुण्यफल कहा गया है
+योगी इस रहस्य को जानकर उस सब से परे चला जाता है और परम आदि स्थान को प्राप्त करता है
 
 ### भावार्थ
 
 इस अध्याय के अंत में भगवान कृष्ण अर्जुन को भक्ति मार्ग की महिमा बताते हैं। वे कहते हैं कि वेदों के अध्ययन, यज्ञ, तप और दान आदि से जो भी पुण्य फल प्राप्त होते हैं, वे सभी अनित्य हैं। परंतु जो योगी इस अध्याय में बताए गए परमेश्वर के रहस्य को जान लेता है, वह इन सभी फलों को लांघकर सीधे भगवान के परम सनातन धाम को प्राप्त करता है।
+
+### Translation
+
+Whatever meritorious fruit is declared to accrue from the study of the Vedas, from the performance of sacrifices, from austerities, and from charities
+the yogi, having known this, transcends all these and attains to the supreme, primeval Abode
 
 ### Meaning
 

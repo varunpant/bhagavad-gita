@@ -8,11 +8,10 @@ sutra: 4
 position: 376
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बुद्धिर्ज्ञानमसंमोहः क्षमा सत्यं दमः शमः
 सुखं दुःखं भवोऽभावो भयं चाभयमेव च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 376
 
 
 ### Transliteration
-```
+{{< lines >}}
 buddhir jñānam asammohaḥ kṣamā satyaṃ damaḥ śamaḥ
 sukhaṃ duḥkhaṃ bhavo 'bhāvo bhayaṃ cābhayam eva ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+बुद्धि, ज्ञान, मोह-रहित होना, क्षमा, सत्य, इन्द्रिय-निग्रह, मन का संयम
+सुख, दुःख, उत्पत्ति, प्रलय, भय और अभय भी
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन विभिन्न मानसिक भावों और गुणों का वर्णन कर रहे हैं जो मनुष्यों में पाए जाते हैं। वे स्पष्ट करते हैं कि बुद्धि, ज्ञान, सत्य और संयम जैसे सकारात्मक गुण तथा सुख-दुःख, भय-अभय जैसे द्वंद्व, ये सभी विभिन्न प्रकार के भाव केवल उन्हीं से उत्पन्न होते हैं। यह दर्शाता है कि सृष्टि की प्रत्येक मानसिक और शारीरिक अवस्था का मूल स्रोत परमेश्वर ही हैं।
+
+### Translation
+
+Intellect, knowledge, freedom from delusion, forgiveness, truth, control over the senses, control over the mind
+happiness, sorrow, birth, death, fear, and also fearlessness
 
 ### Meaning
 

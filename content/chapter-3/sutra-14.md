@@ -8,11 +8,10 @@ sutra: 14
 position: 133
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः
 यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 133
 
 
 ### Transliteration
-```
+{{< lines >}}
 annādbhavanti bhūtāni parjanyādannasambhavaḥ
 yajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सम्पूर्ण प्राणी अन्न से उत्पन्न होते हैं, अन्न की उत्पत्ति वर्षा से होती है। वर्षा यज्ञ से उत्पन्न होती है, और यज्ञ विहित कर्मों से उत्पन्न होता है।
 
 ### भावार्थ
 
 भगवान कृष्ण सृष्टि के चक्र और उसके पालन-पोषण की प्रक्रिया को समझाते हैं। सभी प्राणी अन्न पर जीवित रहते हैं, और अन्न वर्षा से उत्पन्न होता है। वर्षा निस्वार्थ भाव से किए गए यज्ञों का परिणाम है, और यज्ञ विहित कर्मों के पालन से सम्पन्न होता है। यह श्लोक प्रकृति और मनुष्य के कर्तव्यों के बीच के गहरे संबंध को दर्शाता है।
+
+### Translation
+
+All living beings are born from food; food is produced from rain. Rain is produced from sacrifice, and sacrifice is born of prescribed action.
 
 ### Meaning
 

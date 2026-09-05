@@ -8,11 +8,10 @@ sutra: 21
 position: 616
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः
 दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 616
 
 
 ### Transliteration
-```
+{{< lines >}}
 yat tu pratyupakārārthaṃ phalam uddiśya vā punaḥ
 dīyate ca parikliṣṭaṃ tad dānaṃ rājasaṃ smṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परंतु जो दान प्रत्युपकार के लिए अथवा फल को दृष्टि में रखकर फिर क्लेशपूर्वक दिया जाता है, वह दान राजस कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजस दान के लक्षणों का वर्णन करते हैं। ऐसा दान जो बदले में कुछ प्राप्त करने की इच्छा से, या भविष्य में किसी फल की आशा से, अथवा मन में संकोच और दुख (क्लेश) के साथ दिया जाता है, वह रजोगुणी कहलाता है। इस प्रकार के दान में नि:स्वार्थ भाव का पूर्ण अभाव होता है।
+
+### Translation
+
+But that charity which is given with the hope of return, or with a view to future reward, or reluctantly, is declared to be Rajasika
 
 ### Meaning
 

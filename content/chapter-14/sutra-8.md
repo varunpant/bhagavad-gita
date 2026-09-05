@@ -8,11 +8,10 @@ sutra: 8
 position: 532
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम्
 प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 532
 
 
 ### Transliteration
-```
+{{< lines >}}
 tamas tv ajñānajaṃ viddhi mohanaṃ sarvadehinām
 pramādālasyanidrābhis tan nibadhnāti bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी अर्जुन! तुम तमोगुण को अज्ञान से उत्पन्न और सभी देहधारियों को मोहित करने वाला जानो। वह जीवात्मा को प्रमाद, आलस्य और निद्रा के द्वारा बाँधता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तमोगुण के स्वरूप और उसके प्रभावों का वर्णन कर रहे हैं। तमोगुण अज्ञान से उत्पन्न होता है और यह सभी मनुष्यों को भ्रमित करता है। यह मनुष्य को कर्तव्य से विमुख (प्रमाद), अकर्मण्य (आलस्य) और अचेत (निद्रा) बनाकर संसार के बंधनों में जकड़ लेता है।
+
+### Translation
+
+But know tamas to be born of ignorance, deluding all embodied beings. It binds them, O Bharata, with negligence, laziness, and sleep.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 45
 position: 459
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा     भयेन च प्रव्यथितं मनो मे
 तदेव मे दर्शय देव रूपं     प्रसीद देवेश जगन्निवास
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 459
 
 
 ### Transliteration
-```
-adṛṣṭapūrvaṃ hṛṣito'smi dṛṣṭvā
-bhayena ca pravyathitaṃ mano me
-tadeva me darśaya deva rūpaṃ
-prasīda deveśa jagannivāsa
+{{< lines >}}
+adṛṣṭapūrvaṃ hṛṣito'smi dṛṣṭvā bhayena ca pravyathitaṃ mano me
+tadeva me darśaya deva rūpaṃ prasīda deveśa jagannivāsa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+पहले कभी न देखे गए इस रूप को देखकर मैं हर्षित हो रहा हूँ, और मेरा मन भय से अत्यंत व्याकुल भी हो रहा है। हे देव! मुझे अपना वही (सौम्य) रूप दिखाइए। हे देवेश! हे जगन्निवास! प्रसन्न होइए।
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण के अत्यंत विराट और अद्भुत विश्वरूप को देखकर अत्यंत हर्षित हैं क्योंकि ऐसा रूप पहले किसी ने नहीं देखा था। परंतु साथ ही, उस रूप की उग्रता और असीमित शक्ति को देखकर उनका मन भयभीत और व्याकुल भी हो रहा है। इसलिए वे भगवान से प्रार्थना करते हैं कि वे अपने सौम्य, चतुर्भुज या द्विभुज रूप में लौट आएं और उन पर कृपा करें।
+
+### Translation
+
+Beholding that which has never been seen before, I am rejoiced, and yet my mind is distressed with fear. Show me, O Lord, only that former form of Yours; have mercy, O Lord of gods, O Abode of the universe.
 
 ### Meaning
 

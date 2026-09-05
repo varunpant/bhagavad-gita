@@ -8,11 +8,10 @@ sutra: 15
 position: 325
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्
 नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,24 @@ and is non-eternal: they have reached the highest perfection (liberation).
 
 
 ### Transliteration
-```
+{{< lines >}}
 mām upetya punarjanma duḥkhālayam aśāśvatam
 nāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझे प्राप्त करके, दुःख के स्थान और क्षणभंगुर पुनर्जन्म को
+वे महात्मा प्राप्त नहीं होते, जो परम सिद्धि को प्राप्त कर चुके हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जो भक्त अनन्य भाव से उन्हें प्राप्त कर लेते हैं, वे इस नश्वर और दुःखों से भरे संसार में पुनः जन्म नहीं लेते। वे परम गति या मोक्ष को प्राप्त कर चुके होते हैं। भौतिक जगत को यहाँ 'दुःखालय' (दुःखों का घर) और 'अशाश्वत' (क्षणभंगुर) कहा गया है, जिससे विरक्ति का भाव जाग्रत होता है।
+
+### Translation
+
+Having attained Me, those great souls do not incur rebirth,
+which is temporary and an abode of miseries, having reached the supreme perfection
 
 ### Meaning
 

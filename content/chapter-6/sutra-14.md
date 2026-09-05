@@ -8,11 +8,10 @@ sutra: 14
 position: 247
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः
 मनः संयम्य मच्चित्तो युक्त आसीत मत्परः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 247
 
 
 ### Transliteration
-```
+{{< lines >}}
 praśāntātmā vigatabhīr brahmacārivrate sthitaḥ
 manaḥ saṃyamya maccitto yukta āsīta matparaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शांत अंतःकरण वाला, भयरहित, ब्रह्मचर्य के व्रत में स्थित, मन को वश में करके, मुझमें चित्त लगाने वाला और मेरे ही परायण होकर योगी ध्यान में बैठे
 
 ### भावार्थ
 
 इस श्लोक में ध्यान योग की आंतरिक तैयारी का वर्णन किया गया है। साधक को मानसिक शांति, निर्भयता और ब्रह्मचर्य का पालन करते हुए अपने मन को पूरी तरह से नियंत्रित करना चाहिए। भगवान कृष्ण बताते हैं कि ध्यान की पराकाष्ठा तब होती है जब साधक का मन केवल ईश्वर में लीन हो जाता है और वह ईश्वर को ही अपना परम लक्ष्य मान लेता है।
+
+### Translation
+
+With a serene mind, free from fear, established in the vow of celibacy, controlling the mind, with his thoughts fixed on Me, the yogi should sit, absorbed in Me as the supreme goal
 
 ### Meaning
 

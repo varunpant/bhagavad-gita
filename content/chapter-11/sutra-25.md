@@ -8,11 +8,10 @@ sutra: 25
 position: 439
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दंष्ट्राकरालानि च ते मुखानि     दृष्ट्वैव कालानलसन्निभानि
 दिशो न जाने न लभे च शर्म     प्रसीद देवेश जगन्निवास
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 439
 
 
 ### Transliteration
-```
-daṃṣṭrākarālāni ca te mukhāni
-dṛṣṭvaiva kālānalasannibhāni
-diśo na jāne na labhe ca śarma
-prasīda deveśa jagannivāsa
+{{< lines >}}
+daṃṣṭrākarālāni ca te mukhāni dṛṣṭvaiva kālānalasannibhāni
+diśo na jāne na labhe ca śarma prasīda deveśa jagannivāsa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+दाढ़ों के कारण विकराल और प्रलयकाल की अग्नि के समान आपके मुखों को देखकर ही मैं दिशाओं को नहीं जान पा रहा हूँ और न ही शांति पा रहा हूँ। हे देवेश! हे जगन्निवास! आप प्रसन्न होइए।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के अत्यंत भयानक विश्वरूप को देखकर अपनी व्याकुलता प्रकट कर रहे हैं। भगवान के विकराल मुखों को देखकर अर्जुन भयभीत हो गए हैं और उन्हें दिशाओं का ज्ञान भी नहीं रह गया है। वे भगवान से अपने सौम्य रूप में लौटने और प्रसन्न होने की प्रार्थना करते हैं।
+
+### Translation
+
+Seeing Your mouths, terrible with tusks and resembling the fire of cosmic destruction, I lose my sense of direction and find no peace. Be gracious, O Lord of lords, O Refuge of the universe!
 
 ### Meaning
 

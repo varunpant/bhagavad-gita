@@ -8,11 +8,10 @@ sutra: 10
 position: 382
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्
 ददामि बुद्धियोगं तं येन मामुपयान्ति ते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 382
 
 
 ### Transliteration
-```
+{{< lines >}}
 teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam
 dadāmi buddhiyogaṃ taṃ yena māmupayānti te
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उन निरंतर मुझसे जुड़े हुए और प्रेमपूर्वक मेरा भजन करने वाले भक्तों को
+मैं वह बुद्धियोग प्रदान करता हूँ जिसके द्वारा वे मुझको ही प्राप्त होते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण बताते हैं कि जो भक्त निरंतर उनके ध्यान में मग्न रहते हैं और प्रेमपूर्वक उनकी सेवा करते हैं, उन्हें वे स्वयं दिव्य बुद्धि प्रदान करते हैं। यह बुद्धियोग कोई सांसारिक ज्ञान नहीं है, बल्कि वह आध्यात्मिक विवेक है जो साधक को परमात्मा से जोड़ता है। इसी आंतरिक प्रेरणा और ज्ञान के प्रकाश से भक्त अंततः भगवान को प्राप्त कर लेता है।
+
+### Translation
+
+To those who are constantly united with Me and worship Me with love
+I give that yoga of understanding by which they come to Me
 
 ### Meaning
 

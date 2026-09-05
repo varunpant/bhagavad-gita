@@ -8,11 +8,10 @@ sutra: 12
 position: 245
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः
 उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 245
 
 
 ### Transliteration
-```
+{{< lines >}}
 tatraikāgraṃ manaḥ kṛtvā yatacittendriyakriyaḥ
 upaviśyāsane yuñjyādyogamātmaviśuddhaye
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वहाँ आसन पर बैठकर, मन को एकाग्र करके और चित्त तथा इन्द्रियों की क्रियाओं को वश में करते हुए, अन्तःकरण की शुद्धि के लिए योग का अभ्यास करना चाहिए
 
 ### भावार्थ
 
 इस श्लोक में ध्यान (योग) की व्यावहारिक विधि का वर्णन किया गया है। साधक को पूर्व श्लोक में बताए गए आसन पर बैठकर अपने मन को बाहरी विषयों से हटाकर एक लक्ष्य पर केंद्रित करना चाहिए। मन और इन्द्रियों की चंचलता को नियंत्रित करके ही आत्म-शुद्धि संभव है, जो योग का मुख्य उद्देश्य है।
+
+### Translation
+
+There, having seated oneself on the seat, making the mind one-pointed and controlling the activities of the mind and senses, one should practice yoga for the purification of the self
 
 ### Meaning
 

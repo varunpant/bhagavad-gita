@@ -8,11 +8,10 @@ sutra: 41
 position: 274
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः
 शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 274
 
 
 ### Transliteration
-```
+{{< lines >}}
 prāpya puṇyakṛtāṃ lokānuṣitvā śāśvatīḥ samāḥ
 śucīnāṃ śrīmatāṃ gehe yogabhraṣṭo'bhijāyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+योग से भ्रष्ट हुआ पुरुष पुण्यवानों के लोकों को प्राप्त होकर और वहाँ बहुत वर्षों तक निवास करके पवित्र आचरण वाले श्रीमानों के घर में जन्म लेता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन के उस प्रश्न का उत्तर दे रहे हैं जिसमें उन्होंने पूछा था कि योग मार्ग से विचलित हुए साधक की क्या गति होती है। कृष्ण स्पष्ट करते हैं कि ऐसे साधक का कभी विनाश नहीं होता। वह पहले अपने पुण्यों के कारण स्वर्ग आदि उत्तम लोकों को प्राप्त करता है और फिर पृथ्वी पर सदाचारी व समृद्ध परिवार में जन्म लेकर पुनः अपनी साधना प्रारंभ करता है।
+
+### Translation
+
+Having attained the worlds of the righteous and having dwelt there for countless years, he who fell from yoga is reborn in the house of the pure and the prosperous
 
 ### Meaning
 

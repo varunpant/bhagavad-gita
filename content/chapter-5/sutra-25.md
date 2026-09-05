@@ -8,11 +8,10 @@ sutra: 25
 position: 229
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः
 छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 229
 
 
 ### Transliteration
-```
+{{< lines >}}
 labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ
 chinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वे ऋषिगण जिनका पाप नष्ट हो गया है, जिनके संशय छिन्न-भिन्न हो चुके हैं, जो मन और इन्द्रियों को वश में किए हुए हैं और जो समस्त प्राणियों के कल्याण में लगे हुए हैं, वे ब्रह्म-निर्वाण (परम शान्ति) को प्राप्त होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन ऋषियों के लक्षणों का वर्णन करते हैं जो मोक्ष प्राप्त करते हैं। वे निष्पाप होते हैं, उनके सभी संशय ज्ञान द्वारा नष्ट हो चुके होते हैं, वे आत्म-संयमी होते हैं और वे केवल अपने कल्याण में नहीं, बल्कि सभी प्राणियों की भलाई में लगे रहते हैं। ऐसे निस्वार्थ और शुद्ध अन्तःकरण वाले पुरुष ही परम ब्रह्म को प्राप्त करते हैं।
+
+### Translation
+
+Those seers whose sins have been destroyed, whose doubts have been dispelled, who are self-controlled, and who are actively engaged in the welfare of all beings, attain the supreme liberation in Brahman.
 
 ### Meaning
 

@@ -1,0 +1,12 @@
+{{- /* A block whose line breaks are part of the text.
+
+     The shloka and its transliteration are composed in lines, and where a line
+     ends is not wrapping — it is how the verse is written. Everything else in
+     a fenced block on these pages is prose that merely arrived pre-wrapped
+     from the scrape, and must be free to re-wrap to the reader's screen.
+
+     That distinction used to be made by position (`pre:first-of-type`), which
+     was true only while the shloka was the sole block of its kind. The moment
+     the transliteration was added below it, its line break collapsed and the
+     IAST ran together as one paragraph. Marked rather than counted now.  */ -}}
+<pre class="verse-lines"><code>{{ trim .Inner "\n" }}</code></pre>

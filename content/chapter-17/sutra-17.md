@@ -8,11 +8,10 @@ sutra: 17
 position: 612
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रद्धया परया तप्तं तपस्तत्ित्रविधं नरैः
 अफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 612
 
 
 ### Transliteration
-```
+{{< lines >}}
 śraddhayā parayā taptaṃ tapas tat trividhaṃ naraiḥ
 aphalākāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परम श्रद्धा से युक्त, फल की इच्छा न करने वाले, एकाग्रचित्त मनुष्यों द्वारा तपे हुए उस तीन प्रकार के तप को सात्त्विक कहते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक तप के लक्षणों का वर्णन कर रहे हैं। जब मनुष्य बिना किसी फल की कामना के, परम श्रद्धा और एकाग्र मन से शरीर, वाणी और मन का तप करता है, तो उसे सात्त्विक तप कहा जाता है। इसमें निष्काम भाव और अटूट श्रद्धा मुख्य तत्व हैं।
+
+### Translation
+
+This threefold penance, performed with supreme faith by steadfast men who do not desire any reward, is designated as Sattvika
 
 ### Meaning
 

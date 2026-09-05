@@ -8,11 +8,10 @@ sutra: 50
 position: 673
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे
 समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 673
 
 
 ### Transliteration
-```
+{{< lines >}}
 siddhiṃ prāpto yathā brahma tathāpnoti nibodha me
 samāsenaiva kaunteya niṣṭhā jñānasya yā parā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! जिस प्रकार सिद्धि को प्राप्त होकर मनुष्य ब्रह्म को प्राप्त करता है, जो कि ज्ञान की परम पराकाष्ठा है, उसे तुम संक्षेप में ही मुझसे समझो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को समझा रहे हैं कि स्वकर्म द्वारा सिद्धि प्राप्त करने के बाद मनुष्य किस प्रकार ब्रह्म-भाव को प्राप्त होता है। वे कहते हैं कि ज्ञान की जो परम निष्ठा या पराकाष्ठा है, उसे प्राप्त करने की विधि वे संक्षेप में बताने जा रहे हैं। यह आगे के श्लोकों की भूमिका है जहाँ ज्ञानयोग की साधना का वर्णन किया गया है।
+
+### Translation
+
+O son of Kunti, learn from Me in brief how one who has attained perfection also attains Brahman, which is the supreme consummation of knowledge.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 44
 position: 44
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन
 नरकेऽनियतं वासो भवतीत्यनुशुश्रुम
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ practices have been destroyed.
 
 
 ### Transliteration
-```
+{{< lines >}}
 utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana
 narake'niyataṃ vāso bhavatītyanuśuśruma
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे जनार्दन! जिनके कुल-धर्म नष्ट हो गए हैं, ऐसे मनुष्यों का अनिश्चित काल तक नरक में वास होता है, ऐसा हमने सुना है।
 
 ### भावार्थ
 
 अर्जुन युद्ध के विनाशकारी परिणामों को लेकर अपनी गहरी चिंता व्यक्त करना जारी रखते हैं। वे अपने पूर्वजों और गुरुओं से सुने हुए पारंपरिक ज्ञान का हवाला देते हुए कहते हैं कि कुल-धर्म के नष्ट होने से मनुष्य को अनिश्चित काल तक नरक की यातनाएं सहनी पड़ती हैं। यह कथन समाज की नैतिक व्यवस्था को भंग करने और पाप का भागी बनने के प्रति उनके गहरे भय को दर्शाता है।
+
+### Translation
+
+O Janardana, we have heard that men whose family traditions are destroyed dwell indefinitely in hell.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 46
 position: 279
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः
 कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 279
 
 
 ### Transliteration
-```
+{{< lines >}}
 tapasvibhyo'dhiko yogī jñānibhyo'pi mato'dhikaḥ
 karmibhyaścādhiko yogī tasmādyogī bhavārjuna
+{{< /lines >}}
 
-```
+### अनुवाद
+
+योगी तपस्वियों से श्रेष्ठ है, ज्ञानियों से भी श्रेष्ठ माना गया है
+और सकाम कर्म करने वालों से भी योगी श्रेष्ठ है, इसलिए हे अर्जुन! तुम योगी बनो
 
 ### भावार्थ
 
 इस श्लोक में श्रीकृष्ण अर्जुन को योग मार्ग की सर्वोपरि श्रेष्ठता बता रहे हैं। वे कहते हैं कि केवल शारीरिक तपस्या करने वालों, केवल शास्त्रों का बौद्धिक ज्ञान रखने वालों और सकाम कर्म करने वालों की तुलना में वह योगी श्रेष्ठ है जो निष्काम भाव से परमात्मा से जुड़ा है। इसलिए वे अर्जुन को हर परिस्थिति में योगयुक्त होने की प्रेरणा देते हैं।
+
+### Translation
+
+The yogi is superior to the ascetics, and is considered superior even to the jñānīs (scholars);
+the yogi is also superior to those who perform ritual action. Therefore, O Arjuna, become a yogi.
 
 ### Meaning
 

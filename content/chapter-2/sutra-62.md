@@ -8,11 +8,10 @@ sutra: 62
 position: 109
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते
 सङ्गात् संजायते कामः कामात्क्रोधोऽभिजायते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 109
 
 
 ### Transliteration
-```
+{{< lines >}}
 dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate
 saṅgāt sañjāyate kāmaḥ kāmātkrodho'bhijāyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इन्द्रिय-विषयों का चिन्तन करने वाले पुरुष की उन (विषयों) में आसक्ति उत्पन्न हो जाती है। आसक्ति से कामना उत्पन्न होती है और कामना से क्रोध उत्पन्न होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण पतन के मूल कारण को समझाते हैं। जब मनुष्य बार-बार इन्द्रिय विषयों के बारे में सोचता है, तो उसकी उनमें गहरी आसक्ति हो जाती है। यह आसक्ति तीव्र इच्छा या कामना का रूप ले लेती है, और जब उस कामना की पूर्ति में कोई बाधा आती है, तो क्रोध उत्पन्न होता है।
+
+### Translation
+
+While contemplating the objects of the senses, a person develops attachment to them. From attachment, desire is born, and from desire, anger arises.
 
 ### Meaning
 

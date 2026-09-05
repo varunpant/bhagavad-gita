@@ -8,11 +8,10 @@ sutra: 20
 position: 591
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 असुरीं योनिमापन्ना मूढा जन्मनि जन्मनि
 मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 591
 
 
 ### Transliteration
-```
+{{< lines >}}
 āsurīṃ yonimāpannā mūḍhā janmani janmani
 māmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! वे मूढ़ मनुष्य जन्म-जन्म में आसुरी योनि को प्राप्त होकर, मुझे न पाकर ही, उससे भी अति नीच गति को प्राप्त होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आसुरी स्वभाव वाले मनुष्यों के अंतिम पतन का वर्णन कर रहे हैं। वे बताते हैं कि जो लोग द्वेष और अहंकार से भरे होते हैं, वे बार-बार पशु, पक्षी या क्रूर मनुष्यों जैसी नीच योनियों में जन्म लेते हैं। ईश्वर की प्राप्ति के मार्ग से पूरी तरह भटक जाने के कारण, उनका निरंतर आध्यात्मिक पतन होता रहता है और वे अंततः घोर अंधकारमय गतियों को प्राप्त होते हैं।
+
+### Translation
+
+O son of Kunti, obtaining demonic wombs birth after birth, those deluded souls, failing to reach Me, sink into the lowest state of existence.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 5
 position: 529
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सत्त्वं रजस्तम इति गुणाः प्रकृतिसंभवाः
 निबध्नन्ति महाबाहो देहे देहिनमव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 529
 
 
 ### Transliteration
-```
+{{< lines >}}
 sattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ
 nibadhnanti mahābāho dehe dehinamavyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे महाबाहो! सत्त्व, रज और तम — प्रकृति से उत्पन्न ये तीनों गुण अविनाशी जीवात्मा को शरीर में बाँधते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रकृति से उत्पन्न होने वाले तीन गुण (सत्त्व, रज और तम) किस प्रकार अविनाशी जीवात्मा को भौतिक शरीर के साथ बाँधते हैं। यद्यपि आत्मा स्वयं दिव्य और निर्गुण है, फिर भी शरीर में स्थित होने पर वह इन गुणों के प्रभाव में आ जाती है। यह बंधन ही संसार में जीव के जन्म और मरण का कारण बनता है।
+
+### Translation
+
+O mighty-armed one! Sattva, rajas, and tamas — these three qualities born of material nature bind the imperishable soul within the body
 
 ### Meaning
 

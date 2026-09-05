@@ -8,11 +8,11 @@ sutra: 2
 position: 625
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचकाम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः
+{{< lines >}}
+श्री भगवानुवाच
+काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः
 सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 625
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 kāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ
 sarva-karma-phala-tyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+कामनायुक्त कर्मों के त्याग को विद्वान जन संन्यास समझते हैं और सब कर्मों के फलों के त्याग को बुद्धिमान लोग त्याग कहते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन के संन्यास और त्याग के विषय में पूछे गए प्रश्न का उत्तर दे रहे हैं। वे स्पष्ट करते हैं कि कामनाओं से प्रेरित कर्मों को पूरी तरह से छोड़ देना संन्यास कहलाता है। दूसरी ओर, अपने सभी नियत कर्मों को करते हुए उनके फलों की इच्छा का त्याग करना त्याग कहलाता है।
+
+### Translation
+
+The Blessed Lord said:
+The sages understand 'sannyasa' to be the renunciation of desire-driven actions, and the wise declare 'tyaga' to be the abandonment of the fruits of all actions
 
 ### Meaning
 

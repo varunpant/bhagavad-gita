@@ -8,11 +8,10 @@ sutra: 14
 position: 565
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः
 प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 565
 
 
 ### Transliteration
-```
+{{< lines >}}
 ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ
 prāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं ही समस्त प्राणियों के शरीर में स्थित वैश्वानर (जठराग्नि) होकर तथा प्राण और अपान वायु से संयुक्त होकर चार प्रकार के अन्न को पचाता हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापकता और जीवन को बनाए रखने वाली शक्ति का वर्णन कर रहे हैं। वे बताते हैं कि वे ही प्रत्येक जीव के भीतर जठराग्नि के रूप में स्थित हैं जो भोजन को पचाती है। प्राण और अपान वायु के संतुलन से यह पाचन क्रिया संपन्न होती है, जिससे शरीर को ऊर्जा मिलती है।
+
+### Translation
+
+Becoming the fire of digestion in the bodies of all living beings, and uniting with the incoming and outgoing breaths, I digest the four kinds of food
 
 ### Meaning
 

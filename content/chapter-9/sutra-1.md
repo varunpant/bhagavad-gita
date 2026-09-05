@@ -8,11 +8,11 @@ sutra: 1
 position: 339
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचइदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे
+{{< lines >}}
+श्री भगवानुवाच
+इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे
 ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 339
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrībhagavānuvāca
 idaṃ tu te guhyatamaṃ pravakṣyāmyanasūyave
 jñānaṃ vijñānasahitaṃ yajjñātvā mokṣyase'śubhāt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्रीभगवान् ने कहा —
+इस परम गोपनीय ज्ञान को, जो कि विज्ञान (अनुभव) सहित है, मैं तुम्हारे लिए कहूँगा जो ईर्ष्या-रहित हो, जिसे जानकर तुम इस संसार के अमंगल से मुक्त हो जाओगे।
 
 ### भावार्थ
 
 इस अध्याय के आरम्भ में भगवान कृष्ण अर्जुन को सबसे गोपनीय ज्ञान प्रदान करने की प्रतिज्ञा करते हैं। वे अर्जुन को 'अनसूयु' अर्थात् ईर्ष्या-रहित कहकर संबोधित करते हैं, क्योंकि केवल श्रद्धावान और द्वेष-रहित साधक ही इस परम सत्य को ग्रहण कर सकता है। यह ज्ञान केवल सैद्धांतिक नहीं है, बल्कि अनुभवजन्य विज्ञान से युक्त है, जो साधक को संसार के सभी दुखों और बंधनों से मुक्त कर देता है।
+
+### Translation
+
+The Blessed Lord said:
+To you, who are free from malice, I shall now declare this most secret knowledge combined with realized experience, knowing which you shall be liberated from the evil of material existence.
 
 ### Meaning
 

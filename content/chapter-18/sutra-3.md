@@ -8,11 +8,10 @@ sutra: 3
 position: 626
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः
 यज्ञदानतपःकर्म न त्याज्यमिति चापरे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 626
 
 
 ### Transliteration
-```
+{{< lines >}}
 tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ
 yajñadānatapaḥkarma na tyājyamiti cāpare
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कुछ मनीषी (विद्वान) ऐसा कहते हैं कि कर्म को दोषयुक्त मानकर त्याग देना चाहिए, और दूसरे विद्वान यह कहते हैं कि यज्ञ, दान और तप रूपी कर्म का त्याग नहीं करना चाहिए
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण संन्यास और त्याग के विषय में विभिन्न विचारकों के मतों को प्रस्तुत कर रहे हैं। सांख्य दर्शन के अनुयायी सभी कर्मों को दोषयुक्त मानकर उनके पूर्ण त्याग की वकालत करते हैं, क्योंकि हर कर्म में कुछ न कुछ त्रुटि या बंधन होता है। इसके विपरीत, मीमांसक और अन्य विचारक मानते हैं कि यज्ञ, दान और तप जैसे पवित्र कर्मों को कभी नहीं छोड़ना चाहिए क्योंकि ये मनुष्य को शुद्ध करते हैं।
+
+### Translation
+
+Some wise men declare that action should be abandoned as an evil, while others declare that acts of sacrifice, charity, and penance should not be abandoned
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 3
 position: 3
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्
 व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ arrayed by the son of Drupada, thy wise disciple.
 
 
 ### Transliteration
-```
+{{< lines >}}
 paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm
 vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे आचार्य! पाण्डुपुत्रों की इस विशाल सेना को देखिए, जिसे आपके बुद्धिमान शिष्य, द्रुपद के पुत्र ने व्यूहाकार में खड़ा किया है।
 
 ### भावार्थ
 
 दुर्योधन अपने गुरु द्रोणाचार्य के पास जाकर पाण्डवों की विशाल सेना की ओर उनका ध्यान आकर्षित करता है। वह विशेष रूप से द्रुपद के पुत्र धृष्टद्युम्न का उल्लेख करता है, जो द्रोणाचार्य का शिष्य था और जिसने पाण्डव सेना की व्यूह रचना की थी। इसके माध्यम से दुर्योधन अपने गुरु को उनकी पिछली भूल की याद दिलाना चाहता है और युद्ध के प्रति उन्हें सचेत कर रहा है।
+
+### Translation
+
+O teacher, behold this great army of the sons of Pandu, arrayed by your intelligent disciple, the son of Drupada.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 20
 position: 509
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि
 विकारांश्च गुणांश्चैव विद्धि प्रकृतिसंभवान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 509
 
 
 ### Transliteration
-```
+{{< lines >}}
 prakṛtiṃ puruṣaṃ caiva viddhyanādī ubhāvapi
 vikārāṃśca guṇāṃścaiva viddhi prakṛtisambhavān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+प्रकृति और पुरुष दोनों को ही तुम अनादि समझो
+और विकारों तथा गुणों को भी तुम प्रकृति से ही उत्पन्न समझो
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रकृति (भौतिक जगत) और पुरुष (चेतन आत्मा) दोनों ही अनादि हैं, अर्थात् इनका कोई आदि नहीं है। शरीर और इन्द्रियों के विकार (जैसे सुख, दुःख, राग, द्वेष) तथा त्रिगुण (सत्त्व, रज, तम) सभी प्रकृति से ही उत्पन्न होते हैं। आत्मा इन विकारों से परे है, परन्तु प्रकृति के साथ तादात्म्य के कारण वह इनका अनुभव करता है।
+
+### Translation
+
+Know that both Prakriti (Nature) and Purusha (Spirit) are without beginning
+and know also that all modifications and qualities are born of Prakriti
 
 ### Meaning
 

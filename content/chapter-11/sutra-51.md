@@ -8,12 +8,11 @@ sutra: 51
 position: 465
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 दृष्ट्वेदं मानुषं रूपं तवसौम्यं जनार्दन
 इदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 465
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana
 idānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे जनार्दन! आपके इस सौम्य (शान्त) मनुष्य-रूप को देखकर अब मैं स्थिरचित्त हो गया हूँ और अपनी स्वाभाविक स्थिति को प्राप्त हो गया हूँ
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण के अत्यंत भयानक विश्वरूप को देखने के बाद अर्जुन भयभीत हो गए थे। अब भगवान के सौम्य चतुर्भुज और द्विभुज मानव रूप को देखकर अर्जुन का भय दूर हो गया है। वे राहत की सांस लेते हुए कहते हैं कि उनका मन अब शांत और स्थिर हो गया है तथा वे अपनी स्वाभाविक चेतना में लौट आए हैं।
+
+### Translation
+
+Arjuna said:
+O Janardana, seeing this gentle human form of Yours, I have now become composed in mind and am restored to my normal nature
 
 ### Meaning
 

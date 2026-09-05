@@ -8,11 +8,10 @@ sutra: 15
 position: 387
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 स्वयमेवात्मनाऽत्मानं वेत्थ त्वं पुरुषोत्तम
 भूतभावन भूतेश देवदेव जगत्पते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 387
 
 
 ### Transliteration
-```
+{{< lines >}}
 svayam evātmanātmānaṃ vettha tvaṃ puruṣottama
 bhūtabhāvana bhūteśa devadeva jagatpate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पुरुषोत्तम, हे भूतभावन, हे भूतेश, हे देवदेव, हे जगत्पते! आप स्वयं ही अपने से अपने आप को जानते हैं
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण की महिमा का गान करते हुए कहते हैं कि कोई भी अन्य जीव भगवान के वास्तविक स्वरूप को नहीं जान सकता। केवल भगवान कृष्ण ही अपनी अचिन्त्य शक्ति से स्वयं को पूर्णतः जानने में समर्थ हैं। अर्जुन उन्हें विभिन्न दिव्य संबोधनों से पुकारते हैं जो उनकी सर्वोच्चता को दर्शाते हैं।
+
+### Translation
+
+O Supreme Person, O Creator of beings, O Lord of beings, O God of gods, O Lord of the universe! You alone know Yourself by Yourself
 
 ### Meaning
 

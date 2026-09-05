@@ -8,11 +8,11 @@ sutra: 47
 position: 461
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचमया प्रसन्नेन तवार्जुनेदं    रूपं परं दर्शितमात्मयोगात्
+{{< lines >}}
+श्री भगवानुवाच
+मया प्रसन्नेन तवार्जुनेदं    रूपं परं दर्शितमात्मयोगात्
 तेजोमयं विश्वमनन्तमाद्यं    यन्मे त्वदन्येन न दृष्टपूर्वम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,18 +34,25 @@ position: 461
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrībhagavānuvāca
-mayā prasannena tavārjunedaṃ
-rūpaṃ paraṃ darśitamātmayogāt
-tejomayaṃ viśvamanantamādyaṃ
-yanme tvadanyena na dṛṣṭapūrvam
+mayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitamātmayogāt
+tejomayaṃ viśvamanantamādyaṃ yanme tvadanyena na dṛṣṭapūrvam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+हे अर्जुन! मैंने प्रसन्न होकर अपनी आत्म-शक्ति के प्रभाव से तुम्हें यह अपना परम, तेजोमय, विराट, अनन्त और आदि रूप दिखाया है, जिसे तुम्हारे अतिरिक्त अन्य किसी ने पहले कभी नहीं देखा था।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि उन्होंने जो अत्यंत दुर्लभ विश्वरूप देखा है, वह भगवान की विशेष कृपा का परिणाम है। यह रूप अत्यंत तेजोमय, अनादि और अनंत है। अर्जुन को यह समझाकर कि उनके अतिरिक्त अन्य किसी ने इस रूप को पहले नहीं देखा, भगवान अर्जुन के प्रति अपने अनन्य प्रेम और अनुग्रह को प्रकट करते हैं।
+
+### Translation
+
+The Supreme Lord said:
+O Arjuna, being pleased with you, I have shown you by My own divine power this supreme, effulgent, universal, infinite, and primeval form of Mine, which has never been seen before by anyone other than you.
 
 ### Meaning
 

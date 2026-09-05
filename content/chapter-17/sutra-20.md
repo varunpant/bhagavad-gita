@@ -8,11 +8,10 @@ sutra: 20
 position: 615
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दातव्यमिति यद्दानं दीयतेऽनुपकारिणे
 देशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 615
 
 
 ### Transliteration
-```
+{{< lines >}}
 dātavyam iti yad dānaṃ dīyate 'nupakāriṇe
 deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+दान देना ही कर्तव्य है — ऐसा मानकर जो दान किसी उपकार न करने वाले के प्रति
+योग्य देश, काल और सुपात्र के प्राप्त होने पर दिया जाता है, वह दान सात्त्विक माना गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक दान के लक्षणों का वर्णन करते हैं। सात्त्विक दान वह है जो बिना किसी प्रत्युपकार की आशा के, केवल कर्तव्य भावना से दिया जाता है। इसके लिए उपयुक्त स्थान, सही समय और सुपात्र व्यक्ति का होना भी आवश्यक माना गया है।
+
+### Translation
+
+Charity given with the duty that 'it ought to be given', to one who does no return service,
+at the proper place and time, and to a worthy person, that charity is held to be sattvik
 
 ### Meaning
 

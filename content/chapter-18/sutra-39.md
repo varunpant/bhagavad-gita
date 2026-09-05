@@ -8,11 +8,10 @@ sutra: 39
 position: 662
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदग्रे चानुबन्धे च सुखं मोहनमात्मनः
 निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 662
 
 
 ### Transliteration
-```
+{{< lines >}}
 yad agre cānubandhe ca sukhaṃ mohanam ātmanaḥ
 nidrālasyapramādotthaṃ tat tāmasam udāhṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो सुख आरम्भ में और परिणाम में भी आत्मा को मोहित करने वाला है, तथा जो निद्रा, आलस्य और प्रमाद से उत्पन्न होता है, वह तामस कहा गया है।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण यहाँ तामसी सुख के लक्षणों का वर्णन कर रहे हैं। ऐसा सुख जो मनुष्य को अज्ञान के अंधकार में धकेलता है, आरम्भ से लेकर अंत तक केवल मोह और भ्रम पैदा करता है। यह सुख किसी पुरुषार्थ से नहीं, बल्कि अत्यधिक सोने (निद्रा), अकर्मण्यता (आलस्य) और कर्तव्य के प्रति लापरवाही (प्रमाद) से उत्पन्न होता है।
+
+### Translation
+
+That pleasure which both in the beginning and in the end deludes the self, and which arises from sleep, laziness, and negligence, is declared to be of the nature of ignorance.
 
 ### Meaning
 

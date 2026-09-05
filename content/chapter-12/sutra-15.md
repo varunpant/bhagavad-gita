@@ -8,11 +8,10 @@ sutra: 15
 position: 484
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः
 हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 484
 
 
 ### Transliteration
-```
+{{< lines >}}
 yasmān nodvijate loko lokān nodvijate ca yaḥ
 harṣāmarṣabhayodvegair mukto yaḥ sa ca me priyaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिससे कोई भी जीव उद्वेग को प्राप्त नहीं होता और जो स्वयं भी किसी जीव से उद्वेग को प्राप्त नहीं होता, तथा जो हर्ष, अमर्ष, भय और उद्वेगों से मुक्त है, वह मुझे प्रिय है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस भक्त के लक्षणों का वर्णन करते हैं जो उन्हें अत्यंत प्रिय है। ऐसा भक्त संसार में किसी के लिए भी अशांति या दुःख का कारण नहीं बनता और न ही वह स्वयं दूसरों के व्यवहार से विचलित होता है। वह सांसारिक द्वंद्वों जैसे अत्यधिक हर्ष, ईर्ष्या, भय और चिंता से सर्वथा मुक्त होकर मानसिक शांति में स्थित रहता है।
+
+### Translation
+
+He by whom the world is not agitated and who is not agitated by the world, and who is free from joy, envy, fear, and anxiety—he is dear to Me.
 
 ### Meaning
 

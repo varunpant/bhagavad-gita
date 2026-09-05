@@ -8,11 +8,10 @@ sutra: 9
 position: 9
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः
 नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ in battle.
 
 
 ### Transliteration
-```
+{{< lines >}}
 anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ
 nānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और भी बहुत से शूरवीर हैं जो मेरे लिए अपने प्राणों की बाजी लगाने को तैयार हैं, वे अनेक प्रकार के अस्त्र-शस्त्रों से सुसज्जित हैं और सभी युद्ध-विद्या में निपुण हैं।
 
 ### भावार्थ
 
 दुर्योधन द्रोणाचार्य के समक्ष अपनी सेना की शक्ति का बखान करना जारी रखता है। वह कहता है कि मुख्य सेनापतियों के अतिरिक्त भी कई ऐसे वीर हैं जो उसके लिए अपने प्राणों का बलिदान देने को तत्पर हैं। यह कथन एक ओर उसके अहंकार को दर्शाता है, तो दूसरी ओर इस युद्ध में होने वाले भयंकर विनाश का पूर्व संकेत भी देता है।
+
+### Translation
+
+And there are many other heroes who are ready to give up their lives for my sake, equipped with various weapons and missiles, and all are skilled in warfare.
 
 ### Meaning
 

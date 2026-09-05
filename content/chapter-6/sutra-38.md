@@ -8,11 +8,10 @@ sutra: 38
 position: 271
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति
 अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 271
 
 
 ### Transliteration
-```
-kaccit nobhaya-vibhraṣṭaś
-chinnābhram iva naśyati
-apratiṣṭho mahābāho
-vimūḍho brahmaṇaḥ pathi
+{{< lines >}}
+kaccit nobhaya-vibhraṣṭaś chinnābhram iva naśyati
+apratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे महाबाहो (कृष्ण)! क्या वह दोनों (सांसारिक सुख और आध्यात्मिक सिद्धि) से भ्रष्ट होकर, छिन्न-भिन्न बादल की भाँति नष्ट नहीं हो जाता, जो निराश्रय है और ब्रह्म के मार्ग में मोहित (भ्रमित) हो गया है?
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन योग के मार्ग से विचलित हुए साधक की गति के विषय में अपनी शंका व्यक्त कर रहे हैं। वे पूछते हैं कि जो व्यक्ति संसार के भोगों को भी छोड़ चुका है और योग में भी पूर्णता प्राप्त नहीं कर पाया, क्या वह दोनों ओर से भ्रष्ट होकर नष्ट हो जाता है? जैसे आकाश में छिन्न-भिन्न हुआ बादल कहीं का नहीं रहता, क्या वैसी ही स्थिति उस साधक की भी होती है?
+
+### Translation
+
+O mighty-armed (Krishna), does not such a person, fallen from both (material and spiritual paths), perish like a scattered cloud, supportless and bewildered on the path of Brahman?
 
 ### Meaning
 

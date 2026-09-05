@@ -8,11 +8,10 @@ sutra: 13
 position: 482
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च
 निर्ममो निरहङ्कारः समदुःखसुखः क्षमी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 482
 
 
 ### Transliteration
-```
+{{< lines >}}
 adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca
 nirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो सब भूतों में द्वेषभाव से रहित, सबका प्रेमी और दयालु है तथा ममता से रहित, अहंकार से रहित, सुख-दुखों की प्राप्ति में सम रहने वाला और क्षमावान है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण उन भक्तों के गुणों का वर्णन कर रहे हैं जो उन्हें अत्यंत प्रिय हैं। सच्चा भक्त किसी भी प्राणी से द्वेष नहीं करता, वह सभी के प्रति मैत्री और करुणा का भाव रखता है। वह 'मेरा' और 'मैं' के भाव (ममता और अहंकार) से मुक्त होकर सुख-दुख में सम रहता है और दूसरों के अपराधों को क्षमा करने वाला होता है।
+
+### Translation
+
+He who is free from malice toward all living beings, friendly and compassionate, free from attachment and egoism, balanced in pleasure and pain, and forgiving
 
 ### Meaning
 

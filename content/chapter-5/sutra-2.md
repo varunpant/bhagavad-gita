@@ -8,11 +8,11 @@ sutra: 2
 position: 206
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचसंन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ
+{{< lines >}}
+श्री भगवानुवाच
+संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ
 तयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 206
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī bhagavānuvāca
 sannyāsaḥ karmayogaśca niḥśreyasakarāvubhau
 tayostu karmasannyāsātkarmayogo viśiṣyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+संन्यास (कर्मों का त्याग) और कर्मयोग दोनों ही परम कल्याण करने वाले हैं। परन्तु उन दोनों में से कर्मसंन्यास की अपेक्षा कर्मयोग श्रेष्ठ है।
 
 ### भावार्थ
 
 अर्जुन के मन में संशय था कि कर्मों का त्याग बेहतर है या निष्काम भाव से कर्म करना। इसके उत्तर में भगवान कृष्ण स्पष्ट करते हैं कि यद्यपि दोनों ही मार्ग मोक्ष की ओर ले जाते हैं, परन्तु कर्मयोग अधिक व्यावहारिक और श्रेष्ठ है। कर्मों का स्वरूप से त्याग करने की अपेक्षा, फल की इच्छा का त्याग करते हुए कर्म करना मनुष्य के लिए अधिक सुगम और सुरक्षित है।
+
+### Translation
+
+The Supreme Lord said:
+Renunciation of action and Karma Yoga (the yoga of action) both lead to the highest good. But of the two, Karma Yoga is superior to the renunciation of action.
 
 ### Meaning
 

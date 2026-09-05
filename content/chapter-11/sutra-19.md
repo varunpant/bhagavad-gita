@@ -8,11 +8,10 @@ sutra: 19
 position: 433
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनादिमध्यान्तमनन्तवीर्य     मनन्तबाहुं शशिसूर्यनेत्रम्
 पश्यामि त्वां दीप्तहुताशवक्त्रम्      स्वतेजसा विश्वमिदं तपन्तम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 433
 
 
 ### Transliteration
-```
-anādimadhyāntamanantavīryam
-anantabāhuṃ śaśisūryanetram
-paśyāmi tvāṃ dīptahutāśavaktram
-svatejasā viśvamidaṃ tapantam
+{{< lines >}}
+anādimadhyāntamanantavīryam anantabāhuṃ śaśisūryanetram
+paśyāmi tvāṃ dīptahutāśavaktram svatejasā viśvamidaṃ tapantam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं आपको आदि, मध्य और अंत से रहित, अनंत सामर्थ्य से युक्त, अनंत भुजाओं वाले, चन्द्रमा और सूर्य रूपी नेत्रों वाले, प्रज्वलित अग्नि के समान मुख वाले और अपने तेज से इस संपूर्ण जगत को संतप्त करते हुए देख रहा हूँ।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विराट रूप का अत्यंत विस्मयकारी वर्णन कर रहे हैं। वे देखते हैं कि इस परम रूप की न तो कोई शुरुआत है, न मध्य और न ही कोई अंत। भगवान का तेज इतना प्रचंड है कि वह संपूर्ण ब्रह्मांड को तपा रहा है, जो उनकी असीम शक्ति और सर्वव्यापकता को दर्शाता है।
+
+### Translation
+
+I see You without beginning, middle, or end, of infinite power, with manifold arms, with the sun and moon as Your eyes, with Your mouth like a blazing sacrificial fire, heating this entire universe by Your own radiance.
 
 ### Meaning
 

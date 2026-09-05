@@ -8,11 +8,10 @@ sutra: 11
 position: 582
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः
 कामोपभोगपरमा एतावदिति निश्िचताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 582
 
 
 ### Transliteration
-```
+{{< lines >}}
 cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ
 kāmopabhogaparamā etāvaditi niścītāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और वे प्रलय के अंत तक रहने वाली असीमित चिंताओं का आश्रय लिए हुए,
+विषय-भोगों को ही परम पुरुषार्थ मानने वाले तथा 'बस यही सब कुछ है' ऐसा निश्चय रखने वाले होते हैं
 
 ### भावार्थ
 
 इस श्लोक में आसुरी प्रवृत्ति के मनुष्यों की मानसिक स्थिति का वर्णन किया गया है। वे जीवन भर अनंत चिंताओं से घिरे रहते हैं जो केवल मृत्यु के साथ ही समाप्त होती हैं। उनके लिए इंद्रिय-तृप्ति ही जीवन का सर्वोच्च लक्ष्य होता है और वे मानते हैं कि इस भौतिक संसार के सुखों के अतिरिक्त और कुछ भी सत्य नहीं है।
+
+### Translation
+
+And, taking refuge in immeasurable cares ending only with death,
+regarding the gratification of desires as their highest aim, feeling sure that this is all
 
 ### Meaning
 

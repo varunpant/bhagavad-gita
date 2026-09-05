@@ -8,11 +8,10 @@ sutra: 9
 position: 171
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः
 त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 171
 
 
 ### Transliteration
-```
+{{< lines >}}
 janma karma ca me divyamevaṃ yo vetti tattvataḥ
 tyaktvā dehaṃ punarjanma naiti māmeti so'rjuna
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! जो मेरे इस प्रकार के दिव्य जन्म और कर्म को तत्त्व से जानता है, वह शरीर त्यागने के बाद पुनर्जन्म को प्राप्त नहीं होता, बल्कि मुझे ही प्राप्त होता है।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण अपने दिव्य स्वरूप को जानने का आध्यात्मिक फल बताते हैं। साधारण मनुष्यों की तरह भगवान का जन्म कर्म-बंधनों के कारण नहीं होता, बल्कि उनके जन्म और कर्म पूरी तरह से अलौकिक और दिव्य हैं। जो मनुष्य इस रहस्य को गहराई से समझ लेता है, वह मृत्यु के बाद संसार के जन्म-मरण के चक्र से मुक्त होकर सीधे परमात्मा को प्राप्त कर लेता है।
+
+### Translation
+
+O Arjuna, he who thus knows in truth My divine birth and activities, upon leaving the body, does not take birth again; he comes to Me.
 
 ### Meaning
 

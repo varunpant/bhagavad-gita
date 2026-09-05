@@ -8,11 +8,10 @@ sutra: 4
 position: 555
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ततः पदं तत्परिमार्गितव्य    यस्मिन्गता न निवर्तन्ति भूयः
 तमेव चाद्यं पुरुषं प्रपद्ये    यतः प्रवृत्तिः प्रसृता पुराणी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,28 @@ position: 555
 
 
 ### Transliteration
-```
-tataḥ padaṃ tatparimārgitavyaṃ
-yasmingatā na nivartanti bhūyaḥ
-tameva cādyaṃ puruṣaṃ prapadye
-yataḥ pravṛttiḥ prasṛtā purāṇī
+{{< lines >}}
+tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ
+tameva cādyaṃ puruṣaṃ prapadye yataḥ pravṛttiḥ prasṛtā purāṇī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उसके पश्चात उस परम पद की खोज करनी चाहिए
+जहाँ गए हुए मनुष्य फिर लौटकर संसार में नहीं आते
+और मैं उसी आदि पुरुष की शरण ग्रहण करता हूँ
+जिससे इस पुरातन संसार-वृक्ष की प्रवृत्ति का विस्तार हुआ है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि संसार रूपी अश्वत्थ वृक्ष को वैराग्य रूपी शस्त्र से काटने के बाद साधक को उस परम पद (परमात्मा) की खोज करनी चाहिए, जहाँ पहुँचने पर पुनर्जन्म नहीं होता। साधक को उस आदि पुरुष की शरण लेनी चाहिए जिससे इस सृष्टि की अनादि परंपरा का विस्तार हुआ है। यह शरणागति ही परम पद की प्राप्ति का एकमात्र साधन है।
+
+### Translation
+
+Thereafter, that goal must be sought
+whither having gone, they do not return again
+and I take refuge in that Primeval Purusha alone
+from whom streamed forth this ancient current of activity
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 639
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्रैवं सति कर्तारमात्मानं केवलं तु यः
 पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 639
 
 
 ### Transliteration
-```
+{{< lines >}}
 tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ
 paśyatyakṛtabuddhitvānna sa paśyati durmatiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ऐसी स्थिति में भी, जो मनुष्य अशुद्ध बुद्धि होने के कारण केवल अपने आप को ही कर्ता मानता है, वह दुर्बुद्धि वाला मनुष्य वास्तव में नहीं देखता है।
 
 ### भावार्थ
 
 भगवान कृष्ण स्पष्ट करते हैं कि कर्म के सिद्ध होने में पाँच कारण (अधिष्ठान, कर्ता, करण, चेष्टा और दैव) होते हैं। इसके बावजूद, जो व्यक्ति आत्म-साक्षात्कार या विवेक-बुद्धि के अभाव के कारण केवल अपनी आत्मा को ही एकमात्र कर्ता मानता है, वह अज्ञानी है। उसकी बुद्धि शुद्ध नहीं है, इसलिए वह सत्य को नहीं देख पाता।
+
+### Translation
+
+Such being the case, he who, owing to an untrained intellect, looks upon his pure Self as the sole doer, is of perverted intelligence and does not see at all.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 178
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः
 तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 178
 
 
 ### Transliteration
-```
+{{< lines >}}
 kiṃ karma kimakarmeti kavayo'pyatra mohitāḥ
 tatte karma pravakṣyāmi yajjñātvā mokṣyase'śubhāt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कर्म क्या है और अकर्म क्या है, इस विषय में बुद्धिमान लोग भी मोहित हो जाते हैं। मैं तुम्हें वह कर्म भलीभाँति बताऊँगा, जिसे जानकर तुम अशुभ (संसार-बंधन) से मुक्त हो जाओगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को कर्म की गहनता समझा रहे हैं। वे कहते हैं कि कर्म और अकर्म का सही स्वरूप समझना इतना कठिन है कि बड़े-बड़े विद्वान भी इसमें भ्रमित हो जाते हैं। इसलिए, कृष्ण स्वयं उस कर्म के रहस्य को उजागर करने का वचन देते हैं, जिसे जानकर मनुष्य संसार के सभी अशुभ बंधनों से मुक्त हो सकता है।
+
+### Translation
+
+What is action and what is inaction? Even the wise are deluded in this matter. I shall explain that action to you, knowing which you will be liberated from evil.
 
 ### Meaning
 

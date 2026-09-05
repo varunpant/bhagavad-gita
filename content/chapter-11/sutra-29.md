@@ -8,11 +8,10 @@ sutra: 29
 position: 443
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यथा प्रदीप्तं ज्वलनं पतङ्गा    विशन्ति नाशाय समृद्धवेगाः
 तथैव नाशाय विशन्ति लोका    स्तवापि वक्त्राणि समृद्धवेगाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 443
 
 
 ### Transliteration
-```
-yathā pradīptaṃ jvalanaṃ pataṅgā
-viśanti nāśāya samṛddhavegāḥ
-tathaiva nāśāya viśanti lokā
-stavāpi vaktrāṇi samṛddhavegāḥ
+{{< lines >}}
+yathā pradīptaṃ jvalanaṃ pataṅgā viśanti nāśāya samṛddhavegāḥ
+tathaiva nāśāya viśanti lokā stavāpi vaktrāṇi samṛddhavegāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जैसे पतंगे अपने विनाश के लिए अत्यंत तीव्र वेग से प्रज्वलित अग्नि में प्रवेश करते हैं, वैसे ही ये सब लोग भी अपने विनाश के लिए अत्यंत तीव्र वेग से आपके मुखों में प्रवेश कर रहे हैं।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विश्वरूप के भयानक संहारक रूप का वर्णन कर रहे हैं। जैसे पतंगे अज्ञानवश जलती हुई आग की ओर आकर्षित होकर नष्ट हो जाते हैं, वैसे ही ब्रह्मांड के समस्त प्राणी और योद्धा काल रूपी भगवान के मुखों में समाते जा रहे हैं। यह दृश्य सृष्टि के अनिवार्य अंत और काल की सर्वभक्षी शक्ति को दर्शाता है।
+
+### Translation
+
+Just as moths rush with great speed into a blazing fire to their destruction, so too do these worlds enter with great speed into your mouths to their destruction.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 21
 position: 331
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम्
 यं प्राप्य न निवर्तन्ते तद्धाम परमं मम
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 331
 
 
 ### Transliteration
-```
+{{< lines >}}
 avyakto'kṣara ityuktastamāhuḥ paramāṃ gatim
 yaṃ prāpya na nivartante taddhāma paramaṃ mama
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिसे अव्यक्त और अक्षर कहा गया है, उसी को परम गति कहते हैं, जिसे प्राप्त करके मनुष्य वापस नहीं लौटते, वह मेरा परम धाम है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण परम सत्य के स्वरूप का वर्णन कर रहे हैं। वे समझाते हैं कि जो अव्यक्त और अविनाशी है, वही अंतिम लक्ष्य या परम गति है। उस परम धाम को प्राप्त करने के बाद जीवात्मा का इस नश्वर संसार में पुनर्जन्म नहीं होता।
+
+### Translation
+
+That which is called unmanifest and imperishable is said to be the supreme goal, attaining which they do not return; that is My supreme abode.
 
 ### Meaning
 

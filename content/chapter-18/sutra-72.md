@@ -8,11 +8,10 @@ sutra: 72
 position: 695
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा
 कच्चिदज्ञानसंमोहः प्रनष्टस्ते धनञ्जय
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 695
 
 
 ### Transliteration
-```
+{{< lines >}}
 kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā
 kaccidajñānasaṃmohaḥ pranaṣṭaste dhanañjaya
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! क्या तुमने इस (ज्ञान) को एकाग्र चित्त से सुना है?
+हे धनंजय! क्या तुम्हारा अज्ञान से उत्पन्न मोह नष्ट हो गया है?
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन से पूछते हैं कि क्या उन्होंने इस परम गोपनीय ज्ञान को पूरी एकाग्रता के साथ सुना है। वे यह भी जानना चाहते हैं कि क्या अर्जुन का अज्ञान और उससे उत्पन्न मोह अब पूरी तरह से समाप्त हो गया है। यह गुरु द्वारा शिष्य की समझ और मानसिक स्थिति की पुष्टि करने का एक सुंदर उदाहरण है।
+
+### Translation
+
+O Partha, has this been heard by you with an attentive mind?
+O Dhananjaya, has your delusion born of ignorance been destroyed?
 
 ### Meaning
 

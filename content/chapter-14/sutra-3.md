@@ -8,11 +8,10 @@ sutra: 3
 position: 527
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्
 संभवः सर्वभूतानां ततो भवति भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 527
 
 
 ### Transliteration
-```
+{{< lines >}}
 mama yonir mahad brahma tasmin garbhaṃ dadhāmy aham
 sambhavaḥ sarvabhūtānāṃ tato bhavati bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी अर्जुन! मेरी महद्-ब्रह्म (मूल प्रकृति) योनि है, उसी में मैं गर्भ स्थापित करता हूँ, जिससे सभी भूतों की उत्पत्ति होती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सृष्टि की उत्पत्ति की प्रक्रिया को समझा रहे हैं। वे प्रकृति (महद्-ब्रह्म) को माता के रूप में और स्वयं को बीज प्रदाता पिता के रूप में प्रस्तुत करते हैं। इन दोनों के संयोग से ही चराचर जगत के सभी जीवों की उत्पत्ति संभव होती है।
+
+### Translation
+
+My womb is the great Brahman (material nature); in that I place the germ, from which, O Bharata, occurs the birth of all beings.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 10
 position: 605
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यातयामं गतरसं पूति पर्युषितं च यत्
 उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 605
 
 
 ### Transliteration
-```
+{{< lines >}}
 yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat
 ucciṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो भोजन अधपका (या तीन घंटे से अधिक समय का रखा हुआ), नीरस, दुर्गन्धयुक्त, बासी और जूठा है तथा जो अपवित्र भी है, वह भोजन तामसी मनुष्यों को प्रिय होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामसी भोजन के लक्षणों का वर्णन करते हैं। ऐसा भोजन जो बासी हो, जिसमें से रस निकल चुका हो, जिससे दुर्गन्ध आ रही हो, जो दूसरों का जूठा हो और जो यज्ञ आदि के अयोग्य (अपवित्र) हो, वह तामसी प्रवृत्ति के लोगों को पसंद आता है। यह भोजन अज्ञान, आलस्य और रोग को बढ़ावा देता है।
+
+### Translation
+
+Food that is prepared more than three hours before being eaten, which is tasteless, putrid, stale, refuse, and impure, is dear to persons in the mode of ignorance
 
 ### Meaning
 

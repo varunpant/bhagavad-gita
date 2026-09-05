@@ -8,11 +8,10 @@ sutra: 3
 position: 207
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति
 निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 207
 
 
 ### Transliteration
-```
+{{< lines >}}
 jñeyaḥ sa nityasaṃnyāsī yo na dveṣṭi na kāṅkṣati
 nirdvandvo hi mahābāho sukhaṃ bandhātpramucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे महाबाहु! जो पुरुष न किसी से द्वेष करता है और न किसी की आकांक्षा करता है, उसे नित्य संन्यासी ही जानना चाहिए। क्योंकि द्वन्द्वों से रहित वह पुरुष सुखपूर्वक संसार-बन्धन से मुक्त हो जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि सच्चा संन्यास केवल कर्मों को त्यागने में नहीं है, बल्कि मन की स्थिति में है। जो व्यक्ति राग और द्वेष से मुक्त है, वही वास्तविक और नित्य संन्यासी है, भले ही वह कर्म कर रहा हो। ऐसा व्यक्ति सुख-दुःख आदि द्वन्द्वों से परे होकर सरलता से संसार के बन्धनों से मुक्त हो जाता है।
+
+### Translation
+
+O mighty-armed one, he who neither hates nor desires should be known as a perpetual renouncer. For, being free from dualities, he is easily liberated from bondage.
 
 ### Meaning
 

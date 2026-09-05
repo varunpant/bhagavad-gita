@@ -8,11 +8,10 @@ sutra: 19
 position: 329
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते
 रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 329
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate
 rātryāgame'vaśaḥ pārtha prabhavatyaharāgame
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! वही यह जीवों का समुदाय बार-बार उत्पन्न होकर रात्रि के आगमन पर विवश होकर लीन हो जाता है और दिन के आगमन पर पुनः प्रकट हो जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सृष्टि के चक्र का वर्णन कर रहे हैं। ब्रह्मा के दिन के समय सभी जीव प्रकट होते हैं और उनकी रात्रि के समय वे पुनः अव्यक्त में विलीन हो जाते हैं। यह चक्र प्रकृति के नियमों के अधीन जीवों की विवशता को दर्शाता है, जो बार-बार जन्म और प्रलय के चक्र में घूमते रहते हैं।
+
+### Translation
+
+O Partha, this very same multitude of living beings, being born again and again, is helplessly dissolved at the arrival of night, and it manifests again at the arrival of day
 
 ### Meaning
 

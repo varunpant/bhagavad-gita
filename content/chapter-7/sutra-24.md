@@ -8,11 +8,10 @@ sutra: 24
 position: 304
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अव्यक्तं व्यक्ितमापन्नं मन्यन्ते मामबुद्धयः
 परं भावमजानन्तो ममाव्ययमनुत्तमम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 304
 
 
 ### Transliteration
-```
+{{< lines >}}
 avyaktaṃ vyaktimāpannaṃ manyante māmabuddhayaḥ
 paraṃ bhāvamajānanto mamāvyayamanuttamam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+बुद्धिहीन लोग मेरे अविनाशी और सर्वोत्तम परम भाव को न जानते हुए, मुझ अप्रकट को मनुष्य की भाँति प्रकट हुआ मानते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जो लोग अज्ञानी हैं, वे उनके वास्तविक दिव्य स्वरूप को नहीं पहचान पाते। वे सोचते हैं कि भगवान पहले निराकार थे और अब एक साधारण मनुष्य के रूप में प्रकट हुए हैं। वे कृष्ण के उस परम, अविनाशी और सर्वोत्तम स्वरूप से अनभिज्ञ हैं जो जन्म और मृत्यु से परे है।
+
+### Translation
+
+The unintelligent, unaware of My supreme, imperishable, and unsurpassed nature, think of Me as having transitioned from an unmanifest state to a manifest human form
 
 ### Meaning
 

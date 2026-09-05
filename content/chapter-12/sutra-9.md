@@ -8,11 +8,10 @@ sutra: 9
 position: 478
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्
 अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 478
 
 
 ### Transliteration
-```
+{{< lines >}}
 atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram
 abhyāsayogena tato māmicchāptuṃ dhanañjaya
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि तुम अपने चित्त को मुझमें स्थिर करने में समर्थ नहीं हो
+तो हे धनंजय! अभ्यास योग के द्वारा मुझे प्राप्त करने की इच्छा करो
 
 ### भावार्थ
 
 इस श्लोक में श्री कृष्ण अर्जुन को भक्ति का एक व्यावहारिक विकल्प प्रदान कर रहे हैं। यदि कोई साधक अपने मन को स्वाभाविक रूप से भगवान में पूरी तरह स्थिर नहीं कर पाता, तो उसे निराश नहीं होना चाहिए। निरंतर अभ्यास (अभ्यास योग) के द्वारा मन को बार-बार सांसारिक विषयों से हटाकर भगवान में लगाने का प्रयास करना चाहिए।
+
+### Translation
+
+If you are unable to fix your mind steadily on Me
+then, O Dhanañjaya, seek to reach Me by the yoga of constant practice
 
 ### Meaning
 

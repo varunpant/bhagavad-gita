@@ -8,11 +8,10 @@ sutra: 4
 position: 418
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो
 योगेश्वर ततो मे त्वं दर्शयाऽत्मानमव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 418
 
 
 ### Transliteration
-```
+{{< lines >}}
 manyase yadi tac chakyaṃ mayā draṣṭum iti prabho
 yogeśvara tato me tvaṃ darśayātmānam avyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे प्रभो! यदि आप ऐसा मानते हैं कि मेरे द्वारा आपका वह रूप देखा जाना सम्भव है,
+तो हे योगेश्वर! आप मुझे अपने उस अविनाशी स्वरूप का दर्शन कराइए
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण से प्रार्थना कर रहे हैं कि यदि वे उन्हें इस योग्य समझते हैं, तो वे अपना वह परम ऐश्वर्यशाली रूप प्रकट करें। अर्जुन अपनी सीमाओं को स्वीकार करते हुए भगवान की कृपा की कामना करते हैं। वे कृष्ण को 'योगेश्वर' कहकर संबोधित करते हैं, जो सभी योग शक्तियों के स्वामी हैं।
+
+### Translation
+
+If You think, O Lord, that it is possible for me to behold it,
+then, O Lord of Yoga, reveal to me Your imperishable Self
 
 ### Meaning
 

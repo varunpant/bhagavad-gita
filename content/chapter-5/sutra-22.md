@@ -8,11 +8,10 @@ sutra: 22
 position: 226
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ये हि संस्पर्शजा भोगा दुःखयोनय एव ते
 आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 226
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye hi saṃsparśajā bhogā duḥkhayonaya eva te
 ādyantavantaḥ kaunteya na teṣu ramate budhaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो इन्द्रिय-स्पर्श से उत्पन्न होने वाले भोग हैं, वे निश्चित रूप से दुःख के ही कारण हैं। हे कुन्तीपुत्र! वे आदि और अन्त वाले हैं, इसलिए बुद्धिमान मनुष्य उनमें रमण नहीं करता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि भौतिक सुख क्षणभंगुर और विनाशकारी होते हैं। इन्द्रियों और उनके विषयों के संयोग से उत्पन्न होने वाले भोग अंततः दुःख का कारण बनते हैं क्योंकि उनका आदि और अंत होता है। एक विवेकशील या बुद्धिमान व्यक्ति इन अनित्य सुखों की वास्तविकता को समझता है और इसलिए वह इनमें लिप्त नहीं होता।
+
+### Translation
+
+The pleasures that are born of contact with the senses are indeed the sources of misery. O son of Kunti, they have a beginning and an end; therefore, the wise person does not rejoice in them.
 
 ### Meaning
 

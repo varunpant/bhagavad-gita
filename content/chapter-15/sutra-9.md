@@ -8,11 +8,10 @@ sutra: 9
 position: 560
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च
 अधिष्ठाय मनश्चायं विषयानुपसेवते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 560
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇam eva ca
 adhiṣṭhāya manaś cāyaṃ viṣayān upasevate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कान, आँख, त्वचा, रसना (जीभ) और घ्राण (नाक) को,
+तथा मन को भी आश्रय बनाकर यह जीवात्मा विषयों का सेवन करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जीवात्मा शरीर बदलते समय अपने साथ मन और इन्द्रियों को ले जाता है। वह इन पाँच ज्ञानेन्द्रियों और मन के माध्यम से ही भौतिक संसार के शब्द, रूप, स्पर्श, रस और गंध आदि विषयों का भोग करता है। मन के बिना इन्द्रियाँ अपने विषयों को ग्रहण नहीं कर सकतीं, इसलिए मन को इन्द्रियों का राजा माना गया है।
+
+### Translation
+
+Presiding over the ear, the eye, the sense of touch, the tongue, and the nose,
+as well as the mind, this jiva experiences the objects of the senses
 
 ### Meaning
 

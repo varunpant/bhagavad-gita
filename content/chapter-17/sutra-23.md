@@ -8,11 +8,10 @@ sutra: 23
 position: 618
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः
 ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 618
 
 
 ### Transliteration
-```
+{{< lines >}}
 tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ
 brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ॐ तत् सत् — यह ब्रह्म का तीन प्रकार का निर्देश कहा गया है
+उसी से सृष्टि के आदि में ब्राह्मण, वेद और यज्ञ रचे गए
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण 'ॐ तत् सत्' की महत्ता समझा रहे हैं। यह तीन शब्दों का समूह सच्चिदानन्दघन ब्रह्म का सूचक है। सृष्टि के प्रारंभ में इसी त्रिगुण निर्देश के द्वारा ब्राह्मणों, वेदों और यज्ञों की रचना की गई थी, जो सभी शुभ कर्मों के आधार हैं।
+
+### Translation
+
+"Om Tat Sat"—this is declared to be the threefold designation of Brahman
+By that, in the beginning, the Brahmanas, the Vedas, and the sacrifices were created
 
 ### Meaning
 

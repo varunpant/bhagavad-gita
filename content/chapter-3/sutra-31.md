@@ -8,11 +8,10 @@ sutra: 31
 position: 150
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः
 श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 150
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye me matam idaṃ nityam anutiṣṭhanti mānavāḥ
 śraddhāvanto 'nasūyanto mucyante te 'pi karmabhiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य श्रद्धायुक्त और दोष-दृष्टि से रहित होकर मेरे इस मत का सदा पालन करते हैं, वे भी कर्मों के बन्धन से मुक्त हो जाते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपने उपदेशों के पालन का फल बताते हैं। जो व्यक्ति बिना किसी ईर्ष्या या संदेह के, पूरी श्रद्धा के साथ निष्काम कर्मयोग के इस सिद्धांत का पालन करता है, वह कर्म बंधनों से मुक्त हो जाता है। यह दर्शाता है कि आध्यात्मिक प्रगति के लिए भगवान के वचनों में अटूट विश्वास और दोष-दृष्टि का अभाव अत्यंत आवश्यक है।
+
+### Translation
+
+Those human beings who, full of faith and free from envy, constantly follow this teaching of mine, they too are freed from the bondage of actions.
 
 ### Meaning
 

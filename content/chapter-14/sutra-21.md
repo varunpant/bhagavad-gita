@@ -8,12 +8,11 @@ sutra: 21
 position: 545
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 कैर्लिंगैस्त्रीन्गुणानेतानतीतो भवति प्रभो
 किमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,27 @@ position: 545
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 kair liṅgais trīn guṇān etān atīto bhavati prabho
 kimācāraḥ kathaṃ caitāṃs trīn guṇān ativartate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे प्रभु! इन तीनों गुणों से अतीत हुआ पुरुष किन लक्षणों से युक्त होता है?
+उसका आचरण कैसा होता है और वह किस प्रकार इन तीनों गुणों से सर्वथा अतीत हो जाता है?
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण से गुणातीत पुरुष (जो तीनों गुणों से ऊपर उठ चुका है) के विषय में तीन प्रश्न पूछते हैं। पहला प्रश्न उसके लक्षणों के बारे में है, दूसरा उसके आचरण या व्यवहार के बारे में है, और तीसरा प्रश्न उस साधन या विधि के बारे में है जिसके द्वारा वह इन गुणों को पार करता है। यह प्रश्न आगे के श्लोकों में कृष्ण द्वारा दिए जाने वाले विस्तृत उपदेश की पृष्ठभूमि तैयार करता है।
+
+### Translation
+
+Arjuna said:
+By what symptoms is one known who has transcended these three modes, O Lord?
+What is his behaviour, and how does he transcend these three modes?
 
 ### Meaning
 

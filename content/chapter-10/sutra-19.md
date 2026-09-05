@@ -8,11 +8,11 @@ sutra: 19
 position: 391
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचहन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः
+{{< lines >}}
+श्री भगवानुवाच
+हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः
 प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 391
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrībhagavānuvāca
 hanta te kathayiṣyāmi divyā hyātmavibhūtayaḥ
 prādhānyataḥ kuruśreṣṭha nāstyanto vistarasya me
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान् ने कहा —
+हे कुरुश्रेष्ठ! अब मैं तुमसे अपनी उन दिव्य विभूतियों के विषय में कहूँगा जो मुख्य हैं, क्योंकि मेरे विस्तार का कोई अंत नहीं है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन के प्रश्न का उत्तर देना आरम्भ करते हैं। वे कहते हैं कि उनकी दिव्य विभूतियाँ अनंत हैं और उनका पूर्ण वर्णन करना असंभव है। इसलिए, वे केवल उन मुख्य और महत्वपूर्ण विभूतियों का वर्णन करेंगे जो अर्जुन के लिए समझने योग्य हैं।
+
+### Translation
+
+The Supreme Lord said:
+O best of the Kurus, yes, I will declare to you My divine manifestations, keeping to those that are prominent, for there is no end to My extent
 
 ### Meaning
 

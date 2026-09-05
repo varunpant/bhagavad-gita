@@ -8,11 +8,10 @@ sutra: 15
 position: 177
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः
 कुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 177
 
 
 ### Transliteration
-```
+{{< lines >}}
 evaṃ jñātvā kṛtaṃ karma pūrvairapi mumukṣubhiḥ
 kuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ऐसा जानकर प्राचीन काल के मोक्ष चाहने वालों ने भी कर्म किया था। इसलिए तुम भी उसी प्रकार कर्म करो, जैसा कि पूर्वजों द्वारा प्राचीन काल से किया जाता रहा है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि उनके कर्मों की दिव्य प्रकृति को समझने से मनुष्य कर्म बंधनों से मुक्त हो जाता है। इस सत्य को जानकर प्राचीन काल के मोक्ष चाहने वालों ने भी अनासक्त भाव से अपने कर्तव्य कर्म किए थे। अतः अर्जुन को भी कर्मों का त्याग करने के बजाय अपने पूर्वजों के पदचिह्नों पर चलते हुए अपना नियत कर्म करना चाहिए।
+
+### Translation
+
+Knowing thus, actions were performed even by ancient seekers of liberation. Therefore, you should just perform action as it was performed by the ancients in earlier times.
 
 ### Meaning
 

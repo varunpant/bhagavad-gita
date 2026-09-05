@@ -8,11 +8,10 @@ sutra: 49
 position: 672
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः
 नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 672
 
 
 ### Transliteration
-```
+{{< lines >}}
 asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ
 naiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सभी वस्तुओं में आसक्ति-रहित बुद्धि वाला, मन और इन्द्रियों को जीतने वाला तथा कामनाओं से सर्वथा रहित मनुष्य संन्यास के द्वारा उस परम नैष्कर्म्य-सिद्धि को प्राप्त करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण निष्काम कर्मयोग और संन्यास की पराकाष्ठा का वर्णन कर रहे हैं। जब साधक की बुद्धि संसार के किसी भी विषय में आसक्त नहीं रहती, वह अपने मन और इन्द्रियों पर पूर्ण विजय प्राप्त कर लेता है और उसकी सभी भौतिक कामनाएँ समाप्त हो जाती हैं, तब वह नैष्कर्म्य-सिद्धि को प्राप्त होता है। यह वह अवस्था है जहाँ कर्म करते हुए भी मनुष्य कर्म के बन्धन से सर्वथा मुक्त रहता है।
+
+### Translation
+
+He whose intellect is unattached everywhere, who has conquered his self, and who is free from desire, attains through renunciation the supreme perfection of actionlessness
 
 ### Meaning
 

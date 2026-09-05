@@ -8,11 +8,10 @@ sutra: 13
 position: 636
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पञ्चैतानि महाबाहो कारणानि निबोध मे
 सांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 636
 
 
 ### Transliteration
-```
+{{< lines >}}
 pañcaitāni mahābāho kāraṇāni nibodha me
 sāṅkhye kṛtānte proktāni siddhaye sarvakarmaṇām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे महाबाहो! समस्त कर्मों की सिद्धि के लिए सांख्य सिद्धांत (वेदांत) में बताए गए इन पांच कारणों को तुम मुझसे जानो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को समझाते हैं कि किसी भी कर्म की पूर्णता केवल मनुष्य के हाथ में नहीं होती। वे सांख्य दर्शन (वेदांत) का संदर्भ देते हुए कहते हैं कि प्रत्येक कर्म की सिद्धि के पीछे पांच मुख्य कारण होते हैं। इन कारणों को समझने से मनुष्य स्वयं को कर्ता मानने के अहंकार से मुक्त हो सकता है।
+
+### Translation
+
+O mighty-armed one, learn from Me these five factors declared in the Samkhya doctrine, which is the end of action, for the accomplishment of all works.
 
 ### Meaning
 

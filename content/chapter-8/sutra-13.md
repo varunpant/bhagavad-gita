@@ -8,11 +8,10 @@ sutra: 13
 position: 323
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन्
 यः प्रयाति त्यजन्देहं स याति परमां गतिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 323
 
 
 ### Transliteration
-```
+{{< lines >}}
 om ity ekākṣaraṃ brahma vyāharan mām anusmaran
 yaḥ prayāti tyajan dehaṃ sa yāti paramāṃ gatim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य 'ॐ' इस एक अक्षर रूप ब्रह्म का उच्चारण करता हुआ और मेरा स्मरण करता हुआ शरीर को त्यागकर जाता है, वह परम गति को प्राप्त होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अंतकाल में प्राण त्यागने की विधि और उसके फल का वर्णन कर रहे हैं। जो साधक इंद्रियों को वश में करके, मन को हृदय में स्थिर कर, 'ॐ' नाम का उच्चारण करते हुए और परमात्मा का स्मरण करते हुए शरीर छोड़ता है, वह परम गति (मोक्ष) को प्राप्त करता है। यह अभ्यास जीवन भर के निरंतर ध्यान का परिणाम होता है।
+
+### Translation
+
+He who departs from the body while uttering the single syllable 'Om'—which is Brahman—and remembering Me, attains the supreme goal.
 
 ### Meaning
 

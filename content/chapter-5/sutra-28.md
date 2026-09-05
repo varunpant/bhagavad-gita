@@ -8,11 +8,10 @@ sutra: 28
 position: 232
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः
 विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 232
 
 
 ### Transliteration
-```
+{{< lines >}}
 yatendriyamanobuddhir munir mokṣaparāyaṇaḥ
 vigatechābhayakrodho yaḥ sadā mukta eva saḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिसकी इन्द्रियाँ, मन और बुद्धि वश में हैं, जो मोक्ष के परायण है, तथा जिसकी इच्छा, भय और क्रोध नष्ट हो चुके हैं, ऐसा मुनि सदा मुक्त ही है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ध्यानयोग के अभ्यास के अंतिम परिणाम का वर्णन करते हैं। जो साधक अपनी बाह्य और आंतरिक इंद्रियों को वश में कर लेता है और जिसका एकमात्र लक्ष्य मोक्ष होता है, वह राग-द्वेष से ऊपर उठ जाता है। ऐसा मुनि, जो इच्छा, भय और क्रोध से सर्वथा मुक्त हो चुका है, इस संसार में रहते हुए भी सदैव मुक्त ही है।
+
+### Translation
+
+With senses, mind, and intellect controlled, the sage intent on liberation, free from desire, fear, and anger, is indeed forever liberated.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 27
 position: 516
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम्
 क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 516
 
 
 ### Transliteration
-```
+{{< lines >}}
 yāvat sañjāyate kiñcit sattvaṃ sthāvara-jaṅgamam
 kṣetra-kṣetrajña-saṃyogāt tad viddhi bharatarṣabha
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतश्रेष्ठ! जो कुछ भी स्थावर (अचल) या जङ्गम (चल) प्राणी उत्पन्न होता है, उसे तुम क्षेत्र (शरीर) और क्षेत्रज्ञ (आत्मा) के संयोग से ही उत्पन्न जानो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि संसार में जो भी चर और अचर प्राणी अस्तित्व में आते हैं, वे प्रकृति (क्षेत्र) और पुरुष (क्षेत्रज्ञ) के परस्पर संयोग का ही परिणाम हैं। इन दोनों के बिना किसी भी जीव की उत्पत्ति संभव नहीं है। यह ज्ञान साधक को भौतिक जगत और चेतन तत्व के अंतर को समझने में मदद करता है।
+
+### Translation
+
+O best of the Bharatas, whatever being is born, whether unmoving or moving, know that to be arisen from the union of the field and the knower of the field.
 
 ### Meaning
 

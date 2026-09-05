@@ -8,11 +8,10 @@ sutra: 22
 position: 141
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन
 नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 141
 
 
 ### Transliteration
-```
+{{< lines >}}
 na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana
 nānavāptamavāptavyaṃ varta eva ca karmaṇi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! इन तीनों लोकों में मेरे लिए कोई भी कर्तव्य शेष नहीं है, और न ही कोई ऐसी अप्राप्त वस्तु है जिसे प्राप्त करना हो; फिर भी मैं कर्म में ही लगा रहता हूँ।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि परमेश्वर होने के नाते वे पूर्ण हैं और उन्हें किसी भी वस्तु की कमी नहीं है। तीनों लोकों में उनके लिए कोई भी व्यक्तिगत कर्तव्य या कार्य शेष नहीं है। फिर भी, वे निरंतर निष्काम कर्म करते रहते हैं ताकि मनुष्य उनके आदर्श का अनुसरण कर सकें।
+
+### Translation
+
+O Partha, there is no duty for me to perform in the three worlds, nor is there anything unobtained that needs to be obtained; yet I engage in action.
 
 ### Meaning
 

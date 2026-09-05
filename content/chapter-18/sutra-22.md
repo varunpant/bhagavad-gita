@@ -8,11 +8,10 @@ sutra: 22
 position: 645
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम्
 अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 645
 
 
 ### Transliteration
-```
+{{< lines >}}
 yat tu kṛtsnavad ekasmin kārye saktam ahaitukam
 atattvārthavad alpaṃ ca tat tāmasam udāhṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परंतु जो ज्ञान किसी एक कार्य (शरीर या मूर्ति आदि) में ही संपूर्ण के समान आसक्त है, जो बिना किसी युक्तिसंगत कारण के है, जो वास्तविक सत्य से रहित है और जो तुच्छ है, वह तामस कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामसी ज्ञान के लक्षणों का वर्णन कर रहे हैं। ऐसा ज्ञान अत्यंत संकुचित होता है, जहाँ मनुष्य किसी एक सीमित वस्तु या शरीर को ही सब कुछ मान बैठता है। इसमें कोई तार्किक आधार या आध्यात्मिक सत्य नहीं होता, और यह अत्यंत तुच्छ तथा अज्ञानता से भरा होता है।
+
+### Translation
+
+But that knowledge which is attached to one single effect as if it were the whole, which is without reason, without foundation in truth, and trivial, is declared to be of the nature of darkness (Tamasic)
 
 ### Meaning
 

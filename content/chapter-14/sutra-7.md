@@ -8,11 +8,10 @@ sutra: 7
 position: 531
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम्
 तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 531
 
 
 ### Transliteration
-```
+{{< lines >}}
 rajo rāgātmakama viddhi tṛṣṇāsaṅgasamudbhavam
 tannibadhnāti kaunteya karmasaṅgena dehinam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! रजोगुण को राग रूप (कामनाओं से उत्पन्न) जानो, जो तृष्णा और आसक्ति से उत्पन्न होता है। वह इस जीवात्मा को कर्मों की आसक्ति से बाँधता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को रजोगुण के स्वभाव और उसके बंधनकारी प्रभाव के बारे में बता रहे हैं। रजोगुण मुख्य रूप से तीव्र इच्छाओं, कामनाओं और सांसारिक वस्तुओं के प्रति आसक्ति से उत्पन्न होता है। यह मनुष्य को निरंतर कर्म करने और उनके फलों की लालसा में व्यस्त रखता है, जिससे वह संसार चक्र में बंधा रहता है।
+
+### Translation
+
+O son of Kunti, know the mode of passion (rajas) to be of the nature of desire, born of longing and attachment. It binds the embodied soul through attachment to action.
 
 ### Meaning
 

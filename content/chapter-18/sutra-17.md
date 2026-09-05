@@ -8,11 +8,10 @@ sutra: 17
 position: 640
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते
 हत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ though he slays these people, he slayeth not, nor is he bound (by the action).
 
 
 ### Transliteration
-```
+{{< lines >}}
 yasya nāhaṅkṛto bhāvo buddhiryasya na lipyate
 hatvāpi sa imā~llokānna hanti na nibadhyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिसके भीतर 'मैं कर्ता हूँ' ऐसा भाव नहीं है और जिसकी बुद्धि लिप्त नहीं होती, वह इन सब लोकों को मारकर भी वास्तव में न तो मारता है और न ही पाप से बंधता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण कर्मों के बंधन से मुक्ति का परम सिद्धांत समझा रहे हैं। जब कोई व्यक्ति अहंकार से रहित होकर और फल की आसक्ति के बिना कर्म करता है, तो वह कर्म के नियमों से ऊपर उठ जाता है। अर्जुन को युद्ध के संदर्भ में यह समझाया जा रहा है कि यदि वह कर्तापन के भाव से मुक्त होकर कर्तव्य समझकर युद्ध करेगा, तो उसे हिंसा का पाप नहीं लगेगा।
+
+### Translation
+
+He who is free from the egoistic notion 'I am the doer', and whose intellect is not tainted, though he slays these worlds, he does not slay, nor is he bound by his actions
 
 ### Meaning
 

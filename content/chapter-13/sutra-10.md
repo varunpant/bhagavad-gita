@@ -8,11 +8,10 @@ sutra: 10
 position: 499
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 असक्ितरनभिष्वङ्गः पुत्रदारगृहादिषु
 नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 499
 
 
 ### Transliteration
-```
+{{< lines >}}
 asaktir anabhiṣvaṅgaḥ putra-dāra-gṛhādiṣu
 nityaṃ ca sama-cittatvam iṣṭāniṣṭopapattiṣu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+पुत्र, स्त्री, घर आदि में आसक्ति का न होना और ममता का न होना, तथा प्रिय और अप्रिय की प्राप्ति में सदा ही समचित्त रहना।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ज्ञान के लक्षणों का वर्णन जारी रखते हुए अनासक्ति और समभाव पर बल देते हैं। अपने परिवार और गृहस्थी के प्रति अत्यधिक मोह या ममता का त्याग करना आवश्यक है। इसके साथ ही, अनुकूल (प्रिय) या प्रतिकूल (अप्रिय) परिस्थितियों के आने पर मन को सदा संतुलित रखना ही सच्चा ज्ञान है।
+
+### Translation
+
+Non-attachment, absence of clinging to son, wife, home, and the like, and constant even-mindedness on the attainment of the desirable and the undesirable.
 
 ### Meaning
 

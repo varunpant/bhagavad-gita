@@ -8,11 +8,10 @@ sutra: 4
 position: 493
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्क्षेत्रं यच्च यादृक् च यद्विकारि यतश्च यत्
 स च यो यत्प्रभावश्च तत्समासेन मे श्रृणु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 493
 
 
 ### Transliteration
-```
+{{< lines >}}
 tat kṣetraṃ yacca yādṛk ca yadvikāri yataśca yat
 sa ca yo yatprabhāvaśca tatsamāsena me śṛṇu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह क्षेत्र जो है, और जैसा है, तथा जिन विकारों वाला है, और जिससे जो उत्पन्न हुआ है, तथा वह (क्षेत्रज्ञ) जो है और जिस प्रभाव वाला है, वह सब संक्षेप में मुझसे सुनो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को क्षेत्र (शरीर) और क्षेत्रज्ञ (आत्मा) के विषय में विस्तार से बताने की प्रतिज्ञा करते हैं। वे कहते हैं कि इस क्षेत्र का स्वरूप क्या है, इसके विकार क्या हैं, और क्षेत्रज्ञ की शक्तियाँ क्या हैं, इन सभी रहस्यों को वे संक्षेप में समझाएंगे। यह ज्ञान मनुष्य को प्रकृति और पुरुष के भेद को समझने में सहायक होता है।
+
+### Translation
+
+What that field is, what its nature is, what its modifications are, whence it arises, and also who He (the knower of the field) is and what His powers are—hear all that from Me in brief.
 
 ### Meaning
 

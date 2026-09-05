@@ -8,11 +8,10 @@ sutra: 31
 position: 654
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यया धर्ममधर्मं च कार्यं चाकार्यमेव च
 अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 654
 
 
 ### Transliteration
-```
+{{< lines >}}
 yayā dharmam adharmaṃ ca kāryaṃ cākāryam eva ca
 ayathāvat prajānāti buddhiḥ sā pārtha rājasī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जिसके द्वारा मनुष्य धर्म और अधर्म को तथा कर्तव्य और अकर्तव्य को भी ठीक प्रकार से नहीं जानता, वह बुद्धि राजसी है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजसी बुद्धि के लक्षणों का वर्णन करते हैं। राजसी बुद्धि से युक्त व्यक्ति सही और गलत, कर्तव्य और अकर्तव्य के बीच स्पष्ट भेद नहीं कर पाता। उसकी समझ व्यक्तिगत इच्छाओं, राग-द्वेष और भ्रम से प्रभावित होती है, जिसके कारण वह धर्म को अधर्म और अधर्म को धर्म मान बैठता है।
+
+### Translation
+
+O Partha, that intellect by which one incorrectly understands dharma and adharma, as well as what ought to be done and what ought not to be done, is rajasic
 
 ### Meaning
 

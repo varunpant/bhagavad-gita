@@ -8,11 +8,10 @@ sutra: 25
 position: 144
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत
 कुर्याद्विद्वांस्तथासक्तश्िचकीर्षुर्लोकसंग्रहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 144
 
 
 ### Transliteration
-```
+{{< lines >}}
 saktāḥ karmaṇyavidvāṃso yathā kurvanti bhārata
 kuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी! जिस प्रकार अज्ञानी जन कर्म में आसक्त होकर कार्य करते हैं, उसी प्रकार विद्वान पुरुष को अनासक्त होकर लोक-कल्याण की इच्छा से कार्य करना चाहिए।
 
 ### भावार्थ
 
 भगवान कृष्ण अज्ञानी और ज्ञानी व्यक्ति के कर्म करने के दृष्टिकोण में अंतर स्पष्ट करते हैं। अज्ञानी लोग अपने स्वार्थ और कर्मफलों में आसक्त होकर कार्य करते हैं, जबकि ज्ञानी व्यक्ति को वही कर्म बिना किसी आसक्ति के करने चाहिए। ज्ञानी पुरुष का उद्देश्य केवल समाज के सामने एक आदर्श प्रस्तुत करना और लोक-कल्याण करना होता है।
+
+### Translation
+
+O descendant of Bharata, just as the ignorant act with attachment to action, so should the wise act without attachment, desiring the welfare of the world.
 
 ### Meaning
 

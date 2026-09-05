@@ -8,11 +8,10 @@ sutra: 32
 position: 404
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन
 अध्यात्मविद्या विद्यानां वादः प्रवदतामहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 404
 
 
 ### Transliteration
-```
+{{< lines >}}
 sargāṇāmādirantaśca madhyaṃ caivāhamarjuna
 adhyātmavidyā vidyānāṃ vādaḥ pravadatāmaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! सृष्टियों का आदि, अन्त और मध्य भी मैं ही हूँ
+विद्याओं में अध्यात्मविद्या (आत्मज्ञान) और परस्पर चर्चा करने वालों का वाद (तत्व-निर्णय के लिए किया जाने वाला विचार) मैं हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को अपनी विभूतियों का वर्णन करते हुए बताते हैं कि वे ही समस्त सृष्टियों के उत्पत्ति, स्थिति और प्रलय के कारण हैं। विद्याओं में वे सबसे श्रेष्ठ 'अध्यात्मविद्या' हैं जो मनुष्य को जन्म-मृत्यु के चक्र से मुक्त करती है। इसके अतिरिक्त, वाद-विवाद में वे 'वाद' हैं, जिसका उद्देश्य सत्य की खोज करना होता है, न कि केवल जीत हासिल करना।
+
+### Translation
+
+O Arjuna, of all creations I am the beginning, the end, and also the middle
+Among sciences I am the science of the self, and of those who debate I am the logical argument
 
 ### Meaning
 

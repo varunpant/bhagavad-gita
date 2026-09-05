@@ -8,11 +8,10 @@ sutra: 52
 position: 99
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति
 तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 99
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadā te mohakalilaṃ buddhirvyatitariṣyati
 tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जब तुम्हारी बुद्धि मोह रूपी दलदल को भली-भाँति पार कर जाएगी, तब तुम सुने हुए और सुनने योग्य (सभी विषयों के) प्रति वैराग्य को प्राप्त होओगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आध्यात्मिक बुद्धि और वैराग्य के उदय का वर्णन करते हैं। जब मनुष्य की बुद्धि सांसारिक मोह और अज्ञान के दलदल को पार कर लेती है, तब उसमें स्वाभाविक रूप से वैराग्य उत्पन्न हो जाता है। उस अवस्था में पहुँचने पर, व्यक्ति इस लोक या परलोक के सुने हुए और सुनने योग्य सभी भोगों के प्रति पूरी तरह से उदासीन हो जाता है।
+
+### Translation
+
+When your intelligence crosses beyond the mire of delusion, then you shall attain indifference to all that has been heard and all that is to be heard.
 
 ### Meaning
 

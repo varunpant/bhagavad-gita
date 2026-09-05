@@ -8,11 +8,10 @@ sutra: 27
 position: 146
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः
 अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,14 +33,22 @@ position: 146
 
 
 ### Transliteration
-```
-prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ\nahaṅkāravimūḍhātmā kartā'hamiti manyate
+{{< lines >}}
+prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ
+ahaṅkāravimūḍhātmā kartā'hamiti manyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सम्पूर्ण कर्म सब प्रकार से प्रकृति के गुणों द्वारा किये जाते हैं, परन्तु अहंकार से मोहित अन्तःकरण वाला अज्ञानी मनुष्य 'मैं कर्ता हूँ' ऐसा मानता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि सभी कर्म प्रकृति के तीन गुणों (सत्त्व, रज और तम) द्वारा संपन्न होते हैं। अज्ञानी मनुष्य झूठे अहंकार के कारण स्वयं को इन कर्मों का कर्ता मान बैठता है। यह अज्ञान ही जीव के बंधन और दुःख का मुख्य कारण है।
+
+### Translation
+
+All activities are being performed in every way by the modes of material nature. The soul bewildered by false ego thinks, "I am the doer."
 
 ### Meaning
 

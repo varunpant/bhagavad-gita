@@ -8,11 +8,10 @@ sutra: 19
 position: 508
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः
 मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 508
 
 
 ### Transliteration
-```
+{{< lines >}}
 iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ
 madbhakta etadvijñāya madbhāvāyopapadyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस प्रकार क्षेत्र, तथा ज्ञान और ज्ञेय का संक्षेप में वर्णन किया गया है
+मेरा भक्त इसे जानकर मेरे भाव (मद्भाव) को प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण क्षेत्र (शरीर), ज्ञान (ज्ञान के साधन) और ज्ञेय (परमात्मा) के विषय में की गई चर्चा का उपसंहार कर रहे हैं। वे अर्जुन को बताते हैं कि जो भक्त इस रहस्य को भली-भांति समझ लेता है, वह भगवान के दिव्य स्वभाव को प्राप्त करने का अधिकारी बन जाता है। भक्ति के साथ इस ज्ञान का समन्वय ही परम गति का मार्ग प्रशस्त करता है।
+
+### Translation
+
+Thus the field, as well as knowledge and the object of knowledge, have been briefly described
+My devotee, understanding this, attains to My state of being
 
 ### Meaning
 

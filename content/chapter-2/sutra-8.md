@@ -8,11 +8,10 @@ sutra: 8
 position: 55
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न हि प्रपश्यामि ममापनुद्या    द्यच्छोकमुच्छोषणमिन्द्रियाणाम्
 अवाप्य भूमावसपत्नमृद्धम्    राज्यं सुराणामपि चाधिपत्यम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 55
 
 
 ### Transliteration
-```
+{{< lines >}}
 na hi prapaśyāmi mamāpanudyā dyacchokamucchoṣaṇamindriyāṇām
 avāpya bhūmāvasapatnamṛddham rājyaṃ surāṇāmapi cādhipatyam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझे ऐसा कुछ नहीं दिखाई देता जो मेरी इन्द्रियों को सुखाने वाले इस शोक को दूर कर सके, भले ही मुझे पृथ्वी पर धन-धान्य से सम्पन्न और शत्रुरहित राज्य, या देवताओं का आधिपत्य ही क्यों न मिल जाए।
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण के समक्ष अपनी गहरी निराशा और असहायता व्यक्त करते हैं। उनका मानना है कि पृथ्वी पर एक निष्कंटक और समृद्ध राज्य या स्वर्ग में देवताओं का स्वामित्व प्राप्त करने के बाद भी उनका यह शोक दूर नहीं होगा जो उनकी इन्द्रियों को सुखा रहा है। यह श्लोक दर्शाता है कि अर्जुन को यह अहसास हो गया है कि भौतिक उपलब्धियाँ उनके नैतिक और आध्यात्मिक संकट का समाधान नहीं कर सकतीं।
+
+### Translation
+
+I do not see what can drive away this grief that is drying up my senses, even after obtaining an unrivaled and prosperous kingdom on earth, and even sovereignty over the gods.
 
 ### Meaning
 

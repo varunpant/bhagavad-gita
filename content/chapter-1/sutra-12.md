@@ -8,11 +8,10 @@ sutra: 12
 position: 12
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः
 सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ in order to cheer Duryodhana, now roared like a lion, and blew his conch.
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ
 siṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तब कुरुवंश के वयोवृद्ध, प्रतापी पितामह (भीष्म) ने उनके (दुर्योधन के) हृदय में हर्ष उत्पन्न करते हुए, उच्च स्वर में सिंह के समान गर्जना करके अपना शंख बजाया।
 
 ### भावार्थ
 
 दुर्योधन की घबराहट को देखकर और उसका उत्साह बढ़ाने के लिए, प्रतापी पितामह भीष्म ने एक सिंह की भांति गर्जना की। उन्होंने युद्ध के आरंभ की घोषणा करते हुए अपना शंख जोर से बजाया। उनका यह कार्य दुर्योधन के मन में हर्ष और आत्मविश्वास जगाने के लिए था।
+
+### Translation
+
+Then, the valiant grandsire, the oldest of the Kurus, generating joy for him (Duryodhana), roared loudly like a lion and blew his conch shell.
 
 ### Meaning
 

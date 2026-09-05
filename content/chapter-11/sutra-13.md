@@ -8,11 +8,10 @@ sutra: 13
 position: 427
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा
 अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 427
 
 
 ### Transliteration
-```
+{{< lines >}}
 tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā
 apaśyaddevadevasya śarīre pāṇḍavastadā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वहाँ (उस समय) पाण्डुपुत्र अर्जुन ने देवों के देव भगवान् श्रीकृष्ण के शरीर में अनेक प्रकार से विभक्त हुए सम्पूर्ण ब्रह्माण्ड को एक स्थान पर स्थित देखा
 
 ### भावार्थ
 
 संजय धृतराष्ट्र को बताते हैं कि दिव्य दृष्टि प्राप्त करने के बाद अर्जुन ने भगवान कृष्ण के विश्वरूप में क्या देखा। अर्जुन ने देखा कि अनेक भागों में विभाजित यह सम्पूर्ण चराचर ब्रह्माण्ड भगवान के एक ही शरीर में समाया हुआ है। यह दृश्य भगवान की अनंत महिमा और उनकी सर्वव्यापकता को प्रकट करता है।
+
+### Translation
+
+There, at that time, Arjuna saw the entire universe, divided into many parts, gathered together in one place within the body of the God of gods.
 
 ### Meaning
 

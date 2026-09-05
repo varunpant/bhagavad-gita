@@ -8,11 +8,10 @@ sutra: 75
 position: 698
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम्
 योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 698
 
 
 ### Transliteration
-```
+{{< lines >}}
 vyāsaprasādācchrutavānetadguhyamahaṃ param
 yogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+व्यास जी की कृपा से मैंने इस परम गोपनीय योग को स्वयं योगेश्वर श्रीकृष्ण के मुख से साक्षात् कहते हुए सुना है
 
 ### भावार्थ
 
 संजय धृतराष्ट्र को बताते हैं कि महर्षि वेदव्यास की दिव्य दृष्टि प्रदान करने वाली कृपा के कारण ही वे कुरुक्षेत्र के युद्धक्षेत्र में भगवान श्रीकृष्ण और अर्जुन के बीच हुए इस अत्यंत गोपनीय संवाद को साक्षात् सुन पाए। वे इस बात पर बल देते हैं कि उन्होंने यह ज्ञान किसी परंपरा या माध्यम से नहीं, बल्कि स्वयं योगेश्वर श्रीकृष्ण के श्रीमुख से साक्षात् सुना है।
+
+### Translation
+
+By the grace of Vyasa, I have heard this supreme, most confidential yoga directly from the Lord of Yoga, Krishna Himself, as He declared it in person
 
 ### Meaning
 

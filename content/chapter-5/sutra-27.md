@@ -8,11 +8,10 @@ sutra: 27
 position: 231
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः
 प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 231
 
 
 ### Transliteration
-```
+{{< lines >}}
 sparśān kṛtvā bahir bāhyāṃś cakṣuś caivāntare bhruvoḥ
 prāṇāpānau samau kṛtvā nāsābhyantara-cāriṇau
+{{< /lines >}}
 
-```
+### अनुवाद
+
+बाहर के विषयों को बाहर ही छोड़कर और नेत्रों की दृष्टि को भौंहों के बीच में स्थित करके तथा नासिका के भीतर विचरने वाले प्राण और अपान वायु को समान करके
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ध्यान योग (अष्टांग योग) की व्यावहारिक विधि का वर्णन कर रहे हैं। मन को एकाग्र करने के लिए बाहरी इंद्रिय विषयों के विचारों को बाहर ही छोड़ना पड़ता है। आँखों को आधा खुला रखकर दृष्टि को भ्रूमध्य में स्थिर किया जाता है और प्राणायाम के द्वारा श्वास-प्रश्वास की गति को सम किया जाता है।
+
+### Translation
+
+Shutting out all external sense objects, keeping the eyes focused between the eyebrows, and making equal the inward and outward breaths moving within the nostrils
 
 ### Meaning
 

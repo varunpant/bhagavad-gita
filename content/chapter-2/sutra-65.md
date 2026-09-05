@@ -8,11 +8,10 @@ sutra: 65
 position: 112
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रसादे सर्वदुःखानां हानिरस्योपजायते
 प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 112
 
 
 ### Transliteration
-```
+{{< lines >}}
 prasāde sarvaduḥkhānāṃ hānirasyopajāyate
 prasannacetaso hyāśu buddhiḥ paryavatiṣṭhate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+प्रसन्नता (अन्तःकरण की शान्ति) प्राप्त होने पर इसके सम्पूर्ण दुःखों का नाश हो जाता है। क्योंकि उस प्रसन्नचित्त वाले साधक की बुद्धि शीघ्र ही भलीभाँति स्थिर हो जाती है।
 
 ### भावार्थ
 
 जब मनुष्य अपनी इन्द्रियों को वश में करके अन्तःकरण की शान्ति प्राप्त कर लेता है, तब उसके जीवन के सभी दुःखों का अन्त हो जाता है। ऐसे शान्त और प्रसन्न चित्त वाले व्यक्ति की बुद्धि शीघ्र ही परमात्मा में स्थिर हो जाती है। यह श्लोक स्पष्ट करता है कि आध्यात्मिक प्रगति और आत्मज्ञान के लिए मन की शान्ति अनिवार्य है।
+
+### Translation
+
+On attaining tranquility, the destruction of all his sorrows takes place. For the intelligence of one whose mind is tranquil soon becomes firmly established.
 
 ### Meaning
 

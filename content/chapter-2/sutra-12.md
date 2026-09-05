@@ -8,11 +8,10 @@ sutra: 12
 position: 59
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः
 न चैव न भविष्यामः सर्वे वयमतः परम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 59
 
 
 ### Transliteration
-```
+{{< lines >}}
 na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ
 na caiva na bhaviṣyāmaḥ sarve vayamataḥ param
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ऐसा कभी नहीं हुआ कि मैं किसी काल में नहीं था, या तुम नहीं थे, या ये राजा लोग नहीं थे; और न ही ऐसा है कि भविष्य में हम सब नहीं रहेंगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्मा की अमरता और शाश्वतता का वर्णन कर रहे हैं। वे अर्जुन को समझाते हैं कि शरीर के जन्म और मृत्यु से आत्मा का कोई संबंध नहीं है। कृष्ण, अर्जुन और युद्धभूमि में उपस्थित सभी राजा पहले भी अस्तित्व में थे और भविष्य में भी रहेंगे, क्योंकि आत्मा कभी नष्ट नहीं होती।
+
+### Translation
+
+Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.
 
 ### Meaning
 

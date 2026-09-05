@@ -8,11 +8,10 @@ sutra: 19
 position: 138
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्मादसक्तः सततं कार्यं कर्म समाचर
 असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 138
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasmādasaktaḥ satataṃ kāryaṃ karma samācara
 asakto hyācarankarma paramāpnoti pūruṣaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए, आसक्ति से रहित होकर निरंतर करने योग्य कर्म (कर्तव्य) का भलीभांति आचरण करो। क्योंकि अनासक्त होकर कर्म करने से मनुष्य परम (मोक्ष या परमात्मा) को प्राप्त होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को बिना किसी फल की इच्छा के अपना कर्तव्य निभाने का उपदेश देते हैं। जब मनुष्य व्यक्तिगत स्वार्थ या आसक्ति के बिना कर्म करता है, तो उसका अंतःकरण शुद्ध हो जाता है। अंततः, ऐसा निष्काम कर्मयोग मनुष्य को मोक्ष और परमेश्वर की प्राप्ति कराता है।
+
+### Translation
+
+Therefore, without attachment, always perform the action that ought to be done. For, by performing action without attachment, a person attains the Supreme.
 
 ### Meaning
 

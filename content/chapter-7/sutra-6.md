@@ -8,11 +8,10 @@ sutra: 6
 position: 286
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एतद्योनीनि भूतानि सर्वाणीत्युपधारय
 अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 286
 
 
 ### Transliteration
-```
+{{< lines >}}
 etadyonīni bhūtāni sarvāṇītyupadhāraya
 ahhaṃ kṛtsnasya jagataḥ prabhavaḥ pralayastathā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तुम यह जान लो कि सभी प्राणी इन दोनों (प्रकृतियों) से ही उत्पन्न होने वाले हैं।
+मैं ही इस संपूर्ण जगत की उत्पत्ति और प्रलय (विनाश) हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि उनकी परा (चेतन) और अपरा (जड़) प्रकृतियाँ ही संसार के समस्त चराचर प्राणियों की उत्पत्ति का कारण हैं। भगवान ही इस सृष्टि के परम कारण हैं, जिससे सब कुछ उत्पन्न होता है और अंत में सब कुछ उन्हीं में विलीन हो जाता है। वे ही इस जगत के सृजनकर्ता और संहारकर्ता दोनों हैं।
+
+### Translation
+
+Know that all living beings have these two as their source.
+I am the origin and also the dissolution of the entire universe.
 
 ### Meaning
 

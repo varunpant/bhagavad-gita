@@ -8,11 +8,10 @@ sutra: 71
 position: 694
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रद्धावाननसूयश्च श्रृणुयादपि यो नरः
 सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 694
 
 
 ### Transliteration
-```
+{{< lines >}}
 śraddhāvān anasūyaś ca śṛṇuyād api yo naraḥ
 so 'pi muktaḥ śubhāñ lokān prāpnuyāt puṇyakarmaṇām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य श्रद्धावान् और दोष-दृष्टि से रहित होकर इस गीता-संवाद को केवल सुनेगा भी, वह भी पापों से मुक्त होकर पुण्यकर्म करने वालों के शुभ लोकों को प्राप्त होगा।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण गीता के श्रवण मात्र की महिमा का वर्णन कर रहे हैं। वे कहते हैं कि यदि कोई मनुष्य इस ज्ञान को पूरी तरह समझ न भी पाए, परंतु केवल श्रद्धा और ईर्ष्या-रहित भाव से इसे सुनता है, तो भी वह पवित्र हो जाता है। ऐसा व्यक्ति मृत्यु के पश्चात उन उच्च और दिव्य लोकों को प्राप्त करता है जो पुण्य आत्माओं के लिए आरक्षित हैं।
+
+### Translation
+
+And the person who listens to this with faith and without malice, even he, being liberated from sins, shall attain the auspicious worlds of those who perform righteous deeds.
 
 ### Meaning
 

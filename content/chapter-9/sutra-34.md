@@ -8,11 +8,10 @@ sutra: 34
 position: 372
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु
 मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 372
 
 
 ### Transliteration
-```
+{{< lines >}}
 manmanā bhava madbhakto madyājī māṃ namaskuru
 māmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मेरे में मन वाला हो, मेरा भक्त बन, मेरा पूजन करने वाला हो और मुझे नमस्कार कर
+इस प्रकार अपने आप को मुझमें लगाकर और मेरे परायण होकर तू मुझे ही प्राप्त होगा
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को परम कल्याण का मार्ग बताते हैं। वे मन, भक्ति, पूजा और नमस्कार को पूरी तरह से भगवान में समर्पित करने का निर्देश देते हैं। जब साधक अपने अंतःकरण को भगवान से युक्त कर लेता है और उन्हें ही अपना परम लक्ष्य मान लेता है, तो वह निश्चित रूप से भगवान को ही प्राप्त होता है।
+
+### Translation
+
+Fix your mind on Me, be devoted to Me, worship Me, and bow down to Me
+Having thus disciplined yourself, with Me as your supreme goal, you shall come to Me
 
 ### Meaning
 

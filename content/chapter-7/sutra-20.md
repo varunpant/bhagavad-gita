@@ -8,11 +8,10 @@ sutra: 20
 position: 300
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः
 तं तं नियममास्थाय प्रकृत्या नियताः स्वया
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 300
 
 
 ### Transliteration
-```
+{{< lines >}}
 kāmais tais tair hṛtajñānāḥ prapadyante 'nyadevatāḥ
 taṃ taṃ niyamam āsthāya prakṛtyā niyatāḥ svayā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उन-उन भोगों की कामनाओं द्वारा जिनका ज्ञान हरा जा चुका है, वे अपनी प्रकृति से नियंत्रित होकर, उन-उन नियमों का आश्रय लेकर अन्य देवताओं की शरण में जाते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि भौतिक इच्छाओं के वशीभूत होकर मनुष्य अपनी विवेक-बुद्धि खो बैठते हैं। वे अपनी जन्मजात प्रकृति के अनुसार विभिन्न सांसारिक लाभों के लिए अन्य देवी-देवताओं की पूजा करने लगते हैं। वे उन देवताओं को प्रसन्न करने के लिए विशिष्ट नियमों और अनुष्ठानों का पालन करते हैं, क्योंकि वे परम सत्य को भूल चुके होते हैं।
+
+### Translation
+
+Those whose knowledge has been swept away by various desires, driven by their own natures, surrender to other deities, following the particular rites and rules of each
 
 ### Meaning
 

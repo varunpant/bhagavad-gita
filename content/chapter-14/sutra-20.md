@@ -8,11 +8,10 @@ sutra: 20
 position: 544
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान्
 जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 544
 
 
 ### Transliteration
-```
+{{< lines >}}
 guṇānetānatītya trīndehī dehasamudbhavān
 janmamṛtyujarāduḥkhairvimukto'mṛtamaśnute
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शरीर की उत्पत्ति के कारण इन तीनों गुणों को पार करके, देहधारी जीवात्मा जन्म, मृत्यु, वृद्धावस्था और दुखों से मुक्त होकर मोक्ष (अमृत) को प्राप्त करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण गुणातीत (गुणों से परे) होने के परम लाभ का वर्णन करते हैं। जब जीवात्मा प्रकृति के तीनों गुणों (सत्त्व, रज और तम) से ऊपर उठ जाती है, तो वह शारीरिक बंधनों से मुक्त हो जाती है। इसके परिणामस्वरूप, वह जन्म, मृत्यु और बुढ़ापे के चक्र से छूटकर परम आनंद और अमरता का अनुभव करती है।
+
+### Translation
+
+Having transcended these three qualities which are the source of the physical body, the embodied soul, freed from the pains of birth, death, and old age, attains immortality
 
 ### Meaning
 

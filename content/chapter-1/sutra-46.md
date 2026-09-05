@@ -8,11 +8,10 @@ sutra: 46
 position: 46
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः
 धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ slay me in battle, unresisting and unarmed, that would be better for me.
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ
 dhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि शस्त्र हाथ में लिए हुए धृतराष्ट्र के पुत्र युद्ध में मुझ शस्त्ररहित और सामना न करने वाले को मार भी डालें, तो वह मेरे लिए अधिक कल्याणकारी होगा।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन अपनी गहरी निराशा और वैराग्य को व्यक्त कर रहे हैं। वे मानते हैं कि अपने ही स्वजनों की हत्या करके राज्य प्राप्त करने से बेहतर है कि वे बिना कोई विरोध किए युद्धभूमि में मारे जाएं। यह उनके मन में चल रहे भारी नैतिक द्वंद्व और युद्ध के प्रति पूर्ण विरक्ति को दर्शाता है।
+
+### Translation
+
+If the sons of Dhritarashtra, weapons in hand, should kill me in battle while I am unarmed and unresisting, that would be better for me.
 
 ### Meaning
 

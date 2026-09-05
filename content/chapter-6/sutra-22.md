@@ -8,11 +8,10 @@ sutra: 22
 position: 255
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः
 यस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 255
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ
 yasmin sthito na duḥkhena guruṇāpi vicālyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिसे प्राप्त करके वह उससे अधिक किसी अन्य लाभ को नहीं मानता है, और जिसमें स्थित होकर वह भारी से भारी दुःख से भी विचलित नहीं होता है।
 
 ### भावार्थ
 
 यह श्लोक समाधि की उस अवस्था का वर्णन करता है जहाँ साधक को परम आनंद की प्राप्ति होती है। इस अवस्था को प्राप्त करने के बाद संसार का कोई भी भौतिक सुख या लाभ उससे बड़ा नहीं लगता। साथ ही, इस आत्म-साक्षात्कार की स्थिति में स्थित योगी जीवन के सबसे बड़े दुखों और कष्टों से भी विचलित नहीं होता है।
+
+### Translation
+
+Having gained which, he does not consider any other gain to be superior to it, and established in which, he is not shaken even by the heaviest sorrow.
 
 ### Meaning
 

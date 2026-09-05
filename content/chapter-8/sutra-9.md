@@ -8,11 +8,10 @@ sutra: 9
 position: 319
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कविं पुराणमनुशासितार    मणोरणीयांसमनुस्मरेद्यः
 सर्वस्य धातारमचिन्त्यरूप    मादित्यवर्णं तमसः परस्तात्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 319
 
 
 ### Transliteration
-```
-kaviṃ purāṇamanuśāsitāra
-maṇoraṇīyāṃsamanusmaredyaḥ
-sarvasya dhātāramacintyarūpa
-mādityavarṇaṃ tamasaḥ parastāt
+{{< lines >}}
+kaviṃ purāṇamanuśāsitāra maṇoraṇīyāṃsamanusmaredyaḥ
+sarvasya dhātāramacintyarūpa mādityavarṇaṃ tamasaḥ parastāt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो सर्वज्ञ, अनादि, सबके नियन्ता, सूक्ष्म से भी अति सूक्ष्म, सबके धारण-पोषण करने वाले, अचिन्त्य स्वरूप और अज्ञान रूपी अन्धकार से सर्वथा परे सूर्य के समान प्रकाशमान परमेश्वर का स्मरण करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस परम पुरुष के दिव्य गुणों का वर्णन कर रहे हैं जिसका ध्यान साधक को अंत समय में करना चाहिए। वह परमात्मा सर्वज्ञ (कवि), अनादि (पुराण), ब्रह्मांड का शासक, सूक्ष्म से भी सूक्ष्मतर, सबका पोषक और अज्ञान के अंधकार से परे परम प्रकाश स्वरूप है। ऐसे दिव्य स्वरूप का स्मरण करने से जीव परम गति को प्राप्त करता है।
+
+### Translation
+
+He who meditates on the omniscient, the ancient, the ruler, subtler than the subtlest, the sustainer of all, of inconceivable form, resplendent like the sun, and beyond the darkness of ignorance
 
 ### Meaning
 

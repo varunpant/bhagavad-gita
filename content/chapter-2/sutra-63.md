@@ -8,11 +8,10 @@ sutra: 63
 position: 110
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः
 स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 110
 
 
 ### Transliteration
-```
+{{< lines >}}
 krodhādbhavati saṃmohaḥ saṃmohātsmṛtivibhramaḥ
 smṛtibhraṃśād buddhināśo buddhināśātpraṇaśyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्रोध से अत्यन्त मोह उत्पन्न होता है, मोह से स्मृति में भ्रम हो जाता है। स्मृति में भ्रम हो जाने से बुद्धि का नाश हो जाता है और बुद्धि का नाश हो जाने से मनुष्य का पतन हो जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण पतन की क्रमिक प्रक्रिया को समझाते हैं। जब इच्छा पूरी नहीं होती तो क्रोध उत्पन्न होता है, जिससे सोचने-समझने की शक्ति खो जाती है और मोह पैदा होता है। मोह से स्मृति भ्रमित हो जाती है, जिससे सही-गलत का निर्णय करने वाली बुद्धि नष्ट हो जाती है और अंततः मनुष्य का पूर्ण पतन हो जाता है।
+
+### Translation
+
+From anger arises complete delusion; from delusion, bewilderment of memory. From loss of memory, the destruction of intelligence; and from the destruction of intelligence, one perishes.
 
 ### Meaning
 

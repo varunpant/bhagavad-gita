@@ -8,11 +8,10 @@ sutra: 10
 position: 10
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्
 पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ whereas that army of theirs marshelled by Bhima is sufficient.
 
 
 ### Transliteration
-```
+{{< lines >}}
 aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam
 paryāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+भीष्म पितामह द्वारा भली-भाँति रक्षित हमारी वह सेना अपार (अजेय) है, परन्तु भीम द्वारा भली-भाँति रक्षित इन लोगों की यह सेना सीमित है।
 
 ### भावार्थ
 
 इस श्लोक में दुर्योधन अपनी और पाण्डवों की सेना की तुलना कर रहा है। वह द्रोणाचार्य से कहता है कि भीष्म पितामह के नेतृत्व में कौरव सेना अजेय और असीमित है। इसके विपरीत, भीम के नेतृत्व वाली पाण्डव सेना सीमित है और उसे आसानी से हराया जा सकता है। यह दुर्योधन के अहंकार और अपनी सैन्य शक्ति पर उसके अति-आत्मविश्वास को दर्शाता है।
+
+### Translation
+
+That army of ours, perfectly protected by Bhishma, is immeasurable, but this army of theirs, perfectly protected by Bhima, is limited.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 19
 position: 543
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति
 गुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 543
 
 
 ### Transliteration
-```
+{{< lines >}}
 nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati
 guṇebhyaśca paraṃ vetti madbhāvaṃ so'dhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जब द्रष्टा गुणों के अतिरिक्त अन्य किसी को कर्ता नहीं देखता है
+और गुणों से परे परम तत्त्व को जानता है, तब वह मेरे स्वरूप को प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जब एक विवेकशील मनुष्य यह जान लेता है कि संसार के सभी कर्म केवल प्रकृति के तीन गुणों (सत्त्व, रज, तम) की परस्पर क्रिया द्वारा ही किए जा रहे हैं और आत्मा अकर्ता है, तब वह कर्तापन के अहंकार से मुक्त हो जाता है। इसके साथ ही, जब वह गुणों से परे परमात्मा के वास्तविक स्वरूप को पहचान लेता है, तो वह भगवान के दिव्य भाव (मद्भाव) को प्राप्त कर लेता है।
+
+### Translation
+
+When the seer beholds no creator other than the qualities (gunas)
+and knows that which is beyond the qualities, he attains to My state of being
 
 ### Meaning
 

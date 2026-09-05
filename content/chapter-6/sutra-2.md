@@ -8,11 +8,10 @@ sutra: 2
 position: 235
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव
 न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 235
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaṃ saṃnyāsam iti prāhur yogaṃ taṃ viddhi pāṇḍava
 na hy asaṃnyasta-saṅkalpo yogī bhavati kaścana
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पाण्डव! जिसे लोग संन्यास कहते हैं, उसे ही तुम योग (कर्मयोग) समझो;
+क्योंकि संकल्पों (कामनाओं) का त्याग किए बिना कोई भी मनुष्य योगी नहीं हो सकता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण संन्यास (ज्ञानयोग) और कर्मयोग की एकता को स्पष्ट कर रहे हैं। वे अर्जुन को समझाते हैं कि जिसे लोग संन्यास कहते हैं, वह वास्तव में कर्मयोग ही है, क्योंकि दोनों का मूल आधार एक ही है। जब तक कोई मनुष्य फल की इच्छा और कर्तापन के भाव (संकल्प) का त्याग नहीं करता, तब तक वह सच्चा योगी या संन्यासी नहीं बन सकता।
+
+### Translation
+
+O Pandava, know that which they call renunciation to be yoga;
+for no one becomes a yogi without having renounced selfish desire.
 
 ### Meaning
 

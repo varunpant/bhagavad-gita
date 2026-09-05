@@ -8,11 +8,10 @@ sutra: 33
 position: 656
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः
 योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 656
 
 
 ### Transliteration
-```
+{{< lines >}}
 dhṛtyā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ
 yogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जिस अव्यभिचारिणी (एकाग्र) धारणा-शक्ति के द्वारा मनुष्य योग से मन, प्राण और इन्द्रियों की क्रियाओं को धारण करता है, वह धृति सात्त्विकी है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक धृति (धैर्य या संकल्प-शक्ति) की परिभाषा देते हैं। सात्त्विक धृति वह है जो योग के माध्यम से मन, प्राण और इन्द्रियों की चंचल क्रियाओं को नियंत्रित और अनुशासित रखती है। ऐसी संकल्प-शक्ति में कोई भटकाव या स्वार्थ नहीं होता, और यह मनुष्य को आत्म-साक्षात्कार के मार्ग पर अडिग रखती है।
+
+### Translation
+
+O Partha, that unwavering resolve by which one controls the activities of the mind, life-breaths, and senses through yoga, is of the nature of goodness (sattvika)
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 31
 position: 520
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदा भूतपृथग्भावमेकस्थमनुपश्यति
 तत एव च विस्तारं ब्रह्म सम्पद्यते तदा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 520
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadā bhūtapṛthagbhāvam ekastham anupaśyati
 tata eva ca vistāraṃ brahma sampadyate tadā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जब मनुष्य विभिन्न भूतों के पृथक-पृथक भाव को एक ही परमात्मा में स्थित देखता है और उस परमात्मा से ही उन सब का विस्तार देखता है, तब वह ब्रह्म को प्राप्त हो जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जब कोई साधक सभी प्राणियों की विविधता के पीछे छिपी एकता को देख लेता है, तो वह परम सत्य को जान जाता है। वह समझता है कि सभी जीव एक ही परमात्मा से उत्पन्न होते हैं और उसी में स्थित रहते हैं। इस प्रकार की समदर्शिता और अद्वैत दृष्टि प्राप्त होने पर मनुष्य ब्रह्म-भाव को प्राप्त कर लेता है।
+
+### Translation
+
+When one perceives the diverse existence of living beings as centered in the One, and their expansion from That alone, then one attains Brahman.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 28
 position: 75
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत
 अव्यक्तनिधनान्येव तत्र का परिदेवना
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 75
 
 
 ### Transliteration
-```
+{{< lines >}}
 avyaktādīni bhūtāni vyaktamadhyāni bhārata
 avyaktanidhanānyeva tatra kā paridevanā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी! सम्पूर्ण प्राणी जन्म से पहले अप्रकट थे, मध्य में (जीवन काल में) प्रकट हैं और मृत्यु के बाद फिर से अप्रकट हो जाने वाले ही हैं। अतः इसमें शोक करने की क्या बात है?
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को भौतिक शरीर की क्षणभंगुरता समझाते हैं। जन्म से पूर्व सभी प्राणी अप्रकट अवस्था में होते हैं और मृत्यु के पश्चात पुनः उसी अप्रकट अवस्था में विलीन हो जाते हैं। केवल जीवन का मध्य भाग ही दृष्टिगोचर होता है, इसलिए इस अपरिहार्य चक्र के विषय में शोक करना व्यर्थ है।
+
+### Translation
+
+O descendant of Bharata, all created beings are unmanifest in their beginning, manifest in their middle state, and unmanifest again when annihilated. What need is there for lamentation?
 
 ### Meaning
 

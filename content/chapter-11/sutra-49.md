@@ -8,11 +8,10 @@ sutra: 49
 position: 463
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मा ते व्यथा मा च विमूढभावो    दृष्ट्वा रूपं घोरमीदृङ्ममेदम्
 व्यपेतभीः प्रीतमनाः पुनस्त्वं    तदेव मे रूपमिदं प्रपश्य
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 463
 
 
 ### Transliteration
-```
-mā te vyathā mā ca vimūḍhabhāvo
-dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam
-vyapetabhīḥ prītamanāḥ punastvaṃ
-tadeva me rūpamidaṃ prapasya
+{{< lines >}}
+mā te vyathā mā ca vimūḍhabhāvo dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam
+vyapetabhīḥ prītamanāḥ punastvaṃ tadeva me rūpamidaṃ prapasya
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मेरे इस प्रकार के इस विकराल रूप को देखकर न तो तुम्हें भय होना चाहिए और न ही व्याकुलता होनी चाहिए। भय से मुक्त और प्रसन्न मन वाले होकर तुम मेरे उसी (सौम्य) रूप को पुनः देखो।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को आश्वस्त कर रहे हैं कि उनके अत्यंत भयानक विश्वरूप को देखकर अर्जुन को भयभीत या भ्रमित होने की आवश्यकता नहीं है। वे अर्जुन को सांत्वना देते हुए अपने सौम्य, चतुर्भुज रूप को पुनः प्रकट करने का आश्वासन देते हैं। यह श्लोक भगवान की अपने भक्त के प्रति असीम करुणा और संवेदनशीलता को दर्शाता है।
+
+### Translation
+
+Do not be afraid, and let there be no bewilderment in you upon seeing this terrible form of Mine. Free from fear and with a glad heart, behold again that very same form of Mine.
 
 ### Meaning
 

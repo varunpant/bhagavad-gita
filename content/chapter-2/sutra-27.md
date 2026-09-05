@@ -8,11 +8,10 @@ sutra: 27
 position: 74
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च
 तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 74
 
 
 ### Transliteration
-```
+{{< lines >}}
 jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca
 tasmādaparihārye'rthe na tvaṃ śocitumarhasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि जिसने जन्म लिया है उसकी मृत्यु निश्चित है, और जो मर गया है उसका जन्म निश्चित है। इसलिए इस अपरिहार्य विषय में तुम्हें शोक नहीं करना चाहिए।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को जन्म और मृत्यु के अटल चक्र के बारे में समझाते हैं। शरीर नश्वर है, इसलिए जिसने जन्म लिया है उसकी मृत्यु तय है और मृत्यु के बाद आत्मा का नया जन्म भी निश्चित है। प्रकृति के इस अपरिहार्य नियम को बदला नहीं जा सकता, अतः इस विषय पर शोक करना व्यर्थ है।
+
+### Translation
+
+For one who is born, death is certain, and for one who is dead, birth is certain. Therefore, in this inevitable situation, you should not grieve.
 
 ### Meaning
 

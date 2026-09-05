@@ -8,11 +8,10 @@ sutra: 26
 position: 306
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वेदाहं समतीतानि वर्तमानानि चार्जुन
 भविष्याणि च भूतानि मां तु वेद न कश्चन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 306
 
 
 ### Transliteration
-```
+{{< lines >}}
 vedāhaṃ samatītāni vartamānāni cārjuna
 bhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! मैं भूतकाल में व्यतीत हुए, वर्तमान में स्थित और भविष्य में होने वाले सभी भूतों (जीवों) को जानता हूँ, परन्तु मुझे कोई भी नहीं जानता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी सर्वज्ञता और माया की शक्ति को प्रकट करते हैं। वे काल के तीनों विभागों—भूत, वर्तमान और भविष्य—के सभी प्राणियों को पूर्णतः जानते हैं। इसके विपरीत, साधारण मनुष्य उनकी योगमाया से मोहित होने के कारण उनके वास्तविक अविनाशी स्वरूप को नहीं जान पाते।
+
+### Translation
+
+O Arjuna, I know all beings of the past, the present, and those that are yet to come in the future; but Me, no one knows.
 
 ### Meaning
 

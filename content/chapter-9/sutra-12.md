@@ -8,11 +8,10 @@ sutra: 12
 position: 350
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः
 राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 350
 
 
 ### Transliteration
-```
+{{< lines >}}
 moghāśā moghakarmāṇo moghajñānā vicetasaḥ
 rākṣasīmāsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+व्यर्थ आशा वाले, व्यर्थ कर्म वाले, व्यर्थ ज्ञान वाले और विक्षिप्त चित्त वाले अज्ञानी लोग, राक्षसी, आसुरी और मोहिनी प्रकृति को ही धारण किए रहते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन लोगों के स्वभाव का वर्णन करते हैं जो उनके दिव्य स्वरूप को नहीं पहचानते। ऐसे लोग व्यर्थ की इच्छाओं, निष्फल कर्मों और निरर्थक ज्ञान में उलझे रहते हैं। उनका विवेक नष्ट हो जाता है और वे तामसी तथा आसुरी प्रवृत्तियों के वश में होकर अज्ञान के अंधकार में भटकते रहते हैं।
+
+### Translation
+
+Of vain hopes, of vain actions, of vain knowledge, and senseless, they verily partake of the delusive nature of fiends and demons
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 47
 position: 670
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्
 स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 670
 
 
 ### Transliteration
-```
+{{< lines >}}
 śreyān svadharmo viguṇaḥ paradharmāt svanuṣṭhitāt
 svabhāvaniyataṃ karma kurvannāpnoti kilbiṣam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अच्छी प्रकार आचरण किए हुए दूसरे के धर्म से, गुणरहित भी अपना धर्म श्रेष्ठ है।
+अपने स्वभाव से नियत किए हुए कर्म को करता हुआ मनुष्य पाप को प्राप्त नहीं होता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण स्वधर्म के पालन के महत्त्व पर बल देते हैं। भले ही किसी दूसरे का कर्तव्य देखने में अधिक सरल या आकर्षक लगे, फिर भी मनुष्य के लिए अपने स्वभाव के अनुकूल नियत कर्म करना ही श्रेयस्कर है। अपने सहज स्वभाव के अनुसार कर्म करने से मनुष्य पाप का भागी नहीं बनता, क्योंकि वह प्रकृति के नियमों के अनुकूल कार्य कर रहा होता है।
+
+### Translation
+
+Better is one's own duty, though devoid of merit, than the duty of another well performed.
+Doing the duty prescribed by one's own nature, one incurs no sin.
 
 ### Meaning
 

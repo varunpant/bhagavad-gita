@@ -8,11 +8,10 @@ sutra: 17
 position: 431
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 किरीटिनं गदिनं चक्रिणं च     तेजोराशिं सर्वतोदीप्तिमन्तम्
 पश्यामि त्वां दुर्निरीक्ष्यं समन्ता     द्दीप्तानलार्कद्युतिमप्रमेयम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ everywhere, very hard to look at, blazing all round like burning fire and the su
 
 
 ### Transliteration
-```
+{{< lines >}}
 kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvatodīptimantam
 paśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārkadyutimaprameyam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं आपको मुकुट धारण किए हुए, गदा धारण किए हुए और चक्र धारण किए हुए, सब ओर से प्रकाशमान तेज की राशि के रूप में देख रहा हूँ। प्रज्वलित अग्नि और सूर्य के समान कान्ति वाले, सब ओर से देखने में अत्यंत कठिन और अप्रमेय (असीम) स्वरूप वाले आपको मैं देख रहा हूँ।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के विराट रूप के ऐश्वर्य और तेज का वर्णन कर रहे हैं। वे भगवान को दिव्य आभूषणों और अस्त्रों से सुसज्जित एक असीम प्रकाश पुंज के रूप में देखते हैं। यह तेज इतना तीव्र है कि सूर्य और अग्नि की भाँति इसे सीधे आँखों से देखना अत्यंत कठिन है।
+
+### Translation
+
+I see You adorned with a diadem, holding a mace and a discus, a mass of splendor shining everywhere. I see You, who are difficult to look upon, blazing all around like a burning fire and the sun, and who are immeasurable.
 
 ### Meaning
 

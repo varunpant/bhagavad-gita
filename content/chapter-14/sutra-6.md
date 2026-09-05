@@ -8,11 +8,10 @@ sutra: 6
 position: 530
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम्
 सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 530
 
 
 ### Transliteration
-```
+{{< lines >}}
 tatra sattvaṃ nirmalatvāt prakāśakam anāmayam
 sukhasaṅgena badhnāti jñānasaṅgena cānagha
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे निष्पाप अर्जुन! उन तीनों गुणों में से सत्त्वगुण अपने निर्मल होने के कारण प्रकाश करने वाला और उपद्रवरहित है, वह सुख की आसक्ति से और ज्ञान की आसक्ति से जीवात्मा को बाँधता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सत्त्वगुण के लक्षणों और उसके द्वारा जीवात्मा के बंधन की प्रक्रिया का वर्णन करते हैं। सत्त्वगुण अत्यंत पवित्र, प्रकाशमान और शांत होता है, जिससे मनुष्य में ज्ञान और सुख का उदय होता है। परंतु, यह गुण भी जीवात्मा को 'मैं सुखी हूँ' या 'मैं ज्ञानी हूँ' इस अहंकार और आसक्ति में बाँधकर संसार चक्र में फंसाए रखता है।
+
+### Translation
+
+O sinless one, among these, the quality of goodness (sattva), being pure, is illuminating and free from disease; it binds the soul through attachment to happiness and attachment to knowledge
 
 ### Meaning
 

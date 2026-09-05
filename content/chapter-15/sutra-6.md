@@ -8,11 +8,10 @@ sutra: 6
 position: 557
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न तद्भासयते सूर्यो न शशाङ्को न पावकः
 यद्गत्वा न निवर्तन्ते तद्धाम परमं मम
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 557
 
 
 ### Transliteration
-```
+{{< lines >}}
 na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ
 yad gatvā na nivartante tad dhāma paramaṃ mama
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उस परम पद को न सूर्य प्रकाशित करता है, न चन्द्रमा और न अग्नि ही
+जहाँ जाकर मनुष्य वापस नहीं लौटते हैं, वही मेरा परम धाम है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपने परम धाम के स्वरूप का वर्णन कर रहे हैं। वह धाम भौतिक प्रकाश के स्रोतों जैसे सूर्य, चन्द्रमा या अग्नि पर निर्भर नहीं है क्योंकि वह स्वयं-प्रकाशित है। जो जीवात्मा उस परम पद को प्राप्त कर लेती है, वह पुनः इस दुःखमय संसार के जन्म-मरण के चक्र में वापस नहीं आती।
+
+### Translation
+
+Neither does the sun illuminate it, nor the moon, nor fire
+That is My supreme abode, having gone to which they do not return
 
 ### Meaning
 

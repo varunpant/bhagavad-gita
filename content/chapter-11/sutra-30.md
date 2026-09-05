@@ -8,11 +8,10 @@ sutra: 30
 position: 444
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 लेलिह्यसे ग्रसमानः समन्ता     ल्लोकान्समग्रान्वदनैर्ज्वलद्भिः
 तेजोभिरापूर्य जगत्समग्रं     भासस्तवोग्राः प्रतपन्ति विष्णो
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 444
 
 
 ### Transliteration
-```
-lelihyase grasamānaḥ samantāl
-lokānsamagrānvadanairjvaladbhiḥ
-tejobhirāpūrya jagatsamagraṃ
-bhāsastavogrāḥ pratapanti viṣṇo
+{{< lines >}}
+lelihyase grasamānaḥ samantāl lokānsamagrānvadanairjvaladbhiḥ
+tejobhirāpūrya jagatsamagraṃ bhāsastavogrāḥ pratapanti viṣṇo
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आप अपने प्रज्वलित मुखों द्वारा सभी लोकों को सब ओर से निगलते हुए चाट रहे हैं। हे विष्णु! आपका उग्र प्रकाश अपने तेजों से सम्पूर्ण जगत् को आपूरित करके तपा रहा है।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के अत्यंत भयानक विश्वरूप का वर्णन कर रहे हैं। वे देखते हैं कि भगवान के अनेक प्रज्वलित मुख समस्त ब्रह्मांड को निगल रहे हैं और उनकी उग्र किरणें पूरे संसार को तपा रही हैं। यहाँ 'विष्णु' सम्बोधन सर्वव्यापी परमेश्वर के रूप को दर्शाता है जो संहारक रूप में प्रकट हुए हैं।
+
+### Translation
+
+Devouring all the worlds from every side with Your flaming mouths, You are licking them up. Filling the entire universe with Your effulgence, Your fierce rays are scorching it, O Vishnu.
 
 ### Meaning
 

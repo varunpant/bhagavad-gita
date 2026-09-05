@@ -8,11 +8,10 @@ sutra: 15
 position: 353
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते
 एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 353
 
 
 ### Transliteration
-```
+{{< lines >}}
 jñānayajñena cāpyanye yajanto māmupāsate
 ekatvena pṛthaktvena bahudhā viśvatomukham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और दूसरे लोग ज्ञानयज्ञ के द्वारा मेरा पूजन करते हुए, मुझे एकभाव से, पृथक् भाव से तथा बहुत प्रकार से विश्वरूप में स्थित मेरी उपासना करते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उन साधकों का वर्णन कर रहे हैं जो ज्ञान मार्ग का आश्रय लेते हैं। वे साधक ज्ञानयज्ञ के माध्यम से परमात्मा की उपासना करते हैं। कुछ साधक अभेद भाव (एकत्व) से, कुछ भेद भाव (पृथक्त्व) से और कुछ भगवान के विराट विश्वरूप (बहुधा) की उपासना करते हैं।
+
+### Translation
+
+And others also, sacrificing with the wisdom-sacrifice, worship Me, who am multi-faced, in various ways—as one, as distinct, and as manifold
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 5
 position: 628
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत्
 यज्ञो दानं तपश्चैव पावनानि मनीषिणाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 628
 
 
 ### Transliteration
-```
+{{< lines >}}
 yajñadānatapaḥkarma na tyājyaṃ kāryameva tat
 yajño dānaṃ tapaścaiva pāvanāni manīṣiṇām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यज्ञ, दान और तप रूप कर्म त्यागने योग्य नहीं हैं, बल्कि वे अवश्य करने योग्य ही हैं
+क्योंकि यज्ञ, दान और तप बुद्धिमान मनुष्यों को भी पवित्र करने वाले हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि यज्ञ, दान और तपस्या जैसे श्रेष्ठ कर्मों का कभी भी परित्याग नहीं करना चाहिए। ये कर्म मनुष्य के अंतःकरण को शुद्ध करते हैं। यहाँ तक कि जो ज्ञानी और मनीषी पुरुष हैं, उनके लिए भी ये कर्म अत्यंत पावन और कल्याणकारी माने गए हैं।
+
+### Translation
+
+Acts of sacrifice, charity, and penance should not be abandoned, but must indeed be performed
+for sacrifice, charity, and penance are purifying even for the wise
 
 ### Meaning
 

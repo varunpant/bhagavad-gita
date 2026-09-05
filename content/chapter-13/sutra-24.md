@@ -8,11 +8,10 @@ sutra: 24
 position: 513
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 य एवं वेत्ति पुरुषं प्रकृतिं च गुणैःसह
 सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 513
 
 
 ### Transliteration
-```
+{{< lines >}}
 ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha
 sarvathā vartamāno'pi na sa bhūyo'bhijāyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य इस प्रकार पुरुष को और गुणों के सहित प्रकृति को जानता है, वह सब प्रकार से वर्तमान रहता हुआ भी फिर जन्म नहीं लेता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्म-ज्ञान के फल का वर्णन कर रहे हैं। जो व्यक्ति पुरुष (चेतना) और प्रकृति (भौतिक जगत) के वास्तविक स्वरूप को उनके गुणों सहित जान लेता है, वह जन्म-मरण के चक्र से मुक्त हो जाता है। ऐसा ज्ञानी पुरुष वर्तमान में किसी भी परिस्थिति या कर्तव्य कर्म में स्थित होने पर भी पुनः संसार में जन्म नहीं लेता।
+
+### Translation
+
+He who thus knows the Purusha (Spirit) and Prakriti (Nature) along with the Gunas (modes), in whatever way he may act, is not born again.
 
 ### Meaning
 

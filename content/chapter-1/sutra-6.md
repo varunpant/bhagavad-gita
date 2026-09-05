@@ -8,11 +8,10 @@ sutra: 6
 position: 6
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्
 सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ Draupadi, all of great chariots (great heroes).
 
 
 ### Transliteration
-```
+{{< lines >}}
 yudhāmanyuśca vikrānta uttamaujāśca vīryavān
 saubhadro draupadeyāśca sarva eva mahārathāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और पराक्रमी युधामन्यु, तथा बलवान उत्तमौजा, सुभद्रा के पुत्र और द्रौपदी के पुत्र—ये सभी निश्चय ही महारथी हैं।
 
 ### भावार्थ
 
 दुर्योधन अपने गुरु द्रोणाचार्य को पाण्डव सेना के प्रमुख योद्धाओं के बारे में बताना जारी रखता है। वह पराक्रमी युधामन्यु, बलवान उत्तमौजा, सुभद्रा के पुत्र अभिमन्यु और द्रौपदी के पाँचों पुत्रों का उल्लेख करता है। इन सभी को 'महारथी' (दस हजार धनुर्धरों से अकेले युद्ध करने में सक्षम योद्धा) बताकर दुर्योधन शत्रु सेना की विशाल शक्ति और उनके द्वारा प्रस्तुत चुनौती को स्वीकार कर रहा है।
+
+### Translation
+
+And the valiant Yudhamanyu, the powerful Uttamauja, the son of Subhadra, and the sons of Draupadi—all of them are indeed great chariot-warriors.
 
 ### Meaning
 

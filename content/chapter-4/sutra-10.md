@@ -8,11 +8,10 @@ sutra: 10
 position: 172
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वीतरागभयक्रोधा मन्मया मामुपाश्रिताः
 बहवो ज्ञानतपसा पूता मद्भावमागताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 172
 
 
 ### Transliteration
-```
+{{< lines >}}
 vītarāgabhayakrodhā manmayā māmupāśritāḥ
 bahavo jñānatapasā pūtā madbhāvamāgatāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आसक्ति, भय और क्रोध से मुक्त, मुझमें पूर्णतया तल्लीन और मेरी ही शरण में आए हुए बहुत से लोग ज्ञान रूपी तपस्या से पवित्र होकर मेरे दिव्य भाव को प्राप्त हो चुके हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण बताते हैं कि उन्हें प्राप्त करना कोई नया या असंभव मार्ग नहीं है। अतीत में भी ऐसे अनेक साधक हुए हैं जिन्होंने स्वयं को सांसारिक आसक्ति, भय और क्रोध से मुक्त कर लिया और पूर्ण रूप से भगवान की शरण ग्रहण की। ज्ञान रूपी तपस्या से अपने अंतःकरण को शुद्ध करके उन्होंने भगवान के दिव्य स्वरूप और सर्वोच्च प्रेम को प्राप्त किया है।
+
+### Translation
+
+Freed from attachment, fear, and anger, fully absorbed in Me, and taking refuge in Me, many persons, purified by the austerity of knowledge, have attained My transcendental nature.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 326
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन
 मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 326
 
 
 ### Transliteration
-```
+{{< lines >}}
 ābrahmabhuvanāllokāḥ punarāvartino'rjuna
 māmupetya tu kaunteya punarjanma na vidyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! ब्रह्मलोक तक के सभी लोक पुनरावर्ती स्वभाव वाले हैं
+परन्तु हे कुन्तीपुत्र! मुझे प्राप्त करके पुनर्जन्म नहीं होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि ब्रह्मांड के सर्वोच्च लोक, ब्रह्मलोक तक जाने वाले जीवों को भी अपने पुण्यों के क्षीण होने पर पुनः मृत्युलोक में लौटना पड़ता है। भौतिक सृष्टि के सभी लोक नाशवान और पुनरावृत्ति के चक्र से बंधे हैं। इसके विपरीत, जो परमेश्वर के दिव्य धाम को प्राप्त कर लेता है, वह जन्म-मृत्यु के इस चक्र से सदा के लिए मुक्त हो जाता है।
+
+### Translation
+
+O Arjuna, from the realm of Brahma downwards, all worlds are subject to return
+but, O son of Kunti, upon reaching Me, there is no rebirth
 
 ### Meaning
 

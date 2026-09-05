@@ -8,11 +8,10 @@ sutra: 39
 position: 272
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः
 त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 272
 
 
 ### Transliteration
-```
+{{< lines >}}
 etanme saṃśayaṃ kṛṣṇa chettumarhasyaśeṣataḥ
 tvadanyaḥ saṃśayasyāsya chettā na hyupapadyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कृष्ण! मेरे इस संशय को पूर्ण रूप से नष्ट करने के लिए आप ही योग्य हैं
+क्योंकि आपके अतिरिक्त इस संशय को दूर करने वाला दूसरा कोई मिलना संभव नहीं है
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण से प्रार्थना कर रहे हैं कि वे उनके मन में उठने वाले इस संशय को पूरी तरह से मिटा दें। अर्जुन का मानना है कि भूत, वर्तमान और भविष्य के ज्ञाता होने के कारण केवल कृष्ण ही इस परम रहस्य को स्पष्ट कर सकते हैं। उनके अतिरिक्त कोई भी अन्य गुरु या ऋषि इस संशय का पूर्ण समाधान करने में समर्थ नहीं है।
+
+### Translation
+
+O Krishna, please dispel this doubt of mine completely
+for there is no one else to be found besides You who can destroy this doubt
 
 ### Meaning
 

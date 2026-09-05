@@ -8,11 +8,10 @@ sutra: 31
 position: 264
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः
 सर्वथा वर्तमानोऽपि स योगी मयि वर्तते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 264
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ
 sarvathā vartamāno'pi sa yogī mayi vartate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो योगी एकता में स्थित होकर सभी भूतों में स्थित मुझको भजता है, वह सब प्रकार से व्यवहार करता हुआ भी मुझमें ही वर्तता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्मज्ञान की पराकाष्ठा का वर्णन कर रहे हैं। जब योगी सभी प्राणियों में एक ही परमात्मा का दर्शन करता है और उस अद्वैत भाव में स्थित हो जाता है, तब उसका हर कर्म परमात्मा की सेवा बन जाता है। ऐसा सिद्ध योगी बाह्य रूप से चाहे किसी भी परिस्थिति में कार्य कर रहा हो, वह सदा आंतरिक रूप से भगवान में ही लीन रहता है।
+
+### Translation
+
+The yogi who, established in unity, worships Me who dwells in all beings, abides in Me, no matter how he may act in all ways.
 
 ### Meaning
 

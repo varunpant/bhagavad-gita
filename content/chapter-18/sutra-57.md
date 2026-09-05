@@ -8,11 +8,10 @@ sutra: 57
 position: 680
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः
 बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 680
 
 
 ### Transliteration
-```
+{{< lines >}}
 cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ
 buddhiyogamupāśritya maccittaḥ satataṃ bhava
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मन से सब कर्मों को मुझमें अर्पण करके, मेरे परायण होकर तथा बुद्धियोग का आश्रय लेकर निरंतर मुझमें चित्तवाला हो
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को कर्मयोग और भक्तियोग के समन्वय का उपदेश दे रहे हैं। वे अर्जुन से कहते हैं कि अपने सभी कर्मों को मानसिक रूप से ईश्वर को समर्पित कर दें और बुद्धि को स्थिर रखकर निरंतर परमात्मा का ही चिंतन करें। ऐसा करने से मनुष्य कर्मों के बंधन से मुक्त होकर परम शांति को प्राप्त करता है।
+
+### Translation
+
+Mentally resigning all actions unto Me, regarding Me as the supreme goal, and resorting to the yoga of intellect, keep your mind ever fixed on Me
 
 ### Meaning
 

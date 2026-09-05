@@ -8,11 +8,10 @@ sutra: 32
 position: 194
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे
 कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 194
 
 
 ### Transliteration
-```
+{{< lines >}}
 evaṃ bahuvidhā yajñā vitatā brahmaṇo mukhe
 karmajānviddhi tānsarvānevaṃ jñātvā vimokṣyase
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस प्रकार बहुत प्रकार के यज्ञ वेदों की वाणी में विस्तार से बताए गए हैं। उन सबको तुम कर्म से उत्पन्न हुआ जानो। इस प्रकार जानकर तुम मुक्त हो जाओगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण विभिन्न यज्ञों के वर्णन का समापन करते हुए कहते हैं कि ये सभी यज्ञ वेदों द्वारा प्रमाणित हैं। वे स्पष्ट करते हैं कि ये सभी यज्ञ शारीरिक, मानसिक या वाचिक कर्मों से ही उत्पन्न होते हैं। जब मनुष्य यह जान लेता है कि आत्मा इन कर्मों से परे है, तो वह इस ज्ञान के माध्यम से जन्म-मृत्यु के बंधन से मुक्त हो जाता है।
+
+### Translation
+
+Thus, many types of sacrifices are spread out in the mouth of the Vedas. Know them all to be born of action. Knowing thus, you will be liberated.
 
 ### Meaning
 

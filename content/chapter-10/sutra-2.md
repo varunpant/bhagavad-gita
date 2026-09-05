@@ -8,11 +8,10 @@ sutra: 2
 position: 374
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न मे विदुः सुरगणाः प्रभवं न महर्षयः
 अहमादिर्हि देवानां महर्षीणां च सर्वशः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 374
 
 
 ### Transliteration
-```
+{{< lines >}}
 na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ
 ahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मेरी उत्पत्ति (या ऐश्वर्य) को न तो देवतागण जानते हैं और न ही महर्षिजन
+क्योंकि मैं सब प्रकार से देवताओं और महर्षियों का भी आदि कारण हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को अपनी सर्वोपरि स्थिति और अनादि स्वरूप के बारे में बता रहे हैं। वे कहते हैं कि देवता और महान ऋषि भी उनकी उत्पत्ति के रहस्य को नहीं समझ सकते, क्योंकि वे स्वयं उन सभी के आदि कारण हैं। सृष्टि के सभी जीवों की बुद्धि और अस्तित्व भगवान से ही उत्पन्न होते हैं, इसलिए कोई भी अपनी सीमित बुद्धि से उनके पूर्ण स्वरूप को नहीं जान सकता।
+
+### Translation
+
+Neither the hosts of demigods nor the great sages know My origin
+for I am the source of the demigods and the great sages in every respect
 
 ### Meaning
 

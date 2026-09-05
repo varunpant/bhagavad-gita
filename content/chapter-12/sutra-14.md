@@ -8,11 +8,10 @@ sutra: 14
 position: 483
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः
 मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 483
 
 
 ### Transliteration
-```
+{{< lines >}}
 santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ
 mayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो निरंतर संतुष्ट है, मन और इंद्रियों सहित शरीर को वश में किए हुए है, दृढ़ निश्चय वाला है, और जिसने अपना मन तथा बुद्धि मुझे अर्पित कर दिए हैं—ऐसा मेरा वह भक्त मुझे प्रिय है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस भक्त के आंतरिक गुणों का वर्णन करते हैं जो उन्हें अत्यंत प्रिय है। वह भक्त हर परिस्थिति में संतुष्ट रहता है, अपनी इंद्रियों और मन पर नियंत्रण रखता है, और उसका ईश्वर में अटूट विश्वास होता है। अपने मन और बुद्धि को भगवान में विलीन करके वह पूर्ण भक्ति का अनुभव करता है।
+
+### Translation
+
+He who is ever content, self-controlled, possessed of firm conviction, with his mind and intellect dedicated to Me—he, My devotee, is dear to Me.
 
 ### Meaning
 

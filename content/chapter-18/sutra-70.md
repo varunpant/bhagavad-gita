@@ -8,11 +8,10 @@ sutra: 70
 position: 693
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अध्येष्यते च य इमं धर्म्यं संवादमावयोः
 ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 693
 
 
 ### Transliteration
-```
+{{< lines >}}
 adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ
 jñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और जो मनुष्य हम दोनों के इस धर्ममय संवाद का अध्ययन करेगा, उसके द्वारा मैं ज्ञानयज्ञ से पूजित होऊँगा — ऐसा मेरा मत है।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण यहाँ गीता के अध्ययन की महिमा बता रहे हैं। वे कहते हैं कि जो कोई भी अर्जुन और उनके बीच हुए इस पवित्र संवाद का श्रद्धापूर्वक अध्ययन करता है, वह वास्तव में ज्ञान के यज्ञ द्वारा भगवान की आराधना करता है। यह ज्ञानयज्ञ अन्य भौतिक यज्ञों से श्रेष्ठ माना गया है क्योंकि यह सीधे परमात्मा के स्वरूप का बोध कराता है।
+
+### Translation
+
+And whoever studies this sacred dialogue of ours, by him I shall be worshipped through the sacrifice of knowledge — such is My opinion.
 
 ### Meaning
 

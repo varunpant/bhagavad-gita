@@ -8,11 +8,10 @@ sutra: 14
 position: 585
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 असौ मया हतः शत्रुर्हनिष्ये चापरानपि
 ईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 585
 
 
 ### Transliteration
-```
+{{< lines >}}
 asau mayā hataḥ śatrurhaniṣye cāparānapi
 īśvaro'hamahaṃ bhogī siddho'haṃ balavānsukhī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह शत्रु मेरे द्वारा मारा गया और अन्य शत्रुओं को भी मैं मार डालूँगा
+मैं ही ईश्वर हूँ, मैं ही भोगी हूँ, मैं ही सिद्ध, बलवान और सुखी हूँ
 
 ### भावार्थ
 
 इस श्लोक में आसुरी प्रवृत्ति वाले मनुष्यों की अहंकारयुक्त सोच का वर्णन किया गया है। वे अपने शत्रुओं का नाश करने में गर्व महसूस करते हैं और स्वयं को ही सर्वशक्तिमान, नियंता तथा समस्त सुखों का एकमात्र भोक्ता मानते हैं। वे अपनी शक्ति और सफलता के मद में चूर रहते हैं।
+
+### Translation
+
+This enemy has been slain by me, and I shall slay yet others too
+I am the lord, I am the enjoyer, I am successful, powerful, and happy
 
 ### Meaning
 

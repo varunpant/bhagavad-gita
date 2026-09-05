@@ -8,11 +8,10 @@ sutra: 59
 position: 682
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे
 मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 682
 
 
 ### Transliteration
-```
+{{< lines >}}
 yad ahaṅkāram āśritya na yotsya iti manyase
 mithyaiṣa vyavasāyas te prakṛtis tvāṃ niyokṣyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि तुम अहंकार का आश्रय लेकर यह मानते हो कि "मैं युद्ध नहीं करूँगा", तो तुम्हारा यह निश्चय झूठा है, क्योंकि तुम्हारी प्रकृति तुम्हें युद्ध में लगा देगी।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि उनका युद्ध न करने का निर्णय उनके अहंकार पर आधारित है और वह व्यर्थ है। अर्जुन का क्षत्रिय स्वभाव (प्रकृति) उन्हें शांत बैठने नहीं देगा। अंततः उनकी आंतरिक प्रकृति उन्हें युद्ध करने के लिए विवश कर देगी, इसलिए स्वेच्छा से कर्तव्य का पालन करना ही श्रेयस्कर है।
+
+### Translation
+
+If, relying on egotism, you think, "I will not fight," this resolve of yours is vain; your own nature will compel you.
 
 ### Meaning
 

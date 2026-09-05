@@ -8,11 +8,10 @@ sutra: 18
 position: 542
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः
 जघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 542
 
 
 ### Transliteration
-```
+{{< lines >}}
 ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ
 jaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सत्त्वगुण में स्थित लोग ऊपर की ओर (उच्च लोकों को) जाते हैं, रजोगुण में स्थित लोग मध्य में (मनुष्य लोक में) रहते हैं, और निकृष्ट तमोगुण की वृत्तियों में स्थित तामसी लोग नीचे की ओर (पशु-पक्षी आदि योनियों तथा नरकों में) जाते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तीनों गुणों के प्रभाव से होने वाली गतियों का वर्णन कर रहे हैं। सत्त्वगुणी व्यक्ति अपनी पवित्रता के कारण उच्च दिव्य लोकों को प्राप्त करते हैं। रजोगुणी व्यक्ति अपनी सांसारिक इच्छाओं के कारण पुनः मृत्युलोक में जन्म लेते हैं, जबकि तमोगुणी व्यक्ति अपने अज्ञान और आलस्य के कारण पशु योनियों या नरक जैसे निम्न स्तरों में गिर जाते हैं।
+
+### Translation
+
+Those situated in the mode of goodness rise upward; those situated in the mode of passion remain in the middle; and those situated in the lowest mode of ignorance go downward.
 
 ### Meaning
 

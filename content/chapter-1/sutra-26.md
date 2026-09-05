@@ -8,11 +8,10 @@ sutra: 26
 position: 26
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तत्रापश्यत्स्थितान्पार्थः पितृ़नथ पितामहान्
 आचार्यान्मातुलान्भ्रातृ़न्पुत्रान्पौत्रान्सखींस्तथा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ and friends too.
 
 
 ### Transliteration
-```
+{{< lines >}}
 tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān
 ācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वहाँ पृथापुत्र अर्जुन ने पिताओं (चाचा-ताऊओं), दादाओं, गुरुओं, मामाओं, भाइयों, पुत्रों, पौत्रों तथा मित्रों को खड़े हुए देखा।
 
 ### भावार्थ
 
 रथ के दोनों सेनाओं के मध्य खड़े होने पर अर्जुन ने युद्धभूमि का अवलोकन किया। वहाँ उन्होंने अपने ही सगे-संबंधियों, गुरुजनों और मित्रों को युद्ध के लिए तत्पर देखा। अपने प्रियजनों को शत्रु के रूप में सामने देखकर अर्जुन के मन में गहरा मोह और विषाद उत्पन्न होने लगा।
+
+### Translation
+
+There, Arjuna saw stationed fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and friends as well.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 11
 position: 215
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि
 योगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वाऽऽत्मशुद्धये
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 215
 
 
 ### Transliteration
-```
+{{< lines >}}
 kāyena manasā buddhyā kevalairindriyairapi
 yoginaḥ karma kurvanti saṅgaṃ tyaktvā''tmaśuddhaye
+{{< /lines >}}
 
-```
+### अनुवाद
+
+योगी जन आसक्ति को त्यागकर केवल शरीर, मन, बुद्धि और इन्द्रियों के द्वारा भी आत्म-शुद्धि के लिए कर्म करते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक सच्चे कर्मयोगी की मानसिकता का वर्णन करते हैं। ऐसे साधक कर्म के फलों के प्रति किसी भी प्रकार की स्वार्थपूर्ण आसक्ति के बिना अपने सभी कर्तव्य निभाते हैं। वे अपने शरीर, मन, बुद्धि और इन्द्रियों का उपयोग केवल उपकरण के रूप में करते हैं, और अपने सभी कर्मों को अंतःकरण की शुद्धि के लिए समर्पित कर देते हैं।
+
+### Translation
+
+The yogis, having abandoned attachment, perform actions merely with the body, mind, intellect, and even the senses, for the purification of the self.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 29
 position: 367
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः
 ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 367
 
 
 ### Transliteration
-```
+{{< lines >}}
 samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ
 ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं सब भूतों में सम हूँ, न कोई मेरा अप्रिय है और न प्रिय है
+परन्तु जो भक्त प्रेमपूर्वक मुझको भजते हैं, वे मुझमें हैं और मैं भी उनमें हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी समता और भक्तों के प्रति अपने विशेष संबंध को स्पष्ट करते हैं। वे कहते हैं कि परमात्मा के रूप में वे सभी प्राणियों के लिए समान हैं और किसी के प्रति उनका पक्षपात नहीं है। परन्तु जो अनन्य भक्ति से उनकी शरण लेते हैं, वे अपनी भक्ति के कारण भगवान के अत्यंत निकट आ जाते हैं, ठीक वैसे ही जैसे अग्नि के पास जाने वाले को ही उसकी गर्मी मिलती है।
+
+### Translation
+
+I am equal toward all living beings; there is no one hateful to Me nor dear
+But those who worship Me with devotion are in Me, and I am also in them
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 6
 position: 53
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न चैतद्विद्मः कतरन्नो गरीयो    यद्वा जयेम यदि वा नो जयेयुः
 यानेव हत्वा न जिजीविषाम    स्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 53
 
 
 ### Transliteration
-```
+{{< lines >}}
 na caitadvidmaḥ kataranno garīyo yadvā jayema yadi vā no jayeyuḥ
 yāneva hatvā na jijīviṣāmaste'vasthitāḥ pramukhe dhārtarāṣṭrāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और हम यह भी नहीं जानते कि हमारे लिए दोनों में से क्या बेहतर है: हम उन्हें जीतें या वे हमें जीतें। जिन्हें मारकर हम जीना भी नहीं चाहते, वे ही धृतराष्ट्र के पुत्र हमारे सामने खड़े हैं।
 
 ### भावार्थ
 
 अर्जुन अपने गहरे नैतिक संकट और युद्ध के परिणाम को लेकर अपनी दुविधा व्यक्त करते हैं। वह अनिश्चित हैं कि युद्ध जीतकर अपने ही स्वजनों को मारने का पाप लेना बेहतर है या उनसे हार जाना। उनका मानना है कि अपने ही चचेरे भाइयों, धृतराष्ट्र के पुत्रों, का वध करके प्राप्त किया गया जीवन व्यर्थ होगा और जीने योग्य नहीं रहेगा।
+
+### Translation
+
+And we do not know this, which of the two is better for us: whether we should conquer them or they should conquer us. Even after killing whom we do not wish to live, those very sons of Dhritarashtra are standing in front of us.
 
 ### Meaning
 

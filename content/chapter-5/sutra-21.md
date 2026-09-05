@@ -8,11 +8,10 @@ sutra: 21
 position: 225
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम्
 स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 225
 
 
 ### Transliteration
-```
+{{< lines >}}
 bāhyasparśeṣvasaktātmā vindatyātmani yatsukham
 sa brahmayogayuktātmā sukhamakṣayamaśnute
+{{< /lines >}}
 
-```
+### अनुवाद
+
+बाहरी विषयों के संपर्क में अनासक्त मन वाला व्यक्ति आत्मा में जो सुख है, उसे प्राप्त करता है। ब्रह्म के साथ योग में स्थित अंतःकरण वाला वह व्यक्ति अविनाशी सुख को भोगता है।
 
 ### भावार्थ
 
 जो व्यक्ति सांसारिक और बाहरी सुखों के प्रति आकर्षित नहीं होता, वह अपने भीतर ही वास्तविक आनंद को खोज लेता है। जब उसका मन ध्यान और योग के माध्यम से परब्रह्म में लीन हो जाता है, तब वह ऐसे असीम और शाश्वत सुख का अनुभव करता है जो कभी समाप्त नहीं होता। यह श्लोक आत्म-साक्षात्कार और सच्ची खुशी के स्रोत को स्पष्ट करता है।
+
+### Translation
+
+One whose mind is unattached to external sense contacts finds that happiness which is in the Self. With his mind united with Brahman through yoga, he enjoys imperishable happiness.
 
 ### Meaning
 

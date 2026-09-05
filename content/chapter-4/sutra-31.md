@@ -8,11 +8,10 @@ sutra: 31
 position: 193
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम्
 नायं लोकोऽस्त्ययज्ञस्य कुतो़ऽन्यः कुरुसत्तम
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 193
 
 
 ### Transliteration
-```
+{{< lines >}}
 yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam
 nāyaṃ loko'styayajñasya kuto'nyaḥ kurusattama
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुरुश्रेष्ठ! यज्ञ से बचे हुए अमृतरूपी अन्न को खाने वाले सनातन परब्रह्म को प्राप्त होते हैं। यज्ञ न करने वाले पुरुष के लिए तो यह मनुष्य लोक भी सुखदायक नहीं है, फिर परलोक कैसे सुखदायक हो सकता है?
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को यज्ञ के महत्व के बारे में बताते हैं। जो लोग अपने कर्तव्यों और कर्मों को यज्ञ (ईश्वर को अर्पण) के रूप में करते हैं और उसके बाद बचे हुए फल को ग्रहण करते हैं, वे अंततः शाश्वत परब्रह्म को प्राप्त करते हैं। इसके विपरीत, जो व्यक्ति कोई त्याग या यज्ञ नहीं करता, उसके लिए इस भौतिक संसार में भी सुख और शांति संभव नहीं है, तो फिर परलोक में सद्गति कैसे मिल सकती है।
+
+### Translation
+
+O best of the Kurus, those who eat the nectar-like remnants of sacrifice attain the eternal Brahman. For one who performs no sacrifice, even this world is not happy; how then could the other world be?
 
 ### Meaning
 

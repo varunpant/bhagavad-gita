@@ -8,11 +8,10 @@ sutra: 3
 position: 574
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता
 भवन्ति सम्पदं दैवीमभिजातस्य भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 574
 
 
 ### Transliteration
-```
+{{< lines >}}
 tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā
 bhavanti sampadaṃ daivīmabhijātasya bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तेज, क्षमा, धैर्य, शुद्धि, किसी के प्रति द्रोह-भाव का न होना और अभिमान का न होना —
+हे भरतवंशी अर्जुन! ये सब दैवी सम्पदा को लेकर उत्पन्न हुए पुरुष के लक्षण हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण दैवी गुणों की सूची को पूर्ण करते हैं। तेज, क्षमा, धैर्य, बाह्य और आंतरिक शुद्धि, किसी के प्रति शत्रुता का न होना और स्वयं में पूज्यता के अभिमान का अभाव — ये सभी गुण दैवी स्वभाव वाले व्यक्ति में स्वाभाविक रूप से पाए जाते हैं। अर्जुन को 'भारत' कहकर संबोधित करते हुए वे स्पष्ट करते हैं कि अर्जुन में ये सभी उत्तम गुण विद्यमान हैं।
+
+### Translation
+
+Vigor, forgiveness, fortitude, purity, freedom from malice, and absence of pride —
+these, O descendant of Bharata, belong to one born with a divine nature
 
 ### Meaning
 

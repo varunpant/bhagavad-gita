@@ -8,11 +8,10 @@ sutra: 15
 position: 219
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः
 अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 219
 
 
 ### Transliteration
-```
+{{< lines >}}
 nādatte kasyacitpāpaṃ na caiva sukṛtaṃ vibhuḥ
 ajñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सर्वव्यापी परमेश्वर न तो किसी के पाप को और न ही किसी के पुण्य को ग्रहण करते हैं। अज्ञान के द्वारा ज्ञान ढका हुआ है, उसी से सब जीव मोहित हो रहे हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि सर्वव्यापी परमात्मा किसी भी जीव के पाप या पुण्य को ग्रहण नहीं करते, अर्थात् वे जीवों के कर्मों में तटस्थ रहते हैं। जीव का वास्तविक स्वरूप ज्ञानमय है, परंतु भौतिक प्रकृति के अज्ञान ने उस ज्ञान को ढक लिया है। इसी अज्ञान के कारण सभी प्राणी मोहग्रस्त होकर स्वयं को कर्ता मान बैठते हैं और सुख-दुख भोगते हैं।
+
+### Translation
+
+The Supreme Lord does not accept anyone's sin or pious deed. Knowledge is covered by ignorance; by that, the living entities are bewildered.
 
 ### Meaning
 

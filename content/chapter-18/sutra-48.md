@@ -8,11 +8,10 @@ sutra: 48
 position: 671
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्
 सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 671
 
 
 ### Transliteration
-```
+{{< lines >}}
 sahajaṃ karma kaunteya sadoṣamapi na tyajet
 sarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे कुन्तीपुत्र! दोषयुक्त होने पर भी सहज कर्म (स्वभावजन्य कर्म) का त्याग नहीं करना चाहिए
+क्योंकि सभी कर्म किसी न किसी दोष से उसी प्रकार ढके रहते हैं जैसे अग्नि धुएँ से ढकी रहती है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि प्रत्येक मनुष्य को अपने स्वभाव के अनुकूल नियत कर्म ही करना चाहिए, भले ही उसमें कोई त्रुटि या दोष दिखाई दे। संसार में ऐसा कोई भी कर्म नहीं है जो पूर्णतः दोषमुक्त हो, क्योंकि प्रकृति के तीनों गुणों के प्रभाव से हर कार्य में कुछ न कुछ कमी रह जाती है। जैसे अग्नि के साथ धुआँ स्वाभाविक रूप से रहता है, वैसे ही हर कर्म के साथ कोई न कोई दोष जुड़ा रहता है, इसलिए अपने सहज कर्तव्य का त्याग नहीं करना चाहिए।
+
+### Translation
+
+O son of Kunti, one should not abandon the duty born of one's nature, even if it is associated with defects
+for all undertakings are enveloped by defects, as fire is enveloped by smoke
 
 ### Meaning
 

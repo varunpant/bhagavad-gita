@@ -8,11 +8,10 @@ sutra: 18
 position: 356
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत्
 प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 356
 
 
 ### Transliteration
-```
+{{< lines >}}
 gatirbhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt
 prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījamavyayam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं ही परम गति, भर्ता, स्वामी, साक्षी, निवास-स्थान, शरण लेने योग्य और बिना किसी स्वार्थ के प्रेम करने वाला मित्र हूँ। मैं ही सृष्टि की उत्पत्ति, प्रलय, आधार, निधान और अविनाशी बीज हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी सर्वव्यापकता और परम आश्रय रूप का वर्णन कर रहे हैं। वे बताते हैं कि सृष्टि की उत्पत्ति, स्थिति और प्रलय के एकमात्र कारण वे ही हैं। प्रत्येक जीव का परम लक्ष्य, रक्षक और निस्वार्थ हितैषी भी वही परमेश्वर है।
+
+### Translation
+
+I am the goal, the supporter, the lord, the witness, the abode, the refuge, and the dear friend. I am the origin, the dissolution, the substratum, the storehouse, and the imperishable seed.
 
 ### Meaning
 

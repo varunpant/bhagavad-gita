@@ -8,11 +8,10 @@ sutra: 4
 position: 575
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च
 अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 575
 
 
 ### Transliteration
-```
+{{< lines >}}
 dambho darpo'bhimānaśca krodhaḥ pāruṣyameva ca
 ajñānaṃ cābhijātasya pārtha sampadamāsurīm
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! पाखंड, घमंड, अभिमान, क्रोध, कठोरता और अज्ञान भी — ये सब आसुरी संपदा को लेकर उत्पन्न हुए पुरुष के लक्षण हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आसुरी (राक्षसी) स्वभाव के मुख्य लक्षणों का वर्णन कर रहे हैं। पाखंड, घमंड, क्रोध और अज्ञान जैसे दुर्गुण व्यक्ति को पतन की ओर ले जाते हैं। अर्जुन को 'पार्थ' कहकर वे सचेत करते हैं कि इन अवगुणों को पहचानकर इनसे दूर रहना चाहिए।
+
+### Translation
+
+Hypocrisy, arrogance, self-conceit, anger, harshness, and ignorance — these, O Partha, belong to one born with a demoniac nature
 
 ### Meaning
 

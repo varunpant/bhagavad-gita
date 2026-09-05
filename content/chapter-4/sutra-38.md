@@ -8,11 +8,10 @@ sutra: 38
 position: 200
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न हि ज्ञानेन सदृशं पवित्रमिह विद्यते
 तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 200
 
 
 ### Transliteration
-```
+{{< lines >}}
 na hi jñānena sadṛśaṃ pavitramiha vidyate
 tatsvayaṃ yogasaṃsiddhaḥ kālenātmani vindati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस संसार में ज्ञान के समान पवित्र करने वाला निस्संदेह कुछ भी नहीं है। योग में पूर्ण सिद्धि प्राप्त किया हुआ मनुष्य समय के साथ उस ज्ञान को स्वयं ही अपने भीतर प्राप्त कर लेता है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि आध्यात्मिक ज्ञान से बढ़कर इस संसार में कुछ भी पवित्र नहीं है। यह ज्ञान सभी पापों और अज्ञान को नष्ट कर देता है। जो व्यक्ति निष्काम कर्मयोग का निरंतर अभ्यास करके सिद्धि प्राप्त कर लेता है, वह उचित समय आने पर स्वतः ही अपनी आत्मा में इस दिव्य ज्ञान का अनुभव करता है।
+
+### Translation
+
+Certainly, there is nothing as purifying as knowledge in this world. One who is perfected in yoga finds it within himself in due course of time.
 
 ### Meaning
 

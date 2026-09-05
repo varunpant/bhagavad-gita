@@ -8,11 +8,10 @@ sutra: 19
 position: 642
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः
 प्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 642
 
 
 ### Transliteration
-```
+{{< lines >}}
 jñānaṃ karma ca kartā ca tridhaiva guṇabhedataḥ
 procyate guṇasaṅkhyāne yathāvacchṛṇu tānyapi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ज्ञान, कर्म और कर्ता भी गुणों के भेद से तीन-तीन प्रकार के ही कहे गए हैं, गुणों की संख्या करने वाले शास्त्र (सांख्य शास्त्र) में; तुम उनको भी भलीभाँति सुनो
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण अर्जुन को बताते हैं कि प्रकृति के तीन गुणों (सत्त्व, रज और तम) के प्रभाव के कारण ज्ञान, कर्म और कर्ता भी तीन-तीन प्रकार के होते हैं। सांख्य दर्शन में इसका विस्तार से वर्णन किया गया है। अब श्रीकृष्ण अर्जुन को इन तीनों के भेदों को विस्तार से समझाने जा रहे हैं ताकि वह इनके वास्तविक स्वरूप को समझ सके।
+
+### Translation
+
+Knowledge, action, and the doer are also declared to be of three kinds, according to the distinction of the three guṇas in the science of the guṇas; hear of these also as they are
 
 ### Meaning
 

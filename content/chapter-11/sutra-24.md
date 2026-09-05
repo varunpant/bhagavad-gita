@@ -8,11 +8,10 @@ sutra: 24
 position: 438
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नभःस्पृशं दीप्तमनेकवर्णं    व्यात्ताननं दीप्तविशालनेत्रम्
 दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा    धृतिं न विन्दामि शमं च विष्णो
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 438
 
 
 ### Transliteration
-```
-nabhaḥspṛśaṃ dīptamanekavarṇaṃ
-vyāttānanaṃ dīptaviśālanetram
-dṛṣṭvā hi tvāṃ pravyathitāntarātmā
-dhṛtiṃ na vindāmi śamaṃ ca viṣṇo
+{{< lines >}}
+nabhaḥspṛśaṃ dīptamanekavarṇaṃ vyāttānanaṃ dīptaviśālanetram
+dṛṣṭvā hi tvāṃ pravyathitāntarātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे विष्णु! आकाश को स्पर्श करने वाले, देदीप्यमान, अनेक वर्णों से युक्त, खुले हुए मुखों वाले और चमकती हुई विशाल आँखों वाले आपको देखकर भयभीत अन्तःकरण वाला मैं न तो धैर्य धारण कर पा रहा हूँ और न ही शान्ति पा रहा हूँ
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान श्रीकृष्ण के अत्यंत भयानक और विराट रूप को देखकर अपनी व्याकुलता व्यक्त कर रहे हैं। भगवान का यह रूप आकाश को छू रहा है और उनके अनेक मुख तथा विशाल नेत्र धधक रहे हैं। इस दृश्य को देखकर अर्जुन का हृदय भय से काँप उठता है और वे अपना मानसिक संतुलन तथा धैर्य खो बैठते हैं।
+
+### Translation
+
+O Vishnu! Seeing You touching the sky, glowing, multi-colored, with wide-open mouths and burning, large eyes, my innermost soul is terrified, and I find neither courage nor peace
 
 ### Meaning
 

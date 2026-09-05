@@ -8,11 +8,10 @@ sutra: 24
 position: 396
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम्
 सेनानीनामहं स्कन्दः सरसामस्मि सागरः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,24 @@ position: 396
 
 
 ### Transliteration
-```
+{{< lines >}}
 purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim
 senānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! पुरोहितों में मुख्य बृहस्पति मुझे जानो
+सेनापतियों में मैं स्कन्द हूँ और जलाशयों में मैं समुद्र हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को अपनी विभूतियों का वर्णन करते हुए बताते हैं कि वे पुरोहितों में सबसे श्रेष्ठ देवगुरु बृहस्पति हैं। वे सेनापतियों में कार्तिकेय (स्कन्द) हैं, जो देवसेना के सेनापति हैं। स्थिर जलाशयों में वे विशाल और अगाध समुद्र हैं, जो उनकी अनंतता को दर्शाता है।
+
+### Translation
+
+O Partha, know Me to be Brihaspati, the chief among priests
+Among generals I am Skanda, and among bodies of water I am the ocean
 
 ### Meaning
 

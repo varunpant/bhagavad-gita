@@ -8,11 +8,10 @@ sutra: 18
 position: 328
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे
 रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 328
 
 
 ### Transliteration
-```
+{{< lines >}}
 avyaktād vyaktayaḥ sarvāḥ prabhavanty aharāgame
 rātryāgame pralīyante tatraivāvyaktasaṃjñake
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ब्रह्मा के दिन के आगमन पर सभी व्यक्त जीव अव्यक्त से उत्पन्न होते हैं
+और रात्रि के आगमन पर वे उसी अव्यक्त नामक तत्व में विलीन हो जाते हैं
 
 ### भावार्थ
 
 इस श्लोक में सृष्टि और प्रलय के चक्र का वर्णन किया गया है। ब्रह्मा जी का दिन आरंभ होने पर सम्पूर्ण चराचर जगत अव्यक्त (सूक्ष्म रूप) से व्यक्त (स्थूल रूप) में प्रकट होता है। पुनः ब्रह्मा जी की रात्रि आने पर यह सम्पूर्ण सृष्टि उसी अव्यक्त में लीन हो जाती है।
+
+### Translation
+
+At the coming of day, all manifest beings emanate from the unmanifest
+and at the coming of night, they merge into that very same reality called the unmanifest
 
 ### Meaning
 

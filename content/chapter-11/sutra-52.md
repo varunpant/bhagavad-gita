@@ -8,11 +8,11 @@ sutra: 52
 position: 466
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचसुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम
+{{< lines >}}
+श्री भगवानुवाच
+सुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम
 देवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिणः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,27 @@ position: 466
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrībhagavānuvāca
 sudurdarśamidaṃ rūpaṃ dṛṣṭavānasi yanmama
 devā apyasya rūpasya nityaṃ darśanakāṅkṣiṇaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+मेरा यह रूप जिसे तुमने देखा है, अत्यंत दुर्लभ है
+देवता भी इस रूप के दर्शन की नित्य आकांक्षा करते हैं
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को बताते हैं कि उनका जो विश्वरूप अर्जुन ने अभी देखा है, उसे देख पाना अत्यंत कठिन है। बड़े-बड़े तपस्वी और देवता भी इस परम रूप के दर्शन के लिए सदैव लालायित रहते हैं, परंतु वे इसे आसानी से नहीं देख पाते। यह अर्जुन पर भगवान की विशेष कृपा का प्रतीक है।
+
+### Translation
+
+The Supreme Lord said:
+This form of Mine which you have seen is exceedingly difficult to behold
+Even the gods are ever longing to catch a glimpse of this form
 
 ### Meaning
 

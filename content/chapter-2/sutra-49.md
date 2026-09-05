@@ -8,11 +8,10 @@ sutra: 49
 position: 96
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय
 बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 96
 
 
 ### Transliteration
-```
+{{< lines >}}
 dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya
 buddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे धनञ्जय! सकाम कर्म बुद्धियोग (समत्व बुद्धि) से अत्यंत निम्न है। इसलिए तुम समबुद्धि की शरण ग्रहण करो। कर्मफलों के हेतु बनने वाले (फल की इच्छा रखने वाले) लोग कृपण (अत्यंत दीन) होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सकाम कर्म (फल की इच्छा से किए गए कार्य) की तुलना में बुद्धियोग (समत्व भाव) की श्रेष्ठता बताते हैं। वे अर्जुन को सलाह देते हैं कि वह परिणामों की चिंता से मुक्त होकर समबुद्धि की शरण ले। जो लोग केवल कर्मफलों की लालसा से कार्य करते हैं, उन्हें 'कृपण' या अत्यंत दीन कहा गया है क्योंकि वे अपने अमूल्य मानव जीवन को तुच्छ भौतिक लाभों में व्यर्थ कर देते हैं।
+
+### Translation
+
+O Dhananjaya, fruitive action is by far inferior to the yoga of intelligence. Seek refuge in equanimity. Those who are motivated by the fruits of action are pitiable.
 
 ### Meaning
 

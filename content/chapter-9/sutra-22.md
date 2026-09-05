@@ -8,11 +8,10 @@ sutra: 22
 position: 360
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते
 तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 360
 
 
 ### Transliteration
-```
+{{< lines >}}
 ananyāścintayanto māṃ ye janāḥ paryupāsate
 teṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो अनन्य प्रेमी भक्त जन मुझ परमेश्वर का चिन्तन करते हुए मेरी निष्काम भाव से उपासना करते हैं, उन नित्य निरंतर मुझमें लीन रहने वाले पुरुषों का योग और क्षेम मैं स्वयं वहन करता हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपने अनन्य भक्तों को पूर्ण सुरक्षा का आश्वासन देते हैं। जो भक्त किसी अन्य का आश्रय न लेकर केवल भगवान पर ही निर्भर रहते हैं, उनके जीवन की सभी आवश्यकताओं (योग - अप्राप्त की प्राप्ति, और क्षेम - प्राप्त की रक्षा) की जिम्मेदारी स्वयं भगवान अपने ऊपर ले लेते हैं। यह भक्ति मार्ग का सबसे सुंदर और आश्वस्त करने वाला वचन है।
+
+### Translation
+
+Those who, thinking of Me with single-minded devotion, worship Me, to those ever-united souls, I secure what they lack and preserve what they already possess
 
 ### Meaning
 

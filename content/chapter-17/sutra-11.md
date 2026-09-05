@@ -8,11 +8,10 @@ sutra: 11
 position: 606
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते
 यष्टव्यमेवेति मनः समाधाय स सात्त्विकः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 606
 
 
 ### Transliteration
-```
+{{< lines >}}
 aphalākāṅkṣibhiryajño vidhidṛṣṭo ya ijyate
 yaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+फल की इच्छा न रखने वाले पुरुषों द्वारा, शास्त्रविधि से नियत जो यज्ञ किया जाता है, और 'यज्ञ करना ही कर्तव्य है' ऐसा मन को एकाग्र करके जो किया जाता है, वह सात्त्विक है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण सात्त्विक यज्ञ के लक्षणों का वर्णन कर रहे हैं। सात्त्विक यज्ञ वह है जो बिना किसी व्यक्तिगत लाभ या फल की कामना के किया जाता है। इसे केवल कर्तव्य मानकर और शास्त्रों में दी गई विधि के अनुसार मन को स्थिर करके किया जाता है।
+
+### Translation
+
+That sacrifice which is offered according to scriptural injunctions by those who desire no fruit, with the firm belief in the mind that 'to sacrifice is a duty', is sattvika
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 9
 position: 128
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः
 तदर्थं कर्म कौन्तेय मुक्तसंगः समाचर
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 128
 
 
 ### Transliteration
-```
+{{< lines >}}
 yajñārthāt karmaṇo'nyatra loko'yaṃ karmabandhanaḥ
 tadarthaṃ karma kaunteya muktasaṅgaḥ samācara
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यज्ञ के निमित्त किए जाने वाले कर्मों के अतिरिक्त अन्य कर्मों में लगा हुआ यह संसार कर्मों से बंधता है। इसलिए हे कुन्तीपुत्र! तुम आसक्ति से रहित होकर उस यज्ञ के लिए ही भली-भांति कर्म करो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को निष्काम कर्मयोग का सिद्धांत समझा रहे हैं। वे बताते हैं कि जो कर्म यज्ञ (ईश्वर की प्रसन्नता) के लिए नहीं किए जाते, वे मनुष्य को संसार के बंधन में डाल देते हैं। अतः मनुष्य को चाहिए कि वह फल की आसक्ति को त्याग कर केवल ईश्वर को समर्पित करते हुए अपने कर्तव्य का पालन करे।
+
+### Translation
+
+This world is bound by action other than action done for the sake of sacrifice. Therefore, O son of Kunti, perform action for that purpose, free from attachment.
 
 ### Meaning
 

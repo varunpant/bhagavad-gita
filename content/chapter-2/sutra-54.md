@@ -8,12 +8,11 @@ sutra: 54
 position: 101
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव
 स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 101
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 sthitaprajñasya kā bhāṣā samādhisthasya keśava
 sthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे केशव! समाधि में स्थित स्थिर प्रज्ञा वाले पुरुष का क्या लक्षण है? स्थिर बुद्धि वाला पुरुष कैसे बोलता है, कैसे बैठता है और कैसे चलता है?
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन श्रीकृष्ण से एक आत्मज्ञानी (स्थितप्रज्ञ) पुरुष के लक्षणों के बारे में चार विशिष्ट प्रश्न पूछते हैं। वह जानना चाहते हैं कि समाधि में स्थित व्यक्ति को उसके दैनिक व्यवहार, बोलचाल और उठने-बैठने के तरीके से कैसे पहचाना जा सकता है। यह प्रश्न अध्याय के शेष भाग में श्रीकृष्ण द्वारा दिए गए आत्मज्ञानी के विस्तृत वर्णन की पृष्ठभूमि तैयार करता है।
+
+### Translation
+
+Arjuna said:
+O Keshava, what is the description of a man of steady wisdom who is merged in samadhi? How does the man of steady intelligence speak? How does he sit? How does he walk?
 
 ### Meaning
 

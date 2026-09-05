@@ -8,11 +8,10 @@ sutra: 7
 position: 496
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इच्छा द्वेषः सुखं दुःखं सङ्घातश्चेतनाधृतिः
 एतत्क्षेत्रं समासेन सविकारमुदाहृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 496
 
 
 ### Transliteration
-```
+{{< lines >}}
 icchā dveṣaḥ sukhaṃ duḥkhaṃ saṅghātaś cetanā dhṛtiḥ
 etat kṣetraṃ samāsena savikāram udāhṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इच्छा, द्वेष, सुख, दुःख, स्थूल शरीर (संघात), चेतना और धैर्य—
+यह क्षेत्र अपने विकारों सहित संक्षेप में कहा गया है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण 'क्षेत्र' (शरीर और प्रकृति के कार्यक्षेत्र) के विकारों और मानसिक अवस्थाओं का वर्णन कर रहे हैं। इच्छा, द्वेष, सुख, दुःख, शरीर का संघात, चेतना और धैर्य—ये सभी प्रकृति के कार्य हैं और क्षेत्र के अंतर्गत आते हैं। आत्मा इन सब से परे इनका केवल ज्ञाता (क्षेत्रज्ञ) है।
+
+### Translation
+
+Desire, hatred, pleasure, pain, the physical body, consciousness, and fortitude—
+this, in brief, is described as the field (kṣetra) along with its modifications.
 
 ### Meaning
 

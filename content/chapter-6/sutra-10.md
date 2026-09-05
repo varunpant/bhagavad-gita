@@ -8,11 +8,10 @@ sutra: 10
 position: 243
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 योगी युञ्जीत सततमात्मानं रहसि स्थितः
 एकाकी यतचित्तात्मा निराशीरपरिग्रहः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 243
 
 
 ### Transliteration
-```
-yogī yuñjīta satatam
-ātmānaṃ rahasi sthitaḥ
-ekākī yata-cittātmā
-nirāśīr aparigrahaḥ
+{{< lines >}}
+yogī yuñjīta satatam ātmānaṃ rahasi sthitaḥ
+ekākī yata-cittātmā nirāśīr aparigrahaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+योगी को निरंतर अपने मन को परमात्मा में लगाना चाहिए, एकांत स्थान में अकेले रहते हुए, अपने मन और शरीर को वश में करके, कामनाओं से रहित और संग्रह-वृत्ति से मुक्त होकर।
 
 ### भावार्थ
 
 इस श्लोक में ध्यान योग के अभ्यास के लिए आवश्यक बाहरी और आंतरिक परिस्थितियों का वर्णन किया गया है। साधक को एकांत स्थान में अकेले रहकर अभ्यास करना चाहिए ताकि बाहरी विक्षेप न हों। इसके साथ ही, मन और इंद्रियों पर नियंत्रण, भौतिक इच्छाओं का त्याग और संग्रह न करने की प्रवृत्ति (अपरिग्रह) ध्यान की सफलता के लिए अनिवार्य हैं।
+
+### Translation
+
+The yogi should constantly engage the mind in meditation on the Supreme, remaining alone in a solitary place, with mind and body controlled, free from desires and possessiveness.
 
 ### Meaning
 

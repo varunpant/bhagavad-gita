@@ -8,11 +8,10 @@ sutra: 7
 position: 240
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 जितात्मनः प्रशान्तस्य परमात्मा समाहितः
 शीतोष्णसुखदुःखेषु तथा मानापमानयोः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 240
 
 
 ### Transliteration
-```
+{{< lines >}}
 jitātmanaḥ praśāntasya paramātmā samāhitaḥ
 śītoṣṇasuxaduḥkheṣu tathā mānāpamānayoḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिसने अपने मन और इन्द्रियों को जीत लिया है, ऐसे परम शान्त पुरुष के परमात्मा (परम आत्मा) समाधि में सदैव स्थित रहते हैं, चाहे सर्दी-गर्मी हो, सुख-दुःख हो, अथवा मान और अपमान हो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आत्म-संयम के लाभों का वर्णन कर रहे हैं। जिसने अपने मन और इन्द्रियों पर विजय प्राप्त कर ली है, वह पूर्णतः शान्त हो जाता है। ऐसा व्यक्ति अनुकूल और प्रतिकूल परिस्थितियों जैसे सर्दी-गर्मी, सुख-दुःख और मान-अपमान में भी विचलित नहीं होता और उसका अन्तःकरण सदैव परमात्मा में लीन रहता है।
+
+### Translation
+
+For one who has conquered the mind and is perfectly peaceful, the Supreme Soul is already reached (or remains steadfastly situated in samadhi), in cold and heat, in pleasure and pain, as well as in honor and dishonor.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 8
 position: 8
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः
 अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ in war, Asvatthama, Vikarna, and also Bhurisrava, the son of Somadatta.
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ
 aśvatthāmā vikarṇaśca saumadattistathaiva ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+स्वयं आप, भीष्म, कर्ण और युद्ध में सदैव विजयी रहने वाले कृपाचार्य; तथा अश्वत्थामा, विकर्ण और सोमदत्त के पुत्र (भूरिश्रवा) भी हैं।
 
 ### भावार्थ
 
 दुर्योधन अपने गुरु द्रोणाचार्य को अपनी सेना के प्रमुख योद्धाओं के नाम गिनाना जारी रखता है। वह स्वयं द्रोणाचार्य, पितामह भीष्म, कर्ण और कृपाचार्य जैसे अजेय महारथियों का उल्लेख करता है। इन महान शूरवीरों का नाम लेकर दुर्योधन अपना आत्मविश्वास बढ़ाने और अपनी सेना की श्रेष्ठता सिद्ध करने का प्रयास कर रहा है।
+
+### Translation
+
+You yourself, Bhishma, Karna, and Kripa, who are always victorious in battle; Ashvatthama, Vikarna, and the son of Somadatta as well.
 
 ### Meaning
 

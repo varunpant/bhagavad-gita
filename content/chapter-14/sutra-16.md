@@ -8,11 +8,10 @@ sutra: 16
 position: 540
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम्
 रजसस्तु फलं दुःखमज्ञानं तमसः फलम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 540
 
 
 ### Transliteration
-```
+{{< lines >}}
 karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam
 rajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्रेष्ठ कर्म का फल सात्त्विक अर्थात् निर्मल कहा गया है
+परन्तु रजोगुण का फल दुःख और तमोगुण का फल अज्ञान कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तीनों गुणों के अनुसार कर्मों के फलों का वर्णन कर रहे हैं। पुण्य या सात्त्विक कर्मों का परिणाम अत्यंत पवित्र, सुखद और ज्ञानवर्धक होता है। इसके विपरीत, राजसी कर्मों का अंतिम परिणाम केवल दुःख होता है और तामसी कर्मों का परिणाम अज्ञान तथा अंधकार होता है।
+
+### Translation
+
+The fruit of good action is said to be pure and Sattvic
+but the fruit of Rajas is pain, and the fruit of Tamas is ignorance
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 23
 position: 512
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 उपद्रष्टाऽनुमन्ता च भर्ता भोक्ता महेश्वरः
 परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 512
 
 
 ### Transliteration
-```
+{{< lines >}}
 upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ
 paramātmeti cāpyukto dehe'sminpuruṣaḥ paraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस शरीर में स्थित वह परम पुरुष उपद्रष्टा (साक्षी), अनुमन्ता (अनुमति देने वाला), भर्ता (भरण-पोषण करने वाला), भोक्ता (अनुभव करने वाला), महेश्वर (महान ईश्वर) और परमात्मा भी कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण शरीर के भीतर स्थित जीवात्मा से परे परम सत्य (परमात्मा) के स्वरूप का वर्णन कर रहे हैं। यद्यपि वह इस भौतिक शरीर के भीतर निवास करता है, फिर भी वह प्रकृति के गुणों से लिप्त नहीं होता। वह केवल एक साक्षी (उपद्रष्टा) और अनुमति देने वाले (अनुमन्ता) के रूप में कार्य करता है, और वास्तव में वही सबका परम स्वामी और भरण-पोषण करने वाला है।
+
+### Translation
+
+The Supreme Purusha in this body is also called the Witness, the Permitter, the Supporter, the Experiencer, the Great Lord, and the Supreme Self
 
 ### Meaning
 

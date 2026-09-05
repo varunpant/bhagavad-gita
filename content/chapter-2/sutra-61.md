@@ -8,11 +8,10 @@ sutra: 61
 position: 108
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तानि सर्वाणि संयम्य युक्त आसीत मत्परः
 वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 108
 
 
 ### Transliteration
-```
+{{< lines >}}
 tāni sarvāṇi saṃyamya yukta āsīta matparaḥ
 vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उन सम्पूर्ण इन्द्रियों को वश में करके, समाहित चित्त वाला मनुष्य मेरे परायण होकर बैठे। क्योंकि जिस पुरुष की इन्द्रियाँ वश में होती हैं, उसकी बुद्धि स्थिर होती है।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण मन को स्थिर करने का व्यावहारिक उपाय बताते हैं। केवल इन्द्रियों को बलपूर्वक रोकना पर्याप्त नहीं है, बल्कि मन को परमेश्वर में लगाना आवश्यक है। जब इन्द्रियाँ पूरी तरह से नियंत्रण में होती हैं और मन भगवान में स्थित होता है, तभी मनुष्य की बुद्धि वास्तव में स्थिर होती है।
+
+### Translation
+
+Having controlled all of them, the steadfast one should sit, intent on Me. For he whose senses are under control, his wisdom is steady.
 
 ### Meaning
 

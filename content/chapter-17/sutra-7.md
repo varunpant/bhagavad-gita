@@ -8,11 +8,10 @@ sutra: 7
 position: 602
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः
 यज्ञस्तपस्तथा दानं तेषां भेदमिमं श्रृणु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,28 @@ position: 602
 
 
 ### Transliteration
-```
-āhāras tv api sarvasya
-trividho bhavati priyaḥ
-yajñas tapas tathā dānaṃ
-teṣāṃ bhedam imaṃ śṛṇu
+{{< lines >}}
+āhāras tv api sarvasya trividho bhavati priyaḥ
+yajñas tapas tathā dānaṃ teṣāṃ bhedam imaṃ śṛṇu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+भोजन भी सभी को
+अपनी-अपनी प्रकृति के अनुसार तीन प्रकार का प्रिय होता है
+इसी प्रकार यज्ञ, तप और दान भी तीन प्रकार के होते हैं
+उनके इस भेद को तुम सुनो
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि प्रत्येक व्यक्ति की प्रकृति के अनुसार उसकी रुचि भिन्न होती है। भोजन, यज्ञ, तपस्या और दान—ये सभी मनुष्य के स्वभाव (सत्त्व, रज, तम) के अनुसार तीन प्रकार के होते हैं। कृष्ण अर्जुन को इन भेदों को विस्तार से सुनने के लिए आमंत्रित करते हैं ताकि वह अपने भीतर के गुणों को पहचान सके।
+
+### Translation
+
+Even the food that is dear to everyone
+is of three kinds, according to their temperament
+So also are sacrifice, austerity, and charity
+Hear now the distinction between them
 
 ### Meaning
 

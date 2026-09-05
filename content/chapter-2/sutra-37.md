@@ -8,11 +8,10 @@ sutra: 37
 position: 84
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्
 तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 84
 
 
 ### Transliteration
-```
+{{< lines >}}
 hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm
 tasmāduttiṣṭha kaunteya yuddhāya kṛtaniścayaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+या तो तुम युद्ध में मारे जाकर स्वर्ग प्राप्त करोगे, या जीतकर पृथ्वी का राज्य भोगोगे। इसलिए हे कुन्तीपुत्र! युद्ध के लिए दृढ़ निश्चय करके उठ खड़े हो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को क्षत्रिय धर्म का पालन करने के दोनों संभावित परिणामों के लाभ बताते हैं। यदि वह युद्ध में वीरगति को प्राप्त होता है, तो उसे स्वर्ग मिलेगा, और यदि वह विजयी होता है, तो वह पृथ्वी के राज्य का आनंद लेगा। दोनों ही स्थितियों में उसका लाभ है, इसलिए उसे अपनी शंकाओं को त्याग कर युद्ध के लिए तत्पर होना चाहिए।
+
+### Translation
+
+Either being slain you will attain heaven, or having conquered you will enjoy the earth. Therefore, arise, O son of Kunti, with a firm resolve for battle.
 
 ### Meaning
 

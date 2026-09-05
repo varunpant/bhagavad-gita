@@ -8,12 +8,11 @@ sutra: 12
 position: 384
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 परं ब्रह्म परं धाम पवित्रं परमं भवान्
 पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,27 @@ position: 384
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 paraṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān
 puruṣaṁ śāśvataṁ divyamādidevamajaṁ vibhum
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+आप परम ब्रह्म, परम धाम और परम पवित्र हैं।
+आप सनातन, दिव्य पुरुष, आदिदेव, अजन्मा और सर्वव्यापी हैं।
 
 ### भावार्थ
 
 भगवान कृष्ण के विभूति योग को सुनकर अर्जुन उनकी महिमा को स्वीकार करते हैं। वे कृष्ण को केवल एक साधारण मनुष्य न मानकर साक्षात् परब्रह्म और समस्त सृष्टि का आदि स्रोत घोषित करते हैं। यह अर्जुन की पूर्ण श्रद्धा और शरणागति को दर्शाता है।
+
+### Translation
+
+Arjuna said:
+You are the Supreme Brahman, the Supreme Abode, and the Supreme Purifier.
+You are the Eternal, Divine Person, the Primeval Deity, the Unborn, and the All-pervading.
 
 ### Meaning
 

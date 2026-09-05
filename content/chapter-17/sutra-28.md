@@ -8,11 +8,10 @@ sutra: 28
 position: 623
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत्
 असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 623
 
 
 ### Transliteration
-```
+{{< lines >}}
 aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat
 asad ity ucyate pārtha na ca tat pretya no iha
+{{< /lines >}}
 
-```
+### अनुवाद
+
+बिना श्रद्धा के किया गया हवन, दिया गया दान, तपा गया तप और जो कुछ भी शुभ कर्म किया जाता है, वह 'असत्' कहा जाता है, हे पार्थ! वह न तो परलोक में लाभदायक होता है और न ही इस लोक में।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण श्रद्धा के महत्व पर बल देते हैं। बिना श्रद्धा के किए गए सभी धार्मिक कृत्य जैसे यज्ञ, दान और तप व्यर्थ हो जाते हैं। उन्हें 'असत्' कहा जाता है क्योंकि वे न तो इस जीवन में कोई वास्तविक शांति या आध्यात्मिक उन्नति प्रदान करते हैं और न ही मृत्यु के बाद मोक्ष या उत्तम लोकों की प्राप्ति कराते हैं।
+
+### Translation
+
+Whatever sacrifice is offered, charity given, austerity performed, or any other action done without faith, is called 'asat' (unreal), O Partha. It is of no value either hereafter or here.
 
 ### Meaning
 

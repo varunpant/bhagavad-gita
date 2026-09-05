@@ -8,12 +8,11 @@ sutra: 1
 position: 415
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम्
 यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 415
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 madanugrahāya paramaṃ guhyam adhyātmasaṃjñitam
 yat tvayoktaṃ vacas tena moho 'yaṃ vigato mama
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+मुझ पर अनुग्रह करने के लिए आपके द्वारा जो परम गोपनीय अध्यात्म-विषयक वचन कहा गया है, उससे मेरा यह मोह नष्ट हो गया है
 
 ### भावार्थ
 
 इस अध्याय के आरम्भ में अर्जुन भगवान कृष्ण के प्रति अपनी कृतज्ञता व्यक्त करते हैं। वे स्वीकार करते हैं कि भगवान के गोपनीय उपदेशों को सुनकर उनका अज्ञान और मोह पूरी तरह से दूर हो गया है। यह कथन अर्जुन द्वारा भगवान के दिव्य विश्वरूप को देखने की इच्छा प्रकट करने की पृष्ठभूमि तैयार करता है।
+
+### Translation
+
+Arjuna said:
+Out of compassion for me, the supreme secret discourse concerning the Self which has been spoken by You, by that this delusion of mine is gone
 
 ### Meaning
 

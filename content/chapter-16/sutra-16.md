@@ -8,11 +8,10 @@ sutra: 16
 position: 587
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अनेकचित्तविभ्रान्ता मोहजालसमावृताः
 प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 587
 
 
 ### Transliteration
-```
+{{< lines >}}
 anekacittavibhrāntā mohajālasamāvṛtāḥ
 prasaktāḥ kāmabhogeṣu patanti narake'śucau
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अनेक प्रकार के विचारों से भ्रमित, मोह रूपी जाल से घिरे हुए और काम-भोगों में अत्यंत आसक्त वे अपवित्र नरक में गिरते हैं।
 
 ### भावार्थ
 
 इस श्लोक में आसुरी प्रवृत्ति वाले मनुष्यों के पतन का वर्णन किया गया है। वे अनेक प्रकार की चिंताओं और कामनाओं के कारण मानसिक रूप से भ्रमित रहते हैं। अज्ञान और मोह के जाल में फंसकर वे केवल इंद्रिय-तृप्ति में लगे रहते हैं, जिसके परिणामस्वरूप अंततः वे घोर नरक में गिरते हैं।
+
+### Translation
+
+Bewildered by numerous thoughts, entangled in the net of delusion, and deeply attached to the gratification of desires, they fall into a foul hell.
 
 ### Meaning
 

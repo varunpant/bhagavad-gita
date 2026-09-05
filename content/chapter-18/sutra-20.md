@@ -8,11 +8,10 @@ sutra: 20
 position: 643
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वभूतेषु येनैकं भावमव्ययमीक्षते
 अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 643
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate
 avibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस ज्ञान के द्वारा मनुष्य सभी भूतों में एक अविनाशी भाव को देखता है, जो विभक्त प्राणियों में अविभक्त रूप से स्थित है, उस ज्ञान को तुम सात्त्विक जानो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक ज्ञान की परिभाषा देते हैं। सात्त्विक ज्ञान वह है जो अनेकता में एकता का दर्शन कराता है। जब मनुष्य सभी भिन्न-भिन्न प्राणियों और पदार्थों में एक ही अविनाशी परमात्मा को देखता है, तब वह परम सत्य को समझ पाता है।
+
+### Translation
+
+That knowledge by which one sees a single imperishable reality in all beings, undivided in the divided, know that knowledge to be Sattvik.
 
 ### Meaning
 

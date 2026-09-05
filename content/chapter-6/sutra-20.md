@@ -8,11 +8,10 @@ sutra: 20
 position: 253
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यत्रोपरमते चित्तं निरुद्धं योगसेवया
 यत्र चैवात्मनाऽऽत्मानं पश्यन्नात्मनि तुष्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 253
 
 
 ### Transliteration
-```
+{{< lines >}}
 yatroparamate cittaṃ niruddhaṃ yogasevayā
 yatra caivātmanā'tmānaṃ paśyannātmani tuṣyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस अवस्था में योग के अभ्यास से निरुद्ध हुआ चित्त उपराम हो जाता है और जिस अवस्था में मनुष्य अपनी शुद्ध बुद्धि द्वारा अपने आप में ही अपने आप को देखता हुआ अपने आप में ही संतुष्ट रहता है
 
 ### भावार्थ
 
 इस श्लोक में ध्यानयोग की चरम परिपक्व अवस्था (समाधि) का वर्णन किया गया है। जब निरंतर अभ्यास से मन पूरी तरह शांत और स्थिर हो जाता है, तब साधक अपनी अंतरात्मा में ही परमात्मा का साक्षात्कार करता है। इस अवस्था में उसे किसी बाहरी सुख की आवश्यकता नहीं रहती और वह अपने भीतर ही पूर्ण संतोष का अनुभव करता है।
+
+### Translation
+
+When the mind, disciplined by the practice of yoga, becomes quiet, and when, beholding the Self through the self, one is satisfied in the Self
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 5
 position: 600
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः
 दम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 600
 
 
 ### Transliteration
-```
+{{< lines >}}
 aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ
 dambhāhaṅkārasaṃyuktāḥ kāmarāgabalānvitāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य शास्त्र की विधि से रहित, घोर तप को तपते हैं तथा दम्भ और अहंकार से युक्त एवं कामना, आसक्ति और बल के अभिमान से चूर हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आसुरी स्वभाव वाले मनुष्यों के तप का वर्णन कर रहे हैं। वे लोग जो शास्त्रों के नियमों की उपेक्षा करके केवल दिखावे और अहंकार के लिए घोर तपस्या करते हैं, वे वास्तव में तामसी और आसुरी प्रवृत्ति के होते हैं। उनका तप दूसरों को कष्ट देने वाला और स्वयं के शरीर को सुखाने वाला होता है।
+
+### Translation
+
+Those people who perform severe austerities not enjoined by the scriptures, given up to hypocrisy and egotism, impelled by the force of desire and attachment
 
 ### Meaning
 

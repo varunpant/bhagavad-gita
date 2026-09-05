@@ -8,11 +8,10 @@ sutra: 5
 position: 576
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता
 मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 576
 
 
 ### Transliteration
-```
+{{< lines >}}
 daivī sampadvimokṣāya nibandhāyāsurī matā
 mā śucaḥ sampadaṃ daivīmabhijāto'si pāṇḍava
+{{< /lines >}}
 
-```
+### अनुवाद
+
+दैवी सम्पदा मोक्ष के लिए और आसुरी सम्पदा बन्धन के लिए मानी गई है
+हे पाण्डव! तुम शोक मत करो, क्योंकि तुम दैवी सम्पदा को लेकर उत्पन्न हुए हो
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को आश्वस्त करते हैं कि दैवी गुण मनुष्य को मुक्ति की ओर ले जाते हैं, जबकि आसुरी गुण उसे संसार के बन्धन में बाँधते हैं। अर्जुन को युद्ध के इस धर्मसंकट में व्याकुल देखकर कृष्ण कहते हैं कि उसे शोक करने की आवश्यकता नहीं है क्योंकि वह जन्म से ही दैवी गुणों से युक्त है। यह आश्वासन अर्जुन के भीतर के संशय और शोक को दूर करने के लिए दिया गया है।
+
+### Translation
+
+The divine destiny is deemed to lead to liberation, and the demonic to bondage
+Do not grieve, O Pandava, for you are born with divine qualities
 
 ### Meaning
 

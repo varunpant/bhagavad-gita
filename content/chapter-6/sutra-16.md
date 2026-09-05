@@ -8,11 +8,10 @@ sutra: 16
 position: 249
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः
 न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 249
 
 
 ### Transliteration
-```
+{{< lines >}}
 nātyaśnatastu yogo'sti na caikāntamanaśnataḥ
 na cātisvapnaśīlasya jāgrato naiva cārjuna
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन! यह योग न तो बहुत अधिक खाने वाले का सिद्ध होता है और न बिल्कुल न खाने वाले का, तथा न बहुत अधिक सोने वाले का और न सदा जागते रहने वाले का ही सिद्ध होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ध्यान-योग के साधक के लिए आहार और विहार में संतुलन की आवश्यकता पर बल देते हैं। अतिवादी व्यवहार जैसे अत्यधिक उपवास या अत्यधिक भोजन, और अत्यधिक निद्रा या अनिद्रा, मन और शरीर के संतुलन को बिगाड़ते हैं। योग की सफलता के लिए मध्यम मार्ग का पालन करना अनिवार्य है।
+
+### Translation
+
+O Arjuna, this yoga is not for one who eats too much, nor for one who does not eat at all; it is neither for one who sleeps too much, nor for one who stays awake constantly.
 
 ### Meaning
 

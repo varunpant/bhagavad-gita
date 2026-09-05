@@ -8,11 +8,10 @@ sutra: 5
 position: 343
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम्
 भूतभृन्न च भूतस्थो ममात्मा भूतभावनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 343
 
 
 ### Transliteration
-```
+{{< lines >}}
 na ca matsthāni bhūtāni paśya me yogamaiśvaram
 bhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और न ही वे सब भूत (प्राणी) मुझमें स्थित हैं, मेरे इस ऐश्वर्यमय योग को देख।
+भूतों का धारण-पोषण करने वाला और भूतों को उत्पन्न करने वाला मेरा स्वरूप (आत्मा) भूतों में स्थित नहीं है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी अचिंत्य और दिव्य शक्ति (योगमाया) का वर्णन कर रहे हैं। यद्यपि वे संपूर्ण सृष्टि के आधार और पोषक हैं, फिर भी वे सांसारिक आसक्तियों से सर्वथा अछूते और स्वतंत्र हैं। यह उनकी परम स्वतंत्रता और ऐश्वर्य को दर्शाता है, जहाँ वे सब कुछ धारण करते हुए भी उसमें लिप्त नहीं होते।
+
+### Translation
+
+And yet, the beings do not dwell in Me; behold My divine mystery!
+Sustaining all beings, and bringing them into existence, My Self does not dwell in them.
 
 ### Meaning
 

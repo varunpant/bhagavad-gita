@@ -8,11 +8,10 @@ sutra: 7
 position: 630
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नियतस्य तु संन्यासः कर्मणो नोपपद्यते
 मोहात्तस्य परित्यागस्तामसः परिकीर्तितः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 630
 
 
 ### Transliteration
-```
+{{< lines >}}
 niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate
 mohāttasya parityāgastāmasaḥ parikīrtitaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+नियत (कर्तव्य) कर्म का संन्यास (त्याग) तो उचित नहीं है
+मोह के कारण उसका परित्याग करना तामस कहा गया है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण नियत कर्मों के त्याग का निषेध करते हैं। शास्त्र सम्मत आवश्यक कर्तव्यों का त्याग कभी भी उचित नहीं माना जाता। यदि कोई अज्ञान या मोहवश अपने अनिवार्य कर्तव्यों को छोड़ देता है, तो ऐसे त्याग को तामसी त्याग कहा जाता है जो मनुष्य को अवनति की ओर ले जाता है।
+
+### Translation
+
+The renunciation of prescribed duty is not proper
+its abandonment out of delusion is declared to be in the mode of ignorance
 
 ### Meaning
 

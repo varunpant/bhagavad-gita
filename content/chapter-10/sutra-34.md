@@ -8,11 +8,10 @@ sutra: 34
 position: 406
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम्
 कीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 406
 
 
 ### Transliteration
-```
+{{< lines >}}
 mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām
 kīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मैं सबका हरण करने वाली मृत्यु हूँ और भविष्य में होने वाले प्राणियों की उत्पत्ति का कारण हूँ; तथा स्त्रियों में कीर्ति, श्री, वाक्, स्मृति, मेधा, धृति और क्षमा हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि वे सब कुछ नष्ट करने वाली मृत्यु हैं। वे भविष्य में उत्पन्न होने वाले सभी प्राणियों की उत्पत्ति के स्रोत भी हैं। इसके अतिरिक्त, वे स्त्रियों में सात दिव्य गुणों—कीर्ति, लक्ष्मी (श्री), वाणी, स्मृति, बुद्धि (मेधा), धैर्य (धृति) और क्षमा के रूप में वास करते हैं।
+
+### Translation
+
+I am the all-devouring Death, and I am the origin of those things that are yet to be; and among feminine qualities, I am fame, prosperity, speech, memory, intelligence, firmness, and patience
 
 ### Meaning
 

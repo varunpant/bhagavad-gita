@@ -8,11 +8,10 @@ sutra: 25
 position: 187
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दैवमेवापरे यज्ञं योगिनः पर्युपासते
 ब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 187
 
 
 ### Transliteration
-```
+{{< lines >}}
 daivamevāpare yajñaṃ yoginaḥ paryupāsate
 brahmāgnāvapare yajñaṃ yajñenaivopajuhvati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+कुछ योगी केवल देवताओं के लिए ही यज्ञ का भली-भाँति अनुष्ठान करते हैं, जबकि अन्य योगी परब्रह्म रूपी अग्नि में यज्ञ (आत्मा) के द्वारा ही यज्ञ का हवन करते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण साधकों द्वारा किए जाने वाले विभिन्न प्रकार के यज्ञों का वर्णन करते हैं। कुछ कर्म-योगी देवताओं को प्रसन्न करने के लिए यज्ञों का अनुष्ठान करते हैं। इसके विपरीत, ज्ञान-योगी परब्रह्म रूपी अग्नि में अपनी आत्मा को ही आहुति के रूप में अर्पित कर देते हैं, जिससे वे आत्मा और परमात्मा की एकता का अनुभव करते हैं।
+
+### Translation
+
+Some yogis perfectly perform sacrifice to the demigods alone, while others offer the sacrifice by the sacrifice itself into the fire of the Supreme Brahman.
 
 ### Meaning
 

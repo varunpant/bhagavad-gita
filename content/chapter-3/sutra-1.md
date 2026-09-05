@@ -8,12 +8,11 @@ sutra: 1
 position: 120
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन
 तत्किं कर्मणि घोरे मां नियोजयसि केशव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 120
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 jyāyasī cetkarmaṇaste matā buddhirjanārdana
 tatkiṃ karmaṇi ghore māṃ niyojayasi keśava
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे जनार्दन! यदि आप कर्म की अपेक्षा बुद्धि को श्रेष्ठ मानते हैं, तो फिर हे केशव! आप मुझे इस घोर कर्म में क्यों लगाते हैं?
 
 ### भावार्थ
 
 पिछले अध्याय में भगवान कृष्ण ने ज्ञान योग और निष्काम कर्म योग दोनों का वर्णन किया था, जिससे अर्जुन के मन में भ्रम उत्पन्न हो गया। अर्जुन को लगता है कि यदि ज्ञान का मार्ग कर्म से श्रेष्ठ है, तो युद्ध जैसा भयंकर कर्म करने का क्या औचित्य है। इसलिए वह कृष्ण से पूछते हैं कि यदि बुद्धि श्रेष्ठ है, तो वे उसे इस घोर युद्ध में क्यों धकेल रहे हैं।
+
+### Translation
+
+Arjuna said:
+O Janardana, if You consider intelligence to be superior to action, then why, O Keshava, do You engage me in this terrible action?
 
 ### Meaning
 

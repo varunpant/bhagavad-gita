@@ -8,11 +8,10 @@ sutra: 5
 position: 556
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 निर्मानमोहा जितसङ्गदोषा    अध्यात्मनित्या विनिवृत्तकामाः
 द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै    र्गच्छन्त्यमूढाः पदमव्ययं तत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 556
 
 
 ### Transliteration
-```
-nirmānamohā jitasaṅgadoṣā
-adhyātmanityā vinivṛttakāmāḥ
-dvandvairvimuktāḥ sukhaduḥkhasaṃjñair
-gacchantyamūḍhāḥ padamavyayaṃ tat
+{{< lines >}}
+nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ
+dvandvairvimuktāḥ sukhaduḥkhasaṃjñair gacchantyamūḍhāḥ padamavyayaṃ tat
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मान और मोह से रहित हैं, जिन्होंने आसक्ति रूपी दोष को जीत लिया है, जो अध्यात्म में नित्य स्थित हैं, जिनकी कामनाएँ पूर्णतः निवृत्त हो चुकी हैं, और जो सुख-दुःख नामक द्वन्द्वों से मुक्त हैं — ऐसे ज्ञानी पुरुष उस अविनाशी परम पद को प्राप्त करते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस परम पद (मोक्ष) को प्राप्त करने वाले साधकों की योग्यताओं का वर्णन करते हैं। जो साधक अहंकार, मोह और आसक्ति से मुक्त हो चुके हैं, जिनका मन सदैव परमात्मा में लीन रहता है, और जो सुख-दुःख के द्वन्द्वों से विचलित नहीं होते, वही उस अविनाशी धाम को प्राप्त करने के अधिकारी हैं। यह मार्ग पूर्ण आत्म-समर्पण और वैराग्य का है।
+
+### Translation
+
+Free from pride and delusion, having conquered the evil of attachment, ever devoted to the Supreme Self, with desires completely stilled, liberated from the dualities known as pleasure and pain, the undeluded reach that eternal, imperishable state.
 
 ### Meaning
 

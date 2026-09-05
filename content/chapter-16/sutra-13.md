@@ -8,11 +8,10 @@ sutra: 13
 position: 584
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम्
 इदमस्तीदमपि मे भविष्यति पुनर्धनम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 584
 
 
 ### Transliteration
-```
+{{< lines >}}
 idam adya mayā labdham imaṃ prāpsye manoratham
 idam astīdam api me bhaviṣyati punar dhanam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह आज मैंने प्राप्त कर लिया है और इस मनोरथ को मैं प्राप्त कर लूँगा।
+यह (धन) मेरे पास है और यह भी भविष्य में फिर मेरा धन हो जाएगा।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण आसुरी प्रवृत्ति वाले मनुष्यों की सोच का वर्णन कर रहे हैं। आसुरी स्वभाव के लोग सदैव अपनी सांसारिक उपलब्धियों और भविष्य की योजनाओं के अहंकार में डूबे रहते हैं। वे सोचते हैं कि आज उन्होंने बहुत कुछ हासिल कर लिया है और आगे भी अपनी सारी इच्छाएं पूरी कर लेंगे, तथा उनका धन निरंतर बढ़ता रहेगा।
+
+### Translation
+
+This has been gained by me today, and this desire I shall obtain.
+This wealth is mine, and this also shall be mine again in the future.
 
 ### Meaning
 

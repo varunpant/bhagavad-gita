@@ -8,11 +8,10 @@ sutra: 18
 position: 222
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि
 शुनि चैव श्वपाके च पण्डिताः समदर्शिनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 222
 
 
 ### Transliteration
-```
+{{< lines >}}
 vidyāvinayasaṃpanne brāhmaṇe gavi hastini
 śuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+ज्ञानी जन विद्या और विनय से युक्त ब्राह्मण, गाय, हाथी, कुत्ते और चाण्डाल को समान दृष्टि से देखने वाले होते हैं।
 
 ### भावार्थ
 
 सच्चा ज्ञान सभी जीवित प्राणियों के भीतर एक ही आध्यात्मिक तत्व को देखने में है, चाहे उनका बाहरी रूप या सामाजिक स्थिति कुछ भी हो। एक आत्म-साक्षात्कारी व्यक्ति भौतिक शरीरों के आधार पर भेदभाव नहीं करता है, और एक विद्वान ब्राह्मण, पशु या चाण्डाल में परमात्मा को समान रूप से देखता है।
+
+### Translation
+
+The wise see with equal vision a learned and humble brahmana, a cow, an elephant, a dog, and a dog-eater (outcaste).
 
 ### Meaning
 

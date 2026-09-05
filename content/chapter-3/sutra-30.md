@@ -8,11 +8,10 @@ sutra: 30
 position: 149
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा
 निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 149
 
 
 ### Transliteration
-```
+{{< lines >}}
 mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā
 nirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अपने सभी कर्मों को मुझे समर्पित करके, परमात्मा में मन लगाकर, आशारहित और ममतारहित होकर, संताप (शोक) से मुक्त होकर युद्ध करो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को कर्मयोग का सर्वोच्च सिद्धांत बताते हैं। वे अर्जुन को निर्देश देते हैं कि वह अपने सभी कर्मों को भगवान को अर्पित कर दे और फल की इच्छा तथा स्वामित्व की भावना (ममता) को त्याग दे। परमात्मा में ध्यान लगाकर और मानसिक संताप या शोक से मुक्त होकर युद्ध करने से कर्म बंधन का कारण नहीं बनते, बल्कि आध्यात्मिक साधना बन जाते हैं।
+
+### Translation
+
+Dedicating all actions to Me, with your mind fixed on the Supreme Self, free from desire and the sense of ownership, fight, freed from your mental fever.
 
 ### Meaning
 

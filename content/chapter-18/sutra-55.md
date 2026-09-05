@@ -8,11 +8,10 @@ sutra: 55
 position: 678
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः
 ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 678
 
 
 ### Transliteration
-```
+{{< lines >}}
 bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ
 tato māṃ tattvato jñātvā viśate tadanantaram
+{{< /lines >}}
 
-```
+### अनुवाद
+
+केवल भक्ति के द्वारा ही कोई मुझे वास्तव में जान सकता है कि मैं कौन हूँ और क्या हूँ। इस प्रकार मुझे तत्त्व से जानकर, वह उसके पश्चात् मुझमें प्रवेश कर जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण भक्ति की सर्वोच्चता को स्थापित करते हैं। केवल अनन्य भक्ति के द्वारा ही परमेश्वर के वास्तविक स्वरूप को समझा जा सकता है। जब साधक भगवान को तत्त्व से जान लेता है, तब वह माया के बंधनों से मुक्त होकर भगवान के दिव्य धाम में प्रवेश करता है और उनके साथ एकाकार हो जाता है।
+
+### Translation
+
+By devotion he knows Me in truth, how great and who I am; then, having known Me in truth, he forthwith enters into Me.
 
 ### Meaning
 

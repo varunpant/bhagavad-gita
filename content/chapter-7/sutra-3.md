@@ -8,11 +8,10 @@ sutra: 3
 position: 283
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मनुष्याणां सहस्रेषु कश्िचद्यतति सिद्धये
 यततामपि सिद्धानां कश्िचन्मां वेत्ति तत्त्वतः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 283
 
 
 ### Transliteration
-```
+{{< lines >}}
 manuṣyāṇāṃ sahasreṣu kaścidyatati siddhaye
 yatatāmapi siddhānāṃ kaścizmāṃ vetti tattvataḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हजारों मनुष्यों में से कोई एक सिद्धि के लिए प्रयत्न करता है
+और उन प्रयत्न करने वाले सिद्धों में से भी कोई एक ही मुझे तत्त्व से जानता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण आत्म-साक्षात्कार के मार्ग की दुर्लभता को स्पष्ट करते हैं। वे बताते हैं कि आध्यात्मिक पूर्णता की खोज करने वाले लोग बहुत कम होते हैं। और जो लोग इस मार्ग पर चलते हैं, उनमें से भी अत्यंत विरले ही भगवान के वास्तविक स्वरूप को पूर्णतः समझ पाते हैं।
+
+### Translation
+
+Among thousands of men, scarcely one strives for perfection
+and of those who strive and succeed, scarcely one knows Me in truth
 
 ### Meaning
 

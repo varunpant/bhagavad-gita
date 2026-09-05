@@ -8,11 +8,10 @@ sutra: 33
 position: 405
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च
 अहमेवाक्षयः कालो धाताऽहं विश्वतोमुखः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,24 @@ faces in all directions.
 
 
 ### Transliteration
-```
+{{< lines >}}
 akṣarāṇāmakāro'smi dvandvaḥ sāmāsikasya ca
 ahamevākṣayaḥ kālo dhātā'haṃ viśvatomukhaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अक्षरों में मैं अकार हूँ और समासों में द्वन्द्व समास हूँ
+मैं ही अक्षय काल हूँ और सब ओर मुख वाला धाता हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी विभूतियों का वर्णन करते हुए कहते हैं कि वे वर्णमाला के सभी अक्षरों में प्रथम और मुख्य अक्षर 'अ' हैं। व्याकरण के समासों में वे 'द्वन्द्व' समास हैं, जिसमें दोनों पदों की प्रधानता होती है। वे कभी नष्ट न होने वाले महाकाल हैं और सृष्टि का पोषण करने वाले सर्वव्यापी विधाता हैं।
+
+### Translation
+
+Of letters I am the letter A, and of compound words I am the dual compound
+I alone am infinite time, and I am the sustainer looking in all directions
 
 ### Meaning
 

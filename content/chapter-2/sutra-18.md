@@ -8,11 +8,10 @@ sutra: 18
 position: 65
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः
 अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 65
 
 
 ### Transliteration
-```
+{{< lines >}}
 antavanta ime dehā nityasyoktāḥ śarīriṇaḥ
 anāśino'prameyasya tasmādyudhyasva bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस नित्य, अविनाशी और अप्रमेय जीवात्मा के ये शरीर नाशवान कहे गए हैं। इसलिए, हे भरतवंशी, युद्ध करो।
 
 ### भावार्थ
 
 भगवान कृष्ण भौतिक शरीर और आत्मा के बीच के मूलभूत अंतर को स्पष्ट करते हैं। जहाँ एक ओर यह भौतिक शरीर अस्थायी और नाशवान है, वहीं इसके भीतर निवास करने वाली आत्मा नित्य, अविनाशी और अकल्पनीय है। चूँकि वास्तविक स्वरूप (आत्मा) को कभी मारा नहीं जा सकता, इसलिए कृष्ण अर्जुन को अपना शोक त्याग कर एक क्षत्रिय के रूप में युद्ध करने का निर्देश देते हैं।
+
+### Translation
+
+These bodies of the eternal, indestructible, and immeasurable embodied soul are said to have an end. Therefore, fight, O descendant of Bharata.
 
 ### Meaning
 

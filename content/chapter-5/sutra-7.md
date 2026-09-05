@@ -8,11 +8,10 @@ sutra: 7
 position: 211
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः
 सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 211
 
 
 ### Transliteration
-```
+{{< lines >}}
 yogayukto viśuddhātmā vijitātmā jitendriyaḥ
 sarvabhūtātmabhūtātmā kurvannapi na lipyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो कर्मयोग में लगा हुआ है, जिसका अंतःकरण शुद्ध है, जिसने अपने मन और इंद्रियों को जीत लिया है, और जो संपूर्ण प्राणियों के आत्मा को अपना आत्मा मानता है, वह कर्म करता हुआ भी लिप्त नहीं होता।
 
 ### भावार्थ
 
 यह श्लोक एक सच्चे कर्मयोगी की उच्च अवस्था का वर्णन करता है। अपने अंतःकरण को शुद्ध करके तथा मन और इंद्रियों को वश में करके, ऐसा व्यक्ति सभी जीवों में एक ही परमात्मा के दर्शन करता है। चूँकि वह बिना किसी स्वार्थ के कार्य करता है और सर्वत्र ईश्वर को देखता है, इसलिए उसके कर्म उसे किसी भी प्रकार के बंधन में नहीं डालते।
+
+### Translation
+
+One who is engaged in karma yoga, whose mind is pure, who has controlled his mind and senses, and who sees his own self as the Self in all beings, is not tainted even while performing actions.
 
 ### Meaning
 

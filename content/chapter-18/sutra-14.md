@@ -8,11 +8,10 @@ sutra: 14
 position: 637
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अधिष्ठानं तथा कर्ता करणं च पृथग्विधम्
 विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 637
 
 
 ### Transliteration
-```
+{{< lines >}}
 adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham
 vividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अधिष्ठान (शरीर) तथा कर्ता, और विभिन्न प्रकार के करण (इन्द्रियाँ),
+और विविध प्रकार की पृथक चेष्टाएँ, तथा पाँचवाँ कारण दैव (परमात्मा) ही है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण किसी भी कर्म की सिद्धि के लिए पाँच आवश्यक कारणों का वर्णन कर रहे हैं। ये पाँच कारण हैं: शरीर (अधिष्ठान), कर्ता (जीवात्मा), विभिन्न इन्द्रियाँ (करण), अनेक प्रकार की चेष्टाएँ (प्रयास), और अंत में दैव (परमात्मा की इच्छा या प्रारब्ध)। इन पाँचों के बिना कोई भी कर्म संपन्न नहीं हो सकता।
+
+### Translation
+
+The seat of action, the doer, the various senses,
+the many different kinds of endeavors, and the divine providence as the fifth factor.
 
 ### Meaning
 

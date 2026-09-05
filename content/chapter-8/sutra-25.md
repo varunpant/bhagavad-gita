@@ -8,11 +8,10 @@ sutra: 25
 position: 335
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम्
 तत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 335
 
 
 ### Transliteration
-```
+{{< lines >}}
 dhūmo rātris tathā kṛṣṇaḥ ṣaṇ-māsā dakṣiṇāyanam
 tatra cāndramasaṃ jyotir yogī prāpya nivartate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+धूम, रात्रि, तथा कृष्णपक्ष और दक्षिणायन के छह महीने—
+इस मार्ग में प्रयाण करने वाला योगी चन्द्रमा की ज्योति को प्राप्त होकर वापस लौट आता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस मार्ग का वर्णन करते हैं जिसे 'धूम मार्ग' या 'पितृयान' कहा जाता है। जो योगी सकाम कर्मों में लगे रहते हैं और इस अंधकारमय मार्ग से शरीर त्यागते हैं, वे स्वर्गलोक या चंद्रलोक को प्राप्त करते हैं। वहाँ अपने पुण्यों का भोग करने के बाद, उन्हें पुनः इस मृत्युलोक में जन्म लेना पड़ता है।
+
+### Translation
+
+Smoke, night, as well as the dark fortnight, and the six months of the southern solstice—
+there, attaining the lunar light, the yogi returns.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 30
 position: 653
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये
 बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 653
 
 
 ### Transliteration
-```
+{{< lines >}}
 pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye
 bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जो बुद्धि प्रवृत्ति और निवृत्ति को, कर्तव्य और अकर्तव्य को, भय और अभय को, तथा बन्धन और मोक्ष को यथार्थ रूप से जानती है, वह बुद्धि सात्त्विकी है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक बुद्धि के लक्षणों का वर्णन करते हैं। सात्त्विक बुद्धि वह है जो धर्म और अधर्म, कर्तव्य और अकर्तव्य के बीच स्पष्ट अंतर कर सकती है। यह मनुष्य को सही मार्ग चुनने और बन्धन से मुक्त होकर मोक्ष प्राप्त करने में मार्गदर्शन करती है।
+
+### Translation
+
+O Partha, that intellect by which one knows path of action and the path of renunciation, what ought to be done and what ought not to be done, fear and fearlessness, and bondage and liberation, is sattvika
 
 ### Meaning
 

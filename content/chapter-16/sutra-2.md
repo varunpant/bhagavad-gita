@@ -8,11 +8,10 @@ sutra: 2
 position: 573
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्
 दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 573
 
 
 ### Transliteration
-```
+{{< lines >}}
 ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam
 dayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अहिंसा, सत्य, क्रोध न करना, त्याग, शांति, चुगली न करना
+प्राणियों पर दया, लोभ न होना, कोमलता, लज्जा और चंचलता का अभाव
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण दैवी संपदा (दैवीय गुणों) के लक्षणों का वर्णन जारी रखते हैं। यहाँ अहिंसा, सत्य, अक्रोध, त्याग, शांति, अपैशुन (निंदा न करना), दया, अलोलुप्त्व (लोभहीनता), कोमलता, लज्जा और अचंचलता जैसे गुणों को गिनाया गया है। ये गुण मनुष्य के अंतःकरण को शुद्ध करते हैं और उसे आध्यात्मिक मार्ग पर आगे बढ़ाते हैं।
+
+### Translation
+
+Non-violence, truthfulness, absence of anger, renunciation, peace, absence of crookedness or slander
+compassion to all living beings, freedom from greed, gentleness, modesty, and absence of fickleness
 
 ### Meaning
 

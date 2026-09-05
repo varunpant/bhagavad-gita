@@ -8,11 +8,10 @@ sutra: 69
 position: 692
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न च तस्मान्मनुष्येषु कश्िचन्मे प्रियकृत्तमः
 भविता न च मे तस्मादन्यः प्रियतरो भुवि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 692
 
 
 ### Transliteration
-```
+{{< lines >}}
 na ca tasmān manuṣyeṣu kaścin me priyakṛttamaḥ
 bhavitā na ca me tasmād anyaḥ priyataro bhuvi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और मनुष्यों में न तो उससे बढ़कर मेरा कोई अत्यंत प्रिय कार्य करने वाला है, और न ही पृथ्वी पर उससे बढ़कर मेरा कोई अन्य अत्यंत प्रिय होगा।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस भक्त की महिमा गा रहे हैं जो गीता के इस परम रहस्यमय ज्ञान का प्रचार दूसरों में करता है। वे कहते हैं कि ऐसा प्रचारक उनका सबसे प्रिय सेवक है। भविष्य में भी पृथ्वी पर उससे बढ़कर कोई अन्य उन्हें प्रिय नहीं होगा।
+
+### Translation
+
+And among men, there is none who performs a more dear service to Me than he, nor shall there ever be another on earth more dear to Me than he.
 
 ### Meaning
 

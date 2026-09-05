@@ -8,11 +8,10 @@ sutra: 65
 position: 688
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु
 मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 688
 
 
 ### Transliteration
-```
+{{< lines >}}
 manmanā bhava madbhakto madyājī māṃ namaskuru
 māmevaiṣyasi satyaṃ te pratijāne priyo'si me
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझमें मन वाला हो, मेरा भक्त बन, मेरा पूजन करने वाला हो और मुझे नमस्कार कर
+तू मुझे ही प्राप्त होगा, यह मैं तुझसे सत्य प्रतिज्ञा करता हूँ क्योंकि तू मेरा अत्यंत प्रिय है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को परम कल्याणकारी गुप्त उपदेश दे रहे हैं। वे अर्जुन को अपने मन, भक्ति और कर्मों को पूरी तरह से भगवान में अर्पित करने के लिए कहते हैं। भगवान आश्वासन देते हैं कि ऐसा करने वाला भक्त निश्चित रूप से उन्हें ही प्राप्त करता है, क्योंकि वह भगवान का अत्यंत प्रिय सखा है।
+
+### Translation
+
+Fix your mind on Me, be devoted to Me, worship Me, and offer obeisance to Me
+Thus you shall come to Me alone; I promise you this in truth, for you are dear to Me
 
 ### Meaning
 

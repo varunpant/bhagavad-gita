@@ -8,11 +8,10 @@ sutra: 22
 position: 332
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया
 यस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 332
 
 
 ### Transliteration
-```
+{{< lines >}}
 puruṣaḥ sa paraḥ pārtha bhaktyā labhyas-tv-ananyayā
 yasyāntaḥsthāni bhūtāni yena sarvam-idaṃ tatam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! वह परम पुरुष तो अनन्य भक्ति द्वारा ही प्राप्त होने योग्य है, जिसके अंतर्गत सभी भूत (प्राणी) स्थित हैं और जिससे यह सब जगत व्याप्त है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि परम पुरुष (परमात्मा) को केवल अनन्य भक्ति के द्वारा ही प्राप्त किया जा सकता है। वह परमात्मा सर्वव्यापी है; समस्त चराचर प्राणी उसी के भीतर स्थित हैं और उसी के द्वारा यह संपूर्ण ब्रह्मांड व्याप्त है। यह भक्ति मार्ग की सर्वोच्चता और ईश्वर की सर्वव्यापकता को दर्शाता है।
+
+### Translation
+
+O Partha! That Supreme Purusha is attainable only by unswerving devotion, within whom all beings dwell and by whom all this universe is pervaded.
 
 ### Meaning
 

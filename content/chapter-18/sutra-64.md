@@ -8,11 +8,10 @@ sutra: 64
 position: 687
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वगुह्यतमं भूयः श्रृणु मे परमं वचः
 इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 687
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ
 iṣṭo'si me dṛḍhamiti tato vakṣyāmi te hitam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सभी गुप्त रहस्यों से भी परम गोपनीय मेरे परम वचन को तुम फिर से सुनो। तुम मेरे अत्यंत प्रिय हो, इसलिए मैं तुम्हारे कल्याण के लिए यह कहूँगा।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण अर्जुन को गीता का अंतिम और सबसे महत्वपूर्ण उपदेश देने से पूर्व उसका ध्यान आकर्षित कर रहे हैं। वे अर्जुन को आश्वस्त करते हैं कि यह ज्ञान अत्यंत गोपनीय है, परंतु अर्जुन के प्रति उनके अगाध प्रेम के कारण वे इसे पुनः प्रकट कर रहे हैं। यह भगवान की अपने भक्त के प्रति परम अनुकम्पा को दर्शाता है।
+
+### Translation
+
+Listen again to My supreme word, the most secret of all. Because you are dearly beloved to Me, I will speak what is for your benefit.
 
 ### Meaning
 

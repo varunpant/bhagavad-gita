@@ -8,11 +8,10 @@ sutra: 20
 position: 571
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इति गुह्यतमं शास्त्रमिदमुक्तं मयाऽनघ
 एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 571
 
 
 ### Transliteration
-```
+{{< lines >}}
 iti guhyatamaṃ śāstramidamuktaṃ mayā'nagha
 etadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे निष्पाप अर्जुन! इस प्रकार यह अति रहस्यमय शास्त्र मेरे द्वारा कहा गया है। इसे जानकर मनुष्य बुद्धिमान और कृतार्थ हो जाता है, हे भरतवंशी।
 
 ### भावार्थ
 
 इस श्लोक में श्रीकृष्ण पंद्रहवें अध्याय के उपदेश का उपसंहार कर रहे हैं। वे इस ज्ञान को 'गुह्यतमम्' (अत्यंत गोपनीय) कहते हैं क्योंकि यह परम सत्य को प्रकट करता है। इसे समझने से मनुष्य को वास्तविक बुद्धि प्राप्त होती है और वह जीवन के परम लक्ष्य को प्राप्त कर कृतकृत्य हो जाता है।
+
+### Translation
+
+Thus, this most secret scripture has been spoken by Me, O sinless one. By understanding this, a person becomes wise and has accomplished all his duties, O descendant of Bharata.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 53
 position: 100
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला
 समाधावचला बुद्धिस्तदा योगमवाप्स्यसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 100
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrutivipratipannā te yadā sthāsyati niścalā
 samādhāvacalā buddhistadā yogamavāpsyasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जब तुम्हारी बुद्धि, जो वेदों के अनेक अर्थों को सुनने से विचलित हो गई है, समाधि में अचल और स्थिर हो जाएगी, तब तुम योग को प्राप्त करोगे।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण आध्यात्मिक बुद्धि की परिणति को समझाते हैं। अर्जुन का मन वर्तमान में शास्त्रों में वर्णित विभिन्न सकाम कर्मों और मतभेदों को सुनकर भ्रमित है। कृष्ण उसे आश्वस्त करते हैं कि जब उसकी बुद्धि इन सबसे विरक्त होकर परमात्मा के ध्यान (समाधि) में पूरी तरह से स्थिर और अचल हो जाएगी, तब उसे वास्तविक योग या आत्म-साक्षात्कार की प्राप्ति होगी।
+
+### Translation
+
+When your intelligence, bewildered by hearing various interpretations of the Vedas, shall stand unmoved and unwavering in divine consciousness, then you shall attain yoga.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 51
 position: 674
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बुद्ध्या विशुद्धया युक्तो धृत्याऽऽत्मानं नियम्य च
 शब्दादीन् विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 674
 
 
 ### Transliteration
-```
+{{< lines >}}
 buddhyā viśuddhayā yukto dhṛtyā'tmānaṃ niyamya ca
 śabdādīn viṣayāṃstyaktvā rāgadveṣau vyudasya ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+विशुद्ध बुद्धि से युक्त होकर तथा धैर्य के द्वारा मन को वश में करके, शब्दादि विषयों का त्याग कर और राग-द्वेष को नष्ट करके
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण उस साधक के आंतरिक अनुशासन का वर्णन करते हैं जो ब्रह्म-भाव को प्राप्त करने के योग्य बनता है। साधक को अपनी बुद्धि को शुद्ध रखना चाहिए और दृढ़ संकल्प के साथ मन तथा इंद्रियों को वश में करना चाहिए। उसे सांसारिक विषयों के प्रति आसक्ति और द्वेष दोनों का त्याग करना होता है ताकि वह ध्यान में स्थिर हो सके।
+
+### Translation
+
+Endowed with a purified intellect, controlling the self with determination, abandoning sound and other sense objects, and casting aside attachment and aversion
 
 ### Meaning
 

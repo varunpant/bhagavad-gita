@@ -8,11 +8,10 @@ sutra: 39
 position: 86
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एषा तेऽभिहिता सांख्ये बुद्धिर्योगे त्विमां श्रृणु
 बुद्ध्यायुक्तो यया पार्थ कर्मबन्धं प्रहास्यसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 86
 
 
 ### Transliteration
-```
+{{< lines >}}
 eṣā te'bhihitā sāṃkhye buddhiryoge tvimāṃ śṛṇu
 buddhyāyukto yayā pārtha karmabandhaṃ prahāsyasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! यह ज्ञान तुम्हारे लिए सांख्य (ज्ञान योग) के विषय में कहा गया है। अब तुम इसे योग (कर्म योग) के विषय में सुनो, जिस बुद्धि से युक्त होकर तुम कर्मों के बंधन को पूरी तरह से काट दोगे।
 
 ### भावार्थ
 
 पिछले श्लोकों में भगवान कृष्ण ने आत्मा की अमरता और शरीर की नश्वरता का वर्णन किया, जो सांख्य दर्शन (ज्ञान योग) है। अब वे कर्म योग की ओर बढ़ते हैं, जो इस ज्ञान का व्यावहारिक रूप है। फल की आसक्ति के बिना कर्म करने से मनुष्य कर्मों के बंधन से मुक्त हो जाता है।
+
+### Translation
+
+O Partha, this knowledge has been declared to you in the analytical study (Sankhya). Now listen to this in terms of Yoga (selfless action), endowed with which understanding you will cast off the bondage of action.
 
 ### Meaning
 

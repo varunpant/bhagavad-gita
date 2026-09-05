@@ -8,11 +8,10 @@ sutra: 24
 position: 647
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः
 क्रियते बहुलायासं तद्राजसमुदाहृतम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 647
 
 
 ### Transliteration
-```
+{{< lines >}}
 yat tu kāmepsunā karma sāhaṅkāreṇa vā punaḥ
 kriyate bahulāyāsaṃ tad rājasam udāhṛtam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परंतु जो कर्म भोगों की इच्छा रखने वाले पुरुष द्वारा, अथवा अहंकारयुक्त पुरुष द्वारा, बहुत परिश्रम के साथ किया जाता है, वह कर्म राजस कहा गया है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजस कर्म के लक्षणों का वर्णन कर रहे हैं। राजस कर्म वह है जो वासनाओं या फलों की इच्छा से प्रेरित होकर, अहंकार के भाव के साथ और अत्यधिक शारीरिक या मानसिक श्रम के साथ किया जाता है। ऐसा कर्म कर्ता को थका देता है और उसे संसार के बंधनों में बांधता है।
+
+### Translation
+
+But that action which is performed with a desire for fruits, or with egoism, and with great effort, is declared to be Rajasika.
 
 ### Meaning
 

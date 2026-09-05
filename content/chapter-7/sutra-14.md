@@ -8,11 +8,10 @@ sutra: 14
 position: 294
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दैवी ह्येषा गुणमयी मम माया दुरत्यया
 मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 294
 
 
 ### Transliteration
-```
+{{< lines >}}
 daivī hyeṣā guṇamayī mama māyā duratyayā
 māmeva ye prapadyante māyāmetāṃ taranti te
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि यह अलौकिक त्रिगुणमयी मेरी माया पार करने में अत्यंत कठिन है
+जो केवल मेरी ही शरण में आते हैं, वे इस माया को पार कर जाते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपनी माया की शक्ति और उससे पार पाने का उपाय बताते हैं। वे कहते हैं कि प्रकृति के तीन गुणों (सत्त्व, रज, तम) से बनी उनकी यह अलौकिक माया अत्यंत शक्तिशाली है और इसे अपने प्रयासों से पार करना असंभव है। केवल वे ही इस माया के बंधन से मुक्त हो सकते हैं जो पूर्ण रूप से भगवान की शरण में आ जाते हैं।
+
+### Translation
+
+For this divine illusion of Mine, consisting of the three modes of material nature, is difficult to overcome
+Those who surrender unto Me alone, cross over this illusion
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 76
 position: 699
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम्
 केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 699
 
 
 ### Transliteration
-```
+{{< lines >}}
 rājan saṃsmṛtya saṃsmṛtya saṃvādam imam adbhutam
 keśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे राजन! केशव और अर्जुन के इस अद्भुत तथा पवित्र संवाद को बार-बार स्मरण करके मैं बार-बार हर्षित हो रहा हूँ
 
 ### भावार्थ
 
 संजय धृतराष्ट्र को संबोधित करते हुए अपनी आंतरिक प्रसन्नता व्यक्त कर रहे हैं। वे कहते हैं कि श्री कृष्ण और अर्जुन के बीच हुए इस परम पावन और विस्मयकारी संवाद का स्मरण करने मात्र से ही उनका हृदय बार-बार आनंद से भर उठता है। यह संवाद केवल ज्ञान का स्रोत नहीं है, बल्कि परम आनंद प्रदान करने वाला है।
+
+### Translation
+
+O King, remembering again and again this wonderful and sacred dialogue between Keshava and Arjuna, I rejoice over and over again
 
 ### Meaning
 

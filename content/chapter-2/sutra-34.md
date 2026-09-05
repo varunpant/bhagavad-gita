@@ -8,11 +8,10 @@ sutra: 34
 position: 81
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्
 संभावितस्य चाकीर्तिर्मरणादतिरिच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 81
 
 
 ### Transliteration
-```
+{{< lines >}}
 akīrtiṃ cāpi bhūtāni kathayiṣyanti te'vyayām
 saṃbhāvitasya cākīrtirmaraṇādatiricyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+लोग तुम्हारी शाश्वत अपकीर्ति का भी वर्णन करेंगे। और एक सम्मानित व्यक्ति के लिए अपकीर्ति मृत्यु से भी बढ़कर होती है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को युद्धभूमि से भागने के सामाजिक परिणामों के बारे में चेतावनी देते हैं। वे समझाते हैं कि लोग हमेशा उसकी कायरता और अपयश की चर्चा करेंगे। एक ऐसे योद्धा के लिए जिसे हमेशा बहुत सम्मान मिला हो, यह स्थायी कलंक मृत्यु से भी अधिक कष्टदायक होता है।
+
+### Translation
+
+People will also speak of your unending infamy. And for a respectable person, infamy is worse than death.
 
 ### Meaning
 

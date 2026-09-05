@@ -8,11 +8,10 @@ sutra: 42
 position: 456
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यच्चावहासार्थमसत्कृतोऽसि    विहारशय्यासनभोजनेषु
 एकोऽथवाप्यच्युत तत्समक्षं    तत्क्षामये त्वामहमप्रमेयम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 456
 
 
 ### Transliteration
-```
+{{< lines >}}
 yaccāvahāsārthamasatkṛto'si vihāraśayyāsanabhojaneṣu
 eko'thavāpyacyuta tatsamakṣaṃ tatkṣāmaye tvāmahamaprameyam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और परिहास के लिए विहार, शय्या, आसन और भोजन आदि में अकेले अथवा उन मित्रों के सामने जो भी आपका अनादर हुआ है, हे अच्युत! उस सब के लिए मैं आपसे क्षमा माँगता हूँ, जो कि अप्रमेय (अचिन्त्य प्रभाव वाले) हैं।
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण के विराट रूप को देखकर भयभीत और विस्मित हैं। वे अतीत में अपनी अज्ञानतावश की गई गलतियों के लिए क्षमा याचना कर रहे हैं, जब उन्होंने कृष्ण को केवल एक साधारण मित्र मानकर उनके साथ हँसी-मजाक किया था या उनका अनादर किया था।
+
+### Translation
+
+And for whatever disrespect was shown to You in jest, while playing, reposing, sitting, or eating, either alone or in the presence of others, O Achyuta (Infallible One), I crave forgiveness from You, who are immeasurable.
 
 ### Meaning
 

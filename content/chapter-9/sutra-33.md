@@ -8,11 +8,10 @@ sutra: 33
 position: 371
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा
 अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 371
 
 
 ### Transliteration
-```
+{{< lines >}}
 kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā
 anityamasukhaṃ lokamimaṃ prāpya bhajasva mām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+फिर पुण्यशाली ब्राह्मणों और भक्त राजर्षियों के विषय में तो कहना ही क्या है! इसलिए इस अनित्य और सुखरहित संसार को प्राप्त करके तुम मेरा ही भजन करो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि जब अत्यंत पापी व्यक्ति भी अनन्य भक्ति से परम गति पा सकते हैं, तो पवित्र आचरण वाले ब्राह्मणों और राजर्षियों के उद्धार में तो कोई संशय ही नहीं है। वे इस भौतिक संसार को क्षणभंगुर और दुखों का घर बताते हुए अर्जुन को केवल ईश्वर की भक्ति में मन लगाने की प्रेरणा देते हैं।
+
+### Translation
+
+How much more, then, the holy brāhmaṇas and devoted royal sages! Having come to this transient and joyless world, do worship Me.
 
 ### Meaning
 

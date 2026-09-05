@@ -8,11 +8,10 @@ sutra: 19
 position: 299
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते
 वासुदेवः सर्वमिति स महात्मा सुदुर्लभः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 299
 
 
 ### Transliteration
-```
+{{< lines >}}
 bahūnāṃ janmanām ante jñānavān māṃ prapadyate
 vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+बहुत जन्मों के अन्त में ज्ञानवान् पुरुष मुझको भजता है, सब कुछ वासुदेव ही है—ऐसा मानने वाला वह महात्मा अत्यन्त दुर्लभ है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ज्ञानमार्गी भक्त की महिमा का वर्णन कर रहे हैं। अनेक जन्मों के आध्यात्मिक प्रयासों और साधना के बाद, जब साधक को पूर्ण ज्ञान प्राप्त होता है, तब वह समझता है कि सब कुछ परमात्मा (वासुदेव) ही है। ऐसा सर्वत्र ईश्वर-दर्शन करने वाला महात्मा संसार में अत्यंत दुर्लभ होता है।
+
+### Translation
+
+At the end of many births, the man of wisdom surrenders unto Me, realizing that Vasudeva is all. Such a great soul is very rare.
 
 ### Meaning
 

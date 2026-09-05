@@ -8,11 +8,10 @@ sutra: 13
 position: 132
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः
 भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 132
 
 
 ### Transliteration
-```
+{{< lines >}}
 yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ
 bhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यज्ञ से बचे हुए अन्न को खाने वाले श्रेष्ठ पुरुष सब पापों से मुक्त हो जाते हैं। परन्तु जो पापी लोग केवल अपने शरीर-पोषण के लिए ही अन्न पकाते हैं, वे तो पाप ही खाते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण भोजन को ग्रहण करने से पहले उसे भगवान को अर्पित करने के आध्यात्मिक सिद्धांत को समझाते हैं। जो लोग यज्ञ (भगवान को अर्पण) के बाद बचे हुए शेष भाग को प्रसाद रूप में ग्रहण करते हैं, वे सभी पापों से मुक्त हो जाते हैं। इसके विपरीत, जो लोग स्वार्थवश केवल अपने लिए ही भोजन पकाते हैं, वे वास्तव में केवल पाप ही खाते हैं और कर्म-बंधन में फँसते हैं।
+
+### Translation
+
+The virtuous who eat the remnants of the sacrifice are freed from all sins. But those sinful ones who cook food for their own sake eat only sin.
 
 ### Meaning
 

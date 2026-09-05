@@ -8,12 +8,11 @@ sutra: 73
 position: 696
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत
 स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 696
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 naṣṭo mohaḥ smṛtirlabdhā tvatprasādānmayācyuta
 sthito'smi gatasandehaḥ kariṣye vacanaṃ tava
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे अच्युत! आपकी कृपा से मेरा मोह नष्ट हो गया है और मुझे स्मृति प्राप्त हो गई है। अब मैं संशयरहित होकर स्थिर हूँ, और आपकी आज्ञा का पालन करूँगा।
 
 ### भावार्थ
 
 यह भगवद्गीता का अंतिम श्लोक है जिसमें अर्जुन बोलते हैं। कृष्ण के उपदेश को सुनने के बाद, अर्जुन का अज्ञान और भ्रम पूरी तरह से समाप्त हो जाता है। वे अपने वास्तविक स्वरूप और कर्तव्य को पहचान लेते हैं और युद्ध करने के लिए तैयार हो जाते हैं।
+
+### Translation
+
+Arjuna said:
+My delusion is destroyed and memory has been regained by me through Your grace, O Infallible One. I am now firm and free from doubt; I shall act according to Your word.
 
 ### Meaning
 

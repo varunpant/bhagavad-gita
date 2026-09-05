@@ -8,11 +8,10 @@ sutra: 17
 position: 541
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च
 प्रमादमोहौ तमसो भवतोऽज्ञानमेव च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 541
 
 
 ### Transliteration
-```
+{{< lines >}}
 sattvāt sañjāyate jñānaṃ rajaso lobha eva ca
 pramādamohau tamaso bhavato 'jñānameva ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सत्त्वगुण से ज्ञान उत्पन्न होता है और रजोगुण से निश्चित ही लोभ उत्पन्न होता है
+तथा तमोगुण से प्रमाद और मोह उत्पन्न होते हैं और अज्ञान भी उत्पन्न होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तीनों गुणों के प्रभावों का वर्णन कर रहे हैं। सत्त्वगुण बुद्धि को निर्मल कर ज्ञान का प्रकाश फैलाता है। रजोगुण मनुष्य में सांसारिक वस्तुओं के प्रति तृष्णा और लोभ उत्पन्न करता है। तमोगुण के प्रभाव से मनुष्य में आलस्य, कर्तव्यहीनता (प्रमाद), मोह और अज्ञान का उदय होता है।
+
+### Translation
+
+From sattva arises knowledge, and from rajas, greed indeed;
+from tamas arise negligence and delusion, and also ignorance.
 
 ### Meaning
 

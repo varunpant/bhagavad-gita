@@ -8,11 +8,10 @@ sutra: 30
 position: 77
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 देही नित्यमवध्योऽयं देहे सर्वस्य भारत
 तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 77
 
 
 ### Transliteration
-```
+{{< lines >}}
 dehī nityamavadhyo'yaṃ dehe sarvasya bhārata
 tasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतवंशी! सबके शरीर में यह देही (आत्मा) नित्य अवध्य है। इसलिए, तुम्हें किसी भी प्राणी के लिए शोक नहीं करना चाहिए।
 
 ### भावार्थ
 
 भगवान कृष्ण आत्मा की अमरता के विषय में अपने तर्कों का निष्कर्ष निकालते हैं। वे स्पष्ट करते हैं कि सभी प्राणियों के शरीर में निवास करने वाली आत्मा को कभी भी मारा नहीं जा सकता है। इसलिए, युद्ध में अपने स्वजनों की मृत्यु की आशंका से अर्जुन का शोक करना सर्वथा अनुचित है, क्योंकि उनका वास्तविक स्वरूप शाश्वत है।
+
+### Translation
+
+O descendant of Bharata, this embodied soul in the body of everyone is eternally indestructible. Therefore, you should not grieve for any living beings.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 23
 position: 70
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः
 न चैनं क्लेदयन्त्यापो न शोषयति मारुतः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 70
 
 
 ### Transliteration
-```
+{{< lines >}}
 nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ
 na cainaṃ kledayantyāpo na śoṣayati mārutaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस (आत्मा) को शस्त्र काट नहीं सकते, इसको आग जला नहीं सकती, इसको जल भिगो नहीं सकता, और वायु इसे सुखा नहीं सकती।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को आत्मा की अमर और अविनाशी प्रकृति के बारे में बताते हैं। वे स्पष्ट करते हैं कि भौतिक तत्त्व जैसे शस्त्र, अग्नि, जल और वायु इस शाश्वत आत्मा पर कोई प्रभाव नहीं डाल सकते। यह ज्ञान अर्जुन को अपने स्वजनों की मृत्यु के शोक से मुक्त करने के लिए दिया गया है, क्योंकि उनका वास्तविक स्वरूप कभी नष्ट नहीं हो सकता।
+
+### Translation
+
+Weapons cannot cut this (soul), fire cannot burn this, water cannot wet this, and wind cannot dry this.
 
 ### Meaning
 

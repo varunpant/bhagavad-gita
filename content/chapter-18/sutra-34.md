@@ -8,11 +8,10 @@ sutra: 34
 position: 657
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यया तु धर्मकामार्थान् धृत्या धारयतेऽर्जुन
 प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 657
 
 
 ### Transliteration
-```
+{{< lines >}}
 yayā tu dharmakāmārthān dhṛtyā dhārayate'rjuna
 prasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु हे अर्जुन! फल की इच्छा रखने वाला मनुष्य जिस धारण-शक्ति के द्वारा आसक्तिपूर्वक धर्म, काम और अर्थ को धारण करता है, हे पार्थ! वह धारण-शक्ति राजसी है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजसी धृति (धारण-शक्ति) के लक्षणों का वर्णन करते हैं। जब मनुष्य का संकल्प या धैर्य केवल सांसारिक सुखों, कर्तव्यों और धन-संपत्ति (धर्म, अर्थ, काम) को प्राप्त करने में लगा रहता है और वह हर कर्म के पीछे फल की इच्छा रखता है, तो ऐसी बुद्धि और शक्ति को राजसी माना जाता है। यह आसक्ति और स्वार्थ से प्रेरित होती है।
+
+### Translation
+
+But that determination by which one holds fast to duty, desire, and wealth, O Arjuna, out of attachment and desiring the fruits of action, that determination, O Partha, is of the nature of passion (Rajasic)
 
 ### Meaning
 

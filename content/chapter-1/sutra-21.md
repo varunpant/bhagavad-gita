@@ -8,12 +8,11 @@ sutra: 21
 position: 21
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 हृषीकेशं तदा वाक्यमिदमाह महीपते
 सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -37,16 +36,27 @@ and know with whom I must fight, when the battle is about to commence.
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 hṛṣīkeśaṃ tadā vākyamidamāha mahīpate
 senayorubhayormadhye rathaṃ sthāpaya me'cyuta
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे पृथ्वीपति (धृतराष्ट्र)! तब उन्होंने हृषीकेश (श्रीकृष्ण) से यह वचन कहा:
+हे अच्युत! दोनों सेनाओं के मध्य में मेरे रथ को खड़ा करें।
 
 ### भावार्थ
 
 इस श्लोक में संजय धृतराष्ट्र को बताते हैं कि युद्ध शुरू होने से ठीक पहले अर्जुन ने श्रीकृष्ण से क्या कहा। अर्जुन अपने सारथी श्रीकृष्ण से अनुरोध करते हैं कि वे उनके रथ को कौरव और पांडव सेनाओं के ठीक बीच में ले जाकर खड़ा करें। इससे अर्जुन यह देखना चाहते थे कि युद्धभूमि में उनके विरुद्ध कौन-कौन लड़ने के लिए उपस्थित हैं।
+
+### Translation
+
+Arjuna said:
+O Lord of the earth (Dhritarashtra), he then spoke these words to Hrishikesha (Krishna):
+O Infallible One, please place my chariot between the two armies.
 
 ### Meaning
 

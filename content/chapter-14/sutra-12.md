@@ -8,11 +8,10 @@ sutra: 12
 position: 536
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा
 रजस्येतानि जायन्ते विवृद्धे भरतर्षभ
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 536
 
 
 ### Transliteration
-```
+{{< lines >}}
 lobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā
 rajasyetāni jāyante vivṛddhe bharatarṣabha
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतश्रेष्ठ! रजोगुण के बढ़ने पर लोभ, प्रवृत्ति, कर्मों का आरम्भ, अशान्ति और लालसा—ये सब उत्पन्न होते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को रजोगुण के बढ़ने के लक्षणों के बारे में बता रहे हैं। जब किसी व्यक्ति के भीतर रजोगुण की प्रधानता होती है, तो उसमें धन-सम्पत्ति के प्रति लोभ, निरंतर कर्म करने की प्रवृत्ति, नए सकाम कर्मों का आरम्भ, मन की चंचलता या अशान्ति और सांसारिक वस्तुओं के प्रति तीव्र लालसा उत्पन्न होती है। ये लक्षण रजोगुण की वृद्धि के स्पष्ट संकेतक हैं।
+
+### Translation
+
+O best of the Bharatas, when the mode of passion increases, greed, activity, the undertaking of actions, restlessness, and longing arise
 
 ### Meaning
 

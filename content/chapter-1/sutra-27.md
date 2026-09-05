@@ -8,11 +8,10 @@ sutra: 27
 position: 27
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि
 तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ spoke this, sorrowfully filled with deep pity.
 
 
 ### Transliteration
-```
+{{< lines >}}
 śvaśurān suhṛdaś caiva senayor ubhayor api
 tān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उन कुन्तीपुत्र (अर्जुन) ने दोनों सेनाओं में ससुरों और मित्रों को तथा वहां उपस्थित उन सभी बन्धु-बान्धवों को देखकर...
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन द्वारा कुरुक्षेत्र के युद्ध के मैदान में अपने सगे-संबंधियों को देखने का वर्णन जारी है। वह दोनों पक्षों की सेनाओं में अपने ससुरों, मित्रों और अन्य सभी पारिवारिक सदस्यों को युद्ध के लिए तैयार खड़े देखते हैं। अपने ही प्रियजनों को इस प्रकार मृत्यु के मुख में खड़ा देखकर अर्जुन के मन में गहरी करुणा और विषाद उत्पन्न होने लगता है।
+
+### Translation
+
+He, the son of Kunti, having seen fathers-in-law and well-wishers in both the armies, and having observed all those relatives present there...
 
 ### Meaning
 

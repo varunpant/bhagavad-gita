@@ -8,11 +8,10 @@ sutra: 42
 position: 42
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सङ्करो नरकायैव कुलघ्नानां कुलस्य च
 पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -36,15 +35,22 @@ water (libations).
 
 
 ### Transliteration
-```
+{{< lines >}}
 saṅkaro narakāyaiva kulaghnānāṃ kulasya ca
 patanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यह वर्णसंकर कुलघातियों को और कुल को नरक में ले जाने के लिए ही होता है। श्राद्ध और तर्पण (पिण्ड और जल दान) की क्रियाओं के लुप्त हो जाने से इन (कुलघातियों) के पितर भी (नरक में) गिर जाते हैं।
 
 ### भावार्थ
 
 अर्जुन श्रीकृष्ण को युद्ध के भयंकर परिणामों के बारे में बता रहे हैं। वे कहते हैं कि जब कुल का नाश होता है, तो वर्णसंकर संतानें उत्पन्न होती हैं, जो पूरे परिवार और उसे नष्ट करने वालों को नरक की ओर ले जाती हैं। इसके परिणामस्वरूप, पूर्वजों को दिए जाने वाले पिण्ड और जल दान की परंपराएं समाप्त हो जाती हैं, जिससे पितरों का भी पतन हो जाता है।
+
+### Translation
+
+This unwanted progeny leads both the family and the destroyers of the family to hell. Deprived of the offerings of food and water, the ancestors of these destroyers also fall.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 68
 position: 115
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः
 इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 115
 
 
 ### Transliteration
-```
+{{< lines >}}
 tasmādyasya mahābāho nigṛhītāni sarvaśaḥ
 indriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए, हे महाबाहु! जिसकी इन्द्रियाँ इन्द्रियों के विषयों से सब प्रकार से निगृहीत (वश में) हैं, उसकी बुद्धि स्थिर है।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि इन्द्रियों को वश में करना स्थिर बुद्धि के लिए अत्यंत आवश्यक है। जो व्यक्ति अपनी इन्द्रियों को सांसारिक विषयों से पूरी तरह हटा लेता है, वही सच्चा ज्ञानी है। ऐसे आत्म-संयमी व्यक्ति की प्रज्ञा (बुद्धि) परमात्मा में दृढ़ता से स्थित हो जाती है।
+
+### Translation
+
+Therefore, O mighty-armed one, whose senses are completely restrained from their objects, his wisdom is firmly established.
 
 ### Meaning
 

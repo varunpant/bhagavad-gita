@@ -8,11 +8,10 @@ sutra: 15
 position: 248
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 युञ्जन्नेवं सदाऽऽत्मानं योगी नियतमानसः
 शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 248
 
 
 ### Transliteration
-```
+{{< lines >}}
 yuñjannevaṃ sadā'tmānaṃ yogī niyatamānasaḥ
 śāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस प्रकार अपने मन को निरंतर वश में रखता हुआ, संयमित मन वाला योगी मुझमें स्थित रहने वाली और मोक्ष की पराकाष्ठा रूप परम शांति को प्राप्त करता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ध्यान योग के अभ्यास के अंतिम परिणाम का वर्णन करते हैं। जब साधक निरंतर अपने मन को परमात्मा में लगाता है और अपनी मानसिक वृत्तियों को संयमित कर लेता है, तो उसे परम शांति की प्राप्ति होती है। यह शांति कोई साधारण मानसिक शांति नहीं है, बल्कि यह भौतिक अस्तित्व के बंधनों से मुक्ति (निर्वाण) प्रदान करने वाली और साक्षात् भगवान में स्थित रहने वाली है।
+
+### Translation
+
+Thus constantly keeping the mind integrated, the yogi of controlled mind attains the supreme peace that culminates in liberation and abides in Me
 
 ### Meaning
 

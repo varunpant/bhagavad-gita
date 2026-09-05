@@ -8,11 +8,10 @@ sutra: 13
 position: 608
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम्
 श्रद्धाविरहितं यज्ञं तामसं परिचक्षते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 608
 
 
 ### Transliteration
-```
+{{< lines >}}
 vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam
 śraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शास्त्रविधि से रहित, अन्नदान से रहित, मन्त्रों से रहित, बिना दक्षिणा के और श्रद्धा से रहित यज्ञ को तामस यज्ञ कहा जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण तामस यज्ञ के लक्षणों का वर्णन करते हैं। ऐसा यज्ञ जो शास्त्रों के नियमों के विरुद्ध हो, जिसमें गरीबों या ब्राह्मणों को अन्न न दिया जाए, जिसमें वैदिक मंत्रों का उच्चारण न हो, पुरोहितों को दक्षिणा न दी जाए और जो पूरी तरह से श्रद्धा के बिना किया जाए, वह तामस (अज्ञानता से युक्त) कहलाता है।
+
+### Translation
+
+The sacrifice performed contrary to scriptural injunctions, in which no food is distributed, which is devoid of mantras and priestly gifts, and which is empty of faith, is declared to be tamasic
 
 ### Meaning
 

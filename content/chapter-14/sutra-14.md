@@ -8,11 +8,10 @@ sutra: 14
 position: 538
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत्
 तदोत्तमविदां लोकानमलान्प्रतिपद्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 538
 
 
 ### Transliteration
-```
+{{< lines >}}
 yadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt
 tadottamavidāṃ lokānamalānpratipadyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जब सत्त्वगुण की वृद्धि होने पर जीवात्मा मृत्यु को प्राप्त होता है, तब वह उत्तम तत्त्व को जानने वालों के निर्मल लोकों को प्राप्त होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण बताते हैं कि मृत्यु के समय मनुष्य की मानसिक स्थिति और गुणों की प्रधानता उसके अगले जन्म की गति को निर्धारित करती है। यदि कोई व्यक्ति सत्त्वगुण की प्रधानता के समय शरीर त्यागता है, तो वह पवित्र और उच्च लोकों को प्राप्त करता है जहाँ ज्ञानी पुरुष निवास करते हैं। यह दर्शाता है कि जीवन भर सत्त्वगुण का अभ्यास अंत समय में भी सहायक होता है।
+
+### Translation
+
+When the embodied soul meets death when sattva is predominant, then it attains the stainless worlds of the knowers of the highest truth.
 
 ### Meaning
 

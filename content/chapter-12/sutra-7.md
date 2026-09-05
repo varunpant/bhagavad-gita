@@ -8,11 +8,10 @@ sutra: 7
 position: 476
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तेषामहं समुद्धर्ता मृत्युसंसारसागरात्
 भवामि नचिरात्पार्थ मय्यावेशितचेतसाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 476
 
 
 ### Transliteration
-```
+{{< lines >}}
 teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt
 bhavāmi nacirātpārtha mayyāveśitacetasām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! मुझमें मन लगाने वाले उन भक्तों का मैं मृत्यु रूपी संसार-समुद्र से शीघ्र ही उद्धार करने वाला बन जाता हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि जो भक्त अपने चित्त को पूरी तरह से उनमें लीन कर देते हैं, उनका उद्धार वे स्वयं करते हैं। ऐसे अनन्य भक्तों को जन्म-मृत्यु के चक्र से मुक्त करने के लिए किसी अन्य साधन की आवश्यकता नहीं होती; भगवान स्वयं उनके रक्षक बनते हैं।
+
+### Translation
+
+O Partha, for those whose minds are absorbed in Me, I swiftly become the deliverer from the ocean of the mortal world.
 
 ### Meaning
 

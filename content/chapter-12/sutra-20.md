@@ -8,11 +8,10 @@ sutra: 20
 position: 489
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते
 श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 489
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate
 śraddadhānā matparamā bhaktāste'tīva me priyāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु जो श्रद्धालु पुरुष मेरे परायण होकर, इस ऊपर कहे हुए धर्ममय अमृत का भली-भाँति सेवन करते हैं, वे भक्त मुझे अत्यधिक प्रिय हैं।
 
 ### भावार्थ
 
 यह श्लोक भक्ति योग के बारहवें अध्याय का उपसंहार है। यहाँ भगवान कृष्ण स्पष्ट करते हैं कि जो भक्त इस अध्याय में वर्णित कल्याणकारी और अमृतमय उपदेशों का पूर्ण श्रद्धा के साथ आचरण करते हैं, वे उन्हें अत्यंत प्रिय हैं। भक्ति मार्ग पर चलने वाले साधकों के लिए यह आश्वासन परम गति की प्राप्ति का मार्ग प्रशस्त करता है।
+
+### Translation
+
+But those devotees who, filled with faith and holding Me as their supreme goal, follow this nectar of dharma as described above, are exceedingly dear to Me.
 
 ### Meaning
 

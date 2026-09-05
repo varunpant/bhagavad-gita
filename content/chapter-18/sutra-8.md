@@ -8,11 +8,10 @@ sutra: 8
 position: 631
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत्
 स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 631
 
 
 ### Transliteration
-```
+{{< lines >}}
 duḥkham ity eva yat karma kāyakleśabhayāt tyajet
 sa kṛtvā rājasaṃ tyāgaṃ naiva tyāgaphalaṃ labhet
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो कोई भी कर्तव्य कर्म को दुःख रूप ही समझकर, शारीरिक क्लेश के भय से त्याग देता है, वह ऐसा राजस त्याग करके त्याग के फल को कभी प्राप्त नहीं करता।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजस त्याग की परिभाषा दे रहे हैं। जब कोई व्यक्ति अपने नियत कर्तव्यों को केवल इसलिए छोड़ देता है क्योंकि वे शारीरिक रूप से कष्टदायक या कठिन लगते हैं, तो ऐसा त्याग रजोगुण से प्रेरित होता है। इस प्रकार के त्याग से मनुष्य को वास्तविक त्याग (ज्ञान और शांति) का फल प्राप्त नहीं होता।
+
+### Translation
+
+He who abandons prescribed duty merely because it is difficult or out of fear of bodily discomfort, performs a rajasika (passionate) abandonment and does not obtain the fruit of renunciation.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 66
 position: 689
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज
 अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 689
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja
 ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+सभी धर्मों को त्यागकर केवल मेरी शरण में आ जाओ।
+मैं तुम्हें सभी पापों से मुक्त कर दूँगा, शोक मत करो।
 
 ### भावार्थ
 
 यह भगवद्गीता का परम गोपनीय और अंतिम उपदेश है। यहाँ श्रीकृष्ण अर्जुन को सभी प्रकार के सांसारिक और नैतिक कर्तव्यों (धर्मों) की चिंता छोड़कर केवल ईश्वर की शरण में आने का निर्देश देते हैं। वे पूर्ण शरणागति के बदले भक्त को सभी पापों और बंधनों से मुक्त करने का आश्वासन देते हैं।
+
+### Translation
+
+Abandoning all duties, surrender unto Me alone.
+I shall deliver you from all sins; do not grieve.
 
 ### Meaning
 

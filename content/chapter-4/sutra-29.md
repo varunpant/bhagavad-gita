@@ -8,11 +8,10 @@ sutra: 29
 position: 191
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अपाने जुह्वति प्राण प्राणेऽपानं तथाऽपरे
 प्राणापानगती रुद्ध्वा प्राणायामपरायणाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 191
 
 
 ### Transliteration
-```
+{{< lines >}}
 apāne juhvati prāṇaṃ prāṇe 'pānaṃ tathā 'pare
 prāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तथा अन्य योगी अपान वायु में प्राण वायु का हवन करते हैं, और प्राण वायु में अपान वायु का हवन करते हैं। कुछ अन्य प्राणायाम के परायण होकर प्राण और अपान दोनों की गति को रोक देते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण प्राणायाम के माध्यम से किए जाने वाले यज्ञ का वर्णन कर रहे हैं। कुछ योगी पूरक और रेचक के द्वारा श्वास-प्रश्वास को नियंत्रित करते हैं, जबकि अन्य कुम्भक का अभ्यास करके प्राण और अपान दोनों की गति को पूरी तरह रोक देते हैं। यह श्वास नियंत्रण मन को स्थिर करने और आध्यात्मिक उन्नति के लिए एक यज्ञ के रूप में किया जाता है।
+
+### Translation
+
+And others offer the incoming breath into the outgoing breath, and the outgoing breath into the incoming breath. Still others, devoted to breath control, restrain the flow of both the incoming and outgoing breaths.
 
 ### Meaning
 

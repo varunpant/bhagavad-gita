@@ -8,11 +8,10 @@ sutra: 44
 position: 458
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्मात्प्रणम्य प्रणिधाय कायं     प्रसादये त्वामहमीशमीड्यम्
 पितेव पुत्रस्य सखेव सख्युः    प्रियः प्रियायार्हसि देव सोढुम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,17 +34,22 @@ forgive me, O God.
 
 
 ### Transliteration
-```
-tasmāt praṇamya praṇidhāya kāyaṃ
-prasādaye tvām aham īśam īḍyam
-piteva putrasya sakheva sakhyuḥ
-priyaḥ priyāyārhasi deva soḍhum
+{{< lines >}}
+tasmāt praṇamya praṇidhāya kāyaṃ prasādaye tvām aham īśam īḍyam
+piteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए मैं शरीर को साष्टांग दण्डवत प्रणाम करके, आपके चरणों में झुकाकर, आप पूजनीय ईश्वर को प्रसन्न करना चाहता हूँ। हे देव! जिस प्रकार पिता अपने पुत्र के, मित्र अपने मित्र के, और पति अपनी प्रियतमा के अपराधों को सहन कर लेता है, उसी प्रकार आप भी मेरे अपराधों को सहन करने के योग्य हैं।
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण के विश्वरूप के दर्शन करके अत्यंत विस्मित और भयभीत हैं। वे अपनी पूर्व की अनजाने में की गई भूलों के लिए क्षमा मांग रहे हैं। वे भगवान से प्रार्थना करते हैं कि वे उनके अपराधों को उसी प्रकार क्षमा कर दें जैसे एक पिता, मित्र या प्रेमी अपने प्रियजनों के अपराधों को सहज ही क्षमा कर देते हैं।
+
+### Translation
+
+Therefore, bowing down and prostrating my body, I seek to please You, the adorable Lord. As a father forgives his son, a friend his friend, and a lover his beloved, so should You, O Lord, forgive me.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 12
 position: 481
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते
 ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 481
 
 
 ### Transliteration
-```
+{{< lines >}}
 śreyo hi jñānam abhyāsāj jñānād dhyānaṃ viśiṣyate
 dhyānāt karma-phala-tyāgas tyāgāc chāntir anantaram
+{{< /lines >}}
 
-```
+### अनुवाद
+
+बिना समझे किए जाने वाले अभ्यास से ज्ञान श्रेष्ठ है, ज्ञान से ध्यान श्रेष्ठ है, और ध्यान से सब कर्मों के फलों का त्याग श्रेष्ठ है, क्योंकि त्याग से तत्काल ही परम शान्ति प्राप्त होती है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण साधना के विभिन्न स्तरों की तुलना कर रहे हैं। वे बताते हैं कि केवल यांत्रिक अभ्यास की तुलना में ज्ञान श्रेष्ठ है, और कोरे ज्ञान से ध्यान श्रेष्ठ है। अंततः, कर्मों के फलों का त्याग (निष्काम कर्म) सबसे श्रेष्ठ है क्योंकि यह साधक को तुरंत मानसिक शांति और आसक्ति से मुक्ति प्रदान करता है।
+
+### Translation
+
+Indeed, knowledge is better than practice without comprehension; meditation is superior to knowledge; and the renunciation of the fruits of actions is better than meditation, for peace immediately follows such renunciation.
 
 ### Meaning
 

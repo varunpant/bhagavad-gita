@@ -8,11 +8,10 @@ sutra: 2
 position: 312
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन
 प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 312
 
 
 ### Transliteration
-```
+{{< lines >}}
 adhiyajñaḥ kathaṃ ko'tra dehe'sminmadhusūdana
 prayāṇakāle ca kathaṃ jñeyo'si niyatātmabhiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे मधुसूदन! इस शरीर में अधियज्ञ कौन है और वह कैसे है? तथा युक्त चित्त वाले पुरुषों द्वारा अंत समय में आप किस प्रकार जानने में आते हैं?
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण से दो और प्रश्न पूछते हैं। वे जानना चाहते हैं कि इस मानव शरीर के भीतर यज्ञों का स्वामी (अधियज्ञ) कौन है और वह कैसे निवास करता है। इसके अतिरिक्त, वे यह भी पूछते हैं कि मृत्यु के समय संयमित मन वाले भक्त भगवान को किस प्रकार जान पाते हैं।
+
+### Translation
+
+Who is the Lord of sacrifice (adhiyajña) here in this body, and how, O Madhusudana? And how are You to be known at the time of death by those of self-controlled mind?
 
 ### Meaning
 

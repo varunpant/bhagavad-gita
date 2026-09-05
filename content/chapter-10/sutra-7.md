@@ -8,11 +8,10 @@ sutra: 7
 position: 379
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः
 सोऽविकम्पेन योगेन युज्यते नात्र संशयः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 379
 
 
 ### Transliteration
-```
+{{< lines >}}
 etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ
 so'vikampena yogena yujyate nātra saṃśayaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मनुष्य मेरी इस विभूति को और योग-शक्ति को तत्त्व से जानता है, वह अविचल ध्यान-योग से युक्त हो जाता है, इसमें कोई संशय नहीं है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि जो व्यक्ति उनकी दिव्य विभूतियों (ऐश्वर्य) और योग-शक्ति (सृष्टि की रचना और नियंत्रण की शक्ति) को वास्तविक रूप से समझ लेता है, वह भक्ति मार्ग पर सुदृढ़ हो जाता है। ऐसे ज्ञानी पुरुष का मन भगवान में पूरी तरह स्थिर हो जाता है और वह बिना किसी संशय के अनन्य भक्ति को प्राप्त करता है।
+
+### Translation
+
+He who knows in truth this glory and yoga power of Mine, becomes united with unshakable yoga; of this there is no doubt.
 
 ### Meaning
 

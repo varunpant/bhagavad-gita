@@ -8,11 +8,10 @@ sutra: 40
 position: 663
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः
 सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्ित्रभिर्गुणैः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 663
 
 
 ### Transliteration
-```
+{{< lines >}}
 na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ
 sattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+पृथ्वी पर या फिर स्वर्ग में देवताओं के बीच ऐसा कोई भी अस्तित्व नहीं है, जो प्रकृति से उत्पन्न इन तीनों गुणों से मुक्त हो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि भौतिक संसार में कोई भी प्राणी प्रकृति के तीन गुणों (सत्त्व, रज और तम) के प्रभाव से अछूता नहीं है। चाहे वह पृथ्वी का मनुष्य हो या स्वर्ग के देवता, सभी प्रकृति के इन नियमों के अधीन हैं। केवल वही जो गुणातीत (गुणों से परे) हो जाता है, वही इस बंधन से मुक्त हो पाता है।
+
+### Translation
+
+There is no being on earth, or again in heaven among the demigods, that is free from these three qualities born of nature.
 
 ### Meaning
 

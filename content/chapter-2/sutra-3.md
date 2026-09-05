@@ -8,11 +8,10 @@ sutra: 3
 position: 50
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते
 क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 50
 
 
 ### Transliteration
-```
+{{< lines >}}
 klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate
 kṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पृथापुत्र! इस कायरता को प्राप्त मत हो, यह तुम्हारे योग्य नहीं है। हे परन्तप! हृदय की इस तुच्छ दुर्बलता को त्याग कर उठ खड़े हो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण युद्ध के मैदान में अर्जुन की अचानक उत्पन्न हुई कायरता की कड़ी निंदा करते हैं। वे अर्जुन को याद दिलाते हैं कि एक महान योद्धा होने के नाते यह आचरण उनके बिल्कुल भी अनुकूल नहीं है। कृष्ण उन्हें प्रेरित करते हैं कि वे अपने हृदय की इस तुच्छ दुर्बलता को त्याग दें और अपने कर्तव्य का पालन करने के लिए उठ खड़े हों।
+
+### Translation
+
+O son of Pritha, do not yield to this unmanliness. It does not befit you. O chastiser of enemies, give up this petty weakness of heart and arise.
 
 ### Meaning
 

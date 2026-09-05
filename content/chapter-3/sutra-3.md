@@ -8,11 +8,11 @@ sutra: 3
 position: 122
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ
+{{< lines >}}
+श्री भगवानुवाच
+लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ
 ज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 122
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī bhagavānuvāca
 loke'smindvividhā niṣṭhā purā proktā mayānagha
 jñānayogena sāṃkhyānāṃ karmayogena yoginām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+हे निष्पाप! इस लोक में दो प्रकार की निष्ठा मेरे द्वारा पहले कही गई है: सांख्यवादियों के लिए ज्ञानयोग से और योगियों के लिए कर्मयोग से।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन के इस भ्रम को दूर करते हैं कि ज्ञान और कर्म में से कौन श्रेष्ठ है। वे बताते हैं कि सृष्टि के आरंभ से ही उन्होंने आत्म-साक्षात्कार के दो मार्ग निर्धारित किए हैं। चिंतनशील प्रवृत्ति वालों के लिए ज्ञानयोग और सक्रिय कर्तव्य पालन करने वालों के लिए कर्मयोग का विधान है। अंततः दोनों ही मार्ग एक ही लक्ष्य की ओर ले जाते हैं।
+
+### Translation
+
+The Supreme Lord said:
+O sinless one, in this world a twofold path of devotion was declared by Me in the past: the path of knowledge for the contemplative ones, and the path of action for the yogis.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 10
 position: 290
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्
 बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 290
 
 
 ### Transliteration
-```
+{{< lines >}}
 bījaṃ māṃ sarvabhūtānāṃ viddhi pārtha sanātanam
 buddhir buddhimatām asmi tejas tejasvinām aham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! मुझे संपूर्ण प्राणियों का सनातन बीज (मूल कारण) जानो।
+बुद्धिमानों की बुद्धि और तेजस्वियों का तेज मैं हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि वे ही सृष्टि के समस्त चराचर प्राणियों के सनातन और अविनाशी कारण (बीज) हैं। इसके अतिरिक्त, वे बुद्धिमानों में विद्यमान विवेक-शक्ति और तेजस्वियों के ओज व प्रभाव के रूप में भी स्वयं को प्रकट करते हैं। इसका अर्थ है कि संसार में जो कुछ भी मूल, बुद्धि और तेज है, वह सब ईश्वर की ही अभिव्यक्ति है।
+
+### Translation
+
+O Partha, know Me to be the eternal seed of all beings.
+I am the intelligence of the intelligent, and the splendor of the splendid.
 
 ### Meaning
 

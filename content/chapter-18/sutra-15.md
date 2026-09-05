@@ -8,11 +8,10 @@ sutra: 15
 position: 638
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः
 न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 638
 
 
 ### Transliteration
-```
+{{< lines >}}
 śarīravāṅmanobhiryatkarma prārabhate naraḥ
 nyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मनुष्य अपने शरीर, वाणी और मन से जो भी न्यायसंगत अथवा इसके विपरीत कर्म आरम्भ करता है, उसके ये पाँचों कारण होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण स्पष्ट करते हैं कि मनुष्य द्वारा किए जाने वाले प्रत्येक कर्म के पीछे पाँच मुख्य कारण होते हैं। चाहे वह कर्म धर्मसम्मत (न्यायसंगत) हो या अधर्मसम्मत (विपरीत), इन पाँचों कारणों के बिना कोई भी क्रिया संपन्न नहीं हो सकती। यह कर्म के विज्ञान को समझने के लिए सांख्य दर्शन का एक महत्वपूर्ण सिद्धांत है।
+
+### Translation
+
+Whatever action a man performs with his body, speech, and mind, whether right or the opposite, these five are its causes.
 
 ### Meaning
 

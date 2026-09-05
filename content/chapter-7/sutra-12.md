@@ -8,11 +8,10 @@ sutra: 12
 position: 292
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ये चैव सात्त्विका भावा राजसास्तामसाश्च ये
 मत्त एवेति तान्विद्धि नत्वहं तेषु ते मयि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 292
 
 
 ### Transliteration
-```
+{{< lines >}}
 ye caiva sāttvikā bhāvā rājasāstāmasāśca ye
 matta eveti tān viddhi na tvahaṃ teṣu te mayi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+और जो भी सत्त्वगुण से उत्पन्न होने वाले भाव हैं, तथा जो रजोगुण और तमोगुण से उत्पन्न होने वाले भाव हैं, उन सबको तुम मुझसे ही उत्पन्न होने वाले जानो। परन्तु वास्तव में मैं उनमें नहीं हूँ, वे मुझमें हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को समझाते हैं कि सृष्टि के तीनों गुण—सत्त्व, रज और तम—और उनसे उत्पन्न होने वाले सभी भाव उन्हीं की माया शक्ति से उत्पन्न होते हैं। यद्यपि ये सब भगवान से ही उत्पन्न होते हैं, फिर भी भगवान इन गुणों के अधीन नहीं हैं। वे इनसे सर्वथा परे और स्वतंत्र हैं, जबकि ये सभी भाव और जीव भगवान के आश्रित हैं।
+
+### Translation
+
+And whatever states of being there are—whether of the nature of goodness (sattva), passion (rajas), or ignorance (tamas)—know them to manifest from Me alone. Yet, I am not in them, they are in Me.
 
 ### Meaning
 

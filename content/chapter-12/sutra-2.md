@@ -8,11 +8,11 @@ sutra: 2
 position: 471
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते
+{{< lines >}}
+श्री भगवानुवाच
+मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते
 श्रद्धया परयोपेतास्ते मे युक्ततमा मताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 471
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrībhagavānuvāca
 mayyāveśya mano ye māṃ nityayuktā upāsate
 śraddhayā parayopetāste me yuktatamā matāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+मुझमें मन को एकाग्र करके, जो नित्य-युक्त भक्त परम श्रद्धा से युक्त होकर मेरी उपासना करते हैं, वे मेरे द्वारा सर्वश्रेष्ठ योगी माने गए हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन के प्रश्न का उत्तर देते हैं कि सगुण और निर्गुण उपासकों में से कौन श्रेष्ठ है। वे स्पष्ट करते हैं कि जो भक्त अपने मन को पूरी तरह से भगवान में लीन रखते हैं और परम श्रद्धा के साथ उनकी निरंतर पूजा करते हैं, वे योगियों में सर्वश्रेष्ठ हैं। यह सगुण भक्ति मार्ग की सुगमता और श्रेष्ठता को दर्शाता है।
+
+### Translation
+
+Sri Bhagavan said:
+Those who, fixing their minds on Me, worship Me, ever-steadfast and endowed with supreme faith, are regarded by Me as the most perfectly united in Yoga.
 
 ### Meaning
 

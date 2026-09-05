@@ -8,11 +8,10 @@ sutra: 18
 position: 137
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन
 न चास्य सर्वभूतेषु कश्िचदर्थव्यपाश्रयः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 137
 
 
 ### Transliteration
-```
+{{< lines >}}
 naiva tasya kṛtenārtho nākṛteneha kaścana
 na cāsya sarvabhūteṣu kaścidarthavyapāśrayaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उस (आत्मज्ञानी) के लिए इस संसार में कर्म करने से कोई प्रयोजन नहीं रहता, और न ही कर्म न करने से कोई प्रयोजन रहता है। तथा सम्पूर्ण प्राणियों में इसका किसी भी स्वार्थ के लिए कोई आश्रय (निर्भरता) नहीं रहता।
 
 ### भावार्थ
 
 आत्मज्ञानी महापुरुष का इस संसार में कर्म करने या न करने से कोई व्यक्तिगत स्वार्थ नहीं जुड़ा होता है। वह अपनी किसी भी आवश्यकता की पूर्ति के लिए ब्रह्मांड के किसी भी प्राणी पर निर्भर नहीं रहता। उसकी पूर्णता उसके भीतर ही होती है, इसलिए उसके सभी कर्म बिना किसी स्वार्थ या आसक्ति के केवल लोककल्याण के लिए होते हैं।
+
+### Translation
+
+For him, there is no purpose whatsoever in this world by action performed, nor any by action not performed. And for him, among all beings, there is no dependence on anyone for any object.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 10
 position: 633
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते
 त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 633
 
 
 ### Transliteration
-```
+{{< lines >}}
 na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate
 tyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह त्यागी जो सत्त्वगुण से युक्त, बुद्धिमान और संशयरहित है, न तो अकल्याणकारी कर्म से द्वेष करता है और न ही कल्याणकारी कर्म में आसक्त होता है
 
 ### भावार्थ
 
 इस श्लोक में सच्चे त्यागी के लक्षणों का वर्णन किया गया है। सत्त्वगुण से युक्त मनुष्य कर्मों के फल की चिंता नहीं करता, इसलिए वह अप्रिय कर्मों से बचता नहीं और प्रिय कर्मों में लिप्त नहीं होता। उसकी बुद्धि स्थिर होती है और कर्तव्य के प्रति उसके मन में कोई संशय नहीं रहता।
+
+### Translation
+
+The renouncer who is pervaded by goodness, intelligent, and freed from doubts, neither hates disagreeable action nor is attached to agreeable action
 
 ### Meaning
 

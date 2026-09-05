@@ -8,11 +8,10 @@ sutra: 11
 position: 321
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यदक्षरं वेदविदो वदन्ति     विशन्ति यद्यतयो वीतरागाः
 यदिच्छन्तो ब्रह्मचर्यं चरन्ति     तत्ते पदं संग्रहेण प्रवक्ष्ये
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 321
 
 
 ### Transliteration
-```
-yad akṣaraṃ vedavido vadanti
-viśanti yad yatayo vītarāgāḥ
-yad icchanto brahmacaryaṃ caranti
-tat te padaṃ saṅgraheṇa pravakṣye
+{{< lines >}}
+yad akṣaraṃ vedavido vadanti viśanti yad yatayo vītarāgāḥ
+yad icchanto brahmacaryaṃ caranti tat te padaṃ saṅgraheṇa pravakṣye
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस अविनाशी परम पद को वेद के जानने वाले कहते हैं, और आसक्ति-रहित संन्यासी जिसमें प्रवेश करते हैं, तथा जिसकी इच्छा करते हुए ब्रह्मचारी ब्रह्मचर्य का पालन करते हैं, उस परम पद को मैं तुम्हारे लिए संक्षेप में कहूँगा।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन को उस परम अक्षर ब्रह्म (ओंकार या परम पद) के विषय में बता रहे हैं जिसे प्राप्त करना मानव जीवन का परम लक्ष्य है। वेदों के ज्ञाता इसे अविनाशी कहते हैं, और राग-द्वेष से मुक्त तपस्वी इसमें लीन होते हैं। इस परम पद को प्राप्त करने की इच्छा से ही साधक ब्रह्मचर्य का पालन करते हैं, और श्रीकृष्ण इसी मार्ग को संक्षेप में समझाने की प्रतिज्ञा करते हैं।
+
+### Translation
+
+That imperishable state which the knowers of the Vedas describe, into which the self-controlled ascetics, free from attachment, enter, and desiring which they practice the vow of celibacy—that state I shall briefly declare to you.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 28
 position: 517
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम्
 विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 517
 
 
 ### Transliteration
-```
+{{< lines >}}
 samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram
 vinaśyatsvavinaśyantaṃ yaḥ paśyati sa paśyati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो सभी भूतों में समान रूप से स्थित परमेश्वर को, नष्ट होने वाले शरीरों में अविनाशी रूप से स्थित देखता है, वही वास्तव में देखता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण वास्तविक दृष्टि की परिभाषा देते हैं। भौतिक शरीर नाशवान हैं, परंतु उनके भीतर वास करने वाली परमात्मा की सत्ता अमर और अविनाशी है। जो व्यक्ति इस सत्य को समझकर सभी प्राणियों में एक ही ईश्वर को समान रूप से देखता है, वही ज्ञानी है और उसी की दृष्टि सत्य है।
+
+### Translation
+
+He who sees the Supreme Lord dwelling equally in all beings, the imperishable within the perishable, he truly sees.
 
 ### Meaning
 

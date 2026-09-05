@@ -8,11 +8,10 @@ sutra: 36
 position: 659
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सुखं त्विदानीं त्रिविधं श्रृणु मे भरतर्षभ
 अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 659
 
 
 ### Transliteration
-```
+{{< lines >}}
 sukhaṃ tv idānīṃ trividhaṃ śṛṇu me bharatarṣabha
 abhyāsād ramate yatra duḥkhāntaṃ ca nigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे भरतश्रेष्ठ! अब तुम मुझसे तीन प्रकार के सुख के विषय में भी सुनो
+जिस सुख में मनुष्य अभ्यास (साधना) के द्वारा रमण करता है और जिससे दुखों का अंत हो जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को तीन प्रकार के सुखों के विषय में बताना आरम्भ कर रहे हैं। वे कहते हैं कि जिस सुख का अनुभव मनुष्य निरंतर अभ्यास या साधना के द्वारा करता है, वह अंततः सभी दुखों का नाश करने वाला होता है। यह सुख भौतिक इंद्रिय-भोगों से भिन्न है, जो क्षणिक होते हैं।
+
+### Translation
+
+O best of the Bharatas, now hear from Me about the three kinds of happiness
+that in which one rejoices through practice and by which one reaches the end of all pain
 
 ### Meaning
 

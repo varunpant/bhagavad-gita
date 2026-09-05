@@ -8,11 +8,10 @@ sutra: 53
 position: 467
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नाहं वेदैर्न तपसा न दानेन न चेज्यया
 शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 467
 
 
 ### Transliteration
-```
+{{< lines >}}
 nāhaṃ vedairna tapasā na dānena na cejyayā
 śakya evaṃvidho draṣṭuṃ dṛṣṭavānasi māṃ yathā
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिस प्रकार तुमने मुझे देखा है, इस रूप वाला मैं न वेदों के द्वारा, न तप के द्वारा, न दान के द्वारा और न यज्ञ के द्वारा ही देखा जा सकता हूँ
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि उनका यह चतुर्भुज या विश्वरूप अत्यंत दुर्लभ है। केवल वेदों के अध्ययन, कठोर तपस्या, दान या यज्ञों के अनुष्ठान मात्र से इस परम रूप के साक्षात दर्शन नहीं किए जा सकते। इसके लिए अनन्य भक्ति की आवश्यकता होती है, जो आगे के श्लोक में स्पष्ट की गई है।
+
+### Translation
+
+Neither by the Vedas, nor by penance, nor by charity, nor by ritual worship, can I be seen in this form as you have seen Me
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 8
 position: 127
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः
 शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 127
 
 
 ### Transliteration
-```
+{{< lines >}}
 niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ
 śarīrayātrāpi ca te na prasiddhyedakarmaṇaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+तुम अपना नियत कर्म करो, क्योंकि कर्म न करने की अपेक्षा कर्म करना श्रेष्ठ है। और कर्म न करने से तुम्हारे शरीर का निर्वाह भी सिद्ध नहीं होगा।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को अपने निर्धारित कर्तव्यों का पालन करने की सलाह देते हैं, क्योंकि अकर्मण्यता से कर्म करना हमेशा बेहतर होता है। वे समझाते हैं कि कर्म किए बिना कोई भी व्यक्ति अपने शरीर का भरण-पोषण भी नहीं कर सकता। इसलिए, कर्तव्यों से भागने के बजाय उन्हें निष्ठापूर्वक करना चाहिए।
+
+### Translation
+
+You perform your prescribed duty, for action is better than inaction. And even the maintenance of your body would not be accomplished from inaction.
 
 ### Meaning
 

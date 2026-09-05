@@ -8,11 +8,10 @@ sutra: 11
 position: 634
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः
 यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 634
 
 
 ### Transliteration
-```
+{{< lines >}}
 na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ
 yastu karmaphalatyāgī sa tyāgītyabhidhīyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि शरीरधारी किसी भी मनुष्य द्वारा सम्पूर्णता से सब कर्मों का त्याग किया जाना सम्भव नहीं है
+परन्तु जो कर्मों के फल का त्यागी है, वही वास्तव में त्यागी कहलाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण स्पष्ट करते हैं कि जब तक मनुष्य के पास भौतिक शरीर है, तब तक पूर्ण रूप से कर्मों का त्याग करना असंभव है, क्योंकि जीवन जीने के लिए भी कुछ न कुछ कर्म करने ही पड़ते हैं। इसलिए, वास्तविक संन्यास या त्याग कर्मों को छोड़ने में नहीं, बल्कि उनके फलों के प्रति आसक्ति को छोड़ने में है। जो व्यक्ति अपने कर्मों के परिणामों की इच्छा का त्याग कर देता है, वही सच्चा त्यागी माना जाता है।
+
+### Translation
+
+For it is indeed impossible for an embodied being to renounce all actions entirely
+but he who renounces the fruits of action is called a true renouncer
 
 ### Meaning
 

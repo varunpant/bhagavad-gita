@@ -8,11 +8,10 @@ sutra: 9
 position: 347
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 न च मां तानि कर्माणि निबध्नन्ति धनञ्जय
 उदासीनवदासीनमसक्तं तेषु कर्मसु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 347
 
 
 ### Transliteration
-```
+{{< lines >}}
 na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya
 udāsīnavadāsīnamasaktaṃ teṣu karmasu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे धनंजय! वे कर्म मुझे नहीं बाँधते हैं, क्योंकि मैं उन कर्मों में आसक्ति-रहित और उदासीन की भाँति स्थित रहता हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को समझाते हैं कि यद्यपि वे सृष्टि की रचना, पालन और संहार आदि सभी कर्म करते हैं, फिर भी वे इन कर्मों के बंधन में नहीं बंधते। इसका कारण यह है कि वे इन सभी कार्यों को पूर्णतः अनासक्त और एक तटस्थ साक्षी की भाँति करते हैं। यह मनुष्यों के लिए भी एक आदर्श है कि निष्काम भाव से कर्म करने पर कर्म बंधनकारक नहीं होते।
+
+### Translation
+
+And these actions do not bind Me, O Dhananjaya, as I remain seated like one unconcerned, unattached to those actions.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 16
 position: 388
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः
 याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 388
 
 
 ### Transliteration
-```
+{{< lines >}}
 vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ
 yābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए आप ही अपनी उन दिव्य विभूतियों को पूर्ण रूप से कहने में समर्थ हैं, जिन विभूतियों के द्वारा आप इन सब लोकों को व्याप्त करके स्थित हैं।
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण से प्रार्थना कर रहे हैं कि वे अपनी अलौकिक और दिव्य शक्तियों (विभूतियों) का विस्तार से वर्णन करें। अर्जुन यह जानना चाहते हैं कि भगवान किस प्रकार इस संपूर्ण ब्रह्मांड में व्याप्त हैं। चूंकि भगवान की शक्तियों को पूरी तरह से केवल वे स्वयं ही जानते हैं, इसलिए अर्जुन उन्हीं से इसका वर्णन करने का अनुरोध करते हैं।
+
+### Translation
+
+Therefore, you alone are able to describe in full your divine manifestations, by which manifestations you remain pervading all these worlds.
 
 ### Meaning
 

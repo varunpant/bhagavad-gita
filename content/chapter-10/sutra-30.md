@@ -8,11 +8,10 @@ sutra: 30
 position: 402
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम्
 मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 402
 
 
 ### Transliteration
-```
+{{< lines >}}
 prahlādaś cāsmi daityānāṃ kālaḥ kalayatām aham
 mṛgāṇāṃ ca mṛgendro 'haṃ vainateyaś ca pakṣiṇām
+{{< /lines >}}
 
-```
+### अनुवाद
+
+दैत्यों में मैं प्रह्लाद हूँ और गणना करने वालों में मैं समय हूँ।
+पशुओं में मैं सिंह हूँ और पक्षियों में मैं गरुड़ हूँ।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को अपनी विभूतियों का वर्णन करते हुए समझाते हैं कि वे असुरों के कुल में उत्पन्न परम भक्त प्रह्लाद हैं। वे काल (समय) के रूप में सभी को वश में करने वाले हैं। पशुओं में वे सर्वश्रेष्ठ सिंह हैं और पक्षियों में वे भगवान विष्णु के वाहन गरुड़ (विनता के पुत्र) हैं।
+
+### Translation
+
+Among the Daityas I am Prahlada, and among subduers I am Time.
+Among beasts I am the lion, and among birds I am Garuda.
 
 ### Meaning
 

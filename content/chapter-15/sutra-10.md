@@ -8,11 +8,10 @@ sutra: 10
 position: 561
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम्
 विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 561
 
 
 ### Transliteration
-```
+{{< lines >}}
 utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam
 vimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+शरीर को छोड़कर जाते हुए को, अथवा शरीर में स्थित हुए को अथवा विषयों को भोगते हुए को और गुणों से युक्त हुए को भी अज्ञानी मनुष्य नहीं देख पाते; केवल ज्ञान रूपी नेत्रों वाले ही देख पाते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जीवात्मा किस प्रकार एक शरीर से दूसरे शरीर में जाती है या शरीर में रहकर विषयों का भोग करती है। जो लोग अज्ञानी हैं और भौतिक संसार के मोह में फंसे हैं, वे इस सूक्ष्म प्रक्रिया को नहीं देख पाते। केवल वे ही इसे देख पाते हैं जिनके पास विवेक और ज्ञान रूपी नेत्र हैं।
+
+### Translation
+
+Those who are deluded do not perceive the soul departing, staying, or enjoying, associated with the modes of nature; but those who possess the eyes of knowledge do perceive it
 
 ### Meaning
 

@@ -8,11 +8,11 @@ sutra: 35
 position: 268
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचअसंशयं महाबाहो मनो दुर्निग्रहं चलं
+{{< lines >}}
+श्री भगवानुवाच
+असंशयं महाबाहो मनो दुर्निग्रहं चलं
 अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,27 @@ position: 268
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 asaṁśayaṁ mahā-bāho mano durnigrahaṁ calam
 abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+हे महाबाहो! निःसंदेह मन चंचल और कठिनता से वश में होने वाला है
+परन्तु हे कुन्तीपुत्र! इसे अभ्यास और वैराग्य के द्वारा वश में किया जाता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अर्जुन की इस शंका का समाधान करते हैं कि मन को वश में करना अत्यंत कठिन है। वे स्वीकार करते हैं कि मन स्वभाव से चंचल और नियंत्रण से परे है, लेकिन वे दो अचूक उपाय बताते हैं: निरंतर अभ्यास और वैराग्य। इन दोनों के समन्वय से अत्यंत चंचल मन को भी धीरे-धीरे वश में किया जा सकता है।
+
+### Translation
+
+The Blessed Lord said:
+Without doubt, O mighty-armed one, the mind is restless and difficult to curb
+but by practice, O son of Kunti, and by detachment, it is restrained
 
 ### Meaning
 

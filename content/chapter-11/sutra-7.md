@@ -8,11 +8,10 @@ sutra: 7
 position: 421
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम्
 मम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 421
 
 
 ### Transliteration
-```
+{{< lines >}}
 ihaikasthaṃ jagat kṛtsnaṃ paśyādya sacarācaram
 mama dehe guḍākeśa yaccānyad draṣṭum icchasi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे गुडाकेश (अर्जुन)! आज मेरे इस शरीर में एक ही स्थान पर स्थित चराचर सहित सम्पूर्ण ब्रह्मांड को देख लो, और इसके अतिरिक्त जो कुछ भी तुम देखना चाहते हो, उसे भी देख लो।
 
 ### भावार्थ
 
 भगवान श्रीकृष्ण अर्जुन को अपने दिव्य विश्वरूप का दर्शन करने के लिए आमंत्रित कर रहे हैं। वे अर्जुन से कहते हैं कि वे उनके शरीर के एक ही अंश में समस्त चराचर जगत को देख सकते हैं। इसके साथ ही, अर्जुन भविष्य की घटनाओं या अपनी जिज्ञासा के अनुसार जो कुछ भी देखना चाहते हैं, वह सब इस रूप में प्रत्यक्ष देख सकते हैं।
+
+### Translation
+
+O Gudakesha (Arjuna)! Behold today, concentrated in one place within My body, the entire universe with all its moving and non-moving beings, and whatever else you desire to see.
 
 ### Meaning
 

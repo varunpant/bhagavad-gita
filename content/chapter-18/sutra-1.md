@@ -8,12 +8,11 @@ sutra: 1
 position: 624
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अर्जुन उवाच
 संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम्
 त्यागस्य च हृषीकेश पृथक्केशिनिषूदन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 624
 
 
 ### Transliteration
-```
+{{< lines >}}
 arjuna uvāca
 saṃnyāsasya mahābāho tattvamicchāmi veditum
 tyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अर्जुन ने कहा —
+हे महाबाहो! मैं संन्यास का और हे हृषीकेश! हे केशिनीसूदन! त्याग का तत्त्व पृथक-पृथक जानना चाहता हूँ
 
 ### भावार्थ
 
 यह अठारहवें अध्याय का पहला श्लोक है जहाँ अर्जुन भगवान कृष्ण से 'संन्यास' (कर्मों के स्वरूप से त्याग) और 'त्याग' (कर्मफलों के त्याग) के बीच के वास्तविक अंतर को स्पष्ट करने की प्रार्थना करते हैं। अर्जुन कृष्ण को 'महाबाहो', 'हृषीकेश' और 'केशिनीसूदन' जैसे विशेषणों से संबोधित करते हैं, जो उनके सामर्थ्य और इंद्रियों के नियंत्रण को दर्शाते हैं। यहाँ से गीता के उपदेश का उपसंहार और संक्षेप आरंभ होता है।
+
+### Translation
+
+Arjuna said:
+O mighty-armed one, I desire to know the true nature of renunciation and of self-surrender, individually, O Hrishikesha, O slayer of the Keshi demon
 
 ### Meaning
 

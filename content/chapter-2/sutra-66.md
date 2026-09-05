@@ -8,11 +8,10 @@ sutra: 66
 position: 113
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना
 न चाभावयतः शान्तिरशान्तस्य कुतः सुखम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 113
 
 
 ### Transliteration
-```
+{{< lines >}}
 nāsti buddhirayuktasya na cāyuktasya bhāvanā
 na cābhāvayataḥ śāntiraśāntasya kutaḥ sukham
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अयुक्त (जिसका मन और इंद्रियां वश में नहीं हैं) पुरुष में निश्चयात्मक बुद्धि नहीं होती है, और ऐसे अयुक्त पुरुष के अंतःकरण में भावना (एकाग्रता या ध्यान) भी नहीं होती है। बिना भावना वाले पुरुष को शान्ति नहीं मिलती, और अशान्त पुरुष को सुख कहाँ से मिल सकता है?
 
 ### भावार्थ
 
 भगवान कृष्ण अनियंत्रित मन के परिणामों को स्पष्ट करते हैं। जिस व्यक्ति की इंद्रियां वश में नहीं हैं, उसमें आध्यात्मिक बुद्धि और परमात्मा का ध्यान करने की क्षमता नहीं होती। एकाग्रता और ध्यान के बिना मन को शांति नहीं मिल सकती, और शांति के बिना सच्चे सुख की प्राप्ति असंभव है।
+
+### Translation
+
+For one who is not connected (whose mind and senses are uncontrolled), there is no transcendental intelligence, and for such an unconnected person there is no steady concentration. For one without concentration there is no peace, and for the unpeaceful, where is happiness?
 
 ### Meaning
 

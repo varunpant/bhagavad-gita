@@ -8,11 +8,10 @@ sutra: 33
 position: 33
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च
 त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,15 +34,22 @@ stand here in battle, having renounced life and wealth.
 
 
 ### Transliteration
-```
+{{< lines >}}
 yeṣām arthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca
 ta ime 'vasthitā yuddhe prāṇāṃs tyaktvā dhanāni ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जिनके लिए हम राज्य, भोग और सुखों की कामना करते हैं, वे ही अपने प्राणों और धनों की आशा त्याग कर इस युद्ध में खड़े हैं।
 
 ### भावार्थ
 
 अर्जुन श्रीकृष्ण के समक्ष अपनी गहरी पीड़ा और नैतिक दुविधा व्यक्त करते हैं। उनका तर्क है कि जिनके लिए कोई राज्य और सुख-सुविधाओं की कामना करता है—जैसे गुरुजन, परिवार और मित्र—वे ही अपने प्राणों और धन की परवाह किए बिना युद्ध भूमि में मरने-मारने के लिए खड़े हैं। इसलिए, अपनों का वध करके प्राप्त की गई विजय खोखली और अर्थहीन होगी।
+
+### Translation
+
+For whose sake we desire kingdom, enjoyments, and pleasures, they themselves are standing here in battle, giving up their lives and wealth.
 
 ### Meaning
 

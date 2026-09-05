@@ -8,11 +8,10 @@ sutra: 21
 position: 435
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 अमी हि त्वां सुरसङ्घाः विशन्ति    केचिद्भीताः प्राञ्जलयो गृणन्ति
 स्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घाः    स्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,24 @@ position: 435
 
 
 ### Transliteration
-```
-amī hi tvāṃ surasaṅghāḥ viśanti
-kecidbhītāḥ prāñjalayo gṛṇanti
-svastītyuktvā maharṣisiddhasaṅghāḥ
-stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ
+{{< lines >}}
+amī hi tvāṃ surasaṅghāḥ viśanti kecidbhītāḥ prāñjalayo gṛṇanti
+svastītyuktvā maharṣisiddhasaṅghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वे देवताओं के समूह आप ही में प्रवेश कर रहे हैं, कुछ भयभीत होकर हाथ जोड़े हुए आपकी प्रार्थना कर रहे हैं।
+'कल्याण हो!' ऐसा कहकर महर्षियों और सिद्धों के समूह उत्तम स्तोत्रों द्वारा आपकी स्तुति कर रहे हैं।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप के प्रभाव का वर्णन कर रहे हैं। वे देख रहे हैं कि स्वर्ग के देवता और सिद्ध पुरुष भगवान के इस विराट और उग्र रूप को देखकर विस्मित और भयभीत हैं। वे भगवान की शरण में जा रहे हैं और जगत के कल्याण की प्रार्थना करते हुए उनकी स्तुति कर रहे हैं।
+
+### Translation
+
+Indeed, those hosts of demigods are entering into You; some, filled with fear, are praising You with joined palms.
+Saying, 'May there be peace!', crowds of great sages and perfected beings are praising You with sublime hymns.
 
 ### Meaning
 

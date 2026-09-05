@@ -8,11 +8,10 @@ sutra: 32
 position: 370
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः
 स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 370
 
 
 ### Transliteration
-```
+{{< lines >}}
 māṃ hi pārtha vyapāśritya ye'pi syuḥ pāpayonayaḥ
 striyo vaiśyāstathā śūdrāste'pi yānti parāṃ gatim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे पार्थ! जो कोई भी मेरी शरण ग्रहण करते हैं, चाहे वे पापयोनि (नीच कुल में उत्पन्न), स्त्रियाँ, वैश्य या शूद्र ही क्यों न हों, वे भी परम गति को प्राप्त होते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण भक्ति की सार्वभौमिकता और सुलभता को स्पष्ट करते हैं। वे घोषणा करते हैं कि सामाजिक या जन्मगत स्थिति चाहे जो भी हो, जो कोई भी अनन्य भाव से उनकी शरण में आता है, वह परम कल्याण का अधिकारी बन जाता है। भक्ति मार्ग में किसी भी प्रकार का भेदभाव नहीं है और यह सभी के लिए मोक्ष का द्वार खोलता है।
+
+### Translation
+
+O Partha, those who take refuge in Me, even if they be of sinful birth, women, Vaishyas, or Shudras, they also attain the supreme destination.
 
 ### Meaning
 

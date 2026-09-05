@@ -8,11 +8,10 @@ sutra: 35
 position: 154
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्
 स्वधर्मे निधनं श्रेयः परधर्मो भयावहः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 154
 
 
 ### Transliteration
-```
+{{< lines >}}
 śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt
 svadharme nidhanaṃ śreyaḥ paradharmo bhayāvahaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अच्छी प्रकार आचरण किए हुए दूसरे के धर्म से, गुणरहित अपना धर्म श्रेष्ठ है। अपने धर्म में मरना भी कल्याणकारक है, परन्तु दूसरे का धर्म भय को देने वाला है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को अपने क्षत्रिय धर्म का पालन करने की प्रेरणा दे रहे हैं। वे समझाते हैं कि किसी अन्य के धर्म का पूर्णता से पालन करने की अपेक्षा अपना धर्म त्रुटिपूर्ण ढंग से करना भी अधिक श्रेष्ठ है। अपने स्वभाव और कर्तव्य के मार्ग पर चलते हुए मृत्यु प्राप्त करना भी कल्याणकारी है, जबकि दूसरों के मार्ग का अनुसरण करना हमेशा भय और पतन का कारण बनता है।
+
+### Translation
+
+One's own duty, though devoid of merit, is better than the duty of another well performed. Death in one's own duty is better; the duty of another is fraught with fear.
 
 ### Meaning
 

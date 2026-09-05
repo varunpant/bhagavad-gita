@@ -8,11 +8,10 @@ sutra: 6
 position: 239
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः
 अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 239
 
 
 ### Transliteration
-```
+{{< lines >}}
 bandhurātmā'tmanastasya yenātmaivātmanā jitaḥ
 anātmanastu śatrutve vartetātmaiva śatruvat
+{{< /lines >}}
 
-```
+### अनुवाद
+
+उस जीवात्मा का अपना आप ही बन्धु है, जिसके द्वारा अपने आप से अपने आप को जीत लिया गया है; परन्तु जो अपने आप को नहीं जीत पाया है, उसके लिए अपना आप ही शत्रु के समान शत्रुता में बर्तता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण मन और इन्द्रियों को वश में करने के महत्व को समझाते हैं। जिसने अपने मन और बुद्धि को जीत लिया है, उसका मन उसका सबसे बड़ा मित्र बन जाता है और उसे उन्नति की ओर ले जाता है। इसके विपरीत, जो व्यक्ति अपने मन को वश में नहीं कर पाता, उसका मन ही उसका सबसे बड़ा शत्रु बनकर उसे पतन की ओर धकेलता है।
+
+### Translation
+
+For him who has conquered his self by the Self, his self is a friend; but for him who has not conquered his self, his very self behaves inimically, like an enemy.
 
 ### Meaning
 

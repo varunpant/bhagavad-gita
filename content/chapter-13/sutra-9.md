@@ -8,11 +8,10 @@ sutra: 9
 position: 498
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च
 जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 498
 
 
 ### Transliteration
-```
+{{< lines >}}
 indriyārtheṣu vairāgyamanahaṅkāra eva ca
 janmamṛtyujarāvyādhiduḥkhadoṣānudarśanam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इन्द्रियों के विषयों में वैराग्य और अहंकार का सर्वथा अभाव, तथा जन्म, मृत्यु, वृद्धावस्था और रोग में दुःख और दोषों का बार-बार विचार करना।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण ज्ञान के लक्षणों का वर्णन जारी रखते हुए वैराग्य और अहंकार के अभाव को महत्वपूर्ण बताते हैं। साधक को सांसारिक विषयों के प्रति अनासक्त होना चाहिए और स्वयं को कर्ता मानने के अहंकार से मुक्त होना चाहिए। इसके साथ ही, जन्म, मृत्यु, बुढ़ापा और बीमारी जैसी जीवन की अनिवार्यताओं में निहित दुखों और दोषों का निरंतर चिंतन करने से संसार के प्रति वैराग्य सुदृढ़ होता है।
+
+### Translation
+
+Dispassion towards the objects of the senses, absence of egoism, and reflection on the evils and miseries of birth, death, old age, and disease.
 
 ### Meaning
 

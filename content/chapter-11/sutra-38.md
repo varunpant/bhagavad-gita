@@ -8,11 +8,10 @@ sutra: 38
 position: 452
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 त्वमादिदेवः पुरुषः पुराण    स्त्वमस्य विश्वस्य परं निधानम्
 वेत्तासि वेद्यं च परं च धाम    त्वया ततं विश्वमनन्तरूप
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,24 @@ position: 452
 
 
 ### Transliteration
-```
-tvamādidevaḥ puruṣaḥ purāṇa-
-stvamasya viśvasya paraṁ nidhānam
-vettāsi vedyaṁ ca paraṁ ca dhāma
-tvayā tataṁ viśvamanantarūpa
+{{< lines >}}
+tvamādidevaḥ puruṣaḥ purāṇa- stvamasya viśvasya paraṁ nidhānam
+vettāsi vedyaṁ ca paraṁ ca dhāma tvayā tataṁ viśvamanantarūpa
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आप आदिदेव और सनातन पुरुष हैं, आप इस संसार के परम आश्रय हैं।
+आप जानने वाले हैं, जानने योग्य हैं और परम धाम हैं। हे अनन्तरूप! आपसे यह सम्पूर्ण संसार व्याप्त है।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के विराट रूप की स्तुति करते हुए उन्हें सृष्टि का आदि कारण और परम आश्रय बताते हैं। वे कृष्ण को सर्वज्ञ (जानने वाला) और परम प्राप्य लक्ष्य (जानने योग्य) के रूप में स्वीकार करते हैं। अर्जुन यह अनुभव करते हैं कि यह अनंत रूपों वाला संसार पूर्णतः भगवान से ही व्याप्त और संचालित है।
+
+### Translation
+
+You are the primal Deity, the ancient Purusha; You are the supreme refuge of this universe.
+You are the knower, the knowable, and the supreme abode. O Lord of infinite forms, the universe is pervaded by You.
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 34
 position: 448
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 द्रोणं च भीष्मं च जयद्रथं च    कर्णं तथाऽन्यानपि योधवीरान्
 मया हतांस्त्वं जहि मा व्यथिष्ठा     युध्यस्व जेतासि रणे सपत्नान्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 448
 
 
 ### Transliteration
-```
+{{< lines >}}
 droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathā'nyānapi yodhavīrān
 mayā hatāṃstvaṃ jahi mā vyathiṣṭhā yudhyasva jetāsi raṇe sapatnān
+{{< /lines >}}
 
-```
+### अनुवाद
+
+द्रोणाचार्य, भीष्म, जयद्रथ, कर्ण तथा अन्य भी शूरवीर योद्धाओं को, जो मेरे द्वारा पहले ही मारे जा चुके हैं, तुम मारो। भयभीत मत हो, युद्ध करो; तुम युद्ध में शत्रुओं को जीतोगे।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को आश्वस्त करते हैं कि द्रोण, भीष्म और कर्ण जैसे महान योद्धा, जिन्हें अर्जुन अजेय समझ रहा था, काल रूपी भगवान द्वारा पहले ही नष्ट किए जा चुके हैं। अर्जुन को केवल निमित्त मात्र बनकर अपना कर्तव्य निभाना है। इस युद्ध में उसकी विजय निश्चित है, इसलिए उसे किसी भी प्रकार का संकोच या भय नहीं करना चाहिए।
+
+### Translation
+
+Drona, Bhishma, Jayadratha, Karna, and other brave warriors as well, who have already been slain by Me, you should slay. Do not be distressed; fight, and you shall conquer your enemies in battle.
 
 ### Meaning
 

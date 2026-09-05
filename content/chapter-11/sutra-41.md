@@ -8,11 +8,10 @@ sutra: 41
 position: 455
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सखेति मत्वा प्रसभं यदुक्तं    हे कृष्ण हे यादव हे सखेति
 अजानता महिमानं तवेदं     मया प्रमादात्प्रणयेन वापि
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 455
 
 
 ### Transliteration
-```
-sakheti matvā prasabhaṃ yaduktaṃ
-he kṛṣṇa he yādava he sakheti
-ajānatā mahimānaṃ tavedaṃ
-mayā pramādāt praṇayena vāpi
+{{< lines >}}
+sakheti matvā prasabhaṃ yaduktaṃ he kṛṣṇa he yādava he sakheti
+ajānatā mahimānaṃ tavedaṃ mayā pramādāt praṇayena vāpi
+{{< /lines >}}
 
-```
+### अनुवाद
+
+"हे कृष्ण", "हे यादव", "हे सखा" इस प्रकार आपके इस प्रभाव को न जानते हुए, मेरे द्वारा प्रमाद से अथवा प्रेम के कारण भी, मित्र मानकर हठपूर्वक जो कुछ भी कहा गया है
 
 ### भावार्थ
 
 अर्जुन भगवान कृष्ण के विश्वरूप को देखकर अत्यंत भयभीत और विस्मित हैं। वे अपनी पिछली अनभिज्ञता के लिए क्षमा मांग रहे हैं, जहाँ उन्होंने भगवान को केवल एक साधारण मित्र मानकर अनौपचारिक रूप से संबोधित किया था। वे स्वीकार करते हैं कि वे कृष्ण की वास्तविक महिमा और ऐश्वर्य से अनजान थे।
+
+### Translation
+
+Thinking of You as a friend, whatever I have rashly said, such as "O Krishna," "O Yadava," "O friend," being ignorant of this Your greatness, either out of carelessness or even out of love
 
 ### Meaning
 

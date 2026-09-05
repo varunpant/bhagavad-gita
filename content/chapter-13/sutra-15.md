@@ -8,11 +8,10 @@ sutra: 15
 position: 504
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम्
 असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 504
 
 
 ### Transliteration
-```
+{{< lines >}}
 sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam
 asaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+वह परमात्मा समस्त इन्द्रियों के विषयों को प्रकाशित करने वाला है, फिर भी समस्त इन्द्रियों से रहित है। वह सर्वथा अनासक्त होने पर भी सबका भरण-पोषण करने वाला है और गुणों से रहित होने पर भी गुणों का भोक्ता है।
 
 ### भावार्थ
 
 इस श्लोक में ज्ञेय परमात्मा के विरोधाभासी और दिव्य स्वरूप का वर्णन किया गया है। परमात्मा सभी इन्द्रियों के कार्यों और विषयों को जानने और प्रकाशित करने वाले हैं, किन्तु भौतिक इन्द्रियों से सर्वथा परे हैं। वे किसी भी सांसारिक वस्तु से आसक्त नहीं हैं, फिर भी संपूर्ण सृष्टि के आधार और पोषक हैं, तथा त्रिगुणों से अतीत होने पर भी उनके भोक्ता हैं।
+
+### Translation
+
+He appears to possess the qualities of all the senses, yet He is devoid of all senses. Unattached, He is yet the sustainer of all; and free from the modes of nature, He is yet the enjoyer of those modes.
 
 ### Meaning
 

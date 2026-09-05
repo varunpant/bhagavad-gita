@@ -8,11 +8,11 @@ sutra: 2
 position: 597
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा
+{{< lines >}}
+श्री भगवानुवाच
+त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा
 सात्त्विकी राजसी चैव तामसी चेति तां श्रृणु
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,27 @@ position: 597
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrībhagavānuvāca
 trividhā bhavati śraddhā dehināṃ sā svabhāvajā
 sāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+मनुष्यों की वह स्वभाव से उत्पन्न होने वाली श्रद्धा तीन प्रकार की होती है —
+सात्त्विकी, राजसी और तामसी; तुम उसके विषय में सुनो
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को बताते हैं कि प्रत्येक मनुष्य की श्रद्धा उसके अंतःकरण के संस्कारों और स्वभाव के अनुसार तीन प्रकार की होती है। ये तीन प्रकार सात्त्विक, राजसिक और तामसिक हैं। मनुष्य जिस प्रकार के गुणों से प्रभावित होता है, उसकी श्रद्धा भी वैसी ही हो जाती है।
+
+### Translation
+
+The Supreme Lord said:
+The faith of the embodied souls is of three kinds, born of their own nature —
+sattvic, rajasic, and tamasic; hear now about it
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 12
 position: 426
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता
 यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 426
 
 
 ### Transliteration
-```
+{{< lines >}}
 divi sūryasahasrasya bhavedyugapadutthitā
 yadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+यदि आकाश में एक साथ हजार सूर्यों का तेज उदित हो, तो वह प्रकाश भी उस परमात्मा के तेज के सदृश शायद ही हो।
 
 ### भावार्थ
 
 इस श्लोक में संजय धृतराष्ट्र को भगवान कृष्ण के विश्वरूप के असीम और दिव्य तेज का वर्णन कर रहे हैं। वे कहते हैं कि यदि आकाश में एक साथ हजारों सूर्य उदित हो जाएं, तो भी उनका सम्मिलित प्रकाश उस परमेश्वर के विराट रूप के तेज की बराबरी नहीं कर सकता। यह भगवान के ऐश्वर्य की अनंतता को दर्शाने के लिए एक अत्यंत भव्य उपमा है।
+
+### Translation
+
+If the splendor of a thousand suns were to blaze forth all at once in the sky, that would be like the splendor of that mighty One.
 
 ### Meaning
 

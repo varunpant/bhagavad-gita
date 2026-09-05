@@ -8,11 +8,10 @@ sutra: 39
 position: 453
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 वायुर्यमोऽग्निर्वरुणः शशाङ्कः    प्रजापतिस्त्वं प्रपितामहश्च
 नमो नमस्तेऽस्तु सहस्रकृत्वः    पुनश्च भूयोऽपि नमो नमस्ते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 453
 
 
 ### Transliteration
-```
+{{< lines >}}
 vāyuryamo'gnirvaruṇaḥ śaśāṅkaḥ prajāpatistvaṃ prapitāmahaśca
 namo namaste'stu sahasrakṛtvaḥ punaśca bhūyo'pi namo namaste
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आप वायु, यम, अग्नि, वरुण, चन्द्रमा, प्रजापति (ब्रह्मा) और प्रपितामह (ब्रह्मा के भी पिता) हैं।
+आपको हजारों बार नमस्कार हो, नमस्कार हो और फिर भी आपको बार-बार नमस्कार हो, नमस्कार हो।
 
 ### भावार्थ
 
 इस श्लोक में अर्जुन भगवान कृष्ण के विश्वरूप की स्तुति करते हुए उन्हें सृष्टि के सभी प्रमुख देवताओं के रूप में देखते हैं। वे कृष्ण को वायु, यम, अग्नि, वरुण और चन्द्रमा जैसे देवताओं का मूल बताते हैं। इसके अतिरिक्त, वे उन्हें सृष्टि के रचयिता ब्रह्मा (प्रजापति) और उनके भी जनक (प्रपितामह) के रूप में स्वीकार करते हुए अत्यंत श्रद्धापूर्वक बार-बार नमस्कार करते हैं।
+
+### Translation
+
+You are Vayu, Yama, Agni, Varuna, the moon, Prajapati, and the great-grandfather.
+Salutations, salutations unto You a thousand times, and again and yet again, salutations, salutations unto You.
 
 ### Meaning
 

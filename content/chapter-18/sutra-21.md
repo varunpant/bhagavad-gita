@@ -8,11 +8,10 @@ sutra: 21
 position: 644
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान्
 वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 644
 
 
 ### Transliteration
-```
+{{< lines >}}
 pṛthaktvena tu yajjñānaṃ nānābhāvānpṛthagvidhān
 vetti sarveṣu bhūteṣu tajjñānaṃ viddhi rājasam
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परंतु जो ज्ञान सभी भूतों में अनेक प्रकार के भिन्न-भिन्न भावों को पृथक-पृथक रूप से देखता है, उस ज्ञान को तुम राजस जानो।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण राजस ज्ञान के लक्षणों का वर्णन कर रहे हैं। राजस ज्ञान वह है जो सभी प्राणियों में एकता को न देखकर केवल उनकी बाहरी भिन्नताओं, भेदों और अनेकताओं पर ही ध्यान केंद्रित करता है। ऐसा ज्ञान मनुष्य को राग-द्वेष और भेद-बुद्धि की ओर ले जाता है क्योंकि यह सभी जीवों के भीतर एक ही परमात्मा को देखने में असमर्थ रहता है।
+
+### Translation
+
+But that knowledge which sees in all beings various entities of distinct kinds as separate from one another, know that knowledge to be passionate.
 
 ### Meaning
 

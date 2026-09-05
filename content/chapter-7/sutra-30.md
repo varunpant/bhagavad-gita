@@ -8,11 +8,10 @@ sutra: 30
 position: 310
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 साधिभूताधिदैवं मां साधियज्ञं च ये विदुः
 प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 310
 
 
 ### Transliteration
-```
+{{< lines >}}
 sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ
 prayāṇakāle'pi ca māṃ te viduryuktacetasaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो मुझे अधिभूत और अधिदैव के सहित तथा अधियज्ञ के सहित जानते हैं, वे युक्त चित्त वाले पुरुष अंतकाल में भी मुझे ही जानते हैं।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सातवें अध्याय का उपसंहार करते हैं। वे बताते हैं कि जो भक्त उन्हें भौतिक जगत (अधिभूत), देवताओं (अधिदैव) और यज्ञों (अधियज्ञ) के नियामक के रूप में समग्र रूप से जानते हैं, वे मृत्यु के समय भी विचलित नहीं होते। ऐसे स्थिर चित्त वाले पुरुष अंतकाल में भी भगवान के ही स्वरूप का स्मरण करते हुए परम गति को प्राप्त करते हैं।
+
+### Translation
+
+Those who know Me as governing the material manifestation, the divine powers, and all sacrifices, even at the time of death, can know Me, with their minds steadfast in Me.
 
 ### Meaning
 

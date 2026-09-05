@@ -8,11 +8,11 @@ sutra: 1
 position: 525
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्
+{{< lines >}}
+श्री भगवानुवाच
+परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्
 यज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 525
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 paraṁ bhūyaḥ pravakṣyāmi jñānānāṁ jñānam uttamam
 yaj jñātvā munayaḥ sarve parāṁ siddhim ito gatāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान् ने कहा —
+मैं फिर से ज्ञानों में भी उत्तम परम ज्ञान को भलीभांति कहूँगा, जिसे जानकर सब मुनिजन इस संसार से मुक्त होकर परम सिद्धि को प्राप्त हो गए हैं।
 
 ### भावार्थ
 
 इस अध्याय के आरम्भ में भगवान कृष्ण अर्जुन को पुनः उस परम ज्ञान का उपदेश दे रहे हैं जो सभी प्रकार के लौकिक और आध्यात्मिक ज्ञानों में श्रेष्ठ है। इस ज्ञान की महिमा यह है कि इसे जानकर भूतकाल में अनेक ऋषियों और मुनियों ने परम सिद्धि अर्थात् मोक्ष प्राप्त किया है। यह ज्ञान आत्मा और प्रकृति के सम्बन्ध को स्पष्ट करता है।
+
+### Translation
+
+The Blessed Lord said:
+I shall again declare to you that supreme wisdom, the best of all knowledge, knowing which all the sages have attained the supreme perfection after this life.
 
 ### Meaning
 

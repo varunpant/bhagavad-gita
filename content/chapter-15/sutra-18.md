@@ -8,11 +8,10 @@ sutra: 18
 position: 569
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः
 अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 569
 
 
 ### Transliteration
-```
+{{< lines >}}
 yasmāt kṣaram atīto 'ham akṣarād api cottamaḥ
 ato 'smi loke vede ca prathitaḥ puruṣottamaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि मैं क्षर (नाशवान् संसार) से सर्वथा अतीत हूँ और अक्षर (अविनाशी जीवात्मा) से भी उत्तम हूँ, इसलिए लोक और वेद में मैं 'पुरुषोत्तम' नाम से प्रसिद्ध हूँ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान श्रीकृष्ण अपने 'पुरुषोत्तम' नाम की व्याख्या कर रहे हैं। वे बताते हैं कि वे नाशवान भौतिक जगत् (क्षर) से परे हैं और अविनाशी जीवात्मा (अक्षर) से भी श्रेष्ठ हैं। इसी कारण उन्हें वेदों और लोक-साहित्य में पुरुषोत्तम कहा गया है।
+
+### Translation
+
+Because I am beyond the perishable and even superior to the imperishable, therefore, in the world and in the Vedas, I am celebrated as the Supreme Person (Purushottama).
 
 ### Meaning
 

@@ -8,11 +8,11 @@ sutra: 5
 position: 419
 ---
 ### मूल श्लोक :
-```
-श्री भगवानुवाचपश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः
+{{< lines >}}
+श्री भगवानुवाच
+पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः
 नानाविधानि दिव्यानि नानावर्णाकृतीनि च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,16 +34,25 @@ position: 419
 
 
 ### Transliteration
-```
+{{< lines >}}
 śrī-bhagavān uvāca
 paśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ
 nānā-vidhāni divyāni nānā-varṇākṛtīni ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+श्री भगवान ने कहा —
+हे पार्थ! मेरे सैकड़ों और हजारों नाना प्रकार के दिव्य रूपों को तथा अनेक रंग और आकृतियों वालों को देखो
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को अपना अलौकिक विश्वरूप देखने के लिए आमंत्रित करते हैं। वे स्पष्ट करते हैं कि उनके रूप अनंत, विविध और दिव्य हैं, जो साधारण मानवीय दृष्टि से परे हैं। इन रूपों में अनेक प्रकार के रंग, आकृतियाँ और ब्रह्मांडीय तत्व समाहित हैं।
+
+### Translation
+
+The Blessed Lord said:
+Behold, O Partha, My hundreds and thousands of diverse, divine forms, of various colors and shapes
 
 ### Meaning
 

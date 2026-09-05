@@ -8,11 +8,10 @@ sutra: 8
 position: 346
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः
 भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 346
 
 
 ### Transliteration
-```
+{{< lines >}}
 prakṛtiṃ svām avaṣṭabhya visṛjāmi punaḥ punaḥ
 bhūtagrāmam imaṃ kṛtsnam avaśaṃ prakṛter vaśāt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+अपनी प्रकृति को वश में करके, मैं इस सम्पूर्ण भूत-समुदाय को, जो प्रकृति के वश में होने के कारण परवश है, बार-बार रचता हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि वे अपनी त्रिगुणात्मक भौतिक प्रकृति (माया) को अपने नियंत्रण में रखकर सृष्टि की रचना करते हैं। सभी जीव अपने पूर्व कर्मों और प्रकृति के गुणों के अधीन होने के कारण परवश हैं। भगवान अपनी शक्ति से बार-बार इस सृष्टि चक्र का सृजन और संचालन करते हैं।
+
+### Translation
+
+Presiding over My own material nature, I send forth again and again this entire multitude of beings, which is helpless under the sway of nature
 
 ### Meaning
 

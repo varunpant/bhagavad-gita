@@ -8,11 +8,10 @@ sutra: 40
 position: 87
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते
 स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 87
 
 
 ### Transliteration
-```
+{{< lines >}}
 nehābhikramanāśo'sti pratyavāyo na vidyate
 svalpamapyasya dharmasya trāyate mahato bhayāt
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इस (कर्मयोग के) मार्ग में आरंभ किए गए प्रयास का कभी नाश नहीं होता है और न ही कोई विपरीत परिणाम होता है। इस धर्म का थोड़ा सा भी आचरण महान भय से रक्षा करता है।
 
 ### भावार्थ
 
 निष्काम कर्मयोग के मार्ग में किए गए किसी भी प्रयास का कभी नाश नहीं होता और अधूरा छूट जाने पर कोई पाप या दोष भी नहीं लगता। इस धर्म का थोड़ा सा भी पालन मनुष्य को जन्म-मृत्यु के महान भय से बचा लेता है।
+
+### Translation
+
+In this path, there is no loss of initial effort, nor is there any adverse effect. Even a little practice of this dharma protects one from great fear.
 
 ### Meaning
 

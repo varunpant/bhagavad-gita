@@ -8,11 +8,10 @@ sutra: 8
 position: 603
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः
 रस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 603
 
 
 ### Transliteration
-```
+{{< lines >}}
 āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ
 rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+आयु, बुद्धि, बल, आरोग्य, सुख और प्रीति को बढ़ाने वाले तथा रसयुक्त, चिकने, स्थिर रहने वाले और हृदय को प्रिय लगने वाले आहार सात्त्विक पुरुषों को प्रिय होते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण सात्त्विक भोजन के लक्षणों और उनके प्रभावों का वर्णन करते हैं। सात्त्विक आहार न केवल शारीरिक स्वास्थ्य और शक्ति को बढ़ाता है, बल्कि मानसिक पवित्रता, प्रसन्नता और संतोष भी प्रदान करता है। ऐसा भोजन प्राकृतिक रूप से स्वादिष्ट, पुष्टिकारक और हृदय को प्रिय होता है।
+
+### Translation
+
+Foods that increase life, purity, strength, health, happiness, and cheerfulness, and which are savory, fatty, substantial, and agreeable to the heart, are dear to those in the mode of goodness
 
 ### Meaning
 

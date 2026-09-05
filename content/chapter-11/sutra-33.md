@@ -8,11 +8,10 @@ sutra: 33
 position: 447
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तस्मात्त्वमुत्तिष्ठ यशो लभस्व     जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम्
 मयैवैते निहताः पूर्वमेव     निमित्तमात्रं भव सव्यसाचिन्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,17 +33,22 @@ position: 447
 
 
 ### Transliteration
-```
-tasmāt tvam uttiṣṭha yaśo labhasva
-jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham
-mayā eva ete nihatāḥ pūrvam eva
-nimittamātraṃ bhava savyasācin
+{{< lines >}}
+tasmāt tvam uttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham
+mayā eva ete nihatāḥ pūrvam eva nimittamātraṃ bhava savyasācin
+{{< /lines >}}
 
-```
+### अनुवाद
+
+इसलिए तुम उठो और यश प्राप्त करो, शत्रुओं को जीतकर समृद्ध राज्य का भोग करो। ये सब मेरे द्वारा पहले ही मारे जा चुके हैं, हे सव्यसाची! तुम तो केवल निमित्त मात्र बन जाओ।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को युद्ध के लिए प्रेरित कर रहे हैं। वे स्पष्ट करते हैं कि काल रूप में उन्होंने सभी शत्रुओं का विनाश पहले ही निश्चित कर दिया है। अर्जुन को केवल एक माध्यम (निमित्त) बनकर अपना कर्तव्य पूरा करना है और इस संसार में यश प्राप्त करना है।
+
+### Translation
+
+Therefore, stand up and attain glory! Conquer your enemies and enjoy a prosperous kingdom. These warriors have already been slain by Me alone; you be merely an instrument, O Savyasachin!
 
 ### Meaning
 

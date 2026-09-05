@@ -63,8 +63,9 @@
 
   {{/* Grouped by language, because that is the cut a reader actually wants:
        someone who does not read Devanagari wants the Hindi gone, not "the
-       commentary" gone. Eight switches for the eight blocks a verse page
-       carries — one each, so nothing is hidden by a switch that does not name
+       commentary" gone. One switch for each block a verse page
+       carries, plus the two renderings — one switch each, so nothing is hidden by a
+       control that does not name
        it. */}}
   <p class="settings__group">Sanskrit</p>
   <ul class="settings__list">
@@ -73,6 +74,7 @@
 
   <p class="settings__group">हिन्दी</p>
   <ul class="settings__list">
+    <li><label><input type="checkbox" data-part="hi-rendering" checked> अनुवाद</label></li>
     <li><label><input type="checkbox" data-part="hi-translation" checked>
       Translation <span class="settings__by">Swami Ramsukhdas</span></label></li>
     <li><label><input type="checkbox" data-part="hi-commentary" checked>
@@ -83,6 +85,7 @@
 
   <p class="settings__group">English</p>
   <ul class="settings__list">
+    <li><label><input type="checkbox" data-part="en-rendering" checked> Translation</label></li>
     <li><label><input type="checkbox" data-part="en-translation" checked>
       Translation <span class="settings__by">Swami Sivananda</span></label></li>
     <li><label><input type="checkbox" data-part="en-meaning" checked> Meaning</label></li>

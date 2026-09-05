@@ -8,11 +8,10 @@ sutra: 64
 position: 111
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्
 आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 111
 
 
 ### Transliteration
-```
+{{< lines >}}
 rāgadveṣaviyuktaistu viṣayānindriyaiścaran
 ātmavaśyairvidheyātmā prasādamadhigacchati
+{{< /lines >}}
 
-```
+### अनुवाद
+
+परन्तु राग और द्वेष से मुक्त, अपने वश में की हुई इन्द्रियों द्वारा विषयों में विचरता हुआ, स्वाधीन अन्तःकरण वाला पुरुष शान्ति को प्राप्त होता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण एक आत्म-संयमी व्यक्ति की स्थिति का वर्णन करते हैं। जो व्यक्ति राग और द्वेष से मुक्त होकर, अपने वश में की गई इन्द्रियों से विषयों का अनुभव करता है, वह कभी उनमें लिप्त नहीं होता। ऐसा स्वाधीन और संयमित मन वाला मनुष्य परम शान्ति और ईश्वर की कृपा को प्राप्त करता है।
+
+### Translation
+
+But a person free from attachment and aversion, moving among sense objects with senses under the control of the self, having a regulated mind, attains tranquility.
 
 ### Meaning
 

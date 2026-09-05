@@ -8,11 +8,10 @@ sutra: 13
 position: 502
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वाऽमृतमश्नुते
 अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 502
 
 
 ### Transliteration
-```
+{{< lines >}}
 jñeyaṃ yattatpravakṣyāmi yajjñātvā'mṛtamaśnute
 anādimatparaṃ brahma na sattannāsaducyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+जो जानने योग्य है, उसे मैं भली-भाँति कहूँगा, जिसे जानकर मनुष्य अमृत (परमानन्द) को प्राप्त करता है। वह अनादि वाला, परम ब्रह्म न सत् कहा जाता है और न असत्।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को उस परम ज्ञेय तत्व (ब्रह्म) के विषय में बता रहे हैं जिसे जानने से मोक्ष की प्राप्ति होती है। वह परम ब्रह्म अनादि है और प्रकृति के द्वंद्वों से परे है। उसे न तो भौतिक रूप से 'सत्' (अस्तित्ववान) कहा जा सकता है और न ही 'असत्' (अस्तित्वहीन), क्योंकि वह इंद्रियों और बुद्धि की सीमाओं से परे है।
+
+### Translation
+
+I shall now declare to you that which is to be known, knowing which one attains immortality. That is the beginningless supreme Brahman, which is said to be neither existent nor non-existent.
 
 ### Meaning
 

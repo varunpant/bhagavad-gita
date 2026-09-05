@@ -8,11 +8,10 @@ sutra: 56
 position: 103
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः
 वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 103
 
 
 ### Transliteration
-```
+{{< lines >}}
 duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ
 vītarāgabhayakrodhaḥ sthitadhīrmunirucyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+दुःखों की प्राप्ति होने पर जिसका मन उद्विग्न नहीं होता, सुखों की प्राप्ति में जिसकी कोई लालसा नहीं रहती, तथा जो आसक्ति, भय और क्रोध से मुक्त है, ऐसा स्थिर बुद्धि वाला व्यक्ति मुनि कहा जाता है।
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अर्जुन को एक स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति के लक्षण बताते हैं। ऐसा व्यक्ति जीवन के उतार-चढ़ाव, सुख और दुःख में समभाव रखता है। वह सांसारिक इच्छाओं, भय और क्रोध से पूरी तरह मुक्त हो चुका होता है, और इसी कारण उसे सच्चा मुनि कहा जाता है।
+
+### Translation
+
+One whose mind remains unagitated amidst sorrows, who is free from craving for pleasures, and who is devoid of attachment, fear, and anger, is called a sage of steady wisdom.
 
 ### Meaning
 

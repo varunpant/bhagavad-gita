@@ -8,11 +8,10 @@ sutra: 29
 position: 518
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम्
 न हिनस्त्यात्मनाऽऽत्मानं ततो याति परां गतिम्
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 518
 
 
 ### Transliteration
-```
+{{< lines >}}
 samaṃ paśyan hi sarvatra samavasthitam īśvaram
 na hinasty ātmanā'tmānaṃ tato yāti parāṃ gatim
+{{< /lines >}}
 
-```
+### अनुवाद
+
+क्योंकि सभी जगह समान रूप से स्थित परमेश्वर को समान रूप से देखता हुआ मनुष्य अपने द्वारा अपने आप को नष्ट नहीं करता, जिससे वह परम गति को प्राप्त होता है
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण समझाते हैं कि जो व्यक्ति सभी प्राणियों में एक ही परमात्मा को समान रूप से देखता है, वह कभी भी अज्ञानवश अपने वास्तविक स्वरूप (आत्मा) को हानि नहीं पहुँचाता। ऐसा समदर्शी पुरुष सांसारिक बंधनों से मुक्त होकर परम गति अर्थात् मोक्ष को प्राप्त करता है। आत्म-साक्षात्कार का यह मार्ग समता की दृष्टि से ही सुलभ होता है।
+
+### Translation
+
+Because seeing the Supreme Lord equally situated everywhere, he does not destroy the self by the self; therefore, he attains the supreme goal
 
 ### Meaning
 

@@ -8,11 +8,10 @@ sutra: 9
 position: 381
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम्
 कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 381
 
 
 ### Transliteration
-```
+{{< lines >}}
 maccittā madgataprāṇā bodhayantaḥ parasparam
 kathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca
+{{< /lines >}}
 
-```
+### अनुवाद
+
+मुझमें मन वाले, मुझमें प्राणों को अर्पित करने वाले भक्त परस्पर एक-दूसरे को बोध कराते हुए और सदा मेरा कीर्तन करते हुए ही संतुष्ट होते हैं और रमण करते हैं
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपने अनन्य भक्तों के लक्षणों का वर्णन करते हैं। ऐसे भक्तों का चित्त और प्राण पूरी तरह से भगवान में ही लीन रहते हैं। वे आपस में भगवान की महिमा की चर्चा करते हुए परम संतोष और दिव्य आनंद का अनुभव करते हैं।
+
+### Translation
+
+With their minds fixed on Me, with their lives surrendered to Me, enlightening one another and always speaking of Me, they are satisfied and rejoice
 
 ### Meaning
 

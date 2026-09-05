@@ -8,12 +8,11 @@ sutra: 1
 position: 48
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 सञ्जय उवाच
 तं तथा कृपयाऽविष्टमश्रुपूर्णाकुलेक्षणम्
 विषीदन्तमिदं वाक्यमुवाच मधुसूदनः
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -35,16 +34,25 @@ position: 48
 
 
 ### Transliteration
-```
+{{< lines >}}
 sañjaya uvāca
 taṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam
 viṣīdantamidaṃ vākyamuvāca madhusūdanaḥ
+{{< /lines >}}
 
-```
+### अनुवाद
+
+संजय ने कहा —
+इस प्रकार करुणा से व्याप्त, आंसुओं से भरे और व्याकुल नेत्रों वाले, शोक करते हुए उस (अर्जुन) से मधुसूदन (कृष्ण) ने यह वचन कहा।
 
 ### भावार्थ
 
 संजय धृतराष्ट्र को कुरुक्षेत्र के युद्ध के मैदान का दृश्य बता रहे हैं। अर्जुन अपने सगे-संबंधियों को देखकर गहरे शोक और करुणा में डूब गए हैं। उनकी इस दयनीय और व्याकुल स्थिति को देखकर भगवान कृष्ण अब उन्हें उपदेश देना आरंभ करेंगे।
+
+### Translation
+
+Sanjaya said:
+To him who was thus overcome with compassion, whose eyes were filled with tears and agitated, and who was lamenting, Madhusudana (Krishna) spoke these words.
 
 ### Meaning
 

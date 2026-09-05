@@ -8,11 +8,10 @@ sutra: 33
 position: 195
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप
 सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,22 @@ position: 195
 
 
 ### Transliteration
-```
+{{< lines >}}
 śreyāndravyamayādyajñājjñānayajñaḥ parantapa
 sarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे परन्तप! द्रव्यमय यज्ञ की अपेक्षा ज्ञानयज्ञ श्रेष्ठ है। हे पार्थ! सम्पूर्ण कर्म समग्र रूप से ज्ञान में ही समाप्त (पूर्ण) होते हैं।
 
 ### भावार्थ
 
 भगवान कृष्ण अर्जुन को समझाते हैं कि भौतिक वस्तुओं से किए जाने वाले यज्ञ की तुलना में ज्ञान रूपी यज्ञ कहीं अधिक श्रेष्ठ है। इसका कारण यह है कि सभी प्रकार के कर्म और अनुष्ठान अंततः ज्ञान में ही अपनी पूर्णता को प्राप्त होते हैं। ज्ञान के बिना कर्म बंधन का कारण बनते हैं, परंतु ज्ञान के उदय होने पर वे मोक्ष की ओर ले जाते हैं।
+
+### Translation
+
+O chastiser of the enemy, the sacrifice of knowledge is superior to the sacrifice of material things. O son of Pritha, all action in its entirety culminates in knowledge.
 
 ### Meaning
 

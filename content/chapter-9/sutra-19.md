@@ -8,11 +8,10 @@ sutra: 19
 position: 357
 ---
 ### मूल श्लोक :
-```
+{{< lines >}}
 तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च
 अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन
-
-```
+{{< /lines >}}
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
@@ -34,15 +33,24 @@ position: 357
 
 
 ### Transliteration
-```
+{{< lines >}}
 tapāmyahamahaṃ varṣaṃ nigṛhṇāmyutsṛjāmi ca
 amṛtaṃ caiva mṛtyuśca sadasaccāhamarjuna
+{{< /lines >}}
 
-```
+### अनुवाद
+
+हे अर्जुन, मैं ही सूर्य रूप में तपता हूँ, मैं ही वर्षा को रोकता हूँ और उसे बरसाता हूँ
+मैं ही अमृत हूँ और मृत्यु भी हूँ, तथा सत् और असत् भी मैं ही हूँ
 
 ### भावार्थ
 
 इस श्लोक में भगवान कृष्ण अपनी सर्वव्यापकता और सृष्टि के नियंत्रण का वर्णन कर रहे हैं। वे बताते हैं कि प्रकृति की सभी क्रियाएं जैसे गर्मी, वर्षा, जीवन (अमृत) और मृत्यु उन्हीं की शक्ति से संचालित होती हैं। वे ही दृश्य जगत (सत्) और अदृश्य या सूक्ष्म जगत (असत्) के मूल आधार हैं।
+
+### Translation
+
+O Arjuna, I give heat, I withhold and send forth the rain
+I am immortality and also death, and I am both the existence and the non-existence
 
 ### Meaning
 
