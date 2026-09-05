@@ -238,11 +238,16 @@ hugo server -D          # http://localhost:1313
   content hash; do not link to `/css/main.css` directly.
 - The drawer animates `transform`, never `width`. Animating width relayouts ~700
   links per frame, which is what made the original slide-in stutter.
-- Google Analytics is a hardcoded UA property (`UA-16978408-5`) in
-  `partials/analytics.html`. Universal Analytics stopped collecting data in 2023;
-  this tag does nothing until it's replaced with a GA4 measurement ID.
-- `docs/page/`, `docs/tags/` and `docs/categories/` are stale output from earlier
-  builds. Hugo will not remove them; delete by hand.
+- Analytics is off. `partials/analytics.html` emits nothing unless
+  `googleAnalytics` is set in `config.toml`; paste a GA4 measurement id there
+  (`G-XXXXXXXXXX`) to turn it on. It used to be a hardcoded UA property, which
+  stopped collecting in 2023 and spent three years loading a script that
+  recorded nothing.
+- **Hugo does not delete unknown files from `docs/`.** `docs/page/`, `docs/tags/`
+  and `docs/categories/` sat there from earlier builds until they were removed
+  by hand — and because nothing rebuilds them, they went on serving the old
+  tracking tag after it had been taken out of every live page. Stale output here
+  is not inert; it is a page that is still being served.
 - The drawer sits at `left: 0` **under** the rail, not beside it, and clears it
   with `padding-left` instead. Offsetting `left` puts a `calc()` holding both a
   percentage and a custom property inside the closed `translate3d`, and the

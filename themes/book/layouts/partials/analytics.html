@@ -1,9 +1,14 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16978408-5"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+{{/* Analytics, if there is any.
 
-  gtag('config', 'UA-16978408-5');
-</script>
+     This was a hardcoded Universal Analytics tag, `UA-16978408-5`. Universal
+     Analytics stopped collecting in July 2023, so every page has since loaded
+     a script from Google that records nothing — a request, a connection to a
+     third party, and a cookie banner's worth of obligation, in exchange for no
+     data at all.
+
+     Nothing is emitted now unless `googleAnalytics` is set in config.toml.
+     Paste a GA4 measurement id there (`G-XXXXXXXXXX`) and Hugo's own internal
+     template does the rest; leave it empty and the site talks to nobody. */}}
+{{ with site.Config.Services.GoogleAnalytics.ID }}
+  {{ template "_internal/google_analytics.html" $ }}
+{{ end }}

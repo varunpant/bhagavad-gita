@@ -22,3 +22,8 @@ disableKinds = ["taxonomy", "term"]
 
 [markup.goldmark.renderer]
 	unsafe = true
+
+# Empty on purpose. The site loaded a dead Universal Analytics tag from 2023
+# until 2026; it now measures nothing at all rather than pretending to. Paste a
+# GA4 measurement id ("G-XXXXXXXXXX") here to turn collection back on.
+googleAnalytics = ""
