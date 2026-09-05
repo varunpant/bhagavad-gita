@@ -45,6 +45,12 @@ struct PanelHeader<Trailing: View>: View {
                 // which is already spaced by its own headline.
                 .tracking(isDevanagari ? 0 : 1.2)
                 .foregroundStyle(theme.textSecondary)
+                // A panel title never wraps. It is one short word, and a
+                // trailing view that asks for room should lose that argument
+                // rather than win it — "CHAPTERS" broken into "CHA / PTER / S"
+                // to make space for a key is not a trade anyone would choose.
+                .lineLimit(1)
+                .fixedSize()
 
             Spacer(minLength: 0)
 

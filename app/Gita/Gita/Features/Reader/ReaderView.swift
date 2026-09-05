@@ -252,7 +252,7 @@ struct ReaderView: View {
                 // Left of the bookmark, and nothing when there is nothing to
                 // say: the meter is only on screen while a verse is being
                 // counted or has just been marked.
-                ReadMeter()
+                ReadMeter(isRead: currentVerseID.map(readingProgress.hasRead) ?? false)
                 bookmarkButton
             }
             .padding(.horizontal, 16)

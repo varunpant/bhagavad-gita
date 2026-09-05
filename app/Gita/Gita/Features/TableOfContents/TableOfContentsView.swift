@@ -79,37 +79,80 @@ struct TableOfContentsView: View {
     /// What the two marks on a chip mean, in the space `PanelHeader` keeps
     /// between the title and the way out.
     ///
-    /// Two swatches, no words. The grid teaches the rest by itself — a numeral
-    /// is a verse, a tap opens it — but nothing on the panel says why four
-    /// numbers in a chapter wear a gold edge, and the ring is a claim about the
-    /// verse rather than about the reader, which is not guessable. The read
-    /// disc sits beside it because the two are easy to confuse: one is the
-    /// fill, the other the edge.
+    /// Three swatches, one word each. The grid teaches the rest by itself — a
+    /// numeral is a verse, a tap opens it — but nothing on the panel says why
+    /// some numbers wear a gold edge, and the ring is a claim about the verse
+    /// rather than about the reader, which is not guessable.
+    ///
+    /// The three are the three things a chip can say, and they are easy to
+    /// confuse because they use different parts of the same circle: the accent
+    /// fill is where the reader is, the grey fill is what they have read, and
+    /// the gold edge is what the world quotes. Fill, fill, edge.
     ///
     /// Drawn from `fill` and `ring` rather than restated, so a legend cannot
     /// come to describe a chip the app no longer draws.
     private var legend: some View {
-        HStack(spacing: 10) {
-            swatch(isRead: true, isFamous: false,
-                   label: isDevanagari ? "पढ़ा" : "Read")
-            swatch(isRead: false, isFamous: true,
-                   label: isDevanagari ? "प्रसिद्ध" : "Famous")
+        // Three, then two, then none — whichever fits the room the title and
+        // the close button leave. `ViewThatFits` measures rather than guessing
+        // at a screen width: on an SE in English all three wrapped to "Her e /
+        // Rea d / Fam ous", and the same three fit in Devanagari, where the
+        // words are shorter. A width threshold would have to be wrong in one
+        // script or the other.
+        //
+        // Closing the gaps is tried before dropping a swatch: on a 6.9" phone
+        // in English all three fit at 9pt spacing until the labels were told
+        // not to wrap, and losing a third of the key to four points of air
+        // would be a poor trade.
+        //
+        // "Current" is the one dropped when something must go. It is the least
+        // surprising of the three — the accent chip is the verse you were just
+        // reading, and the panel opens scrolled to it — where the gold edge
+        // explains nothing about itself at all.
+        ViewThatFits(in: .horizontal) {
+            row(showsCurrent: true, spacing: 9)
+            row(showsCurrent: true, spacing: 5)
+            row(showsCurrent: false, spacing: 9)
+            EmptyView()
         }
+        // Ahead of the header's `Spacer`, which is flexible too and was taking
+        // the proposal the key needed to measure itself against. Without this
+        // `ViewThatFits` saw a narrow slot on every device and stepped down to
+        // two swatches even on a 6.9" phone with room for three.
+        .layoutPriority(1)
         .accessibilityElement(children: .combine)
-        .accessibilityLabel("Key: filled is read, gold edge is a famous verse")
+        .accessibilityLabel(
+            "Key: the accent circle is where you are reading, filled is read, "
+            + "gold edge is a famous verse"
+        )
     }
 
-    private func swatch(isRead: Bool, isFamous: Bool, label: String) -> some View {
+    private func row(showsCurrent: Bool, spacing: CGFloat) -> some View {
+        HStack(spacing: spacing) {
+            if showsCurrent {
+                swatch(isCurrent: true, label: isDevanagari ? "वर्तमान" : "Current")
+            }
+            swatch(isRead: true, label: isDevanagari ? "पढ़ा" : "Read")
+            swatch(isFamous: true, label: isDevanagari ? "प्रसिद्ध" : "Famous")
+        }
+    }
+
+    private func swatch(isCurrent: Bool = false, isRead: Bool = false,
+                        isFamous: Bool = false, label: String) -> some View {
         HStack(spacing: 5) {
             Circle()
-                .fill(fill(isCurrent: false, isRead: isRead))
-                .overlay { ring(isCurrent: false, isFamous: isFamous) }
+                .fill(fill(isCurrent: isCurrent, isRead: isRead))
+                .overlay { ring(isCurrent: isCurrent, isFamous: isFamous) }
                 .frame(width: 12, height: 12)
 
             Text(label)
                 .font(isDevanagari ? .labelDevanagari : .label)
                 .tracking(isDevanagari ? 0 : 0.6)
                 .foregroundStyle(theme.textSecondary)
+                // Never wrap: a label that wraps *fits*, so `ViewThatFits`
+                // would keep the three-swatch row and let it stack instead of
+                // stepping down to two.
+                .lineLimit(1)
+                .fixedSize()
         }
         .accessibilityHidden(true)
     }

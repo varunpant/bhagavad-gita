@@ -6,7 +6,7 @@
 import SwiftUI
 
 /// A small ring beside the bookmark that closes as the verse is being read,
-/// ticks when it counts, and goes.
+/// ticks when it counts, and leaves the tick behind.
 ///
 /// The rule it draws is `ReadingPolicy`: three seconds on screen, uncovered and
 /// in the foreground, and the verse is marked. That was invisible — a mark
@@ -22,6 +22,14 @@ import SwiftUI
 /// It draws `ReadingDwell` rather than timing anything itself — see that type
 /// for why the timing lives in one place.
 struct ReadMeter: View {
+    /// Whether the verse on screen has already been read.
+    ///
+    /// The meter is not only about the moment of counting: a verse that was
+    /// read last week should say so while it is open, in the same place, or
+    /// the reader has to open the contents to find out. The ring earns the
+    /// tick; the tick then stays.
+    let isRead: Bool
+
     @Environment(ReadingDwell.self) private var dwell
     @Environment(\.theme) private var theme
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
@@ -36,11 +44,29 @@ struct ReadMeter: View {
 
     @State private var sweep: CGFloat = 0
 
+    /// Whether a tick is on screen — just earned, or standing from a previous
+    /// reading. Either way the page is saying "this one counts".
+    private var showsTick: Bool {
+        if case .marked = dwell.phase { return true }
+        if case .idle = dwell.phase { return isRead }
+        return false
+    }
+
     var body: some View {
         ZStack {
             switch dwell.phase {
             case .idle:
-                EmptyView()
+                // Standing state, and quieter than the one that celebrates:
+                // grey like the rest of the page's furniture rather than the
+                // brand. Being read is a fact about the verse, not an event —
+                // the brand belongs to the moment it happened.
+                if isRead {
+                    Image(systemName: "checkmark")
+                        .font(.system(size: 11, weight: .semibold))
+                        .foregroundStyle(theme.textSecondary.opacity(0.55))
+                        .frame(width: size, height: size)
+                        .transition(.opacity)
+                }
 
             case .counting:
                 Circle()
@@ -68,6 +94,7 @@ struct ReadMeter: View {
         }
         .frame(width: size, height: size)
         .animation(reduceMotion ? nil : .snappy(duration: 0.24), value: dwell.phase)
+        .animation(reduceMotion ? nil : .easeOut(duration: 0.3), value: isRead)
         // The sweep is the dwell, so it is keyed on the same phase the tracker
         // sets. Reduce Motion gets the closed ring without the travel: the
         // information is "this is counting", not the motion itself.
@@ -91,10 +118,20 @@ struct ReadMeter: View {
                 sweep = 0
             }
         }
-        // Decorative: the mark itself is announced by the contents, where the
-        // chip carries "Read" in its value. A ring that narrated three seconds
-        // of waiting would be noise on every page turn.
-        .accessibilityHidden(true)
+        // The tick is worth announcing and the ring is not.
+        //
+        // "Read" is a fact about the verse on screen, and a reader who cannot
+        // see the mark would otherwise have to open the contents to learn it.
+        // The three-second sweep is the opposite: a countdown narrated on every
+        // page turn is noise, and it says nothing that has happened yet.
+        //
+        // The identifier rides on the same element, which is what lets
+        // `ReaderUITests` check the tick is there at all — hidden from the
+        // accessibility tree, it was invisible to the tests too.
+        .accessibilityElement()
+        .accessibilityHidden(!showsTick)
+        .accessibilityLabel("Read")
+        .accessibilityIdentifier(showsTick ? "readTick" : "readMeter")
     }
 }
 
