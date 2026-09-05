@@ -249,24 +249,27 @@
 
   var PARTS = {
     "Transliteration": "translit",
-    "Hindi Translation By Swami Ramsukhdas": "translation",
-    "English Translation By Swami  Sivananda": "translation",
-    "English Translation By Swami Sivananda": "translation",
-    "Hindi Commentary By Swami Chinmayananda": "commentary",
-    "भावार्थ": "meaning",
-    "Meaning": "meaning",
-    "शब्दार्थ": "words",
-    "Word by word": "words"
+    "Hindi Translation By Swami Ramsukhdas": "hi-translation",
+    "Hindi Commentary By Swami Chinmayananda": "hi-commentary",
+    "भावार्थ": "hi-meaning",
+    "शब्दार्थ": "hi-words",
+    "English Translation By Swami  Sivananda": "en-translation",
+    "English Translation By Swami Sivananda": "en-translation",
+    "Meaning": "en-meaning",
+    "Word by word": "en-words"
   };
 
-  /* Word by word starts off, exactly as it does in the app: most readers want
-     the verse, not the grammar, and it is the longest thing on the page. */
+  /* Both word lists start off, exactly as in the app: most readers want the
+     verse, not the grammar, and together they are the longest thing here. */
   var PART_DEFAULTS = {
     translit: true,
-    translation: true,
-    commentary: true,
-    meaning: true,
-    words: false
+    "hi-translation": true,
+    "hi-commentary": true,
+    "hi-meaning": true,
+    "hi-words": false,
+    "en-translation": true,
+    "en-meaning": true,
+    "en-words": false
   };
 
   var PART_KEY = "gita:parts";

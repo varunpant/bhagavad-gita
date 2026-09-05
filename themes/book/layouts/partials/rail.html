@@ -58,13 +58,32 @@
      The shloka has no switch. It is the verse. */}}
 <div class="settings" id="settings" hidden>
   <p class="settings__title">Verse details</p>
+
+  {{/* Grouped by language, because that is the cut a reader actually wants:
+       someone who does not read Devanagari wants the Hindi gone, not "the
+       commentary" gone. Eight switches for the eight blocks a verse page
+       carries — one each, so nothing is hidden by a switch that does not name
+       it. */}}
+  <p class="settings__group">Sanskrit</p>
   <ul class="settings__list">
     <li><label><input type="checkbox" data-part="translit" checked> Transliteration</label></li>
-    <li><label><input type="checkbox" data-part="translation" checked> Translations</label></li>
-    <li><label><input type="checkbox" data-part="commentary" checked> Commentary</label></li>
-    <li><label><input type="checkbox" data-part="meaning" checked> Meaning</label></li>
-    <li><label><input type="checkbox" data-part="words"> Word by word</label></li>
   </ul>
+
+  <p class="settings__group">हिन्दी</p>
+  <ul class="settings__list">
+    <li><label><input type="checkbox" data-part="hi-translation" checked> Translation</label></li>
+    <li><label><input type="checkbox" data-part="hi-commentary" checked> Commentary</label></li>
+    <li><label><input type="checkbox" data-part="hi-meaning" checked> भावार्थ</label></li>
+    <li><label><input type="checkbox" data-part="hi-words"> शब्दार्थ</label></li>
+  </ul>
+
+  <p class="settings__group">English</p>
+  <ul class="settings__list">
+    <li><label><input type="checkbox" data-part="en-translation" checked> Translation</label></li>
+    <li><label><input type="checkbox" data-part="en-meaning" checked> Meaning</label></li>
+    <li><label><input type="checkbox" data-part="en-words"> Word by word</label></li>
+  </ul>
+
   <p class="settings__note">Remembered in this browser.</p>
 </div>
 

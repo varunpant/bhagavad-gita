@@ -215,7 +215,18 @@ code {
     line-height: inherit !important;
     display: block;
     text-align: center;
+    /* Prose, so the scrape's own wrapping is not the reader's problem. */
     white-space: normal;
+}
+
+/* The shloka is the exception, and it is always the first block on the page.
+   Its lines are semantic — where a line ends is part of how the verse is
+   composed — and they only became real line breaks when the text started
+   coming from `enriched.sqlite` instead of the scrape, which ran them
+   together around a danda. `pre-wrap` keeps them and still wraps a line too
+   long for a narrow screen. */
+.verse-page pre:first-of-type code {
+    white-space: pre-wrap;
 }
 
 .verse-page__eyebrow {
@@ -261,9 +272,13 @@ code {
     margin: auto;
 }
 
+/* Clear of the rail, not under it.
+   `position: fixed` is laid out against the viewport, so the body's
+   `padding-left: var(--rail-width)` does not move these — the previous arrow
+   sat beneath the rail with half of it showing. */
 .prev-arrow {
     position: fixed;
-    left: 20px;
+    left: calc(var(--rail-width) + 20px);
     top: 50%;
     margin-top: -25px;
 }
@@ -275,12 +290,16 @@ code {
     margin-top: -25px;
 }
 
-@media screen and (max-width: 700px) {
+/* 720px, not 700: the rail lies down along the foot at 720, and for the 20px
+   between the two breakpoints the arrows were being placed for a rail that had
+   already moved. One number, shared. */
+@media screen and (max-width: 720px) {
 
     .prev-arrow,
     .next-arrow {
         top: auto;
-        bottom: 16px;
+        /* Above the rail, which is now a 56px bar across the foot. */
+        bottom: calc(56px + 14px);
         margin-top: 0;
     }
 }

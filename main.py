@@ -72,7 +72,8 @@ def loadEnriched():
     db = sqlite3.connect(ENRICHED_DB)
     db.row_factory = sqlite3.Row
     for row in db.execute("""
-        SELECT chapter, sutra, transliteration,
+        SELECT chapter, sutra, sanskrit, transliteration,
+               hindi_translation, english_translation,
                hindi_meaning, english_meaning,
                word_by_word_hindi, word_by_word_english
         FROM enriched_verses
@@ -218,6 +219,36 @@ def writeToFile(counter,bookname,chapter,sutra,mool_shloka,hindi_translation,Com
 
     filename = path + "/sutra-" + str(sutra) + ".md"
     ts = existingDate(filename) or ts
+
+    # The database wins wherever it holds the same field.
+    #
+    # `srimad.csv` is the scrape as it came off the Supersite, and it carries
+    # the page's own furniture with it: the shloka's two lines run together
+    # around a danda, and every translation opens with the reference it was
+    # printed under — "।।5.27  5.28।।" ahead of the words themselves. The
+    # enriched rows are the same text cleaned up, with the lines separated and
+    # the markers gone, and they are what the app reads. Two sources for one
+    # verse means the site and the app can disagree about what it says; this
+    # settles which one is right.
+    #
+    # Field by field, not row by row: the commentary exists only in the CSV,
+    # and a verse the enrichment has not reached still gets everything the
+    # scrape had.
+    # **The shloka only.** The database's `hindi_translation` and
+    # `english_translation` are not cleaned-up copies of the scraped ones —
+    # they are the enrichment's own renderings, written by a model. Preferring
+    # them would leave the headings "Hindi Translation By Swami Ramsukhdas" and
+    # "English Translation By Swami Sivananda" standing over words neither of
+    # them wrote, which is a misattribution on 701 pages and not a formatting
+    # improvement. The enrichment's own words already appear on the page, under
+    # भावार्थ and Meaning, where nothing is attributed to anyone.
+    #
+    # The Sanskrit is a different case: same words, better kept. The scrape
+    # runs the two lines together around a danda and ends with the reference
+    # printed on the page — "।।5.28।।" — which is the Supersite's furniture
+    # rather than the verse.
+    if enrichedRow is not None:
+        mool_shloka = (enrichedRow["sanskrit"] or "").strip() or mool_shloka
 
     with open(filename, 'w') as file_to_write:
         file_to_write.write(Template.format(
