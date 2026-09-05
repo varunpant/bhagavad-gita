@@ -338,6 +338,21 @@
     }
   }
 
+  /* Every panel's cross. One handler for both, closing whatever it names and
+     putting the rail button that opened it back to `aria-expanded=false`. */
+  var crosses = document.querySelectorAll("[data-close-panel]");
+  for (var c = 0; c < crosses.length; c++) {
+    (function (cross) {
+      cross.addEventListener("click", function () {
+        var name = cross.getAttribute("data-close-panel");
+        var panel = document.getElementById(name);
+        var opener = document.querySelector("[data-" + name + "-toggle]");
+        if (panel) panel.hidden = true;
+        if (opener) opener.setAttribute("aria-expanded", "false");
+      });
+    })(crosses[c]);
+  }
+
   /* The panel itself. */
   var settings = document.getElementById("settings");
   var settingsToggle = document.querySelector("[data-settings-toggle]");

@@ -561,7 +561,18 @@ code {
     z-index: 40;
     top: 0;
     left: 0;
-    width: var(--nav-width);
+    /* Beside the rail, not beneath it. The rail is `z-index: 60` and 58px
+       wide, so a drawer opening at `left: 0` had its first 58px — the chapter
+       numbers, and its own close button — covered by it.
+       The panel still starts at 0 and is simply that much wider, with its
+       content inset past the rail: the strip behind the rail is never seen,
+       because the rail is opaque and on top of it. Offsetting `left` instead
+       would put a `calc()` with a percentage *and* a custom property inside
+       the closed `translate3d`, which this browser declines to interpolate —
+       the drawer then stays at its closed transform however the class is
+       set. */
+    width: calc(var(--nav-width) + var(--rail-width));
+    padding-left: var(--rail-width);
     max-width: 86vw;
     height: 100%;
     display: flex;
@@ -628,6 +639,14 @@ code {
     overflow-y: auto;
     overscroll-behavior: contain;
     -webkit-overflow-scrolling: touch;
+}
+
+/* On a phone the rail is a bar across the foot, so the last chapter in the
+   list would scroll to a stop underneath it. */
+@media (max-width: 720px) {
+    .sidenav__scroll {
+        padding-bottom: 56px;
+    }
 }
 
 /* ---------- chapter accordion (native <details>) ------------------- */
@@ -1263,3 +1282,58 @@ body {
 }
 
 .verse-page tbody td:last-child { color: var(--ink-soft); }
+
+
+/* ---------- a way out of a panel ---------- */
+
+/* The rail button that opened a panel also closes it, but that is a thing you
+   have to know. A cross is a thing you can see. */
+.panel__close {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    border: 0;
+    border-radius: 8px;
+    background: transparent;
+    color: var(--ink-soft);
+    font-size: 1.35rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.panel__close:hover {
+    background: var(--cream);
+    color: var(--ink);
+}
+
+/* Room for it, so a title never runs under the cross. */
+.jump__label,
+.settings__title {
+    padding-right: 34px;
+}
+
+/* Whose translation it is, said where the switch for it is. */
+.settings__group {
+    margin-top: 12px;
+    font-size: .74rem;
+    font-weight: 600;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+}
+
+.settings__group:first-of-type { margin-top: 8px; }
+
+.settings__list label {
+    flex-wrap: wrap;
+}
+
+.settings__by {
+    flex: 1 0 100%;
+    padding-left: 27px;
+    font-size: .8rem;
+    color: var(--ink-soft);
+}

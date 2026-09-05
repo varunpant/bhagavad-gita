@@ -57,6 +57,8 @@
 
      The shloka has no switch. It is the verse. */}}
 <div class="settings" id="settings" hidden>
+  <button type="button" class="panel__close" data-close-panel="settings"
+          aria-label="Close">&times;</button>
   <p class="settings__title">Verse details</p>
 
   {{/* Grouped by language, because that is the cut a reader actually wants:
@@ -71,15 +73,18 @@
 
   <p class="settings__group">हिन्दी</p>
   <ul class="settings__list">
-    <li><label><input type="checkbox" data-part="hi-translation" checked> Translation</label></li>
-    <li><label><input type="checkbox" data-part="hi-commentary" checked> Commentary</label></li>
+    <li><label><input type="checkbox" data-part="hi-translation" checked>
+      Translation <span class="settings__by">Swami Ramsukhdas</span></label></li>
+    <li><label><input type="checkbox" data-part="hi-commentary" checked>
+      Commentary <span class="settings__by">Swami Chinmayananda</span></label></li>
     <li><label><input type="checkbox" data-part="hi-meaning" checked> भावार्थ</label></li>
     <li><label><input type="checkbox" data-part="hi-words"> शब्दार्थ</label></li>
   </ul>
 
   <p class="settings__group">English</p>
   <ul class="settings__list">
-    <li><label><input type="checkbox" data-part="en-translation" checked> Translation</label></li>
+    <li><label><input type="checkbox" data-part="en-translation" checked>
+      Translation <span class="settings__by">Swami Sivananda</span></label></li>
     <li><label><input type="checkbox" data-part="en-meaning" checked> Meaning</label></li>
     <li><label><input type="checkbox" data-part="en-words"> Word by word</label></li>
   </ul>
@@ -89,6 +94,8 @@
 
 {{/* Jump to a verse by its number — the one thing people arrive knowing. */}}
 <div class="jump" id="jump" hidden>
+  <button type="button" class="panel__close" data-close-panel="jump"
+          aria-label="Close">&times;</button>
   <form class="jump__form" data-jump-form>
     <label class="jump__label" for="jump-input">Go to verse</label>
     <input class="jump__input" id="jump-input" type="text" inputmode="decimal"
