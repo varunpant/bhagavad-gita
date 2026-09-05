@@ -35,6 +35,7 @@ Two sizes worth knowing:
 from __future__ import annotations
 
 import argparse
+import random
 import re
 import shutil
 import signal
@@ -43,7 +44,7 @@ import sys
 import tempfile
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from make_brand import GROUND_LIGHT, compose as brand_mark         # noqa: E402
@@ -88,12 +89,47 @@ SERIF = "/System/Library/Fonts/Supplemental/Georgia.ttf"
 # One panel per captured screen. The caption is the whole marketing message —
 # two short lines, because three is a paragraph and nobody reads a paragraph in
 # a store carousel.
+# One panel per captured screen. The caption is the whole marketing message —
+# two short lines, because three is a paragraph and nobody reads a paragraph in
+# a store carousel.
 STILLS = [
     ("1-sanskrit", "All 700 verses,\nin the original Sanskrit"),
     ("2-english", "Every word rendered\nin English"),
     ("3-search", "Search the whole Gita\nin an instant"),
     ("4-progress", "See how far\nyou have come"),
 ]
+
+# A ground per panel, rather than the brand ramp five times.
+#
+# The ramp is the *app's* identity — the icon, the splash, the rail — and
+# running it down every panel made the listing one long orange smear in which
+# no single screen stood out. A carousel is read sideways, in a second, and it
+# reads better as five distinct cards than as one repeated background.
+#
+# So each panel takes a ground from the book's own world instead: parchment,
+# ink, saffron, vermillion, and the sepia the reader can actually choose. The
+# brand still appears — it is one of the five, not all of them.
+#
+# Each entry is (top, bottom, ink), where ink is the caption colour, chosen for
+# contrast against its own ground rather than one colour hoped to work on all.
+CREAM = (0xF6, 0xEC, 0xD8)
+DEEP_BROWN = (0x4A, 0x28, 0x0C)
+
+PANEL_GROUNDS = {
+    # The book itself: parchment, and the type that belongs on it.
+    "1-sanskrit": ((0xF3, 0xE6, 0xCC), (0xE2, 0xCB, 0xA4), DEEP_BROWN),
+    # Ink, for the page turned into English. The one dark panel in the set,
+    # which is what stops five light ones reading as one.
+    "2-english": ((0x2A, 0x22, 0x1C), (0x14, 0x10, 0x0C), CREAM),
+    # Saffron: the brand, once.
+    "3-search": ((0xF2, 0xA8, 0x3C), (0xD9, 0x6B, 0x15), (0x3D, 0x1C, 0x04)),
+    # Vermillion, deeper than the ramp's end, for the panel about a long road.
+    "4-progress": ((0xB8, 0x45, 0x1E), (0x7E, 0x24, 0x12), CREAM),
+    # Sepia, which is a real setting in the app and the quietest of the five —
+    # the right note for the card someone sends to a friend.
+    "5-card": ((0xE8, 0xD9, 0xBE), (0xCF, 0xB8, 0x92), DEEP_BROWN),
+}
+
 CARD_PANEL = ("5-card", "Share any verse\nas a card")
 
 # The preview's captions, one per beat of the tour, keyed by the name the tour
@@ -465,12 +501,48 @@ def closing_card(frame: tuple[int, int] = PREVIEW, name: str = "closing") -> Pat
 # -------------------------------------------------------------------- drawing
 
 
-def ground(size: tuple[int, int]) -> Image.Image:
-    """The brand ramp over the whole panel, from `make_brand.GROUND_LIGHT`."""
-    small = Image.new("RGB", (1, len(GROUND_LIGHT)))
-    for index, colour in enumerate(GROUND_LIGHT):
+def ground(size: tuple[int, int], stops: tuple = GROUND_LIGHT) -> Image.Image:
+    """A vertical ramp over the whole panel."""
+    small = Image.new("RGB", (1, len(stops)))
+    for index, colour in enumerate(stops):
         small.putpixel((0, index), colour)
     return small.resize(size, Image.BICUBIC)
+
+
+def textured(size: tuple[int, int], top: tuple, bottom: tuple) -> Image.Image:
+    """A two-stop ground with a cloth in it.
+
+    Flat gradients read as software; a ground with some tooth in it reads as
+    paper, which is what a book's store page should look like. Two passes, both
+    faint enough to be felt rather than seen:
+
+      * **Warp** — slow vertical streaks, like a laid paper or a dyed cloth.
+        Made by blurring one row of noise into columns, so the streaks run the
+        full height without ever repeating exactly.
+      * **Grain** — per-pixel noise at a couple of levels, which stops the
+        gradient banding on a phone's screen. Banding is the one artefact a
+        large flat area cannot hide.
+    """
+    panel = ground(size, (top, bottom))
+    width, height = size
+    seed = random.Random(0x6-0x1 + sum(top) + sum(bottom))
+
+    # The warp: one row of noise, blurred sideways, stretched down the panel.
+    row = Image.new("L", (width // 6, 1))
+    row.putdata([seed.randint(96, 160) for _ in range(width // 6)])
+    warp = row.resize((width, height), Image.BICUBIC).filter(ImageFilter.GaussianBlur(3))
+    panel = Image.blend(panel, Image.composite(
+        ImageEnhance.Brightness(panel).enhance(1.06), panel, warp
+    ), 0.55)
+
+    # The grain, at a strength that survives JPEG but never becomes a texture
+    # anyone would name.
+    grain = Image.new("L", (width // 2, height // 2))
+    grain.putdata([seed.randint(118, 138) for _ in range((width // 2) * (height // 2))])
+    grain = grain.resize(size, Image.BILINEAR)
+    return Image.blend(panel, Image.composite(
+        ImageEnhance.Brightness(panel).enhance(1.05), panel, grain
+    ), 0.5)
 
 
 def rounded(size: tuple[int, int], radius: int) -> Image.Image:
@@ -505,7 +577,7 @@ def drop(panel: Image.Image, box: tuple[int, int, int, int], radius: int) -> Non
     panel.paste(Image.new("RGB", panel.size, (0x6B, 0x22, 0x06)), (0, 0), shadow)
 
 
-def caption(panel: Image.Image, text: str) -> int:
+def caption(panel: Image.Image, text: str, ink: tuple = (0x63, 0x22, 0x06)) -> int:
     """Two centred lines at the top. Returns the y the artwork may start at."""
     k = scale(panel)
     draw = ImageDraw.Draw(panel)
@@ -513,12 +585,22 @@ def caption(panel: Image.Image, text: str) -> int:
     top = int(186 * k)
     spacing = int(26 * k)
 
-    # Deep brown, not white. The panel's caption sits on the yellow end of the
-    # ramp, which is the one place white loses its contrast — at carousel size
-    # it goes soft and unreadable. The pale line under it is a lift, not a
-    # shadow: it separates the letters from the ground without a halo.
-    for offset, fill in (((0, int(3 * k)), (0xFF, 0xE7, 0xA8)),
-                         ((0, 0), (0x63, 0x22, 0x06))):
+    # The ink is chosen per panel, against that panel's own ground: cream on the
+    # dark and the vermillion, deep brown on the parchment and the saffron. One
+    # colour for all five is one colour that is wrong on two of them.
+    #
+    # The line under the letters is a lift, not a shadow — it separates them
+    # from the ground without a halo — so it leans the opposite way from the
+    # ink: dark under pale type, pale under dark type.
+    lift = (0x00, 0x00, 0x00, 60) if sum(ink) > 380 else (0xFF, 0xFF, 0xFF, 70)
+    shadow = Image.new("RGBA", panel.size, (0, 0, 0, 0))
+    ImageDraw.Draw(shadow).multiline_text(
+        (panel.width // 2, top + int(3 * k)), text, font=face,
+        fill=lift, anchor="ma", align="center", spacing=spacing,
+    )
+    panel.paste(Image.alpha_composite(panel.convert("RGBA"), shadow).convert("RGB"), (0, 0))
+
+    for offset, fill in (((0, 0), ink),):
         draw.multiline_text(
             (panel.width // 2 + offset[0], top + offset[1]), text, font=face,
             fill=fill, anchor="ma", align="center", spacing=spacing,
@@ -530,7 +612,8 @@ def caption(panel: Image.Image, text: str) -> int:
 
 
 def device_panel(shot: Image.Image, text: str, size: tuple[int, int] = PANEL,
-                 across: float = 0.72, corner: float = 0.105) -> Image.Image:
+                 across: float = 0.72, corner: float = 0.105,
+                 palette: tuple | None = None) -> Image.Image:
     """A screenshot in a device, running off the bottom edge of the panel.
 
     `across` and `corner` are what make the same drawing work for a tablet: an
@@ -538,9 +621,10 @@ def device_panel(shot: Image.Image, text: str, size: tuple[int, int] = PANEL,
     shot in a phone-shaped frame with phone-sized corners reads as a phone
     someone stretched.
     """
-    panel = ground(size)
+    top_colour, bottom_colour, ink = palette or PANEL_GROUNDS["1-sanskrit"]
+    panel = textured(size, top_colour, bottom_colour)
     k = scale(panel)
-    top = caption(panel, text) + int(96 * k)
+    top = caption(panel, text, ink=ink) + int(96 * k)
 
     width = int(size[0] * across)
     height = int(width * shot.height / shot.width)
@@ -556,11 +640,12 @@ def device_panel(shot: Image.Image, text: str, size: tuple[int, int] = PANEL,
     return panel
 
 
-def card_panel(card: Image.Image, text: str,
-               size: tuple[int, int] = PANEL) -> Image.Image:
+def card_panel(card: Image.Image, text: str, size: tuple[int, int] = PANEL,
+               palette: tuple | None = None) -> Image.Image:
     """The share card is square and is its own artwork — no phone around it."""
-    panel = ground(size)
-    top = caption(panel, text)
+    top_colour, bottom_colour, ink = palette or PANEL_GROUNDS["5-card"]
+    panel = textured(size, top_colour, bottom_colour)
+    top = caption(panel, text, ink=ink)
 
     side = int(size[0] * 0.80)
     radius = int(side * 0.06)
@@ -591,7 +676,7 @@ def compose_ipad() -> None:
         if not source.exists():
             raise SystemExit(f"error: {source.relative_to(ROOT)} is missing")
         panel = device_panel(Image.open(source).convert("RGB"), text, PANEL_IPAD,
-                             across=0.78, corner=0.038)
+                             across=0.78, corner=0.038, palette=PANEL_GROUNDS[name])
         panel.save(PANELS_IPAD / f"{name}.png")
         print(f"    {name}")
 
@@ -600,9 +685,8 @@ def compose_ipad() -> None:
     name, text = CARD_PANEL
     card = RAW / "5-card.png"
     if card.exists():
-        card_panel(Image.open(card).convert("RGB"), text, PANEL_IPAD).save(
-            PANELS_IPAD / f"{name}.png"
-        )
+        card_panel(Image.open(card).convert("RGB"), text, PANEL_IPAD,
+                   palette=PANEL_GROUNDS[name]).save(PANELS_IPAD / f"{name}.png")
         print(f"    {name}")
 
 
@@ -655,14 +739,16 @@ def compose() -> None:
                     f"error: {source.relative_to(ROOT)} is missing — capture first"
                 )
             shot = Image.open(source).convert("RGB")
-            device_panel(shot, text, size).save(folder / f"{name}.png")
+            device_panel(shot, text, size,
+                         palette=PANEL_GROUNDS[name]).save(folder / f"{name}.png")
             print(f"    {name}")
 
         name, text = CARD_PANEL
         source = RAW / "5-card.png"
         if source.exists():
             card = Image.open(source).convert("RGB")
-            card_panel(card, text, size).save(folder / f"{name}.png")
+            card_panel(card, text, size,
+                       palette=PANEL_GROUNDS[name]).save(folder / f"{name}.png")
             print(f"    {name}")
 
 
