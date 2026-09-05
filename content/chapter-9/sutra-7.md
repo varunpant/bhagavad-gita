@@ -15,19 +15,19 @@ position: 345
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।9.7।।हे कुन्तीनन्दन कल्पोंका क्षय होनेपर सम्पूर्ण प्राणी मेरी प्रकृतिको प्राप्त होते हैं और कल्पोंके आदिमें मैं फिर उनकी रचना करता हूँ।
+हे कुन्तीनन्दन कल्पोंका क्षय होनेपर सम्पूर्ण प्राणी मेरी प्रकृतिको प्राप्त होते हैं और कल्पोंके आदिमें मैं फिर उनकी रचना करता हूँ।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।9.7।। See commentary under 9.8.
+See commentary under 9.8.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-9.7 All beings, O Arjuna, go into My Nature at the end of a Kalpa; I send them forth again at the beginning of (the next) Kalpa.
+All beings, O Arjuna, go into My Nature at the end of a Kalpa; I send them forth again at the beginning of (the next) Kalpa.
 
 ```
 

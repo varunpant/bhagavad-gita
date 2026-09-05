@@ -16,19 +16,19 @@ position: 313
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।8.3।।श्रीभगवान् बोले -- परम अक्षर ब्रह्म है और जीवका अपना जो होनापन है उसको अध्यात्म कहते हैं। प्राणियोंका उद्भव करनेवाला जो त्याग है उसकी कर्म संज्ञा है।
+श्रीभगवान् बोले -- परम अक्षर ब्रह्म है और जीवका अपना जो होनापन है उसको अध्यात्म कहते हैं। प्राणियोंका उद्भव करनेवाला जो त्याग है उसकी कर्म संज्ञा है।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।8.3।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-8.3 The Blessed Lord said  Brahman is the Imperishable, the Supreme; Its essential nature is called Self-knowledge; the offering (to the gods) which causes existence and manifestation of beings and which also sustains them is called action.
+The Blessed Lord said  Brahman is the Imperishable, the Supreme; Its essential nature is called Self-knowledge; the offering (to the gods) which causes existence and manifestation of beings and which also sustains them is called action.
 
 ```
 

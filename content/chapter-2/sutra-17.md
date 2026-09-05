@@ -15,7 +15,7 @@ position: 64
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-2.17 Know that to be indestructible, by Which all this is pervaded. None can cause the destruction of That, the Imperishable.
+Know that to be indestructible, by Which all this is pervaded. None can cause the destruction of That, the Imperishable.
 
 ```
 

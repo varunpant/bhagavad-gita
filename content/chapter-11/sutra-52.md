@@ -16,19 +16,19 @@ position: 466
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।11.52।।श्रीभगवान् बोले -- मेरा यह जो रूप तुमने देखा है? इसके दर्शन अत्यन्त ही दुर्लभ हैं। इस रूपको देखनेके लिये देवता भी नित्य लालायित रहते हैं।
+श्रीभगवान् बोले -- मेरा यह जो रूप तुमने देखा है? इसके दर्शन अत्यन्त ही दुर्लभ हैं। इस रूपको देखनेके लिये देवता भी नित्य लालायित रहते हैं।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।11.52।। See Commentary under 11.53.
+See Commentary under 11.53.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-11.52 The Blessed Lord said  Very hard indeed it is to see this form of Mine which thou hast seen. Even the gods are ever longing to behold it.
+The Blessed Lord said  Very hard indeed it is to see this form of Mine which thou hast seen. Even the gods are ever longing to behold it.
 
 ```
 

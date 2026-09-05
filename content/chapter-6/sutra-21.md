@@ -15,19 +15,19 @@ position: 254
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।6.21।।जो सुख आत्यन्तिक अतीन्द्रिय और बुद्धिग्राह्य है उस सुखका जिस अवस्थामें अनुभव करता है और जिस सुखमें स्थित हुआ यह ध्यानयोगी फिर कभी तत्त्वसे विचलित नहीं होता।
+जो सुख आत्यन्तिक अतीन्द्रिय और बुद्धिग्राह्य है उस सुखका जिस अवस्थामें अनुभव करता है और जिस सुखमें स्थित हुआ यह ध्यानयोगी फिर कभी तत्त्वसे विचलित नहीं होता।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।6.21।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-6.21 When he (the Yogi) feels that Infinite Bliss which can be grasped by the (pure) intellect and which transcends the senses, and established wherein he never moves from the Reality.
+When he (the Yogi) feels that Infinite Bliss which can be grasped by the (pure) intellect and which transcends the senses, and established wherein he never moves from the Reality.
 
 ```
 

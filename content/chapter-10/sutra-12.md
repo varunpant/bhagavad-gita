@@ -16,19 +16,19 @@ position: 384
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।10.12।।अर्जुन बोले -- परम ब्रह्म? परम धाम और महान् पवित्र आप ही हैं। आप शाश्वत? दिव्य पुरुष? आदिदेव? अजन्मा और विभु (व्यापक) हैं -- ऐसा सबकेसब ऋषि? देवर्षि नारद? असित? देवल तथा व्यास कहते हैं और स्वयं आप भी मेरे प्रति कहते हैं।
+अर्जुन बोले -- परम ब्रह्म? परम धाम और महान् पवित्र आप ही हैं। आप शाश्वत? दिव्य पुरुष? आदिदेव? अजन्मा और विभु (व्यापक) हैं -- ऐसा सबकेसब ऋषि? देवर्षि नारद? असित? देवल तथा व्यास कहते हैं और स्वयं आप भी मेरे प्रति कहते हैं।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।10.12।। See commentary under 10.13.
+See commentary under 10.13.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-10.12 Arjuna said  Thou art the Supreme Brahman, the supreme abode (or the supreme light), the supreme purifier, eternal, divine Person, the primeval God, unborn andn omnipresent.
+Arjuna said  Thou art the Supreme Brahman, the supreme abode (or the supreme light), the supreme purifier, eternal, divine Person, the primeval God, unborn andn omnipresent.
 
 ```
 

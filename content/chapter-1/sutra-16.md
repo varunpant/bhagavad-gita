@@ -15,19 +15,19 @@ position: 16
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।1.16।।कुन्तीपुत्र राजा युधिष्ठिरने अनन्तविजय नामक शंख बजाया तथा नकुल और सहदेवने सुघोष और मणिपुष्पक नामक शंख बजाये।
+कुन्तीपुत्र राजा युधिष्ठिरने अनन्तविजय नामक शंख बजाया तथा नकुल और सहदेवने सुघोष और मणिपुष्पक नामक शंख बजाये।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।1.16।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-1.16. The king Yodhishthira, the son of Kunti, blew the Anantavijaya;
+The king Yodhishthira, the son of Kunti, blew the Anantavijaya;
 Nakula and Sahadeva blew the Sughosha and the Manipushpaka.
 
 ```

@@ -15,19 +15,19 @@ position: 26
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।1.26।।उसके बाद पृथानन्दन अर्जुनने उन दोनों ही सेनाओंमें स्थित पिताओंको? पितामहोंको? आचार्योंको? मामाओंको? भाइयोंको? पुत्रोंको? पौत्रोंको तथा मित्रोंको? ससुरोंको और सुहृदोंको भी देखा।
+उसके बाद पृथानन्दन अर्जुनने उन दोनों ही सेनाओंमें स्थित पिताओंको? पितामहोंको? आचार्योंको? मामाओंको? भाइयोंको? पुत्रोंको? पौत्रोंको तथा मित्रोंको? ससुरोंको और सुहृदोंको भी देखा।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।1.26।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-1.26. Then, Arjuna (son of Pritha) saw there (in the armies) stationed,
+Then, Arjuna (son of Pritha) saw there (in the armies) stationed,
 fathers and grandfathers, teachers, maternal uncles, brothers, sons, grandsons
 and friends too.
 

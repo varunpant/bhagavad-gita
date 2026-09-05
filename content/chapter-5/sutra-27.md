@@ -15,19 +15,19 @@ position: 231
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।5.27  5.28।।बाह्य पदार्थोंको बाहर ही छोड़कर और नेत्रोंकी दृष्टिको भौंहोंके बीचमें स्थित करके तथा नासिकामें विचरनेवाले प्राण और अपान वायुको सम करके जिसकी इन्द्रियाँ मन और बुद्धि अपने वशमें हैं जो मोक्षपरायण है तथा जो इच्छा भय और क्रोधसे सर्वथा रहित है वह मुनि सदा मुक्त ही है।
+बाह्य पदार्थोंको बाहर ही छोड़कर और नेत्रोंकी दृष्टिको भौंहोंके बीचमें स्थित करके तथा नासिकामें विचरनेवाले प्राण और अपान वायुको सम करके जिसकी इन्द्रियाँ मन और बुद्धि अपने वशमें हैं जो मोक्षपरायण है तथा जो इच्छा भय और क्रोधसे सर्वथा रहित है वह मुनि सदा मुक्त ही है।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।5.27।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-5.27 Shutting out (all) external contacts and fixing the gaze between the ey
+Shutting out (all) external contacts and fixing the gaze between the ey
 
 ```
 

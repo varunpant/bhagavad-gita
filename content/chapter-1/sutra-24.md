@@ -16,19 +16,19 @@ position: 24
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।1.24  1.25।।सञ्जय बोले  हे भरतवंशी राजन् निद्राविजयी अर्जुनके द्वारा इस तरह कहनेपर अन्तर्यामी भगवान् श्रीकृष्णने दोनों सेनाओंके मध्यभागमें पितामह भीष्म और आचार्य द्रोणके सामने तथा सम्पूर्ण राजाओंके सामने श्रेष्ठ रथको खड़ा करके इस तरह कहा कि हे पार्थ इन इकट्ठे हुए कुरुवंशियोंको देख।
+सञ्जय बोले  हे भरतवंशी राजन् निद्राविजयी अर्जुनके द्वारा इस तरह कहनेपर अन्तर्यामी भगवान् श्रीकृष्णने दोनों सेनाओंके मध्यभागमें पितामह भीष्म और आचार्य द्रोणके सामने तथा सम्पूर्ण राजाओंके सामने श्रेष्ठ रथको खड़ा करके इस तरह कहा कि हे पार्थ इन इकट्ठे हुए कुरुवंशियोंको देख।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।1.24।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-1.24. Sanjaya said  Thus addressed by Arjuna, Krishna, having stationed that
+Sanjaya said  Thus addressed by Arjuna, Krishna, having stationed that
 best of chariots, O Dhritarashtra, in the midst of the two armies.
 
 ```

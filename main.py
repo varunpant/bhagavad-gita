@@ -15,7 +15,8 @@ from datetime import datetime, timedelta,timezone
 # the app saying the same words. `build_db` guards its own entry point, so
 # importing it runs nothing.
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools"))
-from build_db import normalize as normalizeShloka, align_transliteration
+from build_db import (normalize as normalizeShloka, align_transliteration,
+                      strip_reference)
 
 from pprint import pprint
 
@@ -284,9 +285,13 @@ def writeToFile(counter,bookname,chapter,sutra,mool_shloka,hindi_translation,Com
             sutra = sutra,
             title="Verse: %s,%s"%(chapter,sutra),
             mool_shloka=mool_shloka.strip(),
-            hindi_translation=hindi_translation.strip(),
-            Commentary=Commentary.strip(),
-            english_translation =english_translation.strip(),
+            # The Supersite prints the reference above the words and the scrape
+            # brought it along, so every translation on the site opened
+            # "।।2.47।।कर्तव्यकर्म करनेमें…" — its page furniture, standing in
+            # front of the sentence in a different script from it.
+            hindi_translation=strip_reference(hindi_translation),
+            Commentary=strip_reference(Commentary),
+            english_translation=strip_reference(english_translation),
             enriched=enrichedSections(enrichedRow),
             ts=ts))
 

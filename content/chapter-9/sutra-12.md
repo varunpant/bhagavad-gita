@@ -15,19 +15,19 @@ position: 350
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।9.12।।जिनकी सब आशाएँ व्यर्थ होती हैं? सब शुभकर्म व्यर्थ होते हैं और सब ज्ञान व्यर्थ होते हैं अर्थात् जिनकी आशाएँ? कर्म और ज्ञान सत्फल देनेवाले नहीं होते? ऐसे अविवेकी मनुष्य आसुरी? राक्षसी और मोहिनी प्रकृतिका आश्रय लेते हैं।
+जिनकी सब आशाएँ व्यर्थ होती हैं? सब शुभकर्म व्यर्थ होते हैं और सब ज्ञान व्यर्थ होते हैं अर्थात् जिनकी आशाएँ? कर्म और ज्ञान सत्फल देनेवाले नहीं होते? ऐसे अविवेकी मनुष्य आसुरी? राक्षसी और मोहिनी प्रकृतिका आश्रय लेते हैं।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।9.12।। See commentary under 9.13
+See commentary under 9.13
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-9.12 Of vain hopes, of vain actions, of vain knowledge and senseless, they verily are possessed of the deceitful nature of demons and undivine beings.
+Of vain hopes, of vain actions, of vain knowledge and senseless, they verily are possessed of the deceitful nature of demons and undivine beings.
 
 ```
 

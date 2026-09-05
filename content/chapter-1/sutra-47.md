@@ -16,13 +16,13 @@ position: 47
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।1.47।।सञ्जय बोले ऐसा कहकर शोकाकुल मनवाले अर्जुन बाणसहित धनुषका त्याग करके युद्धभूमिमें रथके मध्यभाग में बैठ गये।
+सञ्जय बोले ऐसा कहकर शोकाकुल मनवाले अर्जुन बाणसहित धनुषका त्याग करके युद्धभूमिमें रथके मध्यभाग में बैठ गये।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।1.47।। रणभूमि में संजय ने जो कुछ भी देखा उसका वह वर्णन करता है। अपने ही तर्कों से थका और शोक में डूबा हुआ अर्जुन अपने शस्त्रास्त्रों को फेंककर रथ में बैठ जाता है।
+रणभूमि में संजय ने जो कुछ भी देखा उसका वह वर्णन करता है। अपने ही तर्कों से थका और शोक में डूबा हुआ अर्जुन अपने शस्त्रास्त्रों को फेंककर रथ में बैठ जाता है।
 गीता के प्रथम अध्याय में अर्जुन को हम इसी स्थिति में छोड़ देते हैं।
 conclusion
 ँ़ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे
@@ -45,7 +45,7 @@ conclusion
 
 ### English Translation By Swami  Sivananda
 ```
-1.47. Sanjaya said  Having thus spoken in the midst of the battlefield, Arjuna,
+Sanjaya said  Having thus spoken in the midst of the battlefield, Arjuna,
 casting away his bow and arrow, sat down on the seat of the chariot with
 his mind overwhelmed with sorrow.
 

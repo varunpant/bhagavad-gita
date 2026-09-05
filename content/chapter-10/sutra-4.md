@@ -15,19 +15,19 @@ position: 376
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।10.4।।बुद्धि? ज्ञान? असम्मोह? क्षमा? सत्य? दम? शम? सुख? दुःख? भव? अभाव? भय? अभय? अहिंसा? समता? तुष्टि? तप? दान? यश और अपयश -- प्राणियोंके ये अनेक प्रकारके और अलगअलग (बीस) भाव मेरेसे ही होते हैं।
+बुद्धि? ज्ञान? असम्मोह? क्षमा? सत्य? दम? शम? सुख? दुःख? भव? अभाव? भय? अभय? अहिंसा? समता? तुष्टि? तप? दान? यश और अपयश -- प्राणियोंके ये अनेक प्रकारके और अलगअलग (बीस) भाव मेरेसे ही होते हैं।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।10.4।। See commentary under 10.5.
+See commentary under 10.5.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-10.4 Intellect, wisdom, non-delusion, forgiveness, truth, self-restraint, calmness, happiness, pain, existence or birth, non-existence or death, fear and also fearlessness.
+Intellect, wisdom, non-delusion, forgiveness, truth, self-restraint, calmness, happiness, pain, existence or birth, non-existence or death, fear and also fearlessness.
 
 ```
 

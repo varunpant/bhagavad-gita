@@ -15,19 +15,19 @@ position: 554
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।15.3।।इस संसारवृक्षका जैसा रूप देखनेमें आता है? वैसा यहाँ (विचार करनेपर) मिलता नहीं क्योंकि इसका न तो आदि है? न अन्त है और न स्थिति ही है। इसलिये इस दृढ़ मूलोंवाले संसाररूप अश्वत्थवृक्षको दृढ़ असङ्गतारूप शस्त्रके द्वारा काटकर --
+इस संसारवृक्षका जैसा रूप देखनेमें आता है? वैसा यहाँ (विचार करनेपर) मिलता नहीं क्योंकि इसका न तो आदि है? न अन्त है और न स्थिति ही है। इसलिये इस दृढ़ मूलोंवाले संसाररूप अश्वत्थवृक्षको दृढ़ असङ्गतारूप शस्त्रके द्वारा काटकर --
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।15.3।। See Commentary under 15.4
+See Commentary under 15.4
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-15.3 Its form is not perceived here as such, neither its end nor its origin, nor its foundation nor resting place: having cut asunder this firmly rooted peepul tree with the strong axe of non-attachment.
+Its form is not perceived here as such, neither its end nor its origin, nor its foundation nor resting place: having cut asunder this firmly rooted peepul tree with the strong axe of non-attachment.
 
 ```
 

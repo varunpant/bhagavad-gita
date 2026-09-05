@@ -19,13 +19,17 @@ with Raqm; verify with PIL.features.check("raqm")).
 import csv
 import os
 import re
+import sqlite3
 import textwrap
 
 from PIL import Image, ImageDraw, ImageFont, ImageOps, features
 
+from build_db import normalize as normalize_shloka, strip_reference
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "themes", "book", "static", "og")
 CSV_PATH = os.path.join(ROOT, "srimad.csv")
+ENRICHED_DB = os.path.join(ROOT, "enriched.sqlite")
 KRISHNA = os.path.join(ROOT, "themes", "book", "static", "krishna.png")
 
 SITE = "bhagwadgita.info"
@@ -95,11 +99,36 @@ def gradient_bg():
 
 
 def clean(s):
-    s = re.sub(r"\s+", " ", (s or "")).strip()
-    s = re.sub(r"^\|\|[\d.]+\|\|\s*", "", s)
-    s = re.sub(r"^।।[\d.]+।।\s*", "", s)
-    s = re.sub(r"^[\d.]+\s+", "", s)
-    return s
+    # The reference the scrape prefixes is stripped by the shared repair in
+    # build_db, so a card cannot disagree with the page about where a sentence
+    # starts. The `||` form is this script's own: some rows arrived with the
+    # dandas transliterated.
+    s = re.sub(r"^\|\|[\d.]+\|\|\s*", "", (s or ""))
+    return re.sub(r"\s+", " ", strip_reference(s)).strip()
+
+
+def enriched():
+    """Every enriched verse, keyed by (chapter, sutra), or {} if absent.
+
+    The card is a preview of the page, so it is drawn from what the page shows.
+    Reading `srimad.csv` instead meant a card carried the scrape's own wording
+    — visibly so on the 28 verses whose speaker attribution the page separates
+    from the first word of what they say, which a card ran together.
+    """
+    if not os.path.exists(ENRICHED_DB):
+        print("note: %s not found — drawing cards from the CSV" % ENRICHED_DB)
+        return {}
+
+    db = sqlite3.connect(ENRICHED_DB)
+    db.row_factory = sqlite3.Row
+    rows = {
+        (int(r["chapter"]), int(r["sutra"])): r
+        for r in db.execute(
+            "SELECT chapter, sutra, sanskrit, english_translation FROM enriched_verses"
+        )
+    }
+    db.close()
+    return rows
 
 
 def fit_lines(draw, text, fnt, max_width, max_lines):
@@ -188,11 +217,16 @@ def main():
     d.text((72, H - 82), SITE, font=font(LATIN_BOLD, 31), fill=INK)
     home.save(os.path.join(OUT_DIR, "default.jpg"), "JPEG", quality=76, optimize=True, progressive=True)
 
+    rows = enriched()
     count = 0
     with open(CSV_PATH) as f:
         for row in csv.DictReader(f):
             ch, su = row["chapter"], row["sutra"]
-            img = card(bg, ch, su, row.get("mool_shloka"), row.get("english_translation"))
+            # The database where it has the verse, the scrape where it does not.
+            found = rows.get((int(ch), int(su)))
+            shloka = normalize_shloka(found["sanskrit"]) if found else row.get("mool_shloka")
+            english = found["english_translation"] if found else row.get("english_translation")
+            img = card(bg, ch, su, shloka, english)
             img.save(
                 os.path.join(OUT_DIR, "%s-%s.jpg" % (ch, su)),
                 "JPEG", quality=76, optimize=True, progressive=True,

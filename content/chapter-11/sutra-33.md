@@ -15,19 +15,19 @@ position: 447
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।11.33।।इसलिये तुम युद्धके लिये खड़े हो जाओ और यशको प्राप्त करो तथा शत्रुओंको जीतकर धनधान्यसे सम्पन्न राज्यको भोगो। ये सभी मेरे द्वारा पहलेसे ही मारे हुए हैं। हे सव्यसाचिन् तुम निमित्तमात्र बन जाओ।
+इसलिये तुम युद्धके लिये खड़े हो जाओ और यशको प्राप्त करो तथा शत्रुओंको जीतकर धनधान्यसे सम्पन्न राज्यको भोगो। ये सभी मेरे द्वारा पहलेसे ही मारे हुए हैं। हे सव्यसाचिन् तुम निमित्तमात्र बन जाओ।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।11.33।। See commentary under 11.34
+See commentary under 11.34
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-11.33 Therefore, stand up and obtain fame. Coner the enemies and enjoy the unrivalled kingdom. Verily by Me have they been already slain; be thou a mere instrument, O Arjuna.
+Therefore, stand up and obtain fame. Coner the enemies and enjoy the unrivalled kingdom. Verily by Me have they been already slain; be thou a mere instrument, O Arjuna.
 
 ```
 

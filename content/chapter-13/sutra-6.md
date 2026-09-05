@@ -15,19 +15,19 @@ position: 495
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।13.6।।मूल प्रकृति? समष्टि बुद्धि (महत्तत्त्व)? समष्टि अहंकार? पाँच महाभूत और दस इन्द्रियाँ? एक मन तथा पाँचों इन्द्रियोंके पाँच विषय ( -- यह चौबीस तत्त्वोंवाला क्षेत्र है)।
+मूल प्रकृति? समष्टि बुद्धि (महत्तत्त्व)? समष्टि अहंकार? पाँच महाभूत और दस इन्द्रियाँ? एक मन तथा पाँचों इन्द्रियोंके पाँच विषय ( -- यह चौबीस तत्त्वोंवाला क्षेत्र है)।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।13.6।। See Commentary under 13.7
+See Commentary under 13.7
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-13.6 The great elements, egoism, intellect, and also the Unmanifested Nature, the ten senses and one (mind), and the five objects of the senses.
+The great elements, egoism, intellect, and also the Unmanifested Nature, the ten senses and one (mind), and the five objects of the senses.
 
 ```
 

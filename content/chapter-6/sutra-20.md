@@ -15,19 +15,19 @@ position: 253
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।6.20।।योगका सेवन करनेसे जिस अवस्थामें निरुद्ध चित्त उपराम हो जाता है तथा जिस अवस्थामें स्वयं अपनेआपमें अपनेआपको देखता हुआ अपनेआपमें सन्तुष्ट हो जाता है।
+योगका सेवन करनेसे जिस अवस्थामें निरुद्ध चित्त उपराम हो जाता है तथा जिस अवस्थामें स्वयं अपनेआपमें अपनेआपको देखता हुआ अपनेआपमें सन्तुष्ट हो जाता है।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।6.20।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-6.20 When the mind, restrained by the practice of Yoga attains to ietude and when seeing the Self by the self, he is satisfied in hiw own Self.
+When the mind, restrained by the practice of Yoga attains to ietude and when seeing the Self by the self, he is satisfied in hiw own Self.
 
 ```
 

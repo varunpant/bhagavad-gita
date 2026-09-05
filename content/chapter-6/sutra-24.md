@@ -15,19 +15,19 @@ position: 257
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।6.24।।संकल्पसे उत्पन्न होनेवाली सम्पूर्ण कामनाओंका सर्वथा त्याग करके और मनसे ही इन्द्रियसमूहको सभी ओरसे हटाकर।
+संकल्पसे उत्पन्न होनेवाली सम्पूर्ण कामनाओंका सर्वथा त्याग करके और मनसे ही इन्द्रियसमूहको सभी ओरसे हटाकर।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।6.24।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-6.24 Abandoning without reserve all desires born of Sankalpa (thought and imagination) and completely restraining the whole group of the senses by the mind from all sides.
+Abandoning without reserve all desires born of Sankalpa (thought and imagination) and completely restraining the whole group of the senses by the mind from all sides.
 
 ```
 

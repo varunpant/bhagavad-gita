@@ -15,19 +15,19 @@ position: 475
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।12.6।।परन्तु जो कर्मोंको मेरे अर्पण करके और मेरे परायण होकर अनन्ययोगसे मेरा ही ध्यान करते हुए मेरी उपासना करते हैं।
+परन्तु जो कर्मोंको मेरे अर्पण करके और मेरे परायण होकर अनन्ययोगसे मेरा ही ध्यान करते हुए मेरी उपासना करते हैं।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।12.6।। See Commentary under 12.7
+See Commentary under 12.7
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-12.6 But to those who worship Me, renouncing all actions in Me, regarding Me as the supreme gaol, meditating on Me with single-minded Yoga.
+But to those who worship Me, renouncing all actions in Me, regarding Me as the supreme gaol, meditating on Me with single-minded Yoga.
 
 ```
 

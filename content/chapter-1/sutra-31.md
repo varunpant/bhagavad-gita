@@ -15,19 +15,19 @@ position: 31
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।1.31।।हे केशव मैं लक्षणों  शकुनोंको भी विपरीत देख रहा हूँ और युद्धमें स्वजनोंको मारकर श्रेय (लाभ) भी नहीं देख रहा हूँ।
+हे केशव मैं लक्षणों  शकुनोंको भी विपरीत देख रहा हूँ और युद्धमें स्वजनोंको मारकर श्रेय (लाभ) भी नहीं देख रहा हूँ।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।1.31।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-1.31. And I see adverse omens, O Kesava. I do not see any good
+And I see adverse omens, O Kesava. I do not see any good
 in killing my kinsmen in battle.
 
 ```

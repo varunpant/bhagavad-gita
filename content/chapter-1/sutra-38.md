@@ -15,19 +15,19 @@ position: 38
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।1.38  1.39।।यद्यपि लोभके कारण जिनका विवेकविचार लुप्त हो गया है? ऐसे ये दुर्योधन आदि कुलका नाश करनेसे होनेवाले दोषको और मित्रोंके साथ द्वेष करनेसे होनेवाले पापको नहीं देखते? तो भी हे जनार्दन कुलका नाश करनेसे होनेवाले दोषको ठीकठीक जाननेवाले हमलोग इस पापसे निवृत्त होनेका विचार क्यों न करें
+यद्यपि लोभके कारण जिनका विवेकविचार लुप्त हो गया है? ऐसे ये दुर्योधन आदि कुलका नाश करनेसे होनेवाले दोषको और मित्रोंके साथ द्वेष करनेसे होनेवाले पापको नहीं देखते? तो भी हे जनार्दन कुलका नाश करनेसे होनेवाले दोषको ठीकठीक जाननेवाले हमलोग इस पापसे निवृत्त होनेका विचार क्यों न करें
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।1.38।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-1.38. Though they, with intelligence overpowered by greed, see
+Though they, with intelligence overpowered by greed, see
 no evil in the destruction of families, and no sin in hostility to friends,
 
 ```

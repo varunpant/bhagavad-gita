@@ -15,19 +15,19 @@ position: 487
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।12.18।।जो शत्रु और मित्रमें तथा मानअपमानमें सम है और शीतउष्ण (अनुकूलताप्रतिकूलता) तथा सुखदुःखमें सम है एवं आसक्तिसे रहित है? और जो निन्दास्तुतिको समान समझनेवाला? मननशील? जिसकिसी प्रकारसे भी (शरीरका निर्वाह होनेमें) संतुष्ट? रहनेके स्थान तथा शरीरमें ममताआसक्तिसे रहित और स्थिर बुद्धिवाला है? वह भक्तिमान् मनुष्य मुझे प्रिय है।
+जो शत्रु और मित्रमें तथा मानअपमानमें सम है और शीतउष्ण (अनुकूलताप्रतिकूलता) तथा सुखदुःखमें सम है एवं आसक्तिसे रहित है? और जो निन्दास्तुतिको समान समझनेवाला? मननशील? जिसकिसी प्रकारसे भी (शरीरका निर्वाह होनेमें) संतुष्ट? रहनेके स्थान तथा शरीरमें ममताआसक्तिसे रहित और स्थिर बुद्धिवाला है? वह भक्तिमान् मनुष्य मुझे प्रिय है।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।12.18।। See Commentary under 12.19
+See Commentary under 12.19
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-12.18 He who is the same to foe and friend, and also in honour and dishonour, who is the same in cold and heat and in pleasure and pain, who is free from attachment.
+He who is the same to foe and friend, and also in honour and dishonour, who is the same in cold and heat and in pleasure and pain, who is free from attachment.
 
 ```
 

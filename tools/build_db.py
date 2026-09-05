@@ -92,6 +92,31 @@ SPEAKERS = re.compile(
 DANDA = re.compile(r"।+")
 VERSE_MARKER = re.compile(r"।।\s*[\d.]+\s*।।\s*$")
 
+# The Supersite prints the reference it is quoting above the words themselves,
+# and the scrape carried it into the text: "।।1.1।।धृतराष्ट्र बोले…" in the
+# Hindi and the commentary, "1.1 Dhritarashtra said…" in the English. It is the
+# page's furniture, not the translation, and it appears on nearly every row of
+# all three columns.
+#
+# Two shapes each, and both were found by counting rather than assumed: a range
+# is written with a hyphen as often as with spaces ("।।8.1 -- 8.2।।"), and the
+# English number carries a trailing dot on 46 rows and none on the other 609.
+REFERENCE = re.compile(
+    r"^\s*(?:।+\s*[\d.\s\-–—]+।+|॥+\s*[\d.\s\-–—]+॥+|\d+\.\d+\.?)\s*"
+)
+
+
+def strip_reference(text: str) -> str:
+    """Drop the leading "।।2.47।。" / "2.47" the scrape prefixes to a translation.
+
+    Applied to the scraped prose only. The enriched columns never carried it.
+
+    The danda runs are `+` rather than exactly one or two: 10.9 closes its
+    marker with three, "।।10.9।।।", and matching a fixed pair left the stray one
+    at the head of the sentence.
+    """
+    return REFERENCE.sub("", text or "", count=1).strip()
+
 
 def normalize(text: str) -> str:
     """Turn the raw shloka into newline-separated lines with no dandas.

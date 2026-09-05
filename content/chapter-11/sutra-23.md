@@ -15,19 +15,19 @@ position: 437
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।11.23।।हे महाबाहो आपके बहुत मुखों और नेत्रोंवाले? बहुत भुजाओं? जंघाओं और चरणोंवाले? बहुत उदरोंवाले? बहुत विकराल दाढ़ोंवाले महान् रूपको देखकर सब प्राणी व्यथित हो रहे हैं तथा मैं भी व्यथित हो रहा हूँ।
+हे महाबाहो आपके बहुत मुखों और नेत्रोंवाले? बहुत भुजाओं? जंघाओं और चरणोंवाले? बहुत उदरोंवाले? बहुत विकराल दाढ़ोंवाले महान् रूपको देखकर सब प्राणी व्यथित हो रहे हैं तथा मैं भी व्यथित हो रहा हूँ।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।11.23।। See commentary under 11.24
+See commentary under 11.24
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-11.23 Having seen Thy immeasurable form with many mouths and eyes, O mighty-armed, with many arms, thighs and feet, with many stomachs and fearful with many teeth  the worlds are terrified and so am I.
+Having seen Thy immeasurable form with many mouths and eyes, O mighty-armed, with many arms, thighs and feet, with many stomachs and fearful with many teeth  the worlds are terrified and so am I.
 
 ```
 

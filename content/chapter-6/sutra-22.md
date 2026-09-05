@@ -15,19 +15,19 @@ position: 255
 
 ### Hindi Translation By Swami Ramsukhdas
 ```
-।।6.22।।जिस लाभकी प्राप्ति होनेपर उससे अधिक कोई दूसरा लाभ उसके माननेमें भी नहीं आता और जिसमें स्थित होनेपर वह बड़े भारी दुःखसे भी विचलित नहीं किया जा सकता।
+जिस लाभकी प्राप्ति होनेपर उससे अधिक कोई दूसरा लाभ उसके माननेमें भी नहीं आता और जिसमें स्थित होनेपर वह बड़े भारी दुःखसे भी विचलित नहीं किया जा सकता।
 
 ```
 
 ### Hindi Commentary By Swami Chinmayananda
 ```
-।।6.22।। No commentary.
+No commentary.
 
 ```
 
 ### English Translation By Swami  Sivananda
 ```
-6.22 Which, having obtained, he thinks there is no other gain superior to it; wherein estabished, he is not moved even by heavy sorrow.
+Which, having obtained, he thinks there is no other gain superior to it; wherein estabished, he is not moved even by heavy sorrow.
 
 ```
 
