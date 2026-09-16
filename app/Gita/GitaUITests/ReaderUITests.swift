@@ -116,6 +116,51 @@ final class LanguageToggleUITests: XCTestCase {
         XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 5), "did not switch back")
     }
 
+    /// The footer's switcher: the same setting as the rail's, reached without
+    /// opening the drawer at all. Asserted both ways, because a control that
+    /// only ever moves one way would pass a single-tap test while being unable
+    /// to come back.
+    func testFooterToggleSwitchesScriptureWithoutOpeningTheDrawer() {
+        let app = launch()
+        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 10))
+
+        let footerToggle = app.buttons["footerLanguageToggle"]
+        XCTAssertTrue(footerToggle.exists, "footer switcher missing")
+
+        footerToggle.tap()
+        XCTAssertTrue(app.staticTexts["TRANSLATION"].waitForExistence(timeout: 5),
+                      "the footer switcher did not reach English")
+        XCTAssertFalse(app.staticTexts["अनुवाद"].exists, "Hindi headings still showing")
+        // The drawer is the other way in, and it must not have been opened on
+        // the way — this control is the whole point of not needing it.
+        XCTAssertFalse(app.buttons["Close menu"].exists, "the drawer opened")
+
+        footerToggle.tap()
+        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 5),
+                      "the footer switcher did not come back")
+    }
+
+    /// Two controls, one setting. The rail must show what the footer just did —
+    /// this is the assertion that would fail if either ever grew a local copy
+    /// of the language, which is what made the contents panel's old switcher
+    /// wrong.
+    func testTheRailAgreesWithWhatTheFooterDid() {
+        let app = launch()
+        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 10))
+
+        app.buttons["footerLanguageToggle"].tap()
+        XCTAssertTrue(app.staticTexts["TRANSLATION"].waitForExistence(timeout: 5))
+
+        // Switching back from the rail proves the two read and write the same
+        // value rather than each holding their own.
+        app.buttons["menuButton"].tap()
+        app.buttons["languageToggle"].tap()
+        app.buttons["Close menu"].firstMatch.tap()
+
+        XCTAssertTrue(app.staticTexts["अनुवाद"].waitForExistence(timeout: 5),
+                      "the rail did not switch back what the footer had switched")
+    }
+
     func testEnglishModeShowsTransliterationNotDevanagari() {
         let app = launch(english: true)
         XCTAssertTrue(app.staticTexts["TRANSLATION"].waitForExistence(timeout: 10))
@@ -317,7 +362,8 @@ final class ContentsLanguageUITests: XCTestCase {
         XCTAssertTrue(app.buttons["chapter-1"].waitForExistence(timeout: 5))
     }
 
-    /// The rail's switcher, which is now the only one there is.
+    /// The rail's switcher. The reader's footer carries a second control for
+    /// the same setting — see `footerLanguageToggle`.
     private func switchLanguage() {
         app.buttons["menuButton"].tap()
         app.buttons["languageToggle"].tap()

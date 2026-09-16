@@ -36,6 +36,16 @@ extension Font {
     fileprivate static let devanagariBody: Font.Weight = .light
     fileprivate static let devanagariEmphasis: Font.Weight = .medium
 
+    // And the Latin side has to be told the same thing, which it was not.
+    // `shlokaLatin` applied no weight at all, so it drew Inter Regular against
+    // Noto's Light — a hundred units apart on the same page, and the IAST read
+    // visibly darker than the Devanagari it is a transliteration of. Inter is a
+    // grotesque with sturdy stems and a large x-height, so at the shloka's 27pt
+    // it needs the lighter instance for the two scripts to sit at one colour.
+    // Only at that size: at 16-17pt Inter Light goes spindly, and prose stays
+    // Regular.
+    fileprivate static let latinDisplay: Font.Weight = .light
+
     // One size per role, shared by both scripts.
     private static let shlokaSize: CGFloat = 27
     private static let wordSize: CGFloat = 17
@@ -48,9 +58,11 @@ extension Font {
             .weight(devanagariBody)
     }
 
-    /// The same shloka in IAST, at the same size.
+    /// The same shloka in IAST, at the same size — and now at the same
+    /// *colour*, which is the half of "same" that was missing.
     static var shlokaLatin: Font {
         .custom(latin, size: shlokaSize, relativeTo: .title2)
+            .weight(latinDisplay)
     }
 
     /// Chapter and verse reference, e.g. "2.47".

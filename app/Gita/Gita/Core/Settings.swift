@@ -51,6 +51,46 @@ enum TextSize: String, CaseIterable, Identifiable, Sendable {
         }
     }
 
+    /// The next size round the loop, for the reader's one-button cycle.
+    ///
+    /// It walks all four cases rather than a friendlier three: the button and
+    /// the Settings picker write one value, so a cycle that could not reach
+    /// Extra Large would silently move a reader who had chosen it there.
+    var next: TextSize {
+        let all = TextSize.allCases
+        let index = all.firstIndex(of: self) ?? 0
+        return all[(index + 1) % all.count]
+    }
+
+    /// The letter on that button — the size it is *at*, not the one it is going
+    /// to, which is where this parts company with the language toggle. A script
+    /// switch has one other state and naming it is an instruction; a size has
+    /// four, and a control that showed the next one could never tell you where
+    /// you are.
+    ///
+    /// Letters rather than `textformat.size`, which was tried: the symbol's
+    /// Devanagari cut (`textformat.size.hi`) draws a small क beside a large
+    /// one, and at this size the two are close enough — and joined enough by
+    /// the shirorekha — to read as a word rather than as a size ramp. A letter
+    /// that says which of the four you are on beats a glyph that says none.
+    func shortName(devanagari: Bool) -> String {
+        switch self {
+        case .small: devanagari ? "छो" : "S"
+        case .medium: devanagari ? "म" : "M"
+        case .large: devanagari ? "ब" : "L"
+        case .extraLarge: devanagari ? "अ+" : "XL"
+        }
+    }
+
+    var accessibilityName: String {
+        switch self {
+        case .small: "Small text"
+        case .medium: "Medium text"
+        case .large: "Large text"
+        case .extraLarge: "Extra large text"
+        }
+    }
+
     var dynamicTypeSize: DynamicTypeSize {
         switch self {
         case .small: .small

@@ -286,9 +286,13 @@ struct ReaderView: View {
         VStack(spacing: 12) {
             ProgressBar(fraction: progress, height: 2, minimumWidth: 2)
 
-            HStack {
-                stepButton(direction: -1, symbol: "chevron.left", label: "Previous verse")
-                Spacer()
+            // Two layers, as in the header: the reference is centred on the
+            // page itself, and the controls sit over it. Laying them out in one
+            // row instead centres the *group*, so the reference slid sideways
+            // whenever its width changed — which is exactly what the script
+            // switch does to it (`1.1` against `१.१`), under the finger that
+            // just tapped it.
+            ZStack {
                 // Plain text: the contents belongs to the rail now, and a
                 // reference that silently opened a panel was a second, hidden
                 // way in.
@@ -297,13 +301,110 @@ struct ReaderView: View {
                     .monospacedDigit()
                     .foregroundStyle(theme.textSecondary)
                     .accessibilityIdentifier("verseReference")
-                Spacer()
-                stepButton(direction: 1, symbol: "chevron.right", label: "Next verse")
+
+                HStack(spacing: 0) {
+                    stepButton(direction: -1, symbol: "chevron.left", label: "Previous verse")
+                    textSizeButton
+                    Spacer()
+                    languageButton
+                    stepButton(direction: 1, symbol: "chevron.right", label: "Next verse")
+                }
             }
         }
         .padding(.horizontal, 28)
         .padding(.top, 16)
         .padding(.bottom, 12)
+    }
+
+    /// The script switch again, in the footer the thumb is already at.
+    ///
+    /// The rail keeps the canonical one — this is not a second setting. Both
+    /// write `settings.language`; what made the contents panel's old switcher
+    /// wrong was that it held a *copy* of the language, not that there were two
+    /// ways to reach it. Turning pages and changing script are the two things
+    /// done most while reading, and the second of them was three taps away.
+    ///
+    /// It sits to the right, in the controls layer, rather than beside the
+    /// reference: a button whose own width is fixed is still moved by anything
+    /// it shares a centred row with.
+    private var languageButton: some View {
+        Button {
+            Haptics.selection()
+            settings.language = settings.language.toggled
+            // Switching script is the control most likely to be tapped twice in
+            // a row, so it puts the clock back rather than letting the chrome
+            // fade out from under the second tap.
+            if chromeRevealed { revealChrome() }
+        } label: {
+            Text(settings.language.toggled.icon)
+                // The caption roles, not a pinned size: the glyph then grows
+                // with the reference it is set against, and "अ" comes from the
+                // bundled Devanagari face rather than the system fallback.
+                .font(settings.language.toggled.isDevanagari ? .labelDevanagari : .label)
+                .foregroundStyle(theme.textSecondary)
+                // Fixed box, so "अ" and "A" — different widths at the same
+                // point size — do not resize the control under the finger.
+                .frame(width: 30, height: 24)
+                .background(
+                    RoundedRectangle(cornerRadius: 7, style: .continuous)
+                        .fill(theme.surface)
+                )
+                .overlay(
+                    RoundedRectangle(cornerRadius: 7, style: .continuous)
+                        .strokeBorder(theme.divider, lineWidth: 1)
+                )
+                // The box stays small; the target is the full 44pt the chevrons
+                // beside it already claim, so the footer does not grow a row.
+                .frame(width: 44, height: 44)
+                .contentShape(.rect)
+        }
+        .buttonStyle(.plain)
+        .accessibilityIdentifier("footerLanguageToggle")
+        .accessibilityLabel("Switch to \(settings.language.toggled.accessibilityName)")
+    }
+
+    /// Text size, cycled rather than picked: S → M → L → XL → S.
+    ///
+    /// A one-button cycle is the wrong control for a setting with no obvious
+    /// order, and the right one for a setting that is nothing but an order. It
+    /// mirrors the script switch across the footer — the two things a reader
+    /// adjusts while reading, at the two ends of the row the thumb rests on,
+    /// with the verse reference centred between them.
+    ///
+    /// Settings keeps the full picker; this is a shortcut to the same value,
+    /// not a second copy of it.
+    private var textSizeButton: some View {
+        Button {
+            Haptics.selection()
+            settings.textSize = settings.textSize.next
+            if chromeRevealed { revealChrome() }
+        } label: {
+            Text(settings.textSize.shortName(devanagari: isDevanagari))
+                .font(isDevanagari ? .labelDevanagari : .label)
+                .foregroundStyle(theme.textSecondary)
+                // Wider than the script switch's box: "XL" and "अ+" are two
+                // glyphs where "A" and "अ" are one. Fixed, so the four states
+                // do not resize the control under the finger.
+                .frame(width: 34, height: 24)
+                .background(
+                    RoundedRectangle(cornerRadius: 7, style: .continuous)
+                        .fill(theme.surface)
+                )
+                .overlay(
+                    RoundedRectangle(cornerRadius: 7, style: .continuous)
+                        .strokeBorder(theme.divider, lineWidth: 1)
+                )
+                .frame(width: 44, height: 44)
+                .contentShape(.rect)
+        }
+        .buttonStyle(.plain)
+        // The page is already redrawing at the new size; animating the label
+        // too made the button the noisiest thing in a footer that is meant to
+        // stay out of the way.
+        .animation(nil, value: settings.textSize)
+        .accessibilityIdentifier("textSizeButton")
+        .accessibilityLabel(settings.textSize.accessibilityName)
+        .accessibilityHint("Cycles to \(settings.textSize.next.accessibilityName)")
     }
 
     private var bookmarkButton: some View {

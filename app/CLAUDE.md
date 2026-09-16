@@ -277,10 +277,13 @@ panels that jumped when it did:
   without this every row changes height on a switch and the list slides under the
   reader.
 
-There is exactly **one** language switcher, in the rail. The contents panel used
-to carry a second one with a local copy of the language, which browsing changed
-and closing threw away; two controls for one setting is one too many, and the
-panel is part of the reading surface like everything else.
+There are **two** language switchers — one in the rail, one in the reader's
+footer beside the verse reference — and both write `settings.language` directly.
+A third is fine on the same terms; what is not, and what the contents panel used
+to do, is hold a **local copy** of the language that browsing changed and
+closing threw away. The switch is the setting, never a copy of it. The footer
+one exists because turning pages and changing script are the two things done
+most while reading, and the second was three taps away.
 
 When adding a screen, grep it for a bare string literal before calling it done.
 
